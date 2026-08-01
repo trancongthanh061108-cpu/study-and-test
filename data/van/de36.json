@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Quyền anh",
+      "Quyền lực",
+      "Quyền thế",
+      "Quyền hành"
+    ],
+    "correct": 0,
+    "explanation": "Từ \"quyền anh\" là tên một môn võ thuật/thi đấu đối kháng. Tiếng \"quyền\" trong \"quyền lực\", \"quyền thế\", \"quyền hành\" cùng có nghĩa: Điều mà pháp luật hoặc xã hội công nhận là được làm, được đòi hỏi. Vậy nên \"quyền anh\" là từ có nghĩa khác với các từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Khán đài",
+      "Khán giả",
+      "Khán phòng",
+      "Khán hộ"
+    ],
+    "correct": 3,
+    "explanation": "Tiếng \"khán\" trong các từ khán đài, khán giả, khán phòng đều mang nghĩa là xem. Từ \"Khán hộ\" (tiếng khán mang nghĩa là trông nom) - người trông nom, giúp đỡ bệnh nhân trong các bệnh viện. Vậy nên từ \"khán hộ\" có nghĩa khác các từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Giao thừa",
+      "Giao điểm",
+      "Giao hàng",
+      "Giao cảm"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"giao\" trong \"giao hàng\" có nghĩa là \"đưa cho để nhận lấy và chịu trách nhiệm\"; còn từ \"giao\" trong các từ còn lại có nghĩa là \"gặp nhau, cắt nhau ở một điểm, trên hai hướng khác nhau\". Vậy \"Giao hàng\" là từ khác nhóm.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Lon ton",
+      "Liêu xiêu",
+      "Líu lo",
+      "Đủng đỉnh"
+    ],
+    "correct": 2,
+    "explanation": "Các từ \"lon ton, liêu xiêu, đủng đỉnh\" là từ tượng hình để miêu tả hình ảnh, dáng vẻ của con người. Từ \"líu lo\" là từ tượng thanh để miêu tả âm thanh. => Từ \"líu lo\" không cùng nhóm với các từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Nhặt",
+      "Lượm",
+      "Thu",
+      "Đếm"
+    ],
+    "correct": 3,
+    "explanation": "Các từ \"nhặt, lượm, thu\" đều mang nghĩa thu lại, tập hợp lại. Từ \"đếm\" không mang nghĩa thu, nhặt mà có nghĩa kể lần lượt tên các số, theo trật tự trong dãy số tự nhiên. => Từ \"đếm\" không cùng nhóm với các từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nKhông đẹp trai, cũng chẳng giàu có nhưng anh ấy _____ không mặc cảm _____ rất tự tin.",
+    "options": [
+      "để/ cho",
+      "không chỉ/ mà cả",
+      "không những/ mà còn",
+      "thậm chí/ cũng"
+    ],
+    "correct": 2,
+    "explanation": "Vì trong câu có từ \"nhưng\" nên hai vế trước và sau sẽ có quan hệ tương phản. Vế đầu \"không đẹp trai, chẳng giàu có\" thường khiến người ta tự ti nhưng do quan hệ tương phản nên sẽ không mặc cảm, rất tự tin, cần dùng cụm từ \"không những/mà còn\".",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nThánh Gióng là biểu tượng chứa đựng giá trị tinh thần ______, là ý chí vươn lên mạnh mẽ của dân tộc. Sơn Tinh là biểu tượng thể hiện giá trị tinh thần _____, bảo vệ và mở mang đất nước.",
+    "options": [
+      "yêu nước/ đoàn kết",
+      "tự lực tự cường/ dám nghĩ dám làm",
+      "chống giặc ngoại xâm/ chinh phục thiên nhiên",
+      "chống thù trong giặc ngoài/ hòa hợp với tự nhiên"
+    ],
+    "correct": 2,
+    "explanation": "Thánh Gióng là nhân vật gắn liền với cuộc chiến chống giặc ngoại xâm chứ không phải nội chiến (loại D). Sơn Tinh dời núi ngăn lũ là biểu tượng của tinh thần chinh phục thiên nhiên.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nSự _____ của con người luôn song hành cùng những vấp ngã và sai lầm. _____ hãy chấp nhận điều đó như một lẽ tự nhiên. Khi trẻ học nói, học đi hay bất cứ điều gì, chúng đều phải nếm trải những va vấp.",
+    "options": [
+      "thành công/ Tuy nhiên",
+      "trưởng thành/ Vì thế",
+      "lớn mạnh/ Bởi vì",
+      "tự do/ Do đó"
+    ],
+    "correct": 1,
+    "explanation": "Để song hành cùng vấp ngã và sai lầm chỉ có \"trưởng thành\" là phù hợp cho con người (lớn mạnh không dùng cho người). Nội dung hai vế không tương phản nên không dùng \"tuy nhiên\", cần dùng \"vì thế\".",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nTa muốn có một _____ thì sẽ gặp phải những khó khăn bình thường; ta muốn có cuộc sống tốt đẹp thì sẽ gặp phải những khó khăn lớn hơn. Đây chính là sự _____ của cuộc đời, nếu vượt qua được thì ta sẽ là người chiến thắng.",
+    "options": [
+      "cuộc sống yên bình/ công tâm",
+      "sự nghiệp bình thường/ xứng đáng",
+      "cuộc đời êm đẹp/ thử thách",
+      "cuộc sống bình thường/ công bằng"
+    ],
+    "correct": 3,
+    "explanation": "Hai vế của câu số một sử dụng lặp cấu trúc, ô trống thứ nhất sẽ có kết cấu giống vế câu sau là \"cuộc sống bình thường\" => Đáp án D chính xác.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nTrong sự chuyển mình của Hà Nội, có những cái tưởng được thêm, và thực chất lại là mất đi một cách rất đáng tiếc.",
+    "options": [
+      "rất đáng tiếc",
+      "và",
+      "cái",
+      "chuyển mình"
+    ],
+    "correct": 1,
+    "explanation": "Các vế đứng trước và sau từ \"và\" có nội dung tương phản, đối nhau như \"tưởng được thêm\" và \"thực chất lại là mất đi\". Vậy quan hệ từ \"và\" là không hợp lí, cần sửa thành \"nhưng\".",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nKhai thác bệnh sử là giai đoạn đầu khi người bệnh đến với thầy thuốc; cung cấp các thông tin ban đầu cùng với việc thăm khám lâm sàng và cận lâm sàng sẽ giúp cho người thầy thuốc chuẩn đoán chính xác bệnh, từ đó đưa ra các phương pháp điều trị thích hợp.",
+    "options": [
+      "chuẩn đoán",
+      "khai thác",
+      "phương pháp",
+      "thăm khám"
+    ],
+    "correct": 0,
+    "explanation": "\"Chuẩn đoán\" là từ thường gặp nhưng sai chính tả. Từ đúng là \"chẩn đoán\" (chẩn: xác định, phân biệt dựa trên các dấu hiệu có sẵn; đoán: dựa trên những cái có sẵn để suy ra điều có khả năng xảy ra).",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nNgôn ngữ báo chí là ngôn ngữ thông tin thời sự cập nhật, truyền tụng những tin tức nóng hổi hằng ngày trên mọi lĩnh vực hoạt động của xã hội.",
+    "options": [
+      "lĩnh vực",
+      "thông tin",
+      "báo chí",
+      "truyền tụng"
+    ],
+    "correct": 3,
+    "explanation": "Từ \"truyền tụng\" (truyền miệng cho nhau với lòng ngưỡng mộ) dùng không đúng ngữ cảnh. Cần thay bằng \"truyền tải\" (truyền đi qua phương tiện nào đó).",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nVới tình cảm thương yêu, quý mến, tác giả đã ghi lại một cách xúc động, chân thực hình ảnh người vợ tần tảo, giàu đức hi sinh. \"Thương vợ\" là bài thơ tiêu biểu cho thơ trữ tình của Trần Tế Xương.",
+    "options": [
+      "ghi lại",
+      "trữ tình",
+      "quý mến",
+      "tần tảo"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"quý mến\" (tình cảm yêu quý giữa con người, gần nghĩa yêu thương) chưa bao hàm được hết nội dung, cần thay bằng \"quý trọng\" (kính trọng, tôn trọng và quý mến).",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nPhác đồ thuốc điều trị COVID-19 của Pfizer mang tên Paxlovid được dùng tại nhà dành cho các bệnh nhân xuất hiện các triệu chứng nhẹ đã được Bộ Y tế cho phép sử dụng vào tháng 12/2021 đối với người bệnh từ 12 tuổi trở lên.",
+    "options": [
+      "triệu chứng",
+      "cho phép",
+      "người bệnh",
+      "phác đồ"
+    ],
+    "correct": 1,
+    "explanation": "Từ \"cho phép\" không thể hiện được toàn bộ ý nghĩa liên quan tới đối tượng \"Bộ Y Tế\" nên cần thay bằng \"cấp phép\" để đảm bảo ý nghĩa: sự đồng ý về việc dùng thuốc có cơ sở pháp lý.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nKhi kiếm tìm sự _____, người ta dễ trở nên hà khắc, hay phán xét bản thân và mọi người. _____, trên con đường trưởng thành của mình, mỗi người cần phải học cách chấp nhận người khác và chấp nhận bản thân như vốn có.",
+    "options": [
+      "hoàn hảo/ Bởi vậy",
+      "giàu có/ Tuy nhiên",
+      "tha thứ / Do đó",
+      "đồng cảm/ Bởi vậy"
+    ],
+    "correct": 0,
+    "explanation": "Hai câu mang quan hệ nguyên nhân - kết quả (loại B). Chỉ có thể là đi tìm sự hoàn hảo dễ khiến con người không thỏa mãn với chính mình ở hiện tại nên sinh ra hà khắc.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Đoạn văn số (2) của đoạn trích trên thuộc kiểu đoạn nào?",
+    "options": [
+      "Diễn dịch",
+      "Quy nạp",
+      "Song hành",
+      "Tổng – phân – hợp"
+    ],
+    "correct": 3,
+    "explanation": "Câu mở đoạn nói về việc con người lo lắng sẽ coi máy tính là bạn, câu cuối đoạn khẳng định lại việc con người phải trân trọng những điều con người nhất trong ta => Đây là đoạn tổng - phân - hợp với hai câu chủ đề.",
+    "passage": "passage_ai_zakaria"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Tác giả muốn nói điều gì qua khẳng định \"Vậy nhưng tôi chưa bao giờ nhầm nó là bạn.\"?",
+    "options": [
+      "AI vẫn chỉ là một công cụ vô tri vô giác.",
+      "AI không thể thay thế con người.",
+      "AI không có được những phẩm chất như con người.",
+      "AI được dự tính phát triển để trở thành bạn của con người trong tương lai."
+    ],
+    "correct": 1,
+    "explanation": "AI dù rất giỏi, có thể đồng hành và hỗ trợ con người trong rất nhiều lĩnh vực nhưng nó không bao giờ có thể thay thế con người để trở thành bạn của chính con người.",
+    "passage": "passage_ai_zakaria"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Ý nào sau đây KHÔNG được nói đến trong đoạn trích?",
+    "options": [
+      "Cuộc sống số mang đến những thay đổi đáng sợ cho cuộc sống nhiều người.",
+      "Con người vẫn có nhiều lợi thế trước sự phát triển của AI.",
+      "Vấn đề bảo vệ quyền riêng tư trong cuộc sống số là một câu hỏi không lời giải.",
+      "Khi AI phát triển con người sẽ hoàn toàn phụ thuộc vào chúng."
+    ],
+    "correct": 2,
+    "explanation": "Văn bản nói quyền riêng tư là vấn đề đáng lo ngại nhưng vẫn có thể giải quyết được chứ không phải một câu hỏi không lời giải.",
+    "passage": "passage_ai_zakaria"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Theo đoạn trích, ý nào sau đây KHÔNG nói đến ảnh hưởng của cuộc sống số đối với con người?",
+    "options": [
+      "Số người bị mất việc sẽ tăng lên do một số công việc không còn nữa.",
+      "Chất lượng cuộc sống của con người sẽ tốt hơn.",
+      "Cuộc sống số sẽ ít nhiều đe dọa đến quyền riêng tư của con người.",
+      "Cuộc sống số sẽ làm con người mất đi những phẩm chất người."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án D là thông tin không được nhắc đến trong đoạn trích; ngược lại văn bản khẳng định con người sẽ không đánh mất phẩm chất mà càng được đề cao hơn.",
+    "passage": "passage_ai_zakaria"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: \"Những điều con người nhất trong ta\" được nhắc đến trong đoạn văn được hiểu là gì?",
+    "options": [
+      "Những điều con người làm được mà máy tính không làm được.",
+      "Con người khác biệt hoàn toàn với máy tính.",
+      "Những phẩm chất chỉ có ở con người.",
+      "Những phẩm chất ở con người tốt hơn máy tính."
+    ],
+    "correct": 2,
+    "explanation": "Kết hợp với nghĩa của cụm từ \"con người nhất\" có thể thấy điều này để chỉ những phẩm chất chỉ con người có mà máy tính không thể nào có được, là điểm riêng biệt của con người.",
+    "passage": "passage_ai_zakaria"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Chủ đề chính của đoạn trích trên là gì?",
+    "options": [
+      "Thực trạng ô nhiễm môi trường ở nước ta hiện nay.",
+      "So sánh tầm quan trọng của việc tăng trưởng kinh tế và bảo vệ môi trường.",
+      "Tăng trưởng kinh tế ảnh hưởng đến môi trường sống của con người.",
+      "Giải pháp tăng trưởng nền kinh tế cho nước ta nói riêng và các nước thu nhập thấp nói chung."
+    ],
+    "correct": 2,
+    "explanation": "Văn bản đề cập tới vấn đề ô nhiễm môi trường, đặt trong bối cảnh do sự phát triển kinh tế gây nên. Vậy đáp án C là chính xác.",
+    "passage": "passage_moi_truong"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Trong đoạn văn số 1, tác giả nhắc đến tên các con sông với mục đích gì?",
+    "options": [
+      "Thức tỉnh mọi người về những con sông trong mát ngày xưa, nay đã \"chết\".",
+      "Cảnh báo về tình trạng ô nhiễm nước diện rộng trên đất nước ta.",
+      "Chứng minh vai trò quan trọng của các con sông đối với nền kinh tế của Việt Nam.",
+      "Dẫn chứng việc phát triển kinh tế đang làm ảnh hưởng nghiêm trọng đến môi trường."
+    ],
+    "correct": 3,
+    "explanation": "Tác giả nhắc đến những con sông để làm dẫn chứng cho câu văn trước đó về việc sự \"trong lành\" đang bị hủy hoại nghiêm trọng bởi chất thải công nghiệp, làng nghề.",
+    "passage": "passage_moi_truong"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Theo đoạn trích trên, đâu KHÔNG PHẢI là nguyên nhân hủy hoại bầu không khí trong lành ở nông thôn?",
+    "options": [
+      "Chất thải từ công nghiệp",
+      "Chất thải trong sinh hoạt",
+      "Chất thải của làng nghề",
+      "Chất thải trong nuôi trồng thủy sản"
+    ],
+    "correct": 1,
+    "explanation": "Dựa vào thông tin đoạn 1 chỉ nhắc đến chất thải công nghiệp, làng nghề, nuôi trồng thủy sản. => Chất thải sinh hoạt không được nhắc đến.",
+    "passage": "passage_moi_truong"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Theo đoạn trích trên, điều gì được khuyến cáo khi quan tâm tăng trưởng kinh tế ở các nước nghèo?",
+    "options": [
+      "Phát triển kinh tế, giảm nghèo là việc quan trọng hàng đầu.",
+      "Phải chú ý đến mức tiêu hao nguồn tài nguyên.",
+      "Điều chỉnh tổng sản phẩm sau khi khấu trừ hao hụt tài sản trong quá trình sản xuất.",
+      "Sử dụng chỉ số tổng sản phẩm quốc gia \"thuần\" và \"xanh\"."
+    ],
+    "correct": 3,
+    "explanation": "Căn cứ vào đoạn 3: người ta khuyến cáo sử dụng chỉ số mới mang tên tổng sản phẩm quốc gia \"thuần\" và \"xanh\", chứ không chỉ sử dụng GDP.",
+    "passage": "passage_moi_truong"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Tác giả muốn thể hiện điều gì qua nhận định \"cái vạch dừng xe của cái đường phố không thể mở rộng hơn để tương thích với sự phát triển đó\"?",
+    "options": [
+      "Đường phố không thể mở rộng thêm được nữa.",
+      "Sự phát triển không ngừng lượng phương tiện giao thông ở nước ta.",
+      "Sự phát triển của phương tiện giao thông gây ảnh hưởng tới môi trường.",
+      "Không khí ngày càng ngột ngạt và nghẹt thở vì sự phát triển của sản xuất ô tô."
+    ],
+    "correct": 2,
+    "explanation": "Việc có nhiều ô tô hơn do \"dân giàu\" lên thêm khiến đường phố chật hơn, không khí trở nên ngột ngạt và nghẹt thở hơn - thể hiện sự phát triển của phương tiện giao thông gây ảnh hưởng tới môi trường.",
+    "passage": "passage_moi_truong"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Nàng rằng: Phận gái chữ tòng,\nChàng đi thiếp cũng một lòng xin đi\nTừ rằng: 'Tâm phúc tương tri,\nSao chưa thoát khỏi nữ nhi thường tình?\nBao giờ mười vạn tinh binh,\nTiếng chiêng dậy đất bóng tinh rợp đường.\nLàm cho rõ mặt phi thường,\nBấy giờ ta sẽ rước nàng nghi gia.'\"\n(Nguyễn Du, Trích Truyện Kiều, NXB Trẻ, 2015)\nCụm từ \"tâm phúc tương tri\" có nghĩa là gì?",
+    "options": [
+      "Hiểu rõ lòng dạ nhau một cách sâu sắc.",
+      "Thân thuộc, quen biết nhau đã lâu.",
+      "Chung sống với nhau đã lâu.",
+      "Gần gũi, gắn bó thắm thiết với nhau."
+    ],
+    "correct": 0,
+    "explanation": "\"Tâm phúc tương tri\" tách nghĩa: tâm là lòng; phúc là dạ, tương tri là hiểu nhau, biết rõ lòng nhau => nghĩa là hai người đã hiểu biết lòng dạ nhau, tức là đã hiểu nhau sâu sắc.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích sau và trả lời câu hỏi:\nCuộc đời và thơ văn của Nguyễn Đình Chiểu là của một chiến sĩ hy sinh phấn đấu vì một nghĩa lớn. Thơ văn của Nguyễn Đình Chiểu là thơ văn chiến đấu, đánh thẳng vào giặc ngoại xâm và tôi tớ của chúng:\nHọc theo ngòi bút chí công\nTrong thi cho ngụ tấm lòng Xuân thu!\n[...] Đối với Nguyễn Đình Chiểu, cầm bút, viết văn là một thiên chức. Và Nguyễn Đình Chiểu trong chức trách của mình chừng nào thì càng khinh miệt bọn lợi dụng văn chương để làm việc phi nghĩa chừng nấy:\nThấy nay cũng nhóm văn chương\nVóc dê da cọp khôn lường thực hư!\n(Phạm Văn Đồng, Trích \"Nguyễn Đình Chiểu, ngôi sao sáng trong văn nghệ dân tộc\", tạp chí Văn học, tháng 7/1963)\nLuận điểm chính của đoạn trích trên là gì?",
+    "options": [
+      "Nguyễn Đình Chiểu là một tấm gương sáng cho nghệ thuật văn học.",
+      "Vài nét về thơ văn yêu nước của Nguyễn Đình Chiểu.",
+      "Nguyễn Đình Chiểu là một chiến sĩ biết hi sinh và phấn đấu vì nghĩa lớn.",
+      "Nguyễn Đình Chiểu là một nhà thơ lớn của dân tộc."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích chỉ nói về tác phẩm (thơ chiến đấu, quan điểm giữ gìn đạo đức người viết), không nói về con người ông trong vai trò chiến sĩ hay so sánh với các tác giả khác nên đáp án đúng là B.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Ta nhìn, ta ngắm, ta say\nTa run run nắm những bàn tay\nThương nhớ dồn trong tay ta nóng bỏng\nĐây rồi đoạn đường xưa\nNơi ta vẫn thường đi trong mộng\"\n(Lê Anh Xuân, trích Trở về quê nội, NXB Giải phóng, 1969)\nTừ \"mộng\" (in đậm, gạch chân) trong đoạn trích trên dùng để chỉ:",
+    "options": [
+      "Những giấc mơ hàng ngày của tác giả.",
+      "Mong ước của tác giả trong những ngày xa quê.",
+      "Nỗi nhớ của tác giả về cảnh vật quê hương.",
+      "Niềm vui sướng khi bắt gặp một người quen."
+    ],
+    "correct": 3,
+    "explanation": "Đọc đoạn thơ ta thấy tác giả đang biểu hiện một niềm vui sướng khi được gặp gỡ những người quen \"bắt tay\", \"thương nhớ\", \"đoạn đường xưa\" nên đáp án đúng là D.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích sau và trả lời câu hỏi:\nNgọc trai nguyên chỉ là một hạt cát, một hạt bụi biển xâm lăng vào vỏ trai, lòng trai. Cái bụi bặm khách quan nơi rốn bể lẻn vào cửa trai. Trai xót lòng. Máu trai liền tiết ra một thứ nước dãi bọc lấy cái hạt buốt sắc. Có những cơ thể trai đã chết ngay vì hạt cát từ đầu bên ngoài gieo vào giữa lòng mình (và vì trai chết nên cát bụi kia vẫn chỉ là hạt cát). Nhưng có những cơ thể trai vẫn sống, sống lấy máu lấy dãi mình ra mà bao phủ lấy hạt đau hạt xót. Tới một thời gian nào đó, hạt cát khối tình con, cộng với nước mắt hạch trai, đã trở thành lõi sáng của một hạt ngọc tròn trặn ánh ngời.\n(Nguyễn Tuân, Tờ hoa, Tuyển tập Nguyễn Tuân, NXB Văn học, 1998)\nVăn bản trên thể hiện đặc điểm nổi bật nào trong phong cách nghệ thuật của Nguyễn Tuân?",
+    "options": [
+      "Sự đanh thép, cứng rắn trong cách lập luận.",
+      "Sự sắc sảo có phần ngoa ngoắt trong lối kể chuyện.",
+      "Sự tài hoa, uyên bác cùng vốn từ ngữ phong phú, giàu có.",
+      "Sự nhẹ nhàng, dung dị trong lối hành văn."
+    ],
+    "correct": 2,
+    "explanation": "Tác giả sử dụng hàng loạt biện pháp tu từ, hình ảnh độc đáo, phong phú, đưa kiến thức sinh học vào tác phẩm một cách nghệ thuật, thể hiện sự tài hoa, uyên bác cùng vốn từ vựng phong phú, giàu có.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích sau và trả lời câu hỏi:\nChúng ta cần một xã hội mà trong đó sự phát triển là thực sự vì con người, chứ không phải vì lợi nhuận mà bóc lột và chà đạp lên phẩm giá con người. Chúng ta cần sự phát triển về kinh tế đi đôi với tiến bộ và công bằng xã hội, chứ không phải gia tăng khoảng cách giàu nghèo và bất bình đẳng xã hội. Chúng ta cần một xã hội nhân ái, đoàn kết, tương trợ lẫn nhau, hướng tới các giá trị tiến bộ, nhân văn, chứ không phải cạnh tranh bất công, \"cá lớn nuốt cá bé\" vì lợi ích vị kỷ của một số ít cá nhân và các phe nhóm. Chúng ta cần sự phát triển bền vững, hài hòa với thiên nhiên để bảo đảm môi trường sống trong lành cho các thế hệ hiện tại và tương lai, chứ không phải để khai thác, chiếm đoạt tài nguyên, tiêu dùng vật chất vô hạn độ và hủy hoại môi trường.\n(Nguyễn Phú Trọng, Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam, NXB Chính trị quốc gia Sự thật, 2022)\nPhong cách ngôn ngữ của đoạn trích là gì?",
+    "options": [
+      "Phong cách ngôn ngữ khoa học.",
+      "Phong cách ngôn ngữ chính luận.",
+      "Phong cách ngôn ngữ báo chí.",
+      "Phong cách ngôn ngữ nghệ thuật."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản viết bởi cố Tổng bí thư Nguyễn Phú Trọng về vấn đề chính trị xã hội. Bởi vậy phong cách ngôn ngữ đặc trưng của thể loại văn bản này chính là chính luận.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích sau và trả lời câu hỏi:\nLàm trai phải lạ ở trên đời,\nHá để càn khôn tự chuyển dời.\nTrong khoảng trăm năm cần có tở,\nSau này muôn thuở, hả không ai?\n(Phan Bội Châu, Lưu biệt khi xuất dương, Đặng Thai Mai, Văn thơ Phan Bội Châu, NXB Văn hóa, 1960)\nCâu thơ \"Há để càn khôn tự chuyển dời\" có ý nghĩa gì?",
+    "options": [
+      "Đấng nam nhi sinh ra trong vũ trụ là đối mặt với trời đất (càn khôn), với những gì lớn lao nhất.",
+      "Cuộc sống của các bậc tu mi nam tử là phó mặc cho trời đất, phó mặc cho sự xoay vần của trời đất.",
+      "Đấng nam tử phải là người chủ động thay đổi cả trời đất (càn khôn).",
+      "Ý thức mãnh liệt về cái tôi cá nhân trong cõi nhân gian."
+    ],
+    "correct": 2,
+    "explanation": "Câu thơ thể hiện tư thế, tâm thế đẹp về chí nam nhi, muốn làm nên sự nghiệp to lớn, xoay chuyển trời đất, là lời nhắc nhở đấng nam nhi phải tự chủ động cuộc sống chứ không phải để đất trời sắp xếp.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn trích sau và trả lời câu hỏi:\nNăm bẩy mươi tuổi, cha tôi về hưu với hàm thiếu tướng.\nMặc dầu biết trước, tôi vẫn ngỡ ngàng khi cha tôi về. Mẹ tôi đã lẫn (bà hơn cha tôi sáu tuổi), vì vậy thực ra ở nhà chỉ có mình tôi có những tình cảm đặc biệt với sự kiện này. Mấy đứa con tôi còn bé. Vợ tôi biết ít về ông, vì hai chúng tôi lấy nhau khi mà cha tôi đang bặt tin tức. Bấy giờ đang có chiến tranh. Tuy thế, ở trong gia đình, cha tôi bao giờ cũng là hình ảnh của niềm vinh dự, tự hào. Cả ở trong họ, trong làng, tên tuổi cha tôi cũng được mọi người ngưỡng vọng.\n(Nguyễn Huy Thiệp, trích \"Tướng về hưu\")\nPhần gạch chân trong câu văn: \"Mẹ tôi đã lẫn (bà hơn cha tôi sáu tuổi), vì vậy thực ra ở nhà chỉ có mình tôi có những tình cảm đặc biệt với sự kiện này\" là thành phần biệt lập gì?",
+    "options": [
+      "Tình thái",
+      "Gọi đáp",
+      "Phụ chú",
+      "Cảm thán"
+    ],
+    "correct": 2,
+    "explanation": "Thành phần gạch chân là thành phần phụ chú, dấu hiệu nhận biết là được đặt trong dấu ngoặc đơn để bổ sung ý nghĩa, giới thiệu cụ thể hơn về người mẹ của nhân vật \"tôi\".",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích sau và trả lời câu hỏi:\nTôi đã là con của bạn nhà\nLà em của vạn kiếp phôi pha\nLà anh của vạn đầu em nhỏ\nKhông áo cơm, cù bất cù bơ ...\n(Tố Hữu, trích \"Từ ấy\", Từ ấy – tác phẩm và dư luận, NXB Văn học, 2002)\nNội dung chính của đoạn trích là gì?",
+    "options": [
+      "Tâm hồn tươi trẻ, phong phú của nhà thơ khi được giác ngộ lý tưởng cách mạng.",
+      "Tâm nguyện chân thành của nhà thơ là được gắn bó với quần chúng lao khổ.",
+      "Niềm say mê náo nức của nhà thơ khi bắt gặp lý tưởng của Đảng cộng sản.",
+      "Sự gắn bó mật thiết của nhà thơ với nhân dân - sự chuyển biến lớn trong tình cảm."
+    ],
+    "correct": 3,
+    "explanation": "Từ \"là\" lặp đi lặp lại khẳng định mối quan hệ giữa mình và nhân dân lao động; điệp từ \"vạn\" thể hiện sự hòa đồng với muôn triệu quần chúng nhân dân lao khổ, cho thấy sự gắn bó mật thiết với nhân dân.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích sau và trả lời câu hỏi:\nCó người hỏi:\n- Sao bảo làng Chợ Dầu tinh thần lắm cơ mà?\n- Ấy thế mà bây giờ đổ đốn ra thế đấy!\nÔng Hai trả tiền nước, đứng dậy, chèm. chẹp miệng, cười nhạt một tiếng, vươn vai nói to:\n- Hà, nắng gớm, về nào…\nÔng lão vờ vờ đứng lảng ra chỗ khác, rồi đi thẳng. […]\"\n(Kim Lân, trích \"Làng\", Tạp chí Văn nghệ, 1948)\nCâu văn in đậm trong đoạn trích trên đã vi phạm phương châm hội thoại nào?",
+    "options": [
+      "Phương châm về chất.",
+      "Phương châm về lượng.",
+      "Phương châm cách thức.",
+      "Phương châm quan hệ."
+    ],
+    "correct": 3,
+    "explanation": "Câu nói của ông Hai không hề liên quan đến nội dung các lời thoại khác, hoàn toàn lệch hẳn sang trọng tâm khác (đánh trống lảng) => vi phạm phương châm quan hệ: nói lạc đề.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích sau và trả lời câu hỏi:\nĐó là lí do vì sao chúng ta phải công khai lên tiếng về AIDS. Dè dặt, từ chối đối mặt với sự thật không mấy dễ chịu này, hoặc vội vàng phán xét đồng loại của mình, chúng ta sẽ không đạt được tiến độ hoàn thành các mục tiêu đề ra, thậm chỉ chúng ta còn bị chậm hơn, nếu sự kì thị và phân biệt đối xử vẫn tiếp tục diễn ra đối với những người bị HIV/AIDS. Hãy đừng để một ai có ảo tưởng rằng chúng ta có thể bảo vệ được chính mình bằng cách dựng lên các bức vào ngăn cách giữa \"chúng ta\" và \"họ\". Trong thế giới khốc liệt của AIDS, không có khái niệm chúng ta và họ. Trong thế giới đó, im lặng đồng nghĩa với cái chết.\n(Cô-phi An-nan, Thông điệp nhân ngày thế giới phòng chống AIDS, 1–12–2003)\nPhương thức biểu đạt chính của đoạn trích trên là gì?",
+    "options": [
+      "Tự sự",
+      "Biểu cảm",
+      "Thuyết minh",
+      "Nghị luận"
+    ],
+    "correct": 3,
+    "explanation": "Tác giả dùng quan điểm/hiểu biết của mình để bàn luận về cách mọi người đang đối diện với bệnh AIDS nên đây là phương thức nghị luận.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Từ \"diệu pháp\" (Gạch chân, in đậm) có nghĩa gì?",
+    "options": [
+      "Sự biến hóa khôn lường của việc học.",
+      "Phương pháp kì diệu của việc học.",
+      "Việc học là một phương pháp kì diệu.",
+      "Phương pháp học kì lạ."
+    ],
+    "correct": 1,
+    "explanation": "\"Diệu\" có nghĩa là kì diệu, \"pháp\" có nghĩa là cách thức, phương pháp => \"diệu pháp\" là phương pháp, cách thức kì diệu của việc học.",
+    "passage": "passage_tu_hoc"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Các câu sau có mối liên hệ như thế nào với luận điểm của văn bản?\n\"Cỏ con cừu ăn mà được tiêu, sẽ không còn là cỏ nữa mà là bộ lông mướt đẹp của nó. Dâu con tằm ăn mà được tiêu, sẽ không còn là dâu nữa mà là sợi tơ mịn màng tươi tốt của nó.\"",
+    "options": [
+      "Luận cứ làm rõ luận điểm.",
+      "Lí lẽ chứng minh luận điểm",
+      "Bằng chứng minh hoạ luận điểm.",
+      "Lí lẽ phát triển luận điểm"
+    ],
+    "correct": 2,
+    "explanation": "Hai câu này là những bằng chứng minh hoạ gần gũi, tiêu biểu góp phần làm sáng tỏ luận điểm: học phải thật nhuần nhuyễn, phải biến tri thức học được thành \"tài sản\" có giá trị của mình.",
+    "passage": "passage_tu_hoc"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Nhận định nào dưới đây về việc học KHÔNG ĐÚNG với thông điệp tác giả muốn truyền tải đến bạn đọc?",
+    "options": [
+      "Việc học là dành cho chính mình.",
+      "Việc học cũng cần phải thấm, phải ngấm thì mới hiệu quả.",
+      "Quên đi là phương pháp học tốt nhất.",
+      "Học là làm giàu chính mình bằng kinh nghiệm của người khác."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C không có trong văn bản. Ở đây không phải là chủ động quên mà là học đến mức quên tức là tất cả những thứ mình học đã ngấm sâu vào tiềm thức chứ không phải cứ quên đi thì sẽ học được.",
+    "passage": "passage_tu_hoc"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Tác dụng của việc sử dụng yếu tố miêu tả và tự sự trong văn bản trên là gì?",
+    "options": [
+      "Giúp nhấn mạnh thái độ, quan điểm của người viết.",
+      "Là những bằng chứng thực tế để làm rõ cho luận điểm.",
+      "Là những lập luận để giúp luận điểm chặt chẽ, sâu sắc hơn.",
+      "Giúp luận điểm được được phát triển rộng hơn."
+    ],
+    "correct": 1,
+    "explanation": "Các yếu tố miêu tả và tự sự (đứa trẻ mới sinh, cuộc trò chuyện với cha...) là những bằng chứng thực tế để chứng minh, làm rõ cho luận điểm, giúp nội dung nghị luận sinh động, tăng tính thuyết phục.",
+    "passage": "passage_tu_hoc"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Đoạn văn thứ nhất sử dụng thao tác lập luận nào?",
+    "options": [
+      "Bình luận",
+      "Phân tích",
+      "So sánh",
+      "Chứng minh"
+    ],
+    "correct": 3,
+    "explanation": "Để bàn về mục đích của việc học, tác giả đưa ra các ví dụ, bằng chứng tương tự (đứa trẻ mới sinh lớn lên) để tăng sức hấp dẫn => Đoạn văn thứ nhất sử dụng thao tác chứng minh.",
+    "passage": "passage_tu_hoc"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Xác định nhân vật trữ tình trong bài thơ",
+    "options": [
+      "Chị - một cô gái quá lứa lỡ thì.",
+      "Quan Đốc đồng áo đen, nẹp đỏ.",
+      "Em – một chàng trai tuổi mới lớn.",
+      "Tác giả Hoàng Cầm."
+    ],
+    "correct": 2,
+    "explanation": "Từ \"em\" luôn làm chủ ngữ miêu tả những hành động chủ động làm một điều gì đó => \"Em\" là người bộc lộ cảm xúc trong bài thơ và là nhân vật trữ tình.",
+    "passage": "passage_cay_tam_cuc"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Anh (chị) hiểu \"tướng sĩ\" trong bài thơ là ai?",
+    "options": [
+      "Là nhân vật mà những người bạn cùng chơi đóng giả.",
+      "Là những quân bài tam cúc.",
+      "Là hình ảnh nhân vật Em mơ tưởng.",
+      "Là hình ảnh người đàn ông đã cưới Chị."
+    ],
+    "correct": 1,
+    "explanation": "\"Tam cúc\" là trò chơi bài dân gian có các quân bài tên tướng, sĩ, tượng, pháo, xa, tốt,… Vậy nên tướng sĩ trong bài thơ này chính là những quân bài tam cúc.",
+    "passage": "passage_cay_tam_cuc"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Việc điệp lại hình ảnh thơ: \"xe hồng đưa Chị đến quê Em\" có tác dụng gì?",
+    "options": [
+      "Nhấn mạnh một tình bạn đẹp đẽ, sáng trong.",
+      "Nhấn mạnh sự tâm đầu ý hợp.",
+      "Nhấn mạnh tình yêu mãnh liệt với mong muốn kết đôi của chàng trai mới lớn.",
+      "Nhấn mạnh sự gặp gỡ đầy thú vị, bất ngờ của những người không cùng quê hương."
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh \"xe hồng\" vừa là quân bài trong trò chơi vừa tượng trưng cho xe hoa rước chị về quê em => nhấn mạnh ước mong nên đôi, kết lứa thầm kín mà tha thiết của người trai mới lớn.",
+    "passage": "passage_cay_tam_cuc"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Từ \"xủng xoẻng\" đồng nghĩa với từ nào dưới đây?",
+    "options": [
+      "lẻng xẻng",
+      "loảng xoảng",
+      "loạt soạt",
+      "lao xao"
+    ],
+    "correct": 0,
+    "explanation": "Từ \"xủng xoẻng\" là từ mô phỏng tiếng những vật nhỏ, mỏng bằng kim loại va chạm vào nhau. Trong bốn từ trên có từ \"lẻng xẻng\" có nghĩa tương tự.",
+    "passage": "passage_cay_tam_cuc"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Tại sao tác giả viết: \"Em đừng lớn nữa Chị đừng đi\"?",
+    "options": [
+      "Mong trò chơi tam cúc không kết thúc.",
+      "Mong giữ mãi tuổi thơ trong trẻo được ở bên chị.",
+      "Mong tình yêu đẹp mãi không rời xa.",
+      "Mong mỏi thời gian ngừng trôi để được sống mãi khoảnh khắc đẹp bên Chị."
+    ],
+    "correct": 3,
+    "explanation": "Câu thơ điệp chữ \"đừng\" hai lần giúp người đọc cảm nhận được khát vọng, mong ước thời gian ngưng đọng lại của nhân vật \"Em\".",
+    "passage": "passage_cay_tam_cuc"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Văn bản trên viết về đề tài gì?",
+    "options": [
+      "Người trí thức.",
+      "Người nông dân.",
+      "Người phụ nữ.",
+      "Trẻ em."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản xuất hiện các nhân vật người phụ nữ - người mẹ, những đứa trẻ, đặt trên phông nền làng quê Việt Nam nghèo khó, đói kém. Bởi vậy văn bản viết về đề tài người nông dân.",
+    "passage": "passage_tre_con_khong_duoc_an_thit_cho"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Văn bản trên gợi liên tưởng tới tình cảnh nào của đất nước ta?",
+    "options": [
+      "Nạn đói năm 1945.",
+      "Kháng chiến chống Mỹ.",
+      "Trước cách mạng tháng Tám.",
+      "Kháng chiến chống Pháp (45-54)."
+    ],
+    "correct": 2,
+    "explanation": "Trẻ con không được ăn thịt chó được sáng tác năm 1942, miêu tả cảnh sống khốn cùng của người nông dân trước bi kịch của cái đói => gợi liên tưởng tới tình cảnh dân ta trước cách mạng tháng Tám.",
+    "passage": "passage_tre_con_khong_duoc_an_thit_cho"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Hình ảnh \"Người mẹ xịu ngay mặt xuống.\" đã thể hiện tâm trạng gì của người mẹ?",
+    "options": [
+      "Sự thất vọng",
+      "Sự tức giận",
+      "Sự mệt mỏi",
+      "Sự đau lòng"
+    ],
+    "correct": 0,
+    "explanation": "Vẻ mặt xịu xuống của người mẹ là kết quả của sự chờ đợi, hy vọng người cha sẽ để lại một chút gì đó cho con nhưng không diễn ra như mong đợi => sự thất vọng.",
+    "passage": "passage_tre_con_khong_duoc_an_thit_cho"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Nhân vật ông bố trong đoạn trích là người như thế nào?",
+    "options": [
+      "Tham ăn, không mảy may thương xót vợ con.",
+      "Tham ăn nhưng thương vợ con.",
+      "Nhiệt tình với bạn nhậu và thương con.",
+      "Lạnh lùng, tàn ác đến ghê sợ."
+    ],
+    "correct": 0,
+    "explanation": "Người bố vì cơn thèm ăn của mình mà giết con chó đãi bạn nhưng để vợ con chịu đói, không để lại gì cho vợ con => tham ăn, không quan tâm, thương xót vợ con.",
+    "passage": "passage_tre_con_khong_duoc_an_thit_cho"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Chi tiết \"thị sổ tóc ra cho chúng xúm vào bắt chấy\", hành động đó của người mẹ nhằm mục đích gì?",
+    "options": [
+      "Giúp đàn con quên đi cái đói.",
+      "Giúp thị đỡ ngứa đầu.",
+      "Giúp thằng cu Con có con chầy kềnh để chơi.",
+      "Để gắn kết đàn con lại với nhau."
+    ],
+    "correct": 0,
+    "explanation": "Hành động của thị lúc đó là để đánh lạc hướng đàn con, cho chúng có cái làm để không tập trung vào việc chờ ăn và một phần nào có thể quên đi cơn đói cồn cào.",
+    "passage": "passage_tre_con_khong_duoc_an_thit_cho"
+  }
+]

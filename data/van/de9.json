@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Khuyến mãi",
+      "Khuyến mại",
+      "Khuyến khích",
+      "Khuyến cáo"
+    ],
+    "correct": 3,
+    "explanation": "Các đáp án A, B, C đều có nét nghĩa \"tăng lên\". Riêng từ khuyến cáo lại mang nghĩa đưa ra lời khuyên. Từ không cùng nhóm với các từ còn lại là: khuyến cáo.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Lau chau",
+      "Vội vã",
+      "Hớt hải",
+      "Hấp tấp"
+    ],
+    "correct": 2,
+    "explanation": "Các đáp án A, B, D đều có nét nghĩa \"thiếu cân nhắc, thiếu suy nghĩ\". Riêng từ hớt hải lại mang nghĩa hoảng sợ.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Kết cấu",
+      "Cấu trúc",
+      "Hệ thống",
+      "Mạng lưới"
+    ],
+    "correct": 1,
+    "explanation": "Các đáp án A, C, D đều có nét nghĩa \"là tập hợp các yếu tố có một điểm chung nào đó\". Riêng từ cấu trúc lại chỉ cách tổ chức và sắp xếp.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Bền bỉ",
+      "Vạm vỡ",
+      "Lực lưỡng",
+      "Vậm vạp"
+    ],
+    "correct": 0,
+    "explanation": "Các đáp án B, C, D đều chỉ sự to lớn và khỏe mạnh về hình thể và sức lực. Riêng từ bền bỉ lại chỉ tinh thần chịu đựng của con người.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà từ loại của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Nho gia",
+      "Nho giáo",
+      "Nho học",
+      "Nho nhã"
+    ],
+    "correct": 3,
+    "explanation": "\"Nho gia\", \"Nho giáo\", \"Nho học\" là danh từ. Riêng \"Nho nhã\" là tính từ chỉ dáng vẻ tao nhã của người có học thức.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nChất lượng giấc ngủ ______ dẫn đến nhiều vấn đề ______ về sức khỏe như khiến hệ thống miễn dịch và tim mạch yếu đi hay thậm chí tăng nguy cơ mắc các chứng viêm nhiễm và bệnh mãn tính.",
+    "options": [
+      "suy kiệt / quan trọng",
+      "suy giảm / nghiêm trọng",
+      "suy kiệt / nghiêm trọng",
+      "suy giảm / quan trọng"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn đề cập đến vấn đề sức khoẻ và tập trung vào những hậu quả tai hại nên \"suy giảm\" và \"nghiêm trọng\" là đáp án đúng.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nDù cuộc sống của cô ấy ______, nhưng cô ấy luôn sống lạc quan và ______ trong những điều nhỏ bé nhất.",
+    "options": [
+      "rất suôn sẻ / không tìm thấy niềm vui",
+      "không mấy suôn sẻ / không tìm thấy niềm vui",
+      "không mấy suôn sẻ / tìm thấy niềm vui",
+      "rất suôn sẻ / vui vẻ"
+    ],
+    "correct": 2,
+    "explanation": "Cặp quan hệ từ \"Dù...nhưng\" biểu thị mối quan hệ tương phản nên các cụm từ ở hai vế cần mang nghĩa đối lập; từ/cụm từ cần điền ở vị trí thứ hai phải tương đương với vế trước (sống lạc quan). Đáp án đúng là: không mấy suôn sẻ - và tìm thấy niềm vui.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nNgay từ khi mới ______, Đảng ta đã biết chăm lo xây dựng lực lượng cách mạng, làm cho lực lượng cách mạng đủ mạnh, thu hút được đông đảo Nhân dân tham gia; từ đó làm thay đổi so sánh lực lượng giữa ta và địch, tạo ra những thời cơ ______ để đưa Cách mạng đến thành công.",
+    "options": [
+      "thành lập / chín muồi",
+      "xuất hiện / chín muồi",
+      "thành lập / chín mùi",
+      "xuất hiện / chín mùi"
+    ],
+    "correct": 0,
+    "explanation": "\"Thành lập\" là chính thức lập nên, dựng nên, thường nói về một tổ chức quan trọng, phù hợp hơn \"xuất hiện\". \"Chín muồi\" chỉ sự phát triển nhất của một vấn đề đã chuyển giai đoạn phát triển; \"chín mùi\" không có nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nVăn học Việt Nam ______ có sự phân hóa, phát triển đa dạng về cả ______ và hình thức thể hiện.",
+    "options": [
+      "giai đoạn 1900 – 1945/ thể loại",
+      "giai đoạn 1930 – 1945/thể loại",
+      "giai đoạn 1900 – 1945/nội dung",
+      "giai đoạn 1930 – 1945/nội dung"
+    ],
+    "correct": 3,
+    "explanation": "Sự phân hoá và phát triển đa dạng là đặc trưng quan trọng của văn học Việt Nam giai đoạn 1930-1945. Cụm từ cần điền phải tương đương về từ loại, nghĩa với \"hình thức thể hiện\" nên là \"nội dung\".",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nTrong tác phẩm \"Những ngày thơ ấu\" của Nguyên Hồng, nhân vật bé Hồng nghe ______ về việc mẹ mình đã ______. Tin tức này khiến bé Hồng vô cùng đau khổ và tủi hờn.",
+    "options": [
+      "phong phanh/tái hôn",
+      "phong phanh/kết hôn",
+      "phong thanh/kết hôn",
+      "phong thanh/tái hôn"
+    ],
+    "correct": 3,
+    "explanation": "\"Phong thanh\" nghĩa là loáng thoáng nghe được, chưa được kiểm chứng, phù hợp ngữ cảnh hơn \"phong phanh\". \"Tái hôn\" là kết hôn lại lần thứ hai, phù hợp với hoàn cảnh mẹ bé Hồng đã từng có chồng.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nYêu cầu hoàn thành sát nhập huyện, xã vào cuối năm 2024 được Thủ tướng đưa ra khi phát biểu kết luận phiên họp Chính phủ thường kỳ tháng 8, ngày 7/9.",
+    "options": [
+      "họp Chính phủ thường kỳ",
+      "phát biểu",
+      "sát nhập",
+      "Yêu cầu"
+    ],
+    "correct": 2,
+    "explanation": "Theo từ điển Tiếng Việt, \"sáp nhập\" có nghĩa là \"nhập vào với nhau làm một\" (sát nhập không có nghĩa). Cần sửa thành \"sáp nhập\".",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nPhát triển du lịch gắn với bảo vệ môi trường, bảo vệ các nguồn tài nguyên thiên nhiên là yêu cầu bắt buộc của ngành Du lịch để hướng đến sự phát triển bền vững.",
+    "options": [
+      "phát triển bền vững",
+      "bắt buộc",
+      "các nguồn tài nguyên thiên nhiên",
+      "gắn với"
+    ],
+    "correct": 1,
+    "explanation": "Từ \"bắt buộc\" dùng không hợp lí vì mang tính bị động; câu này mang hàm ý mối quan hệ liên kết chặt chẽ, nhất thiết phải có nên cần thay bằng từ \"tất yếu\".",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nRất khó để một người phụ nữ tham vọng cảm thấy \"đủ\", cảm thấy thật sự yêu bản thân khi nhan nhản xung quanh họ hàng ngày là những bìa tạp chí, những trang web lung linh với những tiêu chuẩn về vẻ đẹp phi thực tế.",
+    "options": [
+      "tham vọng",
+      "Rất khó",
+      "phi thực tế",
+      "lung linh"
+    ],
+    "correct": 0,
+    "explanation": "\"Tham vọng\" với \"yêu bản thân\" không có sự liên kết logic; những người cảm thấy không đủ trước tiêu chuẩn phi thực tế thường là người phụ nữ bình thường. Cần sửa thành \"bình thường\".",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nKhắc họa vẻ đẹp hào hoa của những người lính có xuất thân từ tầng lớp trí thức Hà thành, bài thơ \"Tây Tiến\" của Quang Dũng đã ngợi ca một thế hệ thanh niên với lý tưởng \"Chiến trường đi chẳng tiếc đời xanh\" – họ là những con người đã nguyện dâng hiến máu xương mình cho Tổ quốc.",
+    "options": [
+      "nguyện dâng hiến máu xương mình",
+      "bài thơ \"Tây Tiến\" của Quang Dũng",
+      "tầng lớp trí thức",
+      "vẻ đẹp hào hoa"
+    ],
+    "correct": 1,
+    "explanation": "Bài thơ \"Tây Tiến\" không thể tự ngợi ca được, mà tác giả mới là người ngợi ca (thông qua bài thơ). Cần sửa lại cấu trúc câu cho hợp lý.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nTheo bác sĩ Tâm, nếu tiếp xúc quá mức với ánh sáng mặt trời trong thời gian ngắn sẽ gây bỏng nắng: da bị bỏng, khô, sạm, tạo nếp nhăn, lão hóa nhanh và tổn thương mắt như đục thủy tinh thể.",
+    "options": [
+      "trong thời gian ngắn",
+      "tiếp xúc quá mức",
+      "và tổn thương mắt",
+      "gây bỏng nắng"
+    ],
+    "correct": 2,
+    "explanation": "Quan hệ từ \"và\" chỉ mối quan hệ tương đương, nhưng tổn thương mắt không phải biểu hiện của bỏng nắng mà là một tác hại khác, cần thay bằng \"đồng thời\".",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Các mốc quan trọng trong tiến trình phát triển của vũ trụ.",
+      "Những hạn chế của lý thuyết tương đối rộng cổ điển trong việc giải thích sự bắt đầu của vũ trụ.",
+      "Các quan điểm đối lập của lý thuyết tương đối rộng cổ điển và lý thuyết hấp dẫn lượng tử.",
+      "Các giả thuyết về sự bắt đầu của vũ trụ."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích tập trung vào luận điểm lý thuyết tương đối rộng cổ điển không thể tiên đoán được vũ trụ đã bắt đầu như thế nào, nhấn mạnh những hạn chế và sự cần thiết phải sử dụng lý thuyết hấp dẫn lượng tử.",
+    "passage": "vu_tru_ham_hoc"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Theo đoạn trích, lý thuyết tương đối rộng cổ điển KHÔNG THỂ tiên đoán điều gì về vũ trụ?",
+    "options": [
+      "Sự sụp đổ của lý thuyết tương đối rộng cổ điển.",
+      "Vũ trụ bắt đầu từ trạng thái đồng nhất và trật tự.",
+      "Vũ trụ bắt đầu từ trạng thái không đồng nhất và vô trật tự.",
+      "Vũ trụ bắt đầu như thế nào tại điểm kỳ dị của vụ nổ lớn."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích khẳng định mọi định luật khoa học đã biết đều không đúng tại điểm kỳ dị của vụ nổ lớn, nên lý thuyết này không thể tiên đoán sự bắt đầu của vũ trụ tại điểm đó.",
+    "passage": "vu_tru_ham_hoc"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Cụm từ \"vô trật tự\" trong đoạn trích trên biểu thị điều gì?",
+    "options": [
+      "Sự ảnh hưởng của vũ trụ từ vụ nổ lớn.",
+      "Sự vận động của vũ trụ trong quá trình hình thành.",
+      "Sự thiếu đồng nhất trong vũ trụ.",
+      "Sự tự phá hủy của vũ trụ."
+    ],
+    "correct": 2,
+    "explanation": "Cụm từ \"vô trật tự\" biểu thị sự thiếu đồng nhất trong vũ trụ, cụ thể là trạng thái hỗn loạn, không đồng nhất với các yếu tố vật chất và năng lượng phân bố ngẫu nhiên.",
+    "passage": "vu_tru_ham_hoc"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Thông tin nào dưới đây KHÔNG được nhắc đến trong đoạn trích?",
+    "options": [
+      "Khi vũ trụ bắt đầu từ trạng thái hỗn loạn, vũ trụ sẽ có mũi tên nhiệt động học xác định của thời gian.",
+      "Lý thuyết tương đối rộng cổ điển còn nhiều hạn chế trong việc mô tả vũ trụ.",
+      "Hiệu ứng hấp dẫn lượng tử trở nên quan trọng khi độ cong của không - thời gian trở nên lớn.",
+      "Thuyết hấp dẫn lượng tử được đề xuất để hiểu về sự khởi đầu của vũ trụ."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích đề cập trạng thái vô trật tự thì không tồn tại mũi tên nhiệt động học xác định của thời gian, nên đáp án A xác định ngược lại với văn bản.",
+    "passage": "vu_tru_ham_hoc"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Theo đoạn trích, tại sao lý thuyết tương đối rộng cổ điển không thể tiên đoán vũ trụ đã bắt đầu như thế nào?",
+    "options": [
+      "Vì lý thuyết này không áp dụng được cho các hiệu ứng hấp dẫn lượng tử khi độ cong không-thời gian lớn.",
+      "Vì lý thuyết này chỉ mô tả các hiện tượng ở quy mô nhỏ, không phải vũ trụ học.",
+      "Vì lý thuyết này chỉ có thể mô tả các trạng thái đồng nhất của vũ trụ.",
+      "Vì lý thuyết này không xem xét đến vũ trụ học và các hiện tượng vật lý trong vũ trụ."
+    ],
+    "correct": 0,
+    "explanation": "Khi độ cong của không-thời gian trở nên lớn, lý thuyết tương đối rộng cổ điển không còn áp dụng được vì các hiệu ứng hấp dẫn lượng tử trở nên quan trọng.",
+    "passage": "vu_tru_ham_hoc"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Xác định phong cách ngôn ngữ trong đoạn trích.",
+    "options": [
+      "Nghệ thuật",
+      "Báo chí",
+      "Chính luận",
+      "Khoa học"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích mang tính chất trình bày, lý giải vấn đề, sử dụng luận điểm, lập luận logic, dẫn chứng khách quan, ngôn ngữ chuẩn xác nên sử dụng phong cách ngôn ngữ khoa học.",
+    "passage": "the_loai_phim"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Sự thành công của phim ảnh phụ thuộc vào thị hiếu của khán giả.",
+      "Thể loại phim là yếu tố quan trọng giúp khán giả lựa chọn phim.",
+      "Phân tích các yếu tố tạo nên thành công của một bộ phim.",
+      "Tầm quan trọng của việc nghiên cứu nhu cầu của khán giả đối với các thể loại phim."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản tập trung làm rõ vai trò của thể loại phim trong việc định hình lựa chọn và sự kỳ vọng của khán giả.",
+    "passage": "the_loai_phim"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Thông tin nào dưới đây KHÔNG được đề cập trong đoạn trích?",
+    "options": [
+      "Thể loại phim giúp khán giả định hình được nội dung phim.",
+      "Các nhà sản xuất phim dựa vào nhu cầu của khán giả để phát triển thể loại phim.",
+      "Sự thành công của phim phụ thuộc vào khả năng thấu hiểu của khán giả.",
+      "Các bộ phim thuộc thể loại mới sẽ có tính sáng tạo cao hơn."
+    ],
+    "correct": 3,
+    "explanation": "Thông tin về tính sáng tạo cao hơn của thể loại mới không xuất hiện trong đoạn trích.",
+    "passage": "the_loai_phim"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Vì sao thể loại phim có tính chất quen thuộc lại thu hút khán giả?",
+    "options": [
+      "Vì khán giả biết trước mình sẽ được xem gì và đáp ứng đúng kỳ vọng của họ.",
+      "Vì phim có tính công thức, dễ dàng giải quyết các vấn đề xã hội.",
+      "Vì phim theo thể loại này luôn có chất lượng cao và nội dung hấp dẫn.",
+      "Vì thị trường phim luôn hướng đến những thể loại quen thuộc."
+    ],
+    "correct": 0,
+    "explanation": "Khán giả bị thu hút bởi sự quen thuộc của thể loại vì họ biết trước nội dung mình sẽ được xem và cảm thấy yên tâm rằng bộ phim sẽ đáp ứng kỳ vọng của họ.",
+    "passage": "the_loai_phim"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Điều nào sau đây không phải là yếu tố quyết định sự thành công của một bộ phim thuộc thể loại quen thuộc?",
+    "options": [
+      "Sự thấu hiểu nhu cầu của khán giả.",
+      "Các yếu tố công thức để khán giả dễ dự đoán nội dung.",
+      "Tính sáng tạo vượt trội và đổi mới nội dung.",
+      "Cách sử dụng hiệu quả các quy ước của thể loại."
+    ],
+    "correct": 2,
+    "explanation": "\"Tính sáng tạo vượt trội\" không phù hợp với nội dung văn bản khi nhấn mạnh sự quen thuộc và công thức của thể loại phim.",
+    "passage": "the_loai_phim"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Xác định điểm nhìn trần thuật được sử dụng trong đoạn trích.",
+    "options": [
+      "Điểm nhìn trần thuật theo ngôi thứ ba toàn tri.",
+      "Điểm nhìn trần thuật theo ngôi thứ ba hạn tri.",
+      "Điểm nhìn trần thuật theo ngôi thứ nhất toàn tri.",
+      "Điểm nhìn trần thuật theo ngôi thứ nhất hạn tri."
+    ],
+    "correct": 0,
+    "explanation": "Người kể chuyện nắm rõ và diễn tả suy nghĩ, cảm xúc của cả ông bố và bà thông gia, đưa ra nhận xét đánh giá, sử dụng điểm nhìn toàn tri là chủ yếu.",
+    "passage": "mot_dam_cuoi"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Nội dung chính của đoạn văn trên là gì?",
+    "options": [
+      "Những lợi ích của việc bảo vệ bản quyền trong các ngành công nghiệp văn hóa.",
+      "Thực trạng xâm phạm bản quyền trong lĩnh vực công nghiệp văn hoá ở Việt Nam hiện nay.",
+      "Tình trạng xâm phạm bản quyền trong các lĩnh vực của công nghiệp văn hóa và những tác động tiêu cực của nó.",
+      "Sự phát triển mạnh mẽ của các ngành công nghiệp văn hóa ở Việt Nam trong thời gian qua."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn văn nhấn mạnh tình trạng xâm phạm bản quyền trong nhiều lĩnh vực của công nghiệp văn hóa và những tác động tiêu cực của việc này đối với sự phát triển của CNVH.",
+    "passage": "cnvh_ban_quyen"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Hình tượng \"ngọn lửa\" trong đoạn (2) có ý nghĩa gì?",
+    "options": [
+      "Biểu tượng của tinh thần lao động và khát vọng vươn lên.",
+      "Biểu tượng cho nguồn sáng ấm áp giúp con người vượt qua khó khăn.",
+      "Biểu tượng cho sức sống mãnh liệt, niềm tin, ý chí và tinh thần trách nhiệm.",
+      "Là hình ảnh phản chiếu vào sự vươn lên từ nghèo khó của những người lao động."
+    ],
+    "correct": 2,
+    "explanation": "Ngọn lửa được miêu tả là \"lửa của yêu thương, lửa niềm tin, căm giận\", thể hiện sự kết hợp giữa sức sống mãnh liệt, niềm tin và ý chí kiên cường cùng tinh thần trách nhiệm.",
+    "passage": "giu_lua"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Ý nghĩa của biện pháp nghệ thuật so sánh trong câu văn \"Đề Thám sụt sùi như một người thường: một anh bán bánh đa mật ở chợ Kế, một viên công chức quèn, một chàng thợ bạc vụng về, một ông giáo nghèo…\" là gì?",
+    "options": [
+      "Làm nổi bật bản chất yếu đuối, đau khổ của Đề Thám khi đối diện với tình cảnh éo le và sự bất lực trước những khó khăn của cuộc đời.",
+      "Khắc họa hình ảnh Đề Thám như một người anh hùng kiên cường, không bị ảnh hưởng bởi cảm xúc cá nhân.",
+      "Mô tả cuộc sống của những người bình thường trong xã hội, thể hiện sự bất mãn với cuộc sống.",
+      "Tạo ra sự tương phản giữa hình ảnh anh hùng và người bình thường để thấy được những góc khuất trong nội tâm nhân vật."
+    ],
+    "correct": 3,
+    "explanation": "Biện pháp so sánh làm nổi bật sự mâu thuẫn trong tâm hồn Đề Thám, giữa một người anh hùng trong mắt người khác và một con người yếu đuối, đầy cảm xúc trong thực tế.",
+    "passage": "mua_nha_nam"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Từ \"lưng lửng\" (gạch chân, in đậm) trong đoạn thơ trên được hiểu là gì?",
+    "options": [
+      "Khoảng giữa, không ở trên cao cũng không ở dưới thấp.",
+      "Ở mức nửa chừng, chứ không đủ, không trọn.",
+      "Không xong xuôi, không trọn vẹn.",
+      "Vẫn còn tiếp diễn, chưa kết thúc."
+    ],
+    "correct": 1,
+    "explanation": "\"Lưng lửng\" hàm ý nắng chiều đang ở mức nửa chừng, không chói chang như buổi trưa, cũng chưa tắt hẳn như lúc hoàng hôn, gợi sự không trọn vẹn, không đủ.",
+    "passage": "duong_rung_chieu"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Xác định phong cách ngôn ngữ được sử dụng trong đoạn trích.",
+    "options": [
+      "Khoa học",
+      "Báo chí",
+      "Nghệ thuật",
+      "Sinh hoạt"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích sử dụng phong cách ngôn ngữ báo chí với các đặc điểm ngắn gọn, rõ ràng, thông tin chính xác khách quan, có số liệu cụ thể, ngôn ngữ dễ tiếp cận.",
+    "passage": "tac_dong_ai"
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đoạn trích nhấn mạnh huấn luyện viên Kim Sang-sik cần làm gì để giúp tuyển Việt Nam đạt mục tiêu vào chung kết?",
+    "options": [
+      "Xây dựng lối đá có bài bản nhưng hiệu quả.",
+      "Đưa ra chiến thuật tấn công mạnh mẽ.",
+      "Tập trung vào việc cải thiện thể lực cho cầu thủ.",
+      "Phát triển các cầu thủ trẻ để thay thế đội hình cũ."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích có đề cập huấn luyện viên Kim Sang-sik cần xây dựng cho tuyển Việt Nam lối đá có bài bản nhưng hiệu quả.",
+    "passage": "aff_cup_2024"
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Phương thức biểu đạt chính được sử dụng trong đoạn trích là gì?",
+    "options": [
+      "Biểu cảm",
+      "Miêu tả",
+      "Tự sự",
+      "Nghị luận"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích thể hiện cảm xúc, tâm trạng của tác giả về những kỷ niệm, những ước ao và nỗi niềm sâu lắng của tuổi trẻ, nên phương thức biểu đạt chính là biểu cảm.",
+    "passage": "nhung_cau_chuyen_doi_muoi"
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Trong đoạn trích, việc tác giả so sánh giữa cuộc sống hiện tại và quá khứ nhằm thể hiện đặc điểm nào của thể loại tùy bút?",
+    "options": [
+      "Phân tích thực trạng đời sống hiện đại dưới góc độ khoa học.",
+      "Khai thác những sự kiện lịch sử một cách chi tiết và khách quan.",
+      "Kể lại những câu chuyện có tính giáo dục và răn dạy sâu sắc.",
+      "Bộc lộ suy nghĩ, cảm xúc chủ quan và cái nhìn cá nhân về cuộc sống."
+    ],
+    "correct": 3,
+    "explanation": "Thể loại tùy bút đặc trưng bởi việc bộc lộ cảm xúc và suy tư của tác giả; tác giả so sánh cuộc sống nhàn nhã trước đây với cuộc sống hiện đại để bộc lộ nỗi tiếc nuối và hoài niệm.",
+    "passage": "thuong_nho_muoi_hai"
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Hiện tượng phá vỡ quy tắc ngôn ngữ thông thường nào được sử dụng trong dòng thơ \"ngoài khung cửa trời xanh màu quá khứ\"?",
+    "options": [
+      "Sử dụng hình thức đảo ngữ.",
+      "Tạo kết hợp từ trái logic.",
+      "Tỉnh lược thành phần chính của câu.",
+      "Bổ sung chức năng mới cho dấu câu."
+    ],
+    "correct": 1,
+    "explanation": "Cụm từ \"trời xanh màu quá khứ\" kết hợp hai khái niệm trái ngược nhau, tạo nên sự kết hợp từ trái logic khi dùng \"quá khứ\" như một màu sắc.",
+    "passage": "co_the_mot_sang_nao_ngu_day"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Các yếu tố cần thiết để phát triển các loại hình văn hóa truyền thống.",
+      "Thực trạng và giải pháp bảo tồn, phát huy giá trị di sản văn hóa dân tộc.",
+      "Giới trẻ không quan tâm đến giá trị di sản văn hóa.",
+      "Các nguy cơ làm mai một di sản văn hóa phi vật thể."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản tập trung phân tích thực trạng không gian dành cho văn hóa truyền thống bị thu hẹp và đưa ra giải pháp bảo tồn, phát huy giá trị di sản văn hóa.",
+    "passage": "duy_tri_suc_song_disan"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo đoạn trích, vai trò quan trọng nhất trong việc bảo vệ di sản văn hóa thuộc về ai?",
+    "options": [
+      "Cơ quan báo chí, truyền thông.",
+      "Chính quyền địa phương.",
+      "Các nghệ nhân và chủ thể di sản.",
+      "Cán bộ quản lý văn hóa."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích khẳng định không ai có thể giữ gìn di sản văn hoá tốt hơn, hiệu quả hơn chính chủ nhân của các loại hình di sản văn hoá ấy, tức là các nghệ nhân và chủ thể di sản.",
+    "passage": "duy_tri_suc_song_disan"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Theo đoạn trích, lý do nào khiến giới trẻ ít quan tâm đến nghệ thuật dân tộc?",
+    "options": [
+      "Thiếu cơ hội tiếp cận nghệ thuật dân tộc.",
+      "Văn hóa truyền thống thiếu sự đổi mới và sáng tạo.",
+      "Nghệ thuật dân tộc không phù hợp với đời sống hiện đại.",
+      "Nghệ thuật dân tộc không được giáo dục trong nhà trường."
+    ],
+    "correct": 0,
+    "explanation": "Việc hạn chế không gian cho các loại hình văn hóa truyền thống đã khiến giới trẻ thiếu cơ hội tiếp cận với nghệ thuật dân tộc.",
+    "passage": "duy_tri_suc_song_disan"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Đáp án nào dưới đây KHÔNG được nhắc đến trong đoạn trích?",
+    "options": [
+      "Tầm quan trọng của giáo dục thẩm mỹ trong việc bảo vệ di sản văn hoá.",
+      "Những hạn chế trong nhận thức về quản lý di sản.",
+      "Vai trò của truyền thông trong việc giữ gìn di sản văn hoá.",
+      "Ý nghĩa của việc tổ chức các buổi triển lãm về di sản văn hoá trên toàn quốc."
+    ],
+    "correct": 3,
+    "explanation": "Việc tổ chức các buổi triển lãm về di sản văn hoá trên toàn quốc không được nhắc đến trong đoạn trích.",
+    "passage": "duy_tri_suc_song_disan"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Theo đoạn trích, đối tượng nào cần được nâng cao nhận thức trong việc phát triển di sản văn hoá?",
+    "options": [
+      "Cán bộ quản lý di sản văn hóa.",
+      "Giới trẻ trong cộng đồng.",
+      "Các nghệ nhân trong làng nghề.",
+      "Các nhà khoa học chuyên ngành văn hóa."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích nêu rõ trước hết cần nâng cao hiệu quả quản lý và nhận thức của cán bộ quản lý đối với các DSVH.",
+    "passage": "duy_tri_suc_song_disan"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Phong cách ngôn ngữ của bài thơ là gì?",
+    "options": [
+      "Chính luận",
+      "Nghệ thuật",
+      "Sinh hoạt",
+      "Báo chí"
+    ],
+    "correct": 1,
+    "explanation": "Bài thơ sử dụng nhiều hình ảnh giàu tính gợi cảm, ngôn ngữ tạo cảm xúc, là đặc trưng tiêu biểu của phong cách ngôn ngữ nghệ thuật.",
+    "passage": "dem_bien_gioi"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Hình ảnh nào trong bài thơ thể hiện nỗi nhớ nhà của người lính?",
+    "options": [
+      "\"Tán rừng lấp loáng đêm/ Có tiếng thú lẻ bầy gọi bạn\"",
+      "\"Những quả đồi chơ vơ uốn mình theo dốc\"",
+      "\"Con suối cắt ngang/ Một nỗi nhớ nhà\"",
+      "\"Chàng lính trẻ ôm đàn hát về quê mẹ…\""
+    ],
+    "correct": 2,
+    "explanation": "\"Con suối cắt ngang\" mang ý nghĩa biểu tượng: dòng suối là khoảng cách chia cách người lính với gia đình, quê hương, làm nỗi nhớ nhà trở nên rõ nét.",
+    "passage": "dem_bien_gioi"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Hình ảnh \"đêm giấu mảnh trăng câu liêm\" gợi lên điều gì?",
+    "options": [
+      "Sự mờ ảo, huyền bí của cảnh rừng biên cương.",
+      "Tình cảm nhớ nhà, nhớ quê hương của người lính.",
+      "Cảm giác cô đơn, trống vắng trong lòng người lính.",
+      "Sự nghiêm ngặt và thầm lặng trong nhiệm vụ tuần tra."
+    ],
+    "correct": 0,
+    "explanation": "Hình ảnh \"mảnh trăng câu liêm\" kết hợp với từ láy \"giấu\" mang đến cảm giác không gian trở nên mờ ảo, đầy bí ẩn.",
+    "passage": "dem_bien_gioi"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Hệ thống từ láy trong bài thơ có tác dụng gì trong việc thể hiện cảm xúc và không gian?",
+    "options": [
+      "Tăng nhạc tính cho bài thơ, làm rõ tâm trạng của người lính.",
+      "Khắc họa sự chuyển động của thiên nhiên và nhấn mạnh nỗi nhớ quê hương.",
+      "Tạo hình ảnh cụ thể, rõ nét, giúp bài thơ dễ hình dung hơn.",
+      "Làm cho bài thơ trở nên nhẹ nhàng, sâu lắng và giàu cảm xúc hơn."
+    ],
+    "correct": 1,
+    "explanation": "Các từ láy làm nổi bật sự chuyển động mờ ảo của thiên nhiên trong đêm tối, đồng thời gợi lên tâm trạng bâng khuâng, nhớ nhung của người lính xa quê.",
+    "passage": "dem_bien_gioi"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Cụm từ \"Bóng tối gặm dần đêm\" trong bài thơ có ý nghĩa gì?",
+    "options": [
+      "Miêu tả sự tĩnh lặng và cô đơn của không gian đêm.",
+      "Khắc họa sự dịch chuyển của thời gian trong đêm tối.",
+      "Gợi lên nỗi nhớ nhà của người lính trong lúc tuần tra.",
+      "Thể hiện nỗi sợ hãi của con người trong bóng tối."
+    ],
+    "correct": 1,
+    "explanation": "Cụm từ là hình ảnh nhân hoá sáng tạo, gợi tả thời gian trôi qua trong màn đêm, \"gặm dần\" gợi cảm giác bóng tối đang lan tỏa.",
+    "passage": "dem_bien_gioi"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đoạn trích trên được kể theo ngôi kể nào?",
+    "options": [
+      "Ngôi thứ nhất",
+      "Ngôi thứ hai",
+      "Ngôi thứ ba toàn tri",
+      "Ngôi thứ ba hạn tri"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích sử dụng ngôi kể thứ nhất, được nhận ra qua đại từ nhân xưng \"tôi\" (người trực tiếp tham gia trong câu chuyện).",
+    "passage": "buc_tranh"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Cảm giác xấu hổ của nhân vật \"tôi\" xuất phát từ đâu?",
+    "options": [
+      "Vì đã không giữ lời hứa với người chiến sĩ.",
+      "Vì đã quên mất người chiến sĩ khi gặp lại.",
+      "Vì đã vô tình gặp lại anh chiến sĩ.",
+      "Vì đã không quay lại chiến trường thăm đồng đội."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích nhấn mạnh sự xấu hổ vì không thực hiện lời hứa đưa \"tấm ảnh\" đến cho gia đình anh chiến sĩ.",
+    "passage": "buc_tranh"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Tác dụng của biện pháp nhân hóa trong câu văn \"Cái vật vô tri lại thủ thỉ nói chuyện với anh, khiển trách anh, lên án anh.\" là gì?",
+    "options": [
+      "Nhấn mạnh vai trò của đồ vật trong cuộc sống.",
+      "Thể hiện sự ám ảnh của ký ức với nhân vật chính.",
+      "Tạo nên hình ảnh sinh động cho ký ức.",
+      "Tô đậm sự trân trọng với những kỷ vật."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh nhân hóa thể hiện sâu sắc nỗi ám ảnh của nhân vật chính khi đối mặt với ký ức về lỗi lầm của mình, thể hiện sự dằn vặt nội tâm không thể trốn tránh.",
+    "passage": "buc_tranh"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Trạng thái của nhân vật kể chuyện khi hồi tưởng về lời hứa là gì?",
+    "options": [
+      "Xúc động sâu sắc.",
+      "Bình thản vì đã chấp nhận thực tế.",
+      "Hối hận và dằn vặt.",
+      "Tự hào vì những ký ức đẹp."
+    ],
+    "correct": 2,
+    "explanation": "Nhân vật \"tôi\" liên tục nhắc lại những hành động đã hứa nhưng không thực hiện được, cảm giác tội lỗi thể hiện rõ qua các hình ảnh nhân hóa, bao trùm là trạng thái hối hận, dằn vặt.",
+    "passage": "buc_tranh"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Thông điệp chính mà đoạn trích muốn truyền tải là gì?",
+    "options": [
+      "Sự dằn vặt vì lỗi lầm giúp con người trân trọng hiện tại.",
+      "Ký ức chiến tranh luôn là vết thương khó lành.",
+      "Cuộc sống hiện đại dễ khiến con người quên đi giá trị quá khứ.",
+      "Hãy luôn giữ lời hứa dù trong bất kỳ hoàn cảnh nào."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích xoay quanh sự thất hứa của nhân vật \"tôi\" với người chiến sĩ và sự tự vấn lương tâm sâu sắc, nhắc nhở người đọc về tầm quan trọng của việc trân trọng và thực hiện lời hứa.",
+    "passage": "buc_tranh"
+  }
+]

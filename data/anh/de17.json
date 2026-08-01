@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: You'd better go to bed early, ______?",
+    "options": [
+      "wouldn't you",
+      "didn't you",
+      "hadn't you",
+      "may you"
+    ],
+    "correct": 2,
+    "explanation": "Câu với mệnh đề trước dấu phẩy có cấu trúc had better + V thì thành lập hỏi đuôi sẽ dùng hadn't + S. Tạm dịch: “Tốt hơn hết bạn nên đi ngủ sớm, phải không?”",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: To calm his angry girlfriend, John offered an apology ______ Jane did not accept.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "when"
+    ],
+    "correct": 0,
+    "explanation": "Căn cứ vào “an apology” (danh từ chỉ vật), xác định chỗ trống cần điền đại từ quan hệ thay thế cho từ chỉ vật → which. Tạm dịch: Để xoa dịu cơn giận dữ của bạn gái, John đưa ra lời xin lỗi mà Jane không chấp nhận.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: Life in my new town is quite different from the ______ pace of Ha Noi with ______ streets and ______ jams.",
+    "options": [
+      "fast/crowded/congestion",
+      "rapid/twinkling/traffic",
+      "urgent/bustling/traffic",
+      "hectic/bustling/traffic"
+    ],
+    "correct": 3,
+    "explanation": "Hectic pace: nhịp sống bận rộn; Bustling streets: những con phố tấp nập; Traffic jams: ách tắc giao thông. Tạm dịch: Cuộc sống ở thị trấn mới của tôi khác hẳn với nhịp sống nhộn nhịp của Hà Nội với những con đường đông đúc và kẹt xe.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: He saw them watching him and bared his ________ in the manner of an angry dog.",
+    "options": [
+      "mouth",
+      "tooth",
+      "teeth",
+      "nose"
+    ],
+    "correct": 2,
+    "explanation": "Cụm từ bare one's teeth: nhe răng (lúc giận dữ). Tạm dịch: Anh ta thấy họ đang xem mình và nhe răng như một chú chó đang giận dữ.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: He was the only person to ________ there at the time.",
+    "options": [
+      "have been living",
+      "live",
+      "have lived",
+      "living"
+    ],
+    "correct": 1,
+    "explanation": "Ta dùng to V khi danh từ đứng trước có các từ bổ nghĩa như only, last, first, second,... Tạm dịch: Anh ấy là người duy nhất sống ở đó vào thời điểm đó.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: If you are not busy ______ the moment, can we go over the minutes ______ yesterday's meeting?",
+    "options": [
+      "in – after",
+      "at – from",
+      "on – in",
+      "for – at"
+    ],
+    "correct": 1,
+    "explanation": "at the moment: bây giờ; from: từ. Tạm dịch: Nếu bạn không bận bây giờ, chúng ta có thể xem qua biên bản cuộc họp ngày hôm qua được không?",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: I spent two hours ______ my heels in the waiting room while the CFO was busy in a meeting.",
+    "options": [
+      "cooling",
+      "doing",
+      "making",
+      "warming"
+    ],
+    "correct": 0,
+    "explanation": "Cool one's heels: đứng chờ mỏi chân. Tạm dịch: Tôi đã dành hai giờ chờ mỏi chân trong phòng chờ trong khi CFO đang bận họp.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: There is just too much work to be done. We'll have to ______ some new employees.",
+    "options": [
+      "get on",
+      "take on",
+      "take off",
+      "get off"
+    ],
+    "correct": 1,
+    "explanation": "take on: tuyển nhân viên. Tạm dịch: Cũng có nhiều việc phải làm. Chúng ta phải tuyển thêm một vài nhân viên mới.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: He wanted to know whose car I had borrowed ______.",
+    "options": [
+      "the last evening",
+      "last night",
+      "yesterday evening",
+      "the previous night"
+    ],
+    "correct": 3,
+    "explanation": "Khi chuyển từ câu trực tiếp sang gián tiếp: last night → the previous night. Tạm dịch: Anh ấy muốn biết tối hôm trước tôi mượn xe của ai.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: I have been ________ all day trying to get this work finished.",
+    "options": [
+      "slaving away",
+      "lying about",
+      "consisting in",
+      "blowing up"
+    ],
+    "correct": 0,
+    "explanation": "slave away: làm việc quần quật. Tạm dịch: Tôi đã làm việc quần quật cả ngày để cố gắng hoàn thành công việc này.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: Jo's has been slogging ________ at her revision all morning. Why don't you take her a cup of coffee?",
+    "options": [
+      "away",
+      "out",
+      "for",
+      "from"
+    ],
+    "correct": 0,
+    "explanation": "slog away: làm việc vất vả trong một thời gian dài. Tạm dịch: Jo đã làm việc vất vả cả buổi sáng. Tại sao bạn không mang cho cô ấy một tách cà phê?",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: Martin Luther King, influenced by Mahatma Gandhi, made many adversaries in his nonviolent quest for equality. (CLOSEST)",
+    "options": [
+      "advances",
+      "improvements",
+      "atrocities",
+      "foes"
+    ],
+    "correct": 3,
+    "explanation": "adversary (n): kẻ địch, đối thủ = foe (n): kẻ thù, đối thủ. Tạm dịch: Martin Luther King, chịu ảnh hưởng của Mahatma Gandhi, đã gây hấn nhiều đối thủ trong cuộc tìm kiếm bình đẳng bất bạo động của mình.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: It was a very hot summer, sales of bottles of water went ______ the roof.",
+    "options": [
+      "to",
+      "through",
+      "above",
+      "over"
+    ],
+    "correct": 1,
+    "explanation": "Go through the roof: tăng lên rất cao. Tạm dịch: Đó là một mùa hè rất nóng, doanh số bán nước uống đã tăng lên rất cao.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: You can buy souvenirs from the street ______ and have lunch at one of the ______ cafes in the area.",
+    "options": [
+      "beggars/trendy",
+      "vendors/trend",
+      "beggars/pavement",
+      "vendors/pavement"
+    ],
+    "correct": 3,
+    "explanation": "Street vendor: người bán hàng rong; Pavement café: quán cà phê vỉa hè. Tạm dịch: Bạn có thể mua quà lưu niệm từ những người bán hàng rong và ăn trưa tại một trong những quán cà phê vỉa hè trong khu vực.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: John: “I want to buy a dress for Daisy for her birthday. Who should I get advice from?” Terry: “You should ask Jane. She ______.”",
+    "options": [
+      "has an eye for clothes.",
+      "knows what to do with dresses.",
+      "knows her way.",
+      "gives some good judgements."
+    ],
+    "correct": 0,
+    "explanation": "has an eye for clothes: có mắt thẩm mỹ về thời trang. Căn cứ vào ngữ cảnh chọn đáp án này.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: “How have you been recently?” - “______.”",
+    "options": [
+      "It’s too late now",
+      "Pretty busy, I think",
+      "By bus, I think",
+      "No, I’ll not be busy"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi về tình trạng gần đây. Đáp án phù hợp nhất là “Pretty busy, I think”.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Sam: “Would you like another coffee?” William: “______.”",
+    "options": [
+      "I'd love one",
+      "Willingly",
+      "Very kind of your part",
+      "It's a pleasure"
+    ],
+    "correct": 0,
+    "explanation": "Khi được mời cà phê, đáp án lịch sự và tự nhiên nhất là “I'd love one”.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Ash: \"I'm thinking of going to the Hotdog Festival.\" Ben: \"______.”",
+    "options": [
+      "Yeah, once a year, only in summer.",
+      "You must be kidding. It's 120 dollars a day.",
+      "Not that expensive. I can afford tickets for all of us.",
+      "What on Earth is that."
+    ],
+    "correct": 3,
+    "explanation": "Ben tỏ ra không biết lễ hội Hotdog là gì → “What on Earth is that.”",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Dialogue arrangement: a. Do you believe if I say it is just one dollar? b. You're right. I feel quite curious now. c. How delicious! Is it expensive? d. Take a bite. e. I guess you have never tried this food before.",
+    "options": [
+      "e-b-d-c-a",
+      "e-b-c-a-d",
+      "a-c-b-e-d",
+      "a-c-e-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: e (đoán chưa thử) → b (tò mò) → d (mời thử) → c (ngon, hỏi giá) → a (chỉ 1 đô).",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Dialogue arrangement: a. I must have somehow missed that update. b. Is the monthly meeting still on this Tuesday? c. I'm sorry. I forgot that. d. No. It was rescheduled. e. I didn't attend that meeting. f. We discussed that at the meeting on Monday.",
+    "options": [
+      "a-f-b-d-e-c",
+      "a-f-d-b-e-c",
+      "b-d-a-f-e-c",
+      "b-d-f-a-e-c"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự: b (hỏi lịch họp) → d (đã đổi) → a (bỏ lỡ cập nhật) → f (thảo luận hôm thứ Hai) → e (không tham dự) → c (xin lỗi).",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Dialogue arrangement: a. I get your worry about nature, but we must finish this project on schedule. b. I don't like how this project will hurt local animals. c. I see what you mean, but we need to find a balance measure between protecting nature and finishing the project. d. It's important to build things in a way that doesn't harm the environment, and this project fits that idea. e. I feel like we're hurting nature to make progress. f. I'm thankful for your thoughts. We'll consider your suggestions and explore alternative options.",
+    "options": [
+      "b-a-e-d-c-f",
+      "e-b-a-d-c-f",
+      "b-e-a-d-f-c",
+      "e-b-d-a-c-f"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự: b (lo về động vật) → a (hiểu nhưng phải đúng hạn) → e (lo về thiên nhiên) → d (dự án không hại môi trường) → c (cần cân bằng) → f (cảm ơn và xem xét).",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Dialogue arrangement: a. Is it Heaven Café? b. I agree. See you there this Saturday afternoon. c. Let's meet for a coffee this weekend. d. That's right. Their Bạc Sĩu is excellent. e. That sounds great. I know a great café nearby.",
+    "options": [
+      "c-e-a-d-b",
+      "c-e-d-a-b",
+      "a-c-e-d-b",
+      "a-c-d-e-b"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự: c (đề nghị gặp) → e (đồng ý + gợi ý quán) → a (hỏi tên quán) → d (xác nhận) → b (hẹn gặp).",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: The Norman is said ______ England in 1066.",
+    "options": [
+      "to invade",
+      "to have been invaded",
+      "to have invaded",
+      "to be invaded"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc bị động với động từ tường thuật: S + is/are said + to have + Vp2 (hành động đã xảy ra trong quá khứ). Tạm dịch: Người Norman được cho là đã xâm lược nước Anh vào năm 1066.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: “_________”, the doctor advised his patient.",
+    "options": [
+      "You had better stop drinking",
+      "You had better to drink",
+      "I would like you to drink",
+      "Please drink some more"
+    ],
+    "correct": 0,
+    "explanation": "Lời khuyên của bác sĩ phải hợp lý: You had better stop drinking. Các phương án khác sai ngữ pháp hoặc không phù hợp ngữ cảnh.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: The new office building is as much far than the one we used to work in.",
+    "options": [
+      "The",
+      "is",
+      "than",
+      "the one"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc so sánh bằng: as + adj + as. Sửa “than” thành “as”.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Tom went on and on apologizing about it, which was quite unnecessary.",
+    "options": [
+      "Tom can't have apologized. I quite understand.",
+      "Tom shouldn't have apologized. I quite understand.",
+      "Tom wouldn't have apologized. I quite understand.",
+      "Tom needn't have apologized. I quite understand."
+    ],
+    "correct": 3,
+    "explanation": "needn't have + Vp2: không cần thiết phải làm gì trong quá khứ (nhưng đã làm). Tạm dịch: Tom không cần phải xin lỗi. Tôi hiểu mà.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Most scientists know him well. However, very few ordinary people have heard of him.",
+    "options": [
+      "He is the only scientist that is not known to the general public.",
+      "Not only scientists but also the general public know him as a big name.",
+      "Although he is well known to scientists, he is little known to the general public.",
+      "Many ordinary people know him better than most scientists do."
+    ],
+    "correct": 2,
+    "explanation": "Although he is well known to scientists, he is little known to the general public. là câu diễn đạt đúng và đầy đủ nhất.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: I had never seen her before. However, I recognized her from a photograph.",
+    "options": [
+      "Although I had never seen her before, I recognized her from a photograph.",
+      "I recognized her from a photograph before I had never seen her.",
+      "Although I had never seen her before but I recognized her from a photograph.",
+      "After I had seen her, I recognized her from a photograph."
+    ],
+    "correct": 0,
+    "explanation": "Although I had never seen her before, I recognized her from a photograph. là cấu trúc đúng và nghĩa chính xác.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: She heard the news of the death of her mother. She fainted.",
+    "options": [
+      "On hearing the news of her dead mother, she fainted.",
+      "On hearing the news of her mother's death, she fainted.",
+      "She fainted so she heard the news of the death of her mother.",
+      "She fainted and then she heard the news of the death of her mother."
+    ],
+    "correct": 1,
+    "explanation": "On hearing the news of her mother's death, she fainted. là cách diễn đạt đúng và tự nhiên nhất.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: You may be very intelligent. You should be careful about what you are going to do.",
+    "options": [
+      "No matter why intelligent you may be, you should be careful about what you are going to do.",
+      "No matter what intelligent you may be, you should be careful about what you are going to do.",
+      "No matter how intelligent you may be, you should be careful about what you are going to do.",
+      "No matter whatever intelligent you may be, you should be careful about what you are going to do."
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc No matter how + adj + S + V. Tạm dịch: Cho dù bạn thông minh đến mức nào, bạn nên cẩn thận về những gì bạn sẽ làm.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: ChatGPT was publicly released on Wednesday by OpenAI, an artificial intelligence research firm (631) ____ founders included Elon Musk.",
+    "options": [
+      "where",
+      "which",
+      "who",
+      "whose"
+    ],
+    "correct": 3,
+    "explanation": "whose: đại từ quan hệ sở hữu (founders của firm).",
+    "passage": "passage17_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: ... an acronym which (632) ____ for Generative Pre-Trained Transformer.",
+    "options": [
+      "care",
+      "take",
+      "stand",
+      "look"
+    ],
+    "correct": 2,
+    "explanation": "stand for: viết tắt cho.",
+    "passage": "passage17_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: The results have impressed (633) ____ who've tried out the chatbot.",
+    "options": [
+      "little",
+      "few",
+      "much",
+      "many"
+    ],
+    "correct": 3,
+    "explanation": "many + who (nhiều người).",
+    "passage": "passage17_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: (634) ____, OpenAI warns that \"ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers\".",
+    "options": [
+      "As a result",
+      "Therefore",
+      "However",
+      "So"
+    ],
+    "correct": 2,
+    "explanation": "However: tuy nhiên (quan hệ đối lập).",
+    "passage": "passage17_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: ... ChatGPT revealed itself to be a cautious interviewee (635) ______ of expressing itself clearly and accurately in English.",
+    "options": [
+      "afraid",
+      "fond",
+      "able",
+      "capable"
+    ],
+    "correct": 3,
+    "explanation": "capable of: có khả năng.",
+    "passage": "passage17_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What is the main topic of the passage?",
+    "options": [
+      "Stars on American coins",
+      "The teaching of astronomy in state universities",
+      "Colonial stamps and coins",
+      "The star as national symbol of the United States"
+    ],
+    "correct": 0,
+    "explanation": "Toàn bài nói về số lượng ngôi sao trên các đồng tiền Mỹ qua các thời kỳ.",
+    "passage": "passage17_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: The expression \"Curiously enough\" is used because the author finds it strange that ____.",
+    "options": [
+      "Tennessee was the first state to use half dimes",
+      "Vermont and Kentucky joined the Union in 1794",
+      "silver coins with fifteen stars appeared before coins with thirteen",
+      "no silver coins were issued until 1794"
+    ],
+    "correct": 2,
+    "explanation": "Hầu hết tiền từ 1799 trở đi có 13 sao, nhưng tiền bạc đầu tiên năm 1794 lại có 15 sao → kỳ lạ.",
+    "passage": "passage17_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: Why was a coin produced in 1828 with only twelve stars?",
+    "options": [
+      "Tennessee had left the Union.",
+      "The mint made a mistake.",
+      "There were twelve states at the time.",
+      "There is a change in design policy."
+    ],
+    "correct": 1,
+    "explanation": "Due to an error at the mint, one variety of the 1828 half-cent was issued with only twelve stars.",
+    "passage": "passage17_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: Which of the following is NOT mentioned as the denomination of an American coin?",
+    "options": [
+      "Half nickel",
+      "Half-dollar",
+      "Half cent",
+      "Half dime"
+    ],
+    "correct": 0,
+    "explanation": "Bài chỉ đề cập half dimes, dimes, half dollars, half-cent. Không có half nickel.",
+    "passage": "passage17_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: The word \"their\" in line 1 refers to ______.",
+    "options": [
+      "features",
+      "coins",
+      "stars",
+      "colonies"
+    ],
+    "correct": 2,
+    "explanation": "Stars ... and their number has varied... → their = stars.",
+    "passage": "passage17_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the passage mainly discuss?",
+    "options": [
+      "How parents can win arguments with their children",
+      "Parents humiliating their teenage children",
+      "Strategies to minimise conflicts between parents and teens",
+      "How teens can avoid quarrels with parents"
+    ],
+    "correct": 2,
+    "explanation": "Bài đưa ra các chiến lược giúp giảm mâu thuẫn giữa cha mẹ và thanh thiếu niên.",
+    "passage": "passage17_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: What should parents do if objecting to their children's idea?",
+    "options": [
+      "responding in relation to their feelings and beliefs",
+      "humiliating their teens",
+      "ignoring the idea and giving punishments",
+      "making a fuss about the problems"
+    ],
+    "correct": 0,
+    "explanation": "Explain negative responses: ... explain your response in terms of your feelings and beliefs.",
+    "passage": "passage17_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: Which of the following is closest in meaning to “sunny” as used in the passage?",
+    "options": [
+      "shiny",
+      "with sunshine",
+      "friendly",
+      "warm"
+    ],
+    "correct": 2,
+    "explanation": "sunny relationship ≈ friendly relationship (mối quan hệ thân thiện, hòa thuận).",
+    "passage": "passage17_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: Which of the following is closest in meaning to “reinforce” as used in the passage?",
+    "options": [
+      "weaken",
+      "enlighten",
+      "lessen",
+      "deepen"
+    ],
+    "correct": 3,
+    "explanation": "reinforce divisions ≈ deepen divisions (làm sâu thêm sự chia rẽ).",
+    "passage": "passage17_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following is NOT mentioned as a rule parents should follow to help teens improve their identities?",
+    "options": [
+      "elaborating negative responses",
+      "ridiculing the ideas of children",
+      "expressing interest",
+      "minimising problems"
+    ],
+    "correct": 1,
+    "explanation": "Bài khuyên tránh humiliation/shaming, không phải ridiculing. Các nguyên tắc khác đều được đề cập.",
+    "passage": "passage17_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: Following are statements about a motorbike. Which statement can be a fact?",
+    "options": [
+      "The motorbike is very expensive.",
+      "The motorbike has some unique features.",
+      "The motorbike is suitable with everyone.",
+      "The motorbike is produced by Toyota."
+    ],
+    "correct": 3,
+    "explanation": "Chỉ có thông tin “produced by Toyota” là sự thật khách quan có thể kiểm chứng.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: Which of the following situations best exemplifies being “reimbursed” where someone is paid back what they have spent or lost?",
+    "options": [
+      "Alex is upgraded to a better seat after his original reservation was overbooked.",
+      "Alex’s travel expenses are covered by the company after he submits the receipts.",
+      "Alex receives his money back for a movie ticket he bought but didn't use.",
+      "Alex is given a voucher for future purchases after returning a defective product."
+    ],
+    "correct": 1,
+    "explanation": "Reimburse: hoàn trả số tiền đã chi. Tình huống B là công ty trả lại chi phí đi lại cho Alex.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: The members of a city council wanted to assess the opinions of all city residents about converting an open field into a dog park. The council surveyed a sample of 500 city residents who own dogs. The survey showed that the majority of those sampled were in favor of the dog park. Which of the following is true about the city council's survey?",
+    "options": [
+      "It shows that the majority of city residents are in favor of the dog park.",
+      "The survey sample should have included more residents who are dog owners.",
+      "The survey sample should have consisted entirely of residents who do not own dogs.",
+      "The survey sample is biased because it is not representative of all city residents."
+    ],
+    "correct": 3,
+    "explanation": "Mẫu chỉ gồm người nuôi chó nên không đại diện cho toàn bộ cư dân → biased.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: James: Would you like to go out for dinner tonight with me? You: ____.",
+    "options": [
+      "I know a good restaurant downtown. Let's go there.",
+      "You are welcome. That's just a small thing.",
+      "Congratulation! You really deserve the invitation.",
+      "Thanks, but I'm not hungry right now."
+    ],
+    "correct": 0,
+    "explanation": "Câu trả lời phù hợp nhất khi chấp nhận lời mời là gợi ý địa điểm.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Emily: Can you submit the draft of the marketing proposal by the end of today? Mark: ____________________",
+    "options": [
+      "Okay, but I thought the draft was due next week, not today.",
+      "I need more details about the proposal to complete it.",
+      "I'll send you the draft by the end of the week instead.",
+      "Sure, I'll have it ready for you by the end of today."
+    ],
+    "correct": 0,
+    "explanation": "Khi bối rối về deadline, Mark nên nêu rõ sự nhầm lẫn của mình về thời hạn.",
+    "passage": null
+  }
+]

@@ -1,0 +1,1107 @@
+[
+  {
+    "id": 101,
+    "question": "Câu 101: Khi thực hiện khảo sát dao động của con lắc đơn, một học sinh đo được kết quả vào biểu diễn trên đồ thị hình vẽ. Tuy nhiên, do sơ suất nên lại không kí hiệu các đại lượng lên trên trục tọa độ. Hãy xác định các đại lượng trên trục Ox và Oy.",
+    "options": [
+      "Trục Ox là chiều dài con lắc, Oy là bình phương chu kì dao động.",
+      "Trục Ox là chiều dài con lắc, Oy là chu kì dao động.",
+      "Trục Ox là khối lượng con lắc, Oy là bình phương chu kì dao động.",
+      "Trục Ox là khối lượng con lắc, Oy là chu kì dao động."
+    ],
+    "correct": 0,
+    "explanation": "Từ T = 2π√(l/g) ⇒ T² = 4π²(l/g) ⇒ T² ~ l. Đồ thị y = ax ⇒ Ox là chiều dài, Oy là bình phương chu kì.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Bộ giảm xóc của xe máy là ứng dụng của hiện tượng:",
+    "options": [
+      "Dao động tắt dần.",
+      "Dao động duy trì.",
+      "Dao động cưỡng bức.",
+      "Dao động điện từ."
+    ],
+    "correct": 0,
+    "explanation": "Bộ giảm xóc trên xe máy/ô tô là ứng dụng của dao động tắt dần, giúp giảm rung chấn.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Một chiếc võng đang đung đưa, chu kỳ dao động của chiếc võng được xác định là khoảng thời gian:",
+    "options": [
+      "giữa hai lần liên tiếp chiếc võng qua vị trí cân bằng cùng chiều.",
+      "giữa hai lần liên tiếp chiếc võng qua cùng vị trí.",
+      "giữa hai lần liên tiếp chiếc võng lệch xa nhất khỏi vị trí cân bằng.",
+      "giữa hai lần liên tiếp chiếc võng cùng tốc độ."
+    ],
+    "correct": 0,
+    "explanation": "Chu kỳ là thời gian thực hiện một dao động toàn phần: qua vị trí cân bằng cùng chiều.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Một máy kích thích tim được sạc đầy chứa 1,20 kJ năng lượng trong tụ điện của máy. Biết điện dung của tụ điện là 1,10.10⁻⁴(F). Khi máy phóng điện qua một bệnh nhân, năng lượng điện 6.10²J được truyền đi trong 2,5ms. Tính công suất trung bình được cung cấp cho bệnh nhân.",
+    "options": [
+      "2,4.10⁶W",
+      "2,4.10⁵W",
+      "3,2.10⁵W",
+      "4,8.10⁵W"
+    ],
+    "correct": 1,
+    "explanation": "P = A/t = 6.10² / 2,5.10⁻³ = 2,4.10⁵ W.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Một học sinh xác định suất điện động E của một nguồn điện (E,r) được nối với một biến trở R thành mạch kín. Biết hiệu điện thế U giữa hai cực của nguồn điện được đo bằng một Vôn kế. Dựa vào kết quả thực nghiệm đo được trên hình vẽ, học sinh này xác định được suất điện động của nguồn điện là:",
+    "options": [
+      "4,5V",
+      "6V",
+      "8,5V",
+      "7,5V"
+    ],
+    "correct": 3,
+    "explanation": "Từ đồ thị: khi U=3V, R=1Ω ⇒ I=3A; U=6V, R=6Ω ⇒ I=1A. E = I(R+r) ⇒ E=7,5V, r=1,5Ω.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất ở độ cao bằng bán kính Trái Đất. Lấy gia tốc rơi tự do tại mặt đất g=10m/s² và bán kính Trái Đất bằng R=6400km. Chu kì quay quanh Trái Đất của vệ tinh là:",
+    "options": [
+      "2 giờ 48 phút",
+      "1 giờ 58 phút",
+      "3 giờ 57 phút",
+      "1 giờ 24 phút"
+    ],
+    "correct": 1,
+    "explanation": "a_ht = v²/(2R) = g ⇒ v=√(2Rg). T=2π(2R)/v = 4π√(R/(2g)) ≈ 7108s ≈ 1 giờ 58 phút.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Để kéo một vật có khối lượng 80kg lên xe oto tải, người ta dùng tấm ván dài 2,5m, đặt nghiêng 30° so với mặt đất phẳng ngang... Công của lực kéo trong trường hợp kéo vật chuyển động thẳng đều là A₁ và kéo vật chuyển động thẳng nhanh dần đều với độ lớn gia tốc 1,5m/s² là A₂. Giá trị của A₁ + A₂ gần nhất với giá trị nào sau đây?",
+    "options": [
+      "1987J",
+      "1369J",
+      "2370J",
+      "2334J"
+    ],
+    "correct": 2,
+    "explanation": "F = m(a + g sinα + μg cosα). A₁≈1034,64J; A₂≈1334,64J ⇒ A₁+A₂≈2369,28J ≈ 2370J.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Lực nào sau đây không thực hiện công khi nó tác dụng vào vật đang chuyển động?",
+    "options": [
+      "Trọng lực",
+      "Lực ma sát",
+      "Lực hướng tâm",
+      "Lực hấp dẫn"
+    ],
+    "correct": 2,
+    "explanation": "Lực hướng tâm luôn vuông góc với vận tốc ⇒ không thực hiện công.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Hai quả bóng có khối lượng m₁=6g, m₂=12g được ép sát vào nhau trên mặt bàn nằm ngang. Khi buông tay, hai quả lăn được các quãng đường lần lượt là s₁, s₂ rồi dừng. Biết khi rời nhau, hai quả bóng chuyển động chậm dần cùng gia tốc. Tỉ số quãng đường của hai quả bóng chuyển động được là:",
+    "options": [
+      "s₁/s₂ = 1/4",
+      "s₁/s₂ = 4",
+      "s₁/s₂ = 1/2",
+      "s₁/s₂ = 2"
+    ],
+    "correct": 0,
+    "explanation": "a giống nhau ⇒ v₁/v₂ = √(s₁/s₂). Từ định luật III: m₁/m₂ = v₂/v₁ ⇒ s₁/s₂ = (m₁/m₂)² = 1/4.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Vật nào dưới đây chịu biến dạng kéo?",
+    "options": [
+      "Trụ cầu",
+      "Móng nhà",
+      "Dây cáp của cần cẩu đang chuyển động",
+      "Cột nhà"
+    ],
+    "correct": 2,
+    "explanation": "Biến dạng kéo khi vật chịu cặp lực kéo ngược chiều, vuông góc bề mặt. Dây cáp cần cẩu chịu kéo.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Một thùng hàng có khối lượng 20kg được đẩy lên 1 con dốc cao 3m bằng động cơ băng truyền. Biết trong cả quá trình vận chuyển, động cơ cần sử dụng năng lượng tổng cộng là 4000J. Lấy g=10m/s². Hiệu suất của động cơ là bao nhiêu %?",
+    "options": [
+      "15",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Aᵢ = mgh = 600J. H = (600/4000)×100% = 15%.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Hai bản kim loại phẳng nằm ngang song song cách nhau 10cm có hiệu điện thế giữa hai bản là 91V. Tại thời điểm t=0, một electron có vận tốc ban đầu 3,2×10⁶ m/s bắt đầu chuyển động từ bản tích điện dương dọc theo đường sức về bản tích điện âm... Tính đoạn đường electron đi được cho đến thời điểm t=25ns theo đơn vị mm.",
+    "options": [
+      "34",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "a = -1,6×10¹⁴ m/s². s₁ = 3,2×10⁻² m (t₁=20ns). Sau đó s₂=2×10⁻³ m. Tổng S=34 mm.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Thực hiện giao thoa Young với hai bức xạ λ₁=0,4μm; λ₂=0,5μm. Biết khoảng cách giữa hai khe sáng là 2mm. Khoảng cách từ mặt phẳng chứa hai khe tới màn M là D=2m. Khoảng cách từ vân tối thứ 3 của bức xạ λ₁ và vân sáng thứ 5 của bức xạ λ₂ ở cùng một phía so với vân trung tâm là bao nhiêu mm? (viết dưới dạng phân số a/b)",
+    "options": [
+      "3/2",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "i₁=4×10⁻⁴ m; i₂=5×10⁻⁴ m. x_t3=1 mm; x_s5=2,5 mm. Δx=1,5 mm = 3/2 mm.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Có hai con lắc lò xo giống nhau đều có khối lượng vật nhỏ là m. Mốc thế năng tại vị trí cân bằng và π²≈10. X₁, X₂ lần lượt là đồ thị ly độ theo thời gian của con lắc thứ nhất và thứ hai như hình vẽ. Tại thời điểm t con lắc thứ nhất có động năng 0,06J và con lắc thứ hai có thế năng 0,005J. Giá trị của khối lượng m(g) là",
+    "options": [
+      "400",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "A₁=10cm, A₂=5cm, ω=2π. W_t1=0,02J ⇒ W₁=0,08J. m = 2W₁/(ω²A₁²) = 0,4 kg = 400 g.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Từ hình vẽ ta thấy trên dây có:",
+    "options": [
+      "3 bụng và 3 nút sóng",
+      "4 bụng và 3 nút sóng",
+      "3 bụng và 4 nút sóng",
+      "4 bụng và 4 nút sóng."
+    ],
+    "correct": 2,
+    "explanation": "Từ hình vẽ: sóng dừng với 3 bụng và 4 nút.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Cho khoảng cách từ ròng rọc đến máy tạo rung là 90cm. Bước sóng của sóng trên là:",
+    "options": [
+      "30 cm",
+      "60 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "correct": 1,
+    "explanation": "3 bụng ⇒ l = 3(λ/2) ⇒ 90 = 3λ/2 ⇒ λ=60 cm.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Tần số của máy tạo rung là 60Hz. Khi đó, vận tốc sóng truyền trên dây là:",
+    "options": [
+      "900m/s",
+      "36m/s",
+      "9cm/s",
+      "90cm/s"
+    ],
+    "correct": 1,
+    "explanation": "v = λf = 60×60 = 3600 cm/s = 36 m/s.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Câu 201: Biết rằng mùi tanh của cá (đặc biệt là cá mè) là hỗn hợp các amine và một số chất khác. Để khử mùi tanh của cá trước khi nấu chúng ta có thể sử dụng dung dịch chất nào dưới đây?",
+    "options": [
+      "Dung dịch xút.",
+      "Nước vôi trong.",
+      "Giấm ăn.",
+      "Nước muối."
+    ],
+    "correct": 2,
+    "explanation": "Amine gây mùi tanh của cá nên có thể làm mất mùi khi cho amine tác dụng với acid. Khi dùng giấm ăn, acetic acid tác dụng với amine tạo muối, làm mất mùi tanh.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: Trong phòng thí nghiệm, cần xác định nồng độ của KMnO₄ do hợp chất này dễ bị khử đến MnO₂ bằng oxalic acid theo phương trình... Người ta thực hiện chuẩn độ dung dịch KMnO₄ bằng dung dịch H₂C₂O₄ 0,05M. Thể tích KMnO₄ xác định được là (làm tròn đến chữ số thập phân thứ ba)",
+    "options": [
+      "0,033M.",
+      "0.034M.",
+      "0,035M.",
+      "0,036M."
+    ],
+    "correct": 1,
+    "explanation": "Phương trình cân bằng: 2KMnO₄ + 5H₂C₂O₄ + 3H₂SO₄ → 2MnSO₄ + 10CO₂ + 8H₂O + K₂SO₄. C_KMnO₄(1) ≈ 0,035M; (2) ≈ 0,034M; (3) ≈ 0,034M. Trung bình ≈ 0,034M.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: Dung dịch acid nào dưới đây ở trong dung dịch vẫn có tồn tại phân tử acid?",
+    "options": [
+      "HF.",
+      "HCl.",
+      "HBr.",
+      "HI."
+    ],
+    "correct": 0,
+    "explanation": "Dung dịch acid còn phân tử acid là acid yếu, phân li không hoàn toàn. Trong các hydrohalic acid, chỉ có HF là acid yếu.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: Liệu pháp điều trị bằng rượu thuốc là một phương pháp hết sức độc đáo của y học cổ truyền... Phương pháp ngâm rượu thuốc là ứng dụng của",
+    "options": [
+      "phương pháp chiết lỏng – lỏng.",
+      "phương pháp chưng cất.",
+      "phương pháp chiết lỏng - rắn.",
+      "phương pháp kết tinh."
+    ],
+    "correct": 2,
+    "explanation": "Khi ngâm rượu thuốc ứng dụng phương pháp chiết lỏng - rắn. Các hợp chất hữu cơ trong chất rắn (vị thuốc) được hòa tan bởi dung môi rượu.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: Terpinen-4-ol là thành phần chính của tinh dầu tràm trà... Nhận định nào dưới đây là sai về terpinen-4-ol?",
+    "options": [
+      "Terpinen-4-ol là một hợp chất hữu cơ có hoạt tính sinh học.",
+      "Terpinen-4-ol là một alcohol đơn chức bậc 2.",
+      "Công thức phân tử của terpinen-4-ol là C₁₀H₁₈O.",
+      "Terpinen-4-ol là một alcohol không no."
+    ],
+    "correct": 1,
+    "explanation": "Nhận định sai: Terpinen-4-ol là alcohol đơn chức bậc 3 (không phải bậc 2). Dựa vào công thức cấu tạo.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: Glycogen có trong cơ thể động vật với vai trò là chất dự trữ năng lượng. Glycogen có cấu trúc tương tự amilopectin nhưng có độ phân nhánh nhiều hơn... Vậy glycogen là",
+    "options": [
+      "Lipid.",
+      "Polysaccharide.",
+      "Chất béo.",
+      "Protein."
+    ],
+    "correct": 1,
+    "explanation": "Vì glycogen có cấu trúc tương tự amilopectin nên là một polysaccharide.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: Dãy các hợp chất có cùng bản chất liên kết hóa học là",
+    "options": [
+      "NaCl, HCl, K₂S, CaO.",
+      "NaCl, NaH, BaO, KI.",
+      "NO₂, HNO₃, NaCl, HCl.",
+      "PCl₃, NaH, CaO, KI."
+    ],
+    "correct": 1,
+    "explanation": "B: Các hợp chất đều có bản chất liên kết ion. A: HCl cộng hóa trị. C: chỉ NaCl ion. D: PCl₃ cộng hóa trị.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Một bạn học sinh thực hiện thí nghiệm: Cho vào bát sứ khoảng 2 mL dầu thực vật (hoặc 2 gam mỡ) và 4–5 mL dung dịch NaOH 40%... Nhận xét nào dưới đây là đúng về thí nghiệm trên?",
+    "options": [
+      "Bạn học sinh đang thực hiện thí nghiệm điều chế chất giặt rửa tổng hợp.",
+      "Có thể thay thế dung dịch NaCl bão hòa bằng dung dịch CaCl₂ bão hòa.",
+      "Có thể thay việc đun sôi nhẹ hỗn hợp bằng phương pháp đun cách thủy.",
+      "Sản phẩm thu được có khả năng tẩy màu quần áo."
+    ],
+    "correct": 2,
+    "explanation": "Thí nghiệm là phản ứng xà phòng hóa chất béo, sản phẩm là xà phòng. C đúng. A sai (điều chế xà phòng). B sai (CaCl₂ không có tác dụng như NaCl). D sai (xà phòng không tẩy màu).",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Ở điều kiện tiêu chuẩn, 1 lít nước hòa tan tối đa 2,2 lít khí Cl₂. Nồng độ mol/L của nước chlorine bão hòa là",
+    "options": [
+      "2,5mol/L.",
+      "2,2mol/L.",
+      "0,089mol/L.",
+      "0,098mol/L."
+    ],
+    "correct": 3,
+    "explanation": "n_Cl₂ = 2,2 / 22,4 = 0,098 mol. C_M = 0,098 / 1 = 0,098 mol/L.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Chloramine B là hợp chất có tính sát trùng cao... Cứ 10 gam chloramine B pha vào 1000L nước có tác dụng diệt khuẩn nước. Một gia đình muốn diệt khuẩn cho bể nước có dung tích 2,5m³. Gia đình này mua chloramine B dạng viên, hàm lượng chloramine trong mỗi viên là 250mg. Hỏi gia đình cần sử dụng bao nhiêu viên chloramine B để khử khuẩn bể nước trên?",
+    "options": [
+      "25 viên.",
+      "250 viên.",
+      "100 viên.",
+      "10 viên."
+    ],
+    "correct": 2,
+    "explanation": "Khối lượng chloramine cần: (2,5•10³ / 1000)•10 = 25 gam. Số viên: 25•10³ / 250 = 100 viên.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: Cho bảng tín hiệu của các nhóm chức... Người ta xác định công thức phân tử của hợp chất hữu cơ X... Nhận định nào dưới đây về hợp chất hữu cơ X là sai?",
+    "options": [
+      "Hợp chất hữu cơ X có khả năng tham gia phản ứng ester hóa.",
+      "Hợp chất hữu cơ X tan một phần trong nước.",
+      "Hợp chất hữu cơ X có khả năng tham gia phản ứng xà phòng hóa.",
+      "Hợp chất hữu cơ X có công thức chung dạng CₙH₂ₙO₂ (n ≥ 1)."
+    ],
+    "correct": 2,
+    "explanation": "Từ phổ IR: có O-H và C=O của carboxyl => X có -COOH. Từ MS: M=60. Từ %: CTĐGN (CH₂O)ₙ, n=2 => C₂H₄O₂ = CH₃COOH. C sai vì phản ứng xà phòng hóa là thủy phân ester trong kiềm (không phải acid).",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: Phương trình nhiệt hóa học phản ứng nhiệt phân đá vôi ở điều kiện chuẩn là",
+    "options": [
+      "CaO(s) + CO₂(g) ⇌ CaCO₃(s) ΔrH°298 = -179,2 kJ",
+      "CaO(s) + CO₂(g) ⇌ CaCO₃(s) ΔrH°298 = -179,2 kJ",
+      "CaCO₃(s) ⇌ CaO(s) + CO₂(g) ΔrH°298 = 179,2 kJ",
+      "CaCO₃ ⇌ CaO + CO₂ ΔrH°298 = 179,2 kJ"
+    ],
+    "correct": 2,
+    "explanation": "ΔrH°298 = -393,5 + (-634,9) - (-1207,6) = 179,2 kJ. Phương trình phải có trạng thái và nhiệt: CaCO₃(s) ⇌ CaO(s) + CO₂(g) ΔrH°298 = 179,2 kJ.",
+    "passage": "lo_nung_voi"
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: Hành động nào dưới đây sẽ làm giảm hiệu suất của quá trình sản xuất vôi sống?",
+    "options": [
+      "Rút khí CO₂ ra khỏi lò phản ứng.",
+      "Giảm áp suất trong lò nung.",
+      "Bơm thêm khí CO₂ vào trong lò phản ứng.",
+      "Tăng nhiệt độ lò nung trong mức cho phép."
+    ],
+    "correct": 2,
+    "explanation": "Bơm thêm CO₂ làm cân bằng chuyển dịch theo chiều nghịch, giảm hiệu suất. A, B, D làm chuyển dịch thuận.",
+    "passage": "lo_nung_voi"
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: Đốt cháy 1 kg than đá tỏa ra một lượng nhiệt khoảng 25000 kJ, 60% lượng nhiệt này được sử dụng trực tiếp bởi phản ứng nhiệt phân đá vôi. Biết công suất của lò nung vôi là 420 tấn vôi sống/ngày. Khối lượng than đá (tính theo tấn) cần sử dụng trong một ngày là",
+    "options": [
+      "53,76 tấn.",
+      "224 tấn.",
+      "896 tấn.",
+      "420 tấn."
+    ],
+    "correct": 2,
+    "explanation": "Nhiệt cần cho 420 tấn CaO: 75•10⁵ • 179,2 = 1344•10⁶ kJ. Nhiệt than thực tế: 1344•10⁶ / 0,6 = 224•10⁷ kJ. m_than = 224•10⁷ / 25000 = 896•10³ kg = 896 tấn.",
+    "passage": "lo_nung_voi"
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: Ethanol sinh học được sản xuất trong một nhà máy, từ 16,2 tấn mùn cưa (chứa 50% cellulose về khối lượng) bằng phương pháp sinh hóa theo sơ đồ... Lượng ethanol được điều chế bên trên có thể sản xuất bao nhiêu chai cồn 90° có dung tích 500mL?",
+    "options": [
+      "7666 chai.",
+      "7667 chai.",
+      "7668 chai.",
+      "7669 chai."
+    ],
+    "correct": 0,
+    "explanation": "m_cellulose = 8,1 tấn. n_ethanol = (8,1•10⁶ / 162) • 0,6 • 2 = 60000 mol. V_ethanol = 60000 • 46 / 0,8 = 3450000 cm³. Mỗi chai 500mL 90° chứa 450 mL ethanol => số chai ≈ 7666.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: Butane (C₄H₁₀) là một chất có trong bình gas. Khi butane cháy, phản ứng xảy ra là: C₄H₁₀(g) + 13/2 O₂(g) → 4CO₂(g) + 5H₂O(g). Tốc độ trung bình của phản ứng đốt cháy này là 0,015mol/s. Giả sử một bình gas có 7 kg butane. Thời gian (tính theo s) để đốt cháy bình gas này là",
+    "options": [
+      "8046",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "n_C₄H₁₀ = 7•10³ / 58 ≈ 120,69 mol. Thời gian = 120,69 / 0,015 = 8046 s.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: Một học sinh làm thí nghiệm như sau: Nạp đầy khí amoniac vào bình thủy tinh trong suốt... Phát biểu nào sau đây không đúng?",
+    "options": [
+      "Thí nghiệm chứng tỏ NH₃ tan nhiều trong nước.",
+      "Nếu thay chậu nước có chứa một ít dung dịch phenolphtalein bằng chậu nước có chứa một ít dung dịch quỳ tím thì nước trong bình có màu xanh.",
+      "Nước trong chậu phun những tia có màu hồng là do khí amoniac tan nhiều trong nước làm giảm áp suất trong bình và nước bị hút vào bình. Phenolphtalein chuyển thành màu hồng là do dung dịch amoniac có tính bazơ.",
+      "Nếu thay khí amoniac trong bình bằng khí hiđro clorua thì nước trong chậu phun những tia có màu đỏ."
+    ],
+    "correct": 3,
+    "explanation": "D không đúng. Nếu thay bằng HCl thì nước phun thành tia không màu vì phenolphtalein không đổi màu trong môi trường axit.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Giả sử nồng độ chất tan trong một tế bào nhân tạo (có màng sinh chất như ở tế bào sống) gồm 0,06M saccharose và 0,04M glucose. Đặt tế bào nhân tạo trong một ống nghiệm chứa dung dịch gồm 0,03M saccharose, 0,02M glucose và 0,01 fructose. Nhận định nào sau đây là đúng?",
+    "options": [
+      "1,3,5",
+      "2, 4, 6",
+      "2, 3, 6",
+      "3, 4, 5"
+    ],
+    "correct": 1,
+    "explanation": "Nồng độ trong > ngoài ⇒ tế bào phồng (2). Glucose trong > ngoài ⇒ ra ngoài (4). Saccharose trong > ngoài ⇒ ra ngoài (6).",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: Nguyên nhân khiến số người mắc và tử vong vì ung thư ở Việt Nam tăng nhanh là gì?",
+    "options": [
+      "I, IV",
+      "II, III, IV",
+      "I, II, III",
+      "I, II, IV"
+    ],
+    "correct": 2,
+    "explanation": "Ô nhiễm môi trường, thói quen ăn uống không khoa học, thói quen sinh hoạt không lành mạnh.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Vi sinh vật A có khả năng sinh trưởng ở nhiệt độ từ 15°C đến 45°C, sinh trưởng tối ưu ở 30 – 35°C. Chúng thuộc nhóm vi sinh vật nào dưới đây?",
+    "options": [
+      "Nhóm vi sinh vật ưa lạnh.",
+      "Nhóm vi sinh vật ưa ấm.",
+      "Nhóm vi sinh vật ưa nhiệt.",
+      "Nhóm vi sinh vật cực ưa nhiệt."
+    ],
+    "correct": 1,
+    "explanation": "Ưa ấm: 20–40°C, tối ưu 30–35°C.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Bạn A làm sữa chua thành công và đã cho vào tủ lạnh để bảo quản, nhưng bạn lại để quên một lọ gần vị trí bếp gas. Sau hai ngày, bạn A thấy lọ sữa chua sủi bọt, chảy nước và bốc mùi. Hãy cho biết quá trình sinh trưởng của quần thể vi khuẩn lên men có trong lọ sữa chua bị hỏng đang ở pha nào?",
+    "options": [
+      "Pha tiềm phát",
+      "Pha lũy thừa",
+      "Pha cân bằng",
+      "Pha suy vong."
+    ],
+    "correct": 3,
+    "explanation": "Môi trường hết dinh dưỡng, chất thải ức chế ⇒ pha suy vong.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Cơ quan thoát hơi nước chủ yếu ở cây là",
+    "options": [
+      "rễ.",
+      "thân.",
+      "lá.",
+      "cành."
+    ],
+    "correct": 2,
+    "explanation": "Cơ quan thoát hơi nước chủ yếu là lá.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Tại sao trước khi ủ để hạt nảy mầm, người ta thường ngâm hạt trong nước một thời gian?",
+    "options": [
+      "Làm như vậy để kích thích hạt quang hợp.",
+      "Làm như vậy để ức chế hạt quang hợp.",
+      "Làm như vậy để kích thích hạt hô hấp.",
+      "Làm như vậy để ức chế hạt hô hấp."
+    ],
+    "correct": 2,
+    "explanation": "Ngâm nước → hấp thụ nước → tăng cường hô hấp → cung cấp năng lượng cho nảy mầm.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Trong một thí nghiệm chứng minh dòng mạch gỗ và dòng mạch rây... Hiện tượng nào dưới đây có xu hướng xảy ra sau khoảng một ngày?",
+    "options": [
+      "Ngọn cây chỉ có thuốc nhuộm đỏ, còn chóp rễ chỉ có thuốc nhuộm vàng.",
+      "Ngọn cây chỉ có thuốc nhuộm vàng; chóp rễ chỉ có thuốc nhuộm đỏ.",
+      "Ngọn cây có cả thuốc nhuộm đỏ và vàng; chóp rễ chỉ có thuốc nhuộm đỏ.",
+      "Ngọn cây chỉ có thuốc nhuộm đỏ; chóp rễ có cả thuốc nhuộm đỏ và vàng."
+    ],
+    "correct": 2,
+    "explanation": "Mạch gỗ (vàng) đi lên ngọn; mạch rây (đỏ) đi khắp cây (kể cả rễ).",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Bộ phận nào sau đây của cây không tham gia vào sinh sản hữu tính ở thực vật?",
+    "options": [
+      "Thân, lá, rễ.",
+      "Hoa, quả và hạt.",
+      "Hoa và quả.",
+      "Quả và hạt."
+    ],
+    "correct": 0,
+    "explanation": "Thân, lá, rễ là cơ quan sinh dưỡng, không tham gia sinh sản hữu tính.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Những biện pháp nào sau đây dùng để điều hòa sinh sản đang được áp dụng ở người?",
+    "options": [
+      "(1), (2), (3) và (6).",
+      "(1), (3), (4) và (6).",
+      "(1), (4), (5) và (6).",
+      "(1), (2), (4) và (6)."
+    ],
+    "correct": 1,
+    "explanation": "(1) ức chế rụng trứng, (3) thụ tinh ống nghiệm, (4) ngăn tinh trùng gặp trứng, (6) ngăn làm tổ.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Hình thức sinh sản vừa có ở động vật không xương sống vừa ở động vật có xương sống là",
+    "options": [
+      "Nảy chồi",
+      "Trinh sinh",
+      "Phân mảnh",
+      "Phân đôi"
+    ],
+    "correct": 1,
+    "explanation": "Trinh sinh (trứng phát triển không qua thụ tinh) có ở cả hai nhóm.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Những hoocmon nào sau đây điều hòa sinh trưởng và phát triển ở động vật có xương sống?",
+    "options": [
+      "Hoocmon sinh trưởng, otrogen, testosteron, ecdison, juvenin",
+      "Hoocmon sinh trưởng, tiroxin, otrogen, testosteron",
+      "Hoocmon tiroxin, otrogen, testosteron, ecdison, juvenin",
+      "Hoocmon sinh trưởng, tiroxin, otrogen, testosteron, juvenin"
+    ],
+    "correct": 1,
+    "explanation": "Ở động vật có xương sống: GH, tiroxin, estrogen, testosteron (ecdison, juvenin ở côn trùng).",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Tại sao vào mùa đông, động vật biến nhiệt sinh trưởng và phát triển chậm hơn?",
+    "options": [
+      "Thân nhiệt giảm làm cho sự chuyển hoá trong cơ thể giảm làm hạn chế tiêu thụ năng lượng",
+      "Thân nhiệt giảm làm cho sự chuyển hoá trong cơ thể mạnh tạo nhiều năng lượng để chống rét.",
+      "Thân nhiệt giảm làm cho sự chuyển hoá trong cơ thể giảm, sinh sản tăng",
+      "Thân nhiệt giảm làm cho sự chuyển hoá trong cơ thể tăng, sinh sản giảm"
+    ],
+    "correct": 0,
+    "explanation": "Động vật biến nhiệt: thân nhiệt giảm → chuyển hóa giảm → hạn chế tiêu thụ năng lượng.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Một loài thực vật được coi là cây ngày dài có đặc điểm gì?",
+    "options": [
+      "Cây ra hoa trong điều kiện chiếu sáng dưới 10 giờ.",
+      "Cây ra hoa trong điều kiện chiếu sáng trên 14 giờ",
+      "Cây ra hoa trong điều kiện chiếu sáng đúng 12 giờ.",
+      "Cây ra hoa không phụ thuộc vào điều kiện chiếu sáng."
+    ],
+    "correct": 1,
+    "explanation": "Cây ngày dài ra hoa khi chiếu sáng >14 giờ (hoặc tối <10 giờ).",
+    "passage": "quang_chu_ki"
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Hoa thược dược là loài thực vật ra hoa vào tháng 9 đến tháng 4 năm sau... Nhận định nào sau đây chính xác?",
+    "options": [
+      "Hoa thược dược là cây ngày dài.",
+      "Hoa thược dược là cây trung tính.",
+      "Hoa thược dược là cây ngày ngắn.",
+      "Hoa thược dược vừa là cây ngày ngắn vừa là cây ngày dài."
+    ],
+    "correct": 2,
+    "explanation": "Ra hoa tháng 9–4 (ngày ngắn) và cần ánh sáng yếu/không có để ra hoa mùa dài ngày ⇒ cây ngày ngắn.",
+    "passage": "quang_chu_ki"
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Ở một nghiên cứu sự ra hoa của 3 loài thực vật... Nhận định nào dưới đây không chính xác?",
+    "options": [
+      "Loài A là cây ngày ngắn.",
+      "Loài B là cây ngày dài.",
+      "Loài C là cây ngày dài",
+      "Loài C là cây trung tính."
+    ],
+    "correct": 2,
+    "explanation": "Loài C ra hoa ở cả hai điều kiện ⇒ trung tính (không phải ngày dài).",
+    "passage": "quang_chu_ki"
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Một gen ở sinh vật nhân sơ, trên mạch 1 có %A - %X = 10% và có %T - %X = 30%; Trên mạch 2 của gen có %X - %G = 20%. Theo lí thuyết, trong tổng số nucleotit trên mạch 1, số nucleotit loại X chiếm tỉ lệ bao nhiêu?",
+    "options": [
+      "10",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "A1-X1=10%; T1-X1=30%; G1-X1=20% ⇒ A1+T1+G1-3X1=60% ⇒ 100%-4X1=60% ⇒ X1=10%.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Một cặp vợ chồng, người vợ là Jane, mắc một căn bệnh hiếm gặp bị mù loà ở tuổi dậy thì... Con trai của họ sinh ra sẽ bị mù ở tuổi dậy thì với xác xuất là bao nhiêu?",
+    "options": [
+      "100",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Bệnh di truyền ngoài nhân (theo dòng mẹ). Tất cả con của Jane đều bị bệnh ⇒ 100%.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Vấn đề bùng nổ dân số, sự vơi cạn nghiêm trọng của các nguồn tài nguyên thiên nhiên đã đặt ra cho cuộc cách mạng khoa học- kĩ thuật nhiệm vụ gì?",
+    "options": [
+      "Chế tạo ra những nguồn tài nguyên mới.",
+      "Tạo ra những công cụ sản xuất mới, vật liệu mới.",
+      "Điều chỉnh cơ cấu dân số.",
+      "Tăng năng suất các ngành kinh tế."
+    ],
+    "correct": 1,
+    "explanation": "Phải chế tạo công cụ sản xuất mới có kĩ thuật cao và vật liệu mới để đáp ứng nhu cầu.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: Cuộc cách mạng công nghiệp lần thứ tư còn có tên khác là gì?",
+    "options": [
+      "Cách mạng 1.0.",
+      "Cách mạng 2.0.",
+      "Cách mạng 3.0.",
+      "Cách mạng 4.0."
+    ],
+    "correct": 3,
+    "explanation": "Cách mạng công nghiệp lần thứ tư gọi là Cách mạng 4.0.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Một trong những nhân tố quan trọng quyết định thắng lợi của sự nghiệp giải phóng dân tộc và xây dựng, bảo vệ Tổ quốc hiện nay là",
+    "options": [
+      "sự viện trợ của các nước xã hội chủ nghĩa.",
+      "tác động của xu thế toàn cầu hóa.",
+      "sức mạnh của khối đại đoàn kết dân tộc.",
+      "tác động của cục diện đa cực, nhiều trung tâm."
+    ],
+    "correct": 2,
+    "explanation": "Khối đại đoàn kết dân tộc là nhân tố quan trọng quyết định thắng lợi.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Bài học kinh nghiệm lớn nhất của cách mạng tư sản Pháp để lại cho các cuộc đấu tranh thời kì sau là gì?",
+    "options": [
+      "Phát huy tối đa vai trò của quần chúng trong tiến trình cách mạng.",
+      "Cách mạng phải do một giai cấp tiên tiến lãnh đạo.",
+      "Không được phép nhân nhượng, thỏa hiệp với kẻ thù.",
+      "Phải có sự đoàn kết quốc tế trong quá trình đấu tranh."
+    ],
+    "correct": 0,
+    "explanation": "Quần chúng là động lực cơ bản thúc đẩy cách mạng Pháp đạt đỉnh cao.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: Điểm khác biệt cơ bản giữa nhiệm vụ của cách mạng tư sản Pháp cuối thế kỉ XVIII với các cuộc cách mạng tư sản trước đó là gì?",
+    "options": [
+      "Thực hiện đồng thời hai nhiệm vụ đấu tranh chống lại các thế lực phong kiến trong nước và bên ngoài.",
+      "Chống lại liên minh phong kiến châu Âu để bảo vệ thành quả cách mạng.",
+      "Phải thực hiện khẩu hiệu hòa bình- ruộng đất- bánh mì cho quần chúng.",
+      "Phải thiết lập nền chuyên chính dân chủ."
+    ],
+    "correct": 0,
+    "explanation": "Cách mạng Pháp phải chống phong kiến trong nước và liên minh phong kiến châu Âu đồng thời.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: Hệ thống thuộc địa thế giới ban đầu đem lại nhiều quyền lợi cho những nước nào?",
+    "options": [
+      "Anh và Pháp",
+      "Anh và Mỹ.",
+      "Mỹ và Đức.",
+      "Pháp và Đức."
+    ],
+    "correct": 0,
+    "explanation": "Anh và Pháp có hệ thống thuộc địa rộng lớn nhất ban đầu.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: Trong quá trình xâm lược thuộc địa, các nước đế quốc đã thiết lập được hệ thống ở khu vực nào?",
+    "options": [
+      "Châu Á, châu Phi và khu vực Mỹ La-tinh.",
+      "Châu Á, châu Phi và châu Đại Dương.",
+      "Châu Á, châu Nam Cực và châu Đại Dương.",
+      "Châu Phi, châu Nam Cực và châu Đại Dương."
+    ],
+    "correct": 0,
+    "explanation": "Hệ thống thuộc địa được thiết lập ở châu Á, châu Phi và Mỹ La-tinh.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: Nội dung nào sau đây thể hiện điểm sáng tạo của Lê - nin khi vận dụng những đặc điểm của nền kinh tế tư bản chủ nghĩa trong quá trình khôi phục kinh tế ở Liên Xô (1921-1925)?",
+    "options": [
+      "Khôi phục kinh tế bắt đầu từ nông nghiệp.",
+      "Xây dựng nền kinh tế thị trường có sự điều tiết của nhà nước.",
+      "Ưu tiên phát triển công nghiệp nặng.",
+      "Chuyển từ bao cấp sang chế độ hạch toán kinh tế."
+    ],
+    "correct": 1,
+    "explanation": "Xây dựng kinh tế thị trường (linh hoạt của TBCN) có sự điều tiết của nhà nước.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: Ngày 17-12-2014 đã diễn ra sự kiện lịch sử nào trong quan hệ ngoại giao giữa Mĩ và Cuba?",
+    "options": [
+      "Mĩ thiết lập quan hệ ngoại giao với Cuba.",
+      "Mĩ dỡ bỏ lệnh cấm vận với Cuba.",
+      "Tổng thống Mĩ Obama tới thăm Cuba.",
+      "Mĩ bình thường hóa quan hệ ngoại giao với Cuba."
+    ],
+    "correct": 3,
+    "explanation": "17-12-2014: Mỹ bình thường hóa quan hệ ngoại giao với Cuba (lệnh cấm vận vẫn còn).",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: Hiệp ước Bali (2-1976) không xác định nguyên tắc nào trong quan hệ giữa các nước Đông Nam Á?",
+    "options": [
+      "Tôn trọng độc lập chủ quyền và toàn vẹn lãnh thổ.",
+      "Giải quyết tranh chấp bằng biện pháp hòa bình.",
+      "Chung sống hòa bình và sự nhất trí của các quốc gia.",
+      "Hợp tác phát triển có hiệu quả trong các lĩnh vực kinh tế, văn hóa, xã hội."
+    ],
+    "correct": 2,
+    "explanation": "Hiệp ước Bali không nêu nguyên tắc “chung sống hòa bình và sự nhất trí của các quốc gia”.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: Nguyên nhân khách quan nào dẫn đến sự thất bại của cuộc kháng chiến chống thực dân Pháp của nhân dân Việt Nam cuối thế kỉ XIX?",
+    "options": [
+      "Cuộc kháng chiến diễn ra thiếu sự chuẩn bị chu đáo.",
+      "Không tập hợp đoàn kết được đông đảo nhân dân tham gia đấu tranh.",
+      "So sánh tương quan lực lượng chênh lệch bất lợi cho Việt Nam.",
+      "Khuynh hướng cứu nước phong kiến đã lỗi thời."
+    ],
+    "correct": 2,
+    "explanation": "Tương quan lực lượng chênh lệch: Pháp có sức mạnh tư bản, Việt Nam phong kiến lạc hậu.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Vì sao trong cuộc chạy đua với các nước tư bản phương Tây, tư bản Pháp lại có thể “bám sâu” được vào Việt Nam?",
+    "options": [
+      "Buôn bán, trao đổi hàng hóa với Việt Nam từ lâu đời.",
+      "Thực dân Anh đang bận rộn xâm chiếm Ấn Độ.",
+      "Vai trò của Hội truyền giáo nước ngoài của Pháp ở Việt Nam.",
+      "Thông qua buôn bán vũ khí với triều đình nhà Nguyễn."
+    ],
+    "correct": 2,
+    "explanation": "Hội truyền giáo nước ngoài của Pháp hoạt động mạnh, gây dựng cơ sở, đi tiên phong cho cuộc xâm lược.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Theo ghi chú bản đồ trong bộ Thiên Nam tứ chí lộ đồ thư biên soạn vào thế kỉ XVII, quần đảo Hoàng Sa và quần đảo Trường Sa thuộc phủ nào?",
+    "options": [
+      "Tư Nghĩa",
+      "Gia Định",
+      "Phú Yên.",
+      "Thuận Hóa."
+    ],
+    "correct": 0,
+    "explanation": "Thuộc phủ Tư Nghĩa (Quảng Ngãi).",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: Nội dung nào sau đây không phản ánh đúng cuộc đấu tranh bảo vệ, thực thi chủ quyền, các lợi ích hợp pháp của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam ở Biển Đông?",
+    "options": [
+      "Từ chối tham gia Công ước Luật Biển năm 1982 của Liên hợp quốc.",
+      "Tôn trọng luật pháp quốc tế, trong đó có Công ước Luật Biển của Liên hợp quốc.",
+      "Đàm phán và kí với các nước láng giềng một số văn kiện ngoại giao quốc tế về biển.",
+      "Phối hợp hành động với các nước vì mục đích phát triển bền vững, hợp tác cùng phát triển."
+    ],
+    "correct": 0,
+    "explanation": "Việt Nam tôn trọng và tham gia Công ước Luật Biển 1982, không từ chối.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: Cách mạng tháng Mười Nga thành công đã đánh dấu",
+    "options": [
+      "Sự ra đời của một xã hội mới – xã hội chủ nghĩa.",
+      "Sự ra đời của một thời đại mới – thời đại xóa bỏ bóc lột trên toàn thế giới.",
+      "Sự ra đời của một giai cấp mới – giai cấp vô sản.",
+      "Sự ra đời của một chế độ mới – chế độ chiếm hữu nông nô."
+    ],
+    "correct": 0,
+    "explanation": "Đánh đổ đế quốc Nga, một xã hội mới – xã hội chủ nghĩa ra đời.",
+    "passage": "cach_mang_thang_muoi"
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: Việc Cách mạng tháng Mười Nga thành công tạo ra sự thay đổi gì trong hệ thống trật tự thế giới thời kì hiện đại?",
+    "options": [
+      "Thiết lập nên hệ thống duy nhất trên thế giới – hệ thống tư bản chủ nghĩa.",
+      "Chủ nghĩa tư bản không còn là hệ thống duy nhất – xuất hiện thêm một hình thái kinh tế xã hội mới",
+      "Xóa bỏ được hoàn toàn chủ nghĩa đế quốc trên thế giới.",
+      "Xóa bỏ được hoàn toàn hệ thống phong kiến trên phạm vi toàn cầu."
+    ],
+    "correct": 1,
+    "explanation": "Xuất hiện hình thái kinh tế-xã hội mới (XHCN), chủ nghĩa tư bản không còn là hệ thống duy nhất.",
+    "passage": "cach_mang_thang_muoi"
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: Dựa theo đoạn trích, đặc điểm chung của chủ nghĩa tư bản trong giai đoạn 1919 – 1939 là gì?",
+    "options": [
+      "Phát triển một cách mạnh mẽ, đạt đỉnh cao của sự thịnh vượng dù rằng có những giai đoạn suy thoái nhưng không đáng kể.",
+      "Phát triển không đồng đều và không ổn định, xuất hiện nhiều mâu thuẫn sâu sắc giữa các nước đế quốc.",
+      "Không có sự phát triển, chủ yếu dừng tại mức ổn định đồng thời nhiều mâu thuẫn giữa các nước đế quốc được xóa bỏ.",
+      "Phát triển không đều nhưng tương đối ổn định, xuất hiện các mâu thuẫn về kinh tế nhưng đạt được các thỏa thuận hòa bình về chính trị."
+    ],
+    "correct": 1,
+    "explanation": "Phát triển không đồng đều, không ổn định; khủng hoảng 1929-1933; mâu thuẫn sâu sắc giữa các đế quốc.",
+    "passage": "cach_mang_thang_muoi"
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Vỏ Trái Đất được phân ra thành hai kiểu chính là",
+    "options": [
+      "lớp vỏ lục địa và lớp vỏ đại dương.",
+      "lớp Manti và lớp vỏ đại dương.",
+      "lớp vỏ lục địa và lớp Manti.",
+      "thạch quyển và lớp Manti."
+    ],
+    "correct": 0,
+    "explanation": "Vỏ Trái Đất được phân ra thành hai kiểu chính là lớp vỏ lục địa và lớp vỏ đại dương. Dựa vào lí thuyết về Sự hình thành Trái Đất, vỏ Trái Đất và vật liệu cấu tạo vỏ Trái Đất.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Gia tăng dân số cơ học biểu hiện sự biến động dân số do chênh lệch giữa",
+    "options": [
+      "số đến và số đi.",
+      "số sinh và số chết.",
+      "số đến và số chết.",
+      "số sinh và số đi."
+    ],
+    "correct": 0,
+    "explanation": "Gia tăng dân số cơ học biểu hiện sự biến động dân số do chênh lệch giữa số đến và số đi. Tỉ suất gia tăng dân số cơ học là hiệu số giữa tỉ suất nhập cư và tỉ suất xuất cư. Dựa vào lí thuyết về Quy mô dân số, gia tăng dân số và cơ cấu dân số.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: Giám sát hệ thống tài chính toàn cầu là nhiệm vụ chủ yếu của",
+    "options": [
+      "Liên hợp quốc (UN).",
+      "Ngân hàng Thế giới (WB).",
+      "Quỹ Tiền tệ quốc tế (IMF).",
+      "Tổ chức Thương mại Thế giới (WTO)."
+    ],
+    "correct": 2,
+    "explanation": "Giám sát hệ thống tài chính toàn cầu là nhiệm vụ chủ yếu của Quỹ Tiền tệ quốc tế (IMF). Vì IMF có nhiệm vụ chính: Giám sát hệ thống tài chính toàn cầu bằng cách theo dõi tỉ giá hối đoái và cán cân thanh toán; Hỗ trợ kĩ thuật và giúp đỡ tài chính cho các nước khi có yêu cầu. Dựa vào lí thuyết về Toàn cầu hóa, khu vực hóa kinh tế.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Nguyên nhân nào sau đây là quan trọng nhất làm cho diện tích trồng lúa gạo của Nhật Bản giảm?",
+    "options": [
+      "Ảnh hưởng từ thiên tai khắc nghiệt.",
+      "Biến đổi khí hậu và nước biển dâng.",
+      "Chuyển sang trồng các loại cây khác.",
+      "Phát triển nông nghiệp quảng canh."
+    ],
+    "correct": 2,
+    "explanation": "Nguyên nhân quan trọng nhất làm cho diện tích trồng lúa gạo của Nhật Bản giảm là do chuyển sang trồng các loại cây khác. Trong những năm gần đây, một số diện tích trồng lúa được chuyển sang trồng các loại cây khác hoặc chuyển đổi mục đích sử dụng để làm tăng hiệu quả ngành nông nghiệp. Dựa vào lí thuyết về Kinh tế Nhật Bản.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: Vấn đề nào sau đây thuộc về an ninh truyền thống?",
+    "options": [
+      "An ninh lương thực.",
+      "Xung đột về sắc tộc.",
+      "Xung đột vũ trang.",
+      "An ninh năng lượng."
+    ],
+    "correct": 2,
+    "explanation": "An ninh truyền thống là các vấn đề liên quan đến quân sự. An ninh phi truyền thống bao gồm an ninh lương thực, an ninh năng lượng, an ninh nguồn nước, an ninh mạng, biến đổi khí hậu, dịch bệnh, xung đột sắc tộc,... => Xung đột vũ trang thuộc về an ninh truyền thống. Dựa vào lí thuyết về Một số vấn đề an ninh toàn cầu.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Cho bảng số liệu một số chỉ số kinh tế của các trung tâm lớn trên thế giới năm 2021, đơn vị: tỉ USD (nguồn World Bank, 2022). Dựa vào bảng số liệu, nhận xét nào sau đây đúng về GDP, trị giá xuất khẩu hàng hóa và dịch vụ của các trung tâm lớn trên thế giới năm 2021?",
+    "options": [
+      "EU chiếm tỉ trọng trị giá xuất khẩu hàng hóa và dịch vụ thấp nhất trong 4 trung tâm kinh tế.",
+      "Hoa Kỳ có quy mô kinh tế lớn nhất thế giới năm 2021.",
+      "Tỉ trọng GDP của EU cao hơn Nhật Bản và Trung Quốc trong cơ cấu GDP thế giới.",
+      "Tổng trị giá xuất khẩu hàng hóa và dịch vụ của thế giới là 27 876,7 tỉ USD."
+    ],
+    "correct": 1,
+    "explanation": "B đúng vì quy mô kinh tế dựa vào giá trị GDP, GDP của Hoa Kỳ cao nhất => Hoa Kỳ có quy mô kinh tế lớn nhất thế giới năm 2021. A sai vì EU có trị giá xuất khẩu cao nhất. C sai vì tỉ trọng GDP của EU thấp hơn Trung Quốc. D sai vì tổng là 27 876,8 tỉ USD. Nhận xét bảng số liệu.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Cho bảng số liệu lưu lượng nước các tháng năm 2023 của sông Hồng tại trạm Sơn Tây, đơn vị: m³/s. Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về chế độ nước sông Hồng tại trạm Sơn Tây.",
+    "options": [
+      "Chế độ nước của sông Hồng có hai mùa rõ rệt do chịu tác động chủ yếu của chế độ mưa.",
+      "Mùa cạn của sông Hồng từ tháng 5 đến tháng 10 do chịu tác động chủ yếu của chế độ mưa.",
+      "Mùa lũ chiếm khoảng 80% lượng nước cả năm do tác động chủ yếu của địa hình.",
+      "Chế độ nước sông và lưu lượng nước sông Hồng chịu ảnh hưởng chủ yếu của địa hình."
+    ],
+    "correct": 0,
+    "explanation": "Chế độ nước của sông Hồng có hai mùa rõ rệt: mùa lũ từ tháng 6 đến tháng 11, mùa cạn từ tháng 12 đến tháng 5. Do chịu tác động của chế độ mưa: mùa mưa trùng với mùa lũ, mùa khô trùng với mùa cạn (mùa lũ chậm hơn mùa mưa 1 tháng). Dựa vào kỹ năng nhận xét bảng số liệu kết hợp lí thuyết Thiên nhiên nhiệt đới ẩm gió mùa.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Cho bảng số liệu về quy mô dân số và tỉ lệ gia tăng dân số ở nước ta giai đoạn 1999 – 2021. Nhận xét nào sau đây đúng với bảng số liệu trên?",
+    "options": [
+      "Gia tăng dân số và quy mô dân số đều giảm.",
+      "Dân số đông và tăng nhanh, gia tăng dân số còn cao.",
+      "Dân số liên tục tăng, gia tăng dân số có chiều hướng giảm.",
+      "Gia tăng dân số thấp, quy mô dân số giảm mạnh."
+    ],
+    "correct": 2,
+    "explanation": "C đúng vì quy mô dân số tăng liên tục từ 76,5 triệu (1999) lên 98,5 triệu (2021) và gia tăng dân số có chiều hướng giảm, đến 2021 còn 0,94%. A, D sai vì quy mô tăng. B sai vì gia tăng 0,94% thấp hơn mức bình quân thế giới. Nhận xét bảng số liệu.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Đường bộ chiếm tỉ trọng cao nhất trong cơ cấu khối lượng vận chuyển hàng hóa chủ yếu do nguyên nhân nào sau đây?",
+    "options": [
+      "Cơ động, thích nghi với điều kiện địa hình, vận chuyển chủ yếu hàng xuất và nhập khẩu.",
+      "Quãng đường vận chuyển rất dài, chủ yếu là phương tiện chính để giao lưu với quốc tế.",
+      "Phân bố rộng khắp cả nước, đảm nhận vai trò quan trọng trong việc xuất khẩu hàng hóa.",
+      "Loại hình phù hợp với nước ta, thích hợp với việc vận chuyển ở cự li ngắn và trung bình."
+    ],
+    "correct": 3,
+    "explanation": "Đường bộ chiếm tỉ trọng cao nhất do loại hình phù hợp với nước ta (cơ động nhất, thích nghi địa hình), thích hợp vận chuyển cự li ngắn và trung bình. A, B, C sai vì đường biển mới là loại vận chuyển chủ yếu hàng xuất nhập khẩu, quãng đường dài. Dựa vào lí thuyết Giao thông vận tải và bưu chính viễn thông.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Biểu đồ dưới đây thể hiện nội dung nào về ngành lúa của nước ta năm 2015 và năm 2020?",
+    "options": [
+      "Giá trị năng suất lúa của cả nước, Đồng bằng sông Hồng, Đồng bằng sông Cửu Long.",
+      "Quy mô và cơ cấu năng suất lúa của cả nước, Đồng bằng sông Hồng, Đồng bằng sông Cửu Long.",
+      "Quy mô và cơ cấu sản lượng lúa của cả nước, Đồng bằng sông Hồng, Đồng bằng sông Cửu Long.",
+      "Quy mô sản lượng lúa của cả nước, Đồng bằng sông Hồng, Đồng bằng sông Cửu Long."
+    ],
+    "correct": 0,
+    "explanation": "Đơn vị trên trục tung là tạ/ha – đơn vị của năng suất. Biểu đồ thể hiện giá trị năng suất lúa của cả nước, Đồng bằng sông Hồng, Đồng bằng sông Cửu Long. Đặt tên biểu đồ.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Việc phát triển các ngành dịch vụ ở vùng Đồng bằng sông Hồng nhằm",
+    "options": [
+      "thu hút nguồn vốn đầu tư nước ngoài.",
+      "giải quyết vấn đề việc làm của vùng.",
+      "đẩy nhanh tốc độ chuyển dịch kinh tế.",
+      "sử dụng hiệu quả nguồn tài nguyên."
+    ],
+    "correct": 2,
+    "explanation": "Việc phát triển các ngành dịch vụ ở vùng Đồng bằng sông Hồng nhằm đẩy nhanh tốc độ chuyển dịch kinh tế vì các ngành dịch vụ rất đa dạng, mang lại hiệu quả kinh tế cao, phù hợp với sự chuyển dịch cơ cấu kinh tế của đất nước. Dựa vào lí thuyết về Đồng bằng sông Hồng.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Lợi thế nổi bật nhất để Đông Nam Bộ hình thành các vùng chuyên canh cây công nghiệp quy mô lớn là",
+    "options": [
+      "địa hình tương đối bằng phẳng và có đất ba-dan, đất xám phù sa cổ chiếm diện tích lớn.",
+      "thị trường tiêu thụ rộng lớn và có các ngành công nghiệp chế biến sản phẩm cây công nghiệp phát triển.",
+      "khí hậu cận xích đạo với nền nhiệt cao, lượng mưa lớn và phân hoá thành hai mùa rõ rệt.",
+      "nguồn lao động dồi dào và có nhiều kinh nghiệm trong trồng, chế biến sản phẩm cây công nghiệp."
+    ],
+    "correct": 0,
+    "explanation": "Lợi thế nổi bật nhất dựa vào điều kiện tự nhiên, đặc biệt đất đai (loại đất phù hợp trồng cây công nghiệp lâu năm) => Địa hình tương đối bằng phẳng và có đất ba-dan, đất xám phù sa cổ chiếm diện tích lớn. Dựa vào lí thuyết về Đông Nam Bộ.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Giải pháp chủ yếu phát triển cây rau quả cận nhiệt theo hướng hàng hóa ở Trung du và miền núi Bắc Bộ là",
+    "options": [
+      "dùng các giống mới, nâng cao sản lượng, trồng trọt chuyên canh.",
+      "đẩy mạnh tiếp thị sản phẩm, sử dụng kĩ thuật mới, tăng diện tích.",
+      "đẩy mạnh việc chế biến, sản xuất tập trung, phát triển thị trường.",
+      "tăng năng suất, hình thành vùng chuyên canh, đa dạng sản phẩm."
+    ],
+    "correct": 2,
+    "explanation": "Giải pháp chủ yếu là đẩy mạnh chế biến (nâng cao chất lượng, tăng giá trị), sản xuất tập trung (khai thác thế mạnh, áp dụng công nghệ, tăng diện tích), phát triển thị trường (đảm bảo đầu ra). A, D thiếu thị trường. B bị bao quát bởi C. Dựa vào lí thuyết về Trung du và miền núi Bắc Bộ.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: Việc khẳng định chủ quyền của nước ta đối với các đảo và quần đảo là cơ sở để",
+    "options": [
+      "khai thác có hiệu quả các nguồn lợi vùng biển, hải đảo và thềm lục địa.",
+      "khẳng định chủ quyền của nước ta đối với vùng biển và thềm lục địa quanh đảo.",
+      "giao lưu kinh tế với các nước trong khu vực và trên thế giới.",
+      "tiến hành mở cửa, hội nhập, thu hút vốn đầu tư nước ngoài."
+    ],
+    "correct": 1,
+    "explanation": "Việc khẳng định chủ quyền đối với các đảo và quần đảo là cơ sở để khẳng định chủ quyền đối với vùng biển và thềm lục địa quanh đảo. Dựa vào lí thuyết về Phát triển kinh tế và đảm bảo quốc phòng an ninh ở Biển Đông và các đảo, quần đảo.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: Cao nguyên có độ cao trung bình lớn nhất miền Nam Trung Bộ và Nam Bộ là",
+    "options": [
+      "Kon Tum.",
+      "Đắk Lắk.",
+      "Mơ Nông.",
+      "Lâm Viên."
+    ],
+    "correct": 3,
+    "explanation": "Cao nguyên có độ cao trung bình lớn nhất là cao nguyên Lâm Viên (nền màu nâu đậm nhất) với đỉnh núi Chư Yang Sin rất cao (2405 m). Dựa vào bản đồ.",
+    "passage": "ban_do_mien_nam"
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: Cây chè có mặt ở vùng Tây Nguyên nước ta chủ yếu là do nguyên nhân nào sau đây?",
+    "options": [
+      "Nguồn nước phong phú, tầng đất dày, mưa nhiều.",
+      "Khí hậu có sự phân hóa theo độ cao của địa hình.",
+      "Khí hậu mang tính chất xích đạo gió mùa rõ rệt.",
+      "Diện tích đất badan rộng lớn và giàu dinh dưỡng."
+    ],
+    "correct": 1,
+    "explanation": "Cây chè nguồn gốc cận nhiệt, thích hợp khí hậu ôn hòa, mát mẻ. Tây Nguyên có nhiều cao nguyên cao rộng; theo quy luật đại cao: càng lên cao nhiệt độ càng giảm => khí hậu ôn hòa trên cao nguyên. Dựa vào bản đồ và lí thuyết phần Tây Nguyên.",
+    "passage": "ban_do_mien_nam"
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: Địa hình bờ biển và thềm lục địa ở ven biển Nam Trung Bộ khác với ở Nam Bộ chủ yếu do tác động của",
+    "options": [
+      "sóng biển, mạng lưới sông, dạng địa hình liền kề, kết quả hoạt động nội lực.",
+      "quá trình mài mòn, thổi mòn, các hoạt động bồi tụ phù sa của sông và biển.",
+      "thủy triều, sóng biển, dòng biển, các vận động kiến tạo hình thành vùng sụt lún.",
+      "các dãy núi đâm ngang ra biển, quá trình bóc mòn và bồi tụ xen kẽ, dòng biển."
+    ],
+    "correct": 0,
+    "explanation": "Nam Trung Bộ có nhiều vũng, vịnh sâu, kín gió; Nam Bộ có đồng bằng rộng lớn bằng phẳng => do tác động của sóng biển, mạng lưới sông, dạng địa hình liền kề (dãy núi đâm ngang ra biển), kết quả hoạt động nội lực. B, D thiếu nội lực. C không phải của Nam Trung Bộ. Dựa vào bản đồ và lí thuyết Thiên nhiên nhiệt đới ẩm gió mùa.",
+    "passage": "ban_do_mien_nam"
+  }
+]

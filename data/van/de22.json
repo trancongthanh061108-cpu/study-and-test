@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một cụm từ có cấu tạo KHÔNG cùng nhóm với các cụm từ còn lại.",
+    "options": [
+      "ăn uống điều độ",
+      "làm việc có chừng mực",
+      "cực kì hạnh phúc",
+      "vừa lia qua"
+    ],
+    "correct": 2,
+    "explanation": "ăn uống điều độ, làm việc có chừng mực, vừa lia qua đều là cụm động từ. Cực kì hạnh phúc là cụm tính từ. Vậy cụm từ không cùng nhóm là: cực kì hạnh phúc.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Bàn bạc",
+      "Hội đàm",
+      "Thảo luận",
+      "Trao đổi"
+    ],
+    "correct": 1,
+    "explanation": "Hội đàm thường dùng trong ngữ cảnh trang trọng, đặc biệt là các cuộc gặp gỡ ngoại giao, chính trị hoặc cấp cao. Các từ bàn bạc, thảo luận, trao đổi mang tính chất chung chung, dùng trong giao tiếp hàng ngày.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ mà nét nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "xuân thì",
+      "mùa xuân",
+      "xuân sắc",
+      "ngày xuân"
+    ],
+    "correct": 1,
+    "explanation": "Trong đáp án A, C, D: từ \"xuân\" được dùng với nghĩa chuyển, chỉ những thứ thuộc về tuổi trẻ, tươi đẹp, tràn đầy sức sống. Trong đáp án B: từ \"xuân\" dùng với nghĩa gốc, chỉ mùa mở đầu của năm. Vậy từ khác loại là: mùa xuân.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Ác độc",
+      "Tàn ác",
+      "Hiểm ác",
+      "Hung ác"
+    ],
+    "correct": 2,
+    "explanation": "Ác độc, tàn ác, hung ác đều mô tả sự độc ác, tàn bạo, hung bạo, tàn nhẫn của hành động hay con người. Hiểm ác nhấn mạnh sự nguy hiểm, thâm độc, ngấm ngầm, có tính chất đe dọa và hại ngầm nên khác nhóm.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ mà loại từ của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "lanh lảnh",
+      "núi non",
+      "thánh thót",
+      "mỏng manh"
+    ],
+    "correct": 1,
+    "explanation": "lanh lảnh, thánh thót, mỏng manh đều là từ láy. Núi non là từ ghép vì cả hai tiếng \"núi\" và \"non\" đều có nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nKhi mẹ bắt đầu kể tôi nghe câu chuyện của bà, mọi âm thanh xung quanh dường như _____ đi, chỉ còn vang vọng lại giọng nói nhẹ nhàng nhưng _____của mẹ.",
+    "options": [
+      "to lên/rõ ràng",
+      "nhỏ dần/dõng dạc",
+      "to lên/nhỏ nhẹ",
+      "nhỏ dần/rõng rạc"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn có sự tương phản giữa âm thanh xung quanh nhỏ dần và giọng nói dõng dạc của mẹ. Đáp án D vi phạm chính tả (\"rõng rạc\" phải là \"dõng dạc\"). Vậy đáp án đúng: nhỏ dần/dõng dạc.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\n_____ của mạng xã hội là tạo ra một hệ thống cho phép người dùng có thể kết nối, _____, chia sẻ những thông tin hữu ích trên nền tảng Internet.",
+    "options": [
+      "Mục tiêu/giao lưu",
+      "Tính chất/hàn gắn",
+      "Mục đích/mạnh mẽ",
+      "Trạng thái/liên minh"
+    ],
+    "correct": 0,
+    "explanation": "\"kết nối\" và \"chia sẻ\" là động từ nên chỗ trống thứ hai cũng cần là động từ (\"giao lưu\"), loại các tính từ như \"mạnh mẽ\". \"Mục tiêu\" nghĩa là đích cần nhắm tới, phù hợp ngữ cảnh.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\n_____ nói sinh mệnh là một bài ca, _____tuổi trẻ nhất định sẽ là chương nhạc chói lọi nhất.",
+    "options": [
+      "Dù/nhưng",
+      "Không những/thì",
+      "Vì/nên",
+      "Nếu/thì"
+    ],
+    "correct": 3,
+    "explanation": "Mối quan hệ giữa hai vế là điều kiện - kết quả. \"Dù/nhưng\" là đối lập, \"Không những\" đi với \"mà còn\" là tăng tiến, \"Vì/nên\" là nguyên nhân - kết quả. Vậy đáp án đúng là Nếu/thì.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nCó thể trường học là nơi hiện tại bạn _____nhất, nhưng lại là nơi sau này bạn _____nhất.",
+    "options": [
+      "không muốn đến/muốn trở về",
+      "muốn đến/muốn trở về",
+      "không muốn đến/không muốn trở về",
+      "không muốn trở về/muốn đến"
+    ],
+    "correct": 0,
+    "explanation": "Câu văn thể hiện mối quan hệ đối lập giữa mong muốn quá khứ và tương lai với trường học. Đáp án D sai logic vì vế đầu đề cập nơi hiện tại. Vậy đáp án đúng: không muốn đến/muốn trở về.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nKhi nghe mẹ kể tiếp câu chuyện, tôi mới biết mẹ từng ước mơ trở thành _____, mặc dù bà ngoại muốn mẹ học _____ tại nhạc viện.",
+    "options": [
+      "ca sĩ/âm nhạc",
+      "bác sĩ tâm lí/soạn kịch",
+      "bác sĩ tâm lí/thanh nhạc",
+      "nghệ sĩ/nghệ thuật"
+    ],
+    "correct": 2,
+    "explanation": "Câu văn thể hiện sự đối lập giữa ước mơ của mẹ và mong muốn của bà ngoại. \"Bác sĩ tâm lí\" và học \"thanh nhạc\" tại nhạc viện là hợp lí và không tương đương nhau.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nCụ ngửa cổ ra đằng sau, uống một hơi cạn sạch, rồi vừa chép miệng vừa lần ruột tượng trả tiền. Cụ để ba đồng xu vào tay Liên, xoa đầu chị một cái rồi lọm khọm bước ra ngoài.",
+    "options": [
+      "đằng sau",
+      "cạn sạch",
+      "ruột tượng",
+      "lọm khọm"
+    ],
+    "correct": 3,
+    "explanation": "\"lọm khọm\" mô tả dáng đi khó nhọc của người già yếu, lưng còng, không phù hợp để mô tả dáng vẻ người vừa uống rượu. Sửa lại: \"lảo đảo\".",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nViệc gặp được người yêu bạn, nguyện cùng bạn gánh vác một phần cuộc sống và được sống chọn một đời bên người bạn đời mình đã chọn đó chính là hạnh phúc tột cùng.",
+    "options": [
+      "người yêu bạn",
+      "chọn một đời",
+      "mình đã chọn",
+      "hạnh phúc"
+    ],
+    "correct": 1,
+    "explanation": "\"trọn\" nghĩa là đầy đủ, trọn vẹn; \"chọn\" nghĩa là lựa chọn. \"Trọn một đời\" (một cuộc đời trọn vẹn) phù hợp hơn \"chọn một đời\" trong ngữ cảnh này.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nTinh thần bi tráng là không né tránh thực tại, tuy buồn thương, gian khổ nhưng bi luỵ, ngược lại, vô cùng hào hùng, mạnh mẽ.",
+    "options": [
+      "không né tránh",
+      "buồn thương",
+      "bi luỵ",
+      "vô cùng hào hùng"
+    ],
+    "correct": 2,
+    "explanation": "Cặp quan hệ từ \"tuy... nhưng\" đòi hỏi hai vế đối lập nghĩa, nhưng \"bi luỵ, buồn thương, gian khổ\" không tương phản với nhau. Sửa lại: \"không bi lụy\".",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nQua truyện ngắn \"Người lái đò Sông Đà\", tác giả đã xây dựng hình tượng của nhân vật người lái đò bằng nhiều nghệ thuật đặc sắc ở nhiều lĩnh vực như binh pháp, âm nhạc, võ thuật, thể thao...",
+    "options": [
+      "truyện ngắn",
+      "người lái đò",
+      "lĩnh vực",
+      "thể thao"
+    ],
+    "correct": 0,
+    "explanation": "Tác phẩm \"Người lái đò Sông Đà\" thuộc thể loại tuỳ bút, không phải truyện ngắn.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nThông qua cách thể hiện nỗi nhớ rất riêng biệt của từng nhà thơ, thấy được cá tính sáng tạo đặc biệt của họ và điều đó tạo nên dấu ấn lâu bền trong lòng người đọc.",
+    "options": [
+      "Thông qua",
+      "riêng biệt",
+      "thấy được",
+      "dấu ấn"
+    ],
+    "correct": 2,
+    "explanation": "Câu văn sai về ngữ pháp: thiếu chủ ngữ. Cần thêm chủ ngữ trước \"thấy được\", ví dụ: \"chúng ta thấy được\".",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Nội dung chính của bài đọc trên là gì?",
+    "options": [
+      "Trình bày về sự hình thành hạt cốm trong thiên nhiên",
+      "Bày tỏ niềm ngưỡng mộ về sự khéo léo của con người trong công đoạn chế biến cốm.",
+      "Ca ngợi giá trị của cốm.",
+      "Bàn về sự thưởng thức cốm."
+    ],
+    "correct": 3,
+    "explanation": "Cả hai đoạn văn đều hướng tới trình bày cách thưởng thức cốm với các chi tiết: ăn cốm phải ăn từng chút ít, thong thả và ngẫm nghĩ; cốm để nguyên chất ăn bao giờ cũng ngon và nhiều vị.",
+    "passage": "passage_com"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Từ nào dưới đây đồng nghĩa với từ \"chút chiu\" (gạch chân, in đậm) trong bài đọc?",
+    "options": [
+      "Chút chít",
+      "Chắt chiu",
+      "Chút đỉnh",
+      "Chắt lót"
+    ],
+    "correct": 1,
+    "explanation": "\"chút chiu\" trong ngữ cảnh được hiểu là nâng niu, nhẹ nhàng. \"Chắt chiu\" đồng nghĩa vì cùng nghĩa chăm chút, nâng niu vì coi là quý.",
+    "passage": "passage_com"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Theo bài đọc, cốm ngon nhất là khi được chế biến như thế nào?",
+    "options": [
+      "Cốm xào, thắng đường",
+      "Cốm làm chả",
+      "Cốm làm bánh",
+      "Cốm nguyên chất"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn [2] có nêu: \"Cốm để nguyên chất ăn bao giờ cũng ngon và nhiều vị. Tất cả những cách thức đem nấu khác chỉ làm cho thức quà ấy bớt mùi thơm và chất dẻo đi thôi\".",
+    "passage": "passage_com"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Theo bài đọc, cần thưởng thức cốm như thế nào để tận hưởng trọn vẹn vị ngon của thức quà này?",
+    "options": [
+      "Ăn từng hạt, thong thả, ngẫm nghĩ để tận hưởng vị ngọt của cốm, mùi thơm của lá sen già và nhẹ nhàng nâng niu hạt cốm để thể hiện sự biết ơn đối với thức quà của đất trời",
+      "Vận dụng cả thị giác, vị giác, khứu giác, cảm giác để thong thả, ngẫm nghĩ thưởng thức hương vị của cốm một cách trọn vẹn nhất.",
+      "Phải khéo léo, nhẹ nhàng, nâng đỡ, vuốt ve những hạt cốm mới cảm nhận được rõ hương vị của món quà thiên nhiên này.",
+      "Phải nghiền ngẫm, ăn ở chợ cốm, đúng vào mùa thu khi tiết trời se lạnh mới thưởng thức được trọn vẹn mùi thơm của lá sen, vị dẻo của hạt cốm."
+    ],
+    "correct": 1,
+    "explanation": "Bài đọc đề cập đến việc thưởng thức cốm bằng nhiều giác quan: vị giác, cảm giác (ăn từng chút ít, thong thả và ngẫm nghĩ), khứu giác (mùi thơm phức, mùi hơi ngát), thị giác (màu xanh của cốm).",
+    "passage": "passage_com"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Đâu là biểu hiện của sự liên kết về nội dung trong bài đọc trên?",
+    "options": [
+      "Các câu văn có trình tự sắp xếp hợp lý và đều hướng về một chủ đề.",
+      "Các câu văn được sắp xếp theo trình tự hợp lý, viết về đề tài mang tính chất thời sự.",
+      "Các phép nối, phép lặp, phép thế được sử dụng nhuần nhuyễn để liên kết các câu văn.",
+      "Các thông tin được viết một cách khách quan, chính xác, khoa học."
+    ],
+    "correct": 0,
+    "explanation": "Liên kết nội dung gồm liên kết chủ đề và liên kết logic. Các câu văn trong bài đọc được sắp xếp theo trình tự logic đều hướng về chủ đề chung là bàn về sự thưởng thức cốm.",
+    "passage": "passage_com"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Nội dung chính của bài đọc trên là gì?",
+    "options": [
+      "Trình bày nỗ lực chống lại bệnh sốt rét của các bác sĩ Việt Nam trong nền y học hiện đại.",
+      "Trình bày sự nghiêm trọng của các biến thể bệnh sốt rét.",
+      "Trình bày các loại vaccine đã được nghiên cứu, thử nghiệm thành công trong điều trị bệnh sốt rét.",
+      "Trình bày nỗ lực chống lại bệnh sốt rét của các bác sĩ Việt Nam trong nền y học vệ quốc."
+    ],
+    "correct": 3,
+    "explanation": "Tác giả viết về căn bệnh sốt rét trong giai đoạn đất nước chống giặc cam go, đội ngũ y bác sĩ nỗ lực tìm phương án chống lại bệnh này trong nền y học vệ quốc.",
+    "passage": "passage_sot_ret"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Tác giả dẫn ra các số liệu trong đoạn [2] \"từ năm 1956 đến năm 1961, với sự hỗ trợ của Nga, Việt Nam đã thực hiện một kế hoạch ở quy mô lớn: kiểm tra 3.000 địa điểm, xét nghiệm 646.277 người; lấy 435.370 mẫu máu xét nghiệm; kiểm tra 319.087 ngôi nhà, 168.084 ao hồ\" nhằm mục đích nào dưới đây?",
+    "options": [
+      "Kế hoạch thử nghiệm bệnh sốt rét của bác sĩ Đặng Văn Ngữ trong thời vệ quốc có quy mô rộng lớn, vượt xa thời kỳ Việt Nam đang bị đô hộ.",
+      "Kế hoạch thử nghiệm bệnh sốt rét của bác sĩ Đặng Văn Ngữ trong thời bị đô hộ có quy mô rộng lớn, vượt xa thời kỳ vệ quốc.",
+      "Đất nước Việt Nam đang có những bước tiến lớn trong nền y học.",
+      "Việt Nam đang có sự khởi sắc về kinh tế và y học trong thời kỳ đất nước chiến đấu."
+    ],
+    "correct": 0,
+    "explanation": "Bài đọc khẳng định kế hoạch của bác sĩ Đặng Văn Ngữ có quy mô gấp ba đến bốn lần kế hoạch mà Viện Pasteur thực hiện từ 1927-1938 (thời kỳ đất nước bị đô hộ).",
+    "passage": "passage_sot_ret"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Thông tin nào dưới đây KHÔNG ĐÚNG về bác sĩ Đặng Văn Ngữ?",
+    "options": [
+      "Bác sĩ Đặng Văn Ngữ là một trong những người tiên phong trong chiến dịch chống lại bệnh sốt rét.",
+      "Bác sĩ Đặng Văn Ngữ đã anh dũng hi sinh trong khi đang tiến hành nghiên cứu để tìm ra một loại vaccin phòng bệnh sốt rét cho bộ đội và nhân dân ta.",
+      "Bác sĩ Đặng Văn Ngữ đã hoàn tất ước mơ chế tạo vaccine chống lại bệnh sốt rét.",
+      "Bác sĩ Đặng Văn Ngữ đã để lại những bài quý giá về lòng yêu nước, tình yêu nghề và trái tim nhân ái của một vị lương y như từ mẫu."
+    ],
+    "correct": 2,
+    "explanation": "Bài đọc có trình bày: Ước mơ làm ra vaccine hữu hiệu của bác sĩ Đặng Văn Ngữ đã không thể hoàn tất, do đó thông tin C không đúng.",
+    "passage": "passage_sot_ret"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Từ \"nan đề\" (in đậm, gạch chân) trong đoạn (4) được hiểu là gì?",
+    "options": [
+      "Căn bệnh nguy hiểm, chưa tìm ra cách chữa.",
+      "Vấn đề khó khăn, phức tạp, khó giải quyết.",
+      "Sự tốn kém về chi phí.",
+      "Sự biến đổi khôn lường, khó kiểm soát."
+    ],
+    "correct": 1,
+    "explanation": "\"nan đề\" được hiểu là vấn đề khó khăn, phức tạp, khó giải quyết, ở đây muốn nói bệnh sốt rét là căn bệnh khó kiểm soát.",
+    "passage": "passage_sot_ret"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Thông tin nào được suy ra từ đoạn trích trên?",
+    "options": [
+      "Phạm Ngọc Thạch, Đặng Văn Ngữ là những cái tên nổi tiếng trong công cuộc chống lại căn bệnh sốt rét thời kì đất nước còn là thuộc địa.",
+      "Cuộc chiến chống bệnh sốt rét rất khốc liệt bởi các di sản y học trước đây không còn phù hợp để áp dụng vào nền y học vệ quốc.",
+      "Bác sĩ Đặng Văn Ngữ và Phạm Ngọc Thạch đều qua đời vì nhiễm bệnh sốt rét trong quá trình nghiên cứu chữa căn bệnh này.",
+      "Bác sĩ Đặng Văn Ngữ đã chế tạo thành công vaccine sốt rét RTS,S đầu tiên trên thế giới."
+    ],
+    "correct": 1,
+    "explanation": "Thông tin này xuất hiện ở đoạn [1]: những kỹ thuật, mục tiêu và kết luận nghiên cứu thời thuộc địa đều trở nên lỗi thời với một quốc gia mới giành độc lập.",
+    "passage": "passage_sot_ret"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích sau và trả lời câu hỏi:\nVậy cái đẹp trong khoa học là gì? Trước hết đó chính là vẻ đẹp vật chất của thế giới, nó đập ngay vào mắt chúng ta và làm chúng ta choáng ngợp. Như Mặt Trời không phải chỉ là nguồn sống, là ánh sáng và năng lượng; nó còn là nguồn của sự lộng lẫy và kinh ngạc. Khi đùa giỡn với bụi nước, với các phân tử khí và các tinh thể băng, khi phản xạ trên bề mặt các hạt bụi, cây cối, núi non, khi soi mình trên mặt nước đại dương và ao hồ, hay khi luồn lách giữa các đám mây, trong sương mù, Mặt Trời của chúng ta đã tạo ra những khung cảnh thiên nhiên tuyệt vời, làm dịu trái tim và an ủi tâm hồn. Một vẻ đẹp thường xuyên an ủi và đôi khi thậm chí còn cứu rỗi chúng ta.\n(Trịnh Xuân Thuận, Vũ trụ và hoa sen, NXB Trí thức)\nThao tác lập luận chính trong đoạn trích trên là gì?",
+    "options": [
+      "Giải thích",
+      "Chứng minh",
+      "Bình luận",
+      "Bác bỏ"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn đi cắt nghĩa cái đẹp trong khoa học (\"Vậy cái đẹp trong khoa học là gì?\"), sau đó dùng Mặt Trời để minh hoạ cho định nghĩa. Đây là thao tác giải thích.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích sau đây và trả lời câu hỏi:\nLàng ở trong tầm đại bác của đồn giặc. Chúng nó bắn, đã thành lệ, mỗi ngày hai lần, buổi sáng sớm và xế chiều, hoặc đứng bóng và xẩm tối, hoặc nửa đêm và trở gà gáy. Hầu hết đạn đại bác đều rơi vào ngọn đồi xà nu cạnh con nước lớn. Cả rừng xà nu hàng vạn cây không có cây nào không bị thương. Có những cây bị chặt đứt ngang nửa thân mình, đổ ào ào như một trận bão. Ở chỗ vết thương, nhựa ứa ra, tràn trề, thơm ngào ngạt, long lanh nắng gay gắt, rồi dần dần bầm lại, đen và đặc quện thành từng cục máu lớn.\n(Nguyễn Trung Thành, Rừng xà nu)\nCâu thơ nào dưới đây có nội dung tương đồng với đoạn trích trên?",
+    "options": [
+      "Doanh trại bừng lên hội đuốc hoa, / Kìa em xiêm áo tự bao giờ (Quang Dũng)",
+      "Ôi những cánh đồng quê chảy máu / Dây thép gai đâm nát trời chiều (Nguyễn Đình Thi)",
+      "Quân đi điệp điệp trùng trùng / Bước chân nát đá muôn tàn lửa bay (Tố Hữu)",
+      "Hồn ta cánh rộng mở / Đôi bên gió thổi vào (Xuân Diệu)"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích viết về cảnh rừng xà nu chịu bao đau thương bởi đại bác quân thù. Hai câu thơ B dùng biện pháp nhân hoá nói về sự tổn thương của quê hương, đất nước dưới gót giày ngoại xâm, tương đồng nội dung.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn trích sau đây và trả lời câu hỏi:\nLàm sao bây giờ? Ta phải chống,\nGiặc đã bắt cha con đi, nó đánh,\nCha chửi Việt gian, cha đánh lại Tây\nSúng nổ ngay đì đùng một loạt,\nCha ngã xuống nằm lăn trên mặt đất\nCha ơi! Cha không biết nói rồi...\n(Nông Quốc Chấn, Dọn về làng)\nThành phần biệt lập xuất hiện trong đoạn thơ trên là gì?",
+    "options": [
+      "Thành phần gọi đáp",
+      "Thành phần phụ chú",
+      "Thành phần cảm thán",
+      "Thành phần tình thái"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích xuất hiện thành phần biệt lập gọi đáp \"Cha ơi!\".",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích sau đây và trả lời câu hỏi:\nTôi quyết rằng trong lịch sử thi ca Việt Nam chưa bao giờ có một thời đại phong phú như thời đại này. Chưa bao giờ người ta thấy xuất hiện cùng một lần một hồn thơ rộng mở như Thế Lữ, mơ màng như Lưu Trọng Lư, hùng tráng như Huy Thông, trong sáng như Nguyễn Nhược Pháp, ảo não như Huy Cận, quê mùa như Nguyễn Bính, kì dị như Chế Lan Viên... và thiết tha, rạo rực, băn khoăn như Xuân Diệu.\n(Hoài Thanh - Hoài Chân, Thi nhân Việt Nam)\nThao tác lập luận chính trong đoạn trích trên là gì?",
+    "options": [
+      "Bình luận",
+      "So sánh",
+      "Chứng minh",
+      "Bác bỏ"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả chứng minh sự vượt trội của phong trào thơ mới bằng việc dẫn ra bằng chứng của các nhà thơ tài năng, cho thấy sự phong phú, đặc sắc của nhiều cá tính sáng tạo.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích sau đây và trả lời câu hỏi:\nÔng là nhà phê bình văn học xuất sắc nhất của văn học Việt Nam hiện đại. Ông là tác giả của nhiều công trình có giá trị như Văn chương và hành động (1936), Nói chuyện thơ kháng chiến (1950), Phê bình và tiểu luận (3 tập - 1960, 1965, 1971).\n(NXB Giáo dục Việt Nam)\n\"Ông\" trong đoạn trích trên là ai?",
+    "options": [
+      "Xuân Diệu",
+      "Hoài Thanh",
+      "Thạch Lam",
+      "Vũ Ngọc Phan"
+    ],
+    "correct": 1,
+    "explanation": "\"Ông\" được nhắc đến là Hoài Thanh, nhà phê bình văn học xuất sắc nhất của văn học Việt Nam hiện đại, tác giả của Văn chương và hành động, Nói chuyện thơ kháng chiến, Phê bình và tiểu luận.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn thơ sau và trả lời câu hỏi:\nTôi đã là con của vạn nhà\nLà em của vạn kiếp phôi pha\nLà anh của vạn đầu em nhỏ\nKhông áo cơm, cù bất cù bơ...\n(Tố Hữu, Từ ấy)\nCụm từ \"kiếp phôi pha\" (in đậm, gạch chân) trong khổ thơ được hiểu là gì?",
+    "options": [
+      "Những kiếp người đã khuất vì đói khổ.",
+      "Những kiếp người đã hi sinh cho cách mạng.",
+      "Những kiếp người sống khổ sở, bất hạnh, đáng thương.",
+      "Những kiếp người đang sống có ích cho đời, cống hiến cho xã hội."
+    ],
+    "correct": 2,
+    "explanation": "Khổ thơ thể hiện tình cảm của Tố Hữu với quần chúng nhân dân lao động. \"Kiếp phôi pha\" được hiểu là những kiếp người sống khổ sở, bất hạnh, đáng thương.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nMẹ già nên hay lẫn lộn,\nQue diêm mẹ đánh ngược đầu.\nThương con, mẹ vào đun bếp,\nCon nhìn, mắt ướt, lòng đau.\n(Nguyễn Huy Thiệp, Mẹ, Trích Anh hùng còn chi - di cảo Nguyễn Huy Thiệp, NXB Hội Nhà văn, Hà Nội, 2023)\nPhương thức biểu đạt chính của đoạn thơ trên là gì?",
+    "options": [
+      "Tự sự",
+      "Biểu cảm",
+      "Miêu tả",
+      "Thuyết minh"
+    ],
+    "correct": 1,
+    "explanation": "Phương thức biểu đạt chính là biểu cảm, bài thơ thể hiện dòng cảm xúc xót xa trước tuổi tác của người mẹ và sự xúc động của người con.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích sau và trả lời câu hỏi\nBầu trời, vào những đêm không trăng, ở xa cái ánh sáng chói lòa của các đô thị, là một cảnh tượng thật tuyệt vời. Hàng ngàn những chấm sáng lấp lánh, trong đó ở phía dưới kia, chếch về hướng tây, có hai chấm sáng hơi sáng hơn nhưng ít nhấp nháy hơn. Đó là hai hành tinh Hỏa và Mộc, những người láng giềng gần gũi nhất của Trái đất. Hỏa tinh là nơi mà các máy móc do con người chế tạo đã được đặt lên và những nghiên cứu về sự sống ngoài Trái đất đã khẳng định là không có; còn Mộc tinh là một hành tinh khổng lồ trong hệ Mặt trời, nó lớn gấp 11 lần và nặng gấp 318 lần Trái đất của chúng ta.\n(Trịnh Xuân Thuận, Giai điệu bí ẩn và con người đã tạo ra vũ trụ)\nPhong cách ngôn ngữ của đoạn trích trên là gì?",
+    "options": [
+      "Phong cách ngôn ngữ chính luận",
+      "Phong cách ngôn ngữ báo chí",
+      "Phong cách ngôn ngữ nghệ thuật",
+      "Phong cách ngôn ngữ khoa học"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích viết về lĩnh vực khoa học (các hành tinh trong hệ Mặt trời), sử dụng ngôn ngữ khoa học như nghiên cứu, phản xạ, vũ trụ... nên là phong cách ngôn ngữ khoa học.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nLá không vàng, lá không rụng, lá lại thêm xanh; ấy là mùa thu đã về; mùa thu mới về, yểu điệu thục nữ... Có ai thổi cơm mà khói nhẹ mơ hồ đâu đây...\nChưa có sương mù, chưa có hẳn sương mờ; chỉ là đôi thoáng sương mơ, mỏng như chiêm bao. Mặt Trời nhạt vừa khuất mây, thì khối lá biếc hơi nhoà; Mặt Trời vừa ló lại ánh vàng, thì khối lá lại hiện nguyên sắc biếc; không biết có phải sương thu mới nhóm, hay đó chỉ là sự huyền ảo của chính hồn tôi?\n(Xuân Diệu, Thu, in trong Tản văn hiện đại Việt Nam (Lê Trà My tuyển chọn), NXB Hải Phòng, Hải Phòng, 2011)\nĐể làm nổi bật vẻ đẹp lãng mạn của mùa thu, tác giả đã phối hợp những biện pháp nghệ thuật nào?",
+    "options": [
+      "Nhân hoá, điệp từ, liệt kê, so sánh, câu hỏi tu từ",
+      "Ẩn dụ, điệp từ, liệt kê, so sánh, câu hỏi tu từ",
+      "Nhân hoá, điệp từ, liệt kê, nói quá, câu hỏi tu từ",
+      "Nhân hoá, điệp từ, nói mỉa, so sánh, câu hỏi tu từ"
+    ],
+    "correct": 0,
+    "explanation": "Biện pháp tu từ nổi bật: nhân hoá (mùa thu yểu điệu thục nữ), điệp từ (lá, sương, mùa thu, Mặt Trời), liệt kê (lá không vàng, lá không rụng, lá lại thêm xanh), so sánh (mỏng như chiêm bao), câu hỏi tu từ.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích sau đây và trả lời câu hỏi:\nTừ thượng tuần tháng Chín, nhiều sắc lệnh, nghị định của Chính phủ lâm thời được ban hành. Hệ thống quan lại cũ bị giải tán. Bộ máy chính quyền của thực dân, phong kiến bị hoàn toàn đập tan. Chính phủ quyết định sẽ mở tổng tuyển cử trong cả nước để bầu ra Quốc dân đại hội... Chính phủ quyết định địa chủ phải giảm tô 25%. Tất cả những món nợ lâu đời ở nông thôn đều xoá bỏ. Chế độ lao động ngày làm tám giờ được ban hành... Việc học chữ quốc ngữ trở thành bắt buộc và không mất tiền... Ngay từ đầu tháng Chín, thuế thân, thứ thuế thực dân Pháp đánh hằng năm... đều bị bãi bỏ.\n(Võ Nguyên Giáp, Những năm tháng không thể nào quên, NXB Quân đội nhân dân, Hà Nội, 2001)\nNội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Hoàn cảnh khó khăn \"ngàn cân treo sợi tóc\" của đất nước Việt Nam mới.",
+      "Sự mạnh mẽ của dân tộc thời kì hòa bình.",
+      "Những biện pháp tích cực của chính quyền mới giải quyết khó khăn.",
+      "Hình ảnh đẹp đẽ của Bác Hồ như sự tượng trưng cho một chỉnh thể mới."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích trình bày hàng loạt biện pháp của chính quyền mới về cải tổ bộ máy chính trị, chỉnh sửa tô thuế, giáo dục, chế độ lao động.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Phong cách ngôn ngữ của đoạn trích là gì?",
+    "options": [
+      "Báo chí",
+      "Khoa học",
+      "Nghệ thuật",
+      "Chính luận"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích bàn luận về vấn đề triết học, sử dụng phương thức nghị luận, bác bỏ quan niệm sai lầm về thuyết hiện sinh và đưa ra lập luận khẳng định, nên thuộc phong cách ngôn ngữ chính luận.",
+    "passage": "passage_sartre"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo đoạn trích, thuyết hiện sinh là một học thuyết?",
+    "options": [
+      "Tịch tĩnh",
+      "Bi quan",
+      "Lạc quan",
+      "Tĩnh lặng"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích khẳng định: \"không có học thuyết nào lạc quan hơn\" thuyết hiện sinh vì nó định nghĩa con người bằng hành động và số phận con người nằm trong bản thân con người.",
+    "passage": "passage_sartre"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Vì sao tác giả cho rằng thuyết hiện sinh không phải là một học thuyết bi quan?",
+    "options": [
+      "Vì nó khuyến khích con người dựa vào hành động của mình",
+      "Vì nó cho rằng số phận con người không thay đổi",
+      "Vì nó đặt trọng tâm vào tính chủ thể cá nhân",
+      "Vì nó nhấn mạnh vào những khả thể của con người"
+    ],
+    "correct": 0,
+    "explanation": "Thuyết hiện sinh khẳng định số phận con người nằm trong chính bản thân mỗi người, con người chỉ có thể hy vọng vào hành động của chính mình, từ đó thể hiện cái nhìn lạc quan.",
+    "passage": "passage_sartre"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Theo đoạn văn, điểm xuất phát của thuyết hiện sinh là gì?",
+    "options": [
+      "Tập hợp các lý thuyết về khả thể",
+      "Chân lý tuyệt đối của ý thức tự đạt đến chính mình",
+      "Những học thuyết mang tính lạc quan",
+      "Một triết học về hành động và sự dấn thân"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nêu: \"Ngay từ điểm xuất phát, không có chân lí nào khác ngoài chân lí này: tôi tư duy, vậy tôi tồn tại, đấy là chân lí tuyệt đối của ý thức tự đạt đến chính mình\".",
+    "passage": "passage_sartre"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Tác giả nhắc đến cogito của Descartes với ý nghĩa gì?",
+    "options": [
+      "Để nói về tính khả thể của các lý thuyết",
+      "Để khẳng định rằng sự tồn tại dựa trên hành động",
+      "Để minh chứng cho việc con người đạt đến chân lý qua tư duy",
+      "Để bác bỏ các lý thuyết không có cơ sở hiện thực"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả nhắc đến cogito \"tôi tư duy, vậy tôi tồn tại\" của Descartes nhằm khẳng định mọi lý thuyết về con người phải xuất phát từ sự tự ý thức của cá nhân về chính mình, minh chứng con người đạt đến chân lý qua tư duy.",
+    "passage": "passage_sartre"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Xác định ngôi kể trong đoạn trích trên?",
+    "options": [
+      "Ngôi thứ nhất hạn tri",
+      "Ngôi thứ nhất toàn tri",
+      "Ngôi thứ ba toàn tri",
+      "Ngôi thứ ba hạn tri"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích được kể bởi ngôi thứ ba toàn tri: người kể chuyện ẩn danh, không tham gia cốt truyện nhưng biết hết mọi diễn biến và tâm tư nhân vật.",
+    "passage": "passage_bao_bien"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Biện pháp tu từ nào được sử dụng trong câu sau: \"Trước làn sóng hung hăng, dãy người thật mỏng manh như những chiếc lá.\"?",
+    "options": [
+      "So sánh, nhân hóa",
+      "Nhân hóa, ẩn dụ",
+      "Ẩn dụ, hoán dụ",
+      "Hoán dụ, liệt kê"
+    ],
+    "correct": 0,
+    "explanation": "Câu văn nổi bật với biện pháp so sánh (dãy người mỏng manh như những chiếc lá) và nhân hóa (làn sóng hung hăng).",
+    "passage": "passage_bao_bien"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Hình ảnh \"Tất cả mọi người thụt sâu vào đất, nâu như đất, lẫn với đất\" KHÔNG thể hiện điều gì?",
+    "options": [
+      "Sự hòa quyện giữa con người và thiên nhiên.",
+      "Sự gắn bó, hy sinh của con người với đất nước.",
+      "Sự hòa đồng, thân thiết giữa con người với con người.",
+      "Tinh thần bền bỉ, ý chí vững vàng của con người."
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh này thể hiện sự hòa quyện với thiên nhiên, sự gắn bó hy sinh và tinh thần bền bỉ, ý chí vững vàng, không nhấn mạnh sự hòa đồng, thân thiết giữa các cá nhân.",
+    "passage": "passage_bao_bien"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Những thanh niên xung kích đã làm gì để ngăn dòng nước mặn?",
+    "options": [
+      "Dùng những cây tre cắm vào dòng nước.",
+      "Khoác vai nhau, dùng thân mình tạo thành hàng rào sống.",
+      "Sử dụng củi vẹt để chặn nước.",
+      "Đắp đất vào đoạn đê bị lở."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: \"Họ khoác vai nhau thành một sợi dây dài, lấy thân mình ngăn dòng nước mặn\".",
+    "passage": "passage_bao_bien"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Ý nào sau đây thể hiện chính xác nhất chủ đề của đoạn trích?",
+    "options": [
+      "Tinh thần anh hùng và vẻ đẹp của con người lao động.",
+      "Tình yêu quê hương và lòng tự hào dân tộc.",
+      "Sự mâu thuẫn giữa vẻ đẹp bên ngoài và sự đau khổ bên trong.",
+      "Sự hi sinh và đoàn kết trong công cuộc bảo vệ, xây dựng đất nước."
+    ],
+    "correct": 3,
+    "explanation": "Qua cảnh tượng đám người ra sức ngăn đê vỡ, bất chấp hiểm nguy để bảo vệ xóm làng, chủ đề của đoạn trích là sự hi sinh và đoàn kết trong công cuộc bảo vệ, xây dựng đất nước.",
+    "passage": "passage_bao_bien"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Xác định thể thơ của văn bản trên?",
+    "options": [
+      "Lục bát",
+      "Bảy chữ",
+      "Tám chữ",
+      "Tự do"
+    ],
+    "correct": 3,
+    "explanation": "Văn bản thuộc thể thơ tự do với các câu có số chữ khác nhau (câu 7 chữ, câu 8 chữ, câu 3 chữ,...).",
+    "passage": "passage_ho_la_ai"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Có bao nhiêu từ láy xuất hiện trong bài thơ trên?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "Bài thơ có 10 từ láy: xô bồ, lặng lẽ, len lỏi, dập dìu, nhọc nhằn, lung linh, dào dạt, chân chất, ồn ào, vội vã.",
+    "passage": "passage_ho_la_ai"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Hình ảnh \"vương gốc rạ\" trong câu thơ \"Đi giữa thị thành nhưng còn vương gốc rạ\" biểu tượng cho điều gì?",
+    "options": [
+      "Sự chân chất và giản dị",
+      "Sự hi sinh và che chở",
+      "Sự cố gắng và hòa nhập",
+      "Sự bảo vệ và yêu thương"
+    ],
+    "correct": 0,
+    "explanation": "Hình ảnh \"vương gốc rạ\" biểu tượng cho sự chân chất và giản dị, dù sống trong thành phố hiện đại vẫn giữ phẩm chất, đặc điểm của cuộc sống nông thôn.",
+    "passage": "passage_ho_la_ai"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Bài thơ ca ngợi đối tượng nào dưới đây?",
+    "options": [
+      "Các doanh nhân thành đạt.",
+      "Những bác sĩ đã cứu sống con người.",
+      "Những kĩ sư ngày ngày xây dựng đất nước.",
+      "Những người cha, người mẹ làm nghề bán hàng rong."
+    ],
+    "correct": 3,
+    "explanation": "Xuyên suốt bài thơ là lời ngợi ca dành cho những người cha, người mẹ đã vất vả làm việc từ gánh hàng rong để nuôi dưỡng con cái thành đạt.",
+    "passage": "passage_ho_la_ai"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Những con người bình thường trong bài thơ KHÔNG mang đặc điểm nào dưới đây?",
+    "options": [
+      "Chân chất, mộc mạc",
+      "Khả năng tư duy và đổi mới",
+      "Lạc quan, luôn tin tưởng vào tương lai",
+      "Giàu lòng tự trọng"
+    ],
+    "correct": 1,
+    "explanation": "Những người bán hàng rong trong bài thơ có phẩm chất chân chất mộc mạc, lạc quan tin tưởng vào tương lai, giàu lòng tự trọng; \"khả năng tư duy và đổi mới\" không được đề cập.",
+    "passage": "passage_ho_la_ai"
+  }
+]

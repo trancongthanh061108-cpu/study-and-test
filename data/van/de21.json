@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Nghĩa phái sinh",
+      "Nghĩa gián tiếp",
+      "Nghĩa trực tiếp",
+      "Nghĩa bóng"
+    ],
+    "correct": 2,
+    "explanation": "Nghĩa phái sinh, nghĩa gián tiếp, nghĩa bóng đều là những nét nghĩa được suy ra. Nghĩa trực tiếp là nghĩa được hiểu trực tiếp, không cần suy ra.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Thình lình",
+      "Thình thịch",
+      "Bất chợt",
+      "Đột ngột"
+    ],
+    "correct": 1,
+    "explanation": "Thình lình, bất chợt, đột ngột đều mang nghĩa chỉ sự bất ngờ. Thình thịch là từ mô phỏng âm thanh phát ra từ hành động.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Trắng hếu",
+      "Trắng ngần",
+      "Trắng nõn",
+      "Trắng trẻo"
+    ],
+    "correct": 0,
+    "explanation": "Trắng ngần, trắng nõn, trắng trẻo đều chỉ vẻ đẹp của màu trắng; trắng hếu không nói về vẻ đẹp mà mang ý chê bai.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Trọn vẹn",
+      "Vẹn toàn",
+      "Chu đáo",
+      "Ân cần"
+    ],
+    "correct": 3,
+    "explanation": "Trọn vẹn, vẹn toàn, chu đáo đều thể hiện sự cẩn thận, chu toàn. Ân cần liên quan đến thái độ đối xử của con người.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Chứa",
+      "Đựng",
+      "Tích",
+      "Góp"
+    ],
+    "correct": 3,
+    "explanation": "Chứa, đựng, tích đều nói về trạng thái giữ vật gì đó. Góp liên quan đến việc bỏ phần của mình vào một việc chung.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\n_____ là biện pháp tu từ, theo đó, người nói, người viết kể ra nhiều sự vật, sự việc, hoạt động, tính chất, trạng thái,... trong cùng một câu, một đoạn để tạo nên _____ mạnh, hiệu quả cao trong miêu tả, kể chuyện hoặc biểu lộ tình cảm, cảm xúc.",
+    "options": [
+      "Ẩn dụ/ hình tượng",
+      "Liệt kê/ ấn tượng",
+      "Ẩn dụ/ cảm xúc",
+      "Liệt kê/ cảm giác"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn định nghĩa phép liệt kê; vế sau nói về tác dụng gây cảm xúc mạnh mẽ, tạo dấu ấn trong nhận thức nên \"ấn tượng\" phù hợp hơn \"cảm giác\".",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nThơ Nôm Hồ Xuân Hương là tiếng nói quyết liệt đấu tranh cho quyền được hưởng hạnh phúc của người _____, thể hiện nỗi thương cảm với _____ và khẳng định, đề cao vẻ đẹp, khát vọng của họ.",
+    "options": [
+      "phụ nữ/ thân phận",
+      "nông dân/ số phận",
+      "phụ nữ/ ước mơ",
+      "nghèo/ mong ước"
+    ],
+    "correct": 0,
+    "explanation": "Hồ Xuân Hương nổi bật với đề tài người phụ nữ; \"thân phận\" kết hợp với \"thương cảm\" tạo nên sự phù hợp và logic về ý nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nCác electron chuyển động nhanh đến mức mọi nỗ lực của con người để \"giữ chân\" nó đều vô hiệu, _____ việc nhìn vào nó ở một mảnh cực nhỏ của một giây thì có thể. _____ các nhà khoa học có thể có một cái nhìn \"mờ\" về chúng và mở ra một thứ khoa học hoàn toàn mới.",
+    "options": [
+      "và/ Vì thế.",
+      "nếu/ Thì",
+      "vì/ Nên",
+      "tuy nhiên / Vì vậy"
+    ],
+    "correct": 3,
+    "explanation": "Hai vế đầu có quan hệ tương phản nên dùng \"tuy nhiên\"; câu sau là kết luận rút ra từ câu trước nên dùng \"vì vậy\".",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nTrong những hình thức giao tiếp khác, nhiều trường hợp, người ta chỉ cần hoặc chỉ có thể sử dụng phương tiện _____ (dùng đèn giao thông, vẫy cờ, ra hiệu vì không tiện nói, mỉm cười,...) để giao tiếp mà vẫn đạt hiệu quả.",
+    "options": [
+      "ngôn ngữ",
+      "giao tiếp",
+      "ngôn ngữ cơ thể",
+      "phi ngôn ngữ"
+    ],
+    "correct": 3,
+    "explanation": "\"Phi ngôn ngữ\" có nghĩa rộng hơn \"ngôn ngữ cơ thể\", hẹp hơn \"giao tiếp\" và phù hợp với các ví dụ liệt kê trong ngoặc đơn.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây.\nVới một nếp sống phong lưu về vật chất, phong phú về tinh thần, lịch sử ngàn năm văn vật của Thăng Long – Đông Đô – Hà Nội đã hun đúc cho người Hà Nội một nếp sống _____: từng trải mà nhẹ nhàng, kiên định mà duyên dáng, hào hoa mà thanh thoát, sang trọng mà không xa hoa, cởi mở mà không lố bịch, nhố nhăng,... từ lời ăn tiếng nói đến phong cách làm ăn, suy nghĩ...",
+    "options": [
+      "thanh tao",
+      "thanh tân",
+      "thanh lịch",
+      "thanh liêm"
+    ],
+    "correct": 2,
+    "explanation": "\"Thanh lịch\" thể hiện sự tao nhã và lịch sự, phù hợp để nói về nếp sống của người Hà Nội được liệt kê trong đoạn trích.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nBắt đầu vào mùa xuân, những ruộng cải bên kia sông đã nhuộm vàng cả cánh đồng.",
+    "options": [
+      "Bắt đầu",
+      "mùa xuân",
+      "sông",
+      "nhuộm vàng"
+    ],
+    "correct": 1,
+    "explanation": "Hoa cải vàng thường nở vào tháng 11, 12 (đầu đông), nên \"mùa xuân\" là sai, cần sửa thành \"mùa đông\".",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nVề cấu trúc, truyện ngắn hiện đại thường có sự chuyển đổi linh hoạt điểm nhìn và sử dụng ngôn ngữ gần gũi với đời thường, trong đó việc miêu tả nét riêng của ngôn ngữ nhân vật được đặc biệt chú trọng.",
+    "options": [
+      "cấu trúc",
+      "hiện đại",
+      "điểm nhìn",
+      "đời thường"
+    ],
+    "correct": 0,
+    "explanation": "\"Cấu trúc\" nói về các thành phần tạo nên chỉnh thể, không phù hợp; câu đang nói về điểm nhìn, ngôn ngữ - các yếu tố của \"nghệ thuật trần thuật\".",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nNăm 1941, Factors of Soil Formation (Các yếu tố hình thành đất) của Hans Jenny (1899 – 1992), một hệ thống của thổ nhưỡng học định lượng, đã tổng quát hóa một cách xúc tích và minh họa rất nhiều nguyên lý cơ bản của khoa học đất hiện đại cho tới ngày đó.",
+    "options": [
+      "hệ thống",
+      "xúc tích",
+      "nguyên lý",
+      "hiện đại"
+    ],
+    "correct": 1,
+    "explanation": "\"Xúc tích\" không có nghĩa, là lỗi chính tả nhầm lẫn giữa \"s\" và \"x\", cần sửa thành \"súc tích\".",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nTrong thời kỳ trứng nước của y học hiện đại, Việt Nam cũng đã tham gia thực hiện những nghiên cứu về lao chứ không chủ động chờ đợi phương thức điều trị từ mẫu quốc.",
+    "options": [
+      "trứng nước",
+      "tham gia",
+      "chủ động",
+      "mẫu quốc"
+    ],
+    "correct": 2,
+    "explanation": "\"Không\" là từ phủ định, đặt cạnh \"chủ động\" gây phủ định của chủ động; cần thay bằng \"thụ động\" để câu mang ý chủ động.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nNgôn ngữ viết tồn tại trong các văn bản xuất hiện dưới nhiều hình thức vật thể khác nhau: bản viết tay, bản đánh máy, bản in, bản vẽ, bản chữ nổi dành cho người khiếm thị,...",
+    "options": [
+      "tồn tại",
+      "vật thể",
+      "bản đánh máy",
+      "bản vẽ"
+    ],
+    "correct": 3,
+    "explanation": "\"Bản vẽ\" thuộc lĩnh vực hội họa/kỹ thuật, không liên quan đến các hình thức của ngôn ngữ viết, nên bị loại khỏi danh sách liệt kê.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Mục đích chính của tác giả trong đoạn trích này là gì?",
+    "options": [
+      "Trình bày về ảnh hưởng của khoa học đối với cái đẹp",
+      "Bác bỏ suy nghĩ cho rằng khoa học khô khan, lạnh lùng",
+      "Đưa ra những bình luận về một nhà khoa học chân chính",
+      "Trình bày các cách thức để nghiên cứu khoa học tốt nhất"
+    ],
+    "correct": 1,
+    "explanation": "Tác giả đưa ra các lập luận, dẫn chứng để bác bỏ suy nghĩ cho rằng khoa học khô khan, lạnh lùng, khẳng định khoa học vẫn hướng về những vẻ đẹp nhất định.",
+    "passage": "doc_duy_li"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Từ nào dưới đây trái nghĩa với từ \"duy lí\" (gạch chân, in đậm) trong đoạn trích trên?",
+    "options": [
+      "Duy cảm",
+      "Duy ý chí",
+      "Duy vật",
+      "Duy thực"
+    ],
+    "correct": 0,
+    "explanation": "\"Duy lí\" dựa trên bằng chứng, tư duy; \"duy cảm\" khẳng định mọi thứ tồn tại bên trong tinh thần, ý thức - đối lập về cảm tính với lý trí.",
+    "passage": "doc_duy_li"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Đoạn trích trên nổi bật với những thao tác lập luận nào dưới đây?",
+    "options": [
+      "Giải thích, phân tích, bình luận.",
+      "Chứng minh, giải thích, bác bỏ.",
+      "Phân tích, chứng minh, bình luận.",
+      "Chứng minh, bình luận, bác bỏ."
+    ],
+    "correct": 3,
+    "explanation": "Tác giả đưa ra chứng minh và bình luận của mình để bác bỏ luận điểm cho rằng khoa học hoàn toàn duy lí, tước bỏ mọi cảm xúc.",
+    "passage": "doc_duy_li"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Theo tác giả, mục đích đầu tiên khiến tác giả nghiên cứu khoa học là gì?",
+    "options": [
+      "Đem lại sự hiểu biết cho mọi người về thế giới.",
+      "Phát triển tri thức của bản thân.",
+      "Nhận thức về vẻ đẹp của thế giới.",
+      "Tạo ra các ứng dụng thực tế."
+    ],
+    "correct": 2,
+    "explanation": "Phần cuối đoạn trích, tác giả trình bày niềm đam mê nghiên cứu thực tại được thúc đẩy trước tiên bởi sự cảm nhận cái đẹp của thế giới.",
+    "passage": "doc_duy_li"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Thông tin nào KHÔNG được suy ra từ bài đọc trên?",
+    "options": [
+      "Bộ môn vật lí không quan tâm đến việc thưởng ngoạn cái đẹp.",
+      "Phản bác ý kiến cho rằng khoa học không có xúc cảm.",
+      "Cái đẹp nằm trong khoa học.",
+      "Các nhà khoa học nghiên cứu tự nhiên vì cảm thấy thiên nhiên đẹp."
+    ],
+    "correct": 0,
+    "explanation": "Bài đọc đưa ra ý kiến này rồi phản bác nó, khẳng định nhà khoa học không thể tách rời cảm xúc khỏi lí trí, nên không thể suy ra ý A.",
+    "passage": "doc_duy_li"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Mục đích chính của bài đọc trên là gì?",
+    "options": [
+      "Trình bày đặc điểm sinh học của loài chim nặng nhất thế giới.",
+      "Cung cấp thông tin về các loài chim lớn trên thế giới.",
+      "Giải thích và làm rõ đặc tính của các loài chim lớn trên thế giới.",
+      "Chứng minh sự đa dạng của thế giới loài chim."
+    ],
+    "correct": 1,
+    "explanation": "Bài đọc cung cấp thông tin về nhiều loài chim lớn: chim ô tác kori, chim ô tác lớn, chim đà điểu, cáo bay chứ không chỉ đi sâu giải thích chi tiết.",
+    "passage": "doc_chim_o_tac"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Bài đọc trên thuộc loại văn bản nào dưới đây?",
+    "options": [
+      "Văn bản hành chính",
+      "Văn bản văn học",
+      "Văn bản thông tin",
+      "Văn bản nghị luận"
+    ],
+    "correct": 2,
+    "explanation": "Văn bản trình bày thông tin về các loài chim (trọng lượng, chế độ ăn, nơi sinh sống...) nên thuộc văn bản thông tin.",
+    "passage": "doc_chim_o_tac"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Điểm khác biệt lớn nhất giữa chim ô tác kori và chim ô tác lớn là gì?",
+    "options": [
+      "Chim ô tác lớn nặng hơn và không di cư xa.",
+      "Chim ô tác kori nặng hơn và di cư xa.",
+      "Chim ô tác kori nặng hơn và không di cư xa.",
+      "Chim ô tác lớn nặng hơn và di cư xa."
+    ],
+    "correct": 2,
+    "explanation": "Chim ô tác kori không di cư và hiếm khi bay xa, trong khi chim ô tác lớn có hành trình di cư khứ hồi hơn 4.000 km; chim ô tác kori nặng hơn.",
+    "passage": "doc_chim_o_tac"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của đoạn trích?",
+    "options": [
+      "Loài chim bay nặng nhất và loài chim nặng nhất không bay đều sống ở nơi có nền nhiệt cao.",
+      "Loài chim bay nặng thứ hai thế giới thường có độ chênh lệch kích thước lớn giữa những con khác giới.",
+      "Loài chim nặng nhất thế giới có trọng lượng lên tới gần 19kg.",
+      "Cáo bay là loài động vật có vú bay được nặng nhất."
+    ],
+    "correct": 2,
+    "explanation": "Loài chim biết bay nặng nhất có trọng lượng 11-19kg, còn loài chim không biết bay (đà điểu) nặng đến 156kg mới là loài chim nặng nhất thế giới nói chung.",
+    "passage": "doc_chim_o_tac"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Chim ô tác kori có chế độ ăn như thế nào?",
+    "options": [
+      "Thích ăn động vật",
+      "Thường ăn côn trùng",
+      "Ăn nhiều thực vật",
+      "Ăn tạp"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích nêu chế độ ăn đa dạng gồm côn trùng, bò sát, chuột nhỏ, hạt, quả mọng, rễ cây, cho thấy chúng là loài ăn tạp.",
+    "passage": "doc_chim_o_tac"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích và trả lời câu hỏi dưới đây.\n\"Những bài viết của giáo sư Võ Tòng Xuân đăng tải trên Tia Sáng được ông rút ruột từ những nghiên cứu, báo cáo và quan sát thực địa của mình... Dường như mục tiêu của cuộc đời ông đặt vào những chữ tưởng chừng giản dị: làm sao cho sinh kế của người nông dân, đặc biệt người nông dân ĐBSCL bền vững?\" (Thanh Nhàn, Giáo sư Võ Tòng Xuân: Cây lúa thơm đã về với đất mẹ, Tạp chí Tia sáng, ngày 20/8/2024)\nNhững nghiên cứu của giáo sư Võ Tòng Xuân đều hướng tới mục tiêu lớn nhất là gì?",
+    "options": [
+      "Khám phá ra những kiến thức mới mẻ trong lĩnh vực nông nghiệp.",
+      "Ứng dụng các nghiên cứu của giáo sư vào trong thực tiễn.",
+      "Mang đến cuộc sống ấm no cho người nông dân.",
+      "Phát triển kinh tế cho người dân Đồng bằng sông Cửu Long."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nêu rõ mục tiêu của giáo sư là làm sao cho sinh kế của người nông dân, đặc biệt người nông dân ĐBSCL bền vững - tức mang đến cuộc sống ấm no.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\n\"...chân dép lốp đạp mòn trăm ngọn núi\nmà không hề rợp bóng xuống tương lai\" (Thanh Thảo, Một người lính nói về thế hệ mình, In trong Khối vuông ru-bích, NXB Tác phẩm mới, Hà Nội, 1985)\nCâu thơ \"chân dép lốp đạp mòn trăm ngọn núi\" nổi bật với biện pháp tu từ nào?",
+    "options": [
+      "Ẩn dụ",
+      "Hoán dụ",
+      "Nói quá",
+      "Nhân hóa"
+    ],
+    "correct": 2,
+    "explanation": "Câu thơ nổi bật với biện pháp nói quá, làm cho hình ảnh thơ thêm sinh động, nhấn mạnh ý chí kiên cường và sức mạnh của người lính.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc bài thơ và trả lời câu hỏi dưới đây.\n\"Hoa hồng nở hoa hồng lại rụng,\nHoa tàn, hoa nở cũng vô tình;\nHương hoa bay thấu vào trong ngục,\nKể với tù nhân nỗi bất bình.\" (Hồ Chí Minh, Cảnh chiều hôm, Hồ Chí Minh toàn tập, tập 3, (Nam Trân dịch), NXB Chính trị Quốc gia Sự thật, Hà Nội, 2000)\nHương hoa \"bất bình\" về điều gì?",
+    "options": [
+      "Sự tàn nhẫn của con người trước đồng loại.",
+      "Sự thờ ơ của con người trước cái ác.",
+      "Sự suy đồi của một xã hội đầy bất công.",
+      "Sự vô tâm của con người trước cái đẹp."
+    ],
+    "correct": 3,
+    "explanation": "Hai câu thơ đầu ghi lại hiện tượng hoa hồng nở hay rụng đều không được chú ý, con người vô tình trước việc hoa nở hay tàn.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây.\n\"Một tiếng ào dữ dội... Cái đáng sợ chưa hẳn là biển và gió, mà là tinh thần bị chùn nhụt, ngã lòng trước nguy hiểm...\" (Chu Văn, Bão biển, tập 2, NXB Hội Nhà văn, Hà Nội, 2007)\nTheo đoạn trích, trở ngại lớn nhất trong cuộc đời đến từ đâu?",
+    "options": [
+      "Thiên tai, thảm họa",
+      "Tự nhiên",
+      "Sự yếu đuối của con người",
+      "Sự thiếu đoàn kết của con người"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả khẳng định cái đáng sợ chưa hẳn là biển và gió mà là tinh thần bị chùn nhụt, ngã lòng trước nguy hiểm - tức sự yếu đuối của con người.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc văn bản và trả lời câu hỏi dưới đây.\n\"Hồi yêu nhau... Lấy nhau rồi... Vết đứt tay ngày xưa giờ bỗng thấm đau, đau thấy 36 ông trời!\" (Nguyễn Thị Hậu, Vết đau, in trong 101 truyện 100 chữ, NXB Hội Nhà văn, Thành phố Hồ Chí Minh, 2012)\nTrong văn bản trên, người chồng cảm thấy đau nhất khi nào?",
+    "options": [
+      "Khi gọt trái cây cho người yêu",
+      "Khi búa đập vào tay trong lúc sửa ảnh cưới",
+      "Khi nhờ vợ lấy giùm bông băng",
+      "Khi nhận lại sự đổi thay của vợ"
+    ],
+    "correct": 3,
+    "explanation": "Câu cuối truyện thể hiện rõ người chồng đau nhất không phải khi bị đứt tay mà khi nhận thấy sự đổi thay, vô tâm từ người vợ.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích và trả lời câu hỏi dưới đây.\n\"Đầy vườn cỏ mọc, lau thưa,\nSong trăng quạnh quẽ, vách mưa rã rời,...\n...Chung quanh lặng ngắt như tờ,\nNỗi niềm tâm sự bây giờ hỏi ai?\" (Nguyễn Du, Truyện Kiều, trong Đào Duy Anh, Từ điển Truyện Kiều, NXB Khoa học xã hội, Hà Nội, 1974)\nĐoạn thơ trên nổi bật với bút pháp nghệ thuật nào?",
+    "options": [
+      "Vẽ mây nẩy trăng",
+      "Tả cảnh ngụ tình",
+      "Ước lệ tượng trưng",
+      "Điển cố, điển tích"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn thơ nổi bật với bút pháp tả cảnh ngụ tình, gợi ra bức tranh thiên nhiên hoang tàn, lạnh lẽo để nói lên nỗi lòng tiếc nuối, xót xa của nhân vật.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn trích và trả lời câu hỏi dưới đây.\n\"Những kết quả nghiên cứu này gợi ý rằng thực hành tôn giáo, tâm linh có ảnh hưởng đa chiều đến sức khỏe tinh thần, không phải luôn mang đến ảnh hưởng tích cực...\" (Đặng Hoàng Ngân, Ứng dụng Phật giáo trong nâng cao sức khỏe tinh thần: Con dao hai lưỡi?, Tạp chí Tia sáng, ngày 29/08/2024)\nNội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Mối quan hệ giữa thực hành tôn giáo, tâm linh và sức khỏe tinh thần.",
+      "Mặt trái của thực hành tôn giáo, tâm linh đến đời sống con người.",
+      "Lợi bất cập hại khi ứng dụng thực hành tôn giáo, tâm linh vào hỗ trợ tâm lý.",
+      "Xu thế tìm về thực hành tôn giáo, tâm linh để hỗ trợ tâm lý."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn nhấn mạnh thực hành tôn giáo không phải lúc nào cũng mang lại lợi ích cho sức khỏe tinh thần, cần thận trọng khi ứng dụng.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Chị bế con rón rén bước vào chỗ chõng nằm... Thấy vợ con, anh cố gượng nhếch miệng cố gượng một cái cười méo xệch...\" (Nghèo, Tuyển tập Nam Cao, NXB Hội nhà văn, 1993)\nYếu tố miêu tả trong đoạn trích trên có tác dụng gì?",
+    "options": [
+      "Giúp khắc hoạ sự đói khổ của anh Đĩ chuột một cách chân thực và làm nổi bật phẩm chất cao quý của người nông dân trước Cách mạng tháng Tám.",
+      "Giúp khắc hoạ hình ảnh anh Đĩ chuột một cách sống động và làm nổi bật sự khốn khổ, nghèo đói, túng quẫn của người nông dân trước Cách mạng tháng Tám.",
+      "Giúp khắc hoạ tính cách anh Đĩ chuột một cách sống động và làm nổi bật sự khốn khổ, nghèo đói, túng quẫn của người nông dân trước Cách mạng tháng Tám.",
+      "Giúp khắc hoạ rõ nét những tâm tư tình cảm phức tạp của anh Đĩ chuột và làm nổi bật vẻ đẹp tâm hồn của người nông dân trước Cách mạng tháng Tám."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích miêu tả ngoại hình như con ma đói, khắc hoạ hình ảnh sống động, làm nổi bật sự khốn khổ, nghèo đói, túng quẫn của người nông dân.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Sự vô cảm là gì? Theo từ nguyên, nó có nghĩa là \"không có cảm xúc\"...\" (Elie Wiesel, Sự nguy hiểm của vô cảm: Những bài học rút ra từ một thế kỷ đầy bạo động)\nThao tác lập luận chính trong đoạn trích trên là gì?",
+    "options": [
+      "Giải thích",
+      "Phân tích",
+      "Chứng minh",
+      "Bình luận"
+    ],
+    "correct": 0,
+    "explanation": "Tác giả giải thích khái niệm vô cảm, sau đó đưa ra hàng loạt câu hỏi tu từ thể hiện cảm xúc về vấn đề nghị luận.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Non sông đã chết, sống thêm nhục,\nHiền thánh còn đâu, học cũng hoài.\nMuốn vượt bể Đông theo cánh gió,\nMuôn trùng sóng bạc tiễn ra khơi.\" (Phan Bội Châu, Lưu biệt khi xuất dương, Ngữ văn 11, tập 2, NXB Giáo dục Việt Nam)\nĐâu là cách hiểu đúng về hình ảnh \"muôn trùng sóng bạc\" trong khổ thơ trên?",
+    "options": [
+      "Là hình ảnh ẩn dụ chỉ gia đình, người thân yêu luôn trong tâm thế ủng hộ người nam nhi lên đường làm việc lớn.",
+      "Là hình ảnh kì vĩ của thiên nhiên ẩn dụ cho tư thế hiên ngang, mang tầm vóc vũ trụ của người chiến sĩ cách mạng.",
+      "Là hình ảnh đẹp đẽ thể hiện sự cao cả, lớn lao, mạnh mẽ của một dân tộc nhỏ bé không chịu khuất phục trước gót giày ngoại xâm.",
+      "Là hình ảnh nhân hoá thể hiện sự đoàn kết của toàn dân trong công cuộc chống giặc ngoại xâm, bảo vệ Tổ quốc."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh \"muôn trùng sóng bạc\" là hình ảnh kì vĩ của thiên nhiên ẩn dụ cho tư thế hiên ngang, mang tầm vóc vũ trụ của người chiến sĩ cách mạng.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Tác giả KHÔNG xây dựng hình tượng đất nước qua chất liệu nào?",
+    "options": [
+      "Văn hóa dân gian",
+      "Lịch sử dân tộc",
+      "Cảnh sắc quê hương",
+      "Hình ảnh con người"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn thơ sử dụng chất liệu văn hóa dân gian, cảnh sắc quê hương, hình ảnh con người nhưng không nhắc đến các sự kiện lịch sử cụ thể.",
+    "passage": "doc_dat_nuoc_ta_huu_yen"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Trong đoạn thơ trên, đất nước hiện lên như thế nào?",
+    "options": [
+      "Gần gũi, thân thương, nghĩa tình",
+      "Bao dung, hiền hòa, bình yên",
+      "Hào hùng, mạnh mẽ, sôi động",
+      "Giàu đẹp, tươi sáng, thiêng liêng"
+    ],
+    "correct": 0,
+    "explanation": "Đất nước hiện lên qua những chi tiết bình dị, gần gũi, gắn bó với cuộc sống thôn quê, tạo nên hình ảnh đất nước thân thương, nghĩa tình.",
+    "passage": "doc_dat_nuoc_ta_huu_yen"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Phương thức biểu đạt chính của đoạn thơ trên là gì?",
+    "options": [
+      "Tự sự",
+      "Miêu tả",
+      "Biểu cảm",
+      "Nghị luận"
+    ],
+    "correct": 2,
+    "explanation": "Phương thức biểu đạt chính của bài thơ là biểu cảm, thể hiện tình cảm dạt dào dành cho đất nước và người mẹ Việt Nam anh hùng.",
+    "passage": "doc_dat_nuoc_ta_huu_yen"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Thái độ bao trùm lên đoạn thơ trên là?",
+    "options": [
+      "Trân trọng",
+      "Xót xa",
+      "Thành kính",
+      "Trung lập"
+    ],
+    "correct": 0,
+    "explanation": "Bài thơ thể hiện sự trân trọng và lòng biết ơn đối với những hy sinh thầm lặng của mẹ và tình yêu quê hương.",
+    "passage": "doc_dat_nuoc_ta_huu_yen"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Câu thơ \"Ba lần tiễn con đi, hai lần khóc thầm lặng lẽ\" cho thấy phẩm chất gì của người mẹ?",
+    "options": [
+      "Cứng rắn",
+      "Bao dung",
+      "Tự trọng",
+      "Kiên cường"
+    ],
+    "correct": 3,
+    "explanation": "Câu thơ cho thấy sự kiên cường của người mẹ, kiên cường giấu nỗi đau vào trong, chỉ khóc thầm hai lần đầu, lần thứ ba không còn khóc.",
+    "passage": "doc_dat_nuoc_ta_huu_yen"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Thao tác lập luận chính trong đoạn trích trên là gì?",
+    "options": [
+      "Giải thích",
+      "Phân tích",
+      "Chứng minh",
+      "Bình luận"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả đưa ra các dẫn chứng về Dale Carnegie, Walter Raleigh, De Sévigné để chứng minh cho luận điểm: biết theo tài năng của mình sẽ thành công.",
+    "passage": "doc_nghe_viet_van"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Biện pháp tu từ nào được sử dụng trong câu văn \"Nhan đề ấy hợp quá vì bản thảo được các nhà xuất bản đón tiếp một cách lạnh lùng không khác những cơn dông tuyết thổi trên cánh đồng Dakota\"?",
+    "options": [
+      "Nhân hóa",
+      "So sánh",
+      "Ẩn dụ",
+      "Hoán dụ"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn nổi bật với biện pháp so sánh: thái độ lạnh lùng của nhà xuất bản được so sánh với những cơn dông tuyết.",
+    "passage": "doc_nghe_viet_van"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Đâu là thông tin KHÔNG ĐÚNG về Dale Carnegie?",
+    "options": [
+      "Dale Carnegie đã thành công nhờ theo đuổi đam mê từ thời trẻ.",
+      "Dale Carnegie không hề buồn rầu mỗi khi nhớ lại thất bại năm xưa của mình.",
+      "Dale Carnegie từng tới sống ở Châu Âu để chuẩn bị cho kiệt tác mà mình tâm huyết.",
+      "Dale Carnegie là cái tên được khắp thế giới biết đến."
+    ],
+    "correct": 0,
+    "explanation": "Dale Carnegie thành công nhờ biết chuyển hướng công việc (bỏ tiểu thuyết sang viết tiểu sử, sách xử thế) chứ không phải nhờ theo đuổi đam mê tiểu thuyết từ thời trẻ.",
+    "passage": "doc_nghe_viet_van"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Theo đoạn trích, ít người đạt được thành công về văn chương vì sao?",
+    "options": [
+      "Không theo đuổi đam mê đến cùng, dễ dàng từ bỏ khi gặp khó khăn.",
+      "Không xác định được đam mê của mình đối với nghề viết.",
+      "Dễ nản lòng và không xác định được công việc phù hợp với năng lực của bản thân.",
+      "Không có điều kiện về vật chất để theo đuổi nghề viết."
+    ],
+    "correct": 2,
+    "explanation": "Tác giả kết luận: số người có thiên tư về văn thì nhiều mà thành công ít vì phần đông không đủ kiên nhẫn và không biết chọn đường hợp khả năng.",
+    "passage": "doc_nghe_viet_van"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Bài học nào được rút ra từ đoạn trích trên?",
+    "options": [
+      "Thành công sẽ đến nếu bạn hiểu rõ bản thân và tài năng của mình.",
+      "Nếu theo đuổi công việc bằng tất cả đam mê, thành công sẽ theo đuổi bạn.",
+      "Cần lựa chọn công việc phù hợp với mục tiêu của cá nhân.",
+      "Theo đuổi mục tiêu đến cùng là cách làm của người thành công."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích nhấn mạnh tầm quan trọng của việc tự nhận thức về khả năng của bản thân, lựa chọn con đường phù hợp với tài năng riêng.",
+    "passage": "doc_nghe_viet_van"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Mạch logic gắn kết các phần trong đoạn trích trên là gì?",
+    "options": [
+      "Dòng suy nghĩ nội tâm của nhân vật chính mà bao trùm là tình cảm dành cho đồng đội.",
+      "Dòng suy nghĩ nội tâm của tác giả mà bao trùm là khát vọng ngày đất nước được hòa bình.",
+      "Dòng suy nghĩ nội tâm của bác sĩ Đặng Thùy Trâm mà bao trùm là niềm hạnh phúc khi anh thương binh đã bình phục.",
+      "Dòng suy nghĩ nội tâm của chiến sĩ Đặng Thùy Trâm mà bao trùm là nỗi buồn trong ngày chia xa đồng đội."
+    ],
+    "correct": 1,
+    "explanation": "Cả hai đoạn đều thể hiện mong ước liên quan đến hòa bình đất nước - đoạn đầu mong gặp lại chiến sĩ, đoạn sau mong San trở về với đồng đội, mẹ già.",
+    "passage": "doc_nhat_ki_dang_thuy_tram"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Tính phi hư cấu của đoạn trích trên được thể hiện ở yếu tố nào?",
+    "options": [
+      "Ghi chép xác thực có ngày tháng và tên người cụ thể.",
+      "Ghi chép xác thực có địa danh và tên người cụ thể.",
+      "Miêu tả các chi tiết một cách rõ nét, tỉ mỉ.",
+      "Dòng cảm xúc của nhân vật hiện lên chân thực."
+    ],
+    "correct": 0,
+    "explanation": "Tính phi hư cấu thể hiện ở việc ghi chép xác thực có ngày tháng (10.4.68) và tên người (anh Tuấn, San) cụ thể.",
+    "passage": "doc_nhat_ki_dang_thuy_tram"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Biện pháp tu từ được thể hiện trong câu văn \"Bỗng dưng một nỗi nhớ thương kỳ lạ đối với miền Bắc trào lên trong mình như mặt sông những ngày mưa lũ và... mình khóc ròng đến nỗi không thể đáp lại lời chào của mọi người\" là gì?",
+    "options": [
+      "Nhân hóa",
+      "So sánh",
+      "Hoán dụ",
+      "Nói quá"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn nổi bật với biện pháp so sánh: nỗi nhớ thương được so sánh như mặt sông những ngày mưa lũ.",
+    "passage": "doc_nhat_ki_dang_thuy_tram"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Chi tiết Đặng Thùy Trâm nhẹ nhàng đặt tay lên vết thương của thương binh cho thấy điều gì trong phẩm chất của chị?",
+    "options": [
+      "Tận tụy, đầy tình cảm và chu đáo.",
+      "Tinh tế, tình cảm và giàu đức hi sinh.",
+      "Nhạy cảm, sâu sắc và trung thành.",
+      "Kiên cường, cứng rắn và bao dung."
+    ],
+    "correct": 0,
+    "explanation": "Hành động này thể hiện sự quan tâm sâu sắc và tấm lòng nhân hậu của chị - một người thầy thuốc tận tụy, đầy tình cảm và chu đáo.",
+    "passage": "doc_nhat_ki_dang_thuy_tram"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Đâu là nhận xét đúng nhất về chủ thể trần thuật trong đoạn trích trên?",
+    "options": [
+      "Một nhân cách và tâm hồn cao đẹp: vừa có ý thức trách nhiệm với đất nước vừa giàu tình yêu thương với đồng bào.",
+      "Một người con sâu nặng tình yêu thương với gia đình và quê hương, nhưng khi đối đầu với kẻ thù thì dũng cảm, can trường.",
+      "Một tâm hồn nhạy cảm, nhân ái luôn khát khao cháy bỏng ngày đất nước được hòa bình.",
+      "Một vị lương y \"như từ mẫu\", luôn yêu thương bệnh nhân bằng tất cả trái tim mình."
+    ],
+    "correct": 2,
+    "explanation": "Chủ thể trần thuật thể hiện sự nhạy cảm (xúc động khi chiến sĩ lên đường), nhân ái (yêu thương đồng bào) và khát khao đất nước hòa bình.",
+    "passage": "doc_nhat_ki_dang_thuy_tram"
+  }
+]

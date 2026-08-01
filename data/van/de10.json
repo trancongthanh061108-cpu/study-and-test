@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Phương thức biểu đạt chính của văn bản trên là",
+    "options": [
+      "biểu cảm",
+      "miêu tả",
+      "nghị luận",
+      "tự sự"
+    ],
+    "correct": 0,
+    "explanation": "Đây là một bài thơ trữ tình nên phương thức biểu đạt chính là biểu cảm.",
+    "passage": "passage_tho_tinh_nguoi_linh_bien"
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Phong cách ngôn ngữ nào được sử dụng trong văn bản trên?",
+    "options": [
+      "Phong cách ngôn ngữ báo chí",
+      "Phong cách ngôn ngữ sinh hoạt",
+      "Phong cách ngôn ngữ nghệ thuật",
+      "Phong cách ngôn ngữ khoa học"
+    ],
+    "correct": 2,
+    "explanation": "Phong cách ngôn ngữ nghệ thuật là ngôn ngữ chủ yếu dùng trong các tác phẩm văn chương, không chỉ có chức năng thông tin mà còn thỏa mãn nhu cầu thẩm mĩ của con người. Nó là ngôn ngữ được tổ chức, sắp xếp, lựa chọn, gọt giũa, tinh luyện từ ngôn ngữ thông thường và đạt được giá trị nghệ thuật – thẩm mĩ. Văn bản trên là một tác phẩm thơ, thuộc phong cách ngôn ngữ nghệ thuật.",
+    "passage": "passage_tho_tinh_nguoi_linh_bien"
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Câu thơ \"Biển ồn ào, em lại dịu êm\" sử dụng biện pháp tu từ gì?",
+    "options": [
+      "Nhân hóa",
+      "Ẩn dụ",
+      "Hoán dụ",
+      "Tương phản"
+    ],
+    "correct": 3,
+    "explanation": "Tác giả đã sử dụng biện pháp tu từ tương phản, dùng hình ảnh đối lập giữa \"em\" và \"biển\"; biển \"ồn ào\" còn em \"dịu êm\".",
+    "passage": "passage_tho_tinh_nguoi_linh_bien"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Nhận xét nào sau đây đúng nhất với hình ảnh \"những vành tang trắng\" trong câu thơ \"Bão thổi chưa ngừng trong những vành tang trắng\"?",
+    "options": [
+      "Là hình ảnh biểu trưng cho nỗi đau của những người mẹ mất con.",
+      "Là hình ảnh biểu trưng cho nỗi đau của những người vợ mất chồng.",
+      "Là hình ảnh biểu trưng cho nỗi đau của đất nước khi mất những người con sẵn sàng xả thân để bám biển, giữ biển.",
+      "Là hình ảnh biểu trưng cho vùng biển ngoài khơi của nước ta thường xuyên có bão."
+    ],
+    "correct": 2,
+    "explanation": "\"Vành tang trắng\" ở đây không chỉ là biểu tượng cho nỗi đau của những gia đình mất người thân mà khi xét hình ảnh này đi liền với câu thơ trước đó \"Đất nước gian lao chưa bao giờ bình yên\" thì nỗi đau này còn là nỗi đau của đất nước, dân tộc.",
+    "passage": "passage_tho_tinh_nguoi_linh_bien"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Câu thơ \"Biển một bên và em một bên\" được lặp lại trong cả 5 khổ thơ có ý nghĩa là gì?",
+    "options": [
+      "Khẳng định trong tâm hồn người lính biển, tình yêu lứa đôi luôn hòa quyện với tình yêu biển trời Tổ quốc.",
+      "Khẳng định người lính luôn mang theo ảnh người yêu bên mình.",
+      "Khẳng định sự lựa chọn dứt khoát của người lính biển: hoặc là có biển, hoặc là có em.",
+      "Khẳng định sự hy sinh thầm lặng của người lính biển khi thực hiện nhiệm vụ mà Tổ quốc giao cho."
+    ],
+    "correct": 0,
+    "explanation": "Câu thơ \"Biển một bên và em một bên\" được lặp lại trong cả 5 khổ thơ đã khẳng định trong tâm hồn người lính biển, tình yêu lứa đôi luôn hòa quyện với tình yêu biển trời Tổ quốc. \"Em\" là động lực để người lính thêm chắc tay súng. Người lính đã ý thức được trách nhiệm của tuổi trẻ trong việc tiếp bước cha anh bảo vệ Tổ quốc, cũng chính là bảo vệ tình yêu, hạnh phúc lứa đôi.",
+    "passage": "passage_tho_tinh_nguoi_linh_bien"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Theo TS. Nguyễn Thị Thu Trang, di sản văn hóa có vai trò như thế nào trong việc phát triển ngành công nghiệp văn hóa?",
+    "options": [
+      "Hình thành và phát triển hoạt động bảo tồn, trưng bày các sản phẩm văn hóa.",
+      "Nguồn tài nguyên nhân văn phục vụ các hoạt động phát triển du lịch văn hóa.",
+      "Đẩy mạnh việc phát triển kinh tế dịch vụ, nâng cao chất lượng cơ sở hạ tầng.",
+      "Hỗ trợ các hoạt động giáo dục khoa học xã hội nhân văn, đặc biệt là lịch sử."
+    ],
+    "correct": 1,
+    "explanation": "Đọc nội dung câu hỏi, đọc lướt các phương án trả lời và tìm kiếm thông tin trong đoạn [1] của văn bản: Theo TS. Nguyễn Thị Thu Trang (Cục Di sản Văn hóa), với tư cách là nguồn tài nguyên nhân văn có chất lượng trí tuệ cao, di sản văn hóa có khả năng phục vụ yêu cầu phát triển các ngành công nghiệp văn hoá, tiêu biểu nhất là phát triển du lịch văn hoá hay du lịch di sản.",
+    "passage": "passage_di_san_van_hoa"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Theo văn bản, thuật ngữ \"kinh tế học di sản\" ở Việt Nam được hiểu như thế nào?",
+    "options": [
+      "Khái niệm không phù hợp với các điều kiện kinh tế – xã hội ở nước ta trong thời điểm hiện tại.",
+      "Được coi là xu hướng mới và có những chính sách hỗ trợ việc nghiên cứu và phát triển liên tục.",
+      "Được thực hiện nghiên cứu trong các trung tâm giáo dục nhưng vẫn còn thiếu tính thực tiễn.",
+      "Là một chiến lược phát triển về kinh tế nhằm tạo ra nguồn doanh thu lớn tại các khu du lịch."
+    ],
+    "correct": 1,
+    "explanation": "Đọc lướt văn bản, xác định các vị trí xuất hiện thuật ngữ \"kinh tế học di sản\": \"Những năm gần đây, ở Việt Nam đã xuất hiện thuật ngữ khoa học 'kinh tế học di sản' như một xu thế mới trong nền kinh tế thị trường, tạo ra sự trao đổi học thuật sôi nổi theo cả hai chiều thuận và nghịch\"; \"Hầu như ở các quốc gia trên thế giới, ngoài các dự án phát triển, người ta bắt đầu quan tâm tới việc đầu tư cho hoạt động bảo tồn di sản văn hóa dưới góc nhìn di sản đô thị và kinh tế học di sản\". Câu hỏi hướng đến vấn đề ở Việt Nam nên xác định nội dung cần tìm là: tạo ra sự trao đổi học thuật theo cả hai chiều thuận và nghịch.",
+    "passage": "passage_di_san_van_hoa"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Trong nội dung văn bản, TS. Nguyễn Thị Thu Trang đã nhắc tới mục tiêu thực hiện các hoạt động bảo tồn di sản văn hóa ở Việt Nam như thế nào?",
+    "options": [
+      "Bảo tồn di sản văn hóa để gìn giữ truyền thống tốt đẹp, lâu đời cho những thế hệ tương lai.",
+      "Cần chú trọng bảo tồn di sản văn hóa vật thể, tránh những hệ lụy từ tốc độ xây dựng hạ tầng.",
+      "Bảo tồn di sản trong sự phát triển tiếp nối, phục vụ mục tiêu phát triển toàn diện con người.",
+      "Bảo tồn di sản và hướng tới việc phát triển các dịch vụ du lịch, hình thành cơ sở kinh tế."
+    ],
+    "correct": 2,
+    "explanation": "Đọc và xác định thông tin trong văn bản: Di sản văn hóa chỉ được bảo tồn khi nó được sử dụng và phát huy để phục vụ mục tiêu phát triển toàn diện con người Việt Nam. Di sản văn hóa phải được bảo tồn như một cơ thể sống động trong đời sống của cộng đồng và tạo ra sinh kế bền vững cho cộng đồng. Ngoài ra, phải được bảo tồn trong sự phát triển tiếp nối.",
+    "passage": "passage_di_san_van_hoa"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Việc đầu tư hoạt động bảo tồn di sản văn hóa sẽ mang lại lợi ích gì cho cộng đồng?",
+    "options": [
+      "Tạo ra lợi nhuận về mặt kinh tế, giải quyết vấn nạn về việc làm cho một số địa phương.",
+      "Tạo nền tảng cho sự phát triển và hoàn thiện con người theo tiêu chuẩn mới của thế giới.",
+      "Liên tục phát triển các hoạt động về thương mại và nâng cao mức sống cho người dân.",
+      "Nâng cao hình ảnh của Quốc gia, góp phần tạo nên sự phát triển bền vững về văn hóa."
+    ],
+    "correct": 3,
+    "explanation": "Để giải quyết được câu hỏi này cần tổng hợp thông tin từ toàn bộ văn bản, chú ý tới nội dung liên quan tới tầm quan trọng của việc đầu tư vào bảo tồn di sản văn hóa: không chỉ là các hoạt động bảo tồn mà còn tạo ra sự phát triển kinh tế và xã hội. Đầu tư vào bảo tồn di sản có thể giúp tăng cường sự nhận thức về bản sắc văn hóa, thu hút du lịch, tạo việc làm, và tăng cường hình ảnh của quốc gia trên trường quốc tế, đồng thời gìn giữ giá trị văn hóa cho thế hệ tương lai.",
+    "passage": "passage_di_san_van_hoa"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Theo TS. Nguyễn Thị Thu Trang, hoạt động bảo tồn di sản văn hóa cần được tiến hành như thế nào để đạt hiệu quả cao nhất?",
+    "options": [
+      "Tập trung vào việc thu hút đầu tư nước ngoài để phát triển đa dạng các loại hình.",
+      "Phát triển nhiều chương trình giáo dục cộng đồng về giá trị của các di sản văn hóa.",
+      "Bảo tồn các di sản văn hóa một cách độc lập để tránh ảnh hưởng từ hiện đại hóa.",
+      "Hợp tác với các tổ chức quốc tế để định giá và phục hồi nguyên trạng các di tích."
+    ],
+    "correct": 1,
+    "explanation": "Đọc và tổng hợp thông tin của toàn bộ văn bản: Bảo tồn di sản văn hóa không chỉ dựa vào các hoạt động kinh tế mà còn cần sự nhận thức và tham gia của cộng đồng. Các chương trình giáo dục giúp cộng đồng hiểu rõ hơn về giá trị của di sản văn hóa và tầm quan trọng của việc bảo tồn, từ đó thúc đẩy sự tham gia và hỗ trợ từ cộng đồng địa phương, tạo nền tảng vững chắc cho việc bảo tồn lâu dài và hiệu quả.",
+    "passage": "passage_di_san_van_hoa"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Nghệ thuật tiêu biểu nhất trong đoạn trích trên là:",
+    "options": [
+      "vận dụng thành ngữ, lối nói dân gian.",
+      "sử dụng ngôn ngữ ước lệ, tượng trưng.",
+      "lối đối đáp, tâm tình trong tưởng tượng.",
+      "kết hợp đa dạng các biện pháp tu từ."
+    ],
+    "correct": 0,
+    "explanation": "Trong đoạn trích, các cụm từ \"năm nắng mười mưa\", \"một duyên hai nợ\" đều là thành ngữ nên đáp án đúng là A. Đoạn thơ sử dụng ngôn ngữ gần gũi, không có lời đối đáp.",
+    "passage": "passage_thuong_vo"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Câu \"Một duyên hai nợ, âu đành phận\" tương đồng về mặt ý nghĩa với câu nào?",
+    "options": [
+      "\"Thân em như giếng giữa đàng/Người khôn rửa mặt người phàm rửa chân\" (Ca dao)",
+      "\"Ngắn hơi kêu chẳng thấu trời/Ngãi đi phần ngãi duyên đời phần duyên\" (Ca dao)",
+      "\"Chiều chiều ra đứng ngõ sau/Trông về quê mẹ ruột đau chín chiều\" (Ca dao)",
+      "\"Qua đình ngả nón trông đình/Đình bao nhiêu ngói thương mình bấy nhiêu\" (Ca dao)"
+    ],
+    "correct": 1,
+    "explanation": "Câu \"Một duyên hai nợ, âu đành phận\" nói lên quan điểm về tình cảm vợ chồng: kết thành do duyên nợ từ những kiếp trước nên tương đồng với câu (B): Duyên nợ do trời se, con người không cưỡng lại được. Phương án A: Thân phận của người phụ nữ trong xã hội cũ. Phương án C, D: Bộc lộ tình cảm của nhân vật trữ tình.",
+    "passage": "passage_thuong_vo"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định biện pháp tu từ KHÔNG được sử dụng trong câu (1) (2)?",
+    "options": [
+      "Ẩn dụ hình thức.",
+      "Đảo ngữ.",
+      "Liệt kê tăng tiến.",
+      "Đối lập."
+    ],
+    "correct": 1,
+    "explanation": "Xác định các biện pháp tu từ được sử dụng trong hai câu thơ: Ẩn dụ (nắng mưa - nỗi vất vả của người vợ); liệt kê (năm, mười, một hai...); đối lập giữa hai câu. Đáp án đúng: B (Đảo ngữ không được sử dụng).",
+    "passage": "passage_thuong_vo"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Từ \"cha mẹ\" trong câu (3) dùng với mục đích nào?",
+    "options": [
+      "Chỉ những người sinh ra bà Tú.",
+      "Chỉ những người sinh ra ông Tú.",
+      "Ám chỉ những lề thói trong xã hội.",
+      "Khẳng định những quy tắc trong ứng xử."
+    ],
+    "correct": 2,
+    "explanation": "Câu thơ là ông Tú mượn lời bà Tú để lên án những vấn đề trong XH cũ, những thế lực khiến cuộc đời người phụ nữ phải chịu nhiều bất hạnh nên chọn C.",
+    "passage": "passage_thuong_vo"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Chủ đề của đoạn trích trên là",
+    "options": [
+      "cuộc đời vất vả và cực nhọc của người phụ nữ.",
+      "đức hy sinh thầm lặng của người phụ nữ trong đời sống.",
+      "tình cảm và sự trân trọng mà ông Tú dành cho vợ của mình.",
+      "lời oán thán của bà Tú với những bất công trong xã hội xưa."
+    ],
+    "correct": 1,
+    "explanation": "Câu thơ nói lên quan điểm về việc sống cam chịu, tình nghĩa vợ chồng bắt nguồn từ duyên nợ nên đáp án là B.",
+    "passage": "passage_thuong_vo"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Đời sống con người và quan điểm sống của tác giả.",
+      "Vẻ đẹp thiên nhiên mùa hè rực rỡ và sinh động.",
+      "Âm thanh của thiên nhiên và đời sống con người.",
+      "Vẻ đẹp tâm hồn và lẽ sống của thi nhân."
+    ],
+    "correct": 0,
+    "explanation": "Đọc và phân tích nội dung của đoạn trích: 2 câu đầu: Âm thanh của đời sống và thiên nhiên; 2 câu sau: Quan điểm sống của tác giả. → Đáp án đúng: A.",
+    "passage": "passage_canh_ngay_he"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Từ \"lao xao\" thuộc loại từ nào?",
+    "options": [
+      "Danh từ",
+      "Chỉ từ",
+      "Từ tượng thanh",
+      "Từ tượng hình"
+    ],
+    "correct": 2,
+    "explanation": "\"Lao xao\" là động từ mô tả âm thanh, kết hợp với danh từ \"chợ cá\" nhằm mô tả không gian, âm thanh của đời sống sinh hoạt → Đáp án đúng: C (Từ tượng thanh).",
+    "passage": "passage_canh_ngay_he"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Âm thanh trong văn bản được miêu tả",
+    "options": [
+      "từ xa tới gần.",
+      "từ gần tới xa.",
+      "từ nhỏ tới lớn.",
+      "từ lớn tới nhỏ."
+    ],
+    "correct": 0,
+    "explanation": "Dựa vào từ mô tả âm thanh được sử dụng trong đoạn trích: \"Lao xao\" - âm thanh từ xa vọng lại, \"dắng dỏi\" - âm thanh phát lên ở khoảng cách gần, rõ rệt → Đáp án đúng: A.",
+    "passage": "passage_canh_ngay_he"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Xác định thể loại của đoạn thơ trên.",
+    "options": [
+      "Thơ ngũ ngôn.",
+      "Thơ Đường luật.",
+      "Thơ lục bát.",
+      "Thơ tự do."
+    ],
+    "correct": 1,
+    "explanation": "Căn cứ vào số chữ trong câu thơ: 7, đều đặn trong cả 4 câu thơ → Đáp án đúng: B.",
+    "passage": "passage_canh_ngay_he"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Hai câu thơ cuối đã sử dụng yếu tố nghệ thuật nào?",
+    "options": [
+      "Biện pháp tu từ đảo ngữ.",
+      "Sử dụng điển cố của Trung Hoa.",
+      "Sử dụng nhiều từ đa nghĩa.",
+      "Nghệ thuật tự sự cách tân."
+    ],
+    "correct": 1,
+    "explanation": "Xác định từ sử dụng điển cố trong đoạn trích: \"Ngu cầm\", nội dung câu thơ: Nếu có đàn của vua Ngu Thuấn, nhân dân khắp nơi sẽ được ấm no, hạnh phúc. Điển cố Ngu cầm: thần thoại Trung Quốc kể rằng hai triều vua Đường Nghiêu và vua Ngu Thuấn là hai triều đại lí tưởng, xã hội thanh bình, nhân dân hạnh phúc. \"Ngu cầm\" là đàn của vua Ngu Thuấn → Đáp án đúng: B.",
+    "passage": "passage_canh_ngay_he"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Đọc đoạn trích sau: \"Thường thì đến gà gáy sáng Mị ngồi dậy ra bếp sưởi một lúc thật lâu thì các chị em trong nhà mới bắt đầu dậy ra dóm lò bung ngô, nấu cháo lợn. Chỉ chợp mắt được từng lúc, Mị lại thức sưởi lửa suốt đêm. Mỗi đêm, khi nghe tiếng phù phù thổi bếp, A Phủ lại mở mắt. Ngọn lửa sưởi bùng lên, cùng lúc ấy thì Mị cũng nhìn sang, thấy mắt A Phủ trừng trừng, mới biết A Phủ còn sống. Mấy đêm nay như thế. Nhưng Mị vẫn thản nhiên thổi lửa, hơ tay. Nếu A Phủ là cái xác chết đứng đấy, cũng thế thôi. Mị vẫn trở dậy, vẫn sưởi, chỉ biết chỉ còn ở với ngọn lửa. Có đêm A Sử chợt về, thấy Mị ngồi đấy, A Sử đánh Mị ngã ngay xuống cửa bếp. Nhưng đêm sau Mị vẫn ra sưởi như đêm trước.\" (Tô Hoài, Vợ chồng A Phủ, Ngữ văn 12, tập hai, NXB Giáo dục Việt Nam, 2014)\nVăn bản trên đã sử dụng phương thức biểu đạt chính nào?",
+    "options": [
+      "Biểu cảm.",
+      "Tự sự.",
+      "Miêu tả.",
+      "Nghị luận."
+    ],
+    "correct": 1,
+    "explanation": "Nội dung đoạn trích: Một ngày làm việc của Mị ở nhà thống lý Pá Tra. Đoạn trích kể lại một chuỗi các sự việc nối tiếp nhau, tạo thành chuỗi hoạt động trong cuộc sống của nhân vật Mị, tác giả cũng khắc họa ra một phần tính cách của nhân vật. Đoạn trích có các yếu tố miêu tả, biểu cảm nhưng không diễn đạt nội dung chính, không bày tỏ thái độ, ý kiến của tác giả nên loại A, C, D. Đáp án đúng: B.",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Đọc đoạn trích sau: \"Trước ngày 9 tháng 3, biết bao lần Việt Minh đã kêu gọi người Pháp liên minh để chống Nhật. Bọn thực dân Pháp đã không đáp ứng lại thẳng tay khủng bố Việt Minh hơn nữa. Thậm chí đến khi thua chạy, chúng còn nhẫn tâm giết nốt số đông tù chính trị ở Yên Bái và Cao Bằng.\nTuy vậy, đối với người Pháp, đồng bào ta vẫn giữ một thái độ khoan hồng và nhân đạo. Sau cuộc biến động ngày 9 tháng 3, Việt Minh đã giúp cho nhiều người Pháp chạy qua biên thùy, lại cứu cho nhiều người Pháp ra khỏi nhà giam Nhật và bảo vệ tính mạng và tài sản cho họ.\nSự thật là từ mùa thu năm 1940, nước ta đã thành thuộc địa của Nhật, chứ không phải thuộc địa của Pháp nữa. Khi Nhật hàng Đồng minh thì nhân dân cả nước ta đã nổi dậy giành chính quyền, lập nên nước Việt Nam Dân chủ Cộng hòa.\" (Hồ Chí Minh, Tuyên ngôn độc lập, Ngữ văn 12, tập 1)\nĐoạn trích sử dụng thao tác lập luận chủ yếu nào?",
+    "options": [
+      "Giải thích, chứng minh",
+      "Phân tích, bình luận",
+      "Bác bỏ, so sánh",
+      "So sánh, bình luận"
+    ],
+    "correct": 2,
+    "explanation": "Ở đoạn trích, sử dụng thao tác lập luận là bác bỏ và so sánh: tác giả bác bỏ quan điểm nói ta giành độc lập từ tay Pháp, đưa ra quan điểm ta giành độc lập từ tay Nhật; tác giả so sánh sự nhẫn tâm, vô nhân đạo của thực dân Pháp với tấm lòng bao dung, khoan hồng, nhân đạo của nhân dân ta.",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Trong bài văn Bình Ngô đại cáo của Nguyễn Trãi, tác giả không sử dụng luận cứ nào để làm sáng tỏ cho luận điểm: Sự độc ác, tàn bạo, phi nghĩa của giặc Minh?",
+    "options": [
+      "Bọn chúng đã dối trời, lừa dân, gây binh kết oán.",
+      "Chúng đề ra chính sách thuế khóa, phu phen tạp dịch nặng nề.",
+      "Chúng thực hiện chính sách đồng hóa hòng tiêu diệt văn hóa nước ta.",
+      "Chúng vơ vét sản vật, làm cho đất nước tan hoang, nhân dân khổ cực trăm bề."
+    ],
+    "correct": 2,
+    "explanation": "Trong bài Bình Ngô đại cáo, Nguyễn Trãi đã không dùng luận cứ \"Giặc Minh đã dùng chính sách đồng hóa hòng tiêu diệt văn hóa nước ta\" để chứng minh cho luận điểm: Sự độc ác, tàn bạo, phi nghĩa của giặc Minh.",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Trong đoạn trích dưới đây, tác giả đã vận dụng tổng hợp những thao tác lập luận nào?\n\"... Thế mà hơn 80 năm nay, bọn thực dân Pháp lợi dụng lá cờ tự do, bình đẳng, bác ái, đến cướp đất nước ta, áp bức đồng bào ta. Hành động của chúng trái hẳn với nhân đạo và chính nghĩa.\nVề chính trị, chúng tuyệt đối không cho nhân dân ta một chút tự do dân chủ nào. Chúng thi hành những luật pháp dã man.\nChúng lập ba chế độ khác nhau ở Trung, Nam, Bắc để ngăn cản việc thống nhất nước nhà của ta, để ngăn cản dân tộc ta đoàn kết.\nChúng lập ra nhà tù nhiều hơn trường học. Chúng thẳng tay chém giết những người yêu nước thương nòi của ta. Chúng tắm các cuộc khởi nghĩa của ta trong những bể máu.\nChúng ràng buộc dư luận, thi hành chính sách ngu dân.\nChúng dùng thuốc phiện, rượu cồn để làm cho nòi giống ta suy nhược.\nVề kinh tế, chúng bóc lột dân ta đến xương tủy, khiến cho dân ta nghèo nàn, thiếu thốn, nước ta xơ xác, tiêu điều. Chúng cướp không ruộng đất, hầm mỏ, nguyên liệu.\nChúng giữ độc quyền in giấy bạc, xuất cảng và nhập cảng. Chúng đặt ra hàng trăm thứ thuế vô lý, làm cho dân ta, nhất là dân cày và dân buôn trở nên bần cùng.\nChúng không cho các nhà tư sản ta ngóc đầu lên. Chúng bóc lột công nhân ta một cách vô cùng tàn nhẫn...\" (Tuyên ngôn Độc lập, Hồ Chí Minh)",
+    "options": [
+      "Bác bỏ, phân tích, chứng minh",
+      "So sánh, bác bỏ, giải thích",
+      "Bình luận, chứng minh, so sánh",
+      "Giải thích, bình luận, bác bỏ"
+    ],
+    "correct": 0,
+    "explanation": "Tác giả đã vận dụng kết hợp các thao tác: Bác bỏ, phân tích, chứng minh. \"Thế mà\" → phủ nhận việc làm của Pháp \"lợi dụng lá cờ...\"; để làm rõ ý bác bỏ, người viết sử dụng thao tác chứng minh (về chính trị… về kinh tế…); quá trình chứng minh là quá trình vận dụng cách diễn dịch để phân tích (chia tách) vấn đề.",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Xác định phép liên kết câu có trong đoạn sau: \"Nghe cơm sôi, nó giở nắp, lấy đũa béo sơ qua – nồi cơm hơi to, nhắm không thể nhắc xuống để chắt nước được, đến lúc đó nó mới nhìn lên anh Sáu. Tôi nghĩ thầm, con bé đang bị dồn vào thế bí, chắc nó phải gọi ba thôi.\" (Chiếc lược ngà, Nguyễn Quang Sáng)",
+    "options": [
+      "Phép lặp và phép thế.",
+      "Phép lặp và liên tưởng.",
+      "Phép thế và phép liên tưởng.",
+      "Phép nối và phép liên tưởng."
+    ],
+    "correct": 0,
+    "explanation": "Phép lặp: nó. Phép thế: con bé – nó.",
+    "passage": null
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đâu KHÔNG phải đặc trưng cơ bản của phong cách ngôn ngữ sinh hoạt?",
+    "options": [
+      "Tính cụ thể.",
+      "Tính cảm xúc.",
+      "Tính cá thể.",
+      "Tính hình tượng."
+    ],
+    "correct": 3,
+    "explanation": "Đặc trưng cơ bản của phong cách ngôn ngữ sinh hoạt: tính cụ thể, tính cảm xúc, tính cá thể. Tính hình tượng là đặc trưng cơ bản của phong cách ngôn ngữ nghệ thuật.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Xác định thành phần biệt lập trong câu sau: \"Lão không hiểu tôi, tôi nghĩ vậy, và tôi càng buồn lắm.\"",
+    "options": [
+      "Tôi nghĩ vậy",
+      "Và",
+      "Buồn lắm",
+      "Không"
+    ],
+    "correct": 0,
+    "explanation": "Thành phần biệt lập trong câu trên là \"tôi nghĩ vậy\" -> đây là thành phần phụ chú. Thành phần phụ chú được dùng để bổ sung một số chi tiết cho nội dung chính của câu.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Trong các câu văn sau, câu văn nào có từ viết SAI chính tả?",
+    "options": [
+      "Thạch Lam ghi dấu ấn trong văn học Việt Nam với những truyện ngắn không có cốt truyện, ngôn ngữ trong sáng và nhẹ nhàng.",
+      "Nguyễn Tuân nổi tiếng với những tác phẩm tạo dựng chân dung con người xuất chúng, hoài niệm về một thời đã xa.",
+      "Tô Hoài gần gũi với độc giả qua những câu chuyện làng quê bằng giọng kể gí dỏm, những chi tiết sống động.",
+      "Vũ Trọng Phụng bước vào văn đàn với giọng văn trào phúng, tiếng cười chua chát về một xã hội đầy những điều oái oăm."
+    ],
+    "correct": 2,
+    "explanation": "Từ viết sai là \"gí dỏm\", viết đúng là \"dí dỏm\" mang ý nghĩa: gây cười một cách nhẹ nhàng, ý vị.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Xác định một từ/cụm từ SAI về ngữ pháp, ngữ nghĩa, lô-gích, phong cách…\nNgôn ngữ báo chí là ngôn ngữ thông tin thời sự cập nhật, truyền tụng những tin tức nóng hổi hằng ngày trên mọi lĩnh vực hoạt động của xã hội.",
+    "options": [
+      "báo chí",
+      "thông tin",
+      "truyền tụng",
+      "lĩnh vực"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"truyền tụng\" được sử dụng không đúng ngữ cảnh, mắc lỗi sai về ngữ nghĩa. \"Truyền tụng\": truyền miệng cho nhau với lòng ngưỡng mộ; \"Truyền tải\": truyền đi qua phương tiện nào đó. Cần thay thế \"truyền tụng\" bằng \"truyền tải\".",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Câu ca dao nào dưới đây có chứa đại từ chỉ số lượng?",
+    "options": [
+      "\"Ai làm cho bể kia đầy\"",
+      "\"Đình bao nhiêu ngói thương mình bấy nhiêu\"",
+      "\"Ai đi đâu đấy hỡi ai\"",
+      "\"Cô kia cắt cỏ bên sông\""
+    ],
+    "correct": 1,
+    "explanation": "Đại từ chỉ số lượng: bao nhiêu, bấy nhiêu. \"Ai\" là đại từ để hỏi về người; \"Cô\" là đại từ trỏ người. Đáp án đúng là B.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Xác định một từ/cụm từ SAI về ngữ pháp, ngữ nghĩa, lô-gích, phong cách…\nVới những hình ảnh biểu hiện nội tâm, bút pháp gợi tả, ngôn ngữ tinh tế, giàu liên tưởng, bài thơ \"Đây thôn Vĩ Dạ\" là bức ảnh đẹp về một miền quê đất nước, là tiếng lòng của một con người tha thiết yêu đời, yêu người.",
+    "options": [
+      "Hình ảnh.",
+      "Bức ảnh.",
+      "Đất nước.",
+      "Yêu người."
+    ],
+    "correct": 1,
+    "explanation": "Từ \"bức ảnh\" không phù hợp ngữ cảnh: đây là từ dùng theo nghĩa tả thực chỉ những hình ảnh được chụp lại. Có thể thay bằng \"bức tranh\": bức vẽ do nghệ sĩ sáng tạo ra, tác giả dùng cách nói ẩn dụ coi bài thơ như một bức tranh phong cảnh.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Kín đáo.",
+      "Kín kẽ.",
+      "Kín mít.",
+      "Kín tiếng."
+    ],
+    "correct": 2,
+    "explanation": "Các từ \"kín đáo\", \"kín kẽ\", \"kín tiếng\" đều chỉ tính cách của con người. Còn từ \"kín mít\" thường chỉ đặc điểm, trạng thái bên ngoài của sự vật/con người.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Chọn từ có tiếng \"quyền\" KHÔNG cùng nghĩa với các từ còn lại.",
+    "options": [
+      "Quyền anh.",
+      "Quyền lực.",
+      "Quyền thế.",
+      "Quyền hành."
+    ],
+    "correct": 0,
+    "explanation": "Từ \"quyền anh\" là tên một môn võ thuật/thi đấu đối kháng. Tiếng \"quyền\" trong \"quyền lực\", \"quyền thế\", \"quyền hành\" cùng có nghĩa: Điều mà pháp luật hoặc xã hội công nhận là được làm, được đòi hỏi.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Ngôn ngữ nào không cùng nhóm ngôn ngữ Việt Mường với tiếng Việt?",
+    "options": [
+      "Tiếng Mường.",
+      "Tiếng Chứt.",
+      "Tiếng Thổ.",
+      "Tiếng Dao."
+    ],
+    "correct": 3,
+    "explanation": "Tiếng Dao thuộc nhóm ngôn ngữ H'mông - Dao trong khi tiếng Mường, tiếng Chứt, tiếng Thổ cùng với tiếng Việt thuộc nhóm ngôn ngữ Việt Mường.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Chọn từ/cụm từ thích hợp nhất để điền vào chỗ trống dưới đây:\nCũng như bất cứ một loại hình ………… nào khác, trong đời sống ………… luôn có mối quan hệ qua lại giữa sáng tạo, truyền bá và tiếp nhận.",
+    "options": [
+      "Văn hóa - khoa học.",
+      "Khoa học - nghệ thuật.",
+      "Khoa học - văn học.",
+      "Nghệ thuật – văn học."
+    ],
+    "correct": 3,
+    "explanation": "Xác định từ khoá \"loại hình\" để điền từ đầu tiên là \"nghệ thuật\". \"Văn hoá\", \"khoa học\" không phải là loại hình mà là lĩnh vực, từ đó xác định được phương án D và loại các đáp án còn lại.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Đọc đoạn trích sau và trả lời câu hỏi: \"Quốc tộ như đằng lạc, Nam thiên lý thái bình. Vô vi cư điện các, Xứ xứ tức đao binh.\" (Pháp Thuận, Quốc tộ, Ngữ văn 10, tập một, NXB Giáo dục Việt Nam, 2019)\nCâu thơ \"Quốc tộ như đằng lạc\" sử dụng nghệ thuật tu từ nào?",
+    "options": [
+      "Nhân hóa.",
+      "So sánh.",
+      "Ẩn dụ.",
+      "Hoán dụ."
+    ],
+    "correct": 1,
+    "explanation": "Xác định từ so sánh \"như\" → BPTT so sánh (như, hơn, bằng, kém…) để diễn tả vận mệnh của đất nước, ngôi vị vua ta, đồng thời cũng là câu chúc tụng Hoàng đế Lê Đại Hành.",
+    "passage": null
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Xác định kiểu ẩn dụ trong câu thơ sau: \"Đã nghe rét mướt luồn trong gió/ Đã vắng người sang những chuyến đò\"",
+    "options": [
+      "Ẩn dụ hình thức",
+      "Ẩn dụ cách thức",
+      "Ẩn dụ phẩm chất",
+      "Ẩn dụ chuyển đổi cảm giác"
+    ],
+    "correct": 3,
+    "explanation": "Hình ảnh ẩn dụ: Nghe – Thính giác; Rét mướt – Xúc giác – cảm nhận bằng da thịt. Chữ \"luồn\" đã cụ thể hóa cái rét, cảm nhận bằng trực giác → Ẩn dụ chuyển đổi cảm giác.",
+    "passage": null
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: \"Lòng Ức Trai tỏa rạng như sao Khuê\" (\"Ức Trai tâm thượng quang khuê tảo\"). Đó là câu nói của ai nhận xét về Nguyễn Trãi?",
+    "options": [
+      "Vua Lê Thánh Tông.",
+      "Vua Lê Thái Tổ.",
+      "Vua Quang Trung.",
+      "Vua Minh Mệnh."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1464, vua Lê Thánh Tông đã minh oan cho Nguyễn Trãi, ra lệnh sưu tập lại thơ văn của ông và tìm con cháu ông còn sống sót để bổ làm quan. Vua đã ca ngợi tấm lòng của Nguyễn Trãi \"Ức Trai tâm thượng quang khuê tảo\".",
+    "passage": null
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Đọc đoạn trích dưới đây: \"Sống đánh giặc, thác cũng đánh giặc, linh hồn theo giúp cơ binh, muôn kiếp nguyện được trả thù kia; sống thờ vua, thác cũng thờ vua, lời dụ dạy đã rành rành, mộ chữ ấm đủ đền công đó.\nNước mắt anh hùng lau chẳng ráo, thương vì hai chữ thiên dân; cây hương nghĩa sĩ thắp thêm thơm, cám bởi một câu vương thổ.\" (Nguyễn Đình Chiểu, Văn tế nghĩa sĩ Cần Giuộc, Ngữ văn 11, tập một, NXB Giáo dục Việt Nam, 2020)\nTừ \"nghĩa sĩ\" trong đoạn trích trên có nghĩa là:",
+    "options": [
+      "Người thi đỗ đầu một kỳ thi thời phong kiến.",
+      "Người có tài năng ở nhiều lĩnh vực khác nhau.",
+      "Người hoạt động nhiều năm trong quân đội.",
+      "Người có chí khí, không ngại hi sinh vì nghĩa."
+    ],
+    "correct": 3,
+    "explanation": "Xét trong đoạn trích, những người \"nghĩa sĩ\" gắn với hoạt động đánh giặc và có tấm lòng hy sinh cho mọi người \"thương vì hai chữ thiên dân\" nên phương án đúng là: D.",
+    "passage": null
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Trong truyện Nhưng nó phải bằng hai mày, Cải đã ra dấu cho thầy lí về việc đã lót trước cho thầy bằng cách nào?",
+    "options": [
+      "Xòe năm ngón tay.",
+      "Dứ dứ bàn tay.",
+      "Xòe hai ngón tay.",
+      "Xòe bốn ngón tay."
+    ],
+    "correct": 0,
+    "explanation": "Trong truyện Nhưng nó phải bằng hai mày, Cải đã ra dấu cho thầy lí về việc đã lót trước cho thầy bằng cách xòe năm ngón tay.",
+    "passage": null
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Truyện Nhưng nó phải bằng hai mày thuộc loại truyện gì?",
+    "options": [
+      "Truyện khôi hài.",
+      "Truyện trào phúng.",
+      "Vừa khôi hài vừa trào phúng.",
+      "Truyện trào lộng."
+    ],
+    "correct": 1,
+    "explanation": "Truyện cười có hai loại: truyện khôi hài (có ý nghĩa giải trí) và truyện trào phúng (được sáng tác với mục đích phê phán). Truyện Nhưng nó phải bằng hai mày thuộc loại truyện trào phúng.",
+    "passage": null
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Tác phẩm nào sau đây thuộc thể loại trường ca?",
+    "options": [
+      "Những người đi tới biển.",
+      "Dấu chân qua trảng cỏ.",
+      "Khối vuông ru-bích.",
+      "Từ một đến một trăm."
+    ],
+    "correct": 0,
+    "explanation": "Những người đi tới biển (1977) là trường ca của Thanh Thảo. Tác phẩm được xem như trường ca đầu tiên sau 1975 mang tính chất mở màn cho giai đoạn nở rộ của trường ca Việt Nam những năm sau đó, được cấu trúc như một giao hưởng gồm ba chương và một Vĩ thanh.",
+    "passage": null
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: \"Đây là chiến địa buổi trùng hưng nhị thánh bắt Ô Mã,\nCũng là bãi đất xưa, thuở trước Ngô chúa phá Hoằng Thao\".\nĐương khi ấy:\nThuyền tàu muôn đội,\nTinh kì phấp phới.\nHùng hổ sáu quân,\nGiáo gươm sáng chói.\nTrận đánh được thua chửa phân,\nChiến luỹ bắc nam chống đối.\nÁnh nhật nguyệt chừ phải mờ,\nBầu trời đất chừ sắp đổi.\nKìa:\nTất Liệt thế cường,\nLưu Cung chước dối.\nNhững tưởng gieo roi một lần,\nQuét sạch Nam bang bốn cõi. (Phú sông Bạch Đằng, Trương Hán Siêu, SGK Ngữ văn 10, tập 1, NXB Giáo dục Việt Nam, 2016)\nĐâu là nội dung chính của đoạn trích trên?",
+    "options": [
+      "Các bô lão ca ngợi tinh thần yêu nước và sức mạnh to lớn của quân đội nhà Trần trong việc bảo vệ đất nước.",
+      "Chân dung những người anh hùng đã chiến đấu vẻ vang để bảo vệ đất nước trong thời kỳ phong kiến.",
+      "Tái hiện cuộc chiến đấu cam go giữa quân đội nhà Trần và giặc Nguyên - Mông trên sông Bạch Đằng.",
+      "Các bô lão khẳng định vai trò và ý thức về sự đoàn kết dân tộc trong công cuộc bảo vệ chủ quyền của dân tộc."
+    ],
+    "correct": 2,
+    "explanation": "Sử dụng phương pháp loại trừ: văn bản chỉ nhắc tới Trần Quốc Tuấn và Ngô Quyền trong hai câu đầu nên không phải nội dung chính, loại B. Đoạn trích không nhắc tới hình ảnh \"nhân dân\" hay sự đồng lòng của mọi người nên loại A, D. Chọn C.",
+    "passage": null
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Đáp án nào KHÔNG phải giá trị nghệ thuật của bài thơ Đất nước (Nguyễn Đình Thi)?",
+    "options": [
+      "Nhịp điệu, hình ảnh thơ sáng tạo.",
+      "Ngôn ngữ thơ lắng đọng, cô đúc.",
+      "Sử dụng sáng tạo, phong phú các biện pháp tu từ.",
+      "Các chất liệu văn hóa dân gian được sử dụng nhuần nhuyễn, sáng tạo."
+    ],
+    "correct": 3,
+    "explanation": "Giá trị nghệ thuật của bài thơ gồm: nhịp điệu, hình ảnh thơ sáng tạo; ngôn ngữ thơ lắng đọng, cô đúc; sử dụng sáng tạo, phong phú các biện pháp tu từ. Đáp án D không phải giá trị nghệ thuật của bài thơ này.",
+    "passage": null
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: \"Người hiền\" trong Chiếu cầu hiền của Ngô Thì Nhậm là người",
+    "options": [
+      "hiền lành, nhân hậu.",
+      "có đức.",
+      "có tài.",
+      "có tài và có đức."
+    ],
+    "correct": 3,
+    "explanation": "\"Người hiền\" trong Chiếu cầu hiền của Ngô Thì Nhậm là người có tài và có đức.",
+    "passage": null
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đọc đoạn trích sau đây: \"Các chính phủ - cả chuyên chế lẫn cộng hòa - đều trục xuất ông, bọn tư sản - cả bảo thủ lẫn dân chủ cực đoan - đều thi nhau vu khống và nguyền rủa ông. Mác đã gạt sang một bên tất cả những thứ đó, coi như cái mạng nhện vướng chân, chẳng thèm đếm xỉa, và chỉ đáp lại khi thấy hết sức cần thiết mà thôi. Và ông đã mất đi, hàng triệu người cộng sự cách mạng với ông ở khắp châu Âu và châu Mĩ, từ những hầm mỏ Xi-bia đến tận Ca-li-phoóc-ni-a, đã tôn kính, yêu mến và khóc thương ông, và tôi có thể mạnh dạn nói rằng ông có thể có nhiều kẻ đối địch, nhưng chưa chắc đã có một kẻ thù nào riêng cả.\" (Ăng-ghen, Ba cống hiến vĩ đại của Các Mác, Ngữ văn 11, tập hai, NXB Giáo dục Việt Nam, 2020)\nNội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Phản ứng của Mác trước sự vùi dập của chính phủ và giới tư sản.",
+      "Những gian khổ, khó khăn mà Mác đã trải qua khi còn sống.",
+      "Nỗi đau đớn và tiếc nuối của Mác trước khi qua đời.",
+      "Cuộc đời và sự ra đi của Mác để lại nỗi thương tiếc của nhiều người trên thế giới."
+    ],
+    "correct": 3,
+    "explanation": "Phương án A và B đúng nhưng chưa đủ, phương án C không xuất hiện trong đoạn trích. Đoạn 1 văn bản nói về cuộc đời của Mác, đoạn 2 nói về sự ra đi của Mác và sự tiếc thương của thế giới dành cho ông nên phương án D đúng.",
+    "passage": null
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Chữ \"nhân\" trong câu \"Lấy chí nhân để thay cường bạo\" trong bài Bình Ngô đại cáo của Nguyễn Trãi được dùng nghĩa nào trong những nghĩa sau đây?",
+    "options": [
+      "Chỉ con người nói chung.",
+      "Chỉ tấm lòng vị lãnh tụ nghĩa quân.",
+      "Chỉ một khái niệm đạo đức của Khổng học: lòng yêu thương, quý trọng con người.",
+      "Chỉ tấm lòng của tất cả các nghĩa quân Lam Sơn."
+    ],
+    "correct": 2,
+    "explanation": "Tư tưởng \"nhân nghĩa\" là tư tưởng xuyên suốt văn bản Bình Ngô đại cáo. Khái niệm \"nhân\" trong câu văn vốn là một khái niệm trong đạo đức của Khổng học: Nhân là lòng yêu thương, quý trọng con người (Khổng Tử từng nói: \"nhân giả ái nhân\") đã được Nguyễn Trãi vận dụng để nêu cao tính chất chính nghĩa và nhân văn của cuộc kháng chiến của nghĩa quân.",
+    "passage": null
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Đọc đoạn văn sau: \"Văn học từ thế kỉ X đến hết thế kỉ XIX: Trong văn học chữ Hán, có ba nhóm thể loại chủ yếu: văn xuôi (truyện, kí, tiểu thuyết chương hồi...); thơ (thơ cổ phong, thơ Đường luật, từ khúc...); văn biền ngẫu (hình thức trung gian giữa thơ và văn xuôi, được dùng nhiều trong phú, cáo, văn tế...). Ở văn học chữ Nôm, phần lớn các thể loại là thơ (thơ Nôm Đường luật, truyện thơ, ngâm khúc, hát nói) và văn biền ngẫu.\"\nĐoạn văn trên sử dụng phương pháp thuyết minh nào?",
+    "options": [
+      "Liệt kê, nêu ví dụ và chú thích.",
+      "Nêu ví dụ, định nghĩa và liệt kê.",
+      "Nêu ví dụ, phân loại, chú thích.",
+      "Nêu ví dụ, phân tích, chú thích."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả sử dụng kết hợp các phương pháp thuyết minh: liệt kê (các bộ phận của văn học Việt Nam và các thể loại chủ yếu); nêu ví dụ (những ví dụ tiêu biểu, những thể loại cụ thể) và chú thích (chú thích cho khái niệm \"văn biền ngẫu\").",
+    "passage": null
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Đọc đoạn trích sau đây: \"Trong 24 giờ qua, thế giới ghi nhận trên 472.000 ca mắc COVID19 và 3.796 ca tử vong. Pháp đứng đầu thế giới với trên 100.000 ca nhiễm mới; Italy đứng thứ hai với 54.762 ca; tiếp theo là Mỹ (40.458 ca). Nga đứng đầu về số ca tử vong mới, với 981 người chết trong ngày; tiếp theo là Ba Lan (269 ca) và Ukraine (268 ca tử vong).\nTheo trang thống kê worldometer.info, tính đến 6h ngày 22/12 (theo giờ VN), toàn thế giới đã ghi nhận tổng cộng 279.801.947 ca nhiễm virus SARS-CoV-2 gây bệnh COVID-19, trong đó có 5.412.909 ca tử vong. Số ca nhiễm mới trong 24 giờ qua là 472.103 và 3.796 ca tử vong mới.\" (Theo Cổng thông tin điện tử Bộ Y Tế MOH)\nXác định phong cách ngôn ngữ trong đoạn trích trên.",
+    "options": [
+      "Phong cách ngôn ngữ báo chí.",
+      "Phong cách ngôn ngữ sinh hoạt.",
+      "Phong cách ngôn ngữ chính luận.",
+      "Phong cách ngôn ngữ khoa học."
+    ],
+    "correct": 0,
+    "explanation": "Nội dung đoạn trích: Diễn biến của đại dịch Covid-19 trên thế giới → đây là một tin tức mang tính thời sự, có các số liệu được cập nhật mới nhất, được nhiều người quan tâm và tìm hiểu. Đoạn trích thuộc phong cách ngôn ngữ báo chí.",
+    "passage": null
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Đọc đoạn văn sau: \"Sông Hương có hai nguồn chính và đều bắt nguồn từ dãy núi Trường Sơn. Dòng chính của Tả Trạch dài khoảng 67 km, bắt nguồn từ dãy Trường Sơn Đông, ven khu vực vườn quốc gia Bạch Mã chảy theo hướng tây bắc với 55 thác nước hùng vĩ, qua thị trấn Nam Đông rồi sau đó hợp lưu với dòng Hữu Trạch tại ngã ba Bằng Lãng (khoảng 3 km về phía bắc khu vực lăng Minh Mạng). Hữu Trạch dài khoảng 60 km là nhánh phụ, chảy theo hướng bắc, qua 14 thác nguy hiểm và vượt qua phà Tuần để tới ngã ba Bằng Lãng, nơi hai dòng này gặp nhau và tạo nên sông Hương.\"\nTác giả đã sử dụng phương pháp thuyết minh nào để giới thiệu về đặc điểm địa lí của dòng sông Hương?",
+    "options": [
+      "So sánh.",
+      "Dùng số liệu.",
+      "Nêu ví dụ.",
+      "Giải thích nguyên nhân - kết quả."
+    ],
+    "correct": 1,
+    "explanation": "Tác giả không dùng các phương pháp so sánh, nêu ví dụ cũng như giải thích nguyên nhân - kết quả mà sử dụng các số liệu hết sức cụ thể, chi tiết để trình bày về đặc điểm địa lí của dòng sông: 67 km, 60 km, 3 km, \"55 thác nước hùng vĩ\", \"14 thác nguy hiểm\".",
+    "passage": null
+  }
+]

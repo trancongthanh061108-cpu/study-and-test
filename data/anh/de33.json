@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: This is Mrs Smith, ______ has been teaching English for over 20 years.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "correct": 0,
+    "explanation": "Đại từ quan hệ 'who' dùng để chỉ người và làm chủ ngữ trong mệnh đề quan hệ không hạn định.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: The thief finally admitted ______ the luxury jewelry when confronted with clear evidence from the security cameras.",
+    "options": [
+      "breaking",
+      "dropping",
+      "stealing",
+      "committing"
+    ],
+    "correct": 2,
+    "explanation": "'Admit + V-ing'. 'Stealing' là động từ phù hợp nhất với ngữ cảnh ăn cắp trang sức.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: She managed to ______ a brilliant idea for the project.",
+    "options": [
+      "make up with",
+      "make up for",
+      "come up with",
+      "give up"
+    ],
+    "correct": 2,
+    "explanation": "Thành ngữ 'come up with' nghĩa là nghĩ ra, tìm ra (ý tưởng).",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: During the survival training, we learned how to identify ______ plants in the wild.",
+    "options": [
+      "inedible",
+      "edible",
+      "poisonous",
+      "harmful"
+    ],
+    "correct": 1,
+    "explanation": "Trong huấn luyện sinh tồn, người ta học cách nhận biết cây ăn được ('edible').",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: You ______ have informed me about the meeting earlier. I completely missed it and now I have to wait until next week for the next update.",
+    "options": [
+      "must",
+      "should",
+      "could",
+      "may"
+    ],
+    "correct": 1,
+    "explanation": "'Should have + V3' dùng để chỉ sự việc đáng lẽ phải làm trong quá khứ nhưng không làm.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: If Mark ______ more carefully for his job interview last month, he ______ a stable position in the company now.",
+    "options": [
+      "had prepared – would had",
+      "prepared – would have had",
+      "had prepared – would have had",
+      "had prepared – would have"
+    ],
+    "correct": 2,
+    "explanation": "Câu điều kiện hỗn hợp: If + Past Perfect (quá khứ), would have + V3 (hiện tại giả định). Đáp án C đúng ngữ pháp.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: Due to the tough requirements, our project has ______ several times.",
+    "options": [
+      "come to terms with",
+      "make a complaint",
+      "do damage",
+      "come to a standstill"
+    ],
+    "correct": 3,
+    "explanation": "'Come to a standstill' nghĩa là dừng lại, bế tắc. Phù hợp với ngữ cảnh dự án bị trì trệ nhiều lần.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: Jason looks exhausted. He ______ intensively for the upcoming marathon.",
+    "options": [
+      "train",
+      "has trained",
+      "has been training",
+      "was training"
+    ],
+    "correct": 2,
+    "explanation": "Hiện tại hoàn thành tiếp diễn 'has been training' nhấn mạnh hành động bắt đầu từ quá khứ và còn đang tiếp diễn, gây ra hậu quả hiện tại (kiệt sức).",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: The professor's speech was so ______ that even the experts struggled to understand his points.",
+    "options": [
+      "comprehension",
+      "comprehensible",
+      "incomprehensible",
+      "comprehensively"
+    ],
+    "correct": 2,
+    "explanation": "'Incomprehensible' nghĩa là không thể hiểu được. Phù hợp với ngữ cảnh ngay cả chuyên gia cũng khó hiểu.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: She regretted ______ to the meeting late, realizing that she had missed the most important discussion.",
+    "options": [
+      "come",
+      "coming",
+      "to come",
+      "came"
+    ],
+    "correct": 1,
+    "explanation": "'Regret + V-ing' dùng để hối tiếc về việc đã xảy ra trong quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: The girl in black dress is **conspicuous** among the other girls on the stage.",
+    "options": [
+      "obvious",
+      "beautiful",
+      "insignificant",
+      "obscure"
+    ],
+    "correct": 0,
+    "explanation": "'Conspicuous' nghĩa là dễ thấy, nổi bật. Gần nghĩa nhất với 'obvious'.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: The hotel charged an **exorbitant** price for a single night, which many travelers found unreasonable.",
+    "options": [
+      "excessive",
+      "reasonable",
+      "moderate",
+      "affordable"
+    ],
+    "correct": 0,
+    "explanation": "'Exorbitant' nghĩa là quá mức, cắt cổ. Gần nghĩa với 'excessive'.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: Despite facing many difficulties, he **set off** on his journey with great determination.",
+    "options": [
+      "embark",
+      "remain",
+      "depart",
+      "delay"
+    ],
+    "correct": 1,
+    "explanation": "'Set off' nghĩa là khởi hành. Trái nghĩa là 'remain' (ở lại).",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: Despite growing up in an **affluent** neighborhood, John was always taught to be humble and appreciate what he had.",
+    "options": [
+      "prosperous",
+      "wealthy",
+      "destitute",
+      "rich"
+    ],
+    "correct": 2,
+    "explanation": "'Affluent' nghĩa là giàu có. Trái nghĩa là 'destitute' (nghèo khổ).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Mark: “Would you like to join us for a barbecue this weekend?”\nAnna: “________”",
+    "options": [
+      "No, I don’t like eating.",
+      "That sounds great! What time?",
+      "I prefer staying at home.",
+      "It’s none of your business."
+    ],
+    "correct": 1,
+    "explanation": "Câu trả lời lịch sự và tích cực nhất khi được mời là 'That sounds great! What time?'",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: David: “I’m thinking of applying for a scholarship to study abroad.”\nSarah: “That’s a great idea! ________”",
+    "options": [
+      "Break a leg!",
+      "Pull yourself together!",
+      "Go ahead!",
+      "You’re welcome!"
+    ],
+    "correct": 2,
+    "explanation": "'Go ahead!' dùng để khuyến khích ai đó thực hiện ý định của mình.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Anna: “I’ve been working overtime every day this month, but my boss still doesn’t appreciate my effort.”\nBen: “________”",
+    "options": [
+      "Maybe you should discuss this with your boss and see what can be improved.",
+      "That's great! Hard work always pays off in the end.",
+      "You should have known better than to expect appreciation.",
+      "I think quitting is the only option left for you."
+    ],
+    "correct": 0,
+    "explanation": "Lời khuyên xây dựng và lịch sự nhất là đề nghị thảo luận với sếp.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Emily: “I can’t believe I forgot my wallet at home. This is so embarrassing!”\nRyan: “________”",
+    "options": [
+      "That's a shame. You should be more careful next time.",
+      "Don't worry. I'll cover for you this time.",
+      "Well, that's what happens when you're absent-minded.",
+      "You'd better go home and get it right now."
+    ],
+    "correct": 1,
+    "explanation": "Câu trả lời thân thiện và hỗ trợ nhất là 'Don't worry. I'll cover for you this time.'",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Arrange the sentences to make a complete dialogue.\na. I'm sorry, but I don't think I can make it to your party.\nb. Oh, that's too bad! Why not?\nc. I have an important meeting early in the morning.\nd. I see. Well, we'll miss you!",
+    "options": [
+      "a - b - c - d",
+      "b - a - d - c",
+      "a - c - d - b",
+      "c - a - b - d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: Từ chối (a) → Hỏi lý do (b) → Giải thích (c) → Chấp nhận (d).",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Arrange the sentences to make a complete dialogue.\na. That's true, but AI still has limitations. Humans are needed for creativity and critical thinking.\nb. AI is advancing so fast. I wonder if machines will eventually replace humans in most jobs.\nc. Yes, but some experts say AI will only assist humans, not replace them entirely.\nd. I hope so. I'd rather work with AI than be replaced by it!",
+    "options": [
+      "b - a - c - d",
+      "b - c - a - d",
+      "a - b - c - d",
+      "c - b - a - d"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự: Đưa ra lo ngại (b) → Đồng tình một phần (c) → Bổ sung (a) → Kết luận (d).",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Arrange the sentences to make a complete dialogue.\na. We acknowledge your concerns and are willing to explore a flexible pricing model for long-term contracts.\nb. While we understand your pricing strategy, our budget constraints require a more competitive offer.\nc. Given the premium materials and advanced technology involved, our pricing reflects the true value of the product.\nd. That's a reasonable point. If we can agree on a larger volume, would you be open to revisiting the price?\ne. I see your perspective. However, we also need to ensure our costs are covered while maintaining a fair margin.\nf. That sounds promising. Let me review the revised terms with my team and get back to you shortly.",
+    "options": [
+      "b - e - a - c - d - f",
+      "a - c - d - e - b - f",
+      "b - d - e - a - c - f",
+      "c - b - e - d - a - f"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự đàm phán logic: Bên mua nêu khó khăn (b) → Bên bán phản hồi (e) → Đề xuất linh hoạt (a) → Giải thích giá (c) → Thương lượng số lượng (d) → Kết thúc (f).",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Arrange the sentences to make a complete dialogue.\na. That's true! I've heard Phuket and Krabi are amazing. Maybe I should start planning now.\nb. If that's the case, Thailand might be a perfect choice! Beautiful beaches, great food, and it's quite affordable.\nc. Definitely! Let me know if you need any recommendations—I love planning trips.\nd. I'm still undecided about my summer vacation. There are so many places I want to visit!\ne. I have, but I'm also thinking about a beach vacation. I really want to relax and enjoy the ocean.\nf. That sounds amazing! Have you considered going to Japan? It's a great mix of culture, food, and nature.",
+    "options": [
+      "b - e - a - c - d - f",
+      "a - c - b - d - e - f",
+      "d - e - f - b - a - c",
+      "c - b - e - d - a - f"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự: Nêu vấn đề (d) → Trả lời (e) → Gợi ý Nhật (f) → Gợi ý Thái (b) → Đồng ý (a) → Kết thúc (c).",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: The book was so interesting that I couldn't put it down.",
+    "options": [
+      "It was too interesting for me to put it down.",
+      "It was such an interesting book that I couldn't put it down.",
+      "I was so interested in the book that I put it down.",
+      "The book was very interesting that I couldn't put it down."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc 'so + adj + that' tương đương với 'such + a/an + adj + N + that'. Đáp án B đúng ngữ pháp và nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: \"Don't forget to submit your assignment before the deadline\" the teacher said to us.",
+    "options": [
+      "The teacher reminded us not to submit our assignment before the deadline.",
+      "The teacher allowed us to submit our assignment before the deadline.",
+      "The teacher reminded us to submit our assignment before the deadline.",
+      "The teacher warned us against submitting our assignment before the deadline."
+    ],
+    "correct": 2,
+    "explanation": "Câu tường thuật của lời nhắc nhở 'Don't forget to...' là 'reminded us to...'.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: The conference attracted an audience of distinguished scholars, but it was the eminent professor's thought-provoking critique of modern theoretical physics that left a lasting impression on the attendees.",
+    "options": [
+      "The professor's argument on theoretical physics was thought-provoking, but many scholars at the conference found it controversial.",
+      "Many scholars attended the conference, but the renowned professor's insightful critique of modern theoretical physics was the most impactful.",
+      "The conference was attended by well-known scholars, yet it was the professor's remarkable analysis of theoretical physics that was most memorable.",
+      "Despite the presence of many distinguished scholars, the professor's discussion on theoretical physics was not well received."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C diễn đạt đúng nhất ý chính: hội nghị có nhiều học giả, nhưng chính bài phê bình của giáo sư mới để lại ấn tượng sâu sắc.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Scarcely had the council implemented the new policy when a cascade of unforeseen ramifications ensued.",
+    "options": [
+      "No sooner had the council enforced the policy than a series of unanticipated repercussions unfolded.",
+      "The council implemented the new policy, and shortly after, a cascade of expected consequences emerged.",
+      "Only after the council had introduced the new policy did they recognize the inevitability of the repercussions.",
+      "Rarely did the council introduce a policy without considering its ramifications beforehand."
+    ],
+    "correct": 0,
+    "explanation": "'Scarcely...when' tương đương với 'No sooner...than'. Đáp án A diễn đạt đúng nghĩa và cấu trúc.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: He disregarded all the warnings about the severe storm. Consequently, he found himself stranded in the middle of nowhere.",
+    "options": [
+      "Had he heeded the warnings about the storm, he wouldn't have ended up stranded in the middle of nowhere.",
+      "He was stranded in the middle of nowhere even though he had paid attention to the storm warnings.",
+      "Not only did he ignore the storm warnings, but he also intentionally put himself in danger.",
+      "Since he had ignored the storm warnings, he managed to get out of the dangerous situation unharmed."
+    ],
+    "correct": 0,
+    "explanation": "Câu điều kiện loại 3 đảo ngữ thể hiện đúng quan hệ nhân quả giả định.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Not only did she ignore my advice, but she also made the same mistake again. Eventually, she had to face serious consequences.",
+    "options": [
+      "If she followed my advice, she wouldn't have repeated the mistake and faced serious consequences.",
+      "She ignored my advice once, but after making the mistake again, she finally took it seriously.",
+      "She disregarded my advice and repeated the mistake, which led to inevitable consequences.",
+      "Despite my repeated warnings, she refused to acknowledge her mistake and kept making it."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C tóm tắt đúng hai hành động và hậu quả tất yếu.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: This equation defies all conventional logic. I must consult my peers to verify its validity.",
+    "options": [
+      "Defying all conventional logic, this equation necessitates consulting my peers to verify its validity.",
+      "This equation defies conventional logic, so I must consult my peers to verify its validity.",
+      "Since this equation defies all conventional logic, I must consult my peers to verify its validity.",
+      "This equation defies all conventional logic, whereas I must consult my peers to verify its validity."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C dùng 'Since' thể hiện quan hệ nhân quả rõ ràng và tự nhiên nhất.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: Despite his extensive experience, the surgeon found the rare condition perplexing. He had to consult several medical journals before making a diagnosis.",
+    "options": [
+      "Although he was highly experienced, the surgeon was puzzled by the unusual case and had to review multiple medical journals before diagnosing it.",
+      "The surgeon's lack of expertise led him to misdiagnose a rare condition even after consulting various medical journals.",
+      "Because of his experience, the surgeon quickly identified the rare condition without consulting any references.",
+      "The surgeon found the case straightforward, but he still reviewed medical journals as a precaution."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A diễn đạt đúng quan hệ tương phản và hành động tiếp theo.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: They are not (631) ______ the UK.",
+    "options": [
+      "be native to",
+      "relevant to",
+      "accustomed to",
+      "typical of"
+    ],
+    "correct": 0,
+    "explanation": "'Be native to' nghĩa là bản địa của. Câu cần dạng đúng là 'native to'.",
+    "passage": "passage33_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: The smelly insects are now (632) ______ a threat to fruit and vegetable crops in the south of England.",
+    "options": [
+      "causing",
+      "forming",
+      "making",
+      "posing"
+    ],
+    "correct": 3,
+    "explanation": "Thành ngữ 'pose a threat' nghĩa là gây ra mối đe dọa.",
+    "passage": "passage33_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: This makes the fruit rotten (633) ______.",
+    "options": [
+      "where the insects pierce the skin",
+      "which the insects pierce the skin",
+      "that the insects pierce the skin",
+      "what the insects pierce the skin"
+    ],
+    "correct": 0,
+    "explanation": "Mệnh đề quan hệ chỉ nơi chốn 'where the insects pierce the skin' là phù hợp nhất.",
+    "passage": "passage33_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: It means (634) ______.",
+    "options": [
+      "insects become a new source of food",
+      "crops grow better in warmer weather",
+      "farmers cannot sell the crops",
+      "farmers have to use more pesticides"
+    ],
+    "correct": 2,
+    "explanation": "Quả bị hỏng nên nông dân không bán được (phải chế biến thành nước ép).",
+    "passage": "passage33_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: ...there is no risk to human health from the insects (635) ______ fruit and vegetables.",
+    "options": [
+      "feeding on",
+      "living in",
+      "picking up",
+      "absorbing from"
+    ],
+    "correct": 0,
+    "explanation": "'Feeding on' nghĩa là ăn, hút nhựa từ trái cây và rau củ.",
+    "passage": "passage33_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: The word “they” in paragraph 3 refers to:",
+    "options": [
+      "Parents",
+      "The daughters",
+      "The grooms' families",
+      "Communities"
+    ],
+    "correct": 0,
+    "explanation": "'...the money they have to pay to the groom's family...' → 'they' chỉ 'Parents'.",
+    "passage": "passage33_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: According to the passage, what has slowed down Nepal's progress in ending child marriage?",
+    "options": [
+      "Lack of government commitment",
+      "Lack of international support",
+      "The earthquake and fuel crisis",
+      "Resistance from traditional communities"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn cuối nêu rõ: 'the post-earthquake and post-fuel crisis environment has meant progress is slow...'",
+    "passage": "passage33_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: What is the main topic of paragraph 3?",
+    "options": [
+      "The dowry system contributes to early marriage in Nepal.",
+      "The Nepalese government has increased the legal age for marriage.",
+      "Girls in Nepal are forced to marry at a young age due to family expectations.",
+      "Child marriage is declining in Nepal due to strict legal enforcement."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn 3 tập trung vào tục lệ của hồi môn (dowry) thúc đẩy việc kết hôn sớm.",
+    "passage": "passage33_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: According to the passage, which of the following is NOT true about child marriage in Nepal?",
+    "options": [
+      "Poverty is both a cause and a consequence of child marriage.",
+      "The government has taken no action to prevent child marriage.",
+      "Families suffering from food insecurity are more likely to marry off their daughters early.",
+      "The national strategy to combat child marriage has been delayed due to the post-earthquake and post-fuel crisis situation."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn văn nêu rõ chính phủ đã cam kết và đang xây dựng chiến lược quốc gia → B là thông tin sai.",
+    "passage": "passage33_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: Which of the following would the author most likely support?",
+    "options": [
+      "The Nepalese government should implement stricter laws and policies to prevent child marriage.",
+      "Child marriage is a deeply rooted tradition that should be respected and preserved.",
+      "The issue of child marriage in Nepal is exaggerated, and the situation is improving on its own.",
+      "Economic hardships make child marriage a necessary practice in many Nepalese families."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả nhấn mạnh tiến bộ còn chậm và luật ít được thực thi → ủng hộ chính phủ hành động mạnh mẽ hơn.",
+    "passage": "passage33_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the phrase “must be taken with a pinch of salt” mean?",
+    "options": [
+      "To be completely trusted and believed without question.",
+      "To be accepted with some doubt or skepticism.",
+      "To be ignored because it is not important.",
+      "To be considered extremely dangerous."
+    ],
+    "correct": 1,
+    "explanation": "Thành ngữ 'take something with a pinch of salt' nghĩa là nên nghi ngờ, không tin hoàn toàn.",
+    "passage": "passage33_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: What does the word “them” in paragraph 2 refer to?",
+    "options": [
+      "Afghanistan, Guinea, and Niger",
+      "The rankings",
+      "Clinic Compare's studies",
+      "Diseases of affluence"
+    ],
+    "correct": 0,
+    "explanation": "'...that doesn't make them healthy places to live.' → 'them' chỉ các quốc gia được xếp hạng lành mạnh (Afghanistan, Guinea, Niger).",
+    "passage": "passage33_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: Which of the following best paraphrases this sentence: \"High consumption of alcohol, tobacco, and food are diseases of affluence; that is, they are common in wealthy countries.\"",
+    "options": [
+      "Drinking alcohol and eating unhealthy food is common among rich people.",
+      "People in wealthy nations tend to consume a lot of alcohol, tobacco, and food.",
+      "Alcohol and tobacco addiction is a problem only in rich countries.",
+      "Food consumption is not a major issue in developing nations."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án B diễn đạt đúng nhất ý 'diseases of affluence' là những vấn đề phổ biến ở các nước giàu.",
+    "passage": "passage33_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: What is the main idea of paragraph 3?",
+    "options": [
+      "Different health issues in wealthy and poor countries.",
+      "The lack of medical services in African countries.",
+      "The causes of low life expectancy in developing countries.",
+      "The effects of alcohol and tobacco consumption on global health."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn 3 đối chiếu bệnh tật của sự giàu có và bệnh tật của sự nghèo đói.",
+    "passage": "passage33_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following does the author probably support?",
+    "options": [
+      "Classifying countries as \"healthy\" or \"unhealthy\" based on a few factors is misleading.",
+      "Alcohol and tobacco should be banned worldwide to improve public health.",
+      "Poor countries have better healthcare systems than rich countries.",
+      "The Czech Republic should take serious measures to fight obesity."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả chỉ ra sự mâu thuẫn giữa hai bảng xếp hạng → ủng hộ quan điểm rằng phân loại dựa trên vài yếu tố là gây hiểu lầm.",
+    "passage": "passage33_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You are working on a group project with your classmates. One member of the group keeps talking and sharing their opinions without allowing others to contribute. What can you say to ensure that everyone has a chance to speak?",
+    "options": [
+      "We should listen to everyone's ideas to make our presentation better.",
+      "I think you've talked enough. Let others speak now.",
+      "Maybe I'll just keep my ideas to myself since you're talking so much.",
+      "Why are you talking so much?"
+    ],
+    "correct": 0,
+    "explanation": "Cách nói lịch sự, xây dựng và khuyến khích sự tham gia của mọi người là đáp án A.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: Students are discussing their favorite sports. Which statement can be considered a fact?",
+    "options": [
+      "Soccer is the most exciting sport to watch.",
+      "Basketball is the best sport for teamwork.",
+      "Tennis requires more skill than other sports.",
+      "The Olympics includes swimming as an official sport."
+    ],
+    "correct": 3,
+    "explanation": "Chỉ có D là sự thật khách quan, có thể kiểm chứng. Các đáp án còn lại là ý kiến chủ quan.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: You are on a crowded bus and see an elderly person standing while you are seated. What is the most appropriate action to take?",
+    "options": [
+      "Ignore them and continue using your phone.",
+      "Offer your seat to the elderly person.",
+      "Ask the bus driver to announce standing passengers.",
+      "Wait to see if someone else offers their seat first."
+    ],
+    "correct": 1,
+    "explanation": "Hành động lịch sự và phù hợp nhất là nhường ghế cho người lớn tuổi.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: In a race with five participants—Alice, David, Tony, Jack, and Helen—the following conditions are given:\nAlice did not finish first or last.\nDavid finished after Tony.\nJack finished after John.\nJohn finished before Helen but after Tony.\nWho finished last?",
+    "options": [
+      "Alice",
+      "David",
+      "Jack",
+      "Helen"
+    ],
+    "correct": 2,
+    "explanation": "Từ các điều kiện: Tony → John → Helen, và David sau Tony, Jack sau John. Alice không nhất cũng không chót. Vậy thứ tự hợp lý dẫn đến Jack về chót.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: (Câu hỏi còn thiếu trong tài liệu được cung cấp - vui lòng bổ sung nếu có)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": null,
+    "explanation": "Tài liệu bị cắt ở trang cuối, chưa có nội dung câu 650.",
+    "passage": null
+  }
+]

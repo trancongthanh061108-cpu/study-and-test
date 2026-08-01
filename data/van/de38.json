@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Rạng rỡ",
+      "Rạng đông",
+      "Mờ mịt",
+      "Le lói"
+    ],
+    "correct": 1,
+    "explanation": "Các từ \"rạng rỡ, mờ mịt, le lói\" đều là những từ cùng nhóm miêu tả ánh sáng, trong đó \"rạng rỡ\" là ánh sáng rực rỡ còn \"mờ mịt, le lói\" là ánh sáng yếu ớt. Còn từ \"rạng đông\" lại là từ dùng để chỉ khoảng thời gian trước lúc mặt trời mọc, lúc bầu trời ở phía đông bắt đầu hửng sáng.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Nam cao",
+      "Nam trung",
+      "Nam bình",
+      "Nam trầm"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"nam\" trong \"nam cao\", \"nam trung\", \"nam trầm\" cùng nhóm chỉ chất giọng (người đàn ông), ba từ này là thuật ngữ xác định quãng giọng trong âm nhạc (cao, trung, thấp). Còn \"nam bình\" là tên một điệu ca Huế.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Cải tiến",
+      "Cải tạo",
+      "Cải thiện",
+      "Cải tổ"
+    ],
+    "correct": 3,
+    "explanation": "Các từ \"cải tiến, cải tạo, cải thiện\" là những từ nói về sự thay đổi, sửa đổi để tốt hơn còn \"cải tổ\" chỉ là thay đổi bộ máy cho khác đi còn kết quả có tốt hay không là điều không thể nói trước.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Găng",
+      "Gắng",
+      "Cố",
+      "Ráng"
+    ],
+    "correct": 0,
+    "explanation": "\"Găng\" ở trạng thái có những sự phát triển hoặc hoạt động được đẩy đến cao độ, tạo nên mâu thuẫn gay gắt. \"Gắng, cố, ráng\" đều mang nghĩa nỗ lực, cố gắng. \"Găng\" có nghĩa khác biệt rõ rệt so với ba từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Nhỏ nhắn",
+      "Nhỏ nhẹ",
+      "Nhỏ con.",
+      "Nhỏ xíu."
+    ],
+    "correct": 1,
+    "explanation": "\"Nhỏ nhắn, nhỏ con, nhỏ xíu\" đều là từ miêu tả hình dáng bé nhỏ của con người. Trong khi đó \"nhỏ nhẹ\" lại miêu tả (nói năng) nhỏ giọng và nhẹ nhàng, dễ nghe.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nTinh thần dám _____ với quá khứ, dám _____ sự đa dạng của văn hóa đã giúp các quốc gia Đông Âu và cả châu Âu bước qua nhiều trở ngại để bảo tồn và khai thác khối di sản kiến trúc XHCN ở Đông Âu.",
+    "options": [
+      "song hành/ bước qua",
+      "vượt qua/ đón nhận",
+      "đối diện/ chấp nhận",
+      "đối đầu/ từ chối"
+    ],
+    "correct": 2,
+    "explanation": "Vế sau câu văn cho thấy các nước đã bước qua trở ngại nên vế trước phải là thái độ tích cực, loại D. Đối với quá khứ không thể song hành, loại A. Về di sản kiến trúc quá khứ có nhiều góc khuất, thái độ tốt nhất là \"đối diện\" để giải mã, chấp nhận sự đa dạng => đáp án C.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nTrong xu thế _____, máy tái chế rác thải thực phẩm tại nhà - với khả năng biến rác thực phẩm thành \"phân bón hữu cơ\" hoặc \"môi trường đất giàu dinh dưỡng\" chỉ trong vài giờ - được tung hô như vị cứu tinh của môi trường.",
+    "options": [
+      "sống xanh",
+      "sống khác biệt",
+      "sống khỏe",
+      "sống cân bằng"
+    ],
+    "correct": 0,
+    "explanation": "Với nội dung vế sau của câu là biến rác thực phẩm thành \"phân bón hữu cơ\" hoặc \"môi trường đất giàu dinh dưỡng\", đây là hoạt động đặc trưng của lối sống xanh.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nSuy cho cùng, trong mua sắm, không nên quá _____ nếu muốn tiền cạn túi, cũng chẳng nên áp lực đến mức _____ với mọi biển quảng cáo nhan nhản xung quanh.",
+    "options": [
+      "dễ dàng/ khó khăn",
+      "hồn nhiên/ đa nghi",
+      "thoải mái/ khó chịu",
+      "tùy tiện/ căn ke"
+    ],
+    "correct": 1,
+    "explanation": "Cả bốn đáp án đều có thể điền đúng vị trí thứ nhất. Ở vị trí thứ hai, hai vế của câu phải có nghĩa tương phản nhau: không mua sắm quá đà thì không áp lực đến mức nghi ngờ mọi thứ => đáp án B.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\nDi sản bất hòa hàm ý về những di sản ẩn chứa _____ của các câu chuyện khác biệt và thiếu đi _____ giữa các bên liên quan trong việc tái hiện quá khứ và ký ức trong các không gian công cộng.",
+    "options": [
+      "sự khác biệt/ sự hài hòa",
+      "sự mâu thuẫn/ sự đồng đều",
+      "sự riêng biệt/ sự kết hợp",
+      "sự xung đột/ sự đồng thuận"
+    ],
+    "correct": 3,
+    "explanation": "\"Bất hòa\" hàm chứa ý nghĩa xung đột, mâu thuẫn, không hòa hợp. Đáp án D đúng vì một bên là ẩn chứa sự xung đột, một bên là thiếu sự đồng thuận cũng là xung đột.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn từ/ cụm từ thích hợp nhất để điền vào chỗ trống trong các câu dưới đây.\n_____ tái chế nhựa rất quan trọng và có ý nghĩa môi trường to lớn, cần đảm bảo các hóa chất độc hại không trở lại trong các sản phẩm mới.",
+    "options": [
+      "Do",
+      "Mặc dù",
+      "Hầu hết",
+      "Nhìn chung"
+    ],
+    "correct": 1,
+    "explanation": "Hai vế của câu văn có mối quan hệ tương phản: biết nó quan trọng nhưng cần lưu ý hậu quả => từ thích hợp để điền là \"Mặc dù\", câu bị khuyết từ \"nhưng\".",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nVai trò của rừng giàu đa dạng sinh học trong giảm lũ lụt, lũ quét đã được phân tích, có thực tế và được công nhận từ hàng nửa thế kỷ nay.",
+    "options": [
+      "sinh học",
+      "lũ quét",
+      "giàu đa dạng",
+      "thực tế"
+    ],
+    "correct": 3,
+    "explanation": "\"Thực tế\" là khái niệm không phù hợp vì không chỉ một giai đoạn, đáng lẽ nên dùng từ \"thực nghiệm\" tức là đưa vào kiểm nghiệm thử trong thực tế thì sẽ chính xác.",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nĐể chăm sóc bệnh nhân hiệu quả, bác sĩ phải hiểu cách biến đổi khí hậu tác động đến sức khỏe và sẵn sàng áp dụng kiến thức đó thông qua chăm sóc, phòng ngừa, chuẩn đoán và tư vấn giảm thiểu rủi ro.",
+    "options": [
+      "cách biến đổi",
+      "tư vấn",
+      "chuẩn đoán",
+      "tác động"
+    ],
+    "correct": 2,
+    "explanation": "\"Chuẩn đoán\" là lỗi chính tả thường gặp. Trong y học chỉ có từ \"chẩn đoán\" nghĩa là thông qua biểu hiện triệu chứng, kết quả xét nghiệm để đưa ra kết luận về bệnh.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nKhi tre nên vách nên thành, nó có giá trị sinh thái như bảo tồn nước, ngăn ngừa rò rỉ nước và xói mòn đất, làm sạch không khí, giá trị sử dụng rất phong phú và đa dạng.",
+    "options": [
+      "nên vách",
+      "bảo tồn",
+      "ngăn ngừa",
+      "xói mòn"
+    ],
+    "correct": 0,
+    "explanation": "\"Tre nên vách nên thành\" là hình ảnh không chính xác, đáng lẽ phải là \"nên lũy nên thành\" mới là hình ảnh gắn liền với giá trị bảo vệ Tổ quốc của cây tre như trong bài \"Tre Việt Nam\" của Nguyễn Duy.",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nCây xanh là cơ sở thượng tầng quan trọng giúp các thành phố chịu đựng các tác động của biến đổi khí hậu bằng cách cung cấp bóng mát, hấp thụ nước mưa và lọc ô nhiễm không khí.",
+    "options": [
+      "chịu đựng",
+      "thượng tầng",
+      "cơ sở",
+      "hấp thụ"
+    ],
+    "correct": 1,
+    "explanation": "Cây xanh thường được xem là cơ sở hạ tầng chứ không phải thượng tầng của xã hội. Thượng tầng là toàn bộ những quan điểm về triết học, pháp luật, tôn giáo, nghệ thuật, phân biệt với cơ sở hạ tầng.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/cụm từ SAI về ngữ pháp/hoặc ngữ nghĩa/logic/phong cách.\nBệnh khô mắt không gây tử vong nhưng liên quan tới trầm cảm và lo lắng, làm giảm đáng kể chất lượng cuộc sống của khoảng 360 triệu người trên toàn cầu, là gánh nặng kinh tế quá nhỏ với những người phải sử dụng nước mắt nhân tạo lâu dài.",
+    "options": [
+      "không",
+      "quá nhỏ",
+      "nhân tạo",
+      "làm giảm"
+    ],
+    "correct": 1,
+    "explanation": "Gánh nặng kinh tế thì cần phải đi với \"không nhỏ\" chứ không phải là \"quá nhỏ\". Tức là một gánh nặng kinh tế lớn.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Các con số được đưa ra ở đoạn (1) nhằm mục đích gì?",
+    "options": [
+      "Chứng minh các nước Asean có tỷ lệ đọc sách cao hơn Việt Nam.",
+      "Khẳng định Việt Nam có tỷ lệ đọc sách thấp nhất trong các nước Asean.",
+      "Nêu ra tình trạng đọc sách rất ít ỏi của người Việt.",
+      "So sánh tỷ lệ đọc sách của người Việt ở các hình thức khác nhau."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C là bao quát và chính xác nhất vì liệt kê các tỷ lệ đọc sách ở nhiều hình thức hay đưa ra con số của các nước khác cũng đều là cách giúp người đọc hình dung được tình trạng đọc sách ít đến đáng báo động của người Việt.",
+    "passage": "passage_doc_sach"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Trong phát biểu của PGS.TS. Phan Thị Hồng Xuân, nhà nghiên cứu Dân Tộc, điểm nào dưới đây KHÔNG phải điểm mới mẻ, tiến bộ trong quan điểm đọc sách hôm nay?",
+    "options": [
+      "Đọc sách dựa trên tư duy hệ thống.",
+      "Đọc nhiều loại sách ở nhiều lĩnh vực khác nhau.",
+      "Đọc sách dưới những hình thức khác sách in truyền thống.",
+      "Bên cạnh sách chuyên môn cần đọc sách về đạo đức, cảm xúc."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C không có trong văn bản, dễ nhầm lẫn vì có thông tin \"Không nên máy móc cho rằng đọc sách in mới là văn hóa đọc\" nhưng câu này phải hiểu là ngoài đọc sách in thì có nhiều hình thức đọc khác chứ không phải loại bỏ hình thức sách in truyền thống.",
+    "passage": "passage_doc_sach"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Từ \"của tin\" trong câu Kiều: \"Rằng: trăm năm cũng từ đây/ Của tin gọi một chút này làm ghi\" được ngài Tổng thống Hoa Kỳ trích dẫn có ý nghĩa gì?",
+    "options": [
+      "Tín vật làm tin của đôi lứa.",
+      "Của cải để thế chấp làm tin.",
+      "Lòng tin vào gia sản của một ai đó.",
+      "Của cải chứng minh để tin tưởng làm ăn cùng nhau."
+    ],
+    "correct": 0,
+    "explanation": "\"Của tin\" ở đây để nói đến tín vật định tình đôi lứa trao nhau để làm tin trong ngày thề ước trăm năm.",
+    "passage": "passage_doc_sach"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Có thể thay thế từ \"nhuần nhuyễn\" bằng từ nào dưới đây?",
+    "options": [
+      "Chính xác.",
+      "Sáng tạo.",
+      "Chọn lọc.",
+      "Thành thạo."
+    ],
+    "correct": 3,
+    "explanation": "Từ \"nhuần nhuyễn\" có nghĩa là đạt đến mức thành thạo, vận dụng một cách rất tự nhiên. Vậy nên trong bốn từ ở đáp án chỉ có thể thay bằng từ \"thành thạo\".",
+    "passage": "passage_doc_sach"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: \"Những ẩn ý sâu sắc\" mà ngài Tổng thống Hoa Kỳ đã gửi gắm trong câu Kiều: \"Rằng: trăm năm cũng từ đây/Của tin gọi một chút này làm ghi\" là gì?",
+    "options": [
+      "Khẳng định sự kết nối bền chặt trong mối quan hệ Việt Nam – Hoa Kỳ từ hôm nay.",
+      "Thể hiện mong muốn bắt đầu hợp tác toàn diện Việt Nam – Hoa Kỳ.",
+      "Khẳng định khát vọng trao đổi, thương mại giữa Việt Nam – Hoa Kỳ.",
+      "Thể hiện định hướng thắt chặt mối quan hệ Việt Nam – Hoa Kỳ trong thời gian sắp tới."
+    ],
+    "correct": 3,
+    "explanation": "Dùng tình cảm đôi lứa, vợ chồng để nói về quan hệ hợp tác hai nước, ngài Tổng thống Hoa Kỳ có ý muốn khẳng định quan hệ hợp tác chặt chẽ, sâu sắc của hai nước ngay bây giờ vì có cụm từ \"từ đây\".",
+    "passage": "passage_doc_sach"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Văn bản trên thuộc kiểu văn bản gì?",
+    "options": [
+      "Văn bản thông tin.",
+      "Văn bản khoa học.",
+      "Văn bản nghị luận.",
+      "Văn bản thuyết minh."
+    ],
+    "correct": 2,
+    "explanation": "Bài viết đang bàn tới quan điểm về tự do, xem tự do như bản năng của con người, đây là một vấn đề xã hội, cuộc sống => văn bản nghị luận.",
+    "passage": "passage_tu_do"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Người viết liên tưởng tình yêu tự do với việc tham gia hội đua cờ có tác dụng gì?",
+    "options": [
+      "Nhấn mạnh sự tương đồng giữa tình yêu tự do và việc tham gia hội cờ.",
+      "Khẳng định cách tìm đến tự do cũng giống như cách đánh cờ.",
+      "Thể hiện hội thi đua cờ đang tái hiện chân thực cuộc sống, giống như cuộc sống chúng ta.",
+      "Khẳng định tự do trong đánh cờ rất quan trọng để dành chiến thắng."
+    ],
+    "correct": 0,
+    "explanation": "Qua việc liên tưởng, ta nhận ra đua cờ và tình yêu tự do có nhiều điểm giống nhau: tất yếu, sẵn sàng, thường trực đối với bất cứ ai dù bộc lộ hay không.",
+    "passage": "passage_tu_do"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Chỉ ra biện pháp tu từ mang đến hiệu quả thẩm mĩ cao nhất trong đoạn văn dưới đây:\n\"Có thể tình yêu tự do được thể hiện mạnh mẽ ở người này, cũng có thể ở trạng thái \"ngủ\" hay chưa được đánh thức ở người kia, nhưng con người nói chung luôn khao khát tự do một cách bản năng.\".",
+    "options": [
+      "Ẩn dụ",
+      "Nhân hóa",
+      "Đối",
+      "Điệp ngữ"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả sử dụng cách diễn đạt \"thể hiện mạnh mẽ\", \"trạng thái ngủ hay chưa được đánh thức\" => Hai trạng thái này hoàn toàn đối nhau, tương phản với nhau.",
+    "passage": "passage_tu_do"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Tác giả đưa những dòng thơ của Sandor Petofi vào bài viết nhằm thể hiện điều gì?",
+    "options": [
+      "Tự do và ái tình đều vô cùng quan trọng với con người.",
+      "Tự do được đặt lên cao hơn cả tình yêu.",
+      "Ái tình là nguồn sống, khiến con người sẵn sàng dâng hiến cuộc đời.",
+      "Ái tình và tự do là thứ con người luôn sẵn sàng hi sinh tất cả."
+    ],
+    "correct": 1,
+    "explanation": "Câu thơ cho thấy sự đánh đổi quyết liệt giữa Tự do và Ái tình, người ta phải đánh đổi Ái tình lấy Tự do. Tự do được đặt lên cao hơn cả tình yêu, trở thành lý tưởng, khát vọng sống của con người.",
+    "passage": "passage_tu_do"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Suy nghĩ của tác giả: \"tự do bị tước đoạt khiến con người có những phản ứng\" có nghĩa là gì?",
+    "options": [
+      "Mất tự do tất yếu con người sẽ hành động để phản kháng, đấu tranh.",
+      "Mất tự do sẽ khiến con người có những cảm xúc, thái độ tích cực hoặc tiêu cực.",
+      "Mất tự do sẽ thúc đẩy con người thay đổi để trở nên tốt hơn.",
+      "Mất tự do sẽ khiến con người mất phương hướng, phản ứng tiêu cực."
+    ],
+    "correct": 0,
+    "explanation": "Mất tự do tất yếu con người sẽ hành động, đó chính là sự phản kháng, đấu tranh với mong muốn đoạt lại tự do đã mất, dù chưa chắc đã hoàn toàn tốt hơn hay tiêu cực đi.",
+    "passage": "passage_tu_do"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Kính hiển vi là một trong những phát minh vĩ đại nhất của thế kỷ 19. Nhưng bạn biết không, người cải tiến kính hiển vi và ứng dụng nó vào ngành vi sinh vật học đầu tiên trên thế giới chỉ là một người gác cổng ở một thị trấn nhỏ phía Tây Hà Lan. Vì muốn giết thời gian, anh ta đã thử dùng đá thủy tinh mài thành mảnh kính phóng đại. Mài mảnh kính này cần thời gian vài tháng, anh ta liên tục thử tăng số lần phóng đại, 60 năm sau, anh ta đã mài ra miếng kính phóng đại 300 lần. Lần đầu tiên mọi người nhìn thấy vi khuẩn là trên mảnh kính của người đàn ông này, Leeuwenhoek.\nĐương nhiên, là người bình thường, bạn không cần phải giống như Leeuwenhoek, dùng 60 năm để làm một việc, bởi mỗi người đều có cách sống của riêng mình. Hưởng thụ hiện tại cũng là một cách thể hiện sự không nóng vội. Người điềm đạm, không nóng vội thì dù gặp khó khăn hay thất bại cũng vẫn ung dung.\"\n(Tống Mặc, Hà Giang dịch, Nóng giận là bản năng, tĩnh lặng là bản lĩnh, NXB Thế giới, Tái bản 2020)\nTại sao tác giả đưa dẫn chứng về Leeuwenhoek nhưng lại khuyên ta không cần phải giống như Leeuwenhoek?",
+    "options": [
+      "Vì tác giả muốn đưa ra lời khuyên: muốn ta nhìn vào thành quả của sự điềm tĩnh chứ không đơn giản chỉ là nhìn vào cách thức.",
+      "Vì dẫn chứng về Leeuwenhoek là một bài học không tốt nên tác giả không muốn người đọc học tập.",
+      "Vì những điều Leeuwenhoek làm rất khó thực hiện nên người đọc không thể thực hiện được.",
+      "Vì tác giả muốn người đọc sống là chính mình, không cần làm theo bất kì ai khác."
+    ],
+    "correct": 0,
+    "explanation": "Dẫn chứng về Leeuwenhoek là biểu hiện của sự điềm tĩnh, kiên trì bền bỉ nhưng mỗi con người sẽ chọn cho mình cách thể hiện sự điềm tĩnh riêng. Lời khuyên: muốn ta nhìn vào thành quả của sự điềm tĩnh chứ không đơn giản chỉ là nhìn vào cách thức.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích sau và trả lời câu hỏi:\n\"'Nhà' chỉ là một từ ngắn ngủi, nó không đồng nghĩa với sự bình yên, nhưng chúng ta vẫn luôn khao khát rằng nó gắn với sự bình yên.\nVà khi nào 'nhà' trái nghĩa với bình yên thì đó là khởi đầu của sự bất hạnh. Tôi tin rằng, mái nhà nào cũng từng có lúc đồng nghĩa với niềm vui và cả sự bình yên. Nhưng bạn của tôi ơi, sự bình yên của nhà không phải là điều có sẵn. 'Nhà' là phần cứng, còn sự bình yên, hạnh phúc, niềm vui là phần mềm. Gia đình là phần cứng, còn tình yêu và sự thấu hiểu là phần mềm. Vậy cho nên, sự bình yên là thứ phải được thiết lập, và vì thế, có thể tái thiết lập. Nếu ta là một phần của 'nhà', dù chỉ là một phần nhỏ, nếu ta thật mong muốn mái nhà thân yêu của ta có được sự bình yên, hay lại có nó một lần nữa, thì ta phải tham gia vào quá trình thiết lập đó. Bằng một nụ cười xoa dịu, bằng một câu nói vị tha, bằng sự yêu thương nhẫn nhịn, bằng trái tim sẵn sàng sẻ chia, bằng một cái nắm tay thấu hiểu, hay có thể bằng một giọt nước mát. Dù thế nào, cũng không phải bằng sự buông xuôi. Để kéo những trái tim về gần với nhau. Để biến 'nhà' thành một nơi ta phải luyến tiếc khi rời xa và luôn mong mỏi quay về.\"\n(Phạm Lữ Ân, Nếu biết trăm năm là hữu hạn, NXB Hội nhà văn, Thành phố Hồ Chí Minh, 2016)\nThông điệp của văn bản là gì?",
+    "options": [
+      "Mỗi người phải nhớ về ngôi nhà của mình vì đó là chốn yên bình nhất.",
+      "Mỗi người hãy tự thiết lập tình yêu thương để tạo nên sự bình yên trong chính ngôi nhà của mình.",
+      "Chúng ta nên quan tâm nhiều hơn đến gia đình để gia đình luôn bình yên mỗi ngày.",
+      "Tầm quan trọng của ngôi nhà đối với mỗi người dù có đi xa bao nhiêu chăng nữa."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản xoay quanh thông điệp rằng chính chúng ta phải là người tự thiết lập bình yên cho ngôi nhà của mình, qua nụ cười, sự vị tha, yêu thương, thấu hiểu.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Chiếc bách buồn vì phận nổi nênh,\nGiữa dòng ngao ngán nỗi lênh đênh.\nLưng khoang tình nghĩa dường lai láng,\nNửa mạn phong ba luống bập bềnh.\nCầm lái mặc ai lăm đỗ bến,\nGiong lèo thây kẻ rắp xuôi ghềnh.\nẤy ai thăm ván cam lòng vậy,\nNgán nỗi ôm đàn những tấp tênh.\"\n(Tự tình III, Hồ Xuân Hương, In trong Thơ Hồ Xuân Hương - NXB Văn học, Hà Nội,1993, Lữ Huy Nguyên tuyển chọn và giới thiệu)\nTừ \"lênh đênh\" trong câu thơ \"Giữa dòng ngao ngán nỗi lênh đênh\" có nghĩa gì?",
+    "options": [
+      "Tâm trạng bất ổn của người phụ nữ.",
+      "Sự bấp bênh của người phụ nữ trong xã hội phong kiến.",
+      "Sự bập bềnh trôi dạt của con thuyền trên dòng nước mênh mông, không biết đi đâu về đâu.",
+      "Số phận trôi nổi của người phụ nữ trên dòng nước, không biết sẽ đi đâu về đâu."
+    ],
+    "correct": 3,
+    "explanation": "Hình ảnh chiếc bách ý chỉ con thuyền ngao ngán nỗi lênh đênh chính là hình ảnh ẩn dụ về thân phận người phụ nữ vô định, vô phương không biết đi đâu về đâu.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Trong cuộc gặp, khi một bạn trẻ yêu cầu đưa ra lời khuyên cho những người trẻ, Tổng thống Obama đã nói rằng: 'Lúc nào cũng muốn mình là người nọ người kia thì rất tốn thời gian. Hãy yêu công việc mình làm. Bill Gates đâu có muốn là tỉ phú. Ông ấy tập trung vào máy tính.\nTôi đâu nghĩ mình sẽ làm Tổng thống, tôi quan tâm đến người nghèo nên đến làm ở Chicago. Tôi xây dựng tổ chức có thể mang lại điều tôi quan tâm và đó là lí do dẫn dắt tôi vào vị trí Tổng thống.\nHãy tập trung vào làm tốt điều nào đó và tự dưng bạn sẽ trở thành nhà lãnh đạo.'\"\n(TPO, trích Tổng thống Mỹ Obama kết thúc chuyến thăm Việt Nam, Báo điện tử Tiền Phong, ngày 25/05/2016)\nVăn bản đã sử dụng những phép liên kết nào?",
+    "options": [
+      "Phép nối, phép lặp",
+      "Phép thế, phép nối",
+      "Phép lặp, phép thế",
+      "Phép lặp, phép liên tưởng"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích có nhiều từ được lặp lại như \"quan tâm\", \"tập trung\" (phép lặp); Tổng thống Obama được thế bằng \"tôi\" (phép thế). Văn bản không có phép nối và phép liên tưởng.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Tiếng Việt ơi, tiếng Việt có từ đâu\nSau tiếng Mẹ là tiếng Yêu thánh thót\nTiếng Nước nghe như rơi từng giọt\nTiếng Đất nghe chắc nịch vững bền\nTiếng Cơm nghe ngạt ngào hương thơm\nNgười Giao Chỉ lắng nghe tiếng gió\nTiếng dòng sông rì rào sóng vỗ\nTiếng trời xanh lồng lộng mênh mang\nTiếng xôn xao của nắng thu vàng\nTiếng dế đêm trăng thanh vời vợi\nTiếng hổ gầm vang trong hốc núi\nTiếng mây bay vương vấn sắc trời\nTiếng sấm rền và tiếng mưa rơi\nTiếng nhịp đập trái tim thiếu nữ\nTiếng bập bùng nhen trong bếp lửa\nNhững thanh âm tha thiết bồi hồi\nBật ra thành tiếng Việt trên môi…\"\n(Nguyễn Phan Hách, Trích Tiếng Việt mến yêu, Báo Nhân Dân số Tết 2011)\nNguồn gốc của tiếng Việt trong đoạn trích xuất phát từ đâu?",
+    "options": [
+      "Tiếng mẹ đẻ",
+      "Tiếng của thiên nhiên",
+      "Âm thanh của muôn loài",
+      "Tiếng những thanh âm tha thiết của cuộc sống"
+    ],
+    "correct": 3,
+    "explanation": "Tiếng Việt có nguồn gốc từ tiếng Mẹ, tiếng Yêu, tiếng Đất, tiếng Nước, tiếng Cơm,... nói chung tiếng Việt là những âm thanh của cuộc sống, là tất cả những gì thuộc về cuộc sống.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Nữ thần Lúa là một cô gái xinh đẹp, dáng người ẻo lả và có tính hay hờn dỗi.\nNàng là con gái Ngọc Hoàng. Sau những trận lụt lội ghê gớm xảy ra, sinh linh cây cỏ đều bị diệt hết, trời bèn cho những người còn sống sót sinh con đẻ cái trên mặt đất và sai Nữ thần Lúa xuống trần gian, nuôi sống loài người\nNữ thần làm phép cho những hạt giống gieo xuống đất nảy mầm, mọc thành cây, kết bông mẩy hạt. Lúa chín tự về nhà không cần gặt và không phải phơi phóng gì cả. Cần ăn, cứ ngắt bông bỏ vào nồi là lúa sẽ thành cơm.\"\n(Theo Bùi Mạnh Nhị chủ biên, Văn học Việt Nam, văn học dân gian, những tác phẩm chọn lọc, NXB Giáo dục, tr.17-18)\nVăn bản trên thuộc thể loại văn bản nào?",
+    "options": [
+      "Thần thoại",
+      "Sử thi",
+      "Truyện ngắn",
+      "Truyện cổ tích"
+    ],
+    "correct": 0,
+    "explanation": "Văn bản có nhân vật \"Nữ Thần Lúa\" là con gái Ngọc Hoàng, câu chuyện mang hình hài của một truyện Thần thoại vì có tác dụng giải thích, giới thiệu một sự vật, hiện tượng dưới cái nhìn liên quan đến các vị thần.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn trích sau và trả lời câu hỏi:\n\"'Phạm Tử Hư quê ở Cẩm Giàng, là một người tuấn sảng hào mại không ưa kiềm thúc. Theo học nhà xử sĩ Dương Trạm, Trạm thường răn Tử Hư về cái tính hay kiêu căng. Từ đấy chàng cố sức sửa đổi, trở nên người có đức tính tốt. Khi Dương Trạm chết, các học trò đều tản đi cả, duy Tử Hư làm lều ở mả để chầu chực, sau ba năm rồi mới trở về. Năm 40 tuổi, Tử Hư đi thi vẫn chưa đỗ; đời Trần, sang du học ở kinh, ngụ ở trong một nhà dân bên bờ hồ Tây.'\"\n(Nguyễn Dữ, Trích Chuyện Phạm Tử Hư lên chơi Thiên Tào, Truyền kì mạn lục, NXB Trẻ, 2016, Tr.142)\nTừ Hán Việt \"kiềm thúc\" được hiểu nghĩa như thế nào?",
+    "options": [
+      "Tiết kiệm",
+      "Kiềm chế bó buộc trong hoạt động",
+      "Hối thúc, thúc giục",
+      "Kiềm chế cảm xúc cá nhân"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn tạo 2 vế tương phản, \"kiềm thúc\" tương phản với \"tuấn sảng hào mại\", chỉ người phóng khoáng, không thích trói buộc, kiềm chế về hoạt động.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Chờ mãi anh sang anh chẳng sang\nThế mà hôm nọ hát bên làng\nNăm tao bảy tuyết anh hò hẹn\nĐể cả mùa xuân cũng nhỡ nhàng!\n\nMình em lầm lụi trên đường về\nCó ngắn gì đâu một dải đê!\nÁo mỏng che đầu mưa nặng hạt\nLạnh lùng thêm tủi với canh khuya…\"\n(Nguyễn Bính, Mưa xuân, Thơ tình Nguyễn Bính, NXB Văn hoá, Thông tin, 2000)\nHiệu quả của việc sử dụng từ láy \"lầm lụi\", \"lạnh lùng\" trong khổ thơ cuối là gì?",
+    "options": [
+      "Báo hiệu sự tàn lụi của mùa xuân.",
+      "Báo hiệu đám hội đã kết thúc.",
+      "Nhấn mạnh hoàn cảnh, tâm trạng của chàng trai.",
+      "Khắc sâu cảm xúc, tâm trạng của cô gái."
+    ],
+    "correct": 3,
+    "explanation": "Từ \"lầm lụi\" và \"lạnh lùng\" xuất hiện trong văn bản là để miêu tả cô gái vì \"mình em lầm lụi\" và \"lạnh lùng thêm tủi với canh khuya\".",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích sau và trả lời câu hỏi:\n\"Những cái huyệt tôi đào trong rừng sâu\nGiờ hóa thành dòng sông yên ả.\nNhững nấm mồ đắp đêm mưa tầm tã\nThành triền núi cao không lên được bao giờ.\n\nNơi đồng đội căng tăng và mắc võng\nThành những làng quê xa phủ sương mờ.\n\nƠi! chiến trường xưa!\nĐã trở thành miền quê thiêng thanh khiết\nTrời và đất,\nNúi và sông,\nXanh mênh mang bất diệt\nBao nặng nhọc máu xương để xanh thẳm dịu dàng.\n\nTôi sẽ về, sẽ về lại mùa xuân\nDải đồng bằng suốt đời tôi thương nhớ.\"\n(Đoàn Tuấn, Dải đồng bằng thương nhớ, dẫn theo https://leminhquoc.vn/tho/tap-tho/643-dat-ben-ngoai-to-quoc.html)\nÝ nào không nói lên đặc sắc về nghệ thuật của đoạn thơ trên?",
+    "options": [
+      "Thể thơ tự do diễn tả sinh động nhiều cung bậc cảm xúc.",
+      "Ngôn ngữ giản dị, mộc mạc, giàu hình cảnh, cảm xúc.",
+      "Sử dụng phong phú các biện pháp tu từ.",
+      "Sử dụng từ ngữ Hán Việt nhằm tạo sự trang nghiêm."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án B và D mâu thuẫn nhau về nhận xét ngôn ngữ; thực chất trong bài thơ không sử dụng nhiều từ Hán Việt, ngôn ngữ giản dị, mộc mạc.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Có bao nhiêu từ láy trong đoạn văn sau?\n\"Gió bấc thổi ào ào qua khu rừng vắng. Những cành cây khẳng khiu chốc chốc run lên bần bật. Mưa phùn lất phất… Bên gốc đa, một chú Thỏ bước ra, tay cầm một tấm vải dệt bằng rong. Thỏ tìm cách quấn tấm vải lên người cho đỡ rét, nhưng tấm vải bị gió lật tung, bay đi vun vút.\"\n(Võ Quảng, Những chiếc áo ấm, dẫn theo https://baotangvanhoc.vn/tac-pham/truyen/nhung-chiec-ao-am/)",
+    "options": [
+      "Bốn từ",
+      "Năm từ",
+      "Sáu từ",
+      "Bảy từ"
+    ],
+    "correct": 2,
+    "explanation": "Các từ láy: ào ào, khẳng khiu, chốc chốc, bần bật, lất phất, vun vút. Như vậy, có tất cả 6 từ láy.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nội dung chính của văn bản trên là gì?",
+    "options": [
+      "Trí nhớ của con người là có giới hạn.",
+      "20 phút là khoảng thời gian \"vàng\" để ôn tập.",
+      "Con người thường quên những gì cần nhớ theo thời gian.",
+      "Cách ghi nhớ tốt nhất là ôn tập."
+    ],
+    "correct": 3,
+    "explanation": "Văn bản đề cập \"Vậy thì, phải làm sao để khỏi quên, đạt được mục tiêu ghi nhớ? Vâng, câu trả lời rất đơn giản. Chỉ cần ôn tập\", và cuối văn bản tác giả chốt lại \"Đây chính là cách làm hiệu quả nhất trong việc ghi nhớ.\"",
+    "passage": "passage_ghi_nho"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo tác giả, mối quan hệ giữa quảng cáo trên ti vi và việc ôn tập là quan hệ gì?",
+    "options": [
+      "Quan hệ móc xích",
+      "Quan hệ tương phản",
+      "Quan hệ tương đồng",
+      "Quan hệ tương cận"
+    ],
+    "correct": 2,
+    "explanation": "Đây là quan hệ tương đồng vì quảng cáo trên ti vi cũng như việc ôn tập đều phải làm thế nào để con người ghi nhớ tốt nhất, đều dựa trên nguyên tắc 20 phút.",
+    "passage": "passage_ghi_nho"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Đâu KHÔNG PHẢI là cách ôn tập chính xác?",
+    "options": [
+      "Khi bạn mới quên 20% những gì đã học thì chưa cần bắt đầu việc ôn tập.",
+      "Ôn tập trong vòng 20 phút kể từ khi học thì cả đời sẽ không quên.",
+      "Thời điểm bạn còn nhớ được 50% là thời điểm \"vàng\" trong ôn tập.",
+      "Việc ôn tập nếu trí nhớ của bạn đang còn lưu giữ trên 50% những gì đã học là chưa cần thiết."
+    ],
+    "correct": 1,
+    "explanation": "Văn bản đề cập thời điểm ôn tập tốt nhất là lúc bạn đã quên một nửa, đó là sau 20 phút cho tới 1 tiếng sau khi học bài, không phải trong vòng 20 phút.",
+    "passage": "passage_ghi_nho"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Từ \"mẩu\" trong cụm từ \"mẩu quảng cáo\" thuộc từ loại gì?",
+    "options": [
+      "Danh từ",
+      "Lượng từ",
+      "Số từ",
+      "Đại từ"
+    ],
+    "correct": 0,
+    "explanation": "Từ \"mẩu\" thuộc vào nhóm danh từ chỉ đơn vị tự nhiên (loại từ), giống như con, cái, chiếc, cục, miếng, ngôi, tấm, bức, tờ, quyển,...",
+    "passage": "passage_ghi_nho"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Câu văn \"Vậy có nghĩa là bạn có thể ghi nhớ ra những thứ cách đây hơn 10 năm trong chưa đầy 1 giây\" có thể được hiểu như thế nào?",
+    "options": [
+      "Trí nhớ con người rất tốt, có thể ghi nhớ một điều từ rất lâu một cách rất nhanh chóng.",
+      "Giá trị của việc luyện tập giúp rèn luyện trí nhớ của con người tốt hơn.",
+      "Khẳng định chúng ta đều có thể trở thành thiên tài nếu nhớ được những thứ cách đây hơn 10 năm trong chưa đầy 1 giây.",
+      "Ý nghĩa của việc ôn tập giúp con người nhớ lâu hơn, nhanh hơn."
+    ],
+    "correct": 3,
+    "explanation": "Việc nhớ được những thứ cách đây hơn 10 năm trong chưa đầy 1 giây không phải vì họ là thiên tài mà vì họ đã ôn tập, thể hiện ý nghĩa của việc ôn tập.",
+    "passage": "passage_ghi_nho"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Nhân vật trữ tình trong văn bản trên là ai?",
+    "options": [
+      "Thế hệ chúng tôi.",
+      "Tác giả.",
+      "Người lính.",
+      "Không xuất hiện."
+    ],
+    "correct": 2,
+    "explanation": "Người bộc lộ cảm xúc trong bài thơ là \"chúng tôi\" tức là những người lính vì có dấu hiệu của những trận đánh, chiến tranh.",
+    "passage": "passage_nguoi_linh"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Biện pháp tu từ nổi bật nhất trong đoạn thơ sau là gì?\nchúng tôi qua cái khắc nghiệt mùa khô\nqua mùa mưa mùa mưa dai dẳng\nvõng mắc cột tràm đêm ướt sũng\nxuống vượt sông dưới pháo sáng nhạt nhòa",
+    "options": [
+      "Liệt kê",
+      "Ẩn dụ",
+      "Nhân hóa",
+      "Điệp ngữ"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn thơ sử dụng biện pháp liệt kê khi đưa ra hàng loạt những khó khăn, vất vả mà những người lính đã trải qua.",
+    "passage": "passage_nguoi_linh"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Quan điểm sống nào của \"thế hệ chúng tôi\" được thể hiện trong những dòng thơ dưới đây?\nthế hệ chúng tôi không sống bằng kỉ niệm\nkhông dựa dẫm những hào quang có sẵn\nlòng vô tư như gió chướng trong lành\nnhư sắc trời ngày nắng tự nhiên xanh",
+    "options": [
+      "Sống và chiến đấu cho giấc mơ ở hiện tại, tự lực cánh sinh, không dựa nhờ vào hào quang, sống vô tư, vô lo, vô nghĩ.",
+      "Sống và chiến đấu với lòng yêu đời, lạc quan, vô tư mà không quan tâm tới hào quang, danh vọng ở đời.",
+      "Sống và chiến đấu vì chính bản thân mình ở hiện tại, vô tư, hồn nhiên và nhiệt thành chứ không vì hào quang, danh vọng.",
+      "Sống và chiến đấu cho lí tưởng hiện tại, tự trọng, chủ động tự tin, vô tư trong sáng và có tinh thần trách nhiệm với đất nước, non sông."
+    ],
+    "correct": 3,
+    "explanation": "Sống vì hiện tại, tự trọng (không dựa dẫm hào quang có sẵn), vô tư trong sáng, và có tinh thần trách nhiệm với đất nước, là đáp án bao quát nhất.",
+    "passage": "passage_nguoi_linh"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Từ \"rợp bóng\" trong câu thơ \"mà không hề rợp bóng xuống tương lai\" có nghĩa là gì?",
+    "options": [
+      "che chở",
+      "chiếu sáng",
+      "che lấp",
+      "bao phủ"
+    ],
+    "correct": 0,
+    "explanation": "Ý muốn nói những người lính có thể có sức mạnh phi thường nhưng không thể biết trước tương lai, không thể bảo vệ, che chở được tương lai của mình.",
+    "passage": "passage_nguoi_linh"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Đâu KHÔNG PHẢI tác dụng của các từ láy được sử dụng trong đoạn thơ số (2) của văn bản?",
+    "options": [
+      "Nhằm miêu tả cảm xúc hồi hộp, căng thẳng của nhân vật trữ tình.",
+      "Nhằm nhấn mạnh sự mất mát, thiệt hại do chiến tranh gây ra.",
+      "Nhằm miêu tả trạng thái hoang tàn, hỗn loạn của chiến tranh.",
+      "Nhằm nhấn mạnh sự dữ dội, khốc liệt của chiến tranh."
+    ],
+    "correct": 1,
+    "explanation": "Ba từ láy \"tưng bừng, dồn dập, lăn lóc\" nhằm nhấn mạnh sự khốc liệt, căng thẳng, hoang tàn của chiến tranh chứ không phải trực tiếp nhấn mạnh sự mất mát, thiệt hại.",
+    "passage": "passage_nguoi_linh"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đâu KHÔNG phải là một tục lệ của làng Hua Tát trong văn bản trên?",
+    "options": [
+      "Chiếc tù và được đặt trên ngai thờ.",
+      "Giết trâu, giết lợn để xin trời đất quỷ thần phù hộ.",
+      "Rửa xương người đã mất bằng rượu thuốc.",
+      "Tục thiêu người khi chết."
+    ],
+    "correct": 0,
+    "explanation": "Việc chiếc tù và được đặt trên ngai thờ không phải một tục lệ vì mãi đến khi Mao dùng tù và để giết được sâu hại thì nó mới được đặt ở nơi trang trọng, đây chưa phải điều quy định có từ lâu đời.",
+    "passage": "passage_tu_va"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Đâu KHÔNG phải là chi tiết kì ảo trong văn bản trên?",
+    "options": [
+      "Ở giữa đám xương có một sợi dây bằng bạc cực kỳ tinh xảo.",
+      "Sợi dây bạc buộc vào chiếc tù và cũ bỗng dưng trông đẹp hẳn lên.",
+      "Khi tiếng tù và vừa mới cất, những con sâu đen trên cây tự dưng quằn quại rồi rơi xuống đất.",
+      "Giết trâu, giết lợn để xin trời đất quỷ thần phù hộ."
+    ],
+    "correct": 3,
+    "explanation": "\"Giết trâu, giết lợn để xin trời đất quỷ thần phù hộ\" là một tục lệ diễn ra lâu năm, một nghi thức có thật trong đời sống, không phải chi tiết kì ảo.",
+    "passage": "passage_tu_va"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Việc trưởng bản Hà Văn Nó quyết định đưa hài cốt tổ tiên ra ánh sáng để rửa chứng tỏ ông là người như thế nào?",
+    "options": [
+      "Người con cháu bất kính vì đã làm trái lời của tổ tiên.",
+      "Người trưởng bản có trách nhiệm, hy sinh vì bản làng.",
+      "Người trưởng bản yêu thương thiên nhiên, bảo vệ hoa màu.",
+      "Người trưởng bản hành động cẩn thận, tỉ mỉ, chắc chắn."
+    ],
+    "correct": 1,
+    "explanation": "Đây là quyết định khó khăn giữa bảo vệ dòng họ và bảo vệ cả bản làng, nhân vật đã chọn cái to lớn hơn, thể hiện trách nhiệm và sự hy sinh tình riêng vì nghĩa lớn.",
+    "passage": "passage_tu_va"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Đâu KHÔNG phải ý nghĩa của biểu tượng chiếc tù và trong văn bản?",
+    "options": [
+      "Thể hiện sự lãng quên và mai một của truyền thống.",
+      "Nhắc nhở về sự biết ơn, tìm về với tổ tiên, truyền thống.",
+      "Thể hiện khát vọng về cuộc sống hòa bình, yên ấm, no đủ.",
+      "Tượng trưng cho tiếng nói, quyền lực và sự đoàn kết của cộng đồng."
+    ],
+    "correct": 2,
+    "explanation": "Chiếc tù và không mang ý nghĩa tượng trưng cho hòa bình bởi vì làng Hua Tát không gặp vấn đề hòa bình, mà liên quan đến nạn sâu hại và truyền thống.",
+    "passage": "passage_tu_va"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Sự xuất hiện, bùng nổ của nạn sâu hại cho thấy điều gì?",
+    "options": [
+      "Sự bất hòa của con người và thiên nhiên.",
+      "Lời nhắc nhở con người đang lãng quên thiên nhiên, tổ tiên, truyền thống.",
+      "Sự trừng phạt của thiên nhiên, tổ tiên đối với con người.",
+      "Tạo nên cuộc sống khó khăn để con người sống đẹp hơn."
+    ],
+    "correct": 1,
+    "explanation": "Sự bùng nổ của nạn sâu hại là nguyên cớ để trưởng bản phải tìm lại mộ tổ tiên và phát hiện dây bạc, đẩy con người quay về với tổ tiên, truyền thống, là lời nhắc nhở, cảnh báo con người về lối sống của mình.",
+    "passage": "passage_tu_va"
+  }
+]

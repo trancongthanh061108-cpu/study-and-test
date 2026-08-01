@@ -1,0 +1,548 @@
+[
+  {
+    "id": "hsa_kh_1",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 1",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_h",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (HÓA)",
+    "time": 300,
+    "questions": 272
+  },
+  {
+    "id": "hsa_kh_l",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (LÍ)",
+    "time": 300,
+    "questions": 272
+  },
+  {
+    "id": "hsa_kh_d",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (ĐỊA)",
+    "time": 300,
+    "questions": 272
+  },
+  {
+    "id": "hsa_kh_sh",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (SINH)",
+    "time": 300,
+    "questions": 272
+  },
+  {
+    "id": "hsa_kh_s",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (SỬ)",
+    "time": 300,
+    "questions": 272
+  },
+  {
+    "id": "hsa_anh_1",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 1",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_2",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 2",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_3",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 3",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_4",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 4",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_5",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 5",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_6",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 6",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_7",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 7",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_8",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 8",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_9",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 9",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_10",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 10",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_11",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 11",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_12",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 12",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_13",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 13",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_14",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 14",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_15",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 15",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_16",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 16",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_17",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 17",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_18",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 18",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_19",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 19",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_20",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 20",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_21",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 21",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_22",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 22",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_23",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 23",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_24",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 24",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_25",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 25",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_26",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 26",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_27",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 27",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_28",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 28",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_29",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 29",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_30",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 30",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_31",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 31",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_32",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 32",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_33",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 33",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_34",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 34",
+    "time": 60
+  },
+  {
+    "id": "hsa_anh_35",
+    "type": "Tiếng anh",
+    "name": "HSA TIẾNG ANH - ĐỀ 35",
+    "time": 60
+  },
+  {
+    "id": "hsa_toan_1",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 1",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_2",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 2",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_3",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 3",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_4",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 4",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_5",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 5",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_6",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 6",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_7",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 7",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_8",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 8",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_9",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 9",
+    "time": 75
+  },
+  {
+    "id": "hsa_toan_10",
+    "type": "Toán học",
+    "name": "HSA TOÁN - ĐỀ 10",
+    "time": 75
+  },
+  {
+    "id": "hsa_van_1",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 1",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_2",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 2",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_3",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 3",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_4",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 4",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_5",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 5",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_6",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 6",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_7",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 7",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_8",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 8",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_9",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 9",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_10",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 10",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_11",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 11",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_12",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 12",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_13",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 13",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_14",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 14",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_15",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 15",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_16",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 16",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_17",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 17",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_18",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 18",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_19",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 19",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_20",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 20",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_21",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 21",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_22",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 22",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_23",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 23",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_24",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 24",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_25",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 25",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_26",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 26",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_27",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 27",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_28",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 28",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_29",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 29",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_30",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 30",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_31",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 31",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_32",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 32",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_33",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 33",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_34",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 34",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_35",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 35",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_36",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 36",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_37",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 37",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_38",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 38",
+    "time": 60
+  },
+  {
+    "id": "hsa_van_39",
+    "type": "Ngữ văn",
+    "name": "HSA VĂN - ĐỀ 39",
+    "time": 60
+  }
+]

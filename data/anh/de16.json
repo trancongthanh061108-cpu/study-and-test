@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: They collected a lot of ___________ stamps to exhibit at Tuan Chau festival.",
+    "options": [
+      "postage Australia valuable",
+      "valuable Australia postage",
+      "Australia valuable postage",
+      "valuable postage Australia"
+    ],
+    "correct": 1,
+    "explanation": "Theo quy tắc trật tự tính từ OSASCOMP: valuable (Opinion) - Australia (Origin) - postage (Noun). Tạm dịch: Họ thu thập nhiều con tem bưu điện quý giá của Úc để đi triển lãm ở lễ hội Tuần Châu.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: The Heritage Education for Sustainable Development project aims ______ strengthening the linkage between culture and education for sustainable development.",
+    "options": [
+      "at",
+      "to",
+      "for",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Ta có: aim at sth: nhằm mục đích gì. Tạm dịch: Dự án Giáo dục Di sản cho Phát triển Bền vững nhằm mục đích tăng cường mối liên kết giữa văn hóa và giáo dục để phát triển bền vững.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: I have two sisters, ________ are doctors.",
+    "options": [
+      "both of which",
+      "who both",
+      "both of whom",
+      "whom both"
+    ],
+    "correct": 2,
+    "explanation": "Danh từ phía trước chỉ người nên sau \"of\" phải dùng \"whom\". both of whom là cấu trúc đúng. Tạm dịch: Tôi có hai người chị gái, cả hai người họ đều là bác sĩ.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: There is ________ butter in the fridge.",
+    "options": [
+      "many",
+      "more",
+      "some",
+      "a few"
+    ],
+    "correct": 2,
+    "explanation": "“butter” là danh từ không đếm được => loại “many”, “a few”. Câu không có so sánh hơn => loại “more”. Tạm dịch: Còn một ít bơ trong tủ lạnh.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: I'm sure you can recognize her because she ______ a purple raincoat.",
+    "options": [
+      "will have worn",
+      "will be wearing",
+      "is going to wear",
+      "will have been wearing"
+    ],
+    "correct": 1,
+    "explanation": "Thì tương lai tiếp diễn: Tại thời điểm bạn nhận ra cô ấy (trong tương lai) cô ấy sẽ (đang) mặc chiếc áo mưa màu tím. Tạm dịch: Tôi chắc chắn bạn có thể nhận ra cô ấy, cô ấy sẽ mặc một chiếc áo mưa màu tím.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: He asked me ______ Robert and I said I didn't know ______.",
+    "options": [
+      "that did I know – who were he",
+      "if I knew – who he was",
+      "that I knew – who he had been",
+      "whether I knew – who had he been"
+    ],
+    "correct": 1,
+    "explanation": "Câu gián tiếp với câu hỏi yes/no: S + asked + O + if/whether + S + V(lùi thì). Tạm dịch: Anh ấy hỏi tớ xem tớ có biết Robert không và tớ trả lời là tớ không biết anh ấy là ai.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: There are several means of mass communication. The newspaper is one, and television is ______.",
+    "options": [
+      "others",
+      "other",
+      "another",
+      "the other"
+    ],
+    "correct": 2,
+    "explanation": "“another” dùng để chỉ thứ khác trong số nhiều thứ. Tạm dịch: Có rất nhiều phương tiện thông tin đại chúng. Báo là một phương tiện, ti vi là một phương tiện khác.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: Tom: “Which is more important? Luck or effort?” Mary: “Luck is ______ effort.”",
+    "options": [
+      "on the same importance",
+      "of the same importance as",
+      "the same importance as",
+      "as the same importance as"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc so sánh bằng với danh từ: S + V + the same + (N) + as + N/pronoun. Tạm dịch: May mắn cũng quan trọng như nỗ lực.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: She sat there quietly, but during all that time she was getting ______. Finally she exploded.",
+    "options": [
+      "more and more angry",
+      "the more angry",
+      "angrier and angrier",
+      "the most angry"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc so sánh cấp tiến với tính từ ngắn: S + V + adj-er and adj-er. Tạm dịch: Cô ấy lặng lẽ ngồi đó, nhưng trong suốt thời gian đó, cô ấy đã ngày càng tức giận. Cuối cùng thì cô ấy cũng bùng nổ.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: It was mindless of you to slap Jerky in the __________. You should never have done it if you expect him to love you.",
+    "options": [
+      "face",
+      "heart",
+      "head",
+      "mind"
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc: slap in the face - tát vào mặt (sỉ nhục, lăng mạ). Tạm dịch: Thật là dại dột khi bạn sỉ nhục Jerky. Bạn không bao giờ nên làm điều đó nếu bạn mong đợi anh ấy yêu bạn.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: I couldn't make out what he had talked about because I was not used to his accent. (OPPOSITE)",
+    "options": [
+      "misunderstand",
+      "understand",
+      "stand",
+      "interrupt"
+    ],
+    "correct": 0,
+    "explanation": "make out: hiểu ra >< misunderstand: hiểu nhầm. Tạm dịch: Tôi không thể hiểu những gì anh ấy đã nói bởi vì tôi không quen với giọng của anh ấy.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: The WHO's major task is to combat diseases, especially key ________ diseases, and to promote the general health of the people of the world.",
+    "options": [
+      "infectious",
+      "infection",
+      "infect",
+      "inflectional"
+    ],
+    "correct": 0,
+    "explanation": "infectious (a): truyền nhiễm. Tạm dịch: Nhiệm vụ chính của WHO là tiêu diệt những căn bệnh, đặc biệt là những bệnh truyền nhiễm và thúc đẩy tình trạng sức khỏe chung của mọi người trên thế giới.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: Spain last week and Germany this week – he ________ wherever he likes.",
+    "options": [
+      "gets away",
+      "gets back",
+      "gets around",
+      "gets behind"
+    ],
+    "correct": 2,
+    "explanation": "gets around: đi thăm quan nhiều nơi. Tạm dịch: Tây Ban Nha tuần trước và Đức tuần này - anh ấy đi tham quan khắp nơi bất cứ nơi nào mà anh ấy thích.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: You should ________ her down to a specific time because she always procrastinates.",
+    "options": [
+      "clamp",
+      "nail",
+      "cut",
+      "put"
+    ],
+    "correct": 1,
+    "explanation": "nail sb down: làm cho ai đó cung cấp cho bạn chi tiết chính xác hoặc quyết định chắc chắn về điều gì đó. Tạm dịch: Bạn nên làm cho cô ấy quyết định chắc chắn về một thời điểm cụ thể vì cô ấy luôn chần chừ.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Kat: “I heard you were in an accident. Are you okay?” Hung: “_________”",
+    "options": [
+      "I'm fine, but there was some damage to the car.",
+      "I'm sorry to bother you about the accident.",
+      "It was foggy, and all the cars had their headlights on.",
+      "Run that by me again!"
+    ],
+    "correct": 0,
+    "explanation": "Kat hỏi về tình trạng sau tai nạn. Đáp án phù hợp là xác nhận mình ổn nhưng xe bị hỏng.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: “What do you think of your new DVD player?” “_________.”",
+    "options": [
+      "I love it",
+      "My brother gave it to me",
+      "It was a gift from my brother",
+      "I always put it there"
+    ],
+    "correct": 0,
+    "explanation": "Câu hỏi về ý kiến đối với sản phẩm mới. Đáp án phù hợp nhất là bày tỏ sự thích thú “I love it”.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Teacher: “Your speech this morning was beyond my expectation.” Laura: “_________”",
+    "options": [
+      "Thanks. Without your help, I couldn't have.",
+      "Are you kidding me? It's terrible.",
+      "It's OK. It was the least I could do.",
+      "That's alright. I'm glad I could help."
+    ],
+    "correct": 0,
+    "explanation": "Giáo viên khen bài thuyết trình. Laura đáp lời cảm ơn và ghi nhận sự giúp đỡ của giáo viên.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Hung: “Congratulations! You did great.” Nam: “________.”",
+    "options": [
+      "That's okay",
+      "It's nice of you to say so",
+      "You're welcome",
+      "It's my pleasure"
+    ],
+    "correct": 1,
+    "explanation": "Khi nhận lời chúc mừng, đáp án lịch sự và phù hợp là “It's nice of you to say so”.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Dialogue arrangement: a. Definitely! Start by focusing on a balanced diet - more veggies and fruits, less processed food. b. I should try that. Anything else I should keep in mind? c. That sounds good. What about exercise? d. Don't forget about sleep and staying hydrated. e. Regular exercise is key. Even just a 30-minute walk each day can make a big difference. f. I've been thinking about making some changes to live a healthier lifestyle. Any tips?",
+    "options": [
+      "f - d - c - a - b - e",
+      "f - e - b - d - c - a",
+      "f - a - b - e - d",
+      "f - a - c - e - b - d"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự logic: f (hỏi tips) → a (ăn uống) → c (hỏi về tập luyện) → e (trả lời tập luyện) → b (hỏi thêm) → d (ngủ và uống nước).",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Dialogue arrangement: a. Don't worry, we'll find it. Let's check the garden first. b. Oh no, that's terrible! I hope we find it soon. c. My bird flew away! I can't find it anywhere. d. I'm so sorry to hear that. Would you like me to help you look?",
+    "options": [
+      "c-d-a-b",
+      "b-c-a-d",
+      "a-b-c-d",
+      "c-a-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự: c (nêu vấn đề) → d (thông cảm + đề nghị giúp) → a (gợi ý tìm) → b (an ủi).",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Dialogue arrangement: a. I don't know. Have you tried contacting the airline? b. My flight has been delayed. c. No, I haven't tried that yet. d. Oh no, that's terrible! How long is the delay? e. I've tried that, but they couldn't give me a definite answer. f. That's strange. It was supposed to leave on time.",
+    "options": [
+      "b-d-a-c-e-f",
+      "b-f-a-d-c-e",
+      "f-b-a-d-c-e",
+      "b-f-d-a-c-e"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự: b (nêu vấn đề) → f (ngạc nhiên) → d (hỏi thêm) → a (gợi ý) → c (chưa thử) → e (đã thử nhưng không được).",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Dialogue arrangement: a. How far is it from here? b. Sure! Go straight down this road and take the second left. c. It's about a five-minute walk. You'll see it on your right. d. Can you help me find the nearest pharmacy?",
+    "options": [
+      "a – c – d – b",
+      "a – b – d – c",
+      "d – c – a – b",
+      "d – b – a – c"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự: d (hỏi đường) → b (chỉ đường) → a (hỏi khoảng cách) → c (trả lời khoảng cách).",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Warm-blooded animals have metabolic rates about five to ten times higher than those of similarly sized cold-blooded ones.",
+    "options": [
+      "Cold-blooded animals have lower metabolic rates than warm-blooded ones which have similar size.",
+      "Cold-blooded animals are about five to ten times as small as warm-blooded ones.",
+      "Cold-blooded animals' metabolic rates are about five to ten times as low as those of warm-blooded ones.",
+      "With the similarly sized animals, the metabolic rates of cold-blooded animals are about five to ten times lower than those of warm-blooded ones."
+    ],
+    "correct": 3,
+    "explanation": "Câu gốc nói về tỷ lệ trao đổi chất cao hơn 5-10 lần của động vật máu nóng so với máu lạnh cùng kích thước. Đáp án D diễn đạt đúng và đầy đủ nhất.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: __________ graduated from college.",
+    "options": [
+      "Nowhere did he find a job after he had",
+      "Not anywhere did he find a job after had he",
+      "Nowhere did he find a job after had he",
+      "Nowhere does he founds a job after he had"
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc đảo ngữ với Nowhere: Nowhere + trợ động từ + S + V. Đáp án A đúng cấu trúc.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: It is becoming ______ and darker.",
+    "options": [
+      "darker",
+      "most darker",
+      "more darker",
+      "darkest"
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc so sánh cấp tiến với tính từ ngắn: darker and darker. Tạm dịch: Trời trở nên ngày càng tối.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Stay in a hotel costs ______ renting a room in a dormitory for a week.",
+    "options": [
+      "twice more than",
+      "as much twice",
+      "more than twice as",
+      "twice as much as"
+    ],
+    "correct": 3,
+    "explanation": "Cấu trúc so sánh gấp số lần: twice as much as. Tạm dịch: Ở trong khách sạn thì đắt gấp hai lần thuê một phòng trong vòng 1 tuần ở ký túc.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: He did not remember the meeting. He went out for a coffee with his friends then.",
+    "options": [
+      "Not remembered the meeting, he went out for a coffee with his friends.",
+      "Not to remember the meeting, he went out for a coffee with his friends.",
+      "Not remember the meeting, he went out for a coffee with his friends.",
+      "Not remembering the meeting, he went out for a coffee with his friends."
+    ],
+    "correct": 3,
+    "explanation": "Rút gọn mệnh đề chủ động cùng chủ ngữ: Not remembering the meeting... Tạm dịch: Không hề nhớ tới cuộc họp, anh ấy đã đi uống cà phê với bạn bè.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: The essay is too short. It can't be given a high grade.",
+    "options": [
+      "It is too short an essay to earn a high grade.",
+      "The essay needs to be shorter to receive a high grade.",
+      "Even if it were longer, the essay wouldn't get a high grade.",
+      "The essay is so short that it can be given a high grade."
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc too + adj + a/an + N + to V. Tạm dịch: Bài luận quá ngắn để được điểm cao.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: I hope the traffic is good. I'll be there at about 8 o'clock.",
+    "options": [
+      "If I were you, I would be there at about 8 o'clock.",
+      "Unless the traffic is bad, I'll be there at about 8 o'clock.",
+      "If the traffic weren't so good, I wouldn't be there at 8 o'clock.",
+      "Don't worry about the traffic; I'll be there at 8 o'clock."
+    ],
+    "correct": 1,
+    "explanation": "Unless = if ... not. Tạm dịch: Nếu giao thông không tệ, tôi sẽ có mặt vào khoảng 8 giờ.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: I deeply regret having spoken to her so severely yesterday. She was badly hurt.",
+    "options": [
+      "If only I could apologize to her for having spoken to her so severely yesterday.",
+      "I wish I hadn't spoken to her so severely yesterday.",
+      "She must have been badly hurt because I had spoken to her so severely yesterday.",
+      "If I hadn't spoken to her so severely yesterday, she wouldn't be badly hurt."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc wish + quá khứ hoàn thành để diễn tả sự hối tiếc về quá khứ. Tạm dịch: Tôi ước gì hôm qua tôi đã không nói chuyện một cách gay gắt như vậy với cô ấy.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Children who are more independent learners tend to (631) ______ and have a greater sense that they are in control of their learning.",
+    "options": [
+      "become more self-confidently",
+      "act more self-confident",
+      "have more self-confidence",
+      "grow more self-confidence"
+    ],
+    "correct": 2,
+    "explanation": "Sau “have” dùng danh từ “self-confidence”. Các phương án khác sai về từ loại hoặc cấu trúc.",
+    "passage": "passage16_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: Encouraging independent learning can (632) ______ from a young age...",
+    "options": [
+      "emerge",
+      "derive",
+      "exist",
+      "happen"
+    ],
+    "correct": 3,
+    "explanation": "happen: xảy ra, diễn ra. Phù hợp nhất với ngữ cảnh “có thể bắt đầu/diễn ra từ khi còn nhỏ”.",
+    "passage": "passage16_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: (633) ______, but if they are struggling it may help them to point out how you would find the answer.",
+    "options": [
+      "Encourage them to get the answer themselves",
+      "Encouraging them to get the answer themselves",
+      "To encourage them to get the answer themselves",
+      "Encouraged them to get the answer themselves"
+    ],
+    "correct": 0,
+    "explanation": "Đây là câu mệnh lệnh (imperative). Encourage them... là phù hợp nhất.",
+    "passage": "passage16_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: Negotiate a time limit on how long they think it will take them to finish the (634) ______ of the activity...",
+    "options": [
+      "leftovers",
+      "rest",
+      "balance",
+      "remains"
+    ],
+    "correct": 1,
+    "explanation": "the rest of: phần còn lại. Phù hợp nhất với ngữ cảnh.",
+    "passage": "passage16_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: ... let them know (635) ______ to do it by themselves but you won't help them unless they really need it.",
+    "options": [
+      "what you have confidence in their ability",
+      "that they have confidence in their ability",
+      "their ability to become more confident",
+      "that you have confidence in their ability"
+    ],
+    "correct": 3,
+    "explanation": "let them know that you have confidence in their ability... là cấu trúc và nghĩa đúng nhất.",
+    "passage": "passage16_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: Which best serves as the title for the passage?",
+    "options": [
+      "Daily Life in Norwich",
+      "Holidays in Norwich",
+      "A Destination Guide to England",
+      "England's Famous Cities"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn văn nói về những việc có thể làm khi dành kỳ nghỉ ở Norwich (khách sạn, lễ hội, hoạt động thư giãn...).",
+    "passage": "passage16_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: The word \"it\" in paragraph 2 refers to ______.",
+    "options": [
+      "the Beeches Hotel",
+      "the city centre",
+      "selection",
+      "Norwich"
+    ],
+    "correct": 3,
+    "explanation": "Norwich is not a city of luxurious hotels, but it has a good selection... → it = Norwich.",
+    "passage": "passage16_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: According to paragraph 2, which is NOT part of \"Fire from Heaven\"?",
+    "options": [
+      "A laser light show",
+      "A campfire",
+      "A carnival",
+      "A fireworks display"
+    ],
+    "correct": 1,
+    "explanation": "Sự kiện gồm fireworks, laser light show và carnival. Không đề cập đến campfire.",
+    "passage": "passage16_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: The word \"cruising\" in paragraph 4 mostly means ______.",
+    "options": [
+      "moving on land",
+      "travelling by boat",
+      "surfing",
+      "swimming"
+    ],
+    "correct": 1,
+    "explanation": "hire a boat and spend a few days cruising along the river → travelling by boat.",
+    "passage": "passage16_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: According to the passage, where is the Sainsbury Centre for Visual Arts located?",
+    "options": [
+      "In a building at the University of East Anglia",
+      "In a new professional theatre on the River Wensum",
+      "In an international art museum",
+      "In the Norfolk Broads National Park"
+    ],
+    "correct": 0,
+    "explanation": "a world-class collection of international art in a building at the University of East Anglia.",
+    "passage": "passage16_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What would be the most suitable title for the passage?",
+    "options": [
+      "Communications in dolphins",
+      "Intelligent mammals in captivity",
+      "Dolphins' social tendencies with humans",
+      "Complex patterns in dolphin life"
+    ],
+    "correct": 0,
+    "explanation": "Toàn bộ bài đọc tập trung vào khả năng và hành vi giao tiếp của cá heo.",
+    "passage": "passage16641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: In line 2, the word “vocalization” is closest in meaning to ________.",
+    "options": [
+      "making gestures",
+      "creating words",
+      "producing sounds",
+      "closing eyes"
+    ],
+    "correct": 2,
+    "explanation": "vocalization: phát ra âm thanh = producing sounds.",
+    "passage": "passage16_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: According to paragraph 4, what do some marine biologists think about captive dolphins?",
+    "options": [
+      "Their relationships are too personal with marine biologists.",
+      "They can't be considered accurate subjects for biological studies.",
+      "They can communicate exactly the same as humans do.",
+      "They easily demonstrate how dolphins act in the wild."
+    ],
+    "correct": 1,
+    "explanation": "some marine biologists believe that dolphins living in aquariums or research centers cannot be considered \"normal.\"",
+    "passage": "passage16_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: All of the following are true about dolphin communication EXCEPT ________.",
+    "options": [
+      "dolphins' squeals and squeaks sound conversational to the human ear",
+      "dolphins' clicking sounds are sometimes used to greet humans",
+      "communication using sounds and gestures occurs between dolphins",
+      "body language and gestures are used for communication with humans"
+    ],
+    "correct": 1,
+    "explanation": "Clicking sounds được dùng cho echolocation để tìm thức ăn và chướng ngại vật, không phải để chào hỏi con người.",
+    "passage": "passage16_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: In line 10, the word “most” refers to ______.",
+    "options": [
+      "the majority of marine biologists",
+      "a few bottlenose dolphins",
+      "a lot of bottlenose dolphins",
+      "the minority of marine biologists"
+    ],
+    "correct": 0,
+    "explanation": "Even so, most believe that studying dolphin communication in captivity is useful... → most = the majority of marine biologists.",
+    "passage": "passage16_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: Which of the following statements about a book can be a fact?",
+    "options": [
+      "The book is a thrilling page-turner.",
+      "The book was published in 2018.",
+      "The book has the most beautiful cover.",
+      "The book is the author's most inspiring work."
+    ],
+    "correct": 1,
+    "explanation": "Chỉ có thông tin ngày xuất bản là sự thật có thể kiểm chứng; các câu còn lại là ý kiến chủ quan.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: You are sitting on a crowded bus, and there is no empty seat left. You notice an older person standing nearby, and you feel it would be polite to offer them the seat, but you're a little unsure of how to approach the situation. What can you say?",
+    "options": [
+      "The bus is about to arrive the final stop.",
+      "It's a bit crowded, isn't it?",
+      "Would you like to take my seat?",
+      "I hope you don't mind standing."
+    ],
+    "correct": 2,
+    "explanation": "Cách tiếp cận lịch sự và trực tiếp nhất là mời người lớn tuổi ngồi vào chỗ của bạn.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: A study was done on the weights of different types of fish in a pond. A random sample of fish were caught and marked... The sample contained 150 largemouth bass, of which 30% weighed more than 2 pounds. Which of the following conclusions is best supported by the sample data?",
+    "options": [
+      "The majority of all fish in the pond weigh less than 2 pounds.",
+      "The average weight of all fish in the pond is approximately 2 pounds.",
+      "Approximately 30% of all fish in the pond weigh more than 2 pounds.",
+      "Approximately 30% of all largemouth bass in the pond weigh more than 2 pounds."
+    ],
+    "correct": 3,
+    "explanation": "Dữ liệu mẫu chỉ áp dụng cho largemouth bass, không thể suy ra cho toàn bộ cá trong ao.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: James: Would you like to go out for dinner tonight with me? You: ____.",
+    "options": [
+      "I know a good restaurant downtown. Let's go there.",
+      "You are welcome. That's just a small thing.",
+      "Congratulation! You really deserve the invitation.",
+      "Thanks, but I'm not hungry right now."
+    ],
+    "correct": 0,
+    "explanation": "Câu trả lời phù hợp nhất là chấp nhận lời mời và gợi ý địa điểm.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Mary: Can you give me three more days to complete the report? The manager: ____.",
+    "options": [
+      "That's a good idea! Let's do it.",
+      "The report is not informative enough for the meeting.",
+      "Well, I think you used to be a good employee in this company.",
+      "I understand, Mary. Let's set a new deadline of December 22."
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng hợp lý nhất của người quản lý là đồng ý gia hạn và đặt hạn mới cụ thể.",
+    "passage": null
+  }
+]

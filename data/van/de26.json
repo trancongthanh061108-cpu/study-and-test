@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Đánh cuộc",
+      "Đánh đố",
+      "Thách đố",
+      "Thách thức"
+    ],
+    "correct": 0,
+    "explanation": "Đánh đố, thách đố, thách thức đều liên quan đến việc đặt ra thử thách, yêu cầu ai đó phải vượt qua khó khăn hoặc thể hiện khả năng, mang ý nghĩa về sự cạnh tranh hoặc thử thách khả năng của người khác. Riêng từ đánh cuộc lại mang nghĩa liên quan đến việc đặt cược, tham gia vào một trò chơi hoặc sự kiện với rủi ro về tài chính hay tài sản, không nhất thiết liên quan đến việc thách thức hay thử thách khả năng.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Đối xử",
+      "Cư xử",
+      "Đối đãi",
+      "Xử sự"
+    ],
+    "correct": 3,
+    "explanation": "Đối xử, cư xử, đối đãi đều liên quan đến hành động tương tác và cách thức mà một người hoặc nhóm người tương tác với người khác, thường mang nghĩa về cách hành xử với nhau trong mối quan hệ. Riêng từ xử sự lại chỉ cách giải quyết hoặc ứng phó với một tình huống, không chỉ giới hạn trong mối quan hệ giữa người với người.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Đông đúc",
+      "Huyên náo",
+      "Nhộn nhịp",
+      "Tấp nập"
+    ],
+    "correct": 1,
+    "explanation": "Đông đúc, nhộn nhịp, tấp nập đều chỉ trạng thái đông người, nhiều hoạt động, thường mang nghĩa tích cực về sự nhộn nhịp, sôi động trong không gian đông người. Riêng từ huyên náo lại gợi lên âm thanh ồn ào, náo động, có thể không nhất thiết liên quan đến sự đông người, và đôi khi có thể mang nghĩa tiêu cực hơn.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Khắn khít",
+      "Khăng khít",
+      "Hòa hợp",
+      "Mật thiết"
+    ],
+    "correct": 2,
+    "explanation": "Khắn khít, khăng khít, mật thiết chỉ sự gần gũi, thân thiết, hoặc mối quan hệ chặt chẽ giữa người với người hoặc giữa các sự vật. Riêng từ hòa hợp lại mang nghĩa chỉ sự đồng điệu, sự tương thích và không có mâu thuẫn, có thể áp dụng cho cả mối quan hệ và những điều không liên quan đến cảm xúc gần gũi.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Găng",
+      "Căng",
+      "Căng thẳng",
+      "Lo âu"
+    ],
+    "correct": 3,
+    "explanation": "Găng, căng, căng thẳng đều liên quan đến trạng thái mâu thuẫn, sự phát triển đến cao độ và thường có tính chất xung đột hoặc áp lực. Riêng từ lo âu chỉ trạng thái cảm xúc lo lắng, nhưng không nhất thiết liên quan đến mâu thuẫn hay căng thẳng như ba từ còn lại.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrước Cách mạng tháng Tám, sáng tác của Nam Cao thường xoay quanh hai đề tài chính: người _____ và tầng lớp _____ tiểu tư sản.",
+    "options": [
+      "người nghèo/ trí thức",
+      "người nghèo/ tri thức",
+      "nông dân/ tri thức",
+      "nông dân/ trí thức"
+    ],
+    "correct": 3,
+    "explanation": "Hai đề tài mà Nam Cao viết trước Cách mạng tháng Tám là: người nông dân và trí thức. Câu hoàn chỉnh: Trước Cách mạng tháng Tám, sáng tác của Nam Cao thường xoay quanh hai đề tài chính: người nông dân và tầng lớp trí thức tiểu tư sản.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nBiến đổi khí hậu là thuật ngữ dùng để chỉ sự thay đổi của khí hậu do tác động chủ yếu của _____ làm thay đổi các thành phần của _____ trái đất.",
+    "options": [
+      "tự nhiên/ khí quyển",
+      "động vật/ hệ sinh thái",
+      "con người/ khí quyển",
+      "lực trái đất/ hệ sinh thái"
+    ],
+    "correct": 2,
+    "explanation": "Nguyên nhân của biến đổi khí hậu chủ yếu do những hoạt động sinh hoạt từ con người, làm tăng lượng khí nhà kính trong khí quyển, gây nóng lên toàn cầu và làm thay đổi khí quyển trái đất. Câu hoàn chỉnh: Biến đổi khí hậu là thuật ngữ dùng để chỉ sự thay đổi của khí hậu do tác động chủ yếu của con người làm thay đổi các thành phần của khí quyển trái đất.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nMỗi loại thực phẩm chúng ta ăn vào đều cung cấp một số _____ nhất định, nhưng không một nhóm thức ăn riêng lẻ nào có thể đáp ứng _____ nhu cầu dinh dưỡng.",
+    "options": [
+      "chất dinh dưỡng/ tốt",
+      "dưỡng chất/ toàn bộ",
+      "khoáng chất/ đầy đủ",
+      "vitamin/ trọn vẹn"
+    ],
+    "correct": 1,
+    "explanation": "\"Dưỡng chất\" là từ bao quát, chỉ các chất có lợi cho cơ thể từ thực phẩm; \"toàn bộ\" phù hợp với ý nghĩa \"đáp ứng đầy đủ\" nhu cầu dinh dưỡng của cơ thể. Các đáp án khác (khoáng chất, vitamin) chỉ là một loại dưỡng chất trong số nhiều loại, không đại diện cho toàn bộ.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrên quan điểm về phúc lợi và sự bình đẳng, _____ giới trở thành vấn đề nan giải, làm suy giảm lợi ích và là một dạng _____ trong xã hội.",
+    "options": [
+      "bất bình đẳng/ bất công",
+      "bình đẳng/ phân biệt đối xử",
+      "chênh lệch/ phân biệt",
+      "bạo lực/ tiêu cực"
+    ],
+    "correct": 0,
+    "explanation": "Các từ \"bất bình đẳng\" và \"bất công\" nhấn mạnh về sự bất bình đẳng giới và tác động tiêu cực của nó đến xã hội, phù hợp logic với từ \"nan giải\" trong câu.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nChất béo hình thành một lớp bảo vệ cho cơ thể giúp duy trì _____ để cơ thể không bị ảnh hưởng khi nhiệt độ _____ quá nóng hay quá lạnh.",
+    "options": [
+      "nhiệt độ ổn định/ xuống thấp",
+      "dưỡng chất/ thay đổi",
+      "thân nhiệt/ môi trường",
+      "thể chất/ tăng cao"
+    ],
+    "correct": 2,
+    "explanation": "\"Thân nhiệt\" là thuật ngữ chính xác để chỉ nhiệt độ bên trong cơ thể, liên quan đến việc duy trì trạng thái ổn định cho cơ thể; \"môi trường\" đề cập đến các điều kiện bên ngoài có thể ảnh hưởng đến thân nhiệt của cơ thể.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nTrong kho tàng văn học sử thi của dân tộc, cha ông ta đã để lại những bài học đạo đức vô cùng quý giá, một trong số đó phải kể đến câu tục ngữ \"Uống nước nhớ nguồn\".",
+    "options": [
+      "sử thi",
+      "đạo đức",
+      "quý giá",
+      "một trong"
+    ],
+    "correct": 0,
+    "explanation": "Câu văn đề cập đến câu tục ngữ \"Uống nước nhớ nguồn\" nhưng trước đó lại dùng cụm từ \"kho tàng sử thi\", điều này tạo nên mâu thuẫn về logic trường từ vựng. Thể loại sử thi và tục ngữ đều là văn học dân gian và tục ngữ không nằm trong sử thi. Bởi vậy cần sửa \"sử thi\" thành \"dân gian\". Sửa lại câu: Trong kho tàng văn học dân gian của dân tộc, cha ông ta đã để lại những bài học đạo đức vô cùng quý giá, một trong số đó phải kể đến câu tục ngữ \"Uống nước nhớ nguồn\".",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nHiện tượng \"chảy máu chất xám\" đang diễn ra khá phổ biến trong thời đại ngày nay, bởi vậy nhà nước nên có những yêu sách phù hợp đối với người tài để khuyến khích họ cống hiến và góp phần vào sự phát triển bền vững của đất nước.",
+    "options": [
+      "khuyến khích",
+      "bền vững",
+      "yêu sách",
+      "nhà nước"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"yêu sách\" thường được hiểu là những yêu cầu hoặc đòi hỏi mà một bên đưa ra với bên khác. Trong ngữ cảnh này, từ này không phù hợp vì nó mang tính chất đòi hỏi, có thể gây cảm giác áp đặt. Thay vào đó, nên dùng từ \"chính sách\" hoặc \"biện pháp\" để thể hiện ý định tích cực và hỗ trợ người tài, từ đó khuyến khích họ cống hiến. Sửa lại câu: Hiện tượng \"chảy máu chất xám\" đang diễn ra khá phổ biến trong thời đại ngày nay, bởi vậy nhà nước nên có những chính sách phù hợp đối với người tài để khuyến khích họ cống hiến và góp phần vào sự phát triển bền vững của đất nước.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nCảnh sát tại những địa phương nhận cảnh cáo sóng thần đang tuần tra gần bờ biển và khuyến cáo người dân cảnh giác.",
+    "options": [
+      "cảnh giác",
+      "khuyến cáo",
+      "cảnh cáo",
+      "địa phương"
+    ],
+    "correct": 2,
+    "explanation": "\"Cảnh cáo\" có nghĩa là nhắc nhở hoặc phê bình một cách chính thức, thường dùng trong bối cảnh xử lý kỷ luật hoặc khi có hành vi sai trái. Trong ngữ cảnh này, từ \"cảnh cáo\" không phù hợp với việc thông báo về sóng thần. Từ chính xác hơn nên là \"cảnh báo\", vì nó thể hiện sự nhắc nhở để người dân đề phòng trước nguy cơ sóng thần. Sửa lại câu: Cảnh sát tại những địa phương nhận cảnh báo sóng thần đang tuần tra gần bờ biển và khuyến cáo người dân cảnh giác.",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nQua hành trình tìm kiếm công lý của nhân vật Tấm đã cho ta thấy sức mạnh của lòng kiên trì, sự dũng cảm đối mặt với nghịch cảnh và niềm tin vào điều thiện sẽ chiến thắng cái ác.",
+    "options": [
+      "nghịch cảnh",
+      "công lý",
+      "Qua",
+      "cho ta thấy"
+    ],
+    "correct": 2,
+    "explanation": "\"Qua\" trong câu này tạo ra một cấu trúc không chuẩn về ngữ pháp. Câu cần có chủ ngữ chính, nhưng việc bắt đầu bằng \"Qua hành trình...\" khiến câu trở nên thiếu rõ ràng và thiếu chủ ngữ chính. Để sửa, có thể bỏ từ \"qua\". Sửa lại câu: Hành trình tìm kiếm công lý của nhân vật Tấm đã cho ta thấy sức mạnh của lòng kiên trì, sự dũng cảm đối mặt với nghịch cảnh và niềm tin vào điều thiện sẽ chiến thắng cái ác.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNgày nay, thép luôn được sản xuất trong lò nung chuyên dụng với gang thỏi làm từ quặng sắt, tinh luyện thành nhiều phi kim thép khác nhau ở nhiệt độ cao trong khi tiếp xúc với oxy.",
+    "options": [
+      "chuyên dụng",
+      "nhiệt độ",
+      "phi kim",
+      "quặng sắt"
+    ],
+    "correct": 2,
+    "explanation": "\"Phi kim\" là thuật ngữ chỉ các nguyên tố không có tính chất của kim loại, như carbon, oxy, hoặc lưu huỳnh. Tuy nhiên, trong ngữ cảnh của câu này, \"phi kim\" không phù hợp vì thép là hợp kim của sắt, trong đó các nguyên tố chủ yếu là kim loại, không phải phi kim. Thay vào đó, nên dùng \"hợp kim\" để diễn đạt đúng về bản chất của thép. Sửa lại câu: Ngày nay, thép luôn được sản xuất trong lò nung chuyên dụng với gang thỏi làm từ quặng sắt, tinh luyện thành nhiều hợp kim thép khác nhau ở nhiệt độ cao trong khi tiếp xúc với oxy.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Ý nào sau đây thể hiện chính xác nhất chủ đề của đoạn trích?",
+    "options": [
+      "Sự hình thành và tồn tại của cái đẹp trong lịch sử",
+      "Nội dung, ý nghĩa của mỹ học trong sự xấu xí",
+      "Mối quan hệ giữa hai khái niệm: \"sự xấu xí\" và \"cái đẹp\"",
+      "Sự thay đổi tư tưởng thẩm mỹ theo thời gian"
+    ],
+    "correct": 3,
+    "explanation": "Chủ đề chính của đoạn trích là sự biến đổi liên tục của thị hiếu và tư tưởng thẩm mỹ qua thời gian. Tác giả nhấn mạnh rằng các chuẩn mực về cái đẹp và sự xấu xí không phải là cố định, mà có thể thay đổi tùy theo thời đại và hoàn cảnh, như qua ví dụ về Tháp Eiffel và đầu máy hơi nước.",
+    "passage": "passage_cai_dep"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Theo đoạn trích, thị hiếu của con người có đặc điểm gì?",
+    "options": [
+      "Chắc chắn, bền vững",
+      "Không cố định",
+      "Có tính kế thừa",
+      "Mang tính nhất thời"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nhấn mạnh rằng thị hiếu của con người không phải là cố định mà liên tục thay đổi theo thời gian, giống như thùy triều lên xuống. Các ví dụ trong đoạn văn cho thấy rằng những chuẩn mực về cái đẹp và sự xấu xí có thể bị lật đổ và thay đổi, do đó, sự không cố định của thị hiếu được thể hiện rõ ràng.",
+    "passage": "passage_cai_dep"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Vì sao tác giả cho rằng \"cái đẹp\" không nhất thiết phải hấp dẫn và \"sự xấu xí\" không phải lúc nào cũng đáng ghê tởm?",
+    "options": [
+      "Vì chuẩn thẩm mỹ không rõ ràng và có thể bị lật đổ theo thời gian.",
+      "Vì nghệ thuật luôn phản ánh hiện thực cuộc sống.",
+      "Vì thẩm mỹ là một khái niệm cố định và không thay đổi.",
+      "Vì thẩm mỹ luôn phụ thuộc vào văn hóa của từng thời đại."
+    ],
+    "correct": 0,
+    "explanation": "Văn bản đề cập: \"thị hiếu còn liên tục thay đổi\" -> Tác giả nhấn mạnh rằng chuẩn thẩm mỹ có thể thay đổi theo thời gian và nhiều giả định về nghệ thuật có thể bị lật đổ. Do đó, \"cái đẹp\" và \"sự xấu xí\" không phải lúc nào cũng cố định.",
+    "passage": "passage_cai_dep"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Qua ví dụ về Tháp Eiffel, tác giả muốn nhấn mạnh điều gì?",
+    "options": [
+      "Sự bền bỉ của kiến trúc Pháp qua thời gian.",
+      "Giá trị thẩm mỹ có thể thay đổi và không thể xác định một cách tuyệt đối.",
+      "Vai trò quan trọng của trí thức trong việc bảo vệ giá trị nghệ thuật.",
+      "Tầm quan trọng của công nghệ xây dựng trong thời kỳ hiện đại hóa."
+    ],
+    "correct": 1,
+    "explanation": "Tác giả đưa ra ví dụ về Tháp Eiffel để cho thấy, mặc dù ban đầu bị chỉ trích, nhưng qua thời gian, nó đã trở thành một trong những công trình biểu tượng được mến mộ nhất trên thế giới. Điều này cho thấy sự thay đổi của thị hiếu thẩm mỹ và giá trị thẩm mỹ có thể thay đổi và không thể xác định một cách tuyệt đối.",
+    "passage": "passage_cai_dep"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của đoạn trích?",
+    "options": [
+      "Cái đẹp và sự xấu xí có mối quan hệ chặt chẽ",
+      "Thẩm mỹ mang tính chất tương đối",
+      "Thị hiếu của con người có thể thay đổi theo thời gian",
+      "Gu thẩm mĩ có thể khác nhau giữa các thời đại"
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A không thể suy ra từ nội dung đoạn trích vì đoạn trích tập trung vào sự thay đổi của chuẩn mực thẩm mỹ và không đề cập đến mối quan hệ chặt chẽ giữa cái đẹp và sự xấu xí. Đáp án B, C có thể suy ra vì \"thị hiếu còn liên tục thay đổi\". Đáp án D có thể suy ra qua ví dụ Tháp Eiffel và đường sắt hơi nước.",
+    "passage": "passage_cai_dep"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Đoạn trích cung cấp thông tin gì?",
+    "options": [
+      "Thực trạng nhiều người chi tiền vô tội vạ cho thực phẩm chức năng.",
+      "Không phải lúc nào thực phẩm chức năng cũng mang lại lợi ích như mong đợi.",
+      "Lời khuyên cho một lối sống khỏe.",
+      "Giải pháp giúp việc sử dụng thực phẩm chức năng được nhanh và hiệu quả hơn."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nhấn mạnh rằng không có đủ bằng chứng để chứng minh lợi ích của nhiều loại vitamin và khoáng chất, đồng thời còn cảnh báo về nguy cơ của một số chất bổ sung, như beta carotene và vitamin E. Điều này cho thấy việc sử dụng thực phẩm chức năng không phải lúc nào cũng có lợi và cần được xem xét cẩn thận.",
+    "passage": "passage_thuc_pham_chuc_nang"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Đoạn trích thuộc loại văn bản nào dưới đây?",
+    "options": [
+      "Văn bản hành chính",
+      "Văn bản văn học",
+      "Văn bản thông tin",
+      "Văn bản nghị luận"
+    ],
+    "correct": 2,
+    "explanation": "Văn bản trên có nội dung trình bày thông tin liên quan đến sức khỏe con người, nhấn mạnh rằng việc sử dụng thực phẩm chức năng không phải lúc nào cũng có lợi. => Đoạn trích thuộc văn bản thông tin.",
+    "passage": "passage_thuc_pham_chuc_nang"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Đâu là nội dung KHÔNG được suy ra từ đoạn trích?",
+    "options": [
+      "Vitamin hay giả dược đều không thay đổi bệnh tình của bệnh nhân.",
+      "Dầu cá có thể ngăn chặn các bệnh nguy hiểm về tim.",
+      "Nhiều người tin rằng dầu cá có thể làm dịu chứng viêm, giúp ngăn ngừa cục máu đông.",
+      "Đã có một cuộc nghiên cứu so sánh giả dược với vitamin."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có trình bày: \"Theo PGS.TS Pieter Cohen: Không có dữ liệu thuyết phục nào cho thấy bổ sung omega-3 có thể ngăn ngừa các cơn đau tim đối với những người có nguy cơ.\" (omega-3 chính là thành phần chính của dầu cá. Đoạn trích này khẳng định không có bằng chứng chứng minh dầu cá có tác dụng ngăn ngừa các cơn đau tim). -> Đáp án B không xuất hiện trong đoạn trích.",
+    "passage": "passage_thuc_pham_chuc_nang"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Theo USPSTF, tại sao không nên sử dụng chất bổ sung beta carotene?",
+    "options": [
+      "Khi vào cơ thể, chúng được chuyển hóa thành vitamin A.",
+      "Chúng có thể tăng nguy cơ tử vong do tim mạch và ung thư phổi.",
+      "Chúng không có lợi ích thực sự trong việc giảm tỷ lệ tử vong, bệnh tim mạch hoặc ung thư.",
+      "Chúng mang nhiều tác dụng phụ không mong muốn."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích đề cập rất rõ ràng: USPSTF cho biết, có đủ bằng chứng để khuyến cáo không nên sử dụng các chất bổ sung beta carotene (chất mà cơ thể chuyển hóa thành vitamin A), để ngăn ngừa bệnh tim mạch hoặc ung thư vì \"có thể tăng nguy cơ tử vong do tim mạch và ung thư phổi\".",
+    "passage": "passage_thuc_pham_chuc_nang"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Số liệu được đề cập trong câu văn \"Kết quả mới của USPSTF dựa trên việc phân tích 84 nghiên cứu thử nghiệm về vitamin ở gần 700.000 người, từ năm 2014 đến nay, trong đó có 52 nghiên cứu mới về chủ đề này.\" nhằm mục đích gì?",
+    "options": [
+      "Cho thấy quy mô lớn trong nghiên cứu.",
+      "Giải thích lý do nhiều người sử dụng thực phẩm chức năng.",
+      "Chứng minh tính toàn diện của nghiên cứu.",
+      "Phân tích tính phức tạp của quá trình nghiên cứu."
+    ],
+    "correct": 2,
+    "explanation": "Số liệu được đề cập trong câu văn chỉ ra rằng nghiên cứu của USPSTF được dựa trên một số lượng lớn các nghiên cứu thử nghiệm và một mẫu người tham gia rất lớn (gần 700.000 người). Điều này cho thấy rằng nghiên cứu đã xem xét nhiều khía cạnh và dữ liệu khác nhau, từ đó khẳng định rằng các kết luận là toàn diện và đáng tin cậy.",
+    "passage": "passage_thuc_pham_chuc_nang"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích và trả lời câu hỏi dưới đây.\n\"Ôi, nếu cha biết được rằng ở đây, ở một nơi xa xôi, con yêu mến tất cả những cái đó biết chừng nào! Cha đừng ngạc nhiên, nhưng con nói với cha một cách thật đứng đắn rằng con nhớ đến những cái đó trong những phút ác liệt nhất của trận đánh. Con biết rằng con đang bảo vệ không riêng gì tất cả đất nước mà cả cái góc nhỏ bé và thân yêu ấy trong lòng con: tức là cả cha, cả khu vườn nhà ta, cả những em bé đầu bù tóc rối trong làng ta, cả những cánh rừng bạch dương bên kia sông và cả con mèo Ackhip nữa. Xin cha đừng cười và đừng lắc đầu cha nhé. Có thể là khi ở viện ra, người ta sẽ cho con về nhà trong một thời gian ngắn. Điều đó chưa chắc lắm. Tốt hơn hết là cha đừng đợi.\"\n(Konstantin Georgiyevich Paustovsky, Tuyết, in trong Tuyển tập truyện ngắn hiện đại thế giới, NXB Hội Nhà văn, Hà Nội, 1998)\nNhân vật chính trong đoạn trích trên nổi bật với nét tính cách nào?",
+    "options": [
+      "Giàu xúc cảm, nặng ân tình",
+      "Dũng cảm, sẵn sàng đương đầu với khó khăn",
+      "Hồn nhiên, ngộ nghĩnh như trẻ thơ",
+      "Kiên định, lạc quan vào tương lai"
+    ],
+    "correct": 0,
+    "explanation": "Nhân vật chính (người con) trong đoạn trích trên nổi bật với đặc điểm giàu xúc cảm, nặng ân tình. Nhân vật bày tỏ tình cảm sâu sắc với cha, với quê hương và những kỷ niệm gắn bó. Những cảm xúc nhớ nhung về gia đình và cảnh vật quen thuộc thể hiện anh có một tâm hồn nhạy cảm và trân trọng gắn bó với những người và nơi chốn thân yêu.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nNgày 27/3/1975\nSau gần ba mươi năm, tôi trở về quê Nham Biều. Những rặng tre vẫn rì rào tỏa bóng, một chiếc cầu gỗ đã được bắc qua sông thay cho những con đò của bến Chợ Mai năm 1946.\nTrên đường vào làng, những ngôi nhà ngói đỏ vẫn trầm lặng, kín đáo ẩn sau những bức bình phong quét vôi xanh trắng, chạm hình rồng phượng nhằm che tránh tầm nhìn từ ngoài vào.\nTưởng chừng như chiến tranh không hề qua đây.\n(Nguyễn Thị Xuân Phượng, Quê ngoại, in trong Gánh gánh... gồng gồng..., NXB Tổng hợp Thành phố Hồ Chí Minh, 2024)\nSự kết hợp giữa trần thuật, miêu tả với bình luận trong đoạn trích trên đem lại tác dụng gì?",
+    "options": [
+      "Giúp người đọc hình dung rõ bối cảnh của câu chuyện được đề cập.",
+      "Thể hiện sự liền mạch của sự kiện đồng thời cho thấy sự xúc động, bồi hồi của tác giả.",
+      "Khiến cho cảnh vật hiện lên rõ nét và cho thấy sự lạc quan, yêu đời của tác giả.",
+      "Cho thấy tình cảm gắn bó, yêu mến của tác giả đối với quê cũ ngày trở về."
+    ],
+    "correct": 1,
+    "explanation": "Sự kết hợp giữa trần thuật, miêu tả với bình luận trong đoạn trích trên vừa mô tả cảnh vật quê hương, vừa gợi lên cảm xúc của tác giả khi trở về sau nhiều năm xa cách, thể hiện sự chuyển tiếp từ quá khứ đến hiện tại, cũng như cảm xúc bồi hồi khi gặp lại quê hương. Điều này giúp thể hiện liền mạch của sự kiện và cảm xúc sâu sắc của tác giả.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nMẹ bán rét ngọt chiều đông\nĐể mua nắng ấm cho hồng giấc con\nNgoài đồng giá buốt mưa trơn\nBàn chân mẹ bấm nhẫn mòn bờ đê\nThân cò sớm tối đi về\nTuổi thơ con để ngõ quê đường làng.\n(Trần Nguyệt Ánh, Miền gió say, in trong Mùa xuân của mẹ, NXB Hội Nhà văn, Hà Nội, 2021)\nHình ảnh người mẹ \"bán rét ngọt\" để \"mua nắng ấm\" cho con nói lên phẩm chất nào của người mẹ?",
+    "options": [
+      "Nhẫn nại và bao dung",
+      "Khôn khéo, bươn chải",
+      "Giàu đức hi sinh",
+      "Yêu thương con vô điều kiện"
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh người mẹ \"bán rét ngọt\" để \"mua nắng ấm\" cho thể hiện sự hi sinh thầm lặng của người mẹ. Qua việc sẵn sàng chịu đựng cái rét giá buốt để con được ấm áp, người mẹ đã hi sinh bản thân vì hạnh phúc của con.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nQuái lạ là cái mùa kì diệu: Tự nhiên trời chỉ đổi màu, gió chỉ thay chiều làm rung một cái lá ngô đồng, thế là bao nhiêu cảnh vật đều nhuộm một màu tê tái, làm cho lòng người đa cảm tự nhiên thấy se sắt, tư lương. Thế là trời đất, cỏ cây tự nhiên hiện ra với một lăng kính mới: Trăng sáng đẹp là thế cũng hóa ra buồn, trời bát ngát yêu thương như thế mà cũng hóa ra tê tái, sông nước đẹp mênh mông như thế mà cũng hóa ra đìu hiu lạnh.\n(Vũ Bằng, Thương nhớ mười hai, NXB Văn học, Hà Nội, 2008)\nTừ \"tư lương\" (in đậm) trong đoạn trích có thể hiểu là gì?",
+    "options": [
+      "Lương thực dự trữ cho một chuyến đi xa",
+      "Nỗi nhớ da diết về những điều đã qua",
+      "Cảm giác buồn thảm, vắng vẻ",
+      "Những cảm xúc riêng tư của con người"
+    ],
+    "correct": 1,
+    "explanation": "Theo từ điển Hoàng Phê, từ \"tư lương\" được hiểu là \"tưởng nhớ da diết\". Đặt trong ngữ cảnh đoạn trích, \"tư lương\" diễn tả trạng thái cảm xúc sâu lắng, gợi lên những hồi ức và cảm xúc nhớ nhung về những điều đã qua.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nPhê bình văn Cung oán, Lý Văn Phúc viết: \"Thiên đoàn bách luyện, ngữ ngữ kinh nhân\", cái ý \"lời lời khiến người nghe phải sợ\" tất nhiên có phần quá đáng, nhưng đúng là văn Cung oán cho ta cảm giác đứng trước một kỳ công điêu khắc, chạm trổ công phu. Nhưng Chinh phụ ngâm khúc lại còn đạt tới một trình độ cao hơn, người đọc hình như không còn thấy được cái dụng công của người làm văn, mà chỉ còn một cảm giác tự nhiên thanh thoát. Tuy vậy, mỗi bên một vẻ, Chinh phụ ngâm khúc và Cung oán ngâm khúc là hai tác phẩm cổ điển có giá trị đột xuất của thế kỷ XVIII.\n(Nguyễn Văn Hoàn, Văn học dân tộc và thời đại, NXB Khoa học xã hội, 1999)\nYếu tố biểu cảm trong đoạn trích trên thể hiện điều gì?",
+    "options": [
+      "Sự thán phục, ngợi ca của tác giả về các tác phẩm Chinh phụ ngâm khúc và Cung oán ngâm khúc.",
+      "Tình yêu mến, trân trọng của tác giả về các tác phẩm Chinh phụ ngâm khúc và Cung oán ngâm khúc.",
+      "Sự biết ơn, ngưỡng mộ đối với những tư tưởng tiến bộ trong các tác phẩm Chinh phụ ngâm khúc và Cung oán ngâm khúc.",
+      "Sự tiếc nuối các giá trị văn chương trong các tác phẩm Chinh phụ ngâm khúc và Cung oán ngâm khúc."
+    ],
+    "correct": 0,
+    "explanation": "Yếu tố biểu cảm: \"văn Cung oán cho ta cảm giác đứng trước một kỳ công điêu khắc, chạm trổ công phu\"; \"một cảm giác tự nhiên thanh thoát\". Vai trò yếu tố biểu cảm: thể hiện sự thán phục, ngợi ca của tác giả về các tác phẩm Chinh phụ ngâm khúc và Cung oán ngâm khúc – hai tác phẩm cổ điển có giá trị của thế kỉ XVIII.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nMười ba người tại đây, sở dĩ trôi dạt đến đây, là bởi cũng đã như con thiêu thân bay vào đống lửa, cho nên mới bị quáng mắt về những ánh sáng của kinh thành. Mụ chủ hàng cơm đã chứa chấp họ trong những xó sân. Ban ngày họ ra ngồi bày hàng ở ngã ba, ngã bảy. Trong khi chờ cho có việc, họ có mấy đồng xu cứ ăn hết dần. Đến cái ngày mà túi cạn mà việc chưa có, mà không ai thí cho đồng chinh hay bát cháo, tất là họ phải sinh ra liều mạng, có những lá gan to. Đàn bà sẽ đi đến Dục tình. Đàn ông sẽ đi đến Hình phạt. Trước khi đi đến cái ấy, hiện giờ thì họ bình tĩnh nằm chờ cái sóng gió là ngày mai.\n(Vũ Trọng Phụng, Ánh sáng kinh thành, in trong Phóng sự, NXB Văn học, Hà Nội, 2016)\nBiện pháp tu từ được sử dụng trong câu văn \"Mười ba người tại đây, sở dĩ trôi dạt đến đây, là bởi cũng đã như con thiêu thân bay vào đống lửa, cho nên mới bị quáng mắt về những ánh sáng của kinh thành.\" là gì?",
+    "options": [
+      "Nhân hóa",
+      "So sánh",
+      "Điệp từ",
+      "Liệt kê"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn trên sử dụng biện pháp tu từ so sánh: hình ảnh những con người trôi dạt đến kinh thành được so sánh với \"con thiêu thân bay vào đống lửa\" ám chỉ sự mê muội khi theo đuổi ánh hào nhoáng của kinh thành với mong muốn thoát khỏi cái khổ sở, cơ cực.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nChúng ta thương những ngày ít gió và nhiều mây\nnhững ngày chỉ nói với nhau bằng ánh mắt\nnhững ngày chỉ cần tựa vai đã thấy lòng thanh thản\nnhững ngày mà nỗi cô đơn cũng cần như hạt muối mặn\nnêm vào những bình yên...\n(Nguyễn Phong Việt, Đã đi qua thương nhớ, In trong Đi qua thương nhớ, NXB Hội Nhà văn, Hà Nội, 2016)\nTheo đoạn trích, việc nêm \"cô đơn\" vào \"những bình yên\" cho thấy điều gì?",
+    "options": [
+      "Cô đơn nâng cao giá trị của con người",
+      "Cô đơn làm cho những khoảnh khắc bình yên trở nên đáng giá hơn",
+      "Cô đơn khiến con người hiểu bản thân mình hơn",
+      "Cô đơn làm tăng sự kết nối giữa người với bình yên"
+    ],
+    "correct": 1,
+    "explanation": "Việc coi cô đơn như \"hạt muối mặn\" nêm vào bình yên cho thấy cô đơn như một loại gia vị trong cuộc sống, chúng không chỉ tồn tại độc lập mà còn làm cho cảm giác bình yên trở nên sâu sắc và đáng trân trọng hơn.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nNơi bây giờ lá lá lợp ngàn mây\nXanh bóng nắng, tóc cha chiều xế bạc\nVốc nắm đất quê nhà soi đáy nước\nAnh mấp mô đi dọc sá cày.\n\nNơi em về, mùa trở gió heo may\nMưa ruộng cấy, chéo mặt người cắm cúi\nTháng ba sấm, lúa dậy thì con gái\nMắt bạn tự bao giờ đã nhíu một chân chim\n(Nguyễn Sĩ Đại, Nơi em về, In trong Trái tim người lính, NXB Thanh niên, Hà Nội, 1998)\nCâu thơ \"Tháng ba sấm, lúa dậy thì con gái\" ẩn dụ cho điều gì?",
+    "options": [
+      "Vẻ đẹp tươi trẻ của con người",
+      "Sự chuyển mình và trưởng thành của cây lúa",
+      "Sự mạnh mẽ của tình yêu",
+      "Sức sống mạnh mẽ của con người"
+    ],
+    "correct": 3,
+    "explanation": "Cả đoạn thơ nói về tình cảm của tác giả dành cho quê hương và những người dân quê chân chất. Câu thơ \"Tháng ba sấm, lúa dậy thì con gái\" ẩn dụ cho sức sống mạnh mẽ của con người: \"tháng ba sấm\" nói về những trận mưa, lụt, những khó khăn của tự nhiên cũng như những biến cố, khó khăn trong cuộc sống nhưng lúa vẫn \"dậy thì con gái\" nghĩa là lúa lại đang mơn mởn, trong thời gian đẹp đẽ nhất, hình ảnh này cũng giống như con người kiên cường vươn lên sau những khó khăn, thách thức của cuộc sống.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nTHẦY TRIẾT: (Vừa đi vừa đính lại miếng vải đeo ở cổ áo) – Ta vào bài học nào.\nÔNG GIUỐC-ĐANH: – Chà! Thầy ạ, tôi rất buồn lòng thấy thầy bị họ đánh đập.\nTHẦY TRIẾT: – Không hề gì. Một nhà hiền triết biết tiếp thu sự vật một cách phải lẽ; để rồi tôi sẽ soạn một bài văn trào phúng theo Juvenan đả kích cho họ tơi bời một phen. Thôi ta hãy gác chuyện đó. Ngài muốn học gì?\nÔNG GIUỐC-ĐANH: – Học tất cả những cái gì tôi có thể học được, vì tôi hết sức thèm muốn được trở thành người bác học, và tôi tức giận rằng bố mẹ tôi đã không cho tôi học hành tử tế tất cả các khoa học, khi tôi còn trẻ tuổi.\nTHẦY TRIẾT: – Nam sine doctrina vita quasi mortis imago. Ngài hiểu câu đó chứ, và hẳn là ngài biết tiếng La-tinh chứ?\nÔNG GIUỐC-ĐANH: – Có, nhưng thầy cứ làm như tôi không biết. Thầy cứ giảng cho tôi cái nghĩa của câu đó đi.\nTHẦY TRIẾT: – Câu đó có nghĩa là không có học thức thì đời sống cũng gần như hình ảnh của cái chết.\n(Molière, Trích Trưởng giả học làm sang, NXB Sân khấu, Hà Nội, 2006)\nÔng Giuốc-đanh giận bố mẹ mình vì lí do gì?",
+    "options": [
+      "Bố mẹ từng xem thường ông",
+      "Bố mẹ không tạo điều kiện ông học hành tử tế",
+      "Bố mẹ không có điều kiện cho ông đi học khi ông còn trẻ",
+      "Bố mẹ ngăn cản con đường học tập của ông"
+    ],
+    "correct": 1,
+    "explanation": "Nhân vật có đề cập trong đoạn trích: \"tôi tức giận rằng bố mẹ tôi đã không cho tôi học hành tử tế tất cả các khoa học, khi tôi còn trẻ tuổi\" -> Bố mẹ không tạo điều kiện ông học hành tử tế.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nGia tài em chỉ có bàn tay\nEm trao tặng cho anh từ ngày ấy\nNhững năm tháng cùng nhau anh chỉ thấy\nQuá khứ dài là mái tóc em đen\n\nVui, buồn trong tiếng nói, nụ cười em\nQua gương mặt anh hiểu điều lo lắng\nQua ánh mắt anh hiểu điều mong ngóng\nAnh nghĩ gì khi nhìn xuống bàn tay?\n(Xuân Quỳnh, Bàn tay em, In trong Những nhà thơ Việt Nam thời chống Mỹ, NXB Kim Đồng, 2007)\nChủ thể trữ tình trong đoạn thơ trên là ai?",
+    "options": [
+      "Người con gái đang yêu",
+      "Người phụ nữ từng trải trong gia đình",
+      "Người mẹ tảo tần vì con",
+      "Người con gái tổn thương trong tình yêu"
+    ],
+    "correct": 1,
+    "explanation": "Dựa vào các chi tiết trong đoạn thơ có thể khẳng định chủ thể trữ tình là người phụ nữ từng trải trong gia đình: \"Em trao tặng cho anh từ ngày ấy\" (ngày cưới chồng); \"năm tháng cùng nhau\" (cuộc sống vợ chồng gắn bó); \"điều lo lắng\", \"điều mong ngóng\" (những lo toan của cuộc sống gia đình).",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Từ thí nghiệm của Robert Boyle với con chim trong môi trường chân không, nhà khoa học này đã phát hiện ra điều gì về bản chất của không khí?",
+    "options": [
+      "Không khí không có vai trò gì đối với sự sống.",
+      "Chân không chứa một dạng vật chất khác so với không khí thường.",
+      "Không khí có chứa một loại vật chất vô hình quan trọng cho sự sống.",
+      "Sự thay đổi thể tích không khí không ảnh hưởng đến nhiệt độ."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích có khẳng định: \"Đúng như Boyle dự đoán, con chim đã chết – và kinh ngạc hơn, nó còn bị đông cứng. Nếu chân không khác không khí thường đến mức có thể dập tắt sự sống, nghĩa là phải có vài vật chất vô hình nào đó tạo nên không khí\". -> Qua thí nghiệm của Boyle, ông nhận thấy rằng không khí có một thành phần quan trọng duy trì sự sống, không giống như chân không. Điều này gợi ý rằng có những thành phần vô hình trong không khí giúp duy trì sự sống.",
+    "passage": "passage_khong_khi"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo đoạn văn, tại sao đầu máy hơi nước lại đóng vai trò quan trọng trong sự phát triển của ngành khoa học nhiệt động lực học?",
+    "options": [
+      "Đầu máy hơi nước giúp nâng cao độ chính xác của các dụng cụ đo nhiệt độ.",
+      "Đầu máy hơi nước cần sự nghiên cứu chính xác về sự chuyển hóa nhiệt và năng lượng.",
+      "Đầu máy hơi nước đã giúp phát minh ra thang đo độ C và độ F.",
+      "Đầu máy hơi nước trực tiếp dạy các kỹ sư về nhiệt động lực học."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: \"Tri thức nở rộ vào thế kỷ 18, khi đầu máy hơi nước buộc các kỹ sư phải tìm ra chính xác cách thức nhiệt độ và năng lượng chuyển hóa lẫn nhau, từ đó phát minh ra cả bộ môn khoa học nhiệt động lực học.\" -> Đầu máy hơi nước cần sự nghiên cứu chính xác về sự chuyển hóa nhiệt và năng lượng.",
+    "passage": "passage_khong_khi"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Theo đoạn văn, tại sao việc nâng cao độ chính xác trong đo lường lại quan trọng đối với sự phát triển của khoa học?",
+    "options": [
+      "Nó giúp phát minh ra nhiều thiết bị hiện đại.",
+      "Nó giúp hiểu rõ hơn về mối quan hệ giữa nhiệt độ và áp suất.",
+      "Nó giúp các nhà khoa học có thể thực hiện các phép đo phức tạp và chính xác hơn.",
+      "Nó tạo ra các thang đo chuẩn như Celsius và Fahrenheit."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích có đề cập: \"khi độ chính xác của đo lường tiến một bước, nhiều chuyện sẽ trở nên khả thi\". Điều này ngụ ý rằng việc cải thiện độ chính xác trong đo lường tạo điều kiện cho những phát hiện và nghiên cứu khoa học mới, giúp các nhà khoa học có thể thực hiện các phép đo phức tạp và chính xác hơn.",
+    "passage": "passage_khong_khi"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Đâu là tính chất của môi trường chân không KHÔNG được đề cập trong đoạn trích?",
+    "options": [
+      "Môi trường chân không không có sự tồn tại của không khí",
+      "Trong môi trường chân không không thể truyền đi âm thanh",
+      "Môi trường chân không khác hoàn toàn với môi trường khí quyển",
+      "Các sinh vật không thể tồn tại trong môi trường chân không"
+    ],
+    "correct": 1,
+    "explanation": "Đáp án A được đề cập trong đoạn trích. Đáp án B KHÔNG được đề cập, đoạn trích không nhắc tới âm thanh. Đáp án C được đề cập: \"có tính chất khác hẳn bầu không khí thông thường\". Đáp án D được đề cập qua thí nghiệm của Robert Boyle khi con chim chết trong môi trường chân không.",
+    "passage": "passage_khong_khi"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Xác định một thành phần biệt lập được sử dụng trong đoạn văn?",
+    "options": [
+      "Thành phần tình thái",
+      "Thành phần cảm thán",
+      "Thành phần gọi đáp",
+      "Thành phần phụ chú"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn văn xuất hiện thành phần phụ chú thể hiện qua các câu văn: Đúng như Boyle dự đoán, con chim đã chết – và kinh ngạc hơn, nó còn bị đông cứng; Các dụng cụ đo nhiệt độ và khối lượng có độ chính xác ngày một cao, cùng với những thang đo được tiêu chuẩn hóa như Celsius (độ C) và Fahrenheit (độ F).",
+    "passage": "passage_khong_khi"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Truyện được kể dưới điểm nhìn nào?",
+    "options": [
+      "Điểm nhìn toàn tri, từ chú chó Binô.",
+      "Điểm nhìn hạn tri, từ chú chó Binô.",
+      "Điểm nhìn toàn tri, từ chú chó Bêtô.",
+      "Điểm nhìn hạn tri, từ chú chó Bêtô."
+    ],
+    "correct": 3,
+    "explanation": "Truyện được kể theo ngôi thứ nhất, từ chú chó Bêtô dưới điểm nhìn hạn tri (người kể chuyện chỉ kể từ phạm vi hiểu biết của chính mình).",
+    "passage": "passage_toi_la_beto"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Theo Bêtô, điều gì chứng tỏ rằng lão Hiếng đã không còn tồn tại trong tâm trí của mọi người?",
+    "options": [
+      "Lão Hiếng đã không còn sống cùng với họ.",
+      "Không ai còn nghĩ đến lão Hiếng khi lão đã dọn đi.",
+      "Tính cách của lão Hiếng không để lại ấn tượng nào.",
+      "Lão Hiếng không có bạn bè hay người thân."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: Tôi không ở trong số những thằng cún có trí nhớ quá ngắn, nhưng sự thực là từ ngày lão Hiếng dọn nhà đi nơi khác tôi đã không còn nghĩ gì đến lão ta nữa. -> Lão Hiếng đã không còn tồn tại trong tâm trí của mọi người vì không ai còn nghĩ đến lão Hiếng khi lão đã dọn đi.",
+    "passage": "passage_toi_la_beto"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Theo đoạn trích, khi nào con người trở nên vô danh trong mắt người khác?",
+    "options": [
+      "Khi không được cha mẹ đặt tên",
+      "Khi bạn sống chưa tốt",
+      "Khi bạn quên tên của mình",
+      "Khi bạn thay đổi tên của mình"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có câu: \"Vô danh thì không đọng lại được trong tâm trí bất kỳ ai, không phân biệt được với ai\"; \"Nhưng tính cách của lão đã lấn át và nhuộm đen cái tên cha mẹ đặt cho lão và bằng cách đó lão đã tẩy xóa cả lão lẫn cái tên của lão khỏi ký ức mọi người\". -> Chính tính cách xấu xa của lão Hiếng đã khiến lão trở nên vô danh trong mắt mọi người. Từ đó suy ra, con người trở nên vô danh trong mắt người khác là khi người đó sống chưa tốt.",
+    "passage": "passage_toi_la_beto"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Hình ảnh \"khối nhờ nhờ\" trong đoạn trích ám chỉ điều gì về lão Hiếng?",
+    "options": [
+      "Lão Hiếng là một người xấu xa và có nhiều kẻ thù.",
+      "Lão Hiếng không để lại ấn tượng trong tâm trí mọi người.",
+      "Lão Hiếng đã làm điều xấu nhưng vẫn được mọi người tha thứ.",
+      "Lão Hiếng là một người sống cô độc, không có bạn bè."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh \"khối nhờ nhờ\" trong đoạn trích ám chỉ rằng lão Hiếng là một người không để lại ấn tượng trong tâm trí mọi người. Lão bị lãng quên, không đọng lại trong tâm trí ai, như một hình ảnh mờ nhạt và vô danh.",
+    "passage": "passage_toi_la_beto"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Tác giả muốn nói gì về vai trò của cái tên đối với mỗi con người qua lời văn của Bêtô?",
+    "options": [
+      "Cái tên dùng để phân biệt người này với người kia.",
+      "Cái tên không thể thay thế cho bản chất con người.",
+      "Cái tên không quyết định giá trị của con người.",
+      "Cái tên phản ánh tính cách và giá trị của con người."
+    ],
+    "correct": 3,
+    "explanation": "Qua lời văn của Bêtô, tác giả muốn nói rằng cái tên phản ánh tính cách và giá trị của con người. Cách một người sống sẽ \"chưng cất\" và làm cho cái tên của họ tỏa hương, để lại dấu ấn trong lòng người khác. Như vậy, cái tên không chỉ đơn thuần là phương tiện để phân biệt, mà còn là biểu tượng cho tính cách và giá trị của người mang nó.",
+    "passage": "passage_toi_la_beto"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đâu là những hình ảnh đóng vai trò chủ đạo trong việc diễn tả những cuộc chia ly trong đoạn thơ?",
+    "options": [
+      "Cây đàn – dây đàn",
+      "Bóng người – bàn tay",
+      "Nhà ga – sân ga",
+      "Sân ga – con tàu"
+    ],
+    "correct": 3,
+    "explanation": "Hình ảnh chủ đạo trong bài thơ dùng để diễn tả những cuộc chia ly là sân ga và con tàu. Hai hình ảnh này xuất hiện xuyên suốt bài thơ và là bối cảnh chính cho các cuộc tiễn đưa, chia tay giữa các nhân vật. Con tàu mỗi khi lăn bánh, buộc phải rời sân ga kéo theo khoảng cách ngày một xa giữa người ra đi và người ở lại.",
+    "passage": "passage_bong_nguoi_san_ga"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Hình ảnh \"cây đàn đứt từng dây\" trong dòng thơ \"Cây đàn sum họp đứt từng dây\" có ý nghĩa gì?",
+    "options": [
+      "Chỉ trạng thái đau đớn của con người trước những cuộc chia ly.",
+      "Chỉ khoảng thời gian đầy biến động của cuộc đời mà con người khó vượt qua.",
+      "Chỉ khoảng không gian buồn bã, đong đầy tâm trạng.",
+      "Chỉ nỗi nhớ ngập đầy tâm trí người đang yêu."
+    ],
+    "correct": 0,
+    "explanation": "Hình ảnh \"cây đàn đứt từng dây\" trong dòng thơ mang ý nghĩa tượng trưng cho sự đau đớn, tan vỡ của con người trước những cuộc chia ly. Tiếng đàn vốn đại diện cho sự hòa hợp, gắn kết, nhưng khi \"đứt từng dây\" là biểu hiện của sự chia lìa, mất mát, giống như nỗi đau buồn trong lòng người khi phải xa cách.",
+    "passage": "passage_bong_nguoi_san_ga"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Các từ ngữ chỉ thời gian, không gian, con người trong cuộc chia ly của hai người yêu nhau gợi lên điều gì?",
+    "options": [
+      "Sự mong nhớ của đôi lứa",
+      "Dự cảm đổ vỡ trong tình yêu",
+      "Nỗi khắc khoải khi yêu xa",
+      "Niềm tin bất diệt vào tình yêu"
+    ],
+    "correct": 1,
+    "explanation": "Thời gian \"buổi chiều\": là thời điểm sắp kết thúc một ngày, thường ám chỉ sự kết thúc và nỗi buồn. Không gian ga \"xa vắng\": gợi lên sự vắng vẻ, đìu hiu, cô đơn. Trên cái nền không gian vắng điểm lên hình ảnh chiếc bóng người đổ \"liêu xiêu\": gợi lên sự ngả nghiêng, chòng chành, không vững chãi cũng ngầm chỉ sự đổ vỡ trong tình yêu. => Các từ ngữ này như một dự cảm đổ vỡ trong tình yêu.",
+    "passage": "passage_bong_nguoi_san_ga"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Đâu là nhận xét đúng về trạng thái của nhân vật trữ tình trong khổ thơ dưới đây:\nCó lần tôi thấy một bà già\nĐưa tiễn con đi tận chốn xa,\nTàu chạy lâu rồi bà vẫn đứng,\nLưng còng đổ bóng xuống sân ga",
+    "options": [
+      "Tình yêu vô bờ bến của mẹ thường thể hiện rõ rệt nhất trong những khoảnh khắc chia xa.",
+      "Sự kiên cường, mạnh mẽ của người mẹ khi phải kìm nén nỗi đau để tiễn con đi xa.",
+      "Sự đau khổ của người mẹ già khi phải tiễn con đi xa.",
+      "Nỗi đau dai dẳng của người mẹ trong ngày tiễn con đi làm ăn xa."
+    ],
+    "correct": 2,
+    "explanation": "Bối cảnh tiễn biệt trong khổ thơ thể hiện nỗi buồn và đau khổ của người mẹ khi phải tiễn con đi xa, điều này được thể hiện qua hình ảnh \"lưng còng\" và sự đứng chờ lâu, biểu trưng cho sự lo lắng và tình yêu thương sâu sắc của bà dành cho con.",
+    "passage": "passage_bong_nguoi_san_ga"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Khổ thơ dưới đây nói về cuộc chia ly của đối tượng nào?\nCó lần tôi thấy một người đi,\nChẳng biết về đâu nghĩ ngợi gì.\nChân bước hững hờ theo bóng lẻ,\nMột mình làm cả cuộc phân ly.",
+    "options": [
+      "Những người lạ",
+      "Những người bạn",
+      "Hai người yêu nhau",
+      "Chính bản thân mình"
+    ],
+    "correct": 3,
+    "explanation": "Khổ thơ khắc họa hình ảnh một người cô đơn, đi về nơi vô định, lẻ loi với cuộc đời này \"Một mình làm cả cuộc phân ly\". Ở đây không có sự xuất hiện của đối tượng thứ hai, chỉ có sự xuất hiện của \"một người đi\", vì vậy đó chính là cuộc chia ly của chính bản thân mình.",
+    "passage": "passage_bong_nguoi_san_ga"
+  }
+]

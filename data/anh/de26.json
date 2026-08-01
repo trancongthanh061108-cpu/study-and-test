@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "The tourists and the local people ____________ I have met are nice.",
+    "options": [
+      "where",
+      "why",
+      "that",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "Đại từ quan hệ 'that' dùng để thay thế cho danh từ chỉ người hoặc vật. Trong câu này, nó thay thế cho 'The tourists and the local people' (chỉ người).",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "When Jane feared she'd ______ her keys again, she quickly checked to see if they were _________in her pocket.",
+    "options": [
+      "lost – lose",
+      "lose – loose",
+      "loose – lost",
+      "loose – lose"
+    ],
+    "correct": 1,
+    "explanation": "'lose' (động từ) có nghĩa là làm mất; 'loose' (tính từ) có nghĩa là lỏng, không chặt. Sau 'would' dùng động từ nguyên thể, sau động từ 'to be' dùng tính từ.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "You __________ eat something before the trip. It's a long drive.",
+    "options": [
+      "could",
+      "must",
+      "might",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "'must' diễn tả sự cần thiết, khuyên mạnh mẽ phải làm gì đó vì lý do hợp lý.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "The team’s _______ goal was to win the championship, but they focused on improving their skills instead.",
+    "options": [
+      "original",
+      "originate",
+      "origin",
+      "originality"
+    ],
+    "correct": 0,
+    "explanation": "Cần một tính từ bổ nghĩa cho danh từ 'goal'. 'original' (tính từ) có nghĩa là ban đầu, nguyên thủy.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "I finished my homework yesterday, but I _____________ no energy to do it today.",
+    "options": [
+      "had",
+      "will have",
+      "had had",
+      "have"
+    ],
+    "correct": 3,
+    "explanation": "Dấu hiệu 'today' cho thấy mệnh đề sau dùng thì hiện tại đơn để diễn tả tình trạng ở hiện tại.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "The environmental damage caused by deforestation is _______ through conservation efforts.",
+    "options": [
+      "reversible",
+      "reversibility",
+      "reverse",
+      "reversed"
+    ],
+    "correct": 0,
+    "explanation": "Sau động từ 'to be' cần một tính từ. 'reversible' có nghĩa là có thể khôi phục, có thể đảo ngược lại được.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "The team ___________ the project ahead of schedule, but for the unexpected delays caused by the power outage.",
+    "options": [
+      "completed",
+      "had completed",
+      "would have completed",
+      "will complete"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc câu điều kiện loại 3 rút gọn: 'would have + VpII' diễn tả hành động đáng lẽ đã xảy ra trong quá khứ nhưng đã không xảy ra vì lý do nào đó.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "The city council should implement policies to improve public transportation and encourage __________ to use it more frequently.",
+    "options": [
+      "planners",
+      "commuters",
+      "dwellers",
+      "employers"
+    ],
+    "correct": 1,
+    "explanation": "'commuters' là những người thường xuyên đi lại, sử dụng phương tiện giao thông công cộng.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "They were surprised to see him __________ in such a high-pressure situation during the interview.",
+    "options": [
+      "speaking",
+      "to speak",
+      "speak",
+      "spoken"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc 'see sb do sth' dùng để diễn tả thấy toàn bộ hành động diễn ra từ đầu đến cuối.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "To participate in the competition, all participants must ________ to the safety guidelines provided by the organizers.",
+    "options": [
+      "meet the criteria",
+      "perform at their best",
+      "overlook the details",
+      "take on responsibility"
+    ],
+    "correct": 0,
+    "explanation": "'meet the criteria' có nghĩa là đáp ứng các tiêu chuẩn, yêu cầu đề ra.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Find the word with the CLOSEST meaning to the underlined word: The manager emphasized the importance of teamwork to improve overall performance.",
+    "options": [
+      "minimized",
+      "highlighted",
+      "questioned",
+      "ignored"
+    ],
+    "correct": 1,
+    "explanation": "'emphasized' có nghĩa là nhấn mạnh, làm nổi bật, đồng nghĩa với 'highlighted'.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Find the word with the CLOSEST meaning to the underlined word: The professor provided a comprehensive overview of the historical events that shaped modern society.",
+    "options": [
+      "narrow",
+      "detailed",
+      "confusing",
+      "brief"
+    ],
+    "correct": 1,
+    "explanation": "'comprehensive' có nghĩa là toàn diện, bao quát mọi mặt, gần nghĩa nhất với 'detailed' (chi tiết).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Find the word with the OPPOSITE meaning to the underlined phrase: He’s not the type to follow the bandwagon, preferring to make decisions based on his own values.",
+    "options": [
+      "mainstream",
+      "trendsetter",
+      "rebel",
+      "enthusiast"
+    ],
+    "correct": 2,
+    "explanation": "'follow the bandwagon' có nghĩa là chạy theo xu hướng, trái nghĩa với 'rebel' (người phản kháng, không theo lối mòn).",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Find the word with the OPPOSITE meaning to the underlined word: The new software has streamlined the process, making it faster and more efficient.",
+    "options": [
+      "slowed down",
+      "improved",
+      "simplified",
+      "expedited"
+    ],
+    "correct": 0,
+    "explanation": "'streamlined' có nghĩa là làm cho suôn sẻ, nhanh chóng, hiệu quả, trái nghĩa với 'slowed down' (làm chậm lại).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Complete the dialogue: Anna: How do you feel about talking to strangers? Lucy: __________",
+    "options": [
+      "I prefer not",
+      "I'm nervous and shy.",
+      "I don't like talking to strangers.",
+      "It depends what types people are."
+    ],
+    "correct": 3,
+    "explanation": "Câu trả lời D thể hiện sự linh hoạt, phù hợp nhất với câu hỏi hỏi về cảm nhận chung.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Complete the dialogue: Mark: I'm so sorry I couldn't make it to your party. Linda: ____________",
+    "options": [
+      "That's okay, but I missed you.",
+      "It's a shame you couldn't come.",
+      "I was disappointed that you didn't show up.",
+      "You must be present no matter what happens."
+    ],
+    "correct": 0,
+    "explanation": "Câu trả lời A thể hiện sự thông cảm, nhẹ nhàng và thân thiện nhất.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Complete the dialogue: Micheal: Shall we go out or stay at home? Ian: __________",
+    "options": [
+      "Which would you rather do yourself?",
+      "The first sounds interesting.",
+      "I don't care what you choose.",
+      "Don’t force me to make a choice."
+    ],
+    "correct": 1,
+    "explanation": "Câu trả lời B chọn ra một phương án và thể hiện thái độ tích cực, phù hợp với hội thoại.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Complete the dialogue: Peter: “I thought your baseball game was a lot better, Phil”. Phil: __________",
+    "options": [
+      "You’ve got to be kidding. I thought it was bad.",
+      "Yes, please. Just a little.",
+      "Thank you. I’d love to.",
+      "No, thanks. I think I can do."
+    ],
+    "correct": 0,
+    "explanation": "Câu trả lời A thể hiện sự bất ngờ và ý kiến trái ngược của Phil so với lời khen của Peter, phù hợp logic hội thoại.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Arrange the sentences: a. I think I’ll try the pasta then. b. What do you recommend from the menu? c. I had the steak last time, and it was great. d. The pasta is a popular choice.",
+    "options": [
+      "b-d-c-a",
+      "d-c-a-b",
+      "a-b-c-d",
+      "c-a-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Trình tự logic: Hỏi gợi ý → Được gợi ý món → Nói về trải nghiệm trước → Quyết định chọn món.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Arrange the sentences: a. This strategy has proven effective for many brands. b. What are some benefits of using social media for marketing? c. It allows businesses to engage directly with their customers. d. Companies can reach a wider audience through targeted ads.",
+    "options": [
+      "b-d-c-a",
+      "d-c-b-a",
+      "b-a-d-c",
+      "c-b-a-d"
+    ],
+    "correct": 0,
+    "explanation": "Trình tự logic: Hỏi về lợi ích → Nêu lợi ích tiếp cận → Nêu lợi ích tương tác → Kết luận về hiệu quả.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Arrange the sentences: a. I really think you should just show them the insurance bill. b. How will you explain why your project is late? c. That sounds like a good idea. d. I plan to say my computer crashed the night before. e. Of course. Even I can’t let that happen to me. f. I’m worried they won’t believe you.",
+    "options": [
+      "b-d-a-f-c-e",
+      "b-d-f-e-a-c",
+      "b-f-e-d-c-a",
+      "b-d-e-f-a-c"
+    ],
+    "correct": 1,
+    "explanation": "Trình tự logic: Hỏi cách giải thích → Nêu lý do định nói → Lo lắng về sự tin tưởng → Đồng cảm → Đưa ra lời khuyên khác → Đồng ý với lời khuyên.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Arrange the sentences: a. I’m not sure if we should proceed with the current plan or wait until we get more feedback from the client. b. Why don’t we present the initial draft and get their input before making any final decisions? c. That could work, but I’m worried they might expect more polished work at this stage. d. It’s understandable, but we need to involve them early to avoid major changes later. e. I guess you’re right, but we’ll need to manage their expectations carefully so they don’t get the wrong impression. f. Exactly, setting the right expectations is key, and it’ll also give us time to adjust if needed.",
+    "options": [
+      "a-b-f-e-c-d",
+      "a-c-b-d-f-e",
+      "b-c-a-d-e-f",
+      "a-b-d-c-e-f"
+    ],
+    "correct": 3,
+    "explanation": "Trình tự logic: Nêu băn khoăn → Đưa ra gợi ý → Giải thích lý do → Nêu lo ngại khác → Thỏa thuận và lưu ý thêm → Nhấn mạnh ý kiến thống nhất.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Choose the sentence with the CLOSEST meaning: Taking frequent breaks while studying can help improve focus, but it might also extend the time needed to complete tasks.",
+    "options": [
+      "Taking frequent breaks while studying will definitely improve focus without extending the time needed to complete tasks.",
+      "Taking frequent breaks while studying may improve focus but is unlikely to extend the time needed to complete tasks.",
+      "Taking frequent breaks while studying can improve focus, but it might also make tasks take longer to finish.",
+      "Taking frequent breaks while studying is guaranteed to improve focus and shorten the time needed to complete tasks."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C giữ nguyên đầy đủ ý nghĩa và mức độ chắc chắn của câu gốc: có thể cải thiện tập trung nhưng cũng có thể kéo dài thời gian hoàn thành.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Choose the sentence with the CLOSEST meaning: The rise of social media has enabled many businesses to take advantage of digital marketing, but concerns about data privacy grow.",
+    "options": [
+      "As businesses take advantage of digital marketing, worries about data privacy remain.",
+      "Businesses leverage social media, which has diminished concerns about data privacy.",
+      "Companies are taking advantage of digital marketing, raising concerns about data privacy.",
+      "The flexibility of digital marketing has increased, allowing businesses to benefit from it while addressing privacy issues."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án D diễn đạt đầy đủ nhất ý: công nghệ phát triển giúp doanh nghiệp hưởng lợi đồng thời có thể giải quyết vấn đề riêng tư dữ liệu.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Choose the sentence with the CLOSEST meaning: The recipe was too difficult for the chef to complete in under an hour.",
+    "options": [
+      "The recipe was easy enough for the chef to finish in under an hour.",
+      "The chef found the recipe too difficult to complete in under an hour.",
+      "The chef completed the recipe in under an hour because it was difficult.",
+      "The recipe was simple enough for the chef to finish in under an hour."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc 'too...to' có nghĩa là quá... đến mức không thể..., đáp án B diễn đạt lại chính xác ý này.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Choose the sentence with the CLOSEST meaning: The moment the rain stopped, the streets began to fill with people heading to the festival.",
+    "options": [
+      "As soon as the rain stopped, the streets remained empty because everyone stayed inside.",
+      "No sooner had the rain stopped than the streets were filled with people going to the festival.",
+      "No matter when the rain stopped, the streets get crowded with festival-goers.",
+      "People filled the streets to head to the festival only after the rain ended."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc 'No sooner...than' đồng nghĩa với 'The moment/As soon as' diễn tả hành động xảy ra ngay sau hành động khác.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Choose the sentence with the CLOSEST meaning: The lights are off, and no one answered the door. They must not be home.",
+    "options": [
+      "Since no one answered the door and the lights are off, they should have left already.",
+      "The lights are off and the door wasn’t answered, so they can't be home right now.",
+      "The lights are off and no one came to the door, so they must not be home.",
+      "No one answered the door, and the lights are off, so they must have gone to bed."
+    ],
+    "correct": 1,
+    "explanation": "Trong câu phỏng đoán phủ định dùng 'can't' thay vì 'must not', đáp án B diễn đạt chính xác nhất logic phỏng đoán.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Choose the sentence with the CLOSEST meaning: I could either attend the meeting in person or join via video call. I tend to choose the more convenient option.",
+    "options": [
+      "I prefer to attend meetings in person rather than using video calls.",
+      "I usually choose to join meetings through video calls instead of attending in person.",
+      "I always attend meetings via video call, as it’s the easiest option.",
+      "I tend to avoid video calls, opting to attend meetings in person."
+    ],
+    "correct": 1,
+    "explanation": "Cuộc gọi video thuận tiện hơn tham dự trực tiếp, đáp án B diễn đạt chính xác xu hướng lựa chọn của người nói.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Choose the sentence with the CLOSEST meaning: Due to heavy traffic, he arrived late to the event, missing the keynote speech.",
+    "options": [
+      "Arriving late to the event allowed him to miss the keynote speech.",
+      "His late arrival at the event caused him to miss the keynote speech.",
+      "Heavy traffic had no impact on his ability to attend the keynote speech.",
+      "He arrived on time to the event and attended the keynote speech."
+    ],
+    "correct": 1,
+    "explanation": "Câu gốc diễn tả mối quan hệ nguyên nhân - kết quả: đến muộn → bỏ lỡ bài phát biểu, đáp án B diễn đạt lại chính xác.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Choose the sentence with the CLOSEST meaning: Technology has revolutionized communication, making it instantaneous and readily accessible. Nevertheless, excessive use of technology can lead to social isolation.",
+    "options": [
+      "While technology has enhanced communication, it can also contribute to feelings of social disconnection.",
+      "Communication has been transformed by technology, but it is not associated with social isolation.",
+      "Despite the advancements in communication, technology has rendered social interactions more accessible.",
+      "Although technology has made communication immediate, it does not necessarily result in a lack of social interaction."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A giữ nguyên đầy đủ hai mặt của vấn đề: công nghệ cải thiện giao tiếp nhưng cũng có thể gây cô lập xã hội.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Fill in the blank: Many children have music classes when they attend school. ____________. Research has shown that it can improve children's performances in certain subjects.",
+    "options": [
+      "And it is thought that music can help them learn other subjects better",
+      "And which makes them learn other subjects better",
+      "Making them learn other subjects better easily",
+      "And it thought that music can help them learn other subjects better"
+    ],
+    "correct": 0,
+    "explanation": "Cần một câu hoàn chỉnh có cấu trúc đúng. Đáp án A có cấu trúc bị động 'it is thought that' hoàn chỉnh và phù hợp về ngữ pháp.",
+    "passage": "doc26_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Fill in the blank: Research has shown that it can improve children's ____________ in certain subjects.",
+    "options": [
+      "performances",
+      "capacities",
+      "contributions",
+      "determinations"
+    ],
+    "correct": 0,
+    "explanation": "'performances' có nghĩa là thành tích, kết quả học tập, phù hợp nhất với ngữ cảnh môn học.",
+    "passage": "doc26_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Fill in the blank: Moreover, young people who have studied music also seem to get higher scores in other subjects like maths. So it could be that __________.",
+    "options": [
+      "these school subjects connecting in some way",
+      "these school subjects are connected in some way",
+      "students are connected in some way",
+      "it makes it easier to connect in some way"
+    ],
+    "correct": 1,
+    "explanation": "Sau 'that' cần một mệnh đề hoàn chỉnh. Đáp án B diễn đạt ý các môn học có liên quan với nhau, phù hợp logic.",
+    "passage": "doc26_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Fill in the blank: If you are learning the guitar, for example, it can be really exciting when you are able to start _________ your own pieces of music.",
+    "options": [
+      "compose",
+      "composing",
+      "composed",
+      "composes"
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc 'start + V-ing' có nghĩa là bắt đầu làm gì đó.",
+    "passage": "doc26_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Fill in the blank: Maybe your musical knowledge will even open up a great career _____________ for you in the future!",
+    "options": [
+      "road",
+      "way",
+      "path",
+      "route"
+    ],
+    "correct": 2,
+    "explanation": "Cụm từ cố định 'career path' có nghĩa là con đường sự nghiệp.",
+    "passage": "doc26_631_635"
+  },
+  {
+    "id": 636,
+    "question": "What risks are associated with rapid and unplanned urbanization according to paragraph 1?",
+    "options": [
+      "Improved economic growth, increased agricultural output, and cultural exchange.",
+      "Profound social instability, risks to critical infrastructure, potential water crises, and the spread of disease.",
+      "Greater access to technology, enhanced public transportation, and reduced energy consumption.",
+      "Decreased population density, better living conditions, and more green spaces in urban areas."
+    ],
+    "correct": 1,
+    "explanation": "Thông tin được nêu trực tiếp ở đoạn 1: đô thị hóa không theo quy hoạch mang đến rủi ro bất ổn xã hội, cơ sở hạ tầng, khủng hoảng nước và dịch bệnh.",
+    "passage": "doc26_636_640"
+  },
+  {
+    "id": 637,
+    "question": "What is mentioned about employment in paragraph 3?",
+    "options": [
+      "Well-managed cities create employment by fostering innovation through idea exchange.",
+      "Urbanization leads to job creation primarily through environmental sustainability efforts.",
+      "Employment rates decline in cities as urbanization leads to overcrowding and fewer resources.",
+      "While urbanization fosters cultural development, it has little effect on employment rates."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn 3 nêu rõ sự gần gũi và đa dạng người dân tạo ra sự đổi mới và tạo việc làm thông qua trao đổi ý tưởng.",
+    "passage": "doc26_636_640"
+  },
+  {
+    "id": 638,
+    "question": "What is NOT mentioned as one of severe results due to rapid urbanization according to paragraph 4?",
+    "options": [
+      "Socio-economic disparities decrease as population density increases in cities.",
+      "Diseases are caused by people migrating to cities.",
+      "The flow of new citizens puts pressure on healthcare services and environmental qualities.",
+      "Poverty may be a foregone conclusion of unplanned urbanization."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn 4 nêu rõ đô thị hóa làm trầm trọng thêm sự chênh lệch kinh tế - xã hội, không phải làm giảm.",
+    "passage": "doc26_636_640"
+  },
+  {
+    "id": 639,
+    "question": "What does the word “that\" in paragraph 4 refer to?",
+    "options": [
+      "urban expansion",
+      "socio-economic disparities",
+      "disease",
+      "unsanitary conditions"
+    ],
+    "correct": 3,
+    "explanation": "Đại từ quan hệ 'that' thay thế cho cụm từ đứng trước nó là 'unsanitary conditions' (điều kiện mất vệ sinh).",
+    "passage": "doc26_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Which of the following would the author most likely support?",
+    "options": [
+      "Rapid urbanization should be encouraged without any planning to foster economic growth.",
+      "Addressing the challenges of rapid urbanization requires a comprehensive approach involving insurance mechanisms.",
+      "Urbanization has no significant impact on infrastructure and social stability in developing countries.",
+      "The risks associated with urbanization can be ignored as they do not affect overall development."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn cuối nêu rõ các rủi ro có thể được quản lý hoặc chuyển giao thông qua cơ chế bảo hiểm, cho thấy cần có cách tiếp cận toàn diện.",
+    "passage": "doc26_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Which of the following best paraphrases the sentence: \"Make no mistake, in our high-paced and digitally connected economies, the experience gap is driving markets, fast.\"?",
+    "options": [
+      "In today's fast-moving and digitally linked economies, the experience gap is rapidly influencing market trends.",
+      "It is essential to acknowledge that while advancements in technology enhance experiences, markets still depend significantly on existing consumer expectations in our fast-paced economies.",
+      "The experience gap has little impact on the rapidly changing markets of our digital economies.",
+      "Fast-paced economies may overlook the importance of leveraging diverse consumer experiences to effectively drive market dynamics."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A diễn đạt lại chính xác ý: khoảng cách trải nghiệm đang tác động mạnh mẽ đến thị trường trong nền kinh tế hiện đại.",
+    "passage": "doc26_641_645"
+  },
+  {
+    "id": 642,
+    "question": "What does the word “them” in paragraph 1 refer to?",
+    "options": [
+      "brands",
+      "economies",
+      "customers",
+      "markets"
+    ],
+    "correct": 2,
+    "explanation": "Câu gốc: 'As customers choose brands based on how they make them feel' → 'them' ở đây chỉ 'customers'.",
+    "passage": "doc26_641_645"
+  },
+  {
+    "id": 643,
+    "question": "According to paragraph 2, what is true about Instagram and Twitter in the stated instance?",
+    "options": [
+      "They are the one and only companies providing such revolutionary services.",
+      "Prior to their advent, there were already several competitors in the field.",
+      "They were the trailblazers for the experience-oriented marketing strategy.",
+      "Their reputation famously preceded even the 4th Industrial Revolution."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn 2 nêu rõ 'They were pioneers' → họ là những người tiên phong trong việc xây dựng trải nghiệm mới.",
+    "passage": "doc26_641_645"
+  },
+  {
+    "id": 644,
+    "question": "What does the phrase “stepping stone” in paragraph 4 mean?",
+    "options": [
+      "An important clue to understanding something that is challenging or puzzling.",
+      "An asset or possession prized as being the best of a group of similar things.",
+      "A person who travels without settling down for any significant period of time",
+      "An action or event that helps one to make progress towards a specified goal."
+    ],
+    "correct": 3,
+    "explanation": "'stepping stone' có nghĩa là bước đệm, thứ giúp tiến gần hơn đến mục tiêu.",
+    "passage": "doc26_641_645"
+  },
+  {
+    "id": 645,
+    "question": "What does the passage mainly discuss?",
+    "options": [
+      "The importance of experience to competitive advantage.",
+      "Businesses are unwilling to disrupt themselves.",
+      "A far-reaching cultural transformation.",
+      "Knowledge drives behavior, loyalty, satisfaction."
+    ],
+    "correct": 0,
+    "explanation": "Toàn bài xoay quanh chủ đề trải nghiệm khách hàng là yếu tố then chốt tạo ra lợi thế cạnh tranh cho doanh nghiệp.",
+    "passage": "doc26_641_645"
+  },
+  {
+    "id": 646,
+    "question": "You’re attending a new cooking class with people you don’t know. The chef asks for a volunteer to demonstrate a technique. You want to get involved but feel a little apprehensive. What can you say?",
+    "options": [
+      "I have some ideas about this technique, but I’m not confident they’re correct.",
+      "I think everyone is doing it wrong; let me show you how it’s done.",
+      "Could someone else go ahead of me?",
+      "I’d like to give it a try, but I’m a bit unsure of my skills."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án D thể hiện sự mong muốn tham gia đồng thời thừa nhận sự thiếu tự tin một cách trung thực và lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "You are at a community event, and a group is excitedly discussing their favorite vacation destinations. You have a different opinion about a popular tourist spot but want to join the conversation. What can you say to contribute?",
+    "options": [
+      "I have a different perspective on that destination.",
+      "You’re all wrong; that place isn’t worth visiting.",
+      "I don’t travel much, so I can’t really comment.",
+      "Can we talk about something else? Traveling isn’t really my thing."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A thể hiện sự tôn trọng người khác trong khi vẫn đưa ra quan điểm riêng một cách xây dựng.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Which of the following statements about a restaurant can be considered a fact?",
+    "options": [
+      "The restaurant has the best food in the city.",
+      "The restaurant is located on 5th Avenue.",
+      "The restaurant offers the most authentic cuisine.",
+      "The restaurant has a welcoming atmosphere."
+    ],
+    "correct": 1,
+    "explanation": "Sự thật là thông tin khách quan có thể xác minh được. Vị trí cụ thể là sự thật, các lựa chọn khác đều là nhận định chủ quan.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "When you place a cold glass of water outside on a hot, humid day, droplets of water form on the outside of the glass. What is the most likely cause of this phenomenon?",
+    "options": [
+      "The water from inside the glass seeps through to the outside.",
+      "The glass is absorbing moisture from the air.",
+      "The humidity in the air is turning into water on the glass.",
+      "Water vapor in the air is condensing on the cold surface of the glass."
+    ],
+    "correct": 3,
+    "explanation": "Đây là hiện tượng ngưng tụ: hơi nước trong không khí gặp bề mặt lạnh sẽ chuyển thành thể lỏng.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Which of the following situations best exemplifies \"sympathy,\" where someone expresses understanding and compassion for another person's feelings or situation?",
+    "options": [
+      "John hears about his colleague's recent loss and sends a text saying he’s available to talk if needed.",
+      "John notices a coworker struggling with a project and offers to help without acknowledging their feelings.",
+      "John feels sorry for a coworker who is going through a tough time but does not reach out to them.",
+      "John avoids talking about his colleague's loss to prevent making them uncomfortable."
+    ],
+    "correct": 0,
+    "explanation": "Sự đồng cảm bao gồm việc thể hiện sự thấu hiểu và sẵn sàng hỗ trợ, đáp án A minh họa đầy đủ nhất điều này.",
+    "passage": null
+  }
+]

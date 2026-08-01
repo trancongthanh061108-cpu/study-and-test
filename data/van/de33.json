@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Len lỏi",
+      "Luồn lách",
+      "Len lách",
+      "Chen chúc"
+    ],
+    "correct": 3,
+    "explanation": "Len lỏi, luồn lách, len lách đều chỉ hành động di chuyển khéo léo, luồn qua những khoảng trống nhỏ. Chen chúc chỉ tình trạng đông đúc, chật chội, không mang ý nghĩa về sự di chuyển khéo léo. Vậy từ khác nhóm là chen chúc.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà loại từ của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Đắn đo",
+      "Đong đếm",
+      "Đủng đỉnh",
+      "Đèm đẹp"
+    ],
+    "correct": 1,
+    "explanation": "Đắn đo, đủng đỉnh, đèm đẹp đều là từ láy. Đong đếm là từ ghép vì cả hai tiếng \"đong\" và \"đếm\" đều có nghĩa. Vậy từ khác nhóm là đong đếm.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Khước từ",
+      "Thoái thác",
+      "Từ chối",
+      "Chối bỏ"
+    ],
+    "correct": 3,
+    "explanation": "Khước từ, thoái thác, từ chối đều có nghĩa là không nhận hoặc từ chối một điều gì đó đang được đề nghị/yêu cầu. Chối bỏ mang ý nghĩa không thừa nhận hoặc từ bỏ một điều gì đó vốn dĩ có quan hệ với mình. Vậy từ khác nhóm là chối bỏ.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Tu bổ",
+      "Tu sửa",
+      "Khắc phục",
+      "Sửa chữa"
+    ],
+    "correct": 2,
+    "explanation": "Tu bổ, tu sửa, sửa chữa đều mang nghĩa cải thiện hoặc sửa lại một vật/công trình để tốt hơn. Khắc phục mang ý nghĩa giải quyết vấn đề/khó khăn, không nhất thiết liên quan đến sửa chữa vật chất trực tiếp. Vậy từ khác nhóm là khắc phục.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Thị chính",
+      "Thị thực",
+      "Chứng nhận",
+      "Công chứng"
+    ],
+    "correct": 0,
+    "explanation": "Thị thực, chứng nhận, công chứng đều liên quan đến thủ tục hành chính/giấy tờ pháp lý, dùng để xác nhận hoặc chứng thực thông tin. Thị chính chỉ công việc quản lý hành chính đô thị, không liên quan trực tiếp đến việc chứng thực giấy tờ. Vậy từ khác nhóm là thị chính.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrong lúc chúng ta chờ đợi nhiều nghiên cứu hơn nữa để hiểu rõ về khủng hoảng vi nhựa, việc _____ sử dụng đồ nhựa luôn là thượng sách để giảm phát thải _____ ra môi trường.",
+    "options": [
+      "hạn chế/ độc hại",
+      "từ chối/ vi nhựa",
+      "giảm/ vi nhựa",
+      "cấm/ độc hại"
+    ],
+    "correct": 2,
+    "explanation": "Vị trí thứ nhất cần từ mang tính hạn chế sử dụng đồ nhựa (không thể \"từ chối\" hay \"cấm\" hoàn toàn). Vị trí thứ hai cần \"vi nhựa\" vì vế trước đã nhắc \"khủng hoảng vi nhựa\". Vậy đáp án là giảm/ vi nhựa.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nViệc đi lại giữa các quốc gia, các châu lục ngày càng mở rộng như hiện nay một mặt tạo điều kiện _____ các hoạt động giao thương, du lịch ngày càng thuận lợi; mặt khác nó cũng khiến cho hoạt động mua bán người ngày càng trở nên _____ và phức tạp, khó đối phó.",
+    "options": [
+      "thúc đẩy/ tinh vi",
+      "phát triển/ đa dạng",
+      "củng cố/ căng thẳng",
+      "nâng cao/ phổ biến"
+    ],
+    "correct": 0,
+    "explanation": "\"Thúc đẩy\" phù hợp với việc khuyến khích giao thương; \"tinh vi\" mô tả sự phức tạp, khó phát hiện trong hoạt động tội phạm mua bán người. Vậy đáp án là thúc đẩy/ tinh vi.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nKhả năng hấp thụ carbon dioxide của các hệ sinh thái _____ phụ thuộc vào các nhân tố đa dạng thường xung đột với nhau, bao gồm nguồn cung cấp trầm tích, độ dốc bờ biển, phạm vi thủy triều, chế độ sóng và sự thay đổi mực _____.",
+    "options": [
+      "rừng/ nước biển",
+      "sa mạc/ nước sông",
+      "nước ngọt/ nước sông",
+      "ven biển/ nước biển"
+    ],
+    "correct": 3,
+    "explanation": "Các từ khóa trầm tích, bờ biển, thủy triều, sóng cho thấy hệ sinh thái liên quan là hệ sinh thái ven biển và mực nước biển. Vậy đáp án là ven biển/ nước biển.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNgành sản xuất chế tạo ô tô và máy nông nghiệp là hai ngành _____ trong nền _____ của nhiều quốc gia.",
+    "options": [
+      "duy nhất/ kinh tế",
+      "then chốt/ khoa học",
+      "xương sống/ công nghiệp",
+      "chủ đạo/ chính trị"
+    ],
+    "correct": 2,
+    "explanation": "\"Xương sống\" nhấn mạnh vai trò quan trọng của hai ngành trong nền kinh tế; \"công nghiệp\" là lĩnh vực chính mà hai ngành này thuộc về. Vậy đáp án là xương sống/ công nghiệp.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNhân dân ta biết bảo tồn và phát huy những tinh hoa của văn hóa _____, nhưng cũng biết hấp thu có chọn lọc những nhân tố văn hóa _____ để làm phong phú cho nền văn hóa dân tộc và tăng thêm tiềm lực cho mọi mặt của đất nước.",
+    "options": [
+      "cổ truyền/ ngoại lai",
+      "truyền thống/ tiến bộ",
+      "hiện đại/ truyền thống",
+      "ngoại lai/ cổ truyền"
+    ],
+    "correct": 0,
+    "explanation": "\"Bảo tồn, phát huy\" phù hợp với \"cổ truyền\" (thứ đã có sẵn từ lâu đời); \"hấp thu có chọn lọc\" phù hợp với \"ngoại lai\" (thứ đến từ bên ngoài). Vậy đáp án là cổ truyền/ ngoại lai.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nTrên cơ sở văn minh nông nghiệp và xóm làng, nhân dân ta đã tiếp thu một số yếu tố văn hóa Trung Quốc, Ấn Độ và vùng biển phương Nam như giống cây trồng mới, kĩ thuật nông nghiệp mới, kĩ thuật thủ công và cả một số tập quán trong ăn, mặc, ở, chữ viết,…",
+    "options": [
+      "tiếp thu",
+      "thủ công",
+      "chữ viết",
+      "cây trồng"
+    ],
+    "correct": 2,
+    "explanation": "\"Chữ viết\" không phù hợp trong chuỗi liệt kê \"một số tập quán\" vì tập quán liên quan đến thói quen, phong tục đời sống, còn chữ viết thuộc lĩnh vực ngôn ngữ, giáo dục. Cần bỏ từ \"chữ viết\".",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNhìn ở phương diện xã hội, nông dân, nông nghiệp lúa nước và xóm làng là bốn nhân tố cơ bản của nền văn minh thôn dã Việt Nam.",
+    "options": [
+      "thôn dã",
+      "bốn",
+      "cơ bản",
+      "lúa nước"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn liệt kê ba nhân tố: nông dân, nông nghiệp lúa nước, xóm làng. Vì vậy chữ \"bốn\" là sai, cần sửa thành \"ba\".",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nVì ý nghĩa là tiếng nói trực tiếp của ý thức xã hội, bị chi phối bởi tâm lý xã hội, văn chương còn là mô hình nghệ thuật về cuộc đời.",
+    "options": [
+      "cuộc đời",
+      "xã hội",
+      "tiếng nói",
+      "Vì"
+    ],
+    "correct": 3,
+    "explanation": "Từ \"Vì\" chỉ mối quan hệ nguyên nhân - kết quả, nhưng câu sau không phải là hệ quả của câu trước; đây là mối quan hệ bổ sung, nên cần thay bằng \"Ngoài\" hoặc \"Bên cạnh\".",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNhờ chủ trương mở cửa, tăng cường giao thương mà nhiều lý thuyết, trường phái của văn học thế giới, nhất là các nước phương Tây đã được dịch và giới thiệu ở nước ta.",
+    "options": [
+      "chủ trương",
+      "giao thương",
+      "trường phái",
+      "nước ta"
+    ],
+    "correct": 1,
+    "explanation": "\"Giao thương\" chỉ sự giao lưu buôn bán (kinh tế), không phù hợp khi câu văn đề cập đến lĩnh vực văn hóa/văn học. Cần sửa thành \"giao lưu\".",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nDòng văn xuôi trữ tình đã phát triển trong giai đoạn 1930 – 1945 với các cây bút tiêu biểu như Thạch Lam, Kim Lân, Thanh Tịnh, Hồ Dzếnh.",
+    "options": [
+      "cây bút",
+      "Kim Lân",
+      "Hồ Dzếnh",
+      "1930 - 1945"
+    ],
+    "correct": 1,
+    "explanation": "Kim Lân không phải nhà văn tiêu biểu của dòng văn xuôi trữ tình giai đoạn 1930 – 1945, ông nổi tiếng với các tác phẩm sau 1945 về đề tài nông thôn. Cần thay bằng Nhất Linh.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Lí giải nguyên nhân khiến Phần Lan trở thành quốc gia có nền giáo dục tốt nhất.",
+      "Khẳng định ý nghĩa của thơ ca trong việc bồi đắp tâm hồn của học sinh.",
+      "Trình bày sự khác biệt trong quan điểm giáo dục giữa Phần Lan và Mỹ.",
+      "Cho thấy tác dụng của bộ môn Ngữ văn trong việc giáo dục học sinh."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích tập trung trình bày sự khác biệt trong quan điểm giáo dục giữa Phần Lan và Mỹ, từ đó giải thích vì sao Phần Lan thành công, nhấn mạnh vào hạnh phúc và sự phát triển tâm hồn học sinh.",
+    "passage": "passage_pha_lan_my"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Xác định phương thức biểu đạt chính của đoạn trích trên?",
+    "options": [
+      "Tự sự",
+      "Miêu tả",
+      "Thuyết minh",
+      "Nghị luận"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích phân tích, so sánh và đưa ra lập luận về quan điểm giáo dục giữa Phần Lan và Mỹ, thể hiện rõ phương thức nghị luận.",
+    "passage": "passage_pha_lan_my"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Bí quyết nào đã giúp nền giáo dục Phần Lan đạt được vị trí dẫn đầu thế giới?",
+    "options": [
+      "Học sinh được dành nhiều thời gian để khám phá.",
+      "Học sinh được khuyến khích chơi nhiều hơn học.",
+      "Học sinh được thỏa thích vui chơi.",
+      "Học sinh ưu tiên học từ cuộc sống hơn trong sách vở."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích đề cập: bọn trẻ không có bài tập về nhà, được dành nhiều thời gian hơn để \"làm những đứa trẻ\" - tức là có thời gian khám phá thế giới.",
+    "passage": "passage_pha_lan_my"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Đâu là cách hiểu đúng về câu nói của nhà văn Nguyễn Nhật Ánh: \"Thơ ca là thứ vô cùng phù phiếm nhưng vô cùng thiêng liêng\"?",
+    "options": [
+      "Thơ ca không chỉ là một hình thức nghệ thuật mà còn là một phương tiện để truyền đạt giá trị văn hóa, tư tưởng và cảm xúc của con người.",
+      "Thơ ca mang trong mình nhiều trạng thái đối lập mà con người khó có thể cắt nghĩa được.",
+      "Thơ ca không mang lại những lợi ích thiết thực ngay lập tức nhưng lại mang những giá trị lâu dài khiến người khác phải tôn thờ.",
+      "Thơ ca đóng vai trò cốt yếu trong việc giáo dục, hướng con người vươn đến những giá trị chân – thiện – mỹ."
+    ],
+    "correct": 2,
+    "explanation": "\"Phù phiếm\" chỉ sự viển vông, không thiết thực ngay lập tức; \"thiêng liêng\" thể hiện giá trị sâu sắc, lâu dài. Vậy cách hiểu đúng là thơ ca không mang lại lợi ích thiết thực ngay lập tức nhưng mang giá trị lâu dài đáng tôn thờ.",
+    "passage": "passage_pha_lan_my"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Theo đoạn trích, điều gì được coi là yếu tố quyết định trong việc hình thành một nền giáo dục hiệu quả?",
+    "options": [
+      "Hệ thống kiểm tra hiệu quả và cơ sở vật chất đảm bảo.",
+      "Khuyến khích học sinh dành thời gian cho việc nghiên cứu.",
+      "Sự phát triển tâm hồn và cảm giác hạnh phúc của học sinh.",
+      "Kết hợp giữa sự phát triển trí tuệ và cảm xúc."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích đề cập: \"Ở trường học, hạnh phúc của học sinh được đặt lên hàng đầu\" cho thấy tâm hồn và cảm giác hạnh phúc là yếu tố quyết định.",
+    "passage": "passage_pha_lan_my"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Theo đoạn trích, điều gì là đặc điểm nổi bật của mạng lưới các quy trình phần mềm hiện nay?",
+    "options": [
+      "Chúng có khả năng phân tích một lượng lớn dữ liệu để đưa ra dự đoán và quyết định.",
+      "Chúng có khả năng tự học và phát triển từ các hành động của con người.",
+      "Chúng có khả năng tương tác với người dùng thông qua các giao diện tự nhiên.",
+      "Chúng có khả năng đưa ra quyết định dựa trên phân tích dữ liệu và các thuật toán."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nhấn mạnh AI hoạt động theo cách con người không trực tiếp tạo ra, \"vừa định hình vừa học từ các hành động của chúng ta\", cho thấy khả năng tự học và phát triển.",
+    "passage": "passage_ai_kissinger"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Thành phần biệt lập (in đậm) trong đoạn trích trên đem lại tác dụng gì?",
+    "options": [
+      "Giải thích và mở rộng ý nghĩa cho cụm từ xuất hiện phía trước.",
+      "Bổ sung thông tin cho cụm từ xuất hiện phía trước.",
+      "Nhấn mạnh tầm quan trọng của vấn đề.",
+      "Kết nối các khía cạnh khác nhau mà đoạn văn đề cập."
+    ],
+    "correct": 1,
+    "explanation": "Thành phần biệt lập phụ chú \"nhà cửa, giao thông vận tải, phân phối tin tức, thị trường tài chính, hoạt động quân sự\" có tác dụng bổ sung thông tin cho cụm từ \"các khía cạnh trong cuộc sống hằng ngày\".",
+    "passage": "passage_ai_kissinger"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Tác giả sử dụng biện pháp nghệ thuật nào khi nói về công nghệ AI?",
+    "options": [
+      "Hoán dụ",
+      "Nhân hóa",
+      "Nói quá",
+      "Tương phản"
+    ],
+    "correct": 1,
+    "explanation": "Tác giả nhân hóa AI như một \"người bạn đồng hành lâu dài\", \"sinh vật có lý trí\", giúp độc giả dễ hình dung sự tương tác giữa con người và công nghệ.",
+    "passage": "passage_ai_kissinger"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Theo nội dung đoạn trích, quy trình hoạt động của AI có thể khiến con người:",
+    "options": [
+      "Không hiểu hết các chương trình AI đang hoạt động.",
+      "Không quản lý được các vấn đề mà AI giải quyết.",
+      "Không tương thích được với một số thuật toán của AI.",
+      "Không kiểm soát được các tư duy của AI."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích đề cập AI hoạt động theo cách con người \"có lẽ không hiểu hết\", cho thấy con người không hiểu hết được các chương trình AI đang hoạt động.",
+    "passage": "passage_ai_kissinger"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Điều gì có thể xảy ra khi ngày càng nhiều phần mềm tích hợp AI được sử dụng trong cuộc sống hàng ngày?",
+    "options": [
+      "Chúng ta sẽ dễ dàng hiểu tất cả các chương trình đang hoạt động.",
+      "AI sẽ làm cho cuộc sống của chúng ta trở nên phức tạp hơn.",
+      "Chúng ta có thể sẽ không nhận thức được cách thức và lý do mà chúng hoạt động.",
+      "Chúng ta sẽ phụ thuộc hoàn toàn vào AI trong mọi quyết định."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nêu: \"chúng ta có thể sẽ không biết chính xác chúng đang làm gì hoặc xác định cái gì hoặc tại sao chúng lại có hiệu quả\", cho thấy con người có thể không nhận thức được cách thức và lý do AI hoạt động.",
+    "passage": "passage_ai_kissinger"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Tác giả quan niệm như thế nào về tình yêu thương trong cuộc sống?",
+    "options": [
+      "Cần nhìn nhận thế giới với một trái tim ấm áp và chan chứa tình yêu thương.",
+      "Con người cần biết cách thức, phương pháp để bày tỏ tình yêu thương.",
+      "Con người sinh ra để yêu thương mọi người và để được mọi người yêu thương.",
+      "Tình yêu thương sẽ trở nên phiền phức nếu con người cho đi không đúng chỗ."
+    ],
+    "correct": 1,
+    "explanation": "Điệp từ \"nói\" được lặp lại nhiều lần (\"tiếng yêu anh nói\", \"tiếng người xưa nói\", \"tiếng yêu ông nói\") nhấn mạnh sự thổ lộ, bày tỏ tình yêu thương, cho thấy con người cần biết cách để thể hiện tình yêu thương.",
+    "passage": "passage_xuan_quynh"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đoạn trích đề cập đến thói xấu nào của con người?",
+    "options": [
+      "Tham lam",
+      "Hiếu danh",
+      "Phán xét",
+      "Tự phụ"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích cho thấy nhiều người khao khát được công nhận là \"nhà thơ\"/\"nhà văn\" thông qua các bài thơ giản đơn, tổ chức sự kiện phô trương mà không có thực lực, thể hiện rõ thói xấu hiếu danh.",
+    "passage": "passage_phong_diep"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Hình ảnh bông hoa trắng lóe sáng dưới ánh mặt trời tượng trưng cho điều gì trong tâm trạng của nhân vật Ăcxinhia?",
+    "options": [
+      "Sự hồi sinh của niềm vui trong cuộc đời.",
+      "Sự đối lập giữa sức sống của thiên nhiên và tuổi già của con người.",
+      "Ký ức về tuổi trẻ và những niềm vui đã qua.",
+      "Sự tuyệt vọng và nỗi buồn về cuộc sống vô nghĩa."
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh bông hoa trắng lóe sáng trong khoảnh khắc ngắn ngủi được liên kết với việc Ăcxinhia nhớ lại tuổi trẻ và cuộc đời mình, gợi lên ký ức về niềm vui hiếm hoi trong cuộc sống.",
+    "passage": "passage_sholokhov"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Phương thức biểu đạt chính trong đoạn thơ trên là gì?",
+    "options": [
+      "Tự sự",
+      "Biểu cảm",
+      "Miêu tả",
+      "Thuyết minh"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn thơ thể hiện cảm xúc sâu sắc của tác giả về mái ngói âm dương, gia đình và những kỷ niệm ấm áp, bộc lộ tình yêu thương và lòng biết ơn đối với cha mẹ - phương thức biểu cảm.",
+    "passage": "passage_ngoc_hanh"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đâu là nhận xét đúng về bi kịch của người trí thức trong đoạn trích trên?",
+    "options": [
+      "Có những ước mơ đẹp đẽ nhưng lại xa rời thực tế.",
+      "Có nhiều khát vọng nhưng trong trạng thái cô đơn, lẻ loi, không tìm được sự đồng cảm từ cộng đồng.",
+      "Có phẩm chất và lí tưởng cao đẹp nhưng bị cuộc sống áo cơm đẩy vào bi kịch.",
+      "Có nhiều cống hiến cho xã hội nhưng lại không được xã hội công nhận."
+    ],
+    "correct": 2,
+    "explanation": "Điền có ước mơ trở thành văn sĩ và sẵn sàng chịu đựng thiếu thốn, nhưng cuối cùng phải đối mặt với thực tế khắc nghiệt, dẫn đến túng thiếu và bi kịch cá nhân - có lí tưởng cao đẹp nhưng bị cuộc sống áo cơm đẩy vào bi kịch.",
+    "passage": "passage_nam_cao"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Tác giả sử dụng yếu tố nào trong việc khắc họa hình ảnh những người đàn bà gánh nước sông?",
+    "options": [
+      "Yếu tố tự sự và miêu tả",
+      "Yếu tố tượng trưng và siêu thực",
+      "Yếu tố tượng trưng và tự sự",
+      "Yếu tố tự sự và siêu thực"
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh \"ngón chân xương xẩu như móng chân gà mái\" mang tính tượng trưng cho sự vất vả; các hình ảnh \"bối tóc vỡ xối xả\", \"bấu vào mây trắng\" mang tính siêu thực, mơ hồ, trừu tượng.",
+    "passage": "passage_quang_thieu"
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đâu là đặc sắc ngôn ngữ nổi bật trong đoạn trích trên?",
+    "options": [
+      "Cách sắp xếp sự kiện mang lại nhịp điệu nhẹ nhàng, êm ái, phản ánh tâm trạng của nhân vật khi hồi tưởng về kỷ niệm ấu thơ.",
+      "Sử dụng biểu tượng đặc sắc, tô đậm văn hóa vùng miền và nét đẹp dân dã.",
+      "Từ ngữ địa phương đặc trưng góp phần làm nổi bật bức tranh cuộc sống chân thực và sống động.",
+      "Các hình ảnh cụ thể đem lại hình dung rõ nét về không gian và những kỉ niệm thân quen."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích sử dụng hàng loạt từ ngữ địa phương đậm chất Nam Bộ như \"bà con\", \"hồi\", \"má\", góp phần làm nổi bật bức tranh cuộc sống chân thực, sống động.",
+    "passage": "passage_chi_hung"
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Nhận xét trên cho thấy đặc điểm nổi bật nào trong phong cách thơ ca của Tố Hữu?",
+    "options": [
+      "Kết hợp giữa lãng mạn và hiện thực, gợi lên chiều sâu suy tư.",
+      "Đậm tính sử thi, tràn đầy niềm tin với tiếng nói trữ tình sâu lắng.",
+      "Hồn hậu, lãng mạn, đầy sáng tạo và tài hoa.",
+      "Triết lý, đậm tính suy tưởng và gắn liền với con đường đấu tranh của dân tộc."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích cho thấy thơ Tố Hữu ca ngợi cách mạng một cách hùng tráng, lạc quan, tạo cảm giác phấn chấn như đi trẩy hội - đậm tính sử thi, tràn đầy niềm tin với tiếng nói trữ tình sâu lắng.",
+    "passage": "passage_dang_khoa"
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Trong đoạn trích trên, người bố chủ yếu đã dạy con bài học về điều gì?",
+    "options": [
+      "Phép lịch sự",
+      "Sự sẻ chia",
+      "Sự tôn trọng",
+      "Lòng bao dung"
+    ],
+    "correct": 2,
+    "explanation": "Người bố nhấn mạnh: \"Những dấu vết của lao động bao giờ cũng đáng tôn trọng\", dạy con về sự tôn trọng lao động và tôn trọng người khác.",
+    "passage": "passage_de_amicis"
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Chủ thể trữ tình trong đoạn thơ trên là ai?",
+    "options": [
+      "Người lính ra trận",
+      "Đồng đội của người lính",
+      "Người mẹ",
+      "Người lính về thăm mẹ"
+    ],
+    "correct": 0,
+    "explanation": "Chủ thể trữ tình được thể hiện qua các hình ảnh: \"tôi đi dưới tre\", \"đường hành quân\", \"cùng tre ra tiền tuyến\" - đó là người lính ra trận.",
+    "passage": "passage_thu_bon"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Giải thích các hiện tượng thiên văn trong vũ trụ liên quan đến Vụ Nổ Lớn.",
+      "Nêu lên tầm quan trọng của Vụ Nổ Lớn trong lịch sử vũ trụ.",
+      "Mô tả quá trình hình thành và phát triển của vũ trụ từ Vụ Nổ Lớn.",
+      "Phân tích sự ảnh hưởng của Vụ Nổ Lớn đối với các hành tinh trong Hệ Mặt Trời."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích trình bày chi tiết về sự hình thành các hạt, các đám mây khí, sự phát triển của thiên hà và Hệ Mặt Trời trong bối cảnh vũ trụ sau Vụ Nổ Lớn.",
+    "passage": "passage_big_bang"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Trong giai đoạn nào của Vụ Nổ Lớn, vũ trụ có nhiệt độ cao đến mức ánh sáng không thể di chuyển?",
+    "options": [
+      "Giai đoạn đàn hồi",
+      "Giai đoạn bùng nổ",
+      "Giai đoạn phôi thai",
+      "Giai đoạn dày đặc"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích nêu: \"Ban đầu, vũ trụ đặc đến nỗi ánh sáng không thể di chuyển xa bên trong nó\", tức là trong giai đoạn dày đặc.",
+    "passage": "passage_big_bang"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Tại sao ánh sáng có thể di chuyển xa hơn trong vũ trụ sau khi nhiệt độ giảm xuống vài nghìn độ?",
+    "options": [
+      "Vì có nhiều nguyên tử hơn",
+      "Vì sự mù mịt tan đi",
+      "Vì vũ trụ co lại",
+      "Vì không khí loãng ra"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nêu: \"Dần dần, sự mù mịt tan đi. Điều này có nghĩa là ánh sáng có thể di chuyển xa hơn\".",
+    "passage": "passage_big_bang"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Điều gì đã xảy ra với các hạt vật chất trong vũ trụ sau khi Vụ Nổ Lớn diễn ra?",
+    "options": [
+      "Chúng tạo thành các hành tinh ngay lập tức",
+      "Chúng bắt đầu kết hợp để tạo thành các nguyên tố nhẹ",
+      "Chúng bị tiêu tan ngay lập tức",
+      "Chúng không tương tác với nhau"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nêu: \"Các hạt lan ra và vũ trụ bắt đầu mở rộng. Theo thời gian, các đám mây dày đặc khí hydro và heli hình thành\" - các hạt kết hợp tạo thành các nguyên tố nhẹ như hydro, heli.",
+    "passage": "passage_big_bang"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Đoạn trích trên thuộc dạng văn bản nào?",
+    "options": [
+      "Văn bản nghị luận",
+      "Văn bản văn học",
+      "Văn bản hành chính",
+      "Văn bản thông tin"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích cung cấp thông tin về Vụ Nổ Lớn, quá trình hình thành vũ trụ, mang tính chất trình bày và giải thích sự kiện - văn bản thông tin.",
+    "passage": "passage_big_bang"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Biện pháp tu từ nào được sử dụng trong câu sau: \"Cái nắng xuân kỳ lạ, không gay gắt đỏ, không nhàn nhạt như nắng chiều hè mà vàng thắm thiết như màu bông sao nhái.\"?",
+    "options": [
+      "So sánh",
+      "Ẩn dụ",
+      "Hoán dụ",
+      "Nhân hóa"
+    ],
+    "correct": 0,
+    "explanation": "Câu văn sử dụng biện pháp so sánh: so sánh màu nắng xuân như màu bông sao nhái.",
+    "passage": "passage_ngoc_tu"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Chi tiết \"Ông Chín không phăng tới nữa.\" sau khi hiểu về hoàn cảnh của Đậm cho thấy điều gì về nhân vật này?",
+    "options": [
+      "Ông là người từng trải, nhạy cảm với nỗi đau của người khác.",
+      "Ông là người sâu sắc, thấu hiểu lẽ đời.",
+      "Ông là người ấm áp, luôn biết cách quan tâm và lắng nghe.",
+      "Ông là người bao dung, luôn tha thứ mọi lỗi lầm của người khác."
+    ],
+    "correct": 0,
+    "explanation": "Ông Chín đã trải qua nhiều thăng trầm nên hiểu được nỗi đau và hoàn cảnh khó khăn của Đậm mà không cần hỏi thêm, không muốn làm tổn thương thêm - thể hiện sự từng trải, nhạy cảm.",
+    "passage": "passage_ngoc_tu"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Đặc điểm của ngôn ngữ nói trong các câu văn sau: \"Con lầm lỡ tới mức phải bỏ nhà đi luôn đó, bác Chín à. Tới lúc ba con buồn rồi chết, má mới rước con về. Bây giờ, có cực khổ thế nào con cũng ráng chịu, miễn sao năm tháng cuối đời má con vui. Mà, chắc bù bi nhiêu cũng không đủ.\" KHÔNG thể hiện ở phương diện nào?",
+    "options": [
+      "Sử dụng từ ngữ mang tính khẩu ngữ",
+      "Sử dụng câu tỉnh lược",
+      "Sử dụng cách phát âm địa phương",
+      "Sử dụng biệt ngữ"
+    ],
+    "correct": 3,
+    "explanation": "Các câu văn sử dụng từ ngữ khẩu ngữ (\"đó\", \"à\", \"Mà\"), câu tỉnh lược, cách phát âm địa phương (\"ba\", \"má\", \"ráng\", \"bi nhiêu\"), nhưng không sử dụng biệt ngữ.",
+    "passage": "passage_ngoc_tu"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Câu văn \"Cô thấy mình giống như cỏ ven đường, người ta đi qua đạp, đi lại đạp vẫn ngoi lên sống, sống cỗi cằn.\" cho thấy điều gì về nhân vật Đậm?",
+    "options": [
+      "Luôn mơ ước về một cuộc sống giản dị, bình yên.",
+      "Sức sống bền bỉ, mãnh liệt của nhân vật.",
+      "Trưởng thành và nhận thức rõ về trách nhiệm của mình.",
+      "Khao khát tìm kiếm sự kết nối với cuộc đời."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh cỏ ven đường tượng trưng cho sự kiên cường, khả năng chịu đựng của Đậm dù bị đạp lên vẫn cố gắng sống sót - phản ánh sức sống mãnh liệt.",
+    "passage": "passage_ngoc_tu"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Giọng điệu nổi bật của đoạn trích là gì?",
+    "options": [
+      "Sôi nổi, hào hứng, vui vẻ",
+      "Trữ tình, lãng mạn, nên thơ",
+      "Chân thành, mộc mạc, dung dị",
+      "Lạnh lùng, điềm đạm, thấu đáo"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nổi bật với giọng điệu chân thành qua lời thoại của ông Chín và Đậm, ngôn ngữ mộc mạc, giản dị, những chi tiết đời thường được miêu tả tự nhiên, dung dị.",
+    "passage": "passage_ngoc_tu"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Xác định chủ đề của bài thơ?",
+    "options": [
+      "Nỗi nhớ quê hương và tình cảm gia đình.",
+      "Quá trình khôn lớn và những mất mát.",
+      "Những kỷ niệm đẹp về thời thơ ấu.",
+      "Tình yêu thương của cha mẹ dành cho con cái."
+    ],
+    "correct": 1,
+    "explanation": "Bài thơ thể hiện nhận thức về việc trưởng thành, những trách nhiệm và nỗi đau kèm theo, với những mất mát như \"tóc mẹ bạc\", \"cha mỏi mòn\" - phản ánh quá trình khôn lớn và những mất mát.",
+    "passage": "passage_huyen_thu"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Hiện tượng rơi chữ trong bài thơ trên nhấn mạnh điều gì?",
+    "options": [
+      "Những khắc nghiệt trên con đường trưởng thành",
+      "Những trải nghiệm quý giá của con người",
+      "Những màu sắc đa dạng của cuộc sống",
+      "Những cảm xúc khó lí giải trong chặng đường lớn lên"
+    ],
+    "correct": 0,
+    "explanation": "Các từ ngữ \"dãi dầu, trầm mặc\" được tác giả cố tình đánh rơi xuống dòng dưới nhằm nhấn mạnh những khó khăn, khắc nghiệt trên con đường trưởng thành.",
+    "passage": "passage_huyen_thu"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Câu thơ \"Nằm trước hiên nhà và học thứ tha cho những ngày lòng mình đầy bão\" thể hiện điều gì?",
+    "options": [
+      "Mong muốn được trở về quá khứ, làm đứa con bé nhỏ của mẹ cha.",
+      "Những trăn trở, băn khoăn trong quá trình trưởng thành của một đứa trẻ.",
+      "Khát khao tìm kiếm sự bình yên trong tâm hồn.",
+      "Nỗi nhớ cồn cào đối với tuổi thơ và quê hương."
+    ],
+    "correct": 2,
+    "explanation": "\"Nằm trước hiên nhà\" gợi cảm giác thân thuộc, yên bình; \"học thứ tha\" thể hiện ý chí muốn chữa lành vết thương nội tâm - khát khao tìm kiếm sự bình yên trong tâm hồn.",
+    "passage": "passage_huyen_thu"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Đâu là từ láy xuất hiện trong bài thơ trên?",
+    "options": [
+      "khoảng không",
+      "dãi dầu",
+      "lấm lem",
+      "mỏi mòn"
+    ],
+    "correct": 1,
+    "explanation": "Chỉ có từ \"dãi dầu\" là từ láy (yếu tố \"dầu\" không có nghĩa liên quan). Các từ khoảng không, lấm lem, mỏi mòn là từ ghép vì các tiếng đều có nghĩa liên quan.",
+    "passage": "passage_huyen_thu"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Hình ảnh cha mẹ trong bài thơ gợi cảm nghĩ về:",
+    "options": [
+      "Sự gắn bó với cuộc đời.",
+      "Thời gian sống của con người.",
+      "Sự đổi thay của thiên nhiên vũ trụ.",
+      "Nét thân quen của không gian sống."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh cha mẹ gắn liền với \"tóc mẹ bạc thêm\", \"vai cha mỏi mòn\" gợi nhắc đến thời gian sống của con người - thời gian khiến con trưởng thành cũng là khi cha mẹ già đi.",
+    "passage": "passage_huyen_thu"
+  }
+]

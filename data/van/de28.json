@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Đợi",
+      "Chờ",
+      "Ngóng",
+      "Trông"
+    ],
+    "correct": 3,
+    "explanation": "Đợi, chờ, ngóng chỉ có một nghĩa là thể hiện sự mong ngóng. Riêng từ trông lại có rất nhiều nghĩa khác ngoài nghĩa mong đợi như \"nhìn\", \"giữ gìn\".",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Vui",
+      "Nhởi",
+      "Nhỡn",
+      "Chơi"
+    ],
+    "correct": 0,
+    "explanation": "Chơi, nhởi, nhỡn đều mang nghĩa chỉ hoạt động giải trí, vui chơi (nhởi, nhỡn là từ địa phương). Riêng từ vui lại chỉ cảm xúc, trạng thái hạnh phúc của con người.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Chu đáo",
+      "Chỉn chu",
+      "Chu tất",
+      "Chu toàn"
+    ],
+    "correct": 1,
+    "explanation": "Chu đáo, chu tất, chu toàn đều chỉ sự cẩn trọng, kỹ lưỡng trong việc hoàn thành một công việc hoặc trách nhiệm nào đó. Riêng từ chỉn chu lại chỉ sự cẩn thận, gọn gàng trong phong cách hoặc hành vi.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Chủ yếu",
+      "Cốt lõi",
+      "Cốt cán",
+      "Cốt yếu"
+    ],
+    "correct": 2,
+    "explanation": "Chủ yếu, cốt lõi, cốt yếu đều nhấn mạnh đến tính quan trọng, trọng tâm của một vấn đề hoặc sự việc. Riêng từ cốt cán lại chỉ người hoặc nhóm người quan trọng, nòng cốt trong một tổ chức.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Cố chấp",
+      "Bảo thủ",
+      "Tụt hậu",
+      "Thủ cựu"
+    ],
+    "correct": 2,
+    "explanation": "Cố chấp, bảo thủ, thủ cựu đều là các từ chỉ tính cách hoặc thái độ cứng nhắc, khó thay đổi. Riêng từ tụt hậu chỉ việc không theo kịp mọi người.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nChúng tôi đã _____ những cuộc trò chuyện này bằng hai máy quay để làm một bộ phim tài liệu ngắn, đồng thời chọn một số phát biểu đặc biệt có ý nghĩa và gợi _____ để đưa vào chương trình.",
+    "options": [
+      "ghi âm/ liên tưởng",
+      "ghi danh/ suy ngẫm",
+      "ghi nhớ/ cảm xúc",
+      "ghi hình/ cảm hứng"
+    ],
+    "correct": 3,
+    "explanation": "Vị trí thứ nhất: máy quay dùng để \"ghi hình\". Vị trí thứ hai: \"cảm hứng\" phù hợp vì phát biểu gợi cảm hứng sẽ có tác dụng truyền động lực và được đưa vào chương trình. Câu hoàn chỉnh: Chúng tôi đã ghi hình những cuộc trò chuyện này bằng hai máy quay để làm một bộ phim tài liệu ngắn, đồng thời chọn một số phát biểu đặc biệt có ý nghĩa và gợi cảm hứng để đưa vào chương trình.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nCông nghệ vốn rất hữu ích, nếu chúng ta _____ được nó. _____ sẽ chẳng lợi lộc gì nếu để công nghệ kiểm soát chúng ta.",
+    "options": [
+      "ngăn ngừa/ Ngược lại",
+      "điều khiển/ Nên",
+      "kiểm soát/ Nhưng",
+      "sử dụng/ Mặc dù"
+    ],
+    "correct": 2,
+    "explanation": "Hai câu có mối quan hệ tương phản, câu đầu chỉ ra ích lợi, câu sau nêu lên tác hại. Từ nối phù hợp là \"Nhưng\". Câu hoàn chỉnh: Công nghệ vốn rất hữu ích, nếu chúng ta kiểm soát được nó. Nhưng sẽ chẳng lợi lộc gì nếu để công nghệ kiểm soát chúng ta.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNhững đứa trẻ _____ thường dễ bị béo phì cũng như mắc phải các vấn đề _____ liên quan đến chứng bệnh này.",
+    "options": [
+      "ăn nhiều/ đời sống",
+      "ít vận động/ sức khỏe",
+      "tăng động/ tâm lý",
+      "thừa cân/ phát triển"
+    ],
+    "correct": 1,
+    "explanation": "Vị trí thứ nhất nêu nguyên nhân dẫn đến béo phì; vị trí thứ hai từ phù hợp nhất liên quan đến béo phì là \"sức khỏe\". Câu hoàn chỉnh: Những đứa trẻ ít vận động thường dễ bị béo phì cũng như mắc phải các vấn đề sức khỏe liên quan đến chứng bệnh này.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\n_____ tình trạng stress cao độ kéo dài là kẻ thù đối với tuổi thọ và sức khỏe thể chất lẫn tinh thần, _____ mức độ stress thấp lại mang đến lợi ích.",
+    "options": [
+      "Mặc dù – nhưng",
+      "Vì - nên",
+      "Hễ - thì",
+      "Không những - mà còn"
+    ],
+    "correct": 0,
+    "explanation": "Hai vế trong câu có mối quan hệ tương phản nên cặp quan hệ từ phù hợp là \"Mặc dù - nhưng\". Câu hoàn chỉnh: Mặc dù tình trạng stress cao độ kéo dài là kẻ thù đối với tuổi thọ và sức khỏe thể chất lẫn tinh thần, nhưng mức độ stress thấp lại mang đến lợi ích.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrong công việc và học tập, nếu người đảm nhiệm _____ lĩnh vực đó, chắc chắn sẽ phải cần đến sự _____ từ người khác.",
+    "options": [
+      "thành thạo/ giúp đỡ",
+      "chủ trì/ thúc đẩy",
+      "chưa thành thạo/ trợ giúp",
+      "bỏ sót/ quan tâm"
+    ],
+    "correct": 2,
+    "explanation": "Người đảm nhiệm công việc mà \"chưa thành thạo\" thì chắc chắn phải cần đến sự \"trợ giúp\" từ người khác. Câu hoàn chỉnh: Trong công việc và học tập, nếu người đảm nhiệm chưa thành thạo lĩnh vực đó, chắc chắn sẽ phải cần đến sự trợ giúp từ người khác.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nDù lấp đầy xung quanh mình những món đồ xa xỉ cỡ nào đi chăng nữa, nếu phong cách sống và tâm hồn nghèo nàn cũng không thể có được sự công bằng.",
+    "options": [
+      "nghèo nàn",
+      "phong cách",
+      "lấp đầy",
+      "công bằng"
+    ],
+    "correct": 3,
+    "explanation": "Câu văn nói về việc con người chú trọng vào hình thức bên ngoài mà không quan tâm đến thế giới bên trong. Từ \"công bằng\" mang nghĩa liên quan đến công lý, bình đẳng, không phù hợp; cần đổi thành \"cân bằng\". Sửa lại câu: Dù lấp đầy xung quanh mình những món đồ xa xỉ cỡ nào đi chăng nữa, nếu phong cách sống và tâm hồn nghèo nàn cũng không thể có được sự cân bằng.",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNghiên cứu trường ca hiện đại nói riêng, truyện hiện đại Việt Nam nói chung đến nay, đã có bề dày với nhiều thành tựu đáng ghi nhận, song các kết quả nghiên cứu cũng đã chạm ngưỡng giới hạn, cần phải vượt qua.",
+    "options": [
+      "bề dày",
+      "giới hạn",
+      "truyện",
+      "vượt qua"
+    ],
+    "correct": 2,
+    "explanation": "\"Trường ca\" không nằm trong truyện mà nằm trong thơ. Cần thay \"truyện\" bằng \"thơ\". Sửa lại câu: Nghiên cứu trường ca hiện đại nói riêng, thơ hiện đại Việt Nam nói chung đến nay, đã có bề dày với nhiều thành tựu đáng ghi nhận, song các kết quả nghiên cứu cũng đã chạm ngưỡng giới hạn, cần phải vượt qua.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNếu sự phát triển bùng nổ của trí tuệ nhân tạo (AI), việc quản trị rủi ro có thể phát sinh từ công nghệ này trở thành một thách thức lớn cho chính phủ nhiều quốc gia, bao gồm cả Việt Nam.",
+    "options": [
+      "quản trị",
+      "chính phủ",
+      "bùng nổ",
+      "Nếu"
+    ],
+    "correct": 3,
+    "explanation": "Câu thiếu vế chỉ hệ quả nếu dùng \"Nếu\", khiến câu bị thiếu ngữ pháp. Cần thay \"Nếu\" bằng \"Với\". Sửa lại câu: Với sự phát triển bùng nổ của trí tuệ nhân tạo (AI), việc quản trị rủi ro có thể phát sinh từ công nghệ này trở thành một thách thức lớn cho chính phủ nhiều quốc gia, bao gồm cả Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nCác nhà khoa học làm việc trên mặt đất có thể nghiên cứu về lịch sử của một ngọn núi lửa bằng cách gián tiếp tới khu vực núi lửa và thu thập dữ liệu.",
+    "options": [
+      "khoa học",
+      "gián tiếp",
+      "lịch sử",
+      "dữ liệu"
+    ],
+    "correct": 1,
+    "explanation": "Để thu thập dữ liệu chính xác, các nhà khoa học phải trực tiếp đến tận nơi. Cần thay \"gián tiếp\" bằng \"trực tiếp\". Sửa lại câu: Các nhà khoa học làm việc trên mặt đất có thể nghiên cứu về lịch sử của một ngọn núi lửa bằng cách trực tiếp tới khu vực núi lửa và thu thập dữ liệu.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNhiều nghiên cứu nhấn mạnh tầm quan trọng của giáo dục tiểu học, coi đây là giai đoạn quan trọng để chuẩn bị cho các em cả kĩ năng nghề nghiệp lẫn kĩ năng sống trong xã hội.",
+    "options": [
+      "xã hội",
+      "nghiên cứu",
+      "tiểu học",
+      "kĩ năng"
+    ],
+    "correct": 2,
+    "explanation": "Tiểu học chủ yếu phát triển kiến thức cơ bản, kĩ năng sống chứ không chuẩn bị kĩ năng nghề nghiệp. Cấp học chuẩn bị kĩ năng nghề nghiệp và kĩ năng sống là trung học phổ thông. Sửa lại câu: Nhiều nghiên cứu nhấn mạnh tầm quan trọng của giáo dục trung học phổ thông, coi đây là giai đoạn quan trọng để chuẩn bị cho các em cả kĩ năng nghề nghiệp lẫn kĩ năng sống trong xã hội.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Theo đoạn trích, cái đẹp của văn hoá có nguồn gốc từ đâu?",
+    "options": [
+      "Từ những giá trị ước vọng của con người.",
+      "Từ sự tích tụ và sáng tạo của các nhà văn hoá.",
+      "Từ sự tương tác giữa con người và môi trường sống.",
+      "Từ những chuẩn mực đạo đức và luân lí của xã hội."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nhấn mạnh rằng cái đẹp trong văn hoá xuất phát từ chính cuộc sống hiện thực, phản ánh cái đẹp của đời sống, chính là sự tương tác giữa con người và môi trường sống - đây là nguồn gốc của cái đẹp trong văn hoá.",
+    "passage": "cai_dep_van_hoa"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Ý nghĩa của cụm từ \"cái đẹp của văn hoá mang tính ước vọng\" trong đoạn trích là gì?",
+    "options": [
+      "Cái đẹp văn hoá là kết quả của sự hoàn thiện và thăng hoa các giá trị cuộc sống.",
+      "Cái đẹp văn hoá thể hiện lí tưởng của con người.",
+      "Cái đẹp văn hoá chỉ tồn tại trong những ước mơ và khát khao của con người.",
+      "Cái đẹp văn hoá mang tính mơ hồ và khó đoán."
+    ],
+    "correct": 1,
+    "explanation": "Cụm từ này nhấn mạnh rằng cái đẹp không chỉ phản ánh cái đẹp hiện thực mà còn thể hiện những khát khao và lí tưởng (ước vọng) của con người.",
+    "passage": "cai_dep_van_hoa"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Theo bài đọc, cái đẹp của văn hoá có đặc điểm nào dưới đây?",
+    "options": [
+      "Mang tính cụ thể cảm tính và là chuẩn mực giá trị của đời sống con người.",
+      "Mang tính toàn diện của bản chất nhân văn và tính lí tưởng nhất định.",
+      "Chỉ phản ánh cái đẹp của hiện thực trong cảm quan của con người.",
+      "Là yếu tố tạo ra sự xung đột giữa cái ác và cái thiện."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích đề cập cái đẹp của văn hoá không chỉ có tính cụ thể cảm tính mà còn là cái đẹp phổ biến, chứa đựng tính phổ quát của bản chất nhân văn và mang tính lí tưởng nhất định.",
+    "passage": "cai_dep_van_hoa"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Theo tác giả, cái đẹp của văn hoá có vai trò gì đối với xã hội?",
+    "options": [
+      "Là công cụ đấu tranh chống lại các hiện tượng tiêu cực trong xã hội.",
+      "Góp phần xây dựng con người và thế giới hài hòa, nhân văn hơn.",
+      "Thúc đẩy sự sáng tạo và truyền cảm hứng cho mọi người.",
+      "Xây dựng môi trường sống tích cực và khuyến khích sự hòa nhập xã hội."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích đề cập đến sự hài hòa và hoàn thiện của con người và thế giới xung quanh, sự phát triển theo hướng nhân văn, nhân đạo - đây là vai trò bao quát nhất của cái đẹp văn hóa đối với xã hội.",
+    "passage": "cai_dep_van_hoa"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Ý chính của đoạn trích trên là gì?",
+    "options": [
+      "Vai trò của cái đẹp đối với đời sống văn hóa.",
+      "Nguồn gốc và tính chất của cái đẹp trong văn hóa.",
+      "Mối quan hệ giữa cái đẹp và văn hóa.",
+      "Sự hình thành và phát triển của cái đẹp trong văn hóa."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích tập trung vào việc cái đẹp trong văn hóa xuất phát từ cuộc sống hiện thực và đề cập đến tính phổ quát, nhân văn, ước vọng của cái đẹp trong văn hóa, cho thấy rõ nguồn gốc và tính chất của cái đẹp.",
+    "passage": "cai_dep_van_hoa"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Đoạn trích được viết theo phong cách ngôn ngữ nào?",
+    "options": [
+      "Báo chí",
+      "Khoa học",
+      "Sinh hoạt",
+      "Chính luận"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích thể hiện quan điểm, lập luận rõ ràng của tác giả về giáo dục, cách diễn đạt súc tích, giàu tính lý luận và thuyết phục đặc trưng cho phong cách ngôn ngữ chính luận.",
+    "passage": "giao_duc_tu_duy_doc_lap"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Theo tác giả, việc dạy chuyên ngành mà không dạy các giá trị sống sẽ dẫn đến điều gì?",
+    "options": [
+      "Con người có thể làm được việc nhưng thiếu nhân cách sống.",
+      "Con người sẽ đạt được mong muốn trong sự nghiệp nhưng không nhận được sự tôn trọng từ người khác.",
+      "Con người có thể sẽ bị thui chột đạo đức.",
+      "Con người khó có thể thành công trên bước đường sự nghiệp của mình."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích trình bày: việc dạy chuyên ngành mà không dạy các giá trị sống có thể khiến con người làm được việc (một cái máy khả dụng) nhưng thiếu nhân cách sống (không thể trở thành con người với đầy đủ phẩm giá).",
+    "passage": "giao_duc_tu_duy_doc_lap"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Biện pháp so sánh trong đoạn văn trên làm nổi bật điều gì?",
+    "options": [
+      "Cho thấy chuyên môn là một phần quan trọng trong giáo dục.",
+      "Nhấn mạnh sự thiếu sót trong việc giáo dục chỉ tập trung vào chuyên môn.",
+      "Khẳng định tầm quan trọng của việc trau dồi cả chuyên môn và đạo đức cho học sinh.",
+      "Làm nổi bật sự tương đồng của chuyên môn và đạo đức trong quá trình giáo dục."
+    ],
+    "correct": 1,
+    "explanation": "Việc so sánh con người với cái máy và với con chó được huấn luyện tốt có tác dụng làm nổi bật sự khác biệt giữa một con người chỉ biết làm việc mà không có nhân cách với một con người toàn diện, qua đó nhấn mạnh sự thiếu sót trong việc giáo dục khi chỉ tập trung vào chuyên môn.",
+    "passage": "giao_duc_tu_duy_doc_lap"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Đoạn trích cho rằng tất cả đời sống văn hóa và cả những tinh hoa của các ngành khoa học chuyên biệt đều phụ thuộc vào yếu tố nào?",
+    "options": [
+      "Lối tư duy phê phán độc lập.",
+      "Tính chuyên ngành hóa cao.",
+      "Nhân tính của con người.",
+      "Khả năng ghi nhớ và nắm bắt kiến thức."
+    ],
+    "correct": 2,
+    "explanation": "Cụm từ \"tinh thần ấy\" nhắc đến yếu tố \"humanities\" được hiểu là nhân tính của con người - tác giả cho rằng chính tấm lòng nhân từ của con người là yếu tố quan trọng ảnh hưởng tới tất cả đời sống văn hóa và tinh hoa khoa học chuyên biệt.",
+    "passage": "giao_duc_tu_duy_doc_lap"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của đoạn trích?",
+    "options": [
+      "Giáo dục cần phát triển lối tư duy phê phán độc lập.",
+      "Rèn luyện phẩm chất con người cũng quan trọng như củng cố kiến thức chuyên ngành.",
+      "Sự tương tác tích cực giữa giáo viên và học sinh là một yếu tố quan trọng trong truyền thụ văn hóa.",
+      "Giáo dục không nên chạy theo thành tích."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nêu rõ rằng chỉ dạy kiến thức chuyên ngành mà không chú trọng đến phẩm chất sẽ biến con người thành cỗ máy khả dụng nhưng thiếu phẩm giá. Do đó, việc rèn luyện phẩm chất con người được tác giả đánh giá quan trọng hơn việc chỉ đào tạo chuyên môn, chứ không phải \"quan trọng như\" (ngang bằng).",
+    "passage": "giao_duc_tu_duy_doc_lap"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nBiện pháp liệt kê trong đoạn trích trên có tác dụng gì?",
+    "options": [
+      "Ca ngợi sự sáng tạo của các điệu múa dân gian Thái.",
+      "Nhấn mạnh tính phổ biến của các điệu múa dân gian Thái.",
+      "Cho thấy tình cảm yêu mến của cộng đồng đối với các điệu múa dân gian Thái.",
+      "Làm nổi bật sự đa dạng của các điệu múa dân gian Thái."
+    ],
+    "correct": 3,
+    "explanation": "Biện pháp liệt kê đã nêu rõ các thể loại và vũ điệu múa dân gian Thái như múa nón, múa quạt, múa chai, múa sạp, xòe vòng. Qua đó, biện pháp này giúp làm nổi bật sự đa dạng và phong phú của các điệu múa dân gian Thái.",
+    "passage": "mua_dan_gian_thai"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nNhà báo Nguyễn Tuấn Anh định nghĩa như thế nào về thương hiệu cá nhân?",
+    "options": [
+      "Là một hành trình tạo dựng giá trị cho bản thân và lan tỏa giá trị đó ra cộng đồng.",
+      "Là những điều về mình còn đọng lại trong tâm trí người khác.",
+      "Là cách mỗi người tự xác định giá trị bản thân mình.",
+      "Là cách mỗi người tự nâng cao giá trị bản thân mình."
+    ],
+    "correct": 1,
+    "explanation": "Câu văn khẳng định rõ ràng thương hiệu cá nhân nằm ở việc những gì người khác nhắc đến mình, nhớ đến mình, nghĩa là những điều về mình còn đọng lại trong tâm trí người khác.",
+    "passage": "thuong_hieu_ca_nhan"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nBiện pháp tu từ nào được sử dụng trong câu \"Hát đắm say cho đứt ruột gan người\"?",
+    "options": [
+      "So sánh",
+      "Nhân hóa",
+      "Phóng đại",
+      "Hoán dụ"
+    ],
+    "correct": 2,
+    "explanation": "Câu thơ nổi bật với biện pháp phóng đại: hát đến \"đứt ruột gan\". Biện pháp phóng đại này nhằm làm nổi bật sự đắm say, tha thiết của lời hát, tạo ra một ấn tượng mạnh mẽ về khả năng chạm đến cảm xúc sâu sắc của con người.",
+    "passage": "hoi_lim"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nHình ảnh thiên nhiên trong đoạn trích có vai trò như thế nào đối với việc thể hiện tâm trạng của nhân vật?",
+    "options": [
+      "Tương phản với tâm trạng của các nhân vật, nhấn mạnh sự bất ổn trong nội tâm họ.",
+      "Đồng điệu với cảm xúc của nhân vật, làm nền cho tâm trạng sầu não.",
+      "Tô đậm sự tĩnh lặng của không gian, giúp nhân vật tìm thấy sự bình yên.",
+      "Gợi tả bầu không khí u buồn và ảm đạm."
+    ],
+    "correct": 1,
+    "explanation": "Hình ảnh thiên nhiên được miêu tả trong đoạn trích có tác dụng tạo phông nền, gợi lên sự đồng điệu với cảm xúc sầu não của nhân vật (\"vẻ mặt u sầu của ông\"; \"cô buồn bã đến bước không chạy nhảy\").",
+    "passage": "doi_gio_hu"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nĐâu là cách hiểu đúng về cụm từ \"ôn cố tri tân\" trong đoạn trích trên?",
+    "options": [
+      "Xem lại cái cũ, biết cái mới.",
+      "Ngẫm chuyện nay, nhớ lại chuyện xưa.",
+      "Hiểu tường tận về chuyện xưa nay.",
+      "Dùng chuyện hôm nay, nói chuyện ngày mai."
+    ],
+    "correct": 0,
+    "explanation": "Cụm từ \"ôn cố tri tân\" có nghĩa là \"ôn cố\" (nhớ lại cái cũ) và \"tri tân\" (biết cái mới), diễn tả tư tưởng cần phải hiểu và học hỏi từ những giá trị truyền thống để tiếp thu và phát triển những kiến thức và giá trị mới.",
+    "passage": "kinh_thi_viet_nam"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nKhi nghe lí do không làm bài của cậu học trò, cô giáo đã có tâm trạng như thế nào?",
+    "options": [
+      "Khó chịu, bất ngờ, xót xa.",
+      "Giận dữ, bàng hoàng, thương xót.",
+      "Ngạc nhiên, bối rối, thương cảm.",
+      "Bàng hoàng, đau buồn, lo lắng."
+    ],
+    "correct": 2,
+    "explanation": "Khi nghe cậu học trò nói lí do, cô giáo \"đứng sững như trời trồng\": hai mắt mở tròn cho thấy sự ngạc nhiên; hình ảnh đứng sững biểu thị sự bối rối; khi tác giả nhập vai cảm thấy \"ngã quỵ xuống\" thể hiện sự cảm thông sâu sắc, thương cảm.",
+    "passage": "bai_hoc_tuoi_tho"
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nDòng thơ \"Đi tìm quê trong quê\" thể hiện nỗi niềm gì của nhân vật trữ tình?",
+    "options": [
+      "Tâm trạng háo hức khi sắp trở về làng quê xưa sau bao năm xa cách.",
+      "Cảm giác bối rối trước sự thay đổi mạnh mẽ của làng quê.",
+      "Sự cô đơn về khung cảnh vắng vẻ của làng quê bây giờ.",
+      "Nỗi nhớ của nhân vật về những điều giản dị của làng quê xưa."
+    ],
+    "correct": 3,
+    "explanation": "\"Quê trong quê\" tức những điều giản dị, quê kiểng của làng quê ngày xưa. Câu thơ \"Đi tìm quê trong quê\" thể hiện nỗi nhớ của nhân vật trữ tình về những điều giản dị của làng quê xưa.",
+    "passage": "ngan_ngo_tim"
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nHình ảnh \"lấm láp bụi đường\" trong câu thơ cuối ẩn dụ cho điều gì?",
+    "options": [
+      "Những vấp ngã",
+      "Kinh nghiệm sống",
+      "Trải nghiệm",
+      "Tuổi trẻ"
+    ],
+    "correct": 2,
+    "explanation": "\"Bụi đường\" ẩn dụ cho những vấp ngã, trở ngại; \"lấm láp bụi đường\" ẩn dụ cho những trải nghiệm của con người đối với những vấp ngã trong cuộc đời.",
+    "passage": "minh_se_di"
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nBiện pháp chêm xen trong đoạn trích trên có tác dụng gì?",
+    "options": [
+      "Nêu định nghĩa cho đối tượng",
+      "Bổ sung thông tin cho đối tượng",
+      "Tăng tính thẩm mĩ cho đối tượng",
+      "Tạo sự liên kết cho đối tượng"
+    ],
+    "correct": 1,
+    "explanation": "Biện pháp chêm xen (Báo Tương lai ngày 23.1.1937) có tác dụng bổ sung thêm thông tin về nguồn báo, thời gian đăng của bài Dân vô sản.",
+    "passage": "ngo_tat_to_han_hoc"
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nXác định một thành ngữ xuất hiện trong đoạn trích trên?",
+    "options": [
+      "Ánh sáng rực rỡ",
+      "Ăn gió nằm sương",
+      "Nước mắt chảy xuôi",
+      "Máu chảy ruột mềm"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích xuất hiện thành ngữ \"ăn gió nằm sương\" nhằm chỉ sự chịu đựng gió mưa vất vả ngoài trời của người chồng.",
+    "passage": "leu_chong"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Đọc đoạn trích dưới đây và trả lời các câu hỏi từ 86 đến 90.\nMục đích của đoạn trích trên là gì?",
+    "options": [
+      "Cung cấp thông tin về bệnh ung thư.",
+      "Đưa ra lời khuyên về việc bổ sung dinh dưỡng cho người bệnh ung thư.",
+      "Đưa ra cảnh cáo về các thói quen làm gia tăng nguy cơ ung thư.",
+      "Liệt kê các loại thực phẩm có lợi cho người mắc bệnh ung thư."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích chủ yếu nhấn mạnh về vai trò của dinh dưỡng đối với bệnh nhân ung thư, giải thích những khó khăn trong việc bổ sung dinh dưỡng và đưa ra các khuyến nghị về chế độ ăn phù hợp nhằm giúp cải thiện sức khỏe và giảm tác dụng phụ trong quá trình điều trị.",
+    "passage": "benh_nhan_ung_thu"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Nguyên nhân chính khiến bệnh nhân ung thư gặp khó khăn trong việc bổ sung dinh dưỡng là gì?",
+    "options": [
+      "Bệnh nhân không có khả năng tiêu hóa thức ăn.",
+      "Bệnh nhân phải kiêng khem quá nhiều loại thực phẩm.",
+      "Ăn không thấy ngon và cơ thể mệt mỏi do điều trị.",
+      "Cơ thể bệnh nhân bị suy kiệt ngay từ khi mới phát bệnh."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nói rõ việc thay đổi vị giác (khiến bệnh nhân ăn không thấy ngon) và bị nôn, tiêu chảy (khiến cơ thể mệt mỏi). Đây chính là các nguyên nhân khiến bệnh nhân ung thư gặp khó khăn trong việc bổ sung dinh dưỡng.",
+    "passage": "benh_nhan_ung_thu"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Thực phẩm nào sau đây KHÔNG giàu axit béo omega-3?",
+    "options": [
+      "Hạt chia",
+      "Đậu nành",
+      "Cá hồi",
+      "Thịt bò"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích đề cập những thực phẩm giàu omega-3 là dầu hạt lanh, hạt chia, quả óc chó, đậu nành và các loại cá như cá thu, hồi, trích, hàu, mòi, cơm, ngừ. Thịt bò không được đề cập đến khi nhắc đến các thực phẩm giàu axit béo omega-3.",
+    "passage": "benh_nhan_ung_thu"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Chế độ ăn thực dưỡng được hiểu là gì?",
+    "options": [
+      "Vừa ăn vừa dưỡng sức.",
+      "Là chế độ ăn đầy đủ, đa dạng các nhóm thực phẩm.",
+      "Là chế độ ăn kiêng, kiêng các loại thịt và chỉ ăn các nhóm hải sản, rau củ, trứng hoặc ăn thuần chay.",
+      "Là chế độ chỉ ăn đồ ăn có xuất xứ từ thực vật."
+    ],
+    "correct": 2,
+    "explanation": "Chế độ ăn thực dưỡng được hiểu là chế độ ăn kiêng, kiêng các loại thịt và chỉ ăn các nhóm hải sản, rau củ, trứng hoặc ăn thuần chay.",
+    "passage": "benh_nhan_ung_thu"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Sau điều trị ung thư, bệnh nhân nên bổ sung thực phẩm như thế nào?",
+    "options": [
+      "Giàu năng lượng, protein cao, ít chất béo, dễ tiêu hóa.",
+      "Ít năng lượng, nhiều chất béo và vitamin D.",
+      "Thức ăn có hàm lượng đường cao và bổ sung vitamin C.",
+      "Chỉ nên bổ sung đạm động vật và rau củ quả."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn có đề cập: sau điều trị ung thư, nhu cầu năng lượng và dinh dưỡng của cơ thể rất cao nên cần ăn những thức ăn giàu năng lượng, hàm lượng protein cao, lượng chất béo ít và dễ tiêu hóa.",
+    "passage": "benh_nhan_ung_thu"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Đọc đoạn trích dưới đây và trả lời các câu hỏi từ 91 đến 95.\nPhương thức biểu đạt chính trong đoạn trích trên là gì?",
+    "options": [
+      "Biểu cảm",
+      "Nghị luận",
+      "Miêu tả",
+      "Chính luận"
+    ],
+    "correct": 1,
+    "explanation": "Mặc dù đoạn trích có sự kết hợp của nhiều phương thức biểu đạt như miêu tả, tự sự và biểu cảm, nhưng chủ yếu nó tập trung vào việc bày tỏ quan điểm, suy nghĩ và đánh giá của tác giả về phong cách viết của Nguyễn Nhật Ánh. Tính chất nghị luận chiếm ưu thế trong toàn bộ đoạn văn.",
+    "passage": "nguyen_nhat_anh"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Nguyễn Nhật Ánh thường viết về nông thôn thông qua yếu tố nào?",
+    "options": [
+      "Trải nghiệm thực tế",
+      "Trí nhớ của bản thân",
+      "Tình cảm với quê hương",
+      "Các thông tin truyền thông"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: \"Làm người phố thị bao năm, nhưng anh hay viết về nông thôn qua ký ức.\" Nguyễn Nhật Ánh viết về nông thôn thông qua trí nhớ của bản thân về những kỉ niệm đã qua.",
+    "passage": "nguyen_nhat_anh"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Làng quê trong văn của Nguyễn Nhật Ánh được miêu tả như thế nào?",
+    "options": [
+      "Chải chuốt, kiêu sa và đầy màu sắc.",
+      "Thân thiện, giản dị nhưng mang nhiều nỗi niềm chất chứa.",
+      "Bình yên, mộc mạc và kiên cường đi qua những bão giông.",
+      "Đậm tính truyền thống và giàu bản sắc văn hóa dân tộc."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có câu: \"có một làng quê thật, nghèo đói, túng thiếu mà hiền hòa, thuận thảo... có sức níu giữ và cất giấu từng nỗi buồn đau, ngang trái của con người\" - nói lên sự thân thiện, giản dị nhưng mang nhiều nỗi niềm chất chứa.",
+    "passage": "nguyen_nhat_anh"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: \"Hương đồng gió nội\" mà Nguyễn Nhật Ánh đưa vào văn chương của mình có ý nghĩa như thế nào?",
+    "options": [
+      "Làm cho nhân vật của ông trở nên gần gũi và dễ hòa nhập với xã hội.",
+      "Khiến cho văn chương của ông trở nên độc đáo và cá tính.",
+      "Thể hiện sự phát triển trong tư duy và nhận thức của con người nông thôn.",
+      "Tạo nên một vẻ đẹp chân chất, giản dị và thuần khiết."
+    ],
+    "correct": 3,
+    "explanation": "Các từ khóa \"bản sắc tâm hồn\" và \"trong sáng\" cho thấy \"hương đồng gió nội\" mà Nguyễn Nhật Ánh đưa vào văn chương của mình có ý nghĩa tạo nên một vẻ đẹp chân chất, giản dị và thuần khiết.",
+    "passage": "nguyen_nhat_anh"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Thái độ của tác giả ở đoạn trích là gì?",
+    "options": [
+      "Trung lập",
+      "Trân trọng",
+      "Cảm mến",
+      "Khách quan"
+    ],
+    "correct": 1,
+    "explanation": "Tác giả thể hiện sự trân trọng đối với văn chương của Nguyễn Nhật Ánh, cũng như những giá trị của làng quê mà ông miêu tả, cho thấy lòng trân trọng sâu sắc hơn mức \"cảm mến\" thông thường.",
+    "passage": "nguyen_nhat_anh"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đọc đoạn trích dưới đây và trả lời các câu hỏi từ 96 đến 100.\nĐâu là nhân vật trữ tình của bài thơ trên?",
+    "options": [
+      "Hoa phượng",
+      "Mối tình đầu",
+      "Em",
+      "Tôi"
+    ],
+    "correct": 3,
+    "explanation": "Nhân vật trữ tình hay chủ thể trữ tình là \"người trực tiếp thổ lộ những suy nghĩ và cảm xúc trong bài thơ\". Trong bài thơ trên, nhân vật thổ lộ cảm xúc của mình chính là nhân vật \"tôi\": Em chở mùa hè của tôi đi đâu?/ Chùm phượng vĩ em cầm là tuổi tôi mười tám.",
+    "passage": "chut_tinh_dau"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Hiện tượng phá vỡ quy tắc ngôn ngữ thông thường nào được sử dụng trong dòng thơ \"Em chở mùa hè của tôi đi đâu?\"?",
+    "options": [
+      "Sử dụng hình thức đảo ngữ",
+      "Tạo kết hợp từ trái logic",
+      "Cung cấp nét nghĩa mới cho từ",
+      "Tỉnh lược thành phần chính của câu"
+    ],
+    "correct": 1,
+    "explanation": "Mùa hè là một đối tượng vô hình, thường không được \"chở\" như một vật thể cụ thể. Việc sử dụng từ \"chở\" trong câu này tạo ra một hình ảnh độc đáo, mang tính biểu tượng - đây là kết hợp từ trái logic.",
+    "passage": "chut_tinh_dau"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Vai trò của hình ảnh \"hoa phượng\" trong việc thể hiện mạch cảm xúc của bài thơ là gì?",
+    "options": [
+      "Tạo sự thống nhất cho mạch cảm xúc của bài thơ.",
+      "Tạo bước ngoặt trong mạch cảm xúc của bài thơ.",
+      "Là duyên cớ khơi gợi mạch cảm xúc của bài thơ.",
+      "Tạo sự mơ hồ cho mạch cảm xúc của bài thơ."
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh \"hoa phượng\" có tác dụng tạo ra một không gian hồi tưởng, gợi nhớ những kỷ niệm ngọt ngào và trong sáng, mở ra không gian để nhân vật suy nghĩ và hồi tưởng, từ đó khơi gợi cảm xúc sâu sắc - là duyên cớ khơi gợi mạch cảm xúc của bài thơ.",
+    "passage": "chut_tinh_dau"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Nhân vật trữ tình trong bài thơ hiện lên với đặc điểm nào dưới đây?",
+    "options": [
+      "Mộc mạc, chân chất, trong sáng",
+      "Chân thành, nhút nhát, vụng về",
+      "Mơ mộng, nhạy cảm, hài hước",
+      "Mạnh mẽ, thú vị, đa tài"
+    ],
+    "correct": 1,
+    "explanation": "Nhân vật trữ tình hiện lên với đặc điểm nổi bật nhất là sự chân thành, nhút nhát, vụng về: chân thành qua tình yêu trong sáng dành cho mối tình đầu; nhút nhát qua hành động lưỡng lự \"bài thơ cứ còn hoài trong cặp\"; vụng về qua hình ảnh \"anh chàng tội nghiệp\".",
+    "passage": "chut_tinh_dau"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Nội dung chính của bài thơ trên là gì?",
+    "options": [
+      "Sự nuối tiếc, xót xa khi hoài niệm về mối tình học trò dang dở.",
+      "Những rạo rực, xao xuyến khi nhớ về thời hoa niên nhiều mộng ước.",
+      "Ký ức tươi đẹp về mối tình đầu sâu đậm nhưng không thành.",
+      "Niềm bâng khuâng, tiếc nuối về mối tình học trò đơn phương trong trẻo."
+    ],
+    "correct": 3,
+    "explanation": "Bài thơ thể hiện cảm xúc bâng khuâng, tiếc nuối của nhân vật trữ tình về mối tình học trò đơn phương trong trẻo đã qua, với những hình ảnh trong sáng, chân thành, không toan tính, không màu mè.",
+    "passage": "chut_tinh_dau"
+  }
+]

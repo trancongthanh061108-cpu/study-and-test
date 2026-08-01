@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Phong cách ngôn ngữ của văn bản là",
+    "options": [
+      "báo chí.",
+      "sinh hoạt.",
+      "nghệ thuật.",
+      "hành chính."
+    ],
+    "correct": 2,
+    "explanation": "Đây là một tác phẩm thơ, do đó phong cách ngôn ngữ văn bản là nghệ thuật.",
+    "passage": "passage_dan_ghi_ta"
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Phương thức biểu đạt chính của văn bản trên là",
+    "options": [
+      "tự sự.",
+      "nghị luận.",
+      "biểu cảm.",
+      "thuyết minh."
+    ],
+    "correct": 2,
+    "explanation": "Do đây là trích đoạn một tác phẩm thơ nên phương thức biểu đạt chính của văn bản là biểu cảm.",
+    "passage": "passage_dan_ghi_ta"
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Nội dung chính của đoạn thơ là",
+    "options": [
+      "nỗi cô đơn của Lor-ca.",
+      "hình ảnh Lor-ca trong một cuộc đấu bò tót.",
+      "niềm yêu thích khám phá những miền không gian hoang dại của Lor-ca.",
+      "hình ảnh Lor-ca tự do, nghệ sĩ trong khung cảnh chính trị và nghệ thuật, văn hóa của Tây Ban Nha."
+    ],
+    "correct": 3,
+    "explanation": "Các phương án A, B, C đều không thể hiện nội dung chính của đoạn thơ. Dựa vào hoàn cảnh ra đời bài thơ, bối cảnh chính trị và văn hóa ở Tây Ban Nha thời điểm Lor-ca sống có thể thấy phương án D thể hiện rõ nhất nội dung chính của đoạn thơ.",
+    "passage": "passage_dan_ghi_ta"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Hình ảnh \"Tiếng đàn bọt nước\" sử dụng phép tu từ nào?",
+    "options": [
+      "So sánh.",
+      "Nhân hóa.",
+      "Ẩn dụ.",
+      "Hoán dụ."
+    ],
+    "correct": 2,
+    "explanation": "Trong câu thơ này, tác giả đã sử dụng biện pháp tu từ ẩn dụ để thấy tiếng đàn trong trẻo nhưng cũng mong manh, dễ vỡ như bọt nước.",
+    "passage": "passage_dan_ghi_ta"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Đoạn thơ trên được viết theo thể thơ:",
+    "options": [
+      "tự do.",
+      "bảy chữ.",
+      "thất ngôn bát cú.",
+      "năm chữ."
+    ],
+    "correct": 0,
+    "explanation": "Các câu trong đoạn thơ trên có số lượng các tiếng không đều nên thuộc thể thơ tự do.",
+    "passage": "passage_dan_ghi_ta"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Xác định nội dung chính của văn bản trên.",
+    "options": [
+      "Sự khốn khó của những người nông dân trước Cách mạng tháng Tám 1945.",
+      "Tình cảnh khốn đốn của người đàn bà khi phải sống một mình ở nông thôn.",
+      "Cuộc sống vất vả của bà lão khi trải qua một cơn bệnh thập tử nhất sinh.",
+      "Tình cảnh bà lão đi ở đợ và bị chủ nhà hà hiếp, không thể gượng lên nổi."
+    ],
+    "correct": 2,
+    "explanation": "Đọc toàn bộ đoạn trích, xác định nhân vật được tác giả miêu tả là người bà và một chuỗi các sự kiện: phải cho cháu đi ở đợ, lấy tiền cải mả cho con trai và làm vốn buôn bán; bị ốm nặng và không đủ sức buôn bán, phải đi \"bế em\"; đi làm cho nhiều nhà nhưng vì ốm đau nên cũng bị đuổi đi. Tổng hợp thông tin, xác định nội dung chính của đoạn là: sự vất vả của người bà sau một trận ốm.",
+    "passage": "passage_mot_bua_no"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Từ \"cải mả\" (gạch chân, in đậm) trong văn bản trên có nghĩa là",
+    "options": [
+      "mai táng.",
+      "làm tang.",
+      "bốc mộ.",
+      "giỗ hết."
+    ],
+    "correct": 2,
+    "explanation": "Dựa trên hiểu biết cá nhân và việc giải nghĩa từ để xác định: \"cải mả\": làm lại khu mộ cho người chết (theo tục xưa, người chết được chôn dưới đất sau một vài năm sẽ được chuyển sang một khu mới, xây cất cố định).",
+    "passage": "passage_mot_bua_no"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Theo văn bản, vì sao ban đầu những người trong làng lại muốn thuê bà lão làm công việc chăm sóc trẻ nhỏ cho gia đình họ?",
+    "options": [
+      "Những người già thường có kinh nghiệm nên những đứa trẻ sẽ khỏe mạnh và thông minh hơn.",
+      "Người già được đánh giá là có tính cẩn thận hơn và không có nhiều đòi hỏi so với bọn trẻ con.",
+      "Bà lão ngoài việc chăm sóc cho những đứa trẻ sẽ sẵn sàng nhận thêm nhiều công việc nhà khác.",
+      "Bà lão sẽ phải nhận khoản tiền công từ chủ nhà thấp hơn nhiều so với những đứa trẻ con khác."
+    ],
+    "correct": 1,
+    "explanation": "Đọc và tìm kiếm thông tin trong văn bản: những bà già tính cẩn thận và ăn chẳng bao nhiêu, không ấm ức như những đồ trẻ nhãi, hơi một tí cũng đem chuyện nhà chủ đi kể với đủ mọi người hàng xóm.",
+    "passage": "passage_mot_bua_no"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Theo văn bản, vì sao bà lão cứ phải chuyển hết từ nhà này sang nhà khác?",
+    "options": [
+      "Những đứa trẻ ngày càng lớn và sức vóc của bà không thể chăm được chúng.",
+      "Bà lão vụng về trong mọi hành động và thường xuyên làm rơi đồ ăn vào chúng.",
+      "Bà lão luôn đòi hỏi được nghỉ ngơi và nhận nhiều tiền hơn để lo thuốc men.",
+      "Sức khỏe bị suy kiệt khiến bà đau ốm thường xuyên và không làm được việc."
+    ],
+    "correct": 3,
+    "explanation": "Đọc và tìm kiếm thông tin trong văn bản: bà lẩm cẩm, chậm chạp, lì rì; hơi trái gió, trở trời, bà lại đau mình. Nguyên nhân chính dẫn tới việc người ta lại phải tìm cớ tống bà đi là bà lão thường đau yếu, không làm được hết công việc mà chủ nhà giao.",
+    "passage": "passage_mot_bua_no"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Hành động của người chủ nhà sau khi bà lão bị gãy tay cho thấy điều gì?",
+    "options": [
+      "Người chủ nhà rất quan tâm và lo lắng cho cái tay của bà lão.",
+      "Bà lão là người tốt, khiến những người xung quanh nể trọng.",
+      "Người chủ nhà cảm thấy có lỗi vì đã giao công việc nặng nhọc.",
+      "Bà lão là gánh nặng và chủ nhà muốn đuổi đi cho khỏi rắc rối."
+    ],
+    "correct": 3,
+    "explanation": "Bà lão vốn đã yếu nay lại không thể làm việc được nên khoản tiền nhằm mục tiêu đuổi bà lão đi mà chủ nhà không gặp bất cứ rắc rối hay phiền hà nào. Chủ nhà đưa khoản tiền vì chỉ muốn không cần \"nuôi báo cô bà\" chứ không phải vì lo lắng hay cảm thấy có lỗi.",
+    "passage": "passage_mot_bua_no"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Lời nói của Đăm Săn với Mtao - Mxây thể hiện điều gì?",
+    "options": [
+      "Sự cẩn trọng đối với đối thủ.",
+      "Sự khinh thường đối thủ.",
+      "Thăm dò cách đối thủ tấn công.",
+      "Lo sợ đối thủ ra đòn chí mạng."
+    ],
+    "correct": 1,
+    "explanation": "Căn cứ vào lời nói của Đăm Săn: \"Sao ngươi lại chém cái chão cột trâu? Còn khoeo chân ta, ngươi dành làm gì?\" - chê bai Mtao - Mxây chém trượt, không trúng người.",
+    "passage": "passage_dam_san"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Miếng trầu của Hơ Nhị mang ý nghĩa gì?",
+    "options": [
+      "Thể hiện tình cảm thủy chung, gắn bó.",
+      "Thể hiện văn hóa trầu cau của người Việt Nam.",
+      "Yếu tố kì ảo, đại diện cho sức mạnh.",
+      "Nguồn lương thực tạo nên sức mạnh của Đăm Săn."
+    ],
+    "correct": 2,
+    "explanation": "Ảnh hưởng của văn hóa mẫu hệ, hành động Hơ Nhị ném miếng trầu cho Đăm Săn như một cách tiếp thêm sức mạnh cho người anh hùng của cộng đồng. Sau khi ăn miếng trầu, \"sức chàng tăng lên gấp bội\" là chi tiết nhằm nhấn mạnh vai trò của người phụ nữ trong cộng đồng, không có tính thực tế.",
+    "passage": "passage_dam_san"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Câu văn \"Khi chàng múa chạy nước kiệu, quả núi ba lần rạn nứt, ba đồi tranh bật rễ bay tung.\" cho thấy",
+    "options": [
+      "sức mạnh của Đăm Săn khiến Mtao - Mxây sợ hãi.",
+      "sức khỏe phi thường của Đăm Săn dù đã chiến đấu vài ngày đêm.",
+      "không gian núi rừng Tây Nguyên rộng lớn và hùng vĩ.",
+      "thời gian giao chiến kéo dài tới mức đủ để Đăm Săn chạy qua nhiều vùng đất."
+    ],
+    "correct": 2,
+    "explanation": "Dùng phương án loại trừ: Đoạn trích không nhắc tới thời gian → Loại B, D. Đoạn trích không có từ miêu tả thái độ, tâm trạng của Đăm Săn nên loại đáp án A, chọn đáp án C.",
+    "passage": "passage_dam_san"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Nguyên nhân trực tiếp dẫn tới việc Đăm Săn đánh bại Mtao - Mxây là gì?",
+    "options": [
+      "Đăm Săn có sức mạnh hơn người.",
+      "Đăm Săn có trí tuệ hơn người.",
+      "Đăm Săn đại diện cho chính nghĩa.",
+      "Đăm Săn biết được điểm yếu của Mtao - Mxây."
+    ],
+    "correct": 2,
+    "explanation": "Đăm Săn chiến thắng là nhờ sự trợ giúp của ông Trời. Ông Trời là thần linh, đại diện cho thế lực siêu nhiên bảo vệ con người và lẽ công bằng.",
+    "passage": "passage_dam_san"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Cuộc giao chiến của Đăm Săn và Mtao - Mxây.",
+      "Vẻ đẹp của Đăm Săn trong không gian chiến trận.",
+      "Vẻ đẹp của Đăm Săn trong không gian cộng đồng.",
+      "Hình tượng lý tưởng của Đăm Săn."
+    ],
+    "correct": 1,
+    "explanation": "Trong đoạn trích có rất nhiều yếu tố miêu tả những sự vật xung quanh khi Đăm Săn chiến đấu, phóng đại sức mạnh của chàng. Đăm Săn cũng được tiếp sức bởi Hơ Nhị và ông Trời vì chàng chiến đấu vì chính nghĩa.",
+    "passage": "passage_dam_san"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Các nhân vật trong đoạn trích được thể hiện qua:",
+    "options": [
+      "Lời độc thoại",
+      "Lời đối thoại",
+      "Chỉ dẫn hành động",
+      "Lời độc thoại nội tâm"
+    ],
+    "correct": 1,
+    "explanation": "Do trong đoạn trích không xuất hiện chú thích nêu chỉ dẫn → Loại đáp án C. Các nhân vật trao đổi và trình bày quan điểm qua lời thoại, đánh dấu bằng tên nhân vật ở đầu dòng.",
+    "passage": "passage_hon_truong_ba"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Từ \"tàn bạo\" trong đoạn trích có thể được thay thế bằng:",
+    "options": [
+      "Hùng mạnh",
+      "Vạm vỡ",
+      "Hung ác",
+      "Bất bại"
+    ],
+    "correct": 2,
+    "explanation": "Xác định vị trí của từ \"tàn bạo\": trong lời của Trương Ba nói về việc ông tát thằng con toé máu mồm máu mũi. \"Tàn bạo\" được dùng để mô tả sự việc đã xảy ra, tương đương với \"hung ác\".",
+    "passage": "passage_hon_truong_ba"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Câu nói của xác hàng thịt: \"Khi ông phải tồn tại nhờ tôi, chiều theo những đòi hỏi của tôi, mà còn nhận là nguyên vẹn, trong sạch, thẳng thắn?\" thể hiện:",
+    "options": [
+      "Mâu thuẫn gay gắt giữa hồn và xác",
+      "Xác hàng thịt dần kiểm soát tâm hồn Trương Ba",
+      "Sự chiếm lĩnh tuyệt đối của thể xác",
+      "Bi kịch bị khước từ của Trương Ba"
+    ],
+    "correct": 1,
+    "explanation": "Xác định nội dung thông tin trong câu nói của xác hàng thịt: Phủ định mong muốn của Trương Ba về đời sống độc lập, không phụ thuộc và bị vấy bẩn bởi xác hàng thịt.",
+    "passage": "passage_hon_truong_ba"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Trương Ba thể hiện thái độ như thế nào trước lời nói của xác hàng thịt?",
+    "options": [
+      "Tức giận",
+      "Đau đớn",
+      "Phủ nhận",
+      "Đồng cảm"
+    ],
+    "correct": 2,
+    "explanation": "Xác định cách phản ứng, lời nói của Trương Ba trong phạm vi đoạn trích: Không! (bịt tai lại) Ta không muốn nghe. Ta cần gì đến….",
+    "passage": "passage_hon_truong_ba"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Câu nói: \"Ta cần gì đến cái sức mạnh làm ta trở thành tàn bạo.\" cho thấy Trương Ba là người:",
+    "options": [
+      "Nhân hậu, lương thiện",
+      "Vị tha, rộng lượng",
+      "Tự trọng, trung thực",
+      "Nhút nhát, nhu nhược"
+    ],
+    "correct": 0,
+    "explanation": "Qua câu trích dẫn, nhận thấy: Trương Ba không đồng tình với việc sử dụng sức mạnh để làm tổn hại tới người khác. Loại đáp án C, D do không tương ứng với nội dung; loại đáp án B do thiếu tính chi tiết.",
+    "passage": "passage_hon_truong_ba"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Xác định phương thức biểu đạt của đoạn trích trên.",
+    "options": [
+      "Biểu cảm.",
+      "Miêu tả.",
+      "Tự sự.",
+      "Nghị luận."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích trình bày quan điểm hạnh phúc được tạo ra bởi cơ chế vận hành sinh học của cơ thể, sử dụng các lí lẽ thuyết phục người đọc đồng ý với quan điểm của tác giả nên đây là phương thức nghị luận. Đoạn trích không bộc lộ cảm xúc hay miêu tả nên loại A, B; ví dụ không nhằm tái hiện câu chuyện nên loại C.",
+    "passage": "passage_sapiens_hanh_phuc"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Xác định các phương thức biểu đạt trong đoạn trích trên?",
+    "options": [
+      "Biểu cảm, tự sự, miêu tả.",
+      "Biểu cảm, tự sự, nghị luận.",
+      "Miêu tả, tự sự, thuyết minh.",
+      "Thuyết minh, nghị luận, miêu tả."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn thơ có sự kiện về những người lính (tự sự), tái hiện khung cảnh thành phố với hình ảnh lá me, chồi xanh (miêu tả), và bộc lộ cảm xúc xót thương về sự hy sinh mất mát (biểu cảm).",
+    "passage": "passage_tieng_tac_ke"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Phương thức biểu đạt chính ở khổ thơ đầu tiên của đoạn trích là gì?",
+    "options": [
+      "Tự sự.",
+      "Miêu tả.",
+      "Thuyết minh.",
+      "Nghị luận."
+    ],
+    "correct": 1,
+    "explanation": "Nội dung chính là miêu tả vẻ đẹp yên bình của thôn Vĩ Dạ, sự kết hợp hài hòa giữa thiên nhiên và con người qua các hình ảnh: vườn \"xanh như ngọc\", \"nắng mới lên\", người con gái \"mặt chữ điền\".",
+    "passage": "passage_day_thon_vi_da"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Xác định phép liên kết câu có trong đoạn sau:",
+    "options": [
+      "Phép lặp và phép thế.",
+      "Phép lặp và liên tưởng.",
+      "Phép thế và phép liên tưởng.",
+      "Phép nối và phép liên tưởng."
+    ],
+    "correct": 0,
+    "explanation": "Phép lặp: \"những cái đó\". Phép thế: \"chúng\".",
+    "passage": "passage_nhung_ngoi_sao_xa_xoi"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Phương thức biểu đạt chính của đoạn trích trên là gì?",
+    "options": [
+      "Tự sự.",
+      "Biểu cảm.",
+      "Thuyết minh.",
+      "Nghị luận."
+    ],
+    "correct": 3,
+    "explanation": "Tác giả dùng quan điểm/hiểu biết của mình để bàn luận về cách mọi người đang đối diện với bệnh AIDS nên đây là phương thức biểu đạt nghị luận. Đoạn trích không cung cấp kiến thức khoa học về bệnh AIDS mà chỉ là quan điểm riêng của tác giả, nên loại đáp án C.",
+    "passage": "passage_thong_diep_aids"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc câu sau và cho biết phương châm hội thoại nào đã không được tuân thủ: Én là một loài chim có hai cánh.",
+    "options": [
+      "Phương châm về lượng.",
+      "Phương châm về chất.",
+      "Phương châm quan hệ.",
+      "Phương châm cách thức."
+    ],
+    "correct": 0,
+    "explanation": "Vi phạm phương châm về lượng -> Tất cả các loài chim đều có hai cánh. Vì thế \"có hai cánh\" là một cụm từ thừa.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Chọn từ/cụm từ thích hợp nhất để điền vào chỗ trống trong câu dưới đây: \"Đại dịch đã chỉ ra rằng cách mạng công nghệ đang tiến xa hơn những gì chúng ta có thể nghĩ – …… cuộc sống số cũng có thể cảm thấy chật chội, một mô phỏng tối tệ của thế giới thực.\"",
+    "options": [
+      "như",
+      "nhưng",
+      "để",
+      "mà"
+    ],
+    "correct": 1,
+    "explanation": "Vế 1 chỉ ra lợi ích không ngờ của đại dịch, vế 2 lại đưa ra những bất lợi mà \"lợi ích\" ở vế 1 tạo ra. Hai vế có mối quan hệ tương phản nên từ \"nhưng\" là thích hợp nhất.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc câu văn sau: \"Chiến thắng bản thân mình là chiến thắng hiển hách nhất, bởi nó chính là việc khó khăn nhất trong cuộc đời của mỗi chúng ta.\" Câu trên là câu",
+    "options": [
+      "có thành phần cùng chức không đồng loại.",
+      "đúng về nội dung và hình thức.",
+      "sắp xếp sai vị trí các thành phần.",
+      "không đủ thành phần chủ ngữ - vị ngữ."
+    ],
+    "correct": 1,
+    "explanation": "Đây là câu ghép gồm hai vế có quan hệ nhân - quả được nối với nhau bởi quan hệ từ \"vì\", kết cấu chủ - vị trong hai vế đầy đủ, không có thành phần cùng chức, không bị sắp xếp sai. Đây là một câu đúng.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Xác định một từ/cụm từ SAI về ngữ pháp, ngữ nghĩa, lô-gích, phong cách. Tự tình (bài II) thể hiện tâm trạng, thái độ của Hồ Xuân Hương: Vừa đau buồn, vừa phẫn nộ trước duyên phận, gắng gượng vươn lên nhưng vẫn rơi vào bi kịch.",
+    "options": [
+      "tâm trạng",
+      "phẫn nộ",
+      "gắng gượng",
+      "Bi kịch"
+    ],
+    "correct": 1,
+    "explanation": "Từ \"phẫn nộ\" đã dùng sai nghĩa (phẫn nộ: uất hận đến mức bộc lộ những phản ứng mạnh mẽ, không kìm giữ được). Trong trường hợp này phải dùng từ \"phẫn uất\" (căm giận và uất ức đến cao độ).",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Xác định một từ/cụm từ SAI về ngữ pháp, ngữ nghĩa, lô-gích, phong cách… Trong sự chuyển mình của Hà Nội, có những cái tưởng được thêm, và thực chất lại là mất đi một cách rất đáng tiếc.",
+    "options": [
+      "Chuyển mình.",
+      "Cái.",
+      "Và.",
+      "Rất đáng tiếc."
+    ],
+    "correct": 2,
+    "explanation": "Thông tin các vế đứng trước và sau từ \"và\" là 2 vế có nội dung đối lập: \"tưởng được thêm\" và \"thực chất lại mất đi\" nên quan hệ từ \"và\" đang dùng sai, cần thay thế bằng từ \"nhưng\".",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Trong các câu văn sau, câu văn nào có từ viết SAI chính tả?",
+    "options": [
+      "Thạch Lam ghi dấu ấn trong văn học Việt Nam với những truyện ngắn không có cốt truyện, ngôn ngữ trong sáng và nhẹ nhàng.",
+      "Nguyễn Tuân nổi tiếng với những tác phẩm tạo dựng chân dung con người xuất chúng, hoài niệm về một thời đã xa.",
+      "Tô Hoài gần gũi với độc giả qua những câu chuyện làng quê bằng giọng kể gí dỏm, những chi tiết sống động.",
+      "Vũ Trọng Phụng bước vào văn đàn với giọng văn trào phúng, tiếng cười chua chát về một xã hội đầy những điều oái oăm."
+    ],
+    "correct": 2,
+    "explanation": "Trong các câu này, từ viết sai là \"gí dỏm\" ở đáp án C, viết đúng là \"dí dỏm\" mang ý nghĩa: gây cười một cách nhẹ nhàng, ý vị.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Từ nào sau đây có nghĩa KHÔNG cùng nhóm với các từ còn lại?",
+    "options": [
+      "Nghịch biến.",
+      "Nghịch cảnh.",
+      "Nghịch đề.",
+      "Nghịch đảo."
+    ],
+    "correct": 1,
+    "explanation": "Ba từ: nghịch biến, nghịch đề, nghịch đảo đều là những thuật ngữ dùng trong Toán học, còn \"nghịch cảnh\" ý chỉ hoàn cảnh éo le, không như mong muốn nên từ không cùng nhóm là: Nghịch cảnh.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Dòng nào không nói đúng về đặc điểm của chữ quốc ngữ?",
+    "options": [
+      "Chữ quốc ngữ là thứ chữ đơn giản về hình thể kết cấu.",
+      "Chữ quốc ngữ là thứ chữ sử dụng bảng chữ cái Latinh để ghi âm Việt",
+      "Chữ quốc ngữ là thứ chữ ghi ý, chữ tượng hình.",
+      "Chữ quốc ngữ là thứ chữ trong đó giữa âm và chữ, giữa cách viết và cách đọc có sự phù hợp ở mức độ khá cao."
+    ],
+    "correct": 2,
+    "explanation": "Sách Ngữ văn 10, tập hai khẳng định chữ quốc ngữ là thứ chữ đơn giản về hình thể kết cấu, sử dụng chữ cái La-tinh. Chữ quốc ngữ không phải là một chữ ghi ý, chữ tượng hình mà là thứ chữ ghi âm.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Chọn một từ mà nghĩa của nó KHÔNG cùng nhóm với các từ còn lại.",
+    "options": [
+      "Đề xuất.",
+      "Đề cử.",
+      "Đề đạt.",
+      "Đề cương."
+    ],
+    "correct": 3,
+    "explanation": "Các từ: \"đề xuất\", \"đề cử\", \"đề đạt\" là cùng đưa ra ý kiến, quan điểm của bản thân còn \"đề cương\" là vấn đề trọng tâm, cốt lõi để ôn tập.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Xác định từ SAI về phương diện ngữ nghĩa/chính tả: Khai thác bệnh sử là giai đoạn đầu khi người bệnh đến với thầy thuốc; cung cấp các thông tin ban đầu cùng với việc thăm khám lâm sàng và cận lâm sàng sẽ giúp cho người thầy thuốc chuẩn đoán chính xác bệnh, từ đó đưa ra các phương pháp điều trị thích hợp.",
+    "options": [
+      "Khai thác.",
+      "Thăm khám.",
+      "Chuẩn đoán.",
+      "Phương pháp."
+    ],
+    "correct": 2,
+    "explanation": "\"Chuẩn đoán\" là từ thường gặp, tuy nhiên nó sai về mặt chính tả. Từ đúng là \"chẩn đoán\" (chẩn: xác định, phân biệt dựa trên các dấu hiệu có sẵn; đoán: dựa trên những cái có sẵn để suy ra những điều có khả năng xảy ra).",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Câu nào nêu đúng nhất tác dụng của biện pháp nói giảm nói tránh trong câu thơ sau: Bác Dương thôi đã thôi rôi / Nước mây man mác ngậm ngùi lòng ta (Khóc Dương Khuê, Nguyễn Khuyến)",
+    "options": [
+      "Thể hiện sự xót thương và làm giảm nhẹ nỗi đau buồn, mất mát của nhà thơ khi bạn thân qua đời.",
+      "Thể hiện lòng yêu mến và trân trọng người bạn thân đã quá cố.",
+      "Thể hiện ước nguyện chân thành của nhà thơ mong cho người đã khuất được yên nghỉ.",
+      "Thể hiện sự thất vọng của nhà thơ khi chưa được gặp bạn lần cuối để nói lời từ giã."
+    ],
+    "correct": 0,
+    "explanation": "Việc dùng biện pháp nói giảm nói tránh đã làm giảm nhẹ nỗi đau buồn, mất mát của nhà thơ khi bạn thân qua đời, thể hiện sự xót thương của nhà thơ. Nhà thơ không trực tiếp nhắc đến cái chết mà thay bằng \"thôi đã thôi rồi\".",
+    "passage": null
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Đoạn thơ sau sử dụng mấy kiểu nhân hóa? Mặt trời gác núi / Bóng tối lan dần / Anh Đóm chuyên cần / Lên đèn đi gác",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Hai kiểu: dùng những từ vốn chỉ hoạt động, tính chất của người để chỉ hoạt động, tính chất của vật (gác, chuyên cần); dùng những từ vốn gọi người để gọi vật (\"Anh\" Đóm).",
+    "passage": null
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Tác phẩm nào dưới đây nằm trong giai đoạn văn học sau năm 1975?",
+    "options": [
+      "\"Chiếc thuyền ngoài xa\"",
+      "\"Tây Tiến\"",
+      "\"Rừng xà nu\"",
+      "\"Những đứa con trong gia đình\""
+    ],
+    "correct": 0,
+    "explanation": "Văn xuôi giai đoạn sau năm 1975 nhạy cảm với những vấn đề của đời sống, đổi mới cách viết về chiến tranh. Có thể loại bỏ các đáp án B, C, D do những tác phẩm này gắn bó với đời sống kháng chiến. Đáp án đúng: A.",
+    "passage": null
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Theo đoạn trích, cụm từ \"cái tấm lòng biệt nhỡn liên tài\" (gạch chân, in đậm) có nghĩa là:",
+    "options": [
+      "Cái nhìn thể hiện sự kính trọng đặc biệt đối với người tài.",
+      "Cái nhìn thể hiện sự đối xử khác biệt với những người tài.",
+      "Cái nhìn thể hiện sự ngưỡng mộ đặc biệt đối với người tài.",
+      "Cái nhìn thể hiện sự yêu mến đặc biệt đối với người tài."
+    ],
+    "correct": 0,
+    "explanation": "Huấn Cao là một người cho chữ, đại diện cho những nét đẹp của tính cách khảng khái, đang trong cảm xúc trân trọng một đối tượng nào đó vì đã có hành động biệt đãi với mình. Cụm từ có nghĩa là cái nhìn thể hiện sự kính trọng đặc biệt đối với người tài.",
+    "passage": "passage_chu_nguoi_tu_tu"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Mùa lá rụng trong vườn (Ma Văn Kháng) xoay quanh câu chuyện trong gia đình của nhân vật nào?",
+    "options": [
+      "Chị Hoài",
+      "Ông Bằng",
+      "Ông Đông",
+      "Chị Hiền"
+    ],
+    "correct": 1,
+    "explanation": "Thông qua câu chuyện xảy ra trong gia đình ông Bằng, một gia đình nề nếp, luôn giữ gìn gia pháp và gia phong, nay trở nên chao đảo trước những cơn địa chấn tinh thần từ bên ngoài.",
+    "passage": null
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Bút pháp nghệ thuật nổi bật nhất của tác giả trong đoạn trích là gì?",
+    "options": [
+      "Điểm nhìn trần thuật độc đáo",
+      "Tạo tình huống bất ngờ",
+      "Ngôn ngữ giàu chất thơ",
+      "Lựa chọn chi tiết tiêu biểu"
+    ],
+    "correct": 2,
+    "explanation": "Nguyễn Tuân láy lại điệp ngữ \"thuyền tôi trôi\" để gợi một dòng sông êm đềm, thơ mộng, ta tưởng như nhịp chảy của dòng sông đã hòa vào nhịp điệu của câu văn, đẹp như \"một nỗi niềm cổ tích tuổi xưa\". Đây là ngôn ngữ giàu chất thơ.",
+    "passage": "passage_nguoi_lai_do_song_da"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Xác định biện pháp tu từ được sử dụng trong hai câu thơ trên?",
+    "options": [
+      "Đối lập, hoán dụ.",
+      "Đối lập, ẩn dụ.",
+      "Liệt kê, so sánh.",
+      "Liệt kê, nhân hóa."
+    ],
+    "correct": 1,
+    "explanation": "Hai câu có sử dụng phép đối: \"người ta\" và \"chị\", \"rượu hồng\" và \"hoa tang\". Hình ảnh \"rượu hồng\" và \"hoa tang\" được sử dụng biện pháp tu từ ẩn dụ (ẩn dụ phẩm chất) gợi đến sự vui mừng trong ngày cưới và nỗi đau buồn trong lễ tang.",
+    "passage": "passage_lo_buoc_sang_ngang"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Trong tác phẩm Đại cáo bình Ngô của Nguyễn Trãi, cuộc khởi nghĩa chống quân Minh của dân tộc buổi đầu gặp phải khó khăn gì?",
+    "options": [
+      "Nhân dân ta không đoàn kết.",
+      "Không có người lãnh đạo tài giỏi.",
+      "Thiếu thốn lương thực và vũ khí, lực lượng không cân sức.",
+      "Tướng sĩ chưa tin phục, lòng người li tán."
+    ],
+    "correct": 2,
+    "explanation": "Nghĩa quân gặp muôn ngàn khó khăn: thiếu thốn lương thực, lực lượng còn nhỏ yếu (\"Khi Linh Sơn lương hết mấy tuần - Khi Khôi Huyện quân không một đội\"), thiếu những nhân tài phò giúp.",
+    "passage": null
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Từ phía người đọc, bút danh Tản Đà trước hết và chủ yếu muốn gợi liên tưởng đến điều gì trong tâm hồn, tính cách nhà thơ?",
+    "options": [
+      "Tình yêu quê hương, đất nước.",
+      "Tính cách lãng mạn, phóng túng.",
+      "Niềm khao khát tự do, lòng trân trọng cái đẹp của tạo hóa.",
+      "Tính cách \"ngông\" và xu hướng thoát li thực tại."
+    ],
+    "correct": 0,
+    "explanation": "Bút danh Tản Đà được tạo ra bằng cách ghép tên một ngọn núi (Tản Viên) với tên một con sông (sông Đà) ở quê ông, cho thấy tình yêu đối với quê hương, đất nước của ông.",
+    "passage": null
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Trong 2 câu cuối đoạn, tác giả đã sử dụng biện pháp nghệ thuật nào?",
+    "options": [
+      "Điệp ngữ",
+      "Liệt kê",
+      "Ẩn dụ",
+      "Nói giảm, nói tránh"
+    ],
+    "correct": 1,
+    "explanation": "Tác giả đã sử dụng biện pháp liệt kê để khái quát tinh thần chung của văn hóa nước ta: \"thiết thực, linh hoạt, dung hoà\", \"nhạy cảm, tinh nhanh, khôn khéo gỡ các khó khăn, tìm được sự bình ổn\".",
+    "passage": "passage_nhin_ve_von_van_hoa"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Phương án nào KHÔNG nêu đúng giá trị lịch sử to lớn của bản Tuyên ngôn Độc lập của Hồ Chí Minh?",
+    "options": [
+      "Tuyên ngôn Độc lập tuyên bố sự ra đời của nước Việt Nam mới, thoát khỏi thân phận thuộc địa để hòa nhập vào cộng đồng nhân loại với tư cách là một nước độc lập, tự do và dân chủ.",
+      "Tuyên ngôn Độc lập thể hiện một cách sâu sắc và hùng hồn tinh thần yêu nước, yêu chuộng độc lập tự do và lí tưởng đấu tranh giải phóng dân tộc của tác giả cũng như của toàn thể dân tộc ta.",
+      "Tuyên ngôn Độc lập đã khẳng định nền độc lập tự chủ của dân tộc ta, mở ra một kỉ nguyên độc lập, tự chủ, tiến lên Chủ nghĩa xã hội trên đất nước ta.",
+      "Tuyên ngôn Độc lập là lời tuyên bố xóa bỏ ách đô hộ của thực dân Pháp đối với dân tộc ta suốt hơn 80 năm, xóa bỏ chế độ phong kiến đã tồn tại hàng nghìn năm trên đất nước ta."
+    ],
+    "correct": 1,
+    "explanation": "Giá trị lịch sử to lớn của Tuyên ngôn Độc lập là: tuyên bố sự ra đời của nước Việt Nam mới; khẳng định nền độc lập tự chủ, mở ra kỉ nguyên mới; xóa bỏ ách đô hộ và chế độ phong kiến. Phương án B nói về giá trị tư tưởng/tình cảm chứ không phải giá trị lịch sử, nên đây là phương án không đúng.",
+    "passage": null
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Nội dung của câu văn \"Suy đi tính lại trong vòm trời này, cứ cái ấp mười nhà ắt phải có người trung thành tín nghĩa\" (Chiếu cầu hiền, Ngô Thì Nhậm) là gì?",
+    "options": [
+      "Dân chúng Bắc Hà rất đông đúc.",
+      "Nhân tài đất Bắc Hà không những có, mà còn có nhiều.",
+      "Đất Bắc Hà ít có nhân tài.",
+      "Những người theo Quang Trung có rất nhiều."
+    ],
+    "correct": 1,
+    "explanation": "Nội dung của câu văn là nhân tài đất Bắc Hà không những có, mà còn có nhiều.",
+    "passage": null
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Tác giả đã sử dụng phương pháp thuyết minh nào để giới thiệu về đặc điểm địa lí của dòng sông Hương?",
+    "options": [
+      "So sánh.",
+      "Dùng số liệu.",
+      "Nêu ví dụ.",
+      "Giải thích nguyên nhân - kết quả."
+    ],
+    "correct": 1,
+    "explanation": "Tác giả sử dụng các số liệu hết sức cụ thể, chi tiết để trình bày về đặc điểm địa lí của dòng sông: những số liệu chỉ chiều dài (67 km, 60 km, 3 km) và số thác nước (55 thác nước hùng vĩ, 14 thác nguy hiểm).",
+    "passage": "passage_song_huong"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Phong cách ngôn ngữ của đoạn trích là gì?",
+    "options": [
+      "Phong cách ngôn ngữ sinh hoạt",
+      "Phong cách ngôn ngữ nghệ thuật",
+      "Phong cách ngôn ngữ chính luận",
+      "Phong cách ngôn ngữ khoa học"
+    ],
+    "correct": 3,
+    "explanation": "Ở đoạn trích trên, phong cách ngôn ngữ là khoa học (dùng nhiều thuật ngữ khoa học; câu văn có sắc thái trung hoà, ít cảm xúc).",
+    "passage": "passage_eq_sq_cq"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Đoạn văn trên sử dụng phương pháp thuyết minh nào?",
+    "options": [
+      "Liệt kê, nêu ví dụ và chú thích.",
+      "Nêu ví dụ, định nghĩa và liệt kê.",
+      "Nêu ví dụ, phân loại, chú thích.",
+      "Nêu ví dụ, phân tích, chú thích."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả sử dụng kết hợp: liệt kê (các bộ phận của văn học Việt Nam và các thể loại chủ yếu); nêu ví dụ (những thể loại cụ thể trong mỗi nhóm); chú thích (chú thích cho khái niệm \"văn biền ngẫu\").",
+    "passage": "passage_van_hoc_the_ki_x_xix"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Hồi phục",
+      "Bình phục",
+      "Phục hồi",
+      "Hồi sinh"
+    ],
+    "correct": 3,
+    "explanation": "Hồi phục, bình phục, phục hồi đều liên quan đến việc trở lại trạng thái ban đầu sau khi bị tổn thương hay ốm đau. Riêng từ hồi sinh thường mang nghĩa khôi phục sự sống, liên quan đến cái chết và sự sống lại.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Bỗng không",
+      "Bỗng nhiên",
+      "Bỗng dưng",
+      "Bỗng chốc"
+    ],
+    "correct": 0,
+    "explanation": "Các từ bỗng nhiên, bỗng dưng, bỗng chốc đều mang nghĩa liên quan đến sự xảy ra đột ngột, bất ngờ. Riêng từ bỗng không lại có nghĩa là không có lý do hay nguyên nhân rõ ràng.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Chăm chút",
+      "Chăm sóc",
+      "Chăm chắm",
+      "Chăm nom"
+    ],
+    "correct": 2,
+    "explanation": "Các từ chăm chút, chăm sóc, chăm nom đều liên quan đến việc trông nom và chăm sóc ai đó hoặc cái gì đó một cách chu đáo. Riêng từ chăm chắm mang nghĩa nhìn tập trung, không liên quan đến việc chăm sóc.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Chặn",
+      "Chèn",
+      "Ngáng",
+      "Ngang"
+    ],
+    "correct": 3,
+    "explanation": "Các từ chặn, chèn, ngáng liên quan đến việc cản trở hoặc gây trở ngại cho một hành động hoặc một lối đi. Riêng từ ngang có nghĩa liên quan đến vị trí hoặc hướng đi.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà loại từ của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Dỗ dành",
+      "Dụ dỗ",
+      "Gạ gẫm",
+      "Rủ rê"
+    ],
+    "correct": 1,
+    "explanation": "Từ dụ dỗ là từ ghép vì các tiếng trong từ này đều có nghĩa liên quan đến dụ dỗ. Còn các từ dỗ dành, gạ gẫm, rủ rê là từ láy vì chỉ có một tiếng có nghĩa liên quan đến từ chứa nó.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nCác nghiên cứu đã cho thấy ô nhiễm vi nhựa đã lan ra cả hành tinh, _____ tuyết và đất ở Bắc cực _____ nhiều con sông và đại dương sâu nhất, hay các loại thức ăn của con người như muối, mật ong, sữa, bia…",
+    "options": [
+      "bao gồm – và",
+      "bên cạnh – sẽ có",
+      "xem – ngắm",
+      "từ – đến"
+    ],
+    "correct": 3,
+    "explanation": "Các từ 'từ/ đến' diễn tả sự lan tỏa và tạo ra một câu có nghĩa mạch lạc, giúp người đọc dễ dàng hiểu rằng ô nhiễm vi nhựa không chỉ tồn tại ở một nơi mà đã phổ biến ra nhiều khu vực khác nhau. Các đáp án khác gây lặp từ, sai nghĩa hoặc không phù hợp ngữ cảnh.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrí tuệ là một con dao hai lưỡi, chúng ta đã đạt nhiều _____, đồng thời cũng tự _____ chính mình do chạy đua vũ khí hạt nhân và do làm nhiễu động cân bằng sinh thái của hành tinh này.",
+    "options": [
+      "lợi ích/ thay đổi",
+      "may mắn/ ảo tưởng",
+      "thành tựu/ hủy hoại",
+      "mong muốn/ phá hủy"
+    ],
+    "correct": 2,
+    "explanation": "Đáp án 'thành tựu/ hủy hoại' thể hiện rõ ràng sự đối lập giữa những thành công đạt được và những hậu quả tiêu cực mà trí tuệ có thể mang lại, phù hợp với thông điệp của câu.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNiềm tin vào _____ tốt đẹp hơn sẽ là _____ to lớn để ta lạc quan, để bước tiếp trên chặng đường đầy chông gai nhưng cũng đầy khát khao và hứa hẹn.",
+    "options": [
+      "cuộc sống/ khát khao",
+      "tương lai/ động lực",
+      "xã hội/ mong ước",
+      "con người/ thôi thúc"
+    ],
+    "correct": 1,
+    "explanation": "'Tương lai/ động lực' hợp logic 'niềm tin' của con người vào tương lai; 'động lực to lớn' thể hiện rằng niềm tin này không chỉ là một cảm xúc mà còn là động lực để hành động và tiến lên.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nVăn hóa cá nhân – đó là toàn bộ những giá trị và chuẩn mực, biểu tượng và ngôn ngữ mà _____ đã thu nhận được và được _____ trong đời sống hàng ngày.",
+    "options": [
+      "cá nhân/ thể hiện",
+      "con người/ xử lý",
+      "chúng ta/ hình thành",
+      "mỗi người/ lĩnh hội"
+    ],
+    "correct": 0,
+    "explanation": "'Cá nhân' hướng đến một đối tượng độc nhất, phù hợp với 'văn hóa cá nhân' mà câu văn đang đề cập; từ 'thể hiện' hợp logic vì màu sắc cá nhân thường được thấy rõ thông qua những biểu hiện của cá nhân trong đời sống hàng ngày.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTheo các nhà nghiên cứu nghệ thuật _____, hát chèo xuất hiện vào thời Lý, tuồng ra đời vào triều Trần, ca trù thì có hai nhận định khác nhau: một số cho rằng ca trù có từ thời Lý, _____ nhận định ca trù bắt đầu từ thời Lê và phát triển đến đỉnh cao ở Thăng Long nhờ hát nói.",
+    "options": [
+      "cổ truyền/ tất cả",
+      "hát nói/ trong khi",
+      "truyền thống/ số khác",
+      "đương đại/ một số"
+    ],
+    "correct": 2,
+    "explanation": "Từ 'truyền thống' phù hợp để nói về các loại hình nghệ thuật này; từ 'số khác' phù hợp vì thể hiện sự khác biệt giữa các ý kiến.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNhững nghiên cứu khoa học đã cho thấy những người thường xuyên đọc sách văn học thường có khả năng thấu hiểu, cảm thông và nhìn nhận sự việc từ nhiều góc khuất.",
+    "options": [
+      "sự việc",
+      "nghiên cứu",
+      "thấu hiểu",
+      "góc khuất"
+    ],
+    "correct": 3,
+    "explanation": "Từ 'góc khuất' chưa phù hợp do từ này thường mang nghĩa là những điều ẩn giấu, khó thấy, thường liên quan đến khía cạnh tiêu cực hoặc bí mật. Cần sửa thành 'góc độ' để thể hiện sự nhìn nhận từ nhiều khía cạnh khác nhau một cách trung lập.",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nKhi nhìn lên bầu trời bằng mắt thường, không ai thấy được sự chuyển động của các dòng khí nhưng trên thực tế, cả bầu khí quyển là một hệ vô cùng rộng lớn (synoptic system) với những dòng chảy khí hỗn loạn, vận chuyển liên đới không ngừng nghỉ.",
+    "options": [
+      "liên đới",
+      "mắt thường",
+      "khí quyển",
+      "chuyển động"
+    ],
+    "correct": 0,
+    "explanation": "Từ 'liên đới' chưa hợp logic vì từ này thường thể hiện sự ràng buộc về mặt trách nhiệm, nghĩa vụ, trong khi cần thể hiện sự di chuyển không ngừng. Cần thay bằng 'liên tục'.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nKhác với một số tiết học, văn học không chỉ trang bị kiến thức cho học sinh vào đời – loại kiến thức \"dùng sau này\", mà trong lúc diễn ra tiết học, các em đã được khai sáng và trưởng thành.",
+    "options": [
+      "tiết học",
+      "trong lúc",
+      "khai sáng",
+      "kiến thức"
+    ],
+    "correct": 0,
+    "explanation": "Từ 'tiết học' dùng sai vì câu văn có nội dung phân biệt môn văn với các môn học khác, cần thay bằng từ 'bộ môn' để nêu lên sự phân biệt rõ ràng.",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nTiến trình văn học dân tộc và thế giới cho thấy văn học \"người lớn\" và văn học \"thiếu nhi\" là những hiện tượng quan hệ lẫn nhau, cùng nằm trong một chỉnh lí thống nhất.",
+    "options": [
+      "văn học",
+      "chỉnh lí",
+      "thế giới",
+      "quan hệ"
+    ],
+    "correct": 1,
+    "explanation": "Từ 'chỉnh lí' trong ngữ cảnh này không được dùng để chỉ mối quan hệ hoặc cấu trúc của các thể loại văn học, mà thường dùng chỉ sự sửa chữa, sắp xếp lại. Có thể thay bằng 'chỉnh thể'.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nVai trò chính của truyền thông báo chí là thông tin cho người đọc các sự kiện và vấn đề có tính thời sự, nhưng nó cũng đặt ra một góc nhìn, một quan niệm đối với các sự kiện và vấn đề ấy.",
+    "options": [
+      "thông tin",
+      "người đọc",
+      "thời sự",
+      "đặt ra"
+    ],
+    "correct": 3,
+    "explanation": "Từ 'đặt ra' không phù hợp vì trong ngữ cảnh này, truyền thông báo chí không tạo ra góc nhìn mà chỉ thể hiện hoặc phản ánh góc nhìn. Nên thay bằng từ 'ngầm ẩn'.",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Từ \"đa nhiệm\" trong đoạn trích trên được hiểu là gì?",
+    "options": [
+      "Cùng thích nhiều công việc trong một khoảng thời gian nhất định.",
+      "Thực hiện nhiều công việc cùng một lúc.",
+      "Thực hiện nhiều nhiệm vụ trong công việc và học tập.",
+      "Máy tính cho phép thực hiện hai hay nhiều công việc cùng một lúc."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích trình bày: \"làm nhiều việc cùng một lúc đa nhiệm\" nên từ \"đa nhiệm\" được hiểu là thực hiện nhiều công việc cùng một lúc. Các đáp án khác chưa bao quát hoặc không phản ánh đúng ngữ cảnh của con người.",
+    "passage": "passage_da_nhiem"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Theo đoạn trích trên, nếu một người cùng lúc chạy 5 dự án thì thời gian dành cho 5 dự án đó so với thời gian chuyển đổi ngữ cảnh là bao nhiêu?",
+    "options": [
+      "Bằng một phần mười lăm thời gian chuyển đổi ngữ cảnh.",
+      "Bằng một phần ba thời gian chuyển đổi ngữ cảnh.",
+      "Gấp ba lần thời gian chuyển đổi ngữ cảnh.",
+      "Bằng một nửa thời gian chuyển đổi ngữ cảnh."
+    ],
+    "correct": 1,
+    "explanation": "Nếu chạy 5 dự án: thời gian thực sự cho mỗi dự án là 5% -> thời gian cho 5 dự án là 5x5=25%. Thời gian chuyển đổi ngữ cảnh là 75%. Vậy thời gian cho 5 dự án bằng 25/75 = một phần ba thời gian chuyển đổi ngữ cảnh.",
+    "passage": "passage_da_nhiem"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Điều gì sẽ xảy ra nếu một người vừa học bài vừa xem tivi?",
+    "options": [
+      "Gặp khó khăn trong việc nhớ lại và áp dụng kiến thức.",
+      "Chỉ nhớ được nội dung trong tivi mà không nhớ kiến thức đang học.",
+      "Không đọng lại nội dung nào trong bộ nhớ.",
+      "Không học bài được mà chỉ tập trung xem tivi."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích đề cập thông tin sẽ lưu vào thể vân - vùng chuyên biệt lưu trữ kỹ năng chứ không phải ý tưởng và thông tin. Điều này làm giảm khả năng hiểu biết và áp dụng thông tin mới, gây khó khăn trong việc nhớ lại và áp dụng kiến thức.",
+    "passage": "passage_da_nhiem"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Có thể rút ra kết luận gì về mối quan hệ giữa đa nhiệm và hiệu suất làm việc?",
+    "options": [
+      "Đa nhiệm làm đa dạng hiệu suất.",
+      "Đa nhiệm có thể cải thiện sự sáng tạo.",
+      "Đa nhiệm thường dẫn đến giảm năng suất và IQ.",
+      "Đa nhiệm không có ảnh hưởng rõ ràng đến hiệu suất."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích đề cập việc đa nhiệm làm giảm IQ (nghiên cứu Glenn Wilson) và giảm năng suất (nghiên cứu Gerald Weinberg), cho thấy đa nhiệm thường dẫn đến giảm năng suất và IQ.",
+    "passage": "passage_da_nhiem"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Tác giả khuyến khích điều gì từ bài đọc trên?",
+    "options": [
+      "Không nhận một lúc nhiều dự án.",
+      "Ưu tiên việc học lên trên tất cả.",
+      "Chỉ chọn những đầu việc quan trọng.",
+      "Tập trung vào một nhiệm vụ duy nhất."
+    ],
+    "correct": 3,
+    "explanation": "Để nâng cao hiệu suất làm việc và chất lượng học tập, tác giả gợi ý rằng nên tập trung vào một nhiệm vụ duy nhất thay vì cố gắng thực hiện nhiều việc cùng một lúc.",
+    "passage": "passage_da_nhiem"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Nội dung chính của đoạn trích là gì?",
+    "options": [
+      "Trình bày mối liên hệ nguồn gốc giữa người Tày và người Nùng.",
+      "Cung cấp thông tin về nguồn gốc tên gọi của dân tộc Tày và Nùng.",
+      "Những đặc điểm về văn hóa của dân tộc Tày và Nùng.",
+      "Những đóng góp của người Tày và Nùng cho đất nước."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích khẳng định rằng người Tày và người Nùng có chung một nguồn gốc thuộc khối Bách Việt, đây là điểm nhấn và luận điểm chính của đoạn văn.",
+    "passage": "passage_tay_nung"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Những thay đổi trong tên gọi của dân tộc Choang phản ánh điều gì về sự thay đổi trong chính sách quản lý dân tộc của Trung Hoa?",
+    "options": [
+      "Sự đa dạng văn hóa của các dân tộc theo thời gian.",
+      "Sự cố gắng thống nhất và củng cố danh tính dân tộc.",
+      "Sự phân chia và phân tán giữa các nhóm dân tộc.",
+      "Sự áp đặt của văn hóa Hán lên các dân tộc thiểu số."
+    ],
+    "correct": 1,
+    "explanation": "Việc đổi tên từ Đồng tộc sang Tráng tộc (nghĩa là người mạnh khoẻ) cho thấy một nỗ lực nhằm tạo ra tên gọi thống nhất và củng cố danh tính tích cực cho dân tộc này.",
+    "passage": "passage_tay_nung"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Nếu người Tày và người Nùng có chung nguồn gốc, tại sao họ vẫn duy trì sự khác biệt trong các tên tự gọi?",
+    "options": [
+      "Vì sự giao lưu văn hóa với các dân tộc khác.",
+      "Vì tiếng nói của họ bị thay đổi.",
+      "Vì ảnh hưởng từ chính quyền trung ương.",
+      "Vì lịch sử phát triển riêng biệt qua thời gian."
+    ],
+    "correct": 3,
+    "explanation": "Sự phong phú của các tên gọi khác nhau cho thấy trong quá trình phát triển, các nhóm đã tự hình thành và duy trì những tên gọi riêng, phản ánh lịch sử phát triển riêng biệt qua thời gian.",
+    "passage": "passage_tay_nung"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Thông qua việc phân tích tên gọi tự gọi của dân tộc Choang, có thể suy luận điều gì về nhận thức tộc người trong các xã hội đa dạng văn hóa?",
+    "options": [
+      "Tộc danh là yếu tố quan trọng nhất ảnh hưởng đến bản sắc văn hóa dân tộc.",
+      "Tộc danh có thể phản ánh sự phức tạp trong nhận thức của các nhóm người.",
+      "Tộc danh chỉ mang tính hình thức và không liên quan đến lịch sử.",
+      "Tộc danh luôn luôn thay đổi theo thời gian."
+    ],
+    "correct": 1,
+    "explanation": "Sự thay đổi tên gọi của dân tộc Choang thành rất nhiều tên gọi khác cho thấy tộc danh có thể phản ánh sự phức tạp trong nhận thức của các nhóm người, thể hiện sự tự nhận thức của từng nhóm trong xã hội đa dạng văn hóa.",
+    "passage": "passage_tay_nung"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Từ đoạn văn, có thể rút ra điều gì về sự phân biệt giữa người Tày và người Nùng trong quá khứ?",
+    "options": [
+      "Họ không có sự phân biệt rõ ràng thành hai tộc người riêng biệt.",
+      "Họ luôn được coi là hai tộc người riêng biệt với những bản sắc riêng.",
+      "Họ thuộc cùng một tộc người nhưng có những nét khác biệt về văn hóa.",
+      "Họ chỉ được xác định sau năm 1949."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn khẳng định rằng người Tày và người Nùng có chung nguồn gốc và không có sự phân biệt rõ ràng thành hai tộc người riêng biệt trong quá khứ.",
+    "passage": "passage_tay_nung"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nEm ạ Cu-ba ngọt lịm đường\nMía xanh đồng bãi, biếc đồi nương\nCam ngon, xoài ngọt vàng nông trại\nOng lạc đường hoa, rộn bốn phương\n\nAnh mải mê nhìn, anh mải nghe\nMúa reo theo gió những thân kè\nTóc xanh xoã bóng, hàng chân trắng\nCó phải tiên nga dự hội hè?...\n(Tố Hữu, Từ Cu-ba, In trong Tác phẩm văn học trong nhà trường – Thơ Tố Hữu, NXB Văn học, 2023)\nXác định cách gieo vần của đoạn thơ trên?",
+    "options": [
+      "Vần lưng",
+      "Vần chân",
+      "Vần hỗn hợp",
+      "Không gieo vần"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn thơ được gieo vần chân, tức là gieo vần trong những tiếng cuối của dòng thơ: Khổ 1: \"đường\" – \"nương\" – \"phương\"; Khổ 2: \"nghe\" – \"kè\" – \"hè\".",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nĐầu thời Trần, việc tiếp đón sứ giả nước ngoài đều thường do Chiêu Minh Vương Trần Quang Khải đảm nhận. Có một lần, sứ Trung Quốc đến mà Thượng tướng Trần Quang Khải lại theo vua Trần Thánh Tông đi đánh giặc xa; Thượng hoàng Trần Thái Tông triệu Trần Quốc Tuấn đến. Vua cha nói:\n- Sứ giả đến mà Thượng tướng theo vua đi đánh giặc, nay trẫm muốn phong cho khanh làm Tư đồ và sung vào việc tiếp sứ. Ý khanh thế nào?\nÔng tâu vua:\n- Việc tiếp sứ, thần xin vâng mệnh. Còn chức phong thêm, thần không dám.\n(Trần Quốc Vượng chủ biên, Nghìn xưa văn hiến, NXB Kim Đồng, Hà Nội, 2017)\nĐoạn trích trên cho thấy vẻ đẹp nào của Hưng Đạo Vương Trần Quốc tuấn?",
+    "options": [
+      "Giản dị",
+      "Khiêm nhường",
+      "Nhân ái",
+      "Thông minh"
+    ],
+    "correct": 1,
+    "explanation": "Khi được phong chức Tư đồ để tiếp sứ, ông đã tâu với vua rằng mình sẵn sàng thực hiện nhiệm vụ tiếp sứ nhưng không dám nhận chức phong thêm, thể hiện sự khiêm tốn, không tham lam quyền lợi cá nhân.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nMột ngày gió nâng tôi lên cao\nTôi nhìn xuống thấy một con kiến bị cầm tù trong hộp thư điện tử nhiều ngăn, trong chiếc điện thoại di động thỉnh thoảng lại đổ chuông\n\nMột ngày gió nâng tôi lên cao\nTôi nhìn xuống thấy một con chim bị cầm tù trong tiếng ngợi ca của bầy đàn, trong những mốc giới hạn mỹ cảm đã được sắp đặt\n\nMột ngày gió nâng tôi lên cao\nGió trao tôi đôi cánh\nVà bảo tôi hãy cởi gió ra và bay lên trên ý nghĩ.\n(Nguyễn Phan Quế Mai, Cởi gió, dẫn theo Tạp chí Sông Hương – số 265, NXB Văn học, Hà Nội, ngày 28/03/2011)\nBài thơ cho thấy khát vọng nào của con người?",
+    "options": [
+      "Khát vọng sống",
+      "Khát vọng vươn lên từ nghịch cảnh",
+      "Khát vọng tự do",
+      "Khát vọng được yêu"
+    ],
+    "correct": 2,
+    "explanation": "Hình ảnh con kiến, con chim bị cầm tù và hình ảnh gió trao đôi cánh, câu 'hãy cởi gió ra và bay lên trên ý nghĩ' thể hiện rõ khát vọng tự do, muốn thoát khỏi những ràng buộc.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nVào khoảng chín giờ sáng, bỗng nhiên tôi thấy ập vào nhà bảy tám thằng cảnh sát, giải theo một người bị còng tay ra sau lưng. Thoạt đầu, tôi vẫn chưa tin là anh Trỗi. Nhưng vừa thoáng thấy tôi, anh nói ngay, nói to: \"Quyên, anh bị bắt!\".\nTôi đứng sững sờ nhìn anh đi thẳng tới trước mặt tôi. Chỉ có qua một đêm, thân hình anh thay đổi hẳn: bộ quần áo xanh của anh bê bết những bùn máu, gần như đổi sang màu khác, mặt anh hốc hác, bầm tím, đầu tóc rối tung. Chúng đẩy anh ngồi xuống giường. [...] Mấy tên cảnh sát đứng quanh giường anh bực tức nhìn nhau. Chúng động đậy chân tay muốn nổi khùng. Riêng tên chủ sự vẫn nhỏ nhẹ:\n– Anh nên nghĩ đến người vợ trẻ và đẹp của anh. Anh nên thương cô ấy, đừng nên cưới người ta ít ngày, bây giờ bỏ mặc đời người ta dang dở.\n– Từ năm ngày nay tôi bị bắt, các ông luôn luôn mang chuyện tôi mới cưới vợ ra để dụ dỗ. Các ông mang hình vợ chồng tôi chụp hôm cưới vào, tán tỉnh hạnh phúc này nọ, định làm cho tôi cam tâm vì vợ mà quên mất Tổ quốc. Các ông làm việc đó hoàn toàn không có kết quả đâu. Còn thằng Mỹ thì không ai có hạnh phúc nổi cả.\n(Trần Đình Vân, Sống như anh, NXB Giáo dục, 1978)\nCâu nói \"Còn thằng Mỹ thì không ai có hạnh phúc nổi cả\" KHÔNG phản ánh điều gì?",
+    "options": [
+      "Phải gạt bỏ những tình cảm cá nhân để ưu tiên chiến đấu chống kẻ thù.",
+      "Tình yêu sẽ không được trọn vẹn nếu như đất nước còn chiến tranh.",
+      "Con người chỉ có được hạnh phúc khi đất nước sạch bóng quân thù.",
+      "Tình yêu nước là tình cảm bao trùm lên mọi tình cảm khác."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A không được suy ra từ câu nói, vì hàm ý của anh Nguyễn Văn Trỗi không phải gạt bỏ hay coi nhẹ tình yêu mà là phải ưu tiên giải phóng đất nước rồi mới có điều kiện để hạnh phúc với những tình cảm cá nhân.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nTrong xóm làng trên, cô gái thơ,\nTuổi xuân mơn mởn vẻ đào tơ.\nGió đông mơn trớn bông hoa nở,\nLòng gái xuân kia vẫn hững hờ.\n(Đông Hồ, Cô gái xuân, In trong Thi nhân Việt Nam (Hoài Thanh – Hoài Chân), NXB Văn học, Hà Nội, 2023)\nHai từ \"xuân\" xuất hiện trong đoạn thơ trên được dùng với nét nghĩa nào?",
+    "options": [
+      "Cả hai từ đều là nghĩa gốc",
+      "Cả hai từ đều mang nghĩa chuyển",
+      "Từ \"xuân\" đầu tiên mang nghĩa gốc, từ \"xuân\" thứ hai mang nghĩa chuyển",
+      "Từ \"xuân\" đầu tiên mang nghĩa chuyển, từ \"xuân\" thứ hai mang nghĩa gốc"
+    ],
+    "correct": 1,
+    "explanation": "Từ 'xuân' xét theo nghĩa gốc chỉ một mùa trong năm. Trong đoạn thơ, hai từ 'xuân' đều chỉ tuổi trẻ của người con gái giàu sức sống, vì vậy cả hai từ đều được dùng với nghĩa chuyển.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nChỉ có cánh chim khuya bay qua vai đá của nàng\nHàng vạn vành trăng hết tròn lại khuyết\nSóng gợi nhớ sóng xui quên nối tiếp\nMỗi một phút đợi chờ sâu một bể thời gian\n\nKhông hoá thạch kẻ ra đi, hoá thạch kẻ đợi chờ\nXói mòn những non cao, không xói mòn lòng chung thuỷ\nĐá đứng đấy giữa mưa nguồn và chớp bể\nĐợi một bóng hình trở lại giữa đơn côi.\n(Chế Lan Viên, Vọng phu, In trong Chế Lan Viên, Toàn tập, NXB Văn học, Hà Nội, 2002)\nBiện pháp tu từ được sử dụng trong câu thơ \"Mỗi một phút đợi chờ sâu một bể thời gian\" là gì?",
+    "options": [
+      "Hoán dụ",
+      "Liệt kê",
+      "Nói giảm, nói tránh",
+      "So sánh"
+    ],
+    "correct": 3,
+    "explanation": "Câu thơ sử dụng biện pháp so sánh, trong đó 'bể thời gian' được dùng để so sánh với cảm giác nặng nề, sâu sắc của từng phút giây đợi chờ.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nLàm việc giờ giấc tự do, bạn làm được. Làm những công việc gò bó thời gian, bạn cũng làm được. Làm với người \"tốc độ\", bạn làm được. Làm với người thứ gì cũng chuẩn bị kĩ càng mới làm, bạn cũng làm được.\n(Anh Chi, Top 4 kĩ năng có thể học từ ghế nhà trường, dẫn theo tuoitre.vn)\nĐoạn trích trên đề cập đến kĩ năng nào?",
+    "options": [
+      "Làm việc nhóm",
+      "Giao tiếp",
+      "Quản lí thời gian",
+      "Thích ứng"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích nói về khả năng làm việc trong nhiều hoàn cảnh khác nhau, thể hiện sự linh hoạt và khả năng thích ứng với môi trường và điều kiện làm việc.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nKhi Tâm mở mắt, nó nhìn thấy thím Hai. Nó mấp máy môi, thím Hai phải cúi xuống thật thấp mới nghe nó nói gì. \"Mẹ đâu?\" Tâm nói. Thím Hai mỉm cười, thím nghĩ chắc nó còn mê Thím chỉ sang giường bên. \"Cha con kìa. Cha cũng không sao\". Tâm liếc sang, thấy cha nó chẳng khác gì con cúm núm nướng, nó cũng chẳng khác gì con cúm núm nướng. Rồi nước mắt lăn dài, nó lại nói, \"còn mẹ đâu?\", thím Hai ngơ ngẩn.\n(Trương Tiếp Trương, Tiếng hót con chim đen, In trong Đàn vịt bơi qua sông, NXB Giáo dục Việt Nam, 2012)\nSự kết hợp giữa lời kể chuyện và lời nhân vật trong đoạn trích trên đem lại tác dụng gì?",
+    "options": [
+      "Làm cho đoạn văn liền mạch, các câu văn được liên kết chặt chẽ.",
+      "Thể hiện rõ niềm khao khát tình cảm gia đình của nhân vật.",
+      "Cho thấy dòng trạng thái trăn trở, băn khoăn của nhân vật.",
+      "Cho thấy hành động hỗn loạn của nhân vật sau khi tỉnh dậy từ cơn mê."
+    ],
+    "correct": 1,
+    "explanation": "Lời người kể chuyện và lời nhân vật được kết nối linh hoạt, tự nhiên, khéo léo, giúp thể hiện cảm giác nhớ mẹ cùng niềm khao khát tình cảm gia đình luôn thường trực trong lòng Tâm.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nĐang lim dim mơ màng để khói cà phê phả mờ trên mặt, thì chợt thấy một người vừa bước vào. Chủ quán và ông khẽ gật đầu chào nhau, vẻ quen thân từ lâu. Ông người dỏng cao, gương mặt buồn đẹp, xanh xao. Ngón tay thanh tú trắng muốt nâng li cà phê, mắt trầm ngâm ông nhìn những chiếc lá vàng bị gió bứt ào ào rơi ngoài cửa sổ. Uống xong, đứng dậy, lặng lẽ đi ra. Không thấy trả tiền.\nChủ quán nháy tôi.\n– Cậu biết ai đấy không? Tác giả của những bức tranh kia đấy!\nTrời, tôi thảng thốt. Không ngờ vừa gặp được thần tượng của mình. Bất giác nhìn lên, một giây khắc như cảm nhận được tất cả sự huyền bí diệu kì của những bức tranh trên vách, mà lúc khác chắc không thể biết được.\n– Những bức tranh tuyệt đẹp này – Chủ quán nói – là tặng phẩm của ông ta cho tôi, để trả ơn những tách cà phê thơm ngon mà tôi đã đãi ông suốt bao năm qua.\n(Nguyễn Phan Hách, Quán lá thu, in trong Hà Nội ba mươi sáu truyện ngắn hay (Hồ Anh Thái biên tập), NXB Hội Nhà văn, Hà Nội, 2002)\nĐoạn trích thể hiện rõ nhất điều gì về nhân vật người chủ quán cà phê?",
+    "options": [
+      "Là người biết thưởng thức cái đẹp",
+      "Là người trân quý nghệ thuật",
+      "Là người phóng khoáng, thảo thơm",
+      "Là người sẵn sàng dung nạp cái đẹp"
+    ],
+    "correct": 1,
+    "explanation": "Ông chủ quán cà phê luôn pha cho người họa sĩ những tách cà phê thơm ngon mà không lấy tiền vì muốn bày tỏ sự cung kính đối với nghệ thuật, muốn trả ơn những bức tranh tuyệt tác, cho thấy sự trân quý nghệ thuật.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nTiễn người, con đê cong lắm\nHoàng hôn vỡ tím cả chiều\nChắc là trai đi rửa ngọc\nĐánh rơi nhuốm đỏ màu yêu\n(Nguyễn Minh Khiêm, Tiễn, dẫn theo vannghequandoi.com, ngày 23/03/2020)\nHiện tượng phá vỡ quy tắc ngôn ngữ thông thường nào được sử dụng trong dòng thơ \"Hoàng hôn vỡ tím cả chiều\"?",
+    "options": [
+      "Tỉnh lược thành phần chính của câu",
+      "Tạo kết hợp từ trái logic",
+      "Cung cấp nét nghĩa mới cho từ",
+      "Bổ sung chức năng mới cho dấu câu"
+    ],
+    "correct": 1,
+    "explanation": "Câu thơ có sự kết hợp từ trái logic \"hoàng hôn\" + \"vỡ\" tạo ra sự chuyển giao của thời gian đồng thời cho thấy tâm trạng tan nát của nhân vật trữ tình trong giờ phút chia ly.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nội dung chính của đoạn trích là gì?",
+    "options": [
+      "Mô tả cách thức hoạt động của tâm trí con người.",
+      "Mô tả sự hoạt động của các cơ quan thần kinh và não bộ người.",
+      "So sánh cách thức hoạt động của tâm trí con người với phần mềm máy tính.",
+      "Lí giải cách thức hoạt động phức tạp của con người."
+    ],
+    "correct": 0,
+    "explanation": "Nội dung chính của đoạn trích là mô tả tổng quát về cách thức hoạt động của tâm trí con người, tập trung vào việc giải thích cơ chế hoạt động của tâm trí từ các rung động sinh học đến các giác quan và khả năng nhận thức.",
+    "passage": "passage_cau_tao_tam_tri"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo mô hình so sánh giữa tâm trí con người và máy tính, phần nào được xem như \"bộ xử lý trung tâm\" của cỗ máy sinh học?",
+    "options": [
+      "Thần kinh",
+      "Não bộ",
+      "Năm giác quan",
+      "Mao mạch"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: các cơ quan giúp cơ thể nhận thông tin từ môi trường, sau đó truyền tới bộ xử lý trung tâm - não bộ để xử lý, chuyển hóa thông tin. Vậy não bộ được xem là bộ xử lý trung tâm.",
+    "passage": "passage_cau_tao_tam_tri"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Dòng điện sinh học trong cơ thể con người được tạo ra bởi:",
+    "options": [
+      "Tác động từ môi trường đến các dây thần kinh",
+      "Tác động từ môi trường đến não bộ",
+      "Tác động từ môi trường đến vỏ não",
+      "Tác động từ môi trường đến các giác quan"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích đề cập: khi có tác động từ môi trường tới các cơ quan thụ cảm như mắt, mũi, tai, miệng, da, sẽ tạo ra dòng điện sinh học chạy dọc các dây thần kinh, rồi truyền đến cho não bộ xử lý.",
+    "passage": "passage_cau_tao_tam_tri"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Nếu một người trải qua một trải nghiệm cảm xúc mạnh mẽ, điều nào dưới đây có thể xảy ra với dòng điện sinh học và hệ thống thần kinh?",
+    "options": [
+      "Dòng điện sinh học trở nên ổn định hơn.",
+      "Hệ thống thần kinh sẽ bị quá tải và ảnh hưởng đến chất lượng.",
+      "Dòng điện sinh học có thể tăng cường do kích thích cảm xúc.",
+      "Các cơ quan thụ cảm cần nhiều năng lượng để tạo ra dòng điện sinh học."
+    ],
+    "correct": 2,
+    "explanation": "Trải nghiệm cảm xúc mạnh mẽ thường kích thích hệ thống thần kinh, dẫn đến việc tăng cường dòng điện sinh học để phản ứng với cảm xúc đó.",
+    "passage": "passage_cau_tao_tam_tri"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Nếu một người không thể nhận thức được các kích thích từ môi trường bên ngoài do tổn thương ở các cơ quan cảm nhận, điều gì có thể xảy ra với dòng điện sinh học trong cơ thể họ?",
+    "options": [
+      "Dòng điện sinh học sẽ vẫn hoạt động bình thường.",
+      "Dòng điện sinh học sẽ bị ngừng lại hoàn toàn.",
+      "Dòng điện sinh học sẽ giảm sút vì không có thông tin đầu vào.",
+      "Dòng điện sinh học sẽ trở nên mạnh mẽ hơn để bù đắp cho thiếu hụt."
+    ],
+    "correct": 2,
+    "explanation": "Khi các cơ quan cảm nhận không hoạt động, dòng điện sinh học liên quan đến việc truyền tải thông tin từ môi trường sẽ giảm sút vì không có kích thích nào được tiếp nhận.",
+    "passage": "passage_cau_tao_tam_tri"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Chủ thể trữ tình trong đoạn thơ là ai?",
+    "options": [
+      "Người mẹ",
+      "Người lính về thăm mẹ",
+      "Người liệt sĩ vô danh",
+      "Hai mẹ con người lính"
+    ],
+    "correct": 2,
+    "explanation": "Nhân vật thể hiện những suy nghĩ và cảm xúc của mình chính là người liệt sĩ vô danh nằm dưới nấm mồ chưa có tên (Trước tấm bia chung \"chưa có tên\").",
+    "passage": "passage_diu_me"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Giọng điệu chủ đạo của đoạn thơ là gì?",
+    "options": [
+      "Suy tư, triết lý",
+      "Sôi nổi, da diết",
+      "Thiết tha, trầm lắng",
+      "Trầm hùng, mạnh mẽ"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn thơ nổi bật với giọng điệu thiết tha, trầm lắng, thể hiện tình yêu với người thân và phảng phất nỗi buồn về những cái chết của các liệt sĩ vô danh.",
+    "passage": "passage_diu_me"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Xác định các thành phần biệt lập xuất hiện trong đoạn trích?",
+    "options": [
+      "Gọi đáp, phụ chú",
+      "Tình thái, cảm thán",
+      "Gọi đáp, cảm thán",
+      "Phụ chú, tình thái"
+    ],
+    "correct": 0,
+    "explanation": "Các thành phần biệt lập xuất hiện trong đoạn thơ: Gọi đáp: 'Mẹ ơi'; Phụ chú: '- tên con -'.",
+    "passage": "passage_diu_me"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Câu thơ \"và hãy gọi thành tiếng - tên con - cái tên ngày bé\" có ý nghĩa gì?",
+    "options": [
+      "Khát khao có một cái tên để được gọi.",
+      "Khát khao được nhận thân nhân của những liệt sĩ vô danh.",
+      "Khát khao được trở lại làm người của các liệt sĩ đã hi sinh vì dân tộc.",
+      "Khát khao được trở về bên vòng tay mẹ hiền."
+    ],
+    "correct": 1,
+    "explanation": "Người liệt sĩ khát khao được mẹ gọi tên mình bằng cái tên ngày bé mẹ vẫn gọi, đó chính là khao khát được thân nhân nhận ra, khao khát cháy bỏng nhưng cũng đầy xót xa của hàng vạn liệt sĩ vô danh.",
+    "passage": "passage_diu_me"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Sự lựa chọn chủ thể trữ tình đem lại tác dụng gì cho bài thơ?",
+    "options": [
+      "Làm cho nỗi đau trở nên rõ ràng hơn.",
+      "Gợi lên cảm giác mất mát và tiếc nuối sâu sắc.",
+      "Tạo sự gần gũi giữa người đọc và nhân vật.",
+      "Dễ dàng bày tỏ tình cảm với các nhân vật trong thơ."
+    ],
+    "correct": 1,
+    "explanation": "Khi người con đã khuất làm người kể chuyện, nỗi đau và sự tiếc nuối về quá khứ, tình cảm với mẹ trở nên rõ nét và sâu sắc hơn, có tác dụng gợi lên cảm giác mất mát và tiếc nuối sâu sắc.",
+    "passage": "passage_diu_me"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Xác định điểm nhìn trung tâm của đoạn trích trên?",
+    "options": [
+      "Nguyễn Tuân",
+      "Cụ Kép",
+      "Bạn của cụ Kép",
+      "Con cháu cụ Kép"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích được kể dưới điểm nhìn của nhân vật cụ Kép. Toàn bộ nội dung phản ánh suy nghĩ, cảm nhận và quan điểm của cụ Kép về việc chơi hoa, chăm sóc cây cảnh và giá trị của cái đẹp.",
+    "passage": "passage_huong_cuoi"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Theo cụ Kép, đạo của người tài tử khi chơi hoa là gì?",
+    "options": [
+      "Phải có thời gian chăm sóc hoa thật nhiều.",
+      "Trung thành, có kiến thức về các loài hoa.",
+      "Trân trọng, yêu thương các loài hoa.",
+      "Chọn hoa phù hợp với môi trường sống."
+    ],
+    "correct": 2,
+    "explanation": "Cụ muốn nói rằng người chơi hoa nhiều khi phải lấy cái chí thành chí tình ra mà đối đãi với cả đến cái đẹp không bao giờ biết lên tiếng nói, tức là trân trọng, yêu thương các loài hoa.",
+    "passage": "passage_huong_cuoi"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Biện pháp tu từ được sử dụng trong câu văn \"Chứ còn cứ gây được lên một khoảng vườn, khuân hoa cỏ các nơi về mà trồng, phó mặc chúng ở giữa trời, đày chúng ra mưa nắng với thờ ơ, chúng trổ bông không biết đến, chúng tàn lá cũng không hay thì chơi hoa làm gì cho thêm tội.\" là gì?",
+    "options": [
+      "Ẩn dụ",
+      "Nói quá",
+      "Nhân hóa",
+      "Liệt kê"
+    ],
+    "correct": 3,
+    "explanation": "Câu văn nổi bật với biện pháp liệt kê các hành động của con người, nhằm nhấn mạnh những sai lầm và sự vô tâm của con người trong nghệ thuật chơi hoa.",
+    "passage": "passage_huong_cuoi"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Việc so sánh hoa Bạch ngọc như \"con cầu tự\" cho thấy điều gì từ nhân vật cụ Kép?",
+    "options": [
+      "Sự tinh tế của người yêu nghệ thuật.",
+      "Sự sành sõi của người yêu hoa.",
+      "Sự yêu thương của người trân quý thiên nhiên.",
+      "Sự cẩn thận của người cao tuổi."
+    ],
+    "correct": 0,
+    "explanation": "So sánh này phản ánh sự nhạy cảm và tinh tế của cụ Kép đối với cái đẹp và nghệ thuật chăm sóc hoa, cho thấy cụ hiểu sâu sắc về tính chất mong manh, cần sự chăm sóc tỉ mỉ của chúng.",
+    "passage": "passage_huong_cuoi"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Xác định chủ đề của đoạn trích?",
+    "options": [
+      "Nét đẹp văn hóa truyền thống của dân tộc.",
+      "Tình yêu thiên nhiên, đất nước của lớp người xưa.",
+      "Cách thức chăm sóc và lưu ý khi trồng cây cảnh.",
+      "Vẻ đẹp tâm hồn của những lớp người xưa cũ."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích thể hiện quan niệm, triết lý sống và giá trị văn hóa của người xưa trong việc trân trọng cái đẹp và thiên nhiên, phản ánh các giá trị văn hóa truyền thống của dân tộc.",
+    "passage": "passage_huong_cuoi"
+  }
+]
