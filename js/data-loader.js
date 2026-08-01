@@ -54,7 +54,6 @@ const EXAM_FILES = {
     "hsa_toan_13": "data/toan/de1.json",
     "hsa_toan_14": "data/toan/de1.json",
     "hsa_toan_15": "data/toan/de1.json",
-    "hsa_toan_16": "data/toan/de1.json",
     "hsa_toan_17": "data/toan/de1.json",
     "hsa_toan_18": "data/toan/de1.json",
     "hsa_toan_19": "data/toan/de1.json",
