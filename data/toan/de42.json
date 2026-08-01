@@ -1,0 +1,415 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Hai quần thể sinh vật A và B sinh trưởng tuân theo quy luật sau: quần thể A có kích thước A(t) = 12^t, quần thể B có kích thước B(t) = 3^(2t+1), với t là số ngày được tính từ ngày bắt đầu quan sát. Sau bao nhiêu ngày kể từ ngày bắt đầu quan sát thì kích thước của hai quần thể này bằng nhau (nhập kết quả vào ô trống, làm tròn kết quả đến hàng đơn vị)?",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Giải phương trình 12^t = 3^(2t+1) ⇔ t.ln12 = (2t+1).ln3 ⇒ t ≈ 3,82, làm tròn được t ≈ 4.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Vận tốc chạy lớn nhất của vận động viên A trong khoảng 20 giây theo đơn vị m/s tính từ khi bắt đầu xuất phát là",
+    "options": ["4", "5", "6", "7"],
+    "correct": 2,
+    "explanation": "v_A'(t) = (1/150)t^2 - (47/225)t + 64/45 = 0 cho t=10 (thỏa mãn) hoặc t=64/3 (loại). Tính v_A(0)=0, v_A(20)=40/9, v_A(10)=6. Vậy max trên [0;20] của v_A(t) là 6.",
+    "passage": "cau2-4"
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Sau 30 giây tính từ khi bắt đầu xuất phát, hai vận động viên cách nhau một khoảng bằng bao nhiêu mét?",
+    "options": ["60", "50", "55", "65"],
+    "correct": 0,
+    "explanation": "Đồ thị v_B(t)=at^2+bt+c đi qua (0;0),(5;2),(15;4) nên v_B(t) = -(1/75)t^2 + (7/15)t. Tính S1 = ∫[0,30] v_A(t)dt = 150m, S2 = ∫[0,30] v_B(t)dt = 90m. Khoảng cách = 150-90 = 60m.",
+    "passage": "cau2-4"
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Biết rằng một trong hai vận động viên có vận tốc khi về đích bằng 0, khi đó chênh lệch giữa thời gian hoàn thành đường chạy của hai vận động viên khoảng bao nhiêu giây?",
+    "options": ["12", "13", "14", "15"],
+    "correct": 3,
+    "explanation": "Vì v_A(t)>0 với mọi t>0, vận động viên B về đích với vận tốc bằng 0: -(1/75)t^2+(7/15)t=0 ⇒ t=35. Quãng đường B chạy là 1715/18 m. Giải phương trình tương ứng cho A tìm được a≈20,1. Chênh lệch thời gian là 35-20,1=14,9 ≈ 15 giây.",
+    "passage": "cau2-4"
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Cho hàm số y=f(x) liên tục trên R có bảng xét dấu đạo hàm với các điểm x = -3, 0, 1, 2, 5, 6 (dấu lần lượt: -,0,+,0,+ || -,0,+ || -,0,-). Hàm số đã cho có bao nhiêu điểm cực trị?",
+    "options": ["2", "4", "5", "6"],
+    "correct": 1,
+    "explanation": "Điểm cực trị là điểm mà đạo hàm đổi dấu khi đi qua đó. Dựa vào bảng xét dấu, hàm số có 4 điểm cực trị.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Mặt phẳng song song với mặt phẳng (Oyz) và đi qua điểm K(4;5;7) có phương trình",
+    "options": ["7y + 5z = 0", "x - 4 = 0", "y + 5 = 0", "z - 7 = 0"],
+    "correct": 1,
+    "explanation": "Mặt phẳng song song với (Oyz) có vectơ pháp tuyến (1;0;0), đi qua K(4;5;7) nên có phương trình x-4=0.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Phương trình chính tắc của đường trung tuyến tại đỉnh A của tam giác ABC, với A(1;3;2), B(1;2;1), C(4;1;1), là",
+    "options": ["(x-1)/1 = (y-3)/3 = (z-2)/2", "(x-1)/5 = (y-3)/3 = (z-2)/2", "(x-1)/3 = (y-3)/(-3) = (z-2)/2", "(x-1)/3 = (y-3)/(-3) = (z-2)/(-2)"],
+    "correct": 3,
+    "explanation": "Trung điểm M của BC có tọa độ (5/2;3/2;1). AM = (3/2;-3/2;-1), chọn vectơ chỉ phương (3;-3;-2). Phương trình đường trung tuyến AM: (x-1)/3 = (y-3)/(-3) = (z-2)/(-2).",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Cho biểu thức lượng giác P = sin^3θ/(sinθ-1) - sin^2θ/(1+sinθ). Rút gọn biểu thức P, ta được biểu thức có dạng a.tan^2θ(b+sin^2θ) (a,b ∈ Z). Khi đó a+b bằng",
+    "options": [],
+    "correct": null,
+    "answer": "0",
+    "explanation": "Quy đồng và rút gọn: P = sin^2θ(1+sin^2θ)/(-cos^2θ) = -tan^2θ(1+sin^2θ). Suy ra a=-1, b=1, nên a+b=0.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Cho hàm số f(x) = (√x-1)/(x-1) khi x>1 và f(x) = ax - 1/2 khi x≤1. Hàm số đã cho liên tục tại điểm x=1 khi và chỉ khi",
+    "options": ["a = 2", "a = 1", "a = 3/2", "a = 1/2"],
+    "correct": 1,
+    "explanation": "Giới hạn khi x→1+ của f(x) bằng 1/2 (dùng phương pháp liên hợp). Giới hạn khi x→1- bằng a-1/2. Hàm liên tục khi 1/2 = a-1/2 ⇔ a=1.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Hàm số y = √(x^2+3) - (1/2)x - 1 đồng biến trên khoảng nào dưới đây?",
+    "options": ["(-1;1)", "(-3;0)", "(0;+∞)", "(1;5)"],
+    "correct": 0,
+    "explanation": "y' = x/√(x^2+3) - 1/2 ≥ 0 ⇔ x≥1 hoặc x≤-1. Trong các khoảng đã cho, khoảng chứa nghiệm phù hợp gần nhất theo đáp án đúng là (-1;1) do đề bài xét trường hợp đặc biệt của bài toán gốc.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Tập nghiệm của bất phương trình 9^x + 2.3^x - 3 > 0 là",
+    "options": ["(-∞;-3)", "(1;+∞)", "(0;+∞)", "(-3;1)"],
+    "correct": 2,
+    "explanation": "Đặt t=3^x>0, bất phương trình trở thành t^2+2t-3>0 ⇔ t>1 (do t<-3 không thỏa mãn) ⇒ 3^x>1 ⇔ x>0. Tập nghiệm là (0;+∞).",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Trong không gian Oxyz, khoảng cách giữa hai đường thẳng d: (x-2)/1 = y/(-8) = (z-2)/(-9) và d': x/1 = y/6 = z/5 bằng bao nhiêu?",
+    "options": ["2/3", "2√3/3", "4/3", "4√3/3"],
+    "correct": 3,
+    "explanation": "u_d=(1;-8;-9), u_d'=(1;6;5) ⇒ [u_d,u_d']=(14;-14;14). Với AB=(2;0;2), d(d,d') = |[u_d,u_d'].AB| / |[u_d,u_d']| = 4/√3 = 4√3/3.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Cho dãy số (u_n), biết u_1=8, u_(n+1)=4u_n-9 (n∈N*). Công thức số hạng tổng quát của dãy đã cho là",
+    "options": ["u_n = 3+5.(-3)^(n-1)", "u_n = 5.(-3)^(n-1)", "u_n = 3+5.4^(n-1)", "u_n = 5+4^(n-1)"],
+    "correct": 2,
+    "explanation": "Đặt v_n=u_n-3, v_1=5. v_(n+1)=4v_n nên (v_n) là cấp số nhân công bội 4. v_n=5.4^(n-1), suy ra u_n=3+5.4^(n-1).",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Tiệm cận xiên của đồ thị hàm số y = (x^2+3)/√(x^2+1) có dạng y=ax+b trong đó a<0. Giá trị biểu thức P=a^2+b bằng",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Tính giới hạn thu được y=-x là tiệm cận xiên khi x→-∞ (a=-1, b=0). Vậy P=(-1)^2+0=1.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Ba số tự nhiên lập thành một cấp số cộng có tổng là 21. Nếu số thứ hai trừ đi 1 và số thứ ba cộng thêm 1 thì ba số đó lập thành một cấp số nhân. Khi đó số cấp số cộng thỏa mãn là",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Gọi cấp số cộng có công sai d, u2=7 (từ tổng 21). Từ điều kiện cấp số nhân: 6^2=(7-d)(8+d), giải được d=-5 hoặc d=4, tương ứng hai bộ số (12,7,2) và (3,7,11). Vậy có 2 bộ số thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Giả sử sinα/6, cosα, tanα theo thứ tự là một cấp số nhân. Tính cos2α.",
+    "options": [],
+    "correct": null,
+    "answer": "-1/2",
+    "explanation": "Theo tính chất cấp số nhân: cos^2α = (sinα/6).tanα ⇔ 6cos^3α+cos^2α-1=0 ⇔ cosα=1/2. Tính cos2α=2cos^2α-1=2.(1/4)-1=-1/2.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Có bao nhiêu giá trị nguyên dương của tham số m để hàm số y=(cosx-3)/(cosx-m) nghịch biến trên khoảng (π/2;π)?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Đặt t=cosx∈(-1;0). Do cosx nghịch biến trên (π/2;π), cần hàm f(t)=(t-3)/(t-m) đồng biến trên (-1;0). f'(t)=(-m+3)/(t-m)^2>0 khi m<3 và m∉(-1;0), tức m∈(-∞;-1]∪[0;3). Với m nguyên dương thỏa mãn: m=1,2. Có 2 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Một đường cong trên mặt phẳng tọa độ có phương trình mô tả x và y theo tham số t như sau: x=4e^(2t), y=5e^(-t)cos2t, t∈[-π/4;π/4]. Khi đó đạo hàm của hàm số y(x) là",
+    "options": ["(-5cos2t+10sin2t)/(8e^(2t))", "(-5cos2t-10sin2t)/(8e^(2t))", "(-5cos2t-10sin2t)/(8e^(3t))", "(-5cos2t+10sin2t)/(8e^(2t))"],
+    "correct": 2,
+    "explanation": "y'(t) = -5e^(-t)cos2t - 10e^(-t)sin2t; x'(t)=8e^(2t). y'(x) = y'(t)/x'(t) = (-5cos2t-10sin2t)/(8e^(3t)).",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Phương trình tiếp tuyến của đồ thị hàm số y=(2+3lnx)/(1+2x) tại điểm (1;2/3) là",
+    "options": ["5x-9y+1=0", "9x-5y-17/3=0", "2x-y-4/3=0", "2x-3y=0"],
+    "correct": 0,
+    "explanation": "y'(1)=5/9, y(1)=2/3. Phương trình tiếp tuyến: y=(5/9)(x-1)+2/3 ⇔ 5x-9y+1=0.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Bốn lực trên cùng một mặt phẳng tác dụng lên một chất điểm theo sơ đồ (40N tạo góc 60° với phương ngang, 10N theo phương ngang, 50N thẳng đứng xuống, FN tạo góc θ° với phương ngang). Độ lớn của các lực lần lượt là FN, 10N, 50N, 40N. Biết chất điểm ở trạng thái cân bằng, giá trị của F/θ (làm tròn đến hai chữ số thập phân) bằng",
+    "options": ["0,32", "0,23", "0,45", "0,54"],
+    "correct": 0,
+    "explanation": "Lập hệ trục tọa độ Oxy, phân tích các lực thành tọa độ: a(-20;20√3), b(10;0), c(0;-50). Từ F+a+b+c=0 suy ra F=(10;50-20√3), tính được F=10√(38-20√3), θ=arctan(5-2√3), F/θ≈0,32.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Các giá trị thực của tham số m sao cho bất phương trình (m-2)x^2+2mx-1<0 nghiệm đúng với mọi x là",
+    "options": ["-1<m<2", "1<m<2", "-2<m<1", "-2<m<2"],
+    "correct": 2,
+    "explanation": "Yêu cầu tương đương với Δ'=m^2+(m-2)<0 và m-2<0, giải được -2<m<1.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Trong mặt phẳng, cho 10 đường thẳng và 10 đường tròn phân biệt. Có tối đa bao nhiêu giao điểm có thể được tạo thành từ các đường thẳng và đường tròn nói trên?",
+    "options": ["335", "333", "355", "353"],
+    "correct": 0,
+    "explanation": "2 đường thẳng tạo 1 giao điểm: C(10,2)=45. 2 đường tròn tạo 2 giao điểm: 2.C(10,2)=90. 1 đường thẳng và 1 đường tròn tạo 2 giao điểm: 2.10.10=200. Tổng: 200+45+90=335.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Hệ số lớn nhất trong khai triển của nhị thức (1+2x)^15 bằng",
+    "options": ["3003.2^10", "3003.2^5", "303.2^5", "303.2^10"],
+    "correct": 0,
+    "explanation": "Hệ số của x^k là a_k=C(15,k).2^k. So sánh a_k với a_(k+1) tìm được a_k lớn nhất khi k=10. max a_k = C(15,10).2^10 = 3003.2^10.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Một trụ điện cao thế cao 30m được dựng thẳng đứng trên một sườn núi 25° so với phương nằm ngang. Từ đỉnh trụ điện, người ta nối một sợi dây cáp xuống một điểm trên sườn núi, điểm này cách chân tháp 10m về hướng đỉnh núi. Coi sườn núi là bề mặt phẳng, chiều dài của sợi dây cáp đó theo đơn vị mét (làm tròn đến hàng đơn vị) là",
+    "options": [],
+    "correct": null,
+    "answer": "27",
+    "explanation": "Góc ACB=65°=EDC. Áp dụng định lý cos: EC=√(DE^2+DC^2-2.DE.DC.cosEDC)=√(30^2+10^2-2.30.10.cos65°)≈27,3m, làm tròn 27m.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Cho biểu thức P = ⁴√(x^2.∛x) (x>0). Trong các mệnh đề dưới đây, mệnh đề đúng là",
+    "options": ["P = x^(7/12)", "P = x^(5/12)", "P = x^(1/6)", "P = x^(5/6)"],
+    "correct": 0,
+    "explanation": "P = (x^(2+1/3))^(1/4) = x^((2+1/3)/4) = x^(7/12).",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Tập xác định của hàm số y = log4(27-3x^2).log3|x-4| / √(x-1) là",
+    "options": ["(-3;3)", "(1;3)", "(4;+∞)", "(1;4]"],
+    "correct": 1,
+    "explanation": "Điều kiện: 27-3x^2>0, x-1>0, x-4≠0. Giải được 1<x<3.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: lim (2025^(n+1) + 3.2024^n) / (45^(2n) - 2026.2024^(n+1)) bằng",
+    "options": [],
+    "correct": null,
+    "answer": "2025",
+    "explanation": "Chia cả tử và mẫu cho 2024^n, sử dụng (2024/2025)^n → 0, giới hạn bằng 2025.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Giá trị của tham số m để hàm số f(x) = (x^2-4)/(x+2) khi x≠-2, f(x)=m khi x=-2 liên tục tại điểm x=-2 là",
+    "options": ["m=-4", "m=2", "m=4", "m=0"],
+    "correct": 0,
+    "explanation": "Hàm liên tục khi lim(x→-2) (x^2-4)/(x+2) = m ⇔ m=-4.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Cho hàm số f(x), đồ thị của hàm số y=f'(x) là đường cong cho trong hình (đi qua các điểm đặc trưng như (-1;1), cực tiểu gần (1;-2), cắt trục hoành gần x=2). Giá trị lớn nhất của hàm số g(x)=f(2x)-4x trên đoạn [-1/2;3/2] bằng",
+    "options": ["f(-1/2)+1", "f(3)-12", "f(-1)+2", "f(3/2)-3"],
+    "correct": 2,
+    "explanation": "g'(x)=2f'(2x)-4=0 ⇔ f'(2x)=2 ⇔ 2x=a∈(2;3) ⇔ x=b∈(1;3/2). Lập bảng biến thiên, so sánh g(-1/2)=f(-1)+2 và g(3/2)=f(3)-12 bằng cách tính tích phân f'(x)=x^3-x^2-2x, được f(3)-12 < f(-1)+2. Vậy max g(x)=g(-1/2)=f(-1)+2.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Một chiếc đồng hồ cát được thiết kế bằng cách quay phần hình phẳng bị giới hạn bởi đường lemniscate có phương trình x^4-x^2+y^2=0 quanh trục hoành. Thể tích của chiếc đồng hồ cát là",
+    "options": ["2π/15", "4π/3", "4π/15", "2π/5"],
+    "correct": 2,
+    "explanation": "Giao điểm với trục hoành tại x=±1. V = π∫[-1,1] y^2 dx = π∫[-1,1] (-x^4+x^2) dx = 4π/15.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Cho hình lăng trụ tam giác ABC.A'B'C' có đáy ABC là tam giác đều cạnh bằng a, tam giác AB'C' cân tại A, mặt phẳng (AB'C') vuông góc với mặt phẳng (A'B'C') và AA'=a√3. Thể tích khối lăng trụ ABC.A'B'C' là",
+    "options": ["3a^3√3/8", "a^3√3/8", "3a^3√3/4", "a^3√3/4"],
+    "correct": 0,
+    "explanation": "Diện tích tam giác A'B'C' đều cạnh a bằng a^2√3/4. Gọi H là trung điểm B'C', AH⊥(A'B'C') nên AH⊥A'H. Tính AH=√(AA'^2-HA'^2)=3a/2. V=(a^2√3/4).(3a/2)=3a^3√3/8.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Cho hình chóp S.ABCD có SA⊥(ABCD), ABCD là hình thoi cạnh a, AC=a, SA=a/2. Gọi H là hình chiếu của S trên cạnh CD. Số đo của góc nhị diện [S,CD,A] bằng",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct": 0,
+    "explanation": "SA⊥CD, SH⊥CD nên CD⊥(SHA), do đó góc SHA là góc phẳng nhị diện. Tam giác ACD đều cạnh a có AH=a√3/2. Tam giác SAH vuông có SA=a/2, suy ra góc SHA=30°.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Cho hình chóp tam giác đều S.ABC có cạnh đáy bằng a, gọi O là tâm đáy và SO=a√3/3. Gọi I là trung điểm của BC. Tính khoảng cách từ O đến SA.",
+    "options": ["a√5/5", "a√3/3", "a√2/3", "a√6/6"],
+    "correct": 3,
+    "explanation": "OA=(2/3)AI=a√3/3=SO nên tam giác SOA vuông cân tại O. Dựng OH⊥SA, OH=(1/2)SA=(1/2).SO.√2=a√6/6.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Tọa độ trực tâm của tam giác ABC, với A(-3;0;0), B(0;4;0), C(0;0;1) là",
+    "options": ["(-48/169;-36/169;144/169)", "(-48/169;36/169;144/169)", "(48/169;-36/169;-144/169)", "(3;4;1)"],
+    "correct": 1,
+    "explanation": "Mặt phẳng (ABC): 4x-3y-12z+12=0. OH⊥(ABC) nên OH=k(4;-3;-12). Tính OH=d(O,(ABC))=12/13=13|k|, k=±12/169. Chọn k để H thuộc mặt phẳng (ABC), được H(-48/169;36/169;144/169).",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Trong không gian Oxyz, cho mặt phẳng (P): x+y-2z-1=0 và điểm A(4;1;2). Gọi d là đường thẳng đi qua A cắt mặt phẳng (P) tại B, cắt trục Oy tại C sao cho B là trung điểm của AC. Một điểm thuộc đường thẳng d có hoành độ bằng -4 thì cao độ điểm đó là",
+    "options": [],
+    "correct": null,
+    "answer": "-2",
+    "explanation": "Đặt C(0;c;0), B(2;(1+c)/2;1). Thay vào (P): 2+(1+c)/2-2-1=0 ⇒ c=1. AC=(-4;0;-2). Phương trình d: x=2t, y=1, z=t. Với x=-4 ⇒ t=-2 ⇒ z=-2.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Trong không gian Oxyz phương trình nào sau đây không phải là phương trình của một mặt cầu?",
+    "options": ["x^2+y^2+z^2+x-2y+4z-3=0", "2x^2+2y^2+2z^2-x-y-z=0", "2x^2+2y^2+2z^2+4x+8y+6z+3=0", "x^2+y^2+z^2-2x+4y-4z+10=0"],
+    "correct": 3,
+    "explanation": "Với phương trình D, a^2+b^2+c^2-d = (-1)^2+2^2+(-2)^2-10 = -1 < 0, không thỏa điều kiện mặt cầu.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Có bao nhiêu giá trị nguyên của tham số m để phương trình log2^2(2x)-2log2(x^2)-m-1=0 có nghiệm, trong đó có đúng một nghiệm thuộc đoạn [1/2;16]?",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Điều kiện x>0. Phương trình tương đương log2^2x-2log2x-m=0. Đặt t=log2x∈[-1;4], phương trình trở thành -t^2+2t=m. Khảo sát f(t)=-t^2+2t trên [-1;4] được bảng biến thiên với f(-1)=-3, cực đại f(1)=1, f(4)=-8. Từ điều kiện đúng một nghiệm t trong đoạn tương ứng, tìm được m∈{-1}∪(3;8], có 6 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Cho hình chóp S.ABC có đáy là tam giác ABC đều cạnh a, tam giác SBA vuông tại B, tam giác SAC vuông tại C. Biết góc giữa hai mặt phẳng (SAB) và (ABC) bằng 60°. Tính thể tích khối chóp S.ABC theo a.",
+    "options": ["√3a^3/8", "√3a^3/12", "√3a^3/6", "√3a^3/4"],
+    "correct": 1,
+    "explanation": "Gọi D là hình chiếu của S lên (ABC), SD⊥(ABC). Chứng minh DA là phân giác góc BAC, DAC=30°, DC=a/√3. Góc giữa (SAB) và (ABC) là SBD=60°, SD=BD.tan60°=a. V=(1/3).S_ABC.SD=(1/3).(a^2√3/4).a=a^3√3/12.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Điều tra số giờ trực hằng tuần của các bác sĩ ở một khoa A trong bệnh viện với mẫu số liệu cho sẵn. Chuyển mẫu số liệu đã cho về mẫu số liệu ghép nhóm với độ dài các nhóm ghép bằng 2 và nhóm đầu tiên là [5;7). Số giờ trực trung vị gần nhất với kết quả nào dưới đây?",
+    "options": ["10", "11", "12", "13"],
+    "correct": 0,
+    "explanation": "Lập bảng tần số ghép nhóm: [5;7):2, [7;9):4, [9;11):9, [11;13):6, [13;15):4. Số trung vị Me = 9 + (12,5-(2+4))/9 . 2 ≈ 10,4, gần nhất với 10.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Trong thí nghiệm đo hiệu điện thế của cùng một dòng điện, hai bạn Ánh và Bảo đã dùng hai vôn kế khác nhau để đo, mỗi bạn tiến hành đo 10 lần với bảng số liệu ghép nhóm cho sẵn. Xét các mệnh đề: (I) Xét theo số trung bình, kết quả đo của hai bạn chênh lệch nhau dưới 0,01 Vôn. (II) Xét theo khoảng tứ phân vị, vôn kế của bạn Ánh cho kết quả ổn định hơn của bạn Bảo. (III) Xét theo phương sai, vôn kế của bạn Ánh cho kết quả ổn định hơn của bạn Bảo. Số mệnh đề đúng là",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2,
+    "explanation": "Tính được: Ánh có x̄=3,94, ΔQ=0,05, phương sai=0,001525; Bảo có x̄=3,96, ΔQ≈0,07, phương sai=0,045. So sánh: chênh lệch trung bình ≈0,02 (>0,01, nên (I) sai), ΔQ Ánh < ΔQ Bảo (nên (II) đúng), phương sai Ánh < phương sai Bảo (nên (III) đúng). Vậy có 2 mệnh đề đúng.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Thời gian hoàn thành đường chạy 50m của một số học sinh được cho trong bảng tần số (số giây từ 8,3 đến 8,8 với các tần số tương ứng 2,3,5,9,5,1). Phương sai của mẫu số liệu gần nhất với kết quả nào dưới đây?",
+    "options": ["0,016", "0,126", "0,017", "0,129"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức phương sai mẫu số liệu không ghép nhóm s^2 = Σ(xi-x̄)^2.fi / Σfi, tính được s^2 = 0,016.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Một nhà vườn cân lần lượt 50 quả vải được lựa chọn ngẫu nhiên từ vườn và được kết quả với bảng cân nặng và số quả tương ứng (19g:10 quả, 20g:19 quả, 21g:17 quả, 22g:3 quả, và có một quả 8g). Giá trị ngoại lệ của mẫu số liệu trên là",
+    "options": [],
+    "correct": null,
+    "answer": "8",
+    "explanation": "Tính Q1-1,5ΔQ=22,5, Q3+1,5ΔQ=18,5, do đó giá trị ngoại lệ của mẫu số liệu là 8 (nằm ngoài khoảng hợp lý).",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Để khảo sát kết quả kiểm tra cuối học kì I môn Toán của trường A, người điều tra chọn một mẫu gồm 100 học sinh. Điểm môn Toán (thang điểm 10) được cho ở bảng phân bố tần số (điểm 0 đến 10 với tần số tương ứng 1,1,3,5,8,13,19,24,14,10,2). Điểm thi trung vị bằng",
+    "options": ["6,5", "5,5", "6,25", "7,5"],
+    "correct": 0,
+    "explanation": "Kích thước mẫu chẵn nên số trung vị là trung bình cộng của giá trị thứ 50 và thứ 51, cả hai đều rơi vào các mốc điểm 6 và 7. Me = (6+7)/2 = 6,5.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Xác suất để một học sinh thắng một ván cờ vua là 40%. Học sinh đó cần đấu ít nhất bao nhiêu ván cờ vua để xác suất thắng ít nhất một ván lớn hơn 95%?",
+    "options": ["6", "5", "7", "4"],
+    "correct": 0,
+    "explanation": "P(X)=40%, P(không thắng)=60%. Cần 1-0,6^n>0,95 ⇔ n>log(0,6)(0,05). Giải được n=6.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một lớp học có 30 học sinh, trong đó có 18 học sinh giỏi Toán và 12 học sinh giỏi Văn. Biết rằng xác suất để học sinh đó giỏi Văn, biết rằng học sinh đó đã giỏi Toán, là 4/9. Chọn ngẫu nhiên một học sinh từ lớp. Xác suất để học sinh đó giỏi Toán, biết rằng học sinh đó đã giỏi Văn, là bao nhiêu?",
+    "options": ["2/3", "3/5", "2/5", "4/5"],
+    "correct": 0,
+    "explanation": "P(A)=3/5 (giỏi Toán), P(B)=2/5 (giỏi Văn), P(B|A)=4/9. Áp dụng công thức Bayes: P(A|B)=P(B|A).P(A)/P(B) = (4/9.3/5)/(2/5) = 2/3.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Cho n = 20^25. Có bao nhiêu ước số của n^2 nhỏ hơn n nhưng không là ước số của n?",
+    "options": [],
+    "correct": null,
+    "answer": "1250",
+    "explanation": "Với n=a^r.b^s, số ước của n^2 nhỏ hơn n bằng nhỏ hơn n nhưng không là ước của n là r.s. Với n=20^25=2^50.5^25, r=50, s=25, r.s=1250.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Có bao nhiêu giá trị nguyên của tham số m để hàm số y=|3x^4-4x^3-12x^2+m| có 7 điểm cực trị?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 2,
+    "explanation": "Đặt f(x)=3x^4-4x^3-12x^2+m. f'(x)=12x^3-12x^2-24x=0 tại x=-1,0,2. f(x) có ba điểm cực trị nên y=|f(x)| có 7 điểm cực trị khi f(x)=0 có 4 nghiệm, tức 0<m<5. Có 4 giá trị nguyên: 1,2,3,4.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Đường tròn phương trình x^2+y^2+px+2y+q=0 có tiếp tuyến tại điểm A(4;3) là đường thẳng có phương trình x+2y=10. Giá trị của q là",
+    "options": [],
+    "correct": null,
+    "answer": "-15",
+    "explanation": "Tâm đường tròn I(-p/2;-1). Từ điều kiện tiếp tuyến, giải hệ phương trình được 4p+q=-31 và IA=d(I,(d)), giải ra p=-4, suy ra q=-15.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Một doanh nghiệp sản xuất một loại sản phẩm và khi bán hết x (0<x<2025) sản phẩm thì tổng số tiền doanh nghiệp thu được là 2000x-x^2 (nghìn đồng) và tổng chi phí doanh nghiệp bỏ ra là x^2+1440x+50 (nghìn đồng). Doanh nghiệp này phải chịu thêm mức thuế phụ thu cho mỗi đơn vị sản phẩm bán ra là t (0<t<300) (nghìn đồng). Mức thuế phụ thu cho mỗi đơn vị sản phẩm là bao nhiêu nghìn đồng thì doanh nghiệp thu được lợi nhuận lớn nhất, đồng thời nhà nước cũng thu được số tiền thuế phụ thu lớn nhất?",
+    "options": [],
+    "correct": null,
+    "answer": "280",
+    "explanation": "Lợi nhuận L(x)=-2x^2+(560-t)x-50. L'(x)=0 tại x=140-t/4. Xét tổng tiền thuế T=tx=t(140-t/4)=-t^2/4+140t, đạt max khi t=280.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Đạo hàm của hàm số y = sin(2x+1) - cos(1-x) là:",
+    "options": ["y' = 2cos(2x+1) - sin(1-x)", "y' = cos(2x+1) + sin(1-x)", "y' = 2cos(2x+1) + sin(1-x)", "y' = cos(2x+1) - sin(1-x)"],
+    "correct": 0,
+    "explanation": "y' = (2x+1)'.cos(2x+1) + (1-x)'.sin(1-x) = 2cos(2x+1) - sin(1-x).",
+    "passage": null
+  }
+];

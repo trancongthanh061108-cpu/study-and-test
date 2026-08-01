@@ -1,0 +1,432 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Cho hàm số f(x) = (2√(x+2) - 3)/(x-1) nếu x ≥ 2, và f(x) = x² + 1 nếu x < 2. Tính P = f(2) + f(-2).",
+    "options": ["P = 8/3", "P = 4", "P = 6", "P = 5/3"],
+    "correct": 2,
+    "explanation": "Khi x ≥ 2: f(2) = (2√4 - 3)/(2-1) = 1. Khi x < 2: f(-2) = (-2)² + 1 = 5. Vậy P = f(2) + f(-2) = 1 + 5 = 6.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Tập xác định của hàm số y = tan(2x - π/3) là:",
+    "options": [
+      "R \\ {5π/12 + kπ/2, k∈Z}",
+      "R \\ {5π/12 + kπ, k∈Z}",
+      "R \\ {5π/6 + kπ/2, k∈Z}",
+      "R \\ {5π/6 + kπ, k∈Z}"
+    ],
+    "correct": 0,
+    "explanation": "Hàm số xác định khi tan(2x - π/3) ≠ 0 ⇔ 2x - π/3 ≠ π/2 + kπ ⇔ x ≠ 5π/12 + kπ/2, k∈Z.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Cho hàm số y = -x³ - mx² + (4m+9)x + 5, với m là tham số. Có bao nhiêu giá trị nguyên của m để hàm số nghịch biến trên (-∞; +∞)?",
+    "options": ["5", "6", "7", "4"],
+    "correct": 2,
+    "explanation": "y' = -3x² - 2mx + 4m + 9. Hàm nghịch biến trên R ⇔ y' ≤ 0 ∀x ⇔ Δ' = m² + 12m + 27 ≤ 0 ⇔ m ∈ [-9; -3]. Số giá trị nguyên của m là 7.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Từ 2 chữ số 1 và 8 lập được bao nhiêu số tự nhiên có 8 chữ số sao cho không có 2 chữ số 1 đứng cạnh nhau?",
+    "options": ["54", "110", "55", "108"],
+    "correct": 2,
+    "explanation": "Xét số lượng chữ số 1 từ 0 đến 4: TH1 (0 số 1): 1 số; TH2 (1 số 1): 8 số; TH3 (2 số 1): C(7,2)=21; TH4 (3 số 1): C(6,3)=20; TH5 (4 số 1): C(5,4)=5. Tổng: 1+8+21+20+5 = 55.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Cho hai tập A = [0;5]; B = (2a; 3a+1), a > -1. Tập hợp tất cả các giá trị a ∈ (m;n) để A ∩ B ≠ ∅. Tính m + n.",
+    "options": null,
+    "correct": null,
+    "answer": "2,17",
+    "explanation": "A ∩ B = ∅ ⇔ 2a ≥ 5 hoặc 3a+1 ≤ 0, kết hợp a > -1 ta được a ≥ 5/2 hoặc -1 < a < -1/3. Do đó A ∩ B ≠ ∅ ⇔ -1/3 ≤ a < 5/2 ⇒ m = -1/3, n = 5/2, m + n = 13/6 ≈ 2,17.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật và SA vuông góc với (ABCD). Giả sử SA=2, AB=3, AD=4. Xét hệ tọa độ Oxyz với O trùng A và các tia Ox, Oy, Oz lần lượt trùng với các tia AB, AD, AS. Tính góc (BD, SC).",
+    "options": null,
+    "correct": null,
+    "answer": "74,9",
+    "explanation": "A(0;0;0), B(3;0;0), D(0;4;0), S(0;0;2), C(3;4;0). BD = (-3;4;0), SC = (3;4;-2). cos(BD,SC) = 7/(5√29) ⇒ góc (BD,SC) ≈ 74,9°.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Gọi M, m tương ứng là giá trị lớn nhất và giá trị nhỏ nhất của hàm số y = (2cosx + 1)/(cosx - 2). Khẳng định nào sau đây đúng?",
+    "options": ["M + 9m = 0", "9M - m = 0", "9M + m = 0", "M + m = 0"],
+    "correct": 2,
+    "explanation": "y = 2 + 5/(cosx-2). Vì -1 ≤ cosx ≤ 1 nên -3 ≤ cosx-2 ≤ -1, suy ra 1/3 ≥ y ≥ -3. Vậy M = 1/3, m = -3, nên 9M + m = 0.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Cho cấp số nhân (un) thỏa mãn: u1 + u2 + u3 = 13 và u4 - u1 = 26. Tổng 8 số hạng đầu của cấp số nhân (un) là bao nhiêu?",
+    "options": null,
+    "correct": null,
+    "answer": "3280",
+    "explanation": "Từ hệ phương trình giải được q = 3, u1 = 1. S8 = u1(1-q^8)/(1-q) = (1-3^8)/(1-3) = 3280.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Hàm số nào sau đây luôn nghịch biến trên R?",
+    "options": ["y = log(1/3) x", "y = -x⁴ + 4x² - 4", "y = -x³ - 2x + 3", "y = (x+2)/(x-1)"],
+    "correct": 2,
+    "explanation": "Xét y = -x³ - 2x + 3 có TXĐ D = R, y' = -3x² - 2 < 0 với mọi x nên hàm số nghịch biến trên R.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Tìm tất cả các giá trị thực của tham số m để phương trình 3x² - 2(m+1)x + 3m - 5 = 0 có một nghiệm gấp ba nghiệm còn lại.",
+    "options": ["m = 7", "m = 3", "m = 3; m = 7", "m ∈ ∅"],
+    "correct": 2,
+    "explanation": "Phương trình luôn có 2 nghiệm phân biệt (Δ' > 0 với mọi m). Theo Viet và điều kiện x1 = 3x2, giải được m² - 10m + 21 = 0 ⇔ m = 3 hoặc m = 7.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Từ các chữ số 1, 2, 3, 4, 5, 6 lập được bao nhiêu số tự nhiên gồm tám chữ số sao cho trong mỗi số đó có đúng ba chữ số 1, các chữ số còn lại đôi một khác nhau và hai chữ số chẵn không đứng cạnh nhau?",
+    "options": null,
+    "correct": null,
+    "answer": "2400",
+    "explanation": "Xếp 5 số lẻ (1,1,1,3,5) có 5!/3! cách. Xếp 3 số chẵn (2,4,6) xen kẽ vào 6 vị trí trống có A(6,3) cách. Tổng: (5!/3!) × A(6,3) = 20 × 120 = 2400.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Biểu thức D = (cot²x - cos²x)/cot²x + (sinx.cosx)/cotx có giá trị bằng:",
+    "options": ["1", "-1", "1/2", "-1/2"],
+    "correct": 0,
+    "explanation": "D = 1 - sin²x + sin²x = 1.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Cho cấp số cộng (un) biết u5 = 18 và 4Sn = S2n. Tìm số hạng đầu tiên u1 và công sai d của cấp số cộng. Tính 2u1 + 3d.",
+    "options": null,
+    "correct": null,
+    "answer": "16",
+    "explanation": "u1 + 4d = 18 và 2u1 - d = 0. Giải được u1 = 2, d = 4. Vậy 2u1 + 3d = 4 + 12 = 16.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Tìm số hạng không chứa x trong khai triển nhị thức Newton (x - 2/x²)^21, (x ≠ 0, n ∈ N*).",
+    "options": ["2⁷C21⁷", "2⁸C21⁸", "-2⁸C21⁸", "-2⁷C21⁷"],
+    "correct": 3,
+    "explanation": "Số hạng tổng quát: (-2)^k C21^k x^(21-3k). Cho 21-3k = 0 ⇔ k = 7. Hệ số cần tìm là -2⁷C21⁷.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Cho hàm số y = f(x) có bảng biến thiên như hình vẽ. Hàm số y = f(x) nghịch biến trên khoảng nào trong các khoảng sau đây?",
+    "options": ["(-1; 0)", "(-1; 1)", "(-∞; -1)", "(0; +∞)"],
+    "correct": 0,
+    "explanation": "Trong khoảng (-1;0), đạo hàm y' < 0 nên hàm số nghịch biến trên khoảng (-1;0).",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Xác định số hạng đầu u1 và công sai d của cấp số cộng (un) có u9 = 5u2 và u13 = 2u6 + 5. Tính u1 + d.",
+    "options": null,
+    "correct": null,
+    "answer": "7",
+    "explanation": "Giải hệ 4u1 - 3d = 0 và u1 - 2d = -5, được u1 = 3, d = 4. Vậy u1 + d = 7.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Cho hàm số y = f(x) có đồ thị như hình vẽ bên dưới. Số nghiệm thực phân biệt của phương trình f'(-4 - 2f(x)) = 0 là:",
+    "options": ["3", "5", "4", "6"],
+    "correct": 1,
+    "explanation": "Từ đồ thị, f'(x) = 0 ⇔ x = 0 hoặc x = 2. Suy ra f(x) = -2 hoặc f(x) = -3. Phương trình f(x) = -2 có 3 nghiệm phân biệt, f(x) = -3 có 1 nghiệm thực phân biệt và 1 nghiệm kép khác 3 nghiệm trên. Tổng số nghiệm thực phân biệt là 5.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Đường thẳng d: x/a + y/b = 1 (a≠0; b≠0), đi qua điểm M(-1;6) tạo với các tia Ox, Oy một tam giác có diện tích bằng 4. Tính S = a + 2b.",
+    "options": null,
+    "correct": null,
+    "answer": "12",
+    "explanation": "Từ hệ -1/a + 6/b = 1 và (1/2)ab = 4, giải được a = 2, b = 4. Vậy S = a + 2b = 12.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Viết thêm bốn số vào giữa hai số 160 và 5 để được một cấp số nhân. Tổng các số hạng của cấp số nhân đó là bao nhiêu?",
+    "options": null,
+    "correct": null,
+    "answer": "315",
+    "explanation": "u1 = 160, u6 = 5 ⇒ q = 1/2. Tổng S6 = 160(1-(1/2)^6)/(1-1/2) = 315.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Thầy Bình đặt lên bàn 30 tấm thẻ đánh số từ 1 đến 30. Bạn An chọn ngẫu nhiên 10 tấm thẻ. Tính xác suất để trong 10 tấm thẻ lấy ra có 5 tấm thẻ mang số lẻ, 5 tấm mang số chẵn trong đó chỉ có một tấm thẻ mang số chia hết cho 10.",
+    "options": ["99/667", "8/11", "3/11", "99/167"],
+    "correct": 0,
+    "explanation": "n(Ω) = C30^10. Lấy 5 thẻ lẻ: C15^5; lấy 1 thẻ chia hết cho 10: C3^1; lấy 4 thẻ chẵn không chia hết cho 10: C12^4. P(A) = (C15^5.C3^1.C12^4)/C30^10 = 99/667.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Cho tập A gồm n điểm phân biệt trên mặt phẳng sao cho không có 3 điểm nào thẳng hàng. Tìm n sao cho số tam giác có 3 đỉnh lấy từ 3 điểm thuộc A gấp đôi số đoạn thẳng được nối từ 2 điểm thuộc A.",
+    "options": null,
+    "correct": null,
+    "answer": "8",
+    "explanation": "C(n,3) = 2C(n,2) (n≥3) ⇔ n!/(3!(n-3)!) = 2.n!/(2!(n-2)!) ⇔ 1/6 = 1/(n-2) ⇔ n = 8.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Có bao nhiêu số nguyên x thỏa mãn (-4^x + 5.2^(x+2) - 64)√(log(1/2)(8x+9)) ≥ 0?",
+    "options": ["15", "16", "4", "3"],
+    "correct": 2,
+    "explanation": "Điều kiện: 0 < x ≤ 64. Bất phương trình tương đương log(1/2)(8x+9) = 0 (x=64, thỏa) hoặc -4^x+5.2^(x+2)-64 ≥ 0 ⇔ 2 ≤ x ≤ 4. Kết hợp điều kiện nguyên: x ∈ {2;3;4;64}. Có 4 số nguyên thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Biểu đồ dưới đây biểu diễn số lượng khách hàng đặt bàn qua hình thức trực tuyến mỗi ngày trong quý III năm 2022 của một nhà hàng. Khoảng tứ phân vị của mẫu số liệu ghép nhóm cho bởi biểu đồ trên là bao nhiêu?",
+    "options": ["9,5", "8,5", "10,5", "7,5"],
+    "correct": 1,
+    "explanation": "Tứ phân vị thứ nhất Q1 = 7,5; tứ phân vị thứ ba Q3 = 16. Khoảng tứ phân vị ΔQ = Q3 - Q1 = 16 - 7,5 = 8,5.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Trong hệ tọa độ Oxy, cho đường tròn (C): x² + y² - 3x - y = 0. Phương trình tiếp tuyến của (C) tại M(1;-1) là:",
+    "options": ["x + 3y - 2 = 0", "x - 3y - 2 = 0", "x - 3y + 2 = 0", "x + 3y + 2 = 0"],
+    "correct": 3,
+    "explanation": "Đường tròn có tâm I(3/2;1/2), M thuộc (C). Tiếp tuyến tại M nhận vecto IM = (-1/2;-3/2) làm pháp tuyến, có phương trình x + 3y + 2 = 0.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Đồ thị dưới đây là của một trong bốn hàm số sau. Hỏi hàm số đó là hàm số nào?",
+    "options": [
+      "y = (x²-x+4)/(x+1)",
+      "y = (x²-2x+3)/(x+1)",
+      "y = (-x²-x+2)/(x+1)",
+      "y = (x²+x-1)/(x+1)"
+    ],
+    "correct": 2,
+    "explanation": "Từ đồ thị: tiệm cận đứng x = -1, tiệm cận xiên y = -x (do lim x→-∞ y=+∞, lim x→+∞ y=-∞). Hàm số phù hợp là y = (-x²-x+2)/(x+1).",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Cho hình chóp S.ABCD có cạnh bên SB vuông góc với mặt đáy và ABCD là hình chữ nhật. Biết SB=2a, AB=3a, BC=4a và gọi α là góc giữa mặt phẳng (SAC) và mặt đáy. Giá trị tanα bằng:",
+    "options": ["3/4", "4/3", "5/6", "6/5"],
+    "correct": 2,
+    "explanation": "Gọi H là chân đường cao hạ từ B lên AC: BH = (BA.BC)/√(BA²+BC²) = 12a/5. Vì AC⊥(SBH) nên góc giữa (SAC) và đáy là góc SHB. tanα = SB/BH = 2a/(12a/5) = 5/6.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Trong không gian Oxyz cho ba vectơ a = (3;1;2), b = (-3;0;4) và c = (6;-1;0). Tìm tọa độ của vectơ 2a - 3b - 5c.",
+    "options": null,
+    "correct": null,
+    "answer": "-15;7;-8",
+    "explanation": "2a = (6;2;4); 3b = (-9;0;12); 5c = (30;-5;0). Tọa độ 2a-3b-5c = (6+9-30; 2+5; 4-12) = (-15;7;-8).",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Cho hàm số y = (mx² + (3m²-2)x - 2)/(x + 3m) (1) với m là số thực. Có bao nhiêu giá trị m để góc giữa hai tiệm cận của đồ thị hàm số (1) bằng 45°?",
+    "options": null,
+    "correct": null,
+    "answer": "2",
+    "explanation": "Với m ≠ 1/3, đồ thị có hai tiệm cận d1: x=-3m và d2: y=mx-2. cos45° = |m|/√(m²+1) = √2/2 ⇔ m = ±1. Có 2 giá trị m thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Sinh nhật lần thứ 17 của An vào ngày 01 tháng 5 năm 2018. Bạn An muốn mua một chiếc máy ảnh giá 3.850.000 đồng nên An quyết định bỏ ống heo 5.000 đồng vào ngày 01 tháng 02 năm 2018. Các ngày tiếp theo, ngày sau bỏ nhiều hơn ngày trước 10.000 đồng. Hỏi đến ngày sinh nhật của mình (tính đến ngày 30 tháng 4 năm 2018), An có bao nhiêu tiền?",
+    "options": null,
+    "correct": null,
+    "answer": "39605000",
+    "explanation": "Số tiền bỏ heo mỗi ngày là CSC với u1=5000, d=10000. Tính đến ngày thứ 89 (30/4/2018), S89 = 89[2.5000+(89-1).10000]/2 = 39.605.000 đồng.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Biết đồ thị hàm số y = (x²-2x+2)/(x-3) có tiệm cận xiên là đường thẳng y = ax + b. Tính a² + 2b.",
+    "options": ["4", "2", "5", "3"],
+    "correct": 3,
+    "explanation": "Chia tử cho mẫu: y = x+1+5/(x-3). Tiệm cận xiên là y=x+1, nên a=1, b=1, a²+2b = 3.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Kết quả điều tra về số giờ làm thêm trong một tuần của 100 sinh viên được cho như bảng số liệu ghép nhóm. Tìm khoảng tứ phân vị của số liệu đó.",
+    "options": null,
+    "correct": null,
+    "answer": "3,27",
+    "explanation": "Q1 ≈ 5,3; Q3 ≈ 8,57. Khoảng tứ phân vị ΔQ = Q3 - Q1 ≈ 3,27.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Biết tiệm cận xiên của đồ thị hàm số y = (x³+2)/(x²-2x) cắt trục tọa độ tại hai điểm A và B. Khi đó diện tích tam giác OAB là:",
+    "options": ["2", "4", "8", "3"],
+    "correct": 0,
+    "explanation": "Chia tử cho mẫu ta được tiệm cận xiên d: y=x-2. d cắt Ox tại (2;0), cắt Oy tại (0;-2). S(OAB) = (1/2).OA.OB = (1/2).2.2 = 2.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Bạn Chi rất thích nhảy hiện đại. Thời gian tập nhảy mỗi ngày trong thời gian gần đây của bạn Chi được thống kê lại ở bảng số liệu ghép nhóm. Khoảng biến thiên của mẫu số liệu ghép nhóm là:",
+    "options": ["25", "20", "15", "30"],
+    "correct": 0,
+    "explanation": "Khoảng biến thiên của mẫu số liệu ghép nhóm là: 45 - 20 = 25 (phút).",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Một biển quảng cáo có dạng hình vuông ABCD cạnh AB=4m. Trên tấm biển đó có các đường tròn tâm A và đường tròn tâm B cùng bán kính R=4m, hai đường tròn cắt nhau như hình vẽ. Chi phí sơn phần gạch chéo là 150.000 đồng/m², chi phí sơn phần màu đen là 100.000 đồng/m², chi phí sơn phần còn lại là 250.000 đồng/m². Hỏi số tiền để sơn biển quảng cáo theo cách trên gần nhất với số tiền nào dưới đây?",
+    "options": ["3,017 triệu đồng", "1,213 triệu đồng", "2,06 triệu đồng", "2,195 triệu đồng"],
+    "correct": 3,
+    "explanation": "Tính diện tích các phần bằng tích phân: phần gạch chéo = 16π/3 - 4√3; phần đen = -8π/3+8√3; phần còn lại = 16-8π/3-4√3. Số tiền: (16π/3-4√3).150000+(-8π/3+8√3).100000+(16-8π/3-4√3).250000 ≈ 2.191.480 đồng ≈ 2,195 triệu đồng.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Gọi x0 là nghiệm dương nhỏ nhất của phương trình 3sin²x + 2sinx.cosx - cos²x = 0. Chọn khẳng định đúng.",
+    "options": ["x0 ∈ (3π/2; 2π)", "x0 ∈ (π; 3π/2)", "x0 ∈ (π/2; π)", "x0 ∈ (0; π/2)"],
+    "correct": 3,
+    "explanation": "Chia hai vế cho cos²x (cosx=0 không thỏa): 3tan²x+2tanx-1=0 ⇔ tanx=-1 hoặc tanx=1/3. Nghiệm dương nhỏ nhất là x0 = arctan(1/3) ∈ (0; π/2).",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Xét các số thực dương a, b sao cho -25, 2a, 3b là cấp số cộng và 2, a+2, b-3 là cấp số nhân. Khi đó a² + b² - 3ab bằng:",
+    "options": null,
+    "correct": null,
+    "answer": "59",
+    "explanation": "Từ CSC: -25+3b=4a. Từ CSN: 2(b-3)=(a+2)². Giải hệ được a=2, b=11. Vậy a²+b²-3ab = 4+121-66 = 59.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Một người bỏ ngẫu nhiên ba lá thư vào ba chiếc phong bì đã ghi địa chỉ. Xác suất để có ít nhất một lá thư được bỏ đúng phong bì là:",
+    "options": ["1/2", "2/3", "1/3", "5/6"],
+    "correct": 1,
+    "explanation": "n(Ω)=3!=6. Gọi B là biến cố không có lá thư nào đúng phong bì, n(B)=2. P(A)=1-P(B)=1-2/6=2/3.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Cho hàm số bậc ba y = f(x). Biết rằng hàm số y = f'(1-x²) có đồ thị như hình vẽ bên. Số điểm cực trị của hàm số g(x) = f((x²-1)/x²) + 2/x là:",
+    "options": ["5", "4", "3", "7"],
+    "correct": 0,
+    "explanation": "g'(x)=0 dẫn tới phương trình f'(1-1/x²)=1/x. Đặt t=1/x, xét h(t)=1/t nghịch biến và vẽ chung đồ thị với y=f'(1-t²), suy ra phương trình có 5 nghiệm đơn. Vậy hàm số g(x) có 5 điểm cực trị.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh 2√3, SA⊥(ABC) và SA=√3. Gọi G là trọng tâm của tam giác ABC. Khoảng cách từ điểm G đến mặt phẳng (SBC) bằng:",
+    "options": null,
+    "correct": null,
+    "answer": "0,5",
+    "explanation": "d(G,(SBC))/d(A,(SBC)) = GK/AF = EG/EA = 1/3 ⇒ d(G,(SBC)) = (1/3)d(A,(SBC)) = (1/3)AF. Với AF = 3/2, ta có d(G,(SBC)) = 1/2.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Có bao nhiêu số nguyên y ∈ [-2022;2022] để bất phương trình (3x)^(y + log3x/10) ≥ 3^((11/10)log3x) có nghiệm đúng với mọi số thực x ∈ (1;9)?",
+    "options": null,
+    "correct": null,
+    "answer": "2022",
+    "explanation": "Đặt t=log3x∈(0;2). Bất phương trình quy về 10y ≥ 11t/(t+1) - t với mọi t∈(0;2), suy ra 10y ≥ 16/3 ⇒ y ≥ 16/30. Vì y nguyên trong [-2022;2022], y∈{1,2,...,2022}: có 2022 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Cho hình nón có đỉnh S có bán kính đáy bằng a và góc ở đỉnh bằng 120°. Thiết diện tạo bởi một mặt phẳng đi qua đỉnh S và hình nón là một tam giác có diện tích lớn nhất bằng:",
+    "options": ["2a²/3", "a²/3", "4a²/3", "2a²/√3"],
+    "correct": 0,
+    "explanation": "SA = 2a√3/3. Diện tích thiết diện S' = (1/2)l²sinα ≤ (1/2)l² = (1/2)SA² = 2a²/3, đạt max khi sinα=1 (α=90°).",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Biết rằng năm 2005, dân số của một quốc gia là 80.200.000 người và tỉ lệ tăng dân số năm đó là 1,65%. Sự tăng dân số ước tính theo công thức S = A.e^(Nr). Cứ tăng dân số với tỉ lệ như vậy thì đến năm nào dân số nước đó ở mức 230 triệu người?",
+    "options": ["2022", "2020", "2025", "2026"],
+    "correct": 3,
+    "explanation": "N = (1/r)ln(S/A) với A=80.200.000, r=0,0165, S=230.000.000, tính được N ≈ 63,85 năm, làm tròn số năm cần thiết để đạt mức dân số yêu cầu.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Cho hàm số y = f(x) liên tục trên R và có đồ thị như hình vẽ. Khi đó hiệu của giá trị lớn nhất và giá trị nhỏ nhất của hàm số h(x) = 3f(log2 x - 1) + x³ - 9x² + 15x + 1 trên đoạn [1;4] là:",
+    "options": ["54", "7", "33", "3"],
+    "correct": 2,
+    "explanation": "h'(x) ≤ 0 với mọi x∈[1;4] nên hàm số nghịch biến trên [1;4]. max h(x)=h(1)=20, min h(x)=h(4)=-13. Hiệu = 20-(-13) = 33.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Cho khối chóp S.ABCD, đáy ABCD là hình thang cân (AB//CD, AB<CD) có hai đường chéo AC, BD vuông góc và cắt nhau tại O, AB=6√2=(1/2)CD. Biết SO vuông góc với đáy, hai mặt phẳng (SAB) và (SCD) vuông góc với nhau. Tính thể tích V của khối chóp S.OCD.",
+    "options": null,
+    "correct": null,
+    "answer": "144",
+    "explanation": "Gọi M,N là trung điểm AB, CD. Góc giữa (SAB) và (SCD) là góc MSN = 90°. Tính được SO = AB/√2. V(S.OCD) = (1/3)S(OCD).SO = 144.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một ô tô chuyển động nhanh dần đều với vận tốc v(t)=8t (m/s). Đi được 6s người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc a=-32 (m/s²). Tính quãng đường của ô tô đi được từ lúc bắt đầu chuyển bánh cho đến khi dừng hẳn.",
+    "options": null,
+    "correct": null,
+    "answer": "180",
+    "explanation": "Quãng đường 6s đầu: s1=∫(0→6)8t dt=144m. Vận tốc sau đó v2(t)=48-32t, dừng khi t=1,5s: s2=∫(0→1,5)(48-32t)dt=36m. Tổng quãng đường s=144+36=180m.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Để nghiên cứu mô hình mạng tinh thể than chì, một nhà hóa học đã thiết lập một hệ tọa độ Oxyz như hình vẽ (đơn vị: nm). Cho biết ABCDEF có dạng lục giác đều. Biết tọa độ của điểm A'(m,n;p). Tính m+n+p.",
+    "options": null,
+    "correct": null,
+    "answer": "0,34",
+    "explanation": "A'(0;0;0,340) nên m+n+p = 0+0+0,340 = 0,34.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Một máy bay loại nhỏ bắt đầu hạ cánh, đường bay của nó khi gắn với hệ trục tọa độ Oxy được mô phỏng ở hình. Đường bay có dạng đồ thị hàm số bậc ba; vị trí bắt đầu hạ cánh có tọa độ (-4;1) là điểm cực đại của đồ thị hàm số và máy bay tiếp đất tại gốc tọa độ là điểm cực tiểu của đồ thị hàm số. Khi ở độ cao 0,5 dặm, máy bay cách vị trí hạ cánh theo phương ngang bao nhiêu dặm?",
+    "options": null,
+    "correct": null,
+    "answer": "2",
+    "explanation": "Hàm số y = (1/32)x³ + (3/16)x². Thay y=0,5 được x=-2, x=-2±2√3. Do x∈[-4;0] nên x=-2. Vậy máy bay cách vị trí hạ cánh 2 dặm theo phương ngang.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Một viên đá hình trụ đặc có bán kính đáy bằng 2cm, chiều cao bằng 4cm được đặt vừa khít vào trong một chiếc ly rỗng có phần chứa nước là một hình nón như hình vẽ. Biết rằng chiều cao của phần chứa nước của ly gấp đôi chiều cao viên đá, miệng ly bằng bề mặt viên đá. Tính thể tích nước (ml) cần đổ vào ly cho đầy, làm tròn đến 2 chữ số thập phân, biết do lực đẩy Archimedes, khi đổ nước vào, có 8% thể tích viên đá nổi lên phía trên mặt nước.",
+    "options": ["84,78ml", "130,02ml", "87,80ml", "83,78ml"],
+    "correct": 3,
+    "explanation": "r1=4cm, h1=8cm (nón chứa nước); r2=2cm, h2=4cm (viên đá). V = (1/3)πr1²h1 - πr2²h2 ≈ 83,78 ml.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Trên bức tường cần trang trí một hình phẳng dạng parabol đỉnh như hình vẽ. Biết OS=AB=4m, O là trung điểm của AB. Parabol được chia thành ba phần để sơn ba màu khác nhau với mức phí như sau: phần trên là phần kẻ sọc có giá 120.000 đồng/m², phần giữa hình là hình quạt tâm O bán kính 2m được tô đậm có giá 140.000 đồng/m², phần còn lại có giá 160.000 đồng/m². Tổng chi phí để sơn cả 3 phần gần số nào sau đây nhất?",
+    "options": ["1.444.000 đồng", "1.493.000 đồng", "1.450.000 đồng", "1.488.000 đồng"],
+    "correct": 0,
+    "explanation": "Tổng diện tích parabol S=32/3. Diện tích phần kẻ sọc S1=-4π/3+5√3; diện tích quạt S2=4π/3; diện tích còn lại S3=32/3-5√3. Tổng tiền = 120000.S1+140000.S2+160000.S3 ≈ 1.444.000 đồng.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Hai chất điểm A và B chuyển động thẳng đều cùng hướng về O (như hình vẽ) biết rằng vận tốc VB = VA/√3 và góc AOB = 30°. Biết rằng khi khoảng cách giữa hai chất điểm A và B là nhỏ nhất thì A cách O một khoảng bằng 30√3 (m). Tìm khoảng cách B đến O lúc đó.",
+    "options": null,
+    "correct": null,
+    "answer": "90",
+    "explanation": "Áp dụng định lý hàm sin trong tam giác A'B'O và bất đẳng thức Bunyakovsky, tại thời điểm khoảng cách nhỏ nhất, β=120°, γ=30°. d2' = (sin120°/sin30°).d1' = √3.d1' = √3.30√3 = 90 (m).",
+    "passage": null
+  }
+];

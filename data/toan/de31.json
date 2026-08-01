@@ -1,0 +1,431 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Cho tập S là tập hợp các số tự nhiên lẻ không lớn hơn 10. Số tập con phân biệt khác rỗng của tập hợp S là:",
+    "options": ["15", "16", "31", "32"],
+    "correct": 2,
+    "explanation": "Tập hợp S có 5 phần tử: S={1;3;5;7;9}. Số tập con của S là 2⁵=32. Số tập con phân biệt khác rỗng của S là 32-1=31.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Trong hệ tọa độ Descartes, cho ba điểm A(2;4), B(3;2), C(6;7). Tính giá trị của tích vô hướng AB.BC.",
+    "options": [],
+    "correct": null,
+    "answer": "-7",
+    "explanation": "AB(1;-2); BC(3;5). Khi đó, AB.BC = 1.3+(-2).5 = -7.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Trong hệ tọa độ Oxy, cho hai điểm B(1;5), C(5;4), điểm A luôn di động trên đường tròn có phương trình (x-6)²+y²=25. Gọi G là trọng tâm tam giác ABC, khi đó điểm G luôn di động trên đường tròn tâm I(a;b). Giá trị của biểu thức T=a+b bằng:",
+    "options": ["6", "7", "8", "9"],
+    "correct": 1,
+    "explanation": "Gọi A(m;n) với (m-6)²+n²=25. G(u;v) là trọng tâm nên m=3u-6, n=3v-9. Thay vào: (3u-12)²+(3v-9)²=25 ⇔ (u-4)²+(v-3)²=25/9. Vậy G di động trên đường tròn tâm I(4;3), bán kính 5/3. a+b=3+4=7.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Có bao nhiêu cách chọn ba số tự nhiên phân biệt nhỏ hơn 100 sao cho tổng của chúng là một số chia hết cho 3?",
+    "options": ["53922", "52305", "16896", "16368"],
+    "correct": 0,
+    "explanation": "Trong các số từ 0-99: có 34 số chia hết cho 3, 33 số chia 3 dư 1, 33 số chia 3 dư 2. Số cách chọn = C(34,3)+C(33,3)+C(33,3)+34.33.33 = 53922.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Có bao nhiêu giá trị nguyên của tham số m sao cho phương trình √(3x²-mx) = x-3 có đúng 1 nghiệm trong đoạn [2;5]?",
+    "options": ["4", "5", "6", "Vô số"],
+    "correct": 2,
+    "explanation": "Điều kiện x≥3, phương trình dẫn đến 2x²-(m-6)x-9=0 có hai nghiệm x₁<0<x₂. Để x₂ là nghiệm duy nhất trong [2;5] cần x₂∈[3;5], giải được m∈[9;71/5]. Do m nguyên, m∈{9,10,11,12,13,14}, có 6 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Tập xác định của hàm số y=1/(tanx+1) là:",
+    "options": [
+      "D=R\\({-π/4+k2π|k∈Z}∪{-π/2+k2π|k∈Z})",
+      "D=R\\({-π/4+kπ|k∈Z}∪{-π/2+kπ|k∈Z})",
+      "D=R\\({π/4+kπ|k∈Z}∪{π/2+kπ|k∈Z})",
+      "D=R\\{-π/4+kπ|k∈Z}"
+    ],
+    "correct": 1,
+    "explanation": "Hàm số xác định khi cosx≠0 và tanx≠-1 ⇔ x≠π/2+kπ và x≠-π/4+kπ. Vậy D=R\\({-π/4+kπ}∪{-π/2+kπ}).",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Biết tập giá trị của hàm số f(x)=(2cos2x-4cosx+1)/(3-2cosx-sin²x) là T=[a;b]. Số số nguyên nằm trong đoạn [5a;5b] là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "16",
+    "explanation": "Đặt t=cosx∈[-1;1], xét g(t)=(4t²-4t-1)/(t²-2t+2). Lập bảng biến thiên tìm được T=[(3-√41)/2; 7/5]. Suy ra [5a;5b]=[(15-5√41)/2;7], có 7-(-8)+1=16 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Cho cấp số nhân {u_n} thoả mãn: i. u₄/u₁ > 1. ii. u₃,u₅,u₆ theo thứ tự lập thành một cấp số cộng. Giá trị của biểu thức S=(u₇-u₆)/u₅ bằng:",
+    "options": ["1/2", "1", "2", "1+√5"],
+    "correct": 1,
+    "explanation": "Gọi công bội q. u₄/u₁=q³>1 ⇒ q>1. u₃+u₆=2u₅ dẫn đến q³-2q²+1=0 ⇔ (q-1)(q²-q-1)=0. Với q>1, q=(1+√5)/2. S=q²-q=1.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Biết giới hạn lim (x→2) (x¹⁰+x⁸-1280)/(x¹¹+x⁷-2176) = a/b (a,b>0, (a,b)=1). Giá trị của biểu thức P=ab bằng:",
+    "options": ["120", "231", "1952", "66"],
+    "correct": 2,
+    "explanation": "Phân tích tử và mẫu theo nhân tử (x-2), rút gọn và thay x=2 được kết quả 32/61. Khi đó P=ab=32.61=1952.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Biết phương trình tiếp tuyến của đồ thị hàm số y=|x³-2x-5| tại điểm có hoành độ x₀=1 là y=ax+b. Tính giá trị nhỏ nhất của biểu thức T(m)=m²+am+b.",
+    "options": ["27/4", "-27/4", "29/4", "-29/4"],
+    "correct": 0,
+    "explanation": "Tại x₀=1: x₀³-2x₀-5=-6<0 nên xét g(x)=-x³+2x+5. g(1)=6, g'(1)=-1. Tiếp tuyến: y=-x+7 ⇒ a=-1, b=7. T(m)=m²-m+7=(m-1/2)²+27/4 ≥ 27/4.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Số nghiệm của phương trình x²=ln(2x²lnx+e) là:",
+    "options": ["0", "1", "2", "3"],
+    "correct": 1,
+    "explanation": "Điều kiện x>0. Biến đổi thành e^(x²)-x²ln(x²)-e=0. Xét f(t)=e^t-t.lnt-e với t=x², t>0 đồng biến trên (0;+∞). f(1)=0 nên t=1 duy nhất, suy ra x²=1 ⇒ x=1 (do x>0).",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Biết rằng các hàm số y=log_a(x+m); y=log_b(x+n); y=c^(x+p) có đồ thị hàm số lần lượt là (C₁),(C₂),(C₃) như hình vẽ. Trong các khẳng định sau, khẳng định nào đúng?",
+    "options": ["a<b<c", "b<a<c", "c<a<b", "c<b<a"],
+    "correct": 0,
+    "explanation": "Dựa vào các điểm đồ thị đi qua, xác định a=2, b=3, c=4. Vậy a<b<c.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Định luật làm mát của Newton: T(t)=T_s+(T_o-T_s).e^(-kt). Một bát nước nóng có nhiệt độ 95°C được để trong một căn phòng có nhiệt độ 20°C. Sau 4 phút, nhiệt độ của bát nước đó là 80°C. Hỏi sau bao nhiêu phút kể từ thời điểm ban đầu, bát nước trên có nhiệt độ 25°C? (làm tròn đến hàng đơn vị)",
+    "options": [],
+    "correct": null,
+    "answer": "24",
+    "explanation": "T(4)=80 ⇒ e^(-4k)=4/5. Tìm t* để T(t*)=25: e^(-kt*)=1/15, giải được t*=ln(1/15)/((1/4)ln(4/5)) ≈ 24,27 ≈ 24.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Cho hình lăng trụ ABC.A'B'C' có đáy là tam giác đều. Hình chiếu của A' lên mặt phẳng (ABC) là trọng tâm G của tam giác ABC. Biết rằng góc giữa hai mặt phẳng (ABB'A') và (ABC) bằng 60°, đồng thời diện tích hình bình hành BCC'B' bằng (a²√21)/2 (a>0). Khi đó, thể tích khối lăng trụ ABC.A'B'C' bằng:",
+    "options": ["3a³/8", "3√3a³/8", "9a³/8", "9√3a³/8"],
+    "correct": 2,
+    "explanation": "Đặt AB=AC=BC=x, A'G=h. Từ góc 60° tìm được h=x/2. Từ diện tích BCC'B' tìm được x²√21/6 = a²√21/2 nên h=x/2=a√3/2, x=a√3. Thể tích V=S_ABC.A'G=(x²√3/4).h=9a³/8.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Xét hình chóp S.ABCD có đáy là một hình bình hành. Gọi M là trung điểm cạnh SB. Mặt phẳng (P) đi qua M, song song với mặt phẳng (SAD) chia khối chóp S.ABCD thành hai phần. Tính tỉ số thể tích giữa phần có thể tích bé hơn và phần có thể tích lớn hơn.",
+    "options": [],
+    "correct": null,
+    "answer": "5/11",
+    "explanation": "Mặt phẳng (P) cắt các đoạn SC,DC,AB tại N,P,Q là trung điểm. Tính được V_MBCPQ/V_SABCD=1/4, V_MNPC/V_SABCD=1/16, tổng V_BCMNPQ/V_SABCD=5/16. Suy ra tỉ số bé/lớn = (5/16)/(11/16) = 5/11.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Có 6 thanh thép, trong đó 3 thanh có độ dài 3m, 3 thanh có độ dài 3√2m. Người ta hàn các đầu của thanh thép đó với nhau tạo thành các cạnh của một tứ diện ABCD, trong đó AB=AC=AD=3m. Để trang trí, người ta dùng một sợi dây đèn led xuất phát từ điểm A, qua các điểm M,N,P thuộc cạnh BD,BC,CD và quay trở lại A. Độ dài ngắn nhất có thể của sợi dây khi đó là bao nhiêu?",
+    "options": ["8m", "8,2m", "7,8m", "8,4m"],
+    "correct": 1,
+    "explanation": "ABCD là hình chóp có AB=AC=AD=3m đôi một vuông góc. Trải phẳng các mặt và tìm đường thẳng ngắn nhất, tính được độ dài dây nhỏ nhất là EA₂=3√3+3≈8,2(m).",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Thời gian sử dụng điện thoại trung bình mỗi ngày của 20 học sinh trong một lớp học được cho trong bảng số liệu. Trung vị của mẫu số liệu trên là:",
+    "options": ["160", "175", "180", "190"],
+    "correct": 1,
+    "explanation": "Sắp xếp dữ liệu theo thứ tự tăng dần, trung vị = (x₁₀+x₁₁)/2 = (170+180)/2 = 175.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Trong một bài thi có 20 câu hỏi trắc nghiệm, mỗi câu hỏi có 4 phương án, trong đó có duy nhất có một phương án đúng. Mỗi câu trả lời đúng được cộng 0,5 điểm, mỗi câu trả lời sai bị trừ 0,2 điểm. Một học sinh do chưa học gì nên chọn hoàn toàn ngẫu nhiên câu trả lời cho 20 câu hỏi. Xác suất để học sinh đó đạt được 8 điểm trở lên trong bài kiểm tra đó là bao nhiêu?",
+    "options": ["2,96.10⁻⁸", "1,55.10⁻⁹", "5,54.10⁻¹¹", "1,61.10⁻⁹"],
+    "correct": 3,
+    "explanation": "Để đạt tối thiểu 8 điểm cần trả lời đúng ít nhất 18 câu (x≥120/7). Theo Bernoulli: P(x≥18)=Σ(i=18 đến 20) C(20,i).(0,25)^i.(0,75)^(20-i) = 1,61.10⁻⁹.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Trong một hội trường có một số lượng ghế nhất định, được xếp thành từng hàng một. Hàng đầu tiên có 20 chiếc ghế, và từ hàng thứ hai trở đi, hàng sau có nhiều hơn hàng trước 2 chiếc ghế. Người ta muốn thêm một hàng ghế nữa ở phía sau cùng bằng cách lấy một số lượng ghế nhất định từ những hàng ghế trước đó. Biết rằng nếu từ mỗi hàng đã có, ta lấy đi 4 chiếc ghế và số ghế lấy đi được xếp vào sau cùng tạo thành hàng ghế mới thì số ghế ở hàng sau cùng vẫn đảm bảo nhiều hơn hàng trước 2 chiếc. Tìm số ghế có trong hội trường.",
+    "options": [],
+    "correct": null,
+    "answer": "216",
+    "explanation": "Gọi n là số hàng ghế ban đầu. Tổng số ghế S=n(2.20+2(n-1))/2. Sau khi thêm hàng: hàng đầu còn 16 ghế, n+1 hàng. Giải phương trình được n=8. Tổng số ghế S=(8/2)(2.8+38)=216.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Cho hàm số f(x)=x⁴-2x². Hàm số g(x)=f(f(x)) đồng biến trên khoảng nào trong các khoảng sau:",
+    "options": ["(3/2;2)", "(-2;-3/2)", "(-1;0)", "(0;1)"],
+    "correct": 2,
+    "explanation": "g'(x)=f'(x).f'(f(x))=(4x³-4x).f'(f(x)). Giải các phương trình con và lập bảng xét dấu g'(x), suy ra hàm số đồng biến trên (-1;0).",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Có bao nhiêu số nguyên m để hàm số y=(2mx-2)/(3x-m+2) đồng biến trên (0;+∞)?",
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "Điều kiện: 3x-m+2≠0. y'=(-2m²+4m+6)/(3x-m+2)². Để hàm số đồng biến trên (0;+∞): (m-2)/3≤0 và -2m²+4m+6>0 ⇔ m≤2 và -1<m<3 ⇒ m∈(-1;2]. Có 3 giá trị nguyên: 0,1,2.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Cho hàm số f(x)=2x-m.lnx và g(x)=x+4/x. Số giá trị nguyên của tham số m để hàm số y=f(g(x)) có đúng 3 điểm cực trị trên (1/2;+∞) là:",
+    "options": ["0", "8", "10", "9"],
+    "correct": 1,
+    "explanation": "y'=(1-4/x²).f'(g(x)). Phương trình y'=0 có nghiệm x=2 và phương trình x+4/x=m/2 (2). Để có đúng 3 điểm cực trị, phương trình (2) cần có đúng 2 nghiệm khác 2 trên (1/2;+∞): 4<m/2<17/2 ⇔ 8<m<17. Có 8 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Cho hàm số y=f(x) có đạo hàm liên tục trên R. Đồ thị của hàm số y=f'(x) được cho như hình vẽ. Số điểm cực đại của hàm số y=f(x²-2x) là:",
+    "options": ["2", "3", "4", "5"],
+    "correct": 0,
+    "explanation": "g'(x)=(2x-2)f'(x²-2x). Từ đồ thị f'(x)=0 có 3 nghiệm x₁<-1<x₂<x₃. Phân tích các trường hợp, phương trình g'(x)=0 có 5 nghiệm phân biệt. Lập bảng biến thiên, hàm số g(x) có 2 điểm cực đại.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Bạn Nam có một tờ giấy hình chữ nhật, kích thước 15×20(cm). Nam muốn cắt phần giấy màu xám nhạt như hình vẽ, sao cho sau khi cắt, bạn ấy có thể gấp phần còn lại thành một hình hộp chữ nhật có nắp hoàn chỉnh. Tính thể tích lớn nhất của chiếc hộp tạo thành. (làm tròn đến hàng đơn vị)",
+    "options": [],
+    "correct": null,
+    "answer": "190",
+    "explanation": "Đặt a=10-c, b=15-2c với 0<c<7,5. Thể tích V=abc=2c³-35c²+150c. V'(c)=6c²-70c+150=0 ⇒ c=(35-5√13)/6. Tính V_max≈189,52≈190.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Cho hàm số y=f(x) có đồ thị được cho như hình vẽ sau. Tìm giá trị nhỏ nhất của g(x)=(1/2)f(2x-1)+3 trên đoạn [0;2].",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Đặt t=2x-1, x∈[0;2]⇔t∈[-1;3]. Trên [-1;3], min f(t)=-4 khi t=-1. min g(x) = (-4)/2+3 = 1 khi x=0.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Biết đồ thị hàm số y=(3x²-4x)/(x-2) có hai tiệm cận, và hai tiệm cận này cắt nhau tại điểm có hoành độ I(a;b). Tính giá trị của biểu thức P=ab.",
+    "options": [],
+    "correct": null,
+    "answer": "16",
+    "explanation": "x=2 là tiệm cận đứng. y=3x+2+4/(x-2) nên y=3x+2 là tiệm cận xiên. Giao điểm hai đường thẳng x=2 và y=3x+2 là I(2;8). P=ab=2.8=16.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Tập hợp tất cả các giá trị của m để đồ thị hàm số y=(1+√(x+1))/√(x²-mx-3m) có đúng 2 tiệm cận đứng là:",
+    "options": ["(0;1)", "(0;+∞)", "(0;1/2)", "(0;1/2]"],
+    "correct": 3,
+    "explanation": "Điều kiện x≥-1 và x²-mx-3m>0. Để có 2 tiệm cận đứng, phương trình x²-mx-3m=0 cần có 2 nghiệm phân biệt x₁,x₂≥-1. Biến đổi thành m=x²/(x+3), lập bảng biến thiên, tìm được m∈(0;1/2].",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Cho hàm số y=f(x)=x⁴/4+1/x có đồ thị như hình vẽ dưới đây. Có bao nhiêu giá trị nguyên của m để phương trình cos⁵x-m.cosx+4=0 vô nghiệm?",
+    "options": ["0", "8", "7", "9"],
+    "correct": 2,
+    "explanation": "Đặt cosx=t∈[-1;1]. Phương trình trở thành m=t⁴/4+1/t (t≠0). Tính f(1)=5/4, f(-1)=-3/4. Để phương trình vô nghiệm trong [-1;1] thì m/4∈(-3/4;5/4) ⇔ m∈(-3;5). Có 7 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Trong các phương trình đường thẳng sau, đâu là phương trình đường thẳng đi qua hai điểm A(-3;2;4) và B(1;4;2)?",
+    "options": [
+      "(x+3)/2 = (y-2)/1 = (z-2)/-1",
+      "x=1-4t, y=4-2t, z=2-2t",
+      "(x+1)/-2 = (y-3)/-1 = (z-3)/1",
+      "x=4-3t, y=2+2t, z=-2+4t"
+    ],
+    "correct": 2,
+    "explanation": "AB(4;2;-2) ⇒ vectơ chỉ phương (-2;-1;1). Trung điểm I(-1;3;3) nằm trên đường thẳng AB. Phương trình: (x+1)/-2 = (y-3)/-1 = (z-3)/1.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Cho tứ diện ABCD có tọa độ các đỉnh là A(3;0;1), B(1;2;4), C(0;5;3), D(2;3;4). Thể tích của tứ diện ABCD là:",
+    "options": ["4", "8/3", "4/3", "8"],
+    "correct": 1,
+    "explanation": "Tính được BC=√11, CD=3, BD=√2 ⇒ tam giác BCD vuông tại D. S_BCD=3√2/2. Phương trình mặt phẳng (BCD): x-y-4z+17=0. d(A;(BCD))=8√2/3. V=(1/3).d(A;(BCD)).S_BCD=8/3.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Trong không gian, cho mặt cầu (S) có phương trình (x-3)²+y²+(z+1)²=25 và đường thẳng (d): x=t, y=8+t, z=0. Gọi M là một điểm bất kì nằm trên mặt cầu (S). Khi đó, tìm khoảng cách nhỏ nhất giữa điểm M và đường thẳng d.",
+    "options": ["2,84", "2,80", "2,82", "2,78"],
+    "correct": 0,
+    "explanation": "Tâm I(3;0;-1), bán kính R=5. Tìm hình chiếu H của I lên d, tính IH=√246/2. min MK = IH - R = √246/2 - 5 ≈ 2,84.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Một máy bay đang bay với quỹ đạo là một đường thẳng trong không gian với vận tốc bay không đổi. Tại một thời điểm nào đó, máy bay đang ở vị trí có toạ độ (200;70;118). Sau 50 giây, độ cao của máy bay so với mặt đất giảm 400m. Hỏi sau 25 giây nữa, khoảng cách từ sân bay tới máy bay là bao nhiêu, biết rằng máy bay có đi qua điểm có toạ độ (80;105;113)?",
+    "options": [],
+    "correct": null,
+    "answer": "16800",
+    "explanation": "Quỹ đạo: x=200-24t, y=70+7t, z=118-t. Cao độ giảm 400m sau 50s tức giảm 4 đơn vị. Sau 75s tổng, cao độ 118-6=112 ⇒ t=6. Tọa độ máy bay: (56;112;112). Khoảng cách S=√(5600²+11200²+11200²)=16800(m).",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Trong không gian, cho hai mặt cầu (S₁):x²+y²+z²=4 và (S₂):x²+y²+z²=25. Gọi A là điểm trên mặt cầu (S₁), B là điểm trên mặt cầu (S₂) sao cho AB=6. Gọi M là điểm có tọa độ M(1;2;2). Giá trị lớn nhất của biểu thức T=MA²+MB² là:",
+    "options": ["77", "47+6√22", "89", "47+4√22"],
+    "correct": 1,
+    "explanation": "T=2MO²+2MO(OA+OB)+OA²+OB². Tính (OA+OB)²=2R₁²+2R₂²-AB²=22 ⇒ |OA+OB|=√22. T≤2.3²+2.3.√22+2²+5²=47+6√22.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Xét các khẳng định sau: (I) Nếu hàm số f(x) liên tục trên khoảng K thì có đạo hàm trên khoảng K. (II) Nếu hàm số f(x) có đạo hàm trên khoảng K thì liên tục trên khoảng K. (III) Nếu hàm số f(x) liên tục trên khoảng K thì có nguyên hàm trên khoảng K. Số khẳng định sai trong các khẳng định nêu trên là:",
+    "options": ["0", "1", "2", "3"],
+    "correct": 1,
+    "explanation": "Khẳng định (I) sai vì hàm liên tục chưa chắc có đạo hàm (ví dụ y=|x| tại x=0). Khẳng định (II) và (III) đúng. Vậy chỉ 1 khẳng định sai.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Cho hàm số y=f(x), biết rằng f'(x)=4/(1+cos2x) ∀x∈(-π/2;π/2) và f(π/4)=1. Biết giá trị của tích phân I=∫(π/4 đến -π/4)((f(x)+2).cos²x)dx = (π+a)/b, với a,b là các số tự nhiên. Tính giá trị của biểu thức S=a-b.",
+    "options": [],
+    "correct": null,
+    "answer": "-2",
+    "explanation": "f'(x)=2/cos²x ⇒ f(x)=2tanx+C. f(π/4)=1 ⇒ C=-1, f(x)=2tanx-1. Tính I=∫(2sinxcosx+cos²x)dx = [-1/2cos2x+(x/2+1/4sin2x)] từ -π/4 đến π/4 = (π+2)/4. a=2, b=4, S=a-b=-2.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Người ta muốn thiết kế một chiếc đĩa. Biết rằng hình dạng của chiếc đĩa là phần chung của 2 elip có phương trình lần lượt là x²/16+y²/9=1 và x²/9+y²/16=1. Coi như bề mặt của chiếc đĩa là phẳng. Tính diện tích của bề mặt chiếc đĩa. (làm tròn đến hàng đơn vị)",
+    "options": [],
+    "correct": null,
+    "answer": "31",
+    "explanation": "Xét phần đĩa ở góc phần tư thứ nhất, tọa độ giao điểm của 2 elip là x=y=12/5. Diện tích phần góc phần tư thứ nhất S=S₁+S₂≈7,722. Diện tích chiếc đĩa = 4S≈30,888≈31.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Diện tích phần hình phẳng tạo bởi hai đồ thị hàm số y=x³-3x và y=-x³+3x là:",
+    "options": ["9", "3/2", "9/2", "9/4"],
+    "correct": 0,
+    "explanation": "Phương trình hoành độ giao điểm: 2x³-6x=0 ⇔ x=0, x=±√3. S=∫(-√3 đến 0)(2x³-6x)dx + ∫(0 đến √3)(6x-2x³)dx = 9/2+9/2=9.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Thể tích vật thể khi quay phần hình phẳng giới hạn bởi đồ thị hàm số y=x²+1 và các đường thẳng y=0, x=0, x=1 quanh trục Oy là:",
+    "options": ["2π", "π", "3π/2", "π/2"],
+    "correct": 2,
+    "explanation": "Đưa về bài toán quay phần hình phẳng giới hạn bởi y=√(x-1) và các đường x=0,y=0,y=1 quanh trục Ox. V=π∫(0 đến 2)(1²)dx - π∫(1 đến 2)(x-1)dx = π(2 - 1/2) = 3π/2.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Gọi M,N là hai biến cố của một phép thử. Trong các công thức sau, công thức nào đúng?",
+    "options": [
+      "P(M̄|N) = (1-P(M))/P(N)",
+      "P(M̄|N) = (1-P(MN))/P(N)",
+      "P(M̄|N) = (P(M)-P(MN))/P(N)",
+      "P(M̄|N) = 1 - P(MN)/P(N)"
+    ],
+    "correct": 3,
+    "explanation": "P(M̄|N) = P(M̄N)/P(N) = (P(N)-P(MN))/P(N) = 1 - P(MN)/P(N).",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Trong một tiết học môn Thể chất, thầy giáo cho các bạn tiến hành chạy nước rút 60m. Bảng dưới đây ghi lại thông tin về thời gian chạy của các bạn theo từng mốc. Tứ phân vị thứ nhất của mẫu số liệu trên là:",
+    "options": ["9,33", "9,67", "10,33", "10,67"],
+    "correct": 1,
+    "explanation": "n=40, tứ phân vị thứ nhất nằm ở nhóm [9;10). p=2, a₂=9, a₃=10, m₁=2, m₂=12. Q₁=9+((40/4-2)/12).(10-9)≈9,67.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Một nhóm gồm 10 học sinh trong đó có 7 học sinh nam và 3 học sinh nữ. Chọn ngẫu nhiên 3 học sinh từ nhóm 10 học sinh đó đi lao động. Tính xác suất để trong 3 học sinh được chọn có ít nhất một học sinh nữ.",
+    "options": ["2/3", "17/48", "17/24", "4/9"],
+    "correct": 2,
+    "explanation": "n(Ω)=C(10,3)=120. Các trường hợp có ít nhất 1 nữ: C(7,2).C(3,1)+C(7,1).C(3,2)+C(3,3)=63+21+1=85. P=85/120=17/24.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Một trạm phát tín hiệu chỉ phát hai loại tín hiệu X và Y với xác suất tương ứng là 0,72 và 0,28. Do có nhiễu trên đường truyền tín hiệu nên khả năng tín hiệu X bị méo thành tín hiệu Y là 1/6, và khả năng tín hiệu Y bị méo thành tín hiệu X là 1/4. Biết rằng tín hiệu thu được là tín hiệu đúng so với tín hiệu phát, xác suất để tín hiệu đó là tín hiệu Y là bao nhiêu?",
+    "options": ["5/6", "21/100", "27/62", "7/27"],
+    "correct": 3,
+    "explanation": "Gọi A: phát tín hiệu X, H: tín hiệu không bị nhiễu. P(A)=0,72, P(H|A)=5/6, P(H|Ā)=3/4. Theo Bayes: P(Ā|H)=(P(H|Ā).P(Ā))/(P(H|A).P(A)+P(H|Ā).P(Ā))=(0,75.0,28)/(0,833.0,72+0,75.0,28)=7/27.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Một con ốc sên bò lên một cái cột cao 1,5m từ mặt đất. Ban ngày, con ốc sên bò lên được 30cm, nhưng ban đêm, do con ốc sên mệt mỏi không tiếp tục bò nên bị tụt đi 18cm. Hỏi vào ngày thứ bao nhiêu, con sên bò lên đến đỉnh của cái cột?",
+    "options": [],
+    "correct": null,
+    "answer": "11",
+    "explanation": "Sau ngày thứ x, ốc sên ở độ cao d_x=12x+18(cm) (sau khi trừ đêm trước). Cho 12x+18≥150 ⇔ x≥11. Vậy vào ngày thứ 11 ốc sên leo lên đỉnh cột.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Có bao nhiêu cách chọn ra 3 viên gạch, mỗi viên từ 1 hàng trong hình sau đây, sao cho không có 2 viên gạch nào được lấy ra nằm kề nhau?",
+    "options": [],
+    "correct": null,
+    "answer": "52",
+    "explanation": "Nếu hàng 2 chọn viên gạch E: hàng 1 và hàng 3 mỗi hàng có 4 cách ⇒ 4.4=16. Nếu hàng 2 chọn A/B/C/D: hàng 1 và hàng 3 mỗi hàng có 3 cách ⇒ 4.3.3=36. Tổng: 16+36=52.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Khi m=-2, hàm số y=f(x)=x³+6(m+2)x²-(3m+9)x-8 nghịch biến trên khoảng nào trong các khoảng sau?",
+    "options": ["(-1;0)", "(1;2)", "(-3;-2)", "(-2;-1)"],
+    "correct": 0,
+    "explanation": "f'(x)=3x²+12(m+2)x-(3m+9). Với m=-2: f'(x)=3x²-3. f'(x)≤0 ⇔ x∈[-1;1] ⇒ hàm số nghịch biến trên (-1;0) (nằm trong [-1;1]).",
+    "passage": "ham_so_bac_ba_45_47"
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Có bao nhiêu giá trị nguyên của m để tâm đối xứng của đồ thị hàm số nằm trên đường thẳng 11x+y+2=0?",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2,
+    "explanation": "Tọa độ tâm đối xứng I(-2(m+2); 16(m+2)³+(6m+18)(m+2)-8). Thay vào phương trình đường thẳng, giải được (16(m+2)+6)[(m+2)²-1]=0, các nghiệm m=-3, m=-19/8, m=-1. Có 2 giá trị nguyên (m=-3, m=-1).",
+    "passage": "ham_so_bac_ba_45_47"
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Gọi S là tập hợp các giá trị của m sao cho hai điểm cực trị của đồ thị hàm số đã cho thẳng hàng với điểm A(1/2;-9). Khi đó, tích các phần tử của tập hợp S là:",
+    "options": ["0", "-2", "3", "-3"],
+    "correct": 2,
+    "explanation": "Phương trình đường thẳng qua hai điểm cực trị: y=-(8m²+34m+38)x+(2m²+10m+4). Để A thuộc đường thẳng này: -9=-(8m²+34m+38)/2+2m²+10m+4 ⇔ -2m²-7m-6=0 ⇔ m=-3/2 hoặc m=-2. Tích các phần tử: (-3/2).(-2)=3.",
+    "passage": "ham_so_bac_ba_45_47"
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Cho hai hộp đựng bi, đựng 2 loại bi là bi trắng và bi đen, tổng số bi trong hộp là 20 bi và hộp thứ nhất đựng ít bi hơn hộp thứ hai. Lấy ngẫu nhiên từ mỗi hộp 1 bi. Cho biết xác suất để lấy được 2 bi đen là 55/84, tính xác suất để lấy được 2 bi trắng?",
+    "options": ["1/28", "15/84", "11/84", "3/28"],
+    "correct": 0,
+    "explanation": "Gọi x,x' là số bi mỗi hộp, x+x'=20, x<x'. dd'/(xx')=55/84 với xx'≤100. Suy ra xx'=84, giải được x=6,x'=14. dd'=55 ⇒ d=5,d'=11. Hộp 1 có 1 bi trắng, hộp 2 có 3 bi trắng. P(B)=1.3/84=1/28.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Xét hàm số f(x) liên tục trên [0;2] thoả mãn f(x)=3x-2+∫(0 đến 2)(f(t)-3t²)dt. Khi đó, giá trị của tích phân ∫(1 đến 2)f²(x)dx bằng:",
+    "options": ["104", "73", "31", "42"],
+    "correct": 1,
+    "explanation": "Đặt a=∫(f(t)-3t²)dt-2. Giải được f(x)=3x+4. Tích phân ∫(1 đến 2)(3x+4)²dx = 73.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Trong một kho rượu, có hai loại rượu A và B. Biết số lượng chai rượu loại A bằng 2/3 số chai rượu loại B. Người ta chọn ngẫu nhiên một chai rượu và đưa cho 5 người nếm thử. Biết xác suất đoán đúng loại rượu của mỗi người đều là 0,8. Có 3 người kết luận đó là loại rượu A, 2 người kết luận đó là loại rượu B. Khi đó, xác suất chai rượu đó thuộc loại A là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "8/11",
+    "explanation": "P(A)=0,4, P(B)=0,6. P(H|A)=C(5,3).0,8³.0,2²=0,2048. P(H|B)=C(5,2).0,8².0,2³=0,0512. Theo Bayes: P(A|H)=(0,2048.0,4)/(0,2048.0,4+0,0512.0,6)=8/11.",
+    "passage": null
+  }
+];

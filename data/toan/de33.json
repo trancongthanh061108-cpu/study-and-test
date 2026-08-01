@@ -1,0 +1,421 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Một gia đình cần ít nhất 1200 đơn vị protein và 600 đơn vị lipit trong thức ăn mỗi ngày. Mỗi kilogam thịt bò chứa 800 đơn vị protein và 200 đơn vị lipit. Mỗi kilogam thịt lợn chứa 600 đơn vị protein và 400 đơn vị lipit. Biết rằng gia đình này chỉ mua nhiều nhất 2,0 kg thịt bò và 1,5 kg thịt lợn. Giá tiền 1 kg thịt bò là 200 nghìn đồng, 1 kg thịt lợn là 100 nghìn đồng. Gọi x, y lần lượt là số kilogam thịt bò và số kilogam thịt lợn mà gia đình đó cần mua để tổng số tiền họ phải trả là ít nhất mà vẫn đảm bảo lượng protein và lipit trong thức ăn. Tính giá trị của biểu thức T = 2x + y². (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "Hệ bất phương trình: 0≤x≤2; 0≤y≤1,5; 800x+600y≥1200; 200x+400y≥600. Miền nghiệm là tứ giác ABCD với A(2;3/2), B(2;1/2), C(3/5;6/5), D(3/8;3/2). F=200x+100y đạt nhỏ nhất 225 tại D(3/8;3/2). T = 2.(3/8) + (3/2)² = 3.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Lúc 6 giờ 15 phút sáng, bạn Hoàng đi xe đạp từ nhà ở điểm A đến trường ở điểm B. Khoảng cách từ nhà Hoàng đến trường theo đường chim bay là 900 m. Trong quá trình đi, Hoàng phải đạp xe lên và xuống trên một con dốc có đỉnh C với độ dốc khi lên và xuống lần lượt là 6° và 5° như hình vẽ. Biết tốc độ trung bình lúc lên dốc và xuống dốc của Hoàng lần lượt là 5,4 km/h và 21,6 km/h. Thời điểm Hoàng đến trường gần nhất với thời điểm nào dưới đây?",
+    "options": ["6 giờ 21 phút.", "6 giờ 20 phút.", "6 giờ 25 phút.", "6 giờ 24 phút."],
+    "correct": 0,
+    "explanation": "Góc C = 180° - (5°+6°) = 169°. Theo định lý sin: AC = 900sin5°/sin169°, BC = 900sin6°/sin169°. Đổi 5,4 km/h = 1,5 m/s; 21,6 km/h = 6 m/s. Thời gian lên dốc = 600sin5°/sin169° (s), thời gian xuống dốc = 150sin6°/sin169° (s). Tổng thời gian ≈ 356,2s ≈ 6 phút. 6 giờ 15 phút + 6 phút = 6 giờ 21 phút.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Cho hàm số f(x) = 1/√((m-2)x² + 2(2m-3)x + 5m-6) (m là tham số). Số giá trị nguyên của tham số m thuộc đoạn [-10;10] để hàm số đã cho xác định với mọi x thuộc ℝ là",
+    "options": ["6.", "7.", "9.", "8."],
+    "correct": 1,
+    "explanation": "Cần g(x)=(m-2)x²+2(2m-3)x+5m-6 > 0 với mọi x. Trường hợp m=2: g(x)=2x+4, không thỏa. Trường hợp m≠2: cần a>0 và Δ'<0, giải ra m>3. Với m nguyên thuộc [-10;10] và m>3, có 7 giá trị (4,5,6,7,8,9,10).",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng d1: √3x + y = 0 và d2: √3x - y = 0. Gọi (T) là đường tròn tiếp xúc với d1 tại A, cắt d2 tại hai điểm B và C sao cho tam giác ABC vuông tại B. Tìm tọa độ tâm I của (T), biết tam giác ABC có diện tích bằng √3/2 và điểm A có hoành độ dương.",
+    "options": ["I(-√3/2; 1/2).", "I(√3/3; 1/2).", "I(-√3/6; -3/2).", "I(-√3/12; -3/2)."],
+    "correct": 2,
+    "explanation": "d1 và d2 cắt nhau tại O, góc AOB = 60°. Vì tam giác OAB vuông tại B nên góc BAC = 60°. S_ABC = (3√3/8)OA² = √3/2 ⟹ OA² = 4/3. Tìm A(√3/3; -1). Đường thẳng AC vuông góc d1 qua A: √3x-3y-4=0. C là giao với d2: C(-2√3/3; -2). I là trung điểm AC: I(-√3/6; -3/2).",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Thống kê điểm thi giữa kì môn Giải tích của các sinh viên năm nhất ở một lớp nọ theo bảng sau: Điểm: 0, 5,5, 6, 6,5, 7, 7,5, 8, 8,5, 9, 9,5, 10. Số sinh viên: 2, 1, 1, 1, 2, 10, 12, 13, 10, 7, 2. Số giá trị ngoại lệ của mẫu số liệu trên là",
+    "options": ["5.", "0.", "3.", "2."],
+    "correct": 2,
+    "explanation": "Cỡ mẫu n=60. Q1 = 7,5; Q3 = 9; khoảng tứ phân vị ΔQ = 1,5. Q3+1,5ΔQ = 11,25; Q1-1,5ΔQ = 5,25. Có 2 sinh viên điểm 0 và 1 sinh viên điểm 5,5 thỏa x < Q1-1,5ΔQ nên có 3 giá trị ngoại lệ.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Trong buổi lễ khai mạc trước trận chung kết bóng đá nam, có 4 trọng tài và 2 đội bóng, mỗi đội gồm 11 cầu thủ tham gia bắt tay với nhau. Mỗi cầu thủ của hai đội bắt tay một lần với mọi người trừ đồng đội của mình, những trọng tài không chủ động bắt tay với người khác. Hỏi có tổng cộng bao nhiêu cái bắt tay? (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "209",
+    "explanation": "Số bắt tay giữa cầu thủ 2 đội: 11.11=121. Số bắt tay giữa cầu thủ 2 đội với trọng tài: (11+11).4=88. Tổng: 121+88=209.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Dòng điện xoay chiều là dòng điện có chiều biến thiên tuần hoàn và cường độ biến thiên điều hoà theo một chu kỳ nhất định. Một đoạn mạch có biểu thức cường độ dòng điện xoay chiều là i = 2cos(100πt + π/3) (A). Trong 3 giây đầu tiên, số lần cường độ dòng điện có độ lớn bằng 1A là",
+    "options": ["301.", "300.", "601.", "600."],
+    "correct": 2,
+    "explanation": "Giải |i|=1 dẫn đến 2 phương trình lượng giác. Với cos(100πt+π/3)=1/2: có 301 nghiệm t trong [0;3]. Với cos(100πt+π/3)=-1/2: có 300 nghiệm t trong [0;3]. Tổng: 301+300=601.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Cho hàm số f(x) = (√(2x+1) - √(x+5))/(x-4) khi x≠4, f(x) = a+2 khi x=4. Tìm a để hàm số đã cho liên tục trên tập xác định của nó.",
+    "options": ["-5/6.", "1/6.", "-11/6.", "7/6."],
+    "correct": 2,
+    "explanation": "Cần lim(x→4) f(x) = f(4). Tính lim = 1/6. Vậy 1/6 = a+2 ⟹ a = -11/6.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Từ độ cao 60 m của một tòa nhà, người ta thả rơi tự do một quả bóng cao su. Sau mỗi lần chạm đất, quả bóng lại nảy lên độ cao bằng 1/5 độ cao mà quả bóng đạt được ngay trước đó. Biết quỹ đạo chuyển động của quả bóng nằm trên một đường thẳng. Tính tổng độ dài hành trình mà quả bóng đã di chuyển kể từ lúc được thả rơi tự do cho đến lúc nằm yên trên mặt đất. (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "75",
+    "explanation": "Tổng cấp số nhân lùi vô hạn: S = 60/(1-1/5) = 75 (m).",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Đặt a = log27 5, b = log8 7, c = log2 3. Khi đó log12 35 bằng:",
+    "options": ["(3ac+3b)/(c+1).", "(2ac+3b)/(c+3).", "(3ac+3b)/(c+2).", "(2ac+3b)/(c+2)"],
+    "correct": 2,
+    "explanation": "log5(3) = 1/(3a); log7(2) = 1/(3b); log5(2) = 1/(3ac); log7(3) = c/(3b). log12(35) = 1/(1/(3a)+2/(3ac)) + 1/(c/(3b)+2/(3b)) = 3ac/(c+2) + 3b/(c+2) = (3ac+3b)/(c+2).",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Chu kỳ bán rã T (hay thời gian bán rã) của một chất phóng xạ là thời gian cần thiết để một lượng chất đó giảm xuống còn một nửa giá trị ban đầu. Lượng chất còn lại m sau thời gian t phân rã được tính bởi công thức m = m0.2^(-t/T), trong đó m0 là lượng chất ban đầu. Một chất phóng xạ X, ban đầu, trong t phút có 72 gam chất bị phân rã. Sau đó đúng 3 giờ kể từ thời điểm ban đầu, cũng trong t phút có 9 gam chất X bị phân rã. Tính chu kỳ bán rã của X.",
+    "options": ["2 giờ.", "1 giờ.", "1,5 giờ.", "3 giờ."],
+    "correct": 1,
+    "explanation": "Lượng chất bị phân rã sau thời gian t: m0(1-2^(-t/T)). Có: m0(1-2^(-t/T))=72 (1), m0.2^(-180/T)(1-2^(-t/T))=9 (2). Từ (1)/(2): 2^(180/T)=8 ⟹ 180/T=3 ⟹ T=60 phút = 1 giờ.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Cho x, y là các số thực dương thỏa mãn log2(y/(2√(1+x))) = 3(y-√(1+x)) - y² + x. Giá trị lớn nhất của biểu thức P = y²/√(x²+1) là",
+    "options": ["2.", "1/2.", "√2/2.", "√2."],
+    "correct": 3,
+    "explanation": "Biến đổi thành log2 y + y² - 3y = log2√(1+x) + (1+x) - 3√(1+x). Xét hàm f(t)=log2t+t²-3t đồng biến trên (0;+∞). Suy ra y=√(1+x) ⟹ y²=1+x. Thay vào P=(1+x)/√(x²+1) ≤ √2, đạt được khi x=1, y=√2.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Một vật dao động điều hòa có phương trình li độ là x = 10cos(2πt) (cm). Biết vận tốc của vật tại thời điểm t = 11/12 (s) là k.π. Tính giá trị của k (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "10",
+    "explanation": "v(t) = x'(t) = -20πsin(2πt). v(11/12) = -20πsin(2π.11/12) = 10π (m/s). Vậy k=10.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Người ta xây dựng một cây cầu vượt giao thông có dạng Parabol nối hai điểm A và B có khoảng cách là 400 m. Độ dốc của mặt cầu không vượt quá 10°. Tính chiều cao h (đơn vị: mét) tối đa tính từ đỉnh cầu đến mặt đường (nhập đáp án vào ô trống, kết quả làm tròn đến chữ thập phân thứ nhất).",
+    "options": [],
+    "correct": null,
+    "answer": "17,6",
+    "explanation": "Đặt hệ trục tọa độ, phương trình Parabol y = -h/40000 x² + h. Hệ số góc tiếp tuyến tại x0: k = -h/20000 x0. Với độ dốc ≤10°, suy ra h ≤ 20000.tan10°/200 ≈ 17,6.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Cho hình lăng trụ đứng ABC.A'B'C' có đáy là tam giác đều cạnh a và thể tích là 3a³/8. Tính số đo góc nhị diện phẳng [A',BC,A].",
+    "options": ["30°.", "45°.", "60°.", "120°."],
+    "correct": 1,
+    "explanation": "S_ABC = a²√3/4. AA' = V/S_ABC = (3a³/8)/(a²√3/4) = a√3/2. Gọi H là hình chiếu của A trên BC, AH=a√3/2. tan(AHA') = AA'/AH = 1 ⟹ góc = 45°.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Cho hình chóp tứ giác đều S.ABCD có cạnh đáy bằng 2a. Biết thể tích khối chóp S.ABCD là 4a³√3/3, tính khoảng cách giữa hai đường thẳng SA và CD.",
+    "options": ["a.", "2a.", "a√3.", "a√2."],
+    "correct": 2,
+    "explanation": "SO = 3V/S_ABCD = a√3. Gọi K là hình chiếu của O trên AB, OK=a. d(SA,CD) = 2d(O,(SAB)) = 2OH = 2OK.OS/√(OK²+OS²) = a√3.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Thể tích khối lập phương có đường chéo bằng 3a√3 là:",
+    "options": ["a³.", "3a³.", "3√3a³.", "27a³."],
+    "correct": 3,
+    "explanation": "Cạnh hình lập phương = 3a√3/√3 = 3a. Thể tích = (3a)³ = 27a³.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Cho hình chóp S.ABC có đáy là tam giác ABC vuông tại B, AC=2a, góc SAB = góc SCB = 90°. Gọi α là góc giữa SA và mặt phẳng (SBC), β là góc giữa SC và mặt phẳng (SAB). Biết sinα = √2/4, sinβ = √6/4 và SB không vượt quá a√6, tính thể tích khối chóp S.ABC.",
+    "options": ["2a³.", "a³/2.", "a³√3/6.", "a³√6/3."],
+    "correct": 2,
+    "explanation": "Dùng tọa độ hóa, tìm được AB=a, CB=a√3, z=a (SH=a). Thể tích = (1/3)S_ABC.SH = (1/3)(a²√3/2)a = a³√3/6.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Thời gian di chuyển từ nhà đến trường của một số học sinh được cho trong bảng sau: Thời gian (phút): [9,5;12,5), [12,5;15,5), [15,5;18,5), [18,5;21,5), [21,5;24,5). Số học sinh: 3, 12, 15, n4, 2. Biết số trung bình của mẫu số liệu ghép nhóm trên là 16,55. Giá trị n4 trên bảng đã cho thuộc khoảng nào trong các khoảng dưới đây?",
+    "options": ["(9;11).", "(11;13).", "(7;9).", "(13;15)."],
+    "correct": 2,
+    "explanation": "Giá trị đại diện: 11,14,17,20,23. Cỡ mẫu n=32+n4. x̄=(502+20n4)/(32+n4)=16,55 ⟹ n4=8, thuộc khoảng (7;9).",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Một bệnh truyền nhiễm có xác suất lây bệnh là 0,95 nếu tiếp xúc với người bệnh mà không đeo khẩu trang; có xác suất lây bệnh là 0,2 nếu tiếp xúc với người bệnh mà có đeo khẩu trang. Anh Thành tiếp xúc với một bệnh nhân hai lần, trong đó có một lần đeo khẩu trang và một lần không đeo khẩu trang. Tính xác suất anh Thành bị lây bệnh truyền nhiễm từ người bệnh mà anh tiếp xúc. (nhập đáp án vào ô trống, kết quả viết dưới dạng phân số tối giản)",
+    "options": [],
+    "correct": null,
+    "answer": "24/25",
+    "explanation": "P(không lây khi không đeo) = 0,05. P(không lây khi có đeo) = 0,8. P(không bị lây cả hai) = 0,05.0,8=0,04. P(bị lây) = 1-0,04=0,96=24/25.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Tuyển và Sinh đấu cờ vua với nhau. Xác suất dành chiến thắng trong mỗi ván cờ của Tuyển là 0,5. Trận đấu kết thúc nếu có một trong hai người dành chiến thắng. Biết xác suất để trận đấu kết thúc sau 3 ván cờ là 0,032. Tính xác suất dành chiến thắng của Sinh trong mỗi ván cờ.",
+    "options": ["0,1.", "0,4.", "0,3.", "0,2."],
+    "correct": 2,
+    "explanation": "Gọi x là xác suất thắng của Sinh. (0,5-x)².(0,5+x)=0,032. Giải ra x=0,3 (nhận), các nghiệm khác loại.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Cho hàm số y=f(x) có bảng biến thiên. Hàm số đã cho đồng biến trên khoảng nào trong các khoảng dưới đây?",
+    "options": ["(-∞;3).", "(-1;3).", "(1;3).", "(3;5)."],
+    "correct": 3,
+    "explanation": "Dựa vào bảng biến thiên, hàm số đồng biến trên (-∞;1) và (3;+∞). Vì (3;5)⊂(3;+∞) nên hàm số đồng biến trên (3;5).",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Cho hàm số f(x) = 2x³ - 3(m+1)x² + 6mx + 1 (m là tham số). Có bao nhiêu giá trị nguyên của tham số m thuộc đoạn [-10;10] để hàm số đã cho nghịch biến trên khoảng (1;3) (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "8",
+    "explanation": "f'(x)=6x²-6(m+1)x+6m ≤0 trên (1;3) tương đương m≥x với mọi x thuộc (1;3), suy ra m≥3. Với m nguyên thuộc [-10;10], có 8 giá trị (3,4,...,10).",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Có bao nhiêu giá trị nguyên của tham số m thuộc đoạn [-5;5] để hàm số y = (m-sinx)/cos²x nghịch biến trên khoảng (0;π/6) (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "7",
+    "explanation": "Đặt t=sinx∈(0;1/2). Cần m≤(t²+1)/(2t) với mọi t∈(0;1/2). Hàm f(t)=(t²+1)/(2t) nghịch biến trên (0;1/2), min tại t=1/2 là f(1/2)=5/4. Vậy m≤5/4. Với m nguyên thuộc [-5;5], có 7 giá trị (-5,...,1).",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Cho hàm số f(x) liên tục và có đạo hàm trên ℝ. Biết f'(x) = x²(x+1)(x-2)⁵(x-4)³. Tổng giá trị các điểm cực tiểu của hàm số f(x) là:",
+    "options": ["4.", "3.", "5.", "1."],
+    "correct": 1,
+    "explanation": "f'(x)=0 tại x=0,-1,2,4. Lập bảng biến thiên, hàm số có hai điểm cực tiểu là -1 và 4. Tổng: -1+4=3.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Số giá trị nguyên của tham số m để đồ thị hàm số y = (x²+(m-1)x-10)/(x+2m) có khoảng cách giữa hai điểm cực trị không lớn hơn 10√10 là (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "8",
+    "explanation": "Điều kiện có 2 cực trị: m>(-1+√21)/2 hoặc m<(-1-√21)/2. AB²=5(8m²+8m-40). Cần AB≤10√10 ⟹ -6≤m≤5. Kết hợp điều kiện, m nguyên thuộc {-6,-5,-4,-3,2,3,4,5}, có 8 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Cho hàm số y=f(x) có đồ thị như hình vẽ. Giá trị nhỏ nhất của hàm số y=f(x) trên khoảng (-2;+∞) là:",
+    "options": ["-1.", "1.", "-3.", "-7."],
+    "correct": 1,
+    "explanation": "Quan sát đồ thị: hàm số liên tục trên (-2;+∞), nghịch biến trên (-2;-1), đồng biến trên (-1;+∞). Min = f(-1) = 1.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Giá trị nhỏ nhất của biểu thức y = (3x²-8x+6)/(x²-2x+1) là:",
+    "options": ["-1.", "3.", "2.", "1."],
+    "correct": 2,
+    "explanation": "y'=(2x²-6x+4)/(x²-2x+1)²=0 tại x=1(loại) hoặc x=2. Bảng biến thiên cho Min y=2 tại x=2.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Một người nông dân có 15 triệu đồng, muốn sử dụng hết số tiền này để làm một cái hàng rào hình chữ E dọc theo bờ của một con sông bao quanh khu đất, gồm hai phần hình chữ nhật bằng nhau để trồng rau. Đối với mặt hàng rào song song với bờ sông thì chi phí nguyên vật liệu là 60.000 đồng một mét, còn đối với ba mặt hàng rào song song và cách đều với nhau thì chi phí nguyên vật liệu là 50.000 đồng một mét. Tính diện tích lớn nhất của khu đất giới hạn bởi bờ sông và hàng rào nói trên (nhập đáp án vào ô trống, đơn vị: m²)",
+    "options": [],
+    "correct": null,
+    "answer": "6250",
+    "explanation": "Gọi x,y là độ dài các mặt hàng rào. 3(0,05x)+0,06y=15 ⟹ y=250-5x/2. S(x)=250x-5x²/2=6250-5(x-50)²/2≤6250. Max S=6250 tại x=50.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Số đường tiệm cận của đồ thị hàm số y = √(x²-4x+3)/(x²-4) là:",
+    "options": ["1.", "2.", "3.", "4"],
+    "correct": 1,
+    "explanation": "TXĐ: (-∞;1]∪[3;+∞)\\{-2}. lim(x→±∞) y=0 nên y=0 là tiệm cận ngang. lim(x→-2⁻) y=+∞ nên x=-2 là tiệm cận đứng. Tổng: 2 đường tiệm cận.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Cho hàm số y = (ax+b)/(cx+d) có đồ thị như hình vẽ bên dưới. Tính giá trị của biểu thức T = (2ac-bd+a²)/c². (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "Từ đồ thị: tiệm cận ngang y=-1, tiệm cận đứng x=2, giao trục tung (0;-3/2). Suy ra a=-c, d=-2c, b=3c. Thay vào T: T=(2(-c)c-(3c)(-2c)+(-c)²)/c²=5.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Cho hàm số bậc ba y=f(x) có đồ thị là đường cong trong hình vẽ bên dưới. Số nghiệm thực của phương trình f(x³f(x))+1=0 là",
+    "options": ["8.", "5.", "6.", "4."],
+    "correct": 2,
+    "explanation": "Phương trình tương đương x³f(x)=0 hoặc x³f(x)=a>0 hoặc x³f(x)=b>0. Phân tích thành x=0, f(x)=0 (1 nghiệm c>0), f(x)=a/x³ (2 nghiệm), f(x)=b/x³ (2 nghiệm). Tổng cộng 6 nghiệm thực.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Họ tất cả các nguyên hàm của hàm số f(x) = (1/x)(1 + x/cos²x), ∀x∈ℝ\\{π/2+kπ, k∈ℤ} là",
+    "options": ["ln|x|+tanx+C.", "-1/x²-tanx+C.", "ln|x|-tanx+C.", "-1/x²+tanx+C."],
+    "correct": 0,
+    "explanation": "∫f(x)dx = ∫(1/x + 1/cos²x)dx = ln|x| + tanx + C.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Một vật bắt đầu chuyển động thẳng từ trạng thái đứng yên, có vận tốc là một hàm số liên tục theo thời gian v(t) (m/s). Trong 6 giây đầu tiên kể từ lúc bắt đầu chuyển động, vật chuyển động với gia tốc không đổi là 2 m/s². Từ giây thứ 6 đến giây thứ 18, vật chuyển động với hàm số gia tốc theo thời gian là a(t) = (1/3)t - 2 (m/s²). Kể từ giây thứ 18, vật chuyển động chậm dần đều và dừng hẳn ở giây thứ 30. Tìm quãng đường mà vật đi được kể từ lúc bắt đầu chuyển động cho đến lúc dừng hẳn. (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "492",
+    "explanation": "Với 0≤t≤6: v(t)=2t, v(6)=12. Với 6<t≤18: v(t)=(1/6)t²-2t+18, v(18)=36. Với 18<t≤30: a=-3, v(t)=-3t+90. Quãng đường s=∫v(t)dt trên toàn khoảng = 492 (m).",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Cho hàm số y=f(x) liên tục và luôn dương trên đoạn [0;2]. Biết ∫₀²f(x)dx=5, tính tích phân ∫₀²[e^(2+lnf(x))+3]dx.",
+    "options": ["5e²-9.", "5e²+6.", "6e²+6.", "6e²-9."],
+    "correct": 1,
+    "explanation": "∫₀²[e².f(x)+3]dx = e²∫₀²f(x)dx + ∫₀²3dx = 5e² + 6.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Chướng ngại vật \"tường cong\" trong một sân thi đấu X-Game là một khối bê tông có chiều cao tính từ mặt đất là 3m. Giao tuyến của mặt tường cong và mặt đất là đoạn thẳng AB=2m. Thiết diện của khối tường cong cắt bởi mặt phẳng vuông góc với AB tại A là một tam giác vuông cong ACE với AC=4m, CE=3m và cạnh cong AE nằm trên một đường parabol có trục đối xứng vuông góc với mặt đất. Tại vị trí M là trung điểm của AC thì tường cong có độ cao 1 m. Tính thể tích bê tông cần sử dụng để tạo nên khối tường cong đã cho. (nhập đáp án vào ô trống, kết quả viết dưới dạng phân số tối giản, đơn vị: m³)",
+    "options": [],
+    "correct": null,
+    "answer": "28/3",
+    "explanation": "Phương trình cạnh cong AE: y=(1/8)x²+(5/4)x+3. S_ACE=∫₋₄⁰(1/8x²+5/4x+3)dx=14/3. Thể tích = S_ACE.AB = (14/3).2=28/3.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Chị Hoa có 500 triệu đồng. Chị chia số tiền thành 3 phần và gửi ở các ngân hàng Vietcombank, Agribank và Viettinbank theo phương thức lãi kép. Số tiền ở phần thứ nhất chị Hoa gửi ở ngân hàng Vietcombank với lãi suất 1,9% một quý trong thời gian 18 tháng. Số tiền ở phần thứ hai chị Hoa gửi ở ngân hàng Agribank với lãi suất 0,9% một tháng trong thời gian 12 tháng. Số tiền thứ ba chị gửi ở ngân hàng Viettinbank với lãi suất 2% một quý trong thời gian 12 tháng. Tổng số tiền lãi chị Hoa thu được hai ngân hàng Vietcombank và Agribank là 34,8386842 triệu đồng. Tổng số tiền lãi chị Hoa thu được ở hai ngân hàng Agribank và Viettinbank là 35,78307674 triệu đồng. Hỏi số tiền chị Hoa gửi ở mỗi ngân hàng là bao nhiêu?",
+    "options": [
+      "Vietcombank: 150 triệu, Agribank: 300 triệu, Viettinbank: 50 triệu",
+      "Vietcombank: 170 triệu, Agribank: 130 triệu, Viettinbank: 200 triệu",
+      "Vietcombank: 130 triệu, Agribank: 200 triệu, Viettinbank: 170 triệu.",
+      "Vietcombank: 130 triệu, Agribank: 170 triệu, Viettinbank: 200 triệu"
+    ],
+    "correct": 3,
+    "explanation": "Giải hệ phương trình lãi kép với x+y+z=500, các phương trình lãi tương ứng, ta được x=130, y=170, z=200.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Trong không gian Oxyz, cho ba điểm A(2;-1;1), M(5;3;1), N(4;1;2) và mặt phẳng (P) có phương trình y+z-27=0. Gọi B là điểm thuộc tia AM, C là điểm thuộc (P) và D là điểm thuộc tia AN sao cho tứ giác ABCD là hình thoi. Tọa độ điểm C là:",
+    "options": ["(-15;7;20).", "(21;19;8).", "(-15;21;6).", "(21;21;6)."],
+    "correct": 3,
+    "explanation": "AM=(3;4;0), AN=(2;2;1). Gọi E,F thỏa AE=3AM, AF=5AN. EF=AF-AE=(1;-2;5). Vì ABCD hình thoi nên AC⊥EF. Mặt phẳng (AMN) có pt 4x-3y-2z-9=0. Giải hệ với (P) và AC⊥EF được C(21;21;6).",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²+2x-4y-2z+5=0 và mặt phẳng (P): x-2y+2z-3=0. Gọi M,N là các điểm lần lượt thuộc (P) và (S) sao cho vectơ MN cùng phương với vectơ u=(1;0;1). Giá trị lớn nhất của độ dài MN là:",
+    "options": ["3√2.", "1+2√2.", "3√3.", "14."],
+    "correct": 0,
+    "explanation": "(S) có tâm I(-1;2;1), bán kính R=1. d(I,(P))=2>R nên không giao nhau. cosα=√2/2. MN=HN/cosα=√2.HN. HN≤d(I,(P))+R=3 nên MN≤3√2.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Trong không gian Oxyz, cho mặt phẳng (P): x-2y+2z-5=0 và các điểm A(2;1;2), B(3;-2;2). Gọi M là điểm thay đổi thuộc mặt phẳng (P) thỏa mãn đường thẳng MA và MB tạo với (P) các góc bằng nhau. Biết M luôn nằm trên một đường tròn (C) cố định. Tọa độ tâm của đường tròn (C) là:",
+    "options": ["(74/27; -97/27; 62/27).", "(10/3; -3; 14/3).", "(17/21; -17/21; 17/21).", "(32/9; -49/9; 2/9)."],
+    "correct": 0,
+    "explanation": "MA=2MB, tìm được M nằm trên mặt cầu tâm I(10/3;-3;2). M thuộc (P) nên nằm trên đường tròn giao tuyến. Tâm đường tròn là hình chiếu của I trên (P): H(74/27;-97/27;62/27).",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Trong không gian Oxyz, cho điểm M(2;-3;5). Phương trình đường thẳng d đi qua M và có vectơ chỉ phương u=(2;-1;1) là:",
+    "options": ["d: (x+2)/2=(y-3)/(-1)=(z+5)/1.", "d: (x+2)/2=(y-1)/(-3)=(z+1)/5.", "d: (x-2)/2=(y+3)/(-1)=(z-5)/1.", "d: (x-2)/2=(y+1)/(-3)=(z-1)/5."],
+    "correct": 2,
+    "explanation": "Đường thẳng qua M(2;-3;5) với vtcp (2;-1;1) có phương trình chính tắc: (x-2)/2=(y+3)/(-1)=(z-5)/1.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Trong không gian Oxyz, cho điểm M(2;-3;4), mặt phẳng (P): x-2y+z-12=0 và mặt cầu (S) có tâm I(1;2;3) và bán kính R=5. Đường thẳng d đi qua M, nằm trong (P) và cắt (S) theo dây cung có độ dài lớn nhất là:",
+    "options": ["3.", "1.", "2.", "4."],
+    "correct": 2,
+    "explanation": "d(I,(P))=2√6<R nên (P) cắt (S). Dây cung lớn nhất khi d đi qua hình chiếu của I trên (P). AB=2√(R²-IK²)=2√(25-24)=2.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Trong không gian Oxyz, cho hai điểm A(6;2;-5) và B(-4;0;7). Phương trình mặt cầu đường kính AB là:",
+    "options": ["(x+5)²+(y+1)²+(z-6)²=62.", "(x-1)²+(y-1)²+(z-1)²=62.", "(x-1)²+(y-1)²+(z-1)²=248.", "(x+5)²+(y+1)²+(z-6)²=248."],
+    "correct": 1,
+    "explanation": "Tâm I là trung điểm AB: I(1;1;1). Bán kính R=AB/2=√62. Phương trình mặt cầu: (x-1)²+(y-1)²+(z-1)²=62.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²+2x+2y-4z+m-1=0 và mặt phẳng (P): x+2y+z+m+12=0. Có bao nhiêu số tự nhiên m để không tồn tại điểm K nào thuộc mặt phẳng (P) mà qua K kẻ được đường thẳng (d) cắt mặt cầu (S) tại A và B thỏa mãn KA.KB=18?",
+    "options": ["7.", "3.", "4.", "5."],
+    "correct": 3,
+    "explanation": "(S) có tâm I(-1;-1;2), bán kính R=√(7-m) (m<7). KI²=25-m nên K thuộc mặt cầu (T) tâm I bán kính √(25-m). Cần (T) và (P) không giao nhau: d(I,(P))>KI, giải ra m>1 hoặc m<-29. Kết hợp m tự nhiên, m<7: m∈{2,3,4,5,6}, có 5 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Bác Thanh thống kê đường kính thân của một số cây xoan đào mà bác ấy đã trồng cách đó 5 năm trong vườn nhà theo bảng sau: Đường kính (cm): [30;32), [32;34), [34;36), [36;38), [38;40), [40;42). Số cây: 25, 37, 18, 8, 7, 5. Tính độ lệch chuẩn hiệu chỉnh của mẫu số liệu ghép nhóm trên (kết quả làm tròn đến hàng phần nghìn).",
+    "options": ["2,792.", "7,720.", "2,778.", "7,798."],
+    "correct": 0,
+    "explanation": "Giá trị đại diện: 31,33,35,37,39,41. x̄=34. Phương sai hiệu chỉnh ŝ²=772/99. Độ lệch chuẩn ŝ=√(772/99)≈2,792.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: (Dựa vào thông tin: Trong bài kiểm tra môn Khoa học tự nhiên, thầy giáo lớp bạn Sơn đã chuẩn bị sẵn hai hộp đựng phiếu thi, mỗi phiếu ghi một câu hỏi. Hộp thứ nhất có 20 phiếu thi môn Vật lý, hộp thứ hai có 15 phiếu thi môn Hóa học. Bạn Sơn biết làm tổng cộng 30 câu ghi trên các phiếu thi, trong đó có 18 câu Vật lý. Khi Sơn bắt đầu kiểm tra, thầy giáo rút ngẫu nhiên từ hộp thứ nhất ra 2 phiếu và từ hộp thứ hai ra 1 phiếu.) Giả sử bài kiểm tra của Sơn gồm cả 3 câu hỏi ghi trên các phiếu mà thầy giáo đã rút ra. Xác suất để Sơn không biết làm cả 3 câu là",
+    "options": ["33/925.", "25/896.", "35/918.", "1/950."],
+    "correct": 3,
+    "explanation": "P(A)=C(2,2)/C(20,2)=1/190 (biết cả 2 câu Vật lý). P(B)=C(1,3)/C(1,15)=1/5 (biết câu Hóa). P(không biết cả 3)=P(A̅)P(B̅)... Thực chất P(AB)=1/190.1/5=1/950 là xác suất không biết làm cả 3 câu.",
+    "passage": "cau46-48"
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Giả sử trong số các phiếu thầy giáo đã rút ra, Sơn được phép chọn ngẫu nhiên 1 phiếu để làm bài. Xác suất để Sơn biết làm câu hỏi ghi trên phiếu đó là",
+    "options": ["13/15.", "29/35.", "76/85.", "109/125."],
+    "correct": 0,
+    "explanation": "P(A)=2/3 (chọn phiếu Vật lý), P(A̅)=1/3. P(B|A)=18/20=9/10, P(B|A̅)=12/15=4/5. P(B)=2/3.9/10+1/3.4/5=13/15.",
+    "passage": "cau46-48"
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Giả sử trong số các phiếu thầy giáo đã rút ra, Sơn được phép chọn ngẫu nhiên 2 phiếu để làm bài. Biết rằng Sơn biết làm cả 2 câu hỏi ghi trên 2 phiếu đó. Tính xác suất để cả 2 phiếu Sơn chọn đều ghi câu hỏi môn Vật lý",
+    "options": ["85/237.", "17/46.", "16/47.", "87/236."],
+    "correct": 0,
+    "explanation": "P(A)=1/3, P(A̅)=2/3. P(B|A)=C(18,2)/C(20,2)=153/190, P(B|A̅)=18/25. P(B)=1/3.153/190+2/3.18/25=711/950. P(A|B)=P(A)P(B|A)/P(B)=(1/3.153/190)/(711/950)=85/237.",
+    "passage": "cau46-48"
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Trong một giải thi đấu cờ tướng theo kiểu vòng tròn một lượt tính điểm (mỗi kỳ thủ đều phải thi đấu với tất cả các kỳ thủ còn lại đúng 1 trận). Kỳ thủ nếu thắng thì được 2 điểm, nếu hòa được 1 điểm, còn nếu thua thì không được điểm nào. Biết tổng số điểm của tất cả các kỳ thủ sau khi kết thúc giải đấu là 42. Tìm số kỳ thủ đã tham gia giải đấu trên. (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "7",
+    "explanation": "Tổng điểm mỗi trận luôn bằng 2 nên có 42:2=21 trận đấu. C(n,2)=21 ⟹ n(n-1)/2=21 ⟹ n²-n-42=0 ⟹ n=7.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Thỏ và Rùa cùng thi chạy trên một chặng đường có cự li 10 km. Tốc độ của Thỏ gấp 5 lần tốc độ của Rùa. Vì bản tính kiêu căng và coi thường đối thủ, chỉ vừa mới chạy được một lúc Thỏ đã lăn ra ngủ thiếp đi. Khi tỉnh dậy, Thỏ nhận ra Rùa đã quá gần vạch đích nên cuống cuồng vắt chân lên cổ mà chạy. Tuy nhiên, Thỏ đã thua cuộc bởi Rùa vừa về đến đích trong khi Thỏ vẫn còn cách vạch đích 200 m. Thỏ băn khoăn mãi, không biết trong lúc mình ngủ Rùa đã chạy được bao nhiêu mét. Hãy tính giúp Thỏ. (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "8040",
+    "explanation": "Quãng đường Thỏ đi từ đầu đến khi Rùa về đích: 10000-200=9800m. Quãng đường Rùa đi trong cùng thời gian đó: 9800/5=1960m. Quãng đường Rùa đi trong lúc Thỏ ngủ: 10000-1960=8040m.",
+    "passage": null
+  }
+];

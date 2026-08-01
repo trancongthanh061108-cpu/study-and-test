@@ -1,0 +1,426 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Có bao nhiêu cách lấy một cây bút từ hộp bút gồm 4 cây bút bi và 5 cây bút chì?",
+    "options": ["36", "9", "72", "20"],
+    "correct": 1,
+    "explanation": "Theo quy tắc cộng, có 4+5=9 cách chọn.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Nếu đường thẳng d và mặt phẳng (α) không có điểm chung thì chúng",
+    "options": ["cắt nhau", "song song với nhau", "chéo nhau", "trùng nhau"],
+    "correct": 1,
+    "explanation": "Nếu đường thẳng d và mặt phẳng (α) không có điểm chung thì chúng song song với nhau.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Thống kê thời gian dùng điện thoại thông minh của 40 học sinh lớp 10B trong 1 ngày được cho trong bảng sau: [0;1): 5, [1;2): 18, [2;3): 10, [3;4): 5, [4;5): 2. Nhóm chứa tứ phân vị thứ nhất là",
+    "options": ["[5;18)", "[2;3)", "[0;1)", "[1;2)"],
+    "correct": 3,
+    "explanation": "Cỡ mẫu n=40. Tứ phân vị thứ nhất là (x10+x11)/2. Hai giá trị x10, x11 thuộc nhóm [1;2) nên nhóm này chứa tứ phân vị thứ nhất.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Tập nghiệm của bất phương trình (2/3)^(2x+1) > 1 là",
+    "options": ["(-∞;0)", "(0;+∞)", "(-∞;-1/2)", "(-1/2;+∞)"],
+    "correct": 2,
+    "explanation": "Ta có (2/3)^(2x+1)>1 ⇔ 2x+1<0 ⇔ x<-1/2. Vậy tập nghiệm là (-∞;-1/2).",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Cho hàm số y = ax^4 + bx^2 + c (a,b,c∈ℝ) có đồ thị như hình vẽ. Mệnh đề nào sau đây đúng?",
+    "options": ["a<0, b<0, c>0", "a>0, b<0, c<0", "a>0, b>0, c<0", "a<0, b>0, c<0"],
+    "correct": 3,
+    "explanation": "Đồ thị hàm số hướng xuống dưới ⇒ a<0. Đồ thị có 3 điểm cực trị ⇒ ab<0 ⇒ b>0. Ta có y(0)<0 ⇒ c<0. Vậy a<0,b>0,c<0.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Cho hình lập phương ABCD.A'B'C'D'. Tính góc giữa hai đường thẳng B'D' và A'A.",
+    "options": ["90°", "45°", "60°", "30°"],
+    "correct": 0,
+    "explanation": "A'A ⊥ (A'B'C'D') và B'D' ∈ (A'B'C'D') nên A'A ⊥ B'D' ⇒ góc(A'A,B'D') = 90°.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Cho ΔABC có BC=9, AC=7, cosC=1/7. Tính đường cao h_c kẻ từ C xuống cạnh AB.",
+    "options": ["h_c = 9√21/7", "h_c = 19√21/7", "h_c = 13√7/21", "h_c = 3√7/21"],
+    "correct": 0,
+    "explanation": "AB² = 9²+7²-2.9.7.(1/7) = 112 ⇒ AB=4√7. sinC=4√3/7. S_ABC = (1/2).9.7.(4√3/7) = 18√3. h_c = 2S/AB = 2.18√3/(4√7) = 9√21/7.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Cho biết điện lượng trong một dây dẫn theo thời gian biểu thị bởi hàm số Q = 3t² + 8t + 3 (t được tính bằng giây, Q được tính bằng Coulomb). Tính thời điểm cường độ của dòng điện trong dây dẫn I_tt = 32 A.",
+    "options": ["5s", "2s", "7s", "4s"],
+    "correct": 3,
+    "explanation": "Q'(t) = 6t+8. I_tt = 6t+8 = 32(A) ⇒ t=4(s).",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Một lớp có 7 học sinh giỏi toán, 5 học sinh giỏi văn, 6 học sinh giỏi lí. Hỏi có bao nhiêu cách chọn ra 1 nhóm gồm 3 học sinh, mỗi học sinh giỏi 1 môn khác nhau?",
+    "options": ["12", "16", "18", "210"],
+    "correct": 3,
+    "explanation": "Số cách chọn = 7.5.6 = 210 cách.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Giá trị của B = lim (2n+3)/(n²+1) bằng",
+    "options": ["+∞", "-∞", "0", "1"],
+    "correct": 2,
+    "explanation": "Với n lớn, (2n+3)/(n²+1) tiến về 0. Vậy B = 0.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Tính lim (x→+∞) (√(x²-4x) - x)",
+    "options": ["-2", "-∞", "0", "+∞"],
+    "correct": 0,
+    "explanation": "lim (√(x²-4x)-x) = lim (-4x)/(√(x²-4x)+x) = -4/(√(1-4/x)+1) = -4/2 = -2.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Giải bóng chuyền VTV cup gồm 12 đội tham gia, trong đó có 9 đội nước ngoài và 3 đội Việt Nam. Ban tổ chức bốc thăm ngẫu nhiên và chia thành 3 bảng đấu A, B, C mỗi bảng 4 đội. Xác suất để ba đội Việt Nam nằm ở 3 bảng gần nhất với số nào dưới đây?",
+    "options": ["11/25", "3/20", "16/55", "29/100"],
+    "correct": 2,
+    "explanation": "n(Ω)=C12^4.C8^4.C4^4. n(T)=C3^1.C9^3.C2^1.C6^3.C1^1.C3^3. P(T)=16/55.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Có bao nhiêu giá trị nguyên của tham số m sao cho hàm số f(x) = (1/3)x³ + mx² + 4x + 3 đồng biến trên ℝ.",
+    "options": ["5", "4", "3", "2"],
+    "correct": 0,
+    "explanation": "f'(x)=x²+2mx+4≥0 ∀x ⇔ Δ'=m²-4≤0 ⇔ -2≤m≤2. Vì m nguyên nên m∈{-2,-1,0,1,2}, có 5 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Tìm hệ số của x^7 trong khai triển (1/x + x³)^(2n-1) với x≠0, biết n là số tự nhiên thỏa mãn 3C(n+1,2) + nP2 = 4A(n,2).",
+    "options": ["1", "5", "10", "3"],
+    "correct": 2,
+    "explanation": "Giải phương trình được n=3. Khai triển (1/x+x³)^5 = 1/x^5+5/x+10x³+10x^7+5x^11+x^15. Vậy hệ số của x^7 là 10.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, SA vuông góc với đáy, SC tạo với đáy một góc bằng 45°. Khoảng cách từ điểm B đến mặt phẳng (SCD) là",
+    "options": ["a√3", "a√2/√3", "a√3/2", "a√6"],
+    "correct": 1,
+    "explanation": "Chọn hệ trục tọa độ, tính được d(B,(SCD)) = √2/√3 . a.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Cho hai số thực dương x, y thỏa mãn 2+2log2(x) = (1/2)log(√2)(y). Giá trị nhỏ nhất của biểu thức P = 10x² - 2(x+y) - 3 là",
+    "options": ["-3", "-1/9", "1/2", "-7/2"],
+    "correct": 3,
+    "explanation": "Từ điều kiện suy ra 4x²=y. P=10x²-2(x+4x²)-3=2x²-2x-3=2(x-1/2)²-7/2≥-7/2.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Có bao nhiêu giá trị nguyên của tham số m để phương trình (m-1)log²(1/2)(x-2) - (m-5)log(1/2)(x-2) + m-1 = 0 có đúng hai nghiệm thực thuộc khoảng (2;4)?",
+    "options": ["2", "3", "1", "4"],
+    "correct": 1,
+    "explanation": "Đặt t=log(1/2)(x-2)>-1, phương trình trở thành m=f(t)=(t²-5t+1)/(t²-t+1). Khảo sát hàm f(t) trên (-1;+∞) được -3<m<1. m nguyên nên m∈{-2,-1,0}, có 3 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Gọi S là tập hợp các số tự nhiên gồm 9 chữ số khác nhau. Chọn ngẫu nhiên một số từ S, tính xác suất để chọn được một số gồm 4 chữ số lẻ và chữ số 0 luôn đứng giữa hai chữ số lẻ (hai số hai bên chữ số 0 là số lẻ).",
+    "options": ["49/54", "5/54", "1/7776", "45/54"],
+    "correct": 1,
+    "explanation": "n(Ω)=9.A9^8. n(X)=C7^1.A5^2.C3^2.C4^4.6!. P(X)=5/54.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Cho F(x) = (x-1)e^x là một nguyên hàm của hàm số f(x)e^(2x). Tìm nguyên hàm của hàm số f'(x)e^(2x).",
+    "options": [
+      "∫f'(x)e^(2x)dx = (4-2x)e^x + C",
+      "∫f'(x)e^(2x)dx = (x-2)e^x + C",
+      "∫f'(x)e^(2x)dx = (2-x)/2 e^x + C",
+      "∫f'(x)e^(2x)dx = (2-x)e^x + C"
+    ],
+    "correct": 3,
+    "explanation": "Từ f(x)e^(2x)=[(x-1)e^x]' suy ra f(x)=xe^(-x), f'(x)=(1-x)e^(-x). Suy ra K=∫f'(x)e^(2x)dx=∫(1-x)e^x dx=(2-x)e^x+C.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Gọi F(x) là nguyên hàm của hàm số f(x) = x/√(8-x²) thỏa mãn F(2)=0. Khi đó phương trình F(x) = x có nghiệm là",
+    "options": ["x = 0", "x = 1", "x = -1", "x = 1-√3"],
+    "correct": 3,
+    "explanation": "∫f(x)dx=-√(8-x²)+C. F(2)=0 ⇒ C=2. F(x)=-√(8-x²)+2. F(x)=x ⇔ √(8-x²)=2-x ⇔ x≤2 và 8-x²=(2-x)² ⇒ x=1-√3.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Cho bảng số liệu cơ cấu vận tải năm 2004 (Đơn vị: %). Loại hình vận tải có tỉ trọng vận chuyển hành khách ít nhưng có tỉ trọng hành khách luân chuyển cao gấp khoảng 38 lần là",
+    "options": ["Đường sắt", "Đường sông", "Đường biển", "Đường hàng không"],
+    "correct": 3,
+    "explanation": "19,2/0,5=38,4. Đường hàng không có tỉ trọng vận chuyển hành khách ít (0,5) nhưng tỉ trọng luân chuyển hành khách 19,2 cao gấp khoảng 38 lần.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Số sản phẩm một công nhân làm được trong một ngày được cho như sau: 18 25 39 12 54 27 46 25 19 8 36 22 20 19 17 44 5 18 23 28 25 34 46 27 16. Hãy chuyển mẫu số liệu sang dạng ghép nhóm với sáu nhóm có độ dài bằng nhau. Tìm số sản phẩm trung bình của mẫu ghép nhóm đó",
+    "options": ["24,5 lần", "26,02 lần", "25,8 lần", "27,3 lần"],
+    "correct": 1,
+    "explanation": "Các nhóm [1;10),[10;19),[19;28),[28;37),[37;46),[46;55) với tần số 2,5,10,3,2,3. Trung bình = (5,5.2+14,5.5+23,5.10+32,5.3+41,5.2+50,5.3)/25 = 26,02.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Biết hệ phương trình {2x+3y=5; 3x²-y²+2y=4} có nghiệm nguyên. Tích các nghiệm nguyên của hệ phương trình bằng",
+    "options": ["-6", "1", "-4", "5"],
+    "correct": 1,
+    "explanation": "Giải hệ được nghiệm nguyên (1;1). Tích các nghiệm nguyên (x.y) = 1.1 = 1.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Tập nghiệm của phương trình √(x+1) + √(4-x) + √((x+1)(4-x)) = 5 có bao nhiêu phần tử?",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2,
+    "explanation": "Đặt t=√(x+1)+√(4-x)≥0, được t=3. Giải tiếp được x=0 hoặc x=3. Tập nghiệm S={0;3} có 2 phần tử.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Tổng nghiệm phương trình cos³x + sin³x + 2sin²x = 1 thuộc (0;2π)",
+    "options": ["π", "2π", "3π", "4π"],
+    "correct": 3,
+    "explanation": "Biến đổi được (sinx+cosx)(1+sinx)(1-cosx)=0. Nghiệm trong (0;2π): x=3π/4+kπ, x=3π/2, x=2π (không thuộc), tổng các nghiệm hợp lệ là 4π.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Cho hai đường thẳng song song d1 và d2. Trên d1 có 8 điểm phân biệt được tô màu đỏ, trên d2 có 5 điểm phân biệt được tô màu xanh. Xét tất cả các tam giác được tạo thành khi nối các điểm đó với nhau. Chọn ngẫu nhiên một tam giác, khi đó xác suất để thu được tam giác có hai đỉnh màu đỏ là",
+    "options": ["7/11", "4/11", "70/137", "40/137"],
+    "correct": 0,
+    "explanation": "n(Ω)=C8^1.C5^2+C8^2.C5^1. n(A)=C8^2.C5^1. P(A)=7/11.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Một hộp đựng 10 chiếc thẻ được đánh số từ 0 đến 9. Lấy ngẫu nhiên ra 3 chiếc thẻ, tính xác suất để 3 chữ số trên 3 chiếc thẻ được lấy ra có thể ghép thành một số chia hết cho 5.",
+    "options": ["2/5", "3/5", "8/15", "7/15"],
+    "correct": 2,
+    "explanation": "n(Ω)=C10^3=120. n(Ā)=C8^3=56 ⇒ n(A)=64. P(A)=64/120=8/15.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Tại Việt Nam, số lao động từ 15 tuổi trở lên có việc làm trong giai đoạn từ quý I năm 2019 đến quý I năm 2021 được thống kê (đơn vị: triệu người). Mệnh đề nào sau đây là sai về mẫu dữ liệu trên?",
+    "options": [
+      "Trung bình mỗi quý có 50,16 triệu người lao động",
+      "Khoảng biến thiên là 0,6 triệu người",
+      "Quý IV năm 2020 có 50,9 triệu người lao động, giảm 0,2 so với cùng kì năm trước",
+      "Thời điểm có ít người lao động nhất trong giai đoạn này là quý II năm 2020"
+    ],
+    "correct": 1,
+    "explanation": "Khoảng biến thiên thực tế là 51,0-48,1=2,9 (triệu người), không phải 0,6, nên mệnh đề B sai.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Trên nóc một tòa nhà có một cột ăng-ten cao 5 m. Từ vị trí quan sát A cao 7 m so với mặt đất, có thể nhìn thấy đỉnh B và chân C của cột ăng-ten dưới góc 50° và 40° so với phương nằm ngang. Chiều cao của tòa nhà gần nhất với giá trị nào sau đây?",
+    "options": ["20,4 m", "29 m", "12,5 m", "18,9 m"],
+    "correct": 3,
+    "explanation": "BAC=10°, ABD=40°. AC=BC.sin(ABC)/sin(BAC)=5.sin40°/sin10°≈18,5m. CD=AC.sinCAD≈11,9m. CH=CD+DH=11,9+7=18,9m.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Cho hàm số y=f(x) có đạo hàm f'(x) là hàm bậc ba có đồ thị như hình vẽ. Hàm số y=f(e^x-3) nghịch biến trên khoảng nào dưới đây?",
+    "options": ["(ln2;4)", "(-∞;1)", "(1;+∞)", "(ln2;ln4)"],
+    "correct": 3,
+    "explanation": "y'=e^x.f'(e^x-3). Hàm nghịch biến khi f'(e^x-3)<0. Từ đồ thị f'(x), điều kiện này cho ln2<x<ln4. Vậy hàm nghịch biến trên (ln2;ln4).",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Có 8 bạn cùng ngồi xung quanh một cái bàn tròn, mỗi bạn cầm một đồng xu như nhau. Tất cả 8 bạn cùng tung đồng xu của mình, bạn có đồng xu ngửa thì đứng, bạn có đồng xu sấp thì ngồi. Xác suất để không có hai bạn liền kề cùng đứng là",
+    "options": ["55/96", "47/256", "13/40", "55/256"],
+    "correct": 1,
+    "explanation": "n(Ω)=2^8=256. Đếm các trường hợp không có 2 người liền kề cùng đứng: 1+8+20+16+2=47. P(A)=47/256.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Có bao nhiêu số tự nhiên có 5 chữ số tận cùng là 1 và chia hết cho 7?",
+    "options": ["1286", "1285", "12855", "12856"],
+    "correct": 0,
+    "explanation": "Giải điều kiện chia hết cho 7, tìm được 143≤l≤1428 (l∈ℕ), có 1428-143+1=1286 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Trong không gian với hệ trục tọa độ Oxyz, cho mặt cầu (S) có phương trình là x²+y²+z²-2x-2y-6z+7=0. Cho ba điểm A,M,B nằm trên mặt cầu (S) sao cho góc AMB=90°. Diện tích tam giác AMB có giá trị lớn nhất bằng",
+    "options": ["4", "2", "4π", "π"],
+    "correct": 0,
+    "explanation": "(S) có tâm I(1;1;3), bán kính R=2. AB đi qua I, AB=2R=4. S_AMB ≤ AB²/4 = 4, đạt max khi MA=MB=2√2.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Cho dãy số (a_n) xác định bởi a1=5, a(n+1)=q.a_n+3 với mọi n≥1, trong đó q là hằng số, q≠{0;1}. Biết công thức số hạng tổng quát của dãy số viết được dưới dạng a_n = α.q^(n-1) + β.(1-q^(n-1))/(1-q). Tính α+2β.",
+    "options": ["16", "13", "9", "11"],
+    "correct": 3,
+    "explanation": "Từ a1=5, a2=5q+3, giải hệ được α=5, β=3. α+2β=5+2.3=11.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Miền nghiệm của hệ bất phương trình {0≤x-y≤3; 0≤x+2y≤4} là phần không tô màu của hình nào sau đây?",
+    "options": ["Hình A", "Hình B", "Hình C", "Hình D"],
+    "correct": 1,
+    "explanation": "Miền nghiệm là miền tứ giác OABC (kể cả các cạnh) với O(0;0), A(4/3;4/3), B(10/3;1/3), C(2;-1), tương ứng với hình B.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Cho hàm số bậc bốn y=f(x), hàm số y=f'(x) có bảng xét dấu cho trước (dương trên (-∞,-1), âm trên (-1,1), dương trên (1,3), âm trên (3,+∞)). Hàm số y=f(√(x²-2x+2)) có bao nhiêu điểm cực tiểu?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Đặt g(x)=f(√(x²-2x+2)). g'(x)=0 tại x=1-2√2, x=1, x=1+2√2. Lập bảng xét dấu, hàm số có 3 điểm cực trị, trong đó có 1 điểm cực tiểu.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Từ các chữ số 0, 1, 2, 3, 4, 5 có thể lập được bao nhiêu số tự nhiên mà mỗi số có 6 chữ số khác nhau và chữ số 2 đứng cạnh chữ số 3?",
+    "options": [],
+    "correct": null,
+    "answer": "192",
+    "explanation": "Coi 2 và 3 liền nhau thành chữ số kép a. Số cách lập số 5 chữ số từ {0,1,4,5,a} là 4.4!=96. Có 2 cách tạo chữ số kép (23 hoặc 32). Vậy tổng là 96.2=192.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Một Cung thể thao được thiết kế như sau: Hàng thứ nhất có 100 ghế, hàng thứ hai có 103 ghế, hàng thứ ba có 106 ghế,.... Một ca sĩ tổ chức Liveshow của mình tại Cung thể thao này đã lên kế hoạch chia số ghế ngồi thành 4 zone, trong đó có 2 zone VIP với giá 2 triệu/vé, 2 zone thường còn lại giá 800 nghìn đồng/vé (số ghế ở mỗi zone là như nhau). Nếu vé được bán hết sạch thì doanh thu của buổi Liveshow là bao nhiêu triệu đồng? Biết rằng Cung thể thao có 20 hàng ghế.",
+    "options": [],
+    "correct": null,
+    "answer": "3598",
+    "explanation": "Số ghế lập thành cấp số cộng u1=100, d=3, 20 số hạng. Tổng ghế S20=2570. Doanh thu = 2570/2.(2+0,8)=3598 (triệu đồng).",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Số nghiệm nguyên của bất phương trình 2^(2x²-15x+100) - 2^(x²+10x-50) + x² - 25x + 150 < 0 là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Đặt u=2x²-15x+100, v=x²+10x-50. Xét f(t)=2^t+t đồng biến. Suy ra u<v ⇔ x²-25x+150<0 ⇔ 10<x<15. x nguyên: x∈{11,12,13,14}, có 4 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Cho hàm số f(x) xác định và liên tục trên ℝ. Hàm số y=f'(x) liên tục trên ℝ và có đồ thị như hình vẽ. Xét hàm số g(x) = f(x-2m) + (1/2)(2m-x)² + 2024, với m là tham số thực. Gọi S là tập hợp các giá trị nguyên dương của m để hàm số y=g(x) nghịch biến trên khoảng (3;4). Tập hợp S có bao nhiêu phần tử?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "g'(x)=h(x-2m) với h(x)=f'(x)-(-x). Điều kiện nghịch biến trên (3;4) cho 3/2≤m≤3. m nguyên dương: m∈{2;3}, có 2 phần tử.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Cho hàm số y=f(x) có đạo hàm liên tục trên ℝ. Hàm số y=f'(x) có đồ thị như hình vẽ. Gọi S là tập hợp các giá trị nguyên m∈[-5;5] để hàm số g(x)=f(x+m) nghịch biến trên khoảng (1;2). Tập hợp S có bao nhiêu phần tử?",
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "g'(x)=f'(x+m)=0 tại x=-m-1,-m+1,-m+3. Điều kiện nghịch biến trên (1;2) cho m≤-3 hoặc 0≤m≤1. Vậy S={-5,-4,-3,0,1}, có 5 phần tử.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Hình phẳng (H) được giới hạn bởi đồ thị (C) của hàm số đa thức bậc ba và parabol (P) có trục đối xứng vuông góc với trục hoành. Phần tô đậm như hình vẽ có diện tích bằng a/b (a,b∈ℤ; (a,b)=1). Giá trị của biểu thức a-3b bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Xác định (C):y=x³-3x²+2 và (P):y=-x²+x. Diện tích S=∫(-1)^2|x³-2x²-x+2|dx=37/12. a=37,b=12 ⇒ a-3b=1.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Cho hàm số y=f(x) có đồ thị trên đoạn [-4;4] như hình vẽ. Gọi F(x) là một nguyên hàm của hàm số f(x), giá trị của S=F(4)-F(-4) bằng bao nhiêu? (Kết quả làm tròn đến hàng phần mười)",
+    "options": [],
+    "correct": null,
+    "answer": "20,3",
+    "explanation": "S=∫(-4)^4 f(x)dx = 2+(8+2π)+4 = 14+2π ≈ 20,3.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Biết ∫(0→8) f(x)dx = 4, giá trị ∫(0→4) f(2x)dx bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "∫(0→4)f(2x)dx = (1/2)∫(0→8)f(t)dt = (1/2).4 = 2.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Cho hình lập phương ABCD.A'B'C'D' cạnh bằng a. Lấy điểm M thuộc đoạn AD', điểm N thuộc đoạn BD sao cho AM=DN=x (0<x<a√2/2). Khi độ dài đoạn MN đạt giá trị nhỏ nhất thì x=ka. Giá trị của biểu thức T=9k²+1 bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "Tính MN²=3(x-a√2/3)²+a²/3. MN nhỏ nhất khi x=a√2/3 ⇒ k=√2/3 ⇒ T=9k²+1=3.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Gọi V là thể tích khối tròn xoay tạo thành do quay xung quanh trục hoành một elip có phương trình x²/25 + y²/16 = 1. Giá trị của V bằng bao nhiêu? (Kết quả làm tròn đến chữ số thập phân thứ nhất).",
+    "options": [],
+    "correct": null,
+    "answer": "335,1",
+    "explanation": "V=π∫(-5→5)(16-16x²/25)dx = π[16x-16x³/75] từ -5 đến 5 = 320π/3 ≈ 335,1.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Kim tự tháp Cheops có dạng hình chóp với đáy là hình vuông có cạnh dài khoảng 230m, các cạnh bên bằng nhau và dài khoảng 219m. Số đo góc tạo bởi một cạnh bên và cạnh đáy của kim tự tháp bằng bao nhiêu độ? (Kết quả làm tròn đến chữ số thập phân thứ nhất)",
+    "options": [],
+    "correct": null,
+    "answer": "58,3",
+    "explanation": "cosC = (CD²+SC²-SD²)/(2.CD.SC) = 230/(2.219) = 115/219. Góc C ≈ 58,3°.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Cho hàm số y=f(x) có bảng biến thiên cho trước. Giá trị lớn nhất của hàm số g(x)=f(4x-x²)+(1/3)x³-3x²+8x+(1/3) trên đoạn [1;3] bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "12",
+    "explanation": "g'(x)=(2-x)[2f'(4x-x²)+4-x] > 0 trên [1;3] trừ điểm x=2. Max g(x)=g(2)=f(4)+7=12.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Tổng tất cả các giá trị thực của tham số m để đồ thị hàm số y=x+√(mx²+1) có tiệm cận ngang là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Điều kiện m>0 và giới hạn khi x→-∞ hữu hạn cho m=1. Tổng các giá trị m là 1.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Một nhà sản xuất cần làm những hộp đựng hình trụ có thể tích 1 lít. Gọi r là bán kính đáy của hình trụ và h là chiều cao của hình trụ (đơn vị: cm). Khi chi phí vật liệu dùng để sản xuất là nhỏ nhất thì r+h là bao nhiêu? (Kết quả làm tròn đến chữ số thập phân thứ nhất)",
+    "options": [],
+    "correct": null,
+    "answer": "16,3",
+    "explanation": "V=πr²h=1000. S=2πrh+2πr²=2000/r+2πr² nhỏ nhất khi r=∛(500/π). h=1000/(πr²). r+h≈16,3.",
+    "passage": null
+  }
+];

@@ -1,0 +1,430 @@
+  {
+    "id": 1,
+    "question": "Câu 1: Cho mệnh đề: ∀ε>0, ∃n_o∈N*, ∀n>n_o, |1/n|<ε. Trong các mệnh đề dưới đây, mệnh đề nào là mệnh đề phủ định của mệnh đề trên?",
+    "options": [
+      "∀ε≤0, ∃n_o∉N*, ∀n≤n_o, |1/n|≥ε",
+      "∀ε≤0, ∃n_o∉N*, ∀n≤n_o, |1/n|<ε",
+      "∃ε>0, ∀n_o∈N*, ∃n>n_o, |1/n|≥ε",
+      "∃ε≤0, ∀n_o∉N*, ∃n≤n_o, |1/n|≥ε"
+    ],
+    "correct": 2,
+    "explanation": "Cách xác định mệnh đề phủ định: Thay dấu ∀ thành dấu ∃ và ngược lại, đồng thời đối với mệnh đề cuối cùng không đi cùng dấu ∀ và ∃, lấy mệnh đề phủ định của mệnh đề đó. Ta xác định được mệnh đề phủ định là ∃ε>0, ∀n_o∈N*, ∃n>n_o, |1/n|≥ε.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Một tiệm nước trái cây có kế hoạch làm hai loại nước trái cây để bán cho khách hàng mỗi ngày. Biết rằng mỗi loại nước trái cây đều cần ba loại trái cây là táo, cam và dứa. Để làm 1 kg nước trái cây loại I cần 2 kg táo, 1 kg cam và 4 kg dứa. Để làm 1 kg nước trái cây loại II cần 3 kg táo, 4 kg cam và 1 kg dứa. Biết rằng trong một ngày, cửa hàng đó có thể sử dụng tối đa 120 kg táo, 120 kg cam và 150 kg dứa. Giả sử lợi nhuận của mỗi kg nước bán ra của hai loại đều bằng 70000 đồng/kg, và tiệm có thể bán hết lượng nước sản xuất trong một ngày. Khi đó, lợi nhuận lớn nhất trong một ngày của tiệm là:",
+    "options": ["3780000 đồng", "3570000 đồng", "3360000 đồng", "2625000 đồng"],
+    "correct": 1,
+    "explanation": "Gọi x,y (kg) là lượng nước loại I, II sản xuất. Hệ bất phương trình: x≥0,y≥0, 2x+3y≤120, x+4y≤120, 4x+y≤150. Miền nghiệm có các đỉnh O(0;0), A(0;30), B(24;24), C(33;18), D(37,5;0). Lợi nhuận L(x;y)=70000(x+y). Tính L tại các đỉnh: L(C)=70000(33+18)=3570000 là lớn nhất.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Trong hệ toạ độ Descartes, cho ba điểm A(3;4), B(2;5), C(4;6). Gọi G là trọng tâm tam giác ABC. Khi đó, diện tích tam giác BCG bằng:",
+    "options": ["1", "1/2", "1/3", "1/6"],
+    "correct": 1,
+    "explanation": "Phương trình AB: x+y-7=0. Khoảng cách từ C đến AB là 3/sqrt2. Diện tích ABC = (1/2).AB.d(C;AB) = (1/2).sqrt2.(3/sqrt2)=3/2. Do G là trọng tâm nên diện tích BCG = (1/3).S_ABC = (1/3).(3/2)=1/2.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Cho n là số nguyên dương thoả mãn C_n^1+C_n^2+...+C_n^(n-1)+C_n^n=4095. Giá trị của biểu thức S=(C_n^1)^2+(C_n^2)^2+(C_n^3)^2+...+(C_n^n)^2 bằng:",
+    "options": ["2704155", "2496143", "10400599", "705431"],
+    "correct": 0,
+    "explanation": "Từ 2^n-C_n^0=4095 => 2^n-1=4095 => n=12. Dùng đồng nhất hệ số khai triển Newton của (1+x)^(2n): (C_n^1)^2+...+(C_n^n)^2 = C_2n^n - 1. Với n=12: S=C_24^12-1=2704155.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Số nghiệm của phương trình 3cos^2x - sinxcos2x - (sin2x)/2 - cosxcos2x + sinx = 2 trong khoảng (0;2024π) bằng:",
+    "options": ["4047", "4048", "3035", "3036"],
+    "correct": 0,
+    "explanation": "Biến đổi phương trình về (cos2x+sinx)(1-sinx-cosx)=0, dẫn tới (sinx-1)(2sinx+1)(1-sqrt2sin(x+π/4))=0. Giải ra các họ nghiệm x=π/2+k2π, x=7π/6+k2π, x=11π/6+k2π, x=k2π. Đếm số nghiệm trong (0;2024π): 1012+1012+1012+1011=4047.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Biết rằng số thập phân vô hạn tuần hoàn 0,365365365... có thể biểu diễn dưới dạng phân số: 0,365365365...=a/b, với a,b>0;(a;b)=1. Tính giá trị của biểu thức T=a+b.",
+    "options": [],
+    "correct": null,
+    "answer": "1364",
+    "explanation": "0,365365365...=365.10^-3+365.10^-6+... = 365.10^-3/(1-10^-3) = 365/999. Vậy a=365, b=999, T=a+b=1364.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Nam chơi một trò chơi với những viên bi trên một dải ô vuông gồm 10 ô đánh số từ 1 đến 10. Ban đầu, Nam có thể đặt số lượng bi tuỳ ý vào ô thứ nhất. Nam có thể tuỳ ý di chuyển các viên bi giữa ô thứ nhất và ô thứ hai. Từ ô thứ ba trở đi, nếu Nam muốn đặt một con bi vào ô đó thì phải lấy hai viên bi từ hai ô ngay trước đó (mỗi ô lấy đúng một con bi) để đổi. Nếu hai ô ngay trước đó có ít nhất một ô không có bi nào thì không thể thực hiện thao tác này. Hỏi ở bước đầu tiên, Nam cần đặt tối thiểu bao nhiêu viên bi vào ô thứ nhất để sau một số bước thực hiện trò chơi trên, có thể có một viên bi được đặt ở ô thứ mười?",
+    "options": ["44", "45", "54", "55"],
+    "correct": 3,
+    "explanation": "Quy ước giá trị viên bi ô 1 là u1=1, u2=1, và từ ô 3 trở đi u_i=u_(i-1)+u_(i-2) (dãy Fibonacci). Tính được u3=2,...,u10=55. Vậy cần ít nhất 55 viên bi ở ô thứ nhất.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Biết lim(n→+∞)(sqrt(9n^2+5n+4)-cbrt(27n^3+4n^2+9n+8))=a/b, với a,b>0;(a,b)=1. Khi đó, giá trị của biểu thức S=ab bằng:",
+    "options": ["3650", "247", "1998", "840"],
+    "correct": 2,
+    "explanation": "Dùng phương pháp liên hợp, tách thành hai giới hạn: 5/(3+3) - 4/(3.3+3.3+3.3) = 5/6 - 4/27... tính cụ thể được kết quả = 37/54. Vậy a=37, b=54, S=ab=1998.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Xét hàm số f(x)=cos^2(x^2+3x). Giá trị của f'(1) bằng:",
+    "options": ["5sin(8)", "-5sin(8)", "10sin(4)", "-10cos(4)"],
+    "correct": 1,
+    "explanation": "f'(x)=(2x+3).(-sin(x^2+3x)).2(cos(x^2+3x)). Tại x=1: f'(1)=-5.sin(4).2cos(4)=-10sin(4)cos(4)=-5sin(8).",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Cho hàm số y=x^3-3x^2+x có đồ thị (C). Biết rằng qua điểm M(5/3;-7/3) có thể kẻ hai đường thẳng d1,d2 là tiếp tuyến của đồ thị (C). Diện tích của tam giác tạo bởi d1,d2 và trục Ox bằng:",
+    "options": ["49/6", "49/12", "47/6", "47/12"],
+    "correct": 1,
+    "explanation": "f'(x)=3x^2-6x+1. Phương trình tiếp tuyến qua M cho x0=1 hoặc x0=2. Khi x0=1, d1 cắt Ox tại A(1/2;0). Khi x0=2, d2 cắt Ox tại B(4;0). AB=7/2, d(M;Ox)=7/3, S_ABM=(1/2)AB.d(M;Ox)=49/12.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Có bao nhiêu số nguyên m sao cho bất phương trình (log_2x-m)(x^2-mx)<0 có ít nhất 1 nghiệm nguyên và có không quá 100 nghiệm nguyên?",
+    "options": ["4", "5", "6", "Vô số"],
+    "correct": 1,
+    "explanation": "Xét f(x)=(log2x-m)(x^2-mx)=0 có nghiệm x=2^m, x=0, x=m. Chứng minh 2^m>m với mọi m. Xét dấu với m≤0 và m>0, tìm được với m>0, tập nghiệm là (m;2^m), số nghiệm nguyên là 2^m-m-1. Giải hệ 0<2^m-m-1≤100, m nguyên dương được m∈{2;3;4;5;6}, có 5 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Trong các cặp hàm số sau, cặp hàm số nào có đồ thị đối xứng nhau qua đường phân giác của góc phần tư thứ nhất?",
+    "options": ["y=2^x, y=xln2", "y=2^x, y=x^2", "y=2^x, y=2^(-x)", "y=2^x, y=log_2x"],
+    "correct": 3,
+    "explanation": "Đường phân giác góc phần tư thứ nhất là y=x. Lấy đối xứng qua y=x của y=2^x (tức x=log_2y) ta được đồ thị đối xứng là y=log_2x.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Thang đo Richter được tính theo công thức M_L=log(A/A0). Ngày 1/1/2024, một trận động đất với độ lớn 7,6 độ Richter tại tỉnh Ishikawa, Nhật Bản. Ngày 2/4/2024, tại tỉnh Iwate, Nhật Bản diễn ra một trận động đất với độ lớn 5,9 độ Richter. Hỏi biên độ của sóng địa chấn đo được tại trận động đất ở tỉnh Ishikawa lớn hơn trận động đất ở tỉnh Iwate bao nhiêu lần?",
+    "options": [],
+    "correct": null,
+    "answer": "50",
+    "explanation": "A1/A2 = 10^(M_L1-M_L2) = 10^(7,6-5,9) ≈ 50,12 ≈ 50 lần.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Cho hình chóp S.ABCD có đáy là hình vuông, cạnh bên SA vuông góc với mặt phẳng đáy. Trong các cặp mặt phẳng sau đây, cặp mặt phẳng nào không vuông góc với nhau?",
+    "options": ["(SAB) và (ABCD)", "(SAB) và (SAD)", "(SAD) và (SCD)", "(SBC) và (SCD)"],
+    "correct": 3,
+    "explanation": "Giả sử (SBC)⊥(SCD), gọi H là hình chiếu của B lên SC thì BH⊥(SCD), suy ra BH⊥AB, mà AB⊥BC nên AB⊥(SBC) suy ra AB⊥SB (vô lý vì SAB vuông tại A). Vậy (SBC) và (SCD) không vuông góc với nhau.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Cho hình chóp cụt ABCD.A'B'C'D' như hình vẽ. Biết rằng hai đáy ABCD, A'B'C'D' là hai đa giác đồng dạng với AB/A'B'=5/2, S_ABCD=10a^2. Khoảng cách giữa hai mặt phẳng đáy là 4a. Thể tích của khối chóp cụt ABCD.A'B'C'D' là:",
+    "options": ["104/5 a^3", "106/5 a^3", "102/5 a^3", "108/5 a^3"],
+    "correct": 0,
+    "explanation": "V=(1/3)h(S_ABCD+S_A'B'C'D'+sqrt(S_ABCD.S_A'B'C'D')). Với S_A'B'C'D'=(2/5)^2.10a^2=1,6a^2. V=(1/3).4a.(10a^2+1,6a^2+sqrt(10a^2.1,6a^2))=104a^3/5.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Cho hình lăng trụ ABC.A'B'C' có đáy ABC là tam giác vuông tại đỉnh A. Hình chiếu vuông góc của A' lên mặt phẳng (ABC) là trung điểm M của đoạn thẳng BC. Biết diện tích tam giác A'BC bằng 3 (đơn vị diện tích), khoảng cách giữa hai đường thẳng A'M và BB' là 1 (đơn vị độ dài). Tính thể tích lăng trụ ABC.A'B'C'.",
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "Do AA'//BB' nên d(A'M,BB')=d(B,(AA'M))=BH với BH⊥AM. V_lt=A'M.S_ABC=2A'M.S_ABM=A'M.BH.AM=(1/2)BH.A'M.BC=BH.S_A'BC=1.3=3.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Cho mẫu số liệu ghép nhóm về điểm thi môn Tiếng Anh của một lớp học: [5;6):8, [6;7):14, [7;8):17, [8;9):9, [9;10):2. Tính mốt của mẫu số liệu ghép nhóm trên.",
+    "options": [],
+    "correct": null,
+    "answer": "80/11",
+    "explanation": "Nhóm chứa mốt là [7;8) với tần số 17. j=3, a3=7, m3=17, m2=14, m4=9, h=1. Mo=7+(17-14)/((17-14)+(17-9)).1=80/11.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Từ một bộ bài tây có 52 lá, người ta ngẫu nhiên lấy ra ba lá bài. Xác suất để ba lá bài được lấy ra là ba lá bài đồng chất hoặc là ba lá bài hình (tức là lá bài J,Q,K) là:",
+    "options": ["4/65", "341/5525", "1/5525", "22/425"],
+    "correct": 0,
+    "explanation": "P(A đồng chất)=4.C(13,3)/C(52,3)=22/425. P(B hình)=C(12,3)/C(52,3)=11/1105. P(AB)=4.C(3,3)/C(52,3)=1/5525. P(A∪B)=22/425+11/1105-1/5525=4/65.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Chọn ngẫu nhiên một số nguyên dương không lớn hơn 10 000. Xác suất để số được chọn không chia hết cho cả 3,5 và 7 là a/b (b>a>0,(a;b)=1). Tính giá trị của biểu thức T=b-2a.",
+    "options": [],
+    "correct": null,
+    "answer": "858",
+    "explanation": "Dùng nguyên lý bù trừ với các số chia hết cho 3,5,7,15,21,35,105 trong khoảng 1-10000. Xác suất cần tìm = 1-(3333+2000+1428-666-476-285+95)/10000=4571/10000. a=4571,b=10000, T=b-2a=858.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Trong quá trình khảo sát chiều cao của các bạn học sinh trong lớp, lớp trưởng Hùng có ghi lại thông tin vào một tờ giấy có bảng số liệu bị mất một số dữ liệu. Lớp 12A có 40 học sinh, nhóm [160;170) có 12 học sinh, nhóm [???;190] có 5 học sinh, trung bình chiều cao là 166,25 cm. Nam còn nhớ trong số các bạn học sinh có chiều cao thấp hơn 160 cm, có 1/3 số học sinh có chiều cao thấp hơn 150 cm. Chọn ngẫu nhiên hai học sinh trong lớp, tính xác suất để cả hai học sinh đó đều có chiều cao từ 170 cm trở lên.",
+    "options": ["1/2", "3/13", "2/13", "1/6"],
+    "correct": 2,
+    "explanation": "Gọi x,y,z là số học sinh trong các khoảng [140;150),[150;160),[170;180). x+y+z=23. 145x+155y+175z=3745. 2x-y=0. Giải hệ được x=4,y=8,z=11. Vậy có 11+5=16 học sinh chiều cao từ 170cm trở lên. Xác suất = C(16,2)/C(40,2)=2/13.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Xét A,B là hai biến cố của một sự kiện. Trong các công thức sau, công thức nào đúng?",
+    "options": [
+      "P(B)=P(B|A)P(A)+P(B|Ā)P(Ā)",
+      "P(B)=P(A|B)P(A)+P(Ā|B)P(Ā)",
+      "P(B)=P(A|B)+P(Ā|B)",
+      "P(B)=P(B|A)+P(B|Ā)"
+    ],
+    "correct": 0,
+    "explanation": "Dựa vào công thức xác suất toàn phần, công thức đúng là P(B)=P(B|A)P(A)+P(B|Ā)P(Ā).",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Cho P(A|B)=1/4, P(B|A)=1/3, P(ĀB̄)=1/10. Khi đó, giá trị của P(A) bằng:",
+    "options": ["0,25", "0,45", "0,6", "0,75"],
+    "correct": 1,
+    "explanation": "Gọi P(A)=x. P(AB)=x/3 (từ P(B|A)=1/3). P(B)=4x/3 (từ P(A|B)=1/4). P(ĀB̄)=1-P(A)-P(B)+P(AB)=1-x-4x/3+x/3=0,1 => x=0,45.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Xét phương trình: x^8-ax^7+bx^6-896x^5+1778x^4-373x^3-4176x^2+5760x-2140=0. Biết phương trình trên có 8 nghiệm thực phân biệt x1,x2,...,x8. Tính giá trị của biểu thức T=1/x1+1/x2+...+1/x7+1/x8.",
+    "options": [],
+    "correct": null,
+    "answer": "288/107",
+    "explanation": "Đặt t=1/x, phương trình trở thành -2140t^8+5760t^7-4176t^6-373t^5+1778t^4-896t^3+bt^2-at+1=0. T=t1+t2+...+t8=5760/2140=288/107.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Số nghiệm nguyên (x,y) của phương trình 2x^3-xy+x-2x^2(y-1)+y^2-2y=3 là:",
+    "options": ["1", "2", "4", "8"],
+    "correct": 2,
+    "explanation": "Biến đổi thành (2x^2-y+1)(x-y+1)=4. Xét các trường hợp nguyên với tích bằng 4, tìm được 4 nghiệm nguyên: (0;-1), (-1;-1), (-1;4), (0;3).",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Cho hàm số f(x)=x^4-2x^2+3. Hàm số y=f(2sinx+3) đồng biến trên khoảng nào sau đây.",
+    "options": ["(-2π/3;0)", "(-3π/2;-π/2)", "(π/3;2π/3)", "(3π/2;7π/3)"],
+    "correct": 3,
+    "explanation": "f'(x)=4x(x-1)(x+1). [f(2sinx+3)]'=2cosx.f'(2sinx+3). Vì 2sinx+3≥1 nên f'(2sinx+3)≥0 luôn, do đó dấu của đạo hàm phụ thuộc dấu cosx. Để hàm đồng biến cần cosx≥0. Trong các khoảng cho, chỉ (3π/2;7π/3) thuộc [3π/2;5π/2].",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Cho hàm số f(x)=ln(2x)+(m/10+x)^2. Có bao nhiêu giá trị nguyên của tham số m∈[-100;100] sao cho f(x) đồng biến trên (0;+∞)?",
+    "options": [],
+    "correct": null,
+    "answer": "115",
+    "explanation": "f'(x)=1/x+2(m/10+x)=2x+1/x+m/5. Cần m/10≥-x-1/(2x) với mọi x>0. Xét g(x)=-x-1/(2x), max g(x)=-sqrt2 tại x=1/sqrt2. Cần m/10≥-sqrt2 => m≥-10sqrt2≈-14,1. Có 100-(-14)+1=115 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Cho hàm số y=ax^3+bx^2+cx+d(a≠0) có đồ thị như hình vẽ (đồ thị đi lên, cắt trục tung tại điểm âm, có 2 điểm cực trị với hoành độ x1<0<x2). Trong các hệ số a,b,c,d, có bao nhiêu hệ số dương?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 0,
+    "explanation": "Có lim(x→+∞)y=+∞ nên a>0. Đồ thị cắt trục tung tại điểm âm nên d=y(0)<0. Hai điểm cực trị x1<0<x2, x1.x2=c/3a<0 nên c<0 (do a>0). x1+x2>0, mà x1+x2=-2b/3a>0, a>0 nên b<0. Vậy a>0,b<0,c<0,d<0, chỉ có 1 hệ số dương.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Cho hàm số y=f(x)=(x^2-mx)/(x^2+mx+m^2+1). Có bao nhiêu giá trị nguyên không âm của m nhỏ hơn 10 để hàm số đã cho đơn điệu trên (0;2)?",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "f'(x)=(2mx^2+2(m^2+1)x-m(m^2+1))/(x^2+mx+m^2+1)^2. Gọi g(x) là tử số, phương trình g(x)=0 có 2 nghiệm phân biệt do a.c=-2m^2(m^2+1)<0. Điều kiện để g(x)≤0 trên (0;2): -m^3+4m^2+7m+4≤0 và m≥0. Kiểm tra được các giá trị m thoả mãn là m∈{6;7;8;9}, có 4 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Nhân dịp 20/11, một chủ khu vườn hoa dự định bán hoa hồng với giá 20000 đồng một bông, sẽ bán được khoảng 95000 bông hoa hồng. Nếu tăng giá bán thì số bông hồng bán ra giảm tỉ lệ thuận với bình phương độ tăng giá bán. Nếu bán với giá 25000 đồng một bông thì sẽ thu được 1875000000 đồng. Biết rằng khi chủ cửa hàng chọn giá bán sao cho số tiền thu được là lớn nhất, số bông hồng bán được là M bông, đồng thời giá bán tối thiểu là 20000 đồng. Giá trị của M là:",
+    "options": ["70000", "80000", "85000", "90000"],
+    "correct": 3,
+    "explanation": "Gọi giá bán là 20000+x, số lượng bán được 95000-kx^2. Từ f(5000)=1875000000 tìm được k=1/1250. Xét f(x)=(-x^2/1250+95000)(x+20000), f'(x)=0 tại x=2500. Số bông hồng bán được = 95000-2500^2/1250=90000.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Có bao nhiêu giá trị của tham số m để giá trị lớn nhất của hàm số y=(x-m^2-2)/(x-m) trên đoạn [0;4] bằng -1?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Điều kiện m∉[0;4]. y'=(m^2-m+2)/(x-m)^2>0 nên hàm đồng biến trên [0;4]. max y = y(4)=(2-m^2)/(4-m). Cho =-1: m^2+m-6=0 => m=2 hoặc m=-3. Kết hợp điều kiện chỉ m=-3 thoả mãn.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Xét hàm số y=(x^2-mx)/(|2x+1|+3) có đồ thị (C). Gọi d1,d2 là hai đường tiệm cận của đồ thị hàm số (C). Giá trị của n để có duy nhất một giá trị của m thoả mãn giao điểm của d1 và d2 nằm trên đường tròn x^2+(y-1)^2=n là:",
+    "options": ["49/16", "9/16", "16/9", "16/49"],
+    "correct": 0,
+    "explanation": "Hai tiệm cận xiên d1: y=x/2-(m+2)/2 (x≥-1/2) và d2: y=-x/2+(m-1)/2 (x<-1/2). Giao điểm luôn nằm trên đường thẳng y=-3/4. Để có duy nhất m thoả mãn giao điểm nằm trên đường tròn: d((0;1);y=-3/4)=R => (1+3/4)=sqrt(n) => n=49/16.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Cho hàm số y=f(x)=(x^2-3x+4)/(x-2). Tổng số tiệm cận của đồ thị hàm số y=f(x/sqrt(|x^2-1|)) là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Tìm được các tiệm cận đứng x=1, x=-1, x=2sqrt3/3, x=2sqrt5/5, và tiệm cận ngang y=-2 (khi x→+∞), y=-8/3 (khi x→-∞). Tổng cộng có 6 tiệm cận.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Cho hàm số bậc ba f(x) xác định và liên tục trên R. Đồ thị hàm số y=(1/3)f(x/3+1)+2 được cho như hình vẽ. Giá trị nhỏ nhất của hàm số y=f(x^4-4x+5) là:",
+    "options": ["8", "6", "4", "2"],
+    "correct": 1,
+    "explanation": "Đặt t=x^4-4x+5, miền giá trị của t là [2;+∞). Từ đồ thị, trên [3;+∞), y=(1/3)f(x/3+1)+2≥4, tương đương f(x)≥6 với x∈[2;+∞). Vậy giá trị nhỏ nhất của f(x^4-4x+5) là 6.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Mặt phẳng nào trong các mặt phẳng có phương trình dưới đây đi qua điểm A(3;4;5) và chứa đường thẳng d:(x-2)/5=(y-4)/4=(z-1)/6?",
+    "options": ["5x+4y+6z-61=0", "3x+4y+5z-27=0", "8x-7y-2z+14=0", "Không tồn tại"],
+    "correct": 2,
+    "explanation": "Lấy B(2;4;1) thuộc d. u_d=(5;4;6), BA=(1;0;4). u_d∧BA=(16;-14;-4). Phương trình mặt phẳng qua A với vectơ pháp tuyến (8;-7;-2): 8(x-3)-7(y-4)-2(z-5)=0 => 8x-7y-2z+14=0.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Trong không gian Oxyz, cho 3 điểm A(1;2;0), B(3;2;2), C(0;5;1). D là điểm nằm trên mặt cầu có phương trình (x-2)^2+y^2+(z-2)^2=4 sao cho thể tích tứ diện ABCD bằng 4. Biết quỹ tích điểm D là một đường tròn có bán kính R=(a.sqrt154)/b, với a/b là phân số tối giản. Giá trị của biểu thức T=a+b bằng:",
+    "options": ["25", "14", "27", "12"],
+    "correct": 0,
+    "explanation": "AB⊥AC, S_ABC=sqrt22. Mặt phẳng qua A,B,C: 3x+2y-3z-7=0. Từ điều kiện thể tích, tìm được mặt phẳng P2: 3a+2b-3c+5=0 thoả mãn. Bán kính đường tròn giao tuyến R=sqrt(4-25/22)=3sqrt154/22. Vậy a=3,b=22, T=a+b=25.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Trong không gian Oxyz, cho hai đường thẳng d1:x/1=(y-3)/1=(z-5)/(-1) và d2:x=7+4t,y=0,z=t. Gọi d là đường thẳng cắt và vuông góc với cả hai đường thẳng d1 và d2. Đường thẳng d đi qua điểm nào trong các điểm dưới đây:",
+    "options": ["M1(2;5;4)", "M2(0;-5;11)", "M3(1;4;2)", "M4(3;0;0)"],
+    "correct": 1,
+    "explanation": "Gọi A(a;a+3;-a+5) trên d1, B(7+4b;0;b) trên d2. Giải hệ vuông góc được a=2, b=-1. Đường thẳng qua A(2;5;3) và B(3;0;-1): d:(x-2)/1=(y-5)/(-5)=(z-3)/(-4). Kiểm tra thấy d đi qua M2(0;-5;11).",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Giả sử trong không gian có một hệ trục toạ độ Oxyz. Có 3 trạm không gian đặt ở 3 vị trí có tọa độ là A(33;27;36), B(17;-5;4), C(-43;-35;64). Người ta cần đặt một trạm phát tín hiệu lên không gian sao cho trạm phát tín hiệu đó cách đều ba trạm không gian. Hỏi khi độ chính xác của tín hiệu lớn nhất có thể thì khoảng cách từ trạm phát tín hiệu đến các trạm không gian là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "51",
+    "explanation": "Tam giác ABC vuông tại B với AB=48, BC=90, AC=102. K là trung điểm AC, AK=51. Để khoảng cách nhỏ nhất, trạm phát tín hiệu đặt tại K, khoảng cách là 51.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Cho hình chóp S.ABC, đáy là tam giác vuông cân tại B, SA=AB=1, SA vuông góc với mặt phẳng đáy. Gọi K là điểm nằm trên đoạn thẳng SC sao cho góc giữa hai đường thẳng AB và KB bằng 60°. Biết độ dài đoạn thẳng BK là a.sqrt(b)-c, với a,b,c là các số nguyên tố. Tính T=a+b+c.",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Gán hệ trục toạ độ: A(0;0;0), B(1;0;0), C(1;1;0), S(0;0;1). K(t;t;1-t) trên SC. Giải phương trình góc 60° được t=2-sqrt2. BK=(1-sqrt2;2-sqrt2;sqrt2-1), BK=2sqrt2-2. Vậy a=b=c=2, T=6.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Trong không gian, cho mặt cầu (S) có phương trình: (x-1)^2+(y-2)^2+(z-1)^2=9, đồng thời điểm M có toạ độ M(9;3;5). Gọi I là tâm của mặt cầu (S), N là điểm nằm trên mặt cầu (S) sao cho N,I,M không thẳng hàng, A là điểm có tọa độ (-37/9;-44/9;67/9). K là điểm sao cho IM=9IK. Giá trị nhỏ nhất của biểu thức T=MN+3NA là:",
+    "options": ["30", "33", "36", "39"],
+    "correct": 1,
+    "explanation": "IM=9=3R. K là điểm sao cho IM=9IK, tìm được K(17/9;19/9;13/9). Tam giác IKN đồng dạng INM (tỉ lệ 1/3), suy ra NM=3KN. T=3(KN+NA)≥3KA=33.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: F(x) là một nguyên hàm của hàm số f(x)=(2x^2-x-31)/(x^2-3x-10) trên (5;+∞) thoả mãn F(6)=9ln2+14. Biết rằng F(8)=a+lnb, với a,b∈N*. Giá trị của biểu thức S=b/a là:",
+    "options": ["125", "250", "500", "1000"],
+    "correct": 2,
+    "explanation": "f(x)=2+2/(x-5)+3/(x+2). F(x)=2x+2ln(x-5)+3ln(x+2)+C. Từ F(6)=9ln2+14 tìm C=2. F(8)=18+ln(3^2.10^3)=18+ln(9000), a=18,b=9000. S=b/a=500.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Biết I=∫(từ 1 đến 5)|( x^2-5x+6)/(x+1)|dx=-5-aln2+bln3(a,b∈N). Ước chung lớn nhất của a và b là:",
+    "options": ["1", "2", "6", "12"],
+    "correct": 3,
+    "explanation": "Tách tích phân theo dấu của biểu thức trong trị tuyệt đối trên các khoảng [1,2],[2,3],[3,5]. Tính được I=-5-48ln2+36ln3. a=48,b=36, ƯCLN(48,36)=12.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Cho hàm số y=f(x) có đồ thị như hình vẽ dưới (đường gấp khúc và cung tròn qua các mốc x=-6,-4,0,1,2,3,4). Tính giá trị của tích phân I=∫(từ -6 đến 4)[f(x)+x^2-x]dx.",
+    "options": [],
+    "correct": null,
+    "answer": "112",
+    "explanation": "Tính các diện tích S1=1,S2=4,S3=3/2,S4=2+π/2,S5=1 dựa vào đồ thị. ∫f(x)dx từ -6 đến 4 = -S1+S2+S3+S4+S5=(π+15)/2. ∫(x^2-x)dx từ -6 đến 4=310/3. I=(π+15)/2+310/3≈112,4≈112.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Diện tích của hình phẳng tạo bởi đồ thị hàm số y=x^2-6x+5 và trục hoành là:",
+    "options": ["-32/3", "32/3", "1/6", "-1/6"],
+    "correct": 1,
+    "explanation": "Phương trình x^2-6x+5=0 có nghiệm x=1, x=5. S=∫(từ 1 đến 5)|x^2-6x+5|dx=∫(từ 1 đến 5)(-x^2+6x-5)dx=32/3.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Gọi S là phần hình phẳng màu xanh được tạo bởi hai đồ thị hàm số y=sinx+1 và y=cosx+1 như hình vẽ. Biết thể tích của vật thể được tạo thành khi quay S quanh trục Ox là V=a.sqrt(b)π+cπ^2, với a,b,c∈N, b là số nguyên tố. Tính giá trị của biểu thức P=a+b+c.",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Giao điểm tại x=π/4 và x=5π/4. Thể tích V=π∫(từ π/4 đến 5π/4)[(sinx+1)^2-(cosx+1)^2]dx=π.[-sin2x/2-2cosx-2sinx] từ π/4 đến 5π/4 = 4π.sqrt2. Vậy a=4,b=2,c=0, P=6.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một viên bi có dạng hình cầu, đường kính 2 cm được cắt thành hai phần bởi một mặt phẳng như hình vẽ. Biết rằng diện tích phần mặt cắt trên viên bi là S=3π/4 (cm^2). Tính thể tích của phần nhỏ hơn của viên bi",
+    "options": ["π/3 (cm^3)", "2π/9 (cm^3)", "5π/24 (cm^3)", "π/6 (cm^3)"],
+    "correct": 2,
+    "explanation": "Bán kính mặt cắt r=sqrt(S/π)=sqrt3/2. Khoảng cách từ tâm đến mặt cắt d=sqrt(R^2-r^2)=1/2. Thể tích khối tròn xoay V=π∫(từ -1 đến -1/2)(1-x^2)dx=5π/24.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Tính trung bình điểm thi môn Toán của tất cả các học sinh lớp 12A và 12B.",
+    "options": ["303/40", "15/2", "101/13", "101/15"],
+    "correct": 0,
+    "explanation": "Điểm trung bình bài thi môn Toán của 80 học sinh cả hai lớp là: [(4+3).5,5+(8+6).6,5+(12+19).7,5+(12+10).8,5+(4+2).9,5]/80 = 303/40.",
+    "passage": "cau_46_48"
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Chọn ngẫu nhiên hai học sinh trong các học sinh của hai lớp. Tính xác suất để hai học sinh đó thuộc hai lớp khác nhau, đồng thời có đúng một học sinh đạt điểm thị môn Toán từ 8 trở lên.",
+    "options": ["31/131", "33/131", "92/395", "18/79"],
+    "correct": 2,
+    "explanation": "Tổng 80 học sinh, n(Ω)=C(80,2)=3160. Lớp 12A: 24 dưới 8, 16 từ 8 trở lên; lớp 12B: 28 dưới 8, 12 từ 8 trở lên. N(A1)=24.12=288 (12A dưới 8, 12B từ 8 lên); N(A2)=16.28=448 (12A từ 8 lên, 12B dưới 8). P(A)=(288+448)/3160=92/395.",
+    "passage": "cau_46_48"
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Nếu chỉ dựa vào điểm bài thi môn Toán trên, kết luận nào sau đây là đúng?",
+    "options": [
+      "Điểm trung bình của lớp 12 A cao hơn lớp 12 B, và đồng thời điểm có xu hướng đều hơn lớp 12B",
+      "Điểm trung bình của lớp 12 A cao hơn lớp 12 B, tuy nhiên có nhiều biến động hơn lớp 12B",
+      "Điểm trung bình của lớp 12 B cao hơn lớp 12 A, và đồng thời điểm có xu hướng đều hơn lớp 12A",
+      "Điểm trung bình của lớp 12 B cao hơn lớp 12 A, tuy nhiên có nhiều biến động hơn lớp 12A"
+    ],
+    "correct": 1,
+    "explanation": "Trung bình điểm thi lớp 12A là 7,6; lớp 12B là 7,55, nên x_A>x_B. Phương sai lớp 12A là 1,29; lớp 12B là 0,8975, nên s_A^2>s_B^2. Vậy điểm trung bình 12A cao hơn nhưng có nhiều biến động hơn 12B.",
+    "passage": "cau_46_48"
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Gọi x,y là hai số thực thoả mãn e^x+e^y=1. Giá trị lớn nhất của biểu thức T=2x+y gần nhất với giá trị nào sau đây?",
+    "options": ["-1,91", "-1,92", "-1,93", "-1,94"],
+    "correct": 0,
+    "explanation": "Đặt y=T-2x. Phương trình e^x+e^(T-2x)=1 => e^T=e^(2x)-e^(3x). Xét f(x)=e^(2x)-e^(3x), max f(x)=4/27 tại x=ln(2/3). Để phương trình có nghiệm: e^T≤4/27 => T≤ln(4/27)≈-1,91.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Có hai người thợ may cùng may một loại áo với xác suất may được sản phẩm chất lượng cao là 0,9 và 0,8. Chọn ngẫu nhiên một người để thực hiện công việc may áo. Biết rằng trong 4 cái áo đầu tiên người đó may có đúng 3 cái có chất lượng cao. Tính xác suất trong 4 cái áo tiếp theo người đó may cũng có đúng 3 cái có chất lượng cao.",
+    "options": ["0,42", "0,36", "0,29", "0,33"],
+    "correct": 1,
+    "explanation": "P(A1)=P(A2)=1/2. P(M|A1)=P(H|A1)=C(4,3).0,9^3.0,1=0,2916. P(M|A2)=P(H|A2)=C(4,3).0,8^3.0,2=0,4096. P(MH)=0,2916^2.(1/2)+0,4096^2.(1/2). P(M)=0,2916.(1/2)+0,4096.(1/2). P(H|M)=P(MH)/P(M)≈0,36.",
+    "passage": null
+  }
+];
