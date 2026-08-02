@@ -203,7 +203,7 @@
     ],
     "correct": 0,
     "explanation": "Tia gamma là sóng điện từ có bước sóng ngắn hơn tia X.",
-    "passage": null
+    "passage":   "de6_115_117"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 1,
     "explanation": "λ = hc/E = 1,035·10⁻¹² m = 1,035 pm.",
-    "passage": null
+    "passage": "de6_115_117"
   },
   {
     "id": 117,
@@ -231,7 +231,7 @@
     ],
     "correct": 0,
     "explanation": "Khối lượng Ni tạo thành bằng khối lượng Co phân rã nên tổng khối lượng hỗn hợp không đổi = 2 g.",
-    "passage": null
+    "passage": "de6_115_117"
   },
   {
     "id": 201,
@@ -392,7 +392,7 @@
     ],
     "correct": 3,
     "explanation": "Thêm nước cất để dễ quan sát sự đổi màu khi chuẩn độ.",
-    "passage": null
+    "passage":   "de6_215_217"
   },
   {
     "id": 216,
@@ -406,8 +406,7 @@
     ],
     "correct": 2,
     "explanation": "Axit xitric: C₃H₄(OH)(COOH)₃ phản ứng với 3NaOH.",
-    "passage": null
-  },
+    "passage":   "de6_215_217"
   {
     "id": 217,
     "question": "Hàm lượng axit trong mẫu nước cam này là",
@@ -415,7 +414,7 @@
     "options": ["0,7167%.", "0,6170%.", "0,8910%.", "0,5764%."],
     "correct": 0,
     "explanation": "% axit xitric ≈ 0,7167%.",
-    "passage": null
+    "passage":   "de6_215_217"
   },
   {
     "id": 301,
@@ -596,7 +595,7 @@
     ],
     "correct": 0,
     "explanation": "Tăng áp lực chọn lọc tự nhiên làm các gen kháng thuốc được duy trì.",
-    "passage": null
+    "passage":   "de6_315_317"
   },
   {
     "id": 316,
@@ -610,7 +609,7 @@
     ],
     "correct": 0,
     "explanation": "Vi khuẩn sinh sản rất nhanh nên tần số alen thay đổi nhanh.",
-    "passage": null
+    "passage":   "de6_315_317"
   },
   {
     "id": 317,
@@ -624,7 +623,7 @@
     ],
     "correct": 1,
     "explanation": "Không lạm dụng kháng sinh như thuốc thông thường.",
-    "passage": null
+    "passage":   "de6_315_317"
   },
   {
     "id": 401,
