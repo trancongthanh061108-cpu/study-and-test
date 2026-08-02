@@ -203,7 +203,7 @@
     ],
     "correct": 2,
     "explanation": "E = V/d = 200/0,01 = 20000 V/m.",
-    "passage": null
+    "passage":   "de25_cau115_117"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 1,
     "explanation": "a = qE/m ≈ 3,5·10¹⁵ m/s² (hướng lên trên).",
-    "passage": null
+    "passage":   "de25_cau115_117"
   },
   {
     "id": 117,
@@ -231,7 +231,7 @@
     ],
     "correct": 0,
     "explanation": "y = (1/2)at² = 4,9·10⁻³ m.",
-    "passage": null
+    "passage":   "de25_cau115_117"
   },
   {
     "id": 201,
@@ -437,7 +437,7 @@
     ],
     "correct": 0,
     "explanation": "Sắt có tính khử mạnh hơn nên bị ăn mòn điện hóa.",
-    "passage": null
+    "passage":   "de25_cau215_217"
   },
   {
     "id": 216,
@@ -451,7 +451,7 @@
     ],
     "correct": 3,
     "explanation": "Oxi hóa ở cực âm, khử ở cực dương.",
-    "passage": null
+    "passage":   "de25_cau215_217"
   },
   {
     "id": 217,
@@ -465,7 +465,7 @@
     ],
     "correct": 1,
     "explanation": "Thép carbon trong không khí ẩm tạo pin điện hóa.",
-    "passage": null
+    "passage":   "de25_cau215_217"
   },
   {
     "id": 301,
@@ -587,7 +587,7 @@
     ],
     "correct": 1,
     "explanation": "Allele là các trạng thái khác nhau của cùng một gene.",
-    "passage": null
+    "passage": "de25_cau309_311"
   },
   {
     "id": 310,
@@ -601,7 +601,7 @@
     ],
     "correct": 2,
     "explanation": "Kiểu gene đồng hợp tử → đực bất thụ.",
-    "passage": null
+    "passage": "de25_cau309_311"
   },
   {
     "id": 311,
@@ -615,7 +615,7 @@
     ],
     "correct": 3,
     "explanation": "36 kiểu gene cái × 9 kiểu gene đực = 324 phép lai.",
-    "passage": null
+    "passage": "de25_cau309_311"
   },
   {
     "id": 312,
@@ -867,7 +867,7 @@
     ],
     "correct": 2,
     "explanation": "Ba mặt trận: Đà Nẵng, Gia Định, Hà Nội.",
-    "passage": null
+    "passage":   "de25_cau412_414"
   },
   {
     "id": 413,
@@ -881,7 +881,7 @@
     ],
     "correct": 0,
     "explanation": "Năm 1823 (Quý Mùi).",
-    "passage": null
+    "passage":   "de25_cau412_414"
   },
   {
     "id": 414,
@@ -895,7 +895,7 @@
     ],
     "correct": 0,
     "explanation": "An Giang và Hà Tiên.",
-    "passage": null
+    "passage":   "de25_cau412_414"
   },
   {
     "id": 415,
@@ -909,7 +909,7 @@
     ],
     "correct": 0,
     "explanation": "Vụ khủng bố 11-9-2001.",
-    "passage": null
+    "passage":   "de25_cau415_417"
   },
   {
     "id": 416,
@@ -923,7 +923,7 @@
     ],
     "correct": 1,
     "explanation": "Xảy ra tại Mỹ.",
-    "passage": null
+    "passage":   "de25_cau415_417"
   },
   {
     "id": 417,
@@ -937,7 +937,7 @@
     ],
     "correct": 2,
     "explanation": "Dẫn đến sự thay đổi trong chính sách đối nội và đối ngoại của Mỹ.",
-    "passage": null
+    "passage":   "de25_cau415_417"
   },
   {
     "id": 501,
