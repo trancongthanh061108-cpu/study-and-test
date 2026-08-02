@@ -133,7 +133,7 @@
     "options": ["14 m/s", "15 m/s", "16 m/s", "17 m/s"],
     "correct": 0,
     "explanation": "Khi rơi được quãng đường 10 m, tốc độ của loa là: v = √(2gs) = √(2.10.10) ≈ 14 m/s.",
-    "passage": null
+    "passage":   "de34_cau115_117"
   },
   {
     "id": 116,
@@ -142,7 +142,7 @@
     "options": ["267 Hz", "213 Hz", "246 Hz", "245 Hz"],
     "correct": 2,
     "explanation": "Loa rơi càng xa người quan sát, tần số âm người đó nghe được là: f' = v/(v + v_M) . f = 330/(330 + 14) . 256 ≈ 246 Hz.",
-    "passage": null
+    "passage":   "de34_cau115_117"
   },
   {
     "id": 117,
@@ -151,7 +151,7 @@
     "options": ["tăng dần", "giảm dần", "tăng rồi giảm", "giảm rồi tăng"],
     "correct": 1,
     "explanation": "Loa rơi càng xa người quan sát, tần số âm người đó nghe được là: f' = v/(v + v_M) . f. Nhận xét: loa càng rơi, tốc độ vM của loa càng tăng → tần số âm người đó nghe được càng giảm.",
-    "passage": "Một chiếc loa thu nhỏ bắt đầu rơi từ cửa sổ của một tòa nhà cao tầng. Khi loa đã rơi xuống một đoạn 10 m, nó phát ra một âm thanh có tần số không đổi 256 Hz theo mọi hướng. Một người nhoài ra ngoài cửa sổ nghe thấy âm thanh truyền đi với tốc độ 330 m/s. Lực cản của không khí không đáng kể, lấy gia tốc rơi tự do g = 10m/s2."
+    "passage":  "de34_cau115_117"
   },
   {
     "id": 201,
@@ -160,7 +160,7 @@
     "options": ["C6H12O6 + 6CO → 12CO2 + 6H2O.", "nC6H12O6 → (C6H10O5)n + nH2O.", "6CO2 + 6H2O → C6H12O6 + 6O2.", "C6H12O6 → 2C2H5OH + 2CO2"],
     "correct": 2,
     "explanation": "Phương trình hóa học của quá trình quang hợp là 6CO2 + 6H2O → C6H12O6 + 6O2.",
-    "passage": null
+    "passage":   "de34_cau201_203"
   },
   {
     "id": 202,
@@ -169,7 +169,7 @@
     "options": ["Quá trình quang hợp tạo ra monomer của tinh bột là đường glucose.", "Quá trình quang hợp là quá trình hấp thụ năng lượng từ môi trường.", "Trong tế bào, glucose bị khử bởi oxygen để tạo thành năng lượng, carbon dioxide và nước.", "Phân ứng quang hợp là phản ứng chuyển hóa quang năng thành hóa năng."],
     "correct": 2,
     "explanation": "Glucose bị oxy hóa bởi oxygen trong quá trình hô hấp tế bào vì oxygen là một chất oxi hóa mạnh.",
-    "passage": null
+    "passage":   "de34_cau201_203"
   },
   {
     "id": 203,
@@ -178,7 +178,7 @@
     "options": ["Ở nhiệt độ cao (khoảng 60°C - 70°C), tốc độ phản ứng giảm do phản ứng tỏa nhiệt nên cân bằng bị chuyển dịch.", "Trong khoảng nhiệt độ nghiên cứu, tốc độ phản ứng tăng khi nhiệt độ tăng do phản ứng được xúc tác bởi enzyme.", "Ở nhiệt độ cao (khoảng 60°C - 70°C), tốc độ phản ứng giảm do cấu trúc của protein trong enzyme bị biến đổi làm giảm khả năng xúc tác.", "Tốc độ phản ứng thủy phân không phụ thuộc vào nhiệt độ do nhiệt độ không ảnh hưởng tới cấu trúc enzyme cấu tạo từ protein chứa các liên kết peptide bền vững."],
     "correct": 2,
     "explanation": "Từ khoảng nhiệt độ trên 45°C tốc độ phản ứng thủy phân giảm dần. Nguyên nhân là do ở nhiệt độ cao (khoảng 60°C - 70°C), tốc độ phản ứng giảm do cấu trúc của protein trong enzyme bị biến đổi làm giảm khả năng xúc tác.",
-    "passage": "Tinh bột là một polysaccharide (phân tử đường đa) phổ biến trong tự nhiên, đóng vai trò quan trọng trong chế độ dinh dưỡng của con người và nhiều loại sinh vật khác. Nó là nguồn cung cấp năng lượng chính cho cơ thể và được tìm thấy trong nhiều loại thực phẩm như ngũ cốc, củ, quả và hạt. Thông qua quá trình quang hợp, cây xanh sử dụng năng lượng ánh sáng để chuyển hóa CO2 và H2O lấy từ môi trường thành đường glucose và giải phóng khí oxygen. Glucose được sử dụng ngay để cung cấp năng lượng cho các hoạt động sống của tế bào thực vật thông qua hoạt động hô hấp tế bào, còn glucose dư thừa chuyển hóa thành tinh bột để dự trữ trong các bộ phận như củ, thân, lá, hạt,"
+    "passage":   "de34_cau201_203"
   },
   {
     "id": 204,
@@ -441,7 +441,7 @@
     "options": ["0 giờ 30 phút.", "1 giờ 30 phút.", "2 giờ 10 phút.", "5 giờ 10 phút."],
     "correct": 3,
     "explanation": "Trong tự nhiên để điều khiển cây thanh long ra hoa đồng loạt vào thời điểm ngày ngắn, cần phải chiếu đèn sáng liên tục 5 tiếng từ 0 giờ và tắt đèn vào thời điểm 5 giờ 10 phút.",
-    "passage": "Dựa vào phản ứng nở hoa của thực vật với quang chu kì, thực vật được chia làm ba nhóm. Thực vật ngày dài như thanh long, xà lách ra hoa khi thời gian ban đêm ngắn hơn độ dài đêm tới hạn. Thực vật ngày ngắn như cúc, mía ra hoa khi thời gian ban đêm dài hơn độ dài đêm tới hạn. Thực vật trung tính như cà chua, hướng dương, lúa nước ra hoa không phụ thuộc vào độ dài thời gian chiếu sáng trong ngày."
+    "passage":   "de34_cau315_317"
   },
   {
     "id": 316,
@@ -450,7 +450,7 @@
     "options": ["10 giờ tối /24 giờ.", "16 giờ sáng/24 giờ.", "08 giờ tối/24 giờ.", "9 giờ sáng/24 giờ."],
     "correct": 0,
     "explanation": "Một loài thực vật ngày ngắn có độ dài đêm tới hạn là 09 giờ, được trồng trong chu kì sáng tối là 24 giờ. Điều kiện chiếu sáng 10 giờ tối /24 giờ sẽ giúp kích thích cây ra hoa.",
-    "passage": null
+    "passage":   "de34_cau315_317"
   },
   {
     "id": 317,
@@ -459,7 +459,7 @@
     "options": ["Florigen.", "Gibberellin.", "Auxin.", "Cytokinin."],
     "correct": 0,
     "explanation": "Florigen là hormone kích thích ra hoa, được tổng hợp trong lá khi xử lí quang chu kì thích hợp.",
-    "passage": null
+    "passage":   "de34_cau315_317"
   },
   {
     "id": 401,
@@ -567,7 +567,7 @@
     "options": ["Sự phát triển của nền kinh tế công nghiệp.", "Quá trình thực dân hóa của các nước phương Tây.", "Sự phổ biến của Phật giáo và Ấn Độ giáo.", "Ảnh hưởng từ phong trào đấu tranh giành độc lập ở châu Âu."],
     "correct": 1,
     "explanation": "Theo tư liệu, trong thế kỷ XIX - XX, Đông Nam Á bị ảnh hưởng sâu sắc bởi quá trình thực dân hóa, khi các nước như Việt Nam, Indonesia, Myanmar, Philippines lần lượt trở thành thuộc địa.",
-    "passage": null
+    "passage":   "de34_cau412_414"
   },
   {
     "id": 413,
@@ -576,7 +576,7 @@
     "options": ["Quay lại nền kinh tế nông nghiệp tự cung tự cấp.", "Tăng cường công nghiệp hóa và hội nhập quốc tế.", "Đóng cửa với thế giới để bảo vệ nền kinh tế nội địa.", "Chịu ảnh hưởng hoàn toàn từ các cường quốc phương Tây."],
     "correct": 1,
     "explanation": "Sau khi giành độc lập, các nước Đông Nam Á đã có những bước phát triển quan trọng, chuyển đổi từ nền kinh tế nông nghiệp sang công nghiệp hóa và hội nhập quốc tế.",
-    "passage": null
+    "passage":   "de34_cau412_414"
   },
   {
     "id": 414,
@@ -585,7 +585,7 @@
     "options": ["Thúc đẩy tinh thần đoàn kết và hợp tác, hướng đến phát triển bền vững.", "Giúp Đông Nam Á trở thành khu vực kinh tế giàu nhất thế giới.", "Đưa Đông Nam Á trở thành một liên minh quân sự hùng mạnh.", "Xóa bỏ hoàn toàn ảnh hưởng của các cường quốc phương Tây trong khu vực."],
     "correct": 0,
     "explanation": "Theo tư liệu, ASEAN ra đời vào năm 1967 với mục tiêu quan trọng là tăng cường đoàn kết, hợp tác giữa các nước trong khu vực để phát triển bền vững, đảm bảo an ninh và nâng cao vị thế trên trường quốc tế.",
-    "passage": "Bước vào thế kỷ XIX - XX, Đông Nam Á chịu tác động sâu sắc từ quá trình thực dân hóa của các nước phương Tây. Các quốc gia như Việt Nam, Indonesia, Myanmar, Philippines... lần lượt trở thành thuộc địa, kéo theo sự thay đổi mạnh mẽ về kinh tế, chính trị và xã hội. Tuy nhiên, từ giữa thế kỷ XX, sau khi giành được độc lập, Đông Nam Á đã có những bước phát triển quan trọng trong công cuộc hiện đại hóa. Các nước trong khu vực chuyển đổi từ nền kinh tế nông nghiệp sang công nghiệp hóa và hội nhập quốc tế. Việc thành lập Hiệp hội các quốc gia Đông Nam Á (ASEAN) năm 1967 là một dấu mốc quan trọng, thể hiện tinh thần đoàn kết và hợp tác nhằm đưa khu vực phát triển bền vững, giữ vững an ninh, ổn định và nâng cao vị thế trên trường quốc tế."
+    "passage":   "de34_cau412_414"
   },
   {
     "id": 415,
@@ -594,7 +594,7 @@
     "options": ["Tư tưởng Tam dân của Tôn Trung Sơn.", "Chủ nghĩa Mác - Lênin.", "Học thuyết Khổng Tử.", "Chủ nghĩa dân túy."],
     "correct": 1,
     "explanation": "Đoạn tư liệu khẳng định: 'Hồ Chí Minh là người đầu tiên ở nước ta đã tiếp thu chủ nghĩa Mác - Lênin, vận dụng sáng tạo vào điều kiện cụ thể của cách mạng Việt Nam' khẳng định rõ ràng rằng Hồ Chí Minh đã tiếp thu tư tưởng này để làm kim chỉ nam cho sự nghiệp cách mạng Việt Nam.",
-    "passage": null
+    "passage":  "de34_cau415_417"
   },
   {
     "id": 416,
@@ -603,7 +603,7 @@
     "options": ["Lật đổ chế độ phong kiến, mở đường cho cải cách kinh tế.", "Chấm dứt ách thống trị của thực dân Pháp trên toàn lãnh thổ Việt Nam.", "Giải phóng dân tộc, khai sinh nước Việt Nam Dân chủ Cộng hòa.", "Thúc đẩy phong trào giải phóng dân tộc ở các nước Đông Nam Á."],
     "correct": 2,
     "explanation": "Đoạn tư liệu nhấn mạnh: 'Người đã sáng lập Đảng Cộng sản Việt Nam, đề ra đường lối cách mạng đúng đắn, lãnh đạo nhân dân ta làm Cách mạng tháng Tám thành công, khai sinh ra nước Việt Nam Dân chủ Cộng hòa'. Sự kiện này đánh dấu bước ngoặt lịch sử vĩ đại của dân tộc Việt Nam, khi lần đầu tiên trong lịch sử, một nhà nước dân chủ nhân dân được thành lập.",
-    "passage": "Hồ Chí Minh là người đầu tiên ở nước ta đã tiếp thu chủ nghĩa Mác - Lênin, vận dụng sáng tạo vào điều kiện cụ thể của cách mạng Việt Nam và truyền bá sâu rộng vào phong trào cách mạng trong nước. Người đã sáng lập Đảng Cộng sản Việt Nam, đề ra đường lối cách mạng đúng đắn, lãnh đạo nhân dân ta làm Cách mạng tháng Tám thành công, khai sinh ra nước Việt Nam Dân chủ Cộng hòa. Dưới sự lãnh đạo của Người, nhân dân ta đã tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp và cuộc kháng chiến chống Mỹ, cứu nước, hoàn thành sự nghiệp giải phóng dân tộc, thống nhất đất nước."
+    "passage":   "de34_cau415_417"
   },
   {
     "id": 417,
@@ -612,7 +612,7 @@
     "options": ["Phát huy tinh thần đoàn kết toàn dân tộc, giữ vững độc lập, chủ quyền.", "Ưu tiên phát triển kinh tế thị trường theo mô hình phương Tây.", "Coi trọng quan hệ đối ngoại hơn phát triển nội lực trong nước.", "Xây dựng nền kinh tế dựa hoàn toàn vào viện trợ quốc tế."],
     "correct": 0,
     "explanation": "Hồ Chí Minh luôn nhấn mạnh vai trò của đoàn kết dân tộc, coi đó là yếu tố quyết định thành công của cách mạng. Trong bối cảnh hiện nay, Việt Nam cần giữ vững sự đoàn kết toàn dân, bảo vệ độc lập, chủ quyền và toàn vẹn lãnh thổ trước những thách thức bên ngoài.",
-    "passage": null
+    "passage":   "de34_cau415_417"
   },
   {
     "id": 501,
