@@ -203,7 +203,7 @@
     ],
     "correct": 0,
     "explanation": "Đẳng tích: p₂ = p₁·T₂/T₁ = 8,2·10⁴ Pa.",
-    "passage": null
+    "passage":   "de32_cau115_117"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 1,
     "explanation": "F = p·S = 410 N.",
-    "passage": null
+    "passage":   "de32_cau115_117"
   },
   {
     "id": 117,
@@ -231,7 +231,7 @@
     ],
     "correct": 0,
     "explanation": "Tính Δn từ phương trình trạng thái khí lý tưởng.",
-    "passage": null
+    "passage":   "de32_cau115_117"
   },
   {
     "id": 201,
@@ -367,7 +367,7 @@
     "options": ["Na⁺ bị khử oxi hóa tại cathode.", "Nước Javel là hỗn hợp các chất NaCl, NaOH, Cl₂.", "Quá trình điện phân dung dịch NaCl tại anode thu được khí oxygen tinh khiết có tác dụng tẩy màu.", "Ở cathode thu được sản phẩm là NaOH là nguyên liệu chính để sản xuất nước Javel."],
     "correct": 3,
     "explanation": "Cathode tạo NaOH – nguyên liệu chính của nước Javel.",
-    "passage": null
+    "passage":   "de32_cau215_217"
   },
   {
     "id": 216,
@@ -376,7 +376,7 @@
     "options": ["30%.", "40%.", "50%.", "60%."],
     "correct": 1,
     "explanation": "%NaCl bị điện phân ≈ 40%.",
-    "passage": null
+    "passage":  "de32_cau215_217"
   },
   {
     "id": 217,
@@ -385,7 +385,7 @@
     "options": ["106,83 kg và 994,95 L.", "105,66 kg và 956,5 L.", "105,66 kg và 994,95 L.", "106,83 kg và 956,5 L."],
     "correct": 0,
     "explanation": "m_NaCl = 106,83 kg; V_nước = 994,95 L.",
-    "passage": null
+    "passage":   "de32_cau215_217"
   },
   {
     "id": 301,
@@ -521,7 +521,7 @@
     "options": ["Tần số hai allele quy định màu hoa của quần thể là bằng nhau.", "Gene quy định màu sắc hoa của loài cây này nằm trong lục lập.", "Allele quy định hoa đỏ trội hoàn toàn so với allele quy định hoa trắng.", "Các cây hoa hồng có kiểu gene dị hợp về gene quy định màu hoa đang xét."],
     "correct": 3,
     "explanation": "Trội không hoàn toàn → hoa hồng = Aa.",
-    "passage": null
+    "passage":   "de32_cau315_317"
   },
   {
     "id": 316,
@@ -530,7 +530,7 @@
     "options": ["Chọn lọc tự nhiên và di nhập gene.", "Phiêu bạt di truyền và giao phối không ngẫu nhiên.", "Di nhập gene và giao phối không ngẫu nhiên.", "Chọn lọc tự nhiên và phiêu bạt di truyền."],
     "correct": 2,
     "explanation": "Di nhập gene (chim mang hạt) + giao phối không ngẫu nhiên (tự thụ phấn).",
-    "passage": null
+    "passage":   "de32_cau315_317"
   },
   {
     "id": 317,
@@ -539,7 +539,7 @@
     "options": ["Phần lớn trong số hạt giống này là hạt của cây hoa hồng.", "Phần lớn trong số hạt giống này là hạt của cây hoa đỏ.", "Phần lớn trong số hạt giống này là hạt của cây hoa trắng.", "Chim chỉ mang ra đảo hạt giống cây hoa trắng và hoa đỏ."],
     "correct": 0,
     "explanation": "Tỷ lệ hoa hồng thực tế 20% >> lý thuyết 2% → hạt mang theo chủ yếu từ cây hoa hồng.",
-    "passage": null
+    "passage":   "de32_cau315_317"
   },
   {
     "id": 401,
@@ -647,7 +647,7 @@
     "options": ["Hội nghị Trung ương Đảng lần thứ 14 (2021).", "Hội nghị Đối ngoại Toàn quốc (14-12-2021)", "Đại hội Đảng toàn quốc lần thứ XIII (2021).", "Phiên họp Quốc hội cuối năm 2021."],
     "correct": 1,
     "explanation": "Được nêu tại Hội nghị Đối ngoại Toàn quốc ngày 14-12-2021.",
-    "passage": null
+    "passage":   "de32_cau412_414"
   },
   {
     "id": 413,
@@ -656,7 +656,7 @@
     "options": ["Sự cứng rắn, không khoan nhượng trong các vấn đề quốc tế.", "Sự phụ thuộc vào các cường quốc để đảm bảo an ninh quốc gia.", "Sự cô lập, không tham gia vào các vấn đề khu vực và quốc tế.", "Sự linh hoạt, mềm dẻo nhưng kiên định trong bảo vệ lợi ích quốc gia."],
     "correct": 3,
     "explanation": "Linh hoạt, mềm dẻo nhưng kiên định bảo vệ lợi ích quốc gia.",
-    "passage": null
+    "passage":   "de32_cau412_414"
   },
   {
     "id": 414,
@@ -665,7 +665,7 @@
     "options": ["Tổ chức thành công các hội nghị quốc tế lớn như ASEM, APEC.", "Tham gia các hoạt động gìn giữ hòa bình của Liên Hợp Quốc tại châu Phi.", "Hoàn thành trọng trách Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc.", "Trở thành Chủ tịch luân phiên ASEAN."],
     "correct": 1,
     "explanation": "Đoạn tư liệu không đề cập đến hoạt động gìn giữ hòa bình tại châu Phi.",
-    "passage": null
+    "passage":   "de32_cau412_414"
   },
   {
     "id": 415,
@@ -674,7 +674,7 @@
     "options": ["Liên Hợp Quốc.", "Nhóm châu Á - Thái Bình Dương tại Liên Hợp Quốc.", "Hiệp hội các quốc gia Đông Nam Á (ASEAN).", "Ủy ban Luật Biển Quốc tế."],
     "correct": 1,
     "explanation": "Nhóm châu Á - Thái Bình Dương tại Liên Hợp Quốc đề cử.",
-    "passage": null
+    "passage":   "de32_cau415_417"
   },
   {
     "id": 416,
@@ -683,7 +683,7 @@
     "options": ["Hà Nội, Việt Nam.", "New York, Hoa Kỳ.", "Geneva, Thụy Sĩ.", "Vienna, Áo."],
     "correct": 1,
     "explanation": "Diễn ra tại trụ sở Liên hợp quốc ở New York.",
-    "passage": null
+    "passage":   "de32_cau415_417"
   },
   {
     "id": 417,
@@ -692,7 +692,7 @@
     "options": ["Sự suy yếu về ảnh hưởng ngoại giao của Việt Nam.", "Sự tín nhiệm cao và ghi nhận của cộng đồng quốc tế đối với những nỗ lực của Việt Nam trong việc thực thi UNCLOS.", "Việt Nam chỉ tập trung vào các vấn đề khu vực mà không quan tâm đến các vấn đề toàn cầu.", "Việt Nam đang tìm cách đối đầu với các cường quốc trên biển."],
     "correct": 1,
     "explanation": "Thể hiện sự tín nhiệm cao và ghi nhận của cộng đồng quốc tế.",
-    "passage": null
+    "passage":   "de32_cau415_417"
   },
   {
     "id": 501,
