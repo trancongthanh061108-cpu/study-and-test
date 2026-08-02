@@ -413,7 +413,7 @@
     ],
     "correct": 0,
     "explanation": "Trong xà phòng làm thủ công không có muối sodium alkylsulfate (đây là thành phần của chất giặt rửa tổng hợp).",
-    "passage": null
+    "passage": "de3_213_215"
   },
   {
     "id": 214,
@@ -427,7 +427,7 @@
     ],
     "correct": 3,
     "explanation": "Bản chất của quá trình sản xuất xà phòng thủ công là thủy phân chất béo bằng dung dịch kiềm (phản ứng xà phòng hóa).",
-    "passage": null
+    "passage": "de3_213_215"
   },
   {
     "id": 215,
@@ -441,7 +441,7 @@
     ],
     "correct": 0,
     "explanation": "m_KOH = 257 · 500 = 128500 mg = 128,5 g ⇒ n_KOH = 128,5/56 = 257/112 mol. n_NaOH = n_KOH ⇒ m_NaOH ≈ 91,8 gam.",
-    "passage": null
+    "passage": "de3_213_215"
   },
   {
     "id": 216,
