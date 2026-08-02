@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 101,
     "question": "Câu 101: Hai quả cầu dẫn điện giống hệt nhau được tích điện +2Q và -Q tương ứng và cách nhau một khoảng d (lớn hơn nhiều so với bán kính của các hình cầu) như hình trên. Độ lớn lực hấp dẫn lên quả cầu bên trái là F₁. Sau khi cho hai quả cầu chạm nhau rồi lại cách nhau một khoảng d thì độ lớn của lực tác dụng lên quả cầu bên trái là F₂. Mối quan hệ nào sau đây là đúng?",
     "options": ["2F₁ = F₂", "F₁ = F₂", "F₁ = 2F₂", "F₁ = 8F₂"],
@@ -678,4 +679,4 @@
     "explanation": "Lãnh thổ kéo dài, gió mùa, địa hình và chuyển động biểu kiến của Mặt Trời là các nhân tố chính gây phân hóa chế độ nhiệt.",
     "passage": "ban_do_khi_hau"
   }
-];
+]
