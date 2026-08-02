@@ -1,0 +1,850 @@
+[
+  {
+    "id": 101,
+    "question": "Một hạt nhân nguyên tử có kí hiệu $^{19}_{10}X$, kết luận nào dưới đây là đúng?",
+    "image": null,
+    "options": [
+      "Hạt nhân này có 9 proton và 10 neutron và 10 electron.",
+      "Hạt nhân này có 10 proton, 9 neutron và 19 electron.",
+      "Hạt nhân này có 9 proton và 10 neutron.",
+      "Hạt nhân này có 10 proton và 9 neutron."
+    ],
+    "correct": 3,
+    "explanation": "Z = 10 proton, n = A - Z = 9 neutron.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Kích thích để con lắc lò xo dao động điều hoà theo phương ngang với biên độ 5 cm thì vật dao động với tần số 5 Hz. Treo hệ lò xo trên theo phương thẳng đứng rồi kích thích để con lắc lò xo dao động điều hoà với biên độ 3 cm thì tần số dao động của vật là",
+    "image": null,
+    "options": [
+      "3 Hz.",
+      "4 Hz.",
+      "5 Hz.",
+      "6 Hz."
+    ],
+    "correct": 2,
+    "explanation": "Tần số chỉ phụ thuộc đặc tính hệ (k, m), không phụ thuộc biên độ hay phương treo → vẫn 5 Hz.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Sơ đồ cho thấy một mạng lưới các điện trở R₁, R₂ và R₃ được kết nối với một cực pin có điện trở trong không đáng kể. Khi công tắc S đóng, hiệu điện thế trên R₂ tăng nhanh đến một giá trị ổn định. Điều gì xảy ra với hiệu điện thế trên mỗi điện trở còn lại và với công suất đầu ra của pin?",
+    "image": null,
+    "options": [
+      "giảm trên R₁ và R₃, đồng thời công suất giảm",
+      "tăng trên R₁, giảm trên R₃, đồng thời công suất giảm",
+      "tăng trên R₁, giảm trên R₃, đồng thời công suất tăng",
+      "tăng trên R₁, không đổi ở R₃, đồng thời công suất tăng"
+    ],
+    "correct": 2,
+    "explanation": "Khi S đóng, R_tổng giảm → I tăng → U trên R₁ tăng, U trên R₃ giảm, công suất pin tăng.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Hình dưới trình bày một sơ đồ phân loại đồng xu trong máy bán hàng tự động. Có một máng nghiêng cho đồng xu chuyển động từ khe thả đồng xu đến nam châm điện. Nếu không có lực nào cản chuyển động của đồng xu hoặc lực cản rất nhỏ thì đồng xu sẽ đập vào khối chắn, rơi theo hướng bị loại, không được chấp nhận để mua hàng. Phát biểu nào sau đây là đúng?",
+    "image": null,
+    "options": [
+      "Đồng xu làm bằng kim loại khi đi qua nam châm điện sẽ có hiện tượng cảm ứng điện từ, sinh ra dòng cảm điện cảm ứng trong đồng xu.",
+      "Chỉ cần đồng xu làm bằng kim loại với kích thước bất kì đều được chấp nhận để mua hàng.",
+      "Đồng xu làm bằng nhựa có khối lượng bằng đồng xu kim loại khi qua nam châm điện đều có tốc độ như nhau.",
+      "Không có dòng điện Foucault xuất hiện trong đồng xu kim loại khi đi qua nam châm điện."
+    ],
+    "correct": 0,
+    "explanation": "Đồng xu kim loại xuất hiện dòng Foucault làm chậm tốc độ → được chấp nhận.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Bếp điện nối với hiệu điện thế U = 120V có công suất P = 600W được dùng để đun sôi 2 lít nước có nhiệt dung riêng là 4200J/kgK từ 20°C đến sôi, hiệu suất bếp là 80%. Thời gian đun của ấm là bao nhiêu giây.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "1400",
+    "explanation": "t = mcΔt / (0,8P) = 1400 s.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Một bếp điện được sử dụng ở hiệu điện thế 220V thì dòng điện chạy qua bếp có cường độ 3A. Dùng bếp này đun sôi được 2 lít nước từ nhiệt độ ban đầu 20°C sau 20 phút nước đạt nhiệt độ sôi ở 100°C. Tính hiệu suất (%) của bếp điện, biết nhiệt dung riêng của nước là 4180J/kgK.",
+    "image": null,
+    "options": [
+      "80%",
+      "90%",
+      "84%",
+      "75%"
+    ],
+    "correct": 2,
+    "explanation": "Q = 668800 J; Q_bếp = 792000 J → H = 84%.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Một mục tiêu T nằm phẳng trên mặt đất cách mặt bên của một tòa nhà cao 10m một khoảng 3 m. Một học sinh lăn một quả bóng từ mái nhà nằm ngang của tòa nhà theo hướng mục tiêu. Sức cản của không khí bị loại bỏ. Tốc độ theo phương ngang mà quả bóng phải rời khỏi mái nhà nếu nó muốn đập vào mục tiêu gần nhất.",
+    "image": null,
+    "options": [
+      "3/10 m/s",
+      "√2 m/s",
+      "3/√2 m/s",
+      "3 m/s"
+    ],
+    "correct": 2,
+    "explanation": "t ≈ √(2h/g) → v₀ = x/t ≈ 3/√2 m/s.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Động cơ của một chiếc thuyền cung cấp 30,0 kW cho chân vịt trong khi thuyền đang di chuyển với tốc độ không đổi là 15,0 m/s. Tổng lực cản trên thuyền tỷ lệ thuận với bình phương tốc độ của chiếc thuyền. Nếu thuyền đang được kéo với tốc độ 5,0 m/s sau khi động cơ của nó bị hỏng, thì lực căng trung bình trong dây kéo sẽ là",
+    "image": null,
+    "options": [
+      "44,4 N",
+      "220 N",
+      "2000 N",
+      "3330 N"
+    ],
+    "correct": 1,
+    "explanation": "F₁ = 2000 N → F₂ = 2000 × (5/15)² = 220 N.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Nước được cung cấp từ một hồ chứa cao 80 m so với nhà máy điện. Nước chảy qua các tua bin của nó với tốc độ Q = 6m³/s. Giả sử rằng mật độ của nước là 1000kg/m³. Nếu hiệu suất của nhà máy điện là 60%, công suất của dòng nước được xác định bằng P = ρQgh, công suất điện đầu ra là:",
+    "image": null,
+    "options": [
+      "0,29MW",
+      "1,9MW",
+      "2,8MW",
+      "4,7W"
+    ],
+    "correct": 2,
+    "explanation": "P = 4,71 MW → P_điện = 0,6 × 4,71 ≈ 2,8 MW.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Một nguồn âm điểm phát ra năng lượng như nhau theo mọi hướng với tốc độ không đổi và một máy dò đặt cách nguồn 2,0 m đo được cường độ 4W/m². Công suất của nguồn sau đó giảm đi một nửa. Cường độ nào, tính bằng W/m², máy dò sẽ đo được nếu bây giờ nó được đặt cách nguồn 4,0 m?",
+    "image": null,
+    "options": [
+      "0,25",
+      "0,5",
+      "1",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "P giảm 1/2 và r tăng gấp đôi → I = 0,5 W/m².",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Một khung dây phẳng diện tích gồm 200 vòng đặt trong từ trường đều B = 2.10⁻⁴T, vector cảm ứng từ hợp với mặt phẳng khung một góc 30°. Người ta giảm đều từ trường đến 0 trong khoảng thời gian 0,01s. Xác định độ lớn suất điện động cảm ứng xuất hiện trong khung trong thời gian từ trường biến đổi là",
+    "image": null,
+    "options": [
+      "0,04V.",
+      "0,008V.",
+      "0,004V.",
+      "0,002V."
+    ],
+    "correct": 1,
+    "explanation": "e = N S ΔB cosα / Δt = 0,008 V.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Một khung dây dẫn có diện tích S = 50cm² gồm 150 vòng dây quay đều với vận tốc 3000 vòng/phút trong một từ trường đều có cảm ứng từ B⃗ vuông góc trục quay của khung và có độ lớn B = 0,002T. Từ thông cực đại gửi qua khung là:",
+    "image": null,
+    "options": [
+      "1,5Wb",
+      "15.10⁻³Wb",
+      "1,5.10⁻³Wb",
+      "15Wb"
+    ],
+    "correct": 2,
+    "explanation": "Φ₀ = NBS = 1,5·10⁻³ Wb.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Cho hai viên bi chuyển động ngược chiều nhau trên cùng một đường thẳng quỹ đạo và va chạm vào nhau. Viên bi một có khối lượng 4kg đang chuyển động với vận tốc 4m/s và viên bi hai có khối lượng 8 kg đang chuyển động với vận tốc v₂. Bỏ qua ma sát giữa các viên bi và mặt phẳng tiếp xúc. Giả sử sau va chạm, bi 2 đứng yên còn bi 1 chuyển động ngược lại với vận tốc v₁' = 3m/s. Tính vận tốc viên bi 2 trước va chạm?",
+    "image": null,
+    "options": [
+      "3,5(m/s)",
+      "2,4(m/s)",
+      "4,2(m/s)",
+      "1,5(m/s)"
+    ],
+    "correct": 0,
+    "explanation": "Bảo toàn động lượng → v₂ = 3,5 m/s.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Một khinh khí cầu dùng nhiệt có thể tích quả cầu khí nóng là V = 500m³, thể tích các phần còn lại xem như không đáng kể. Tổng khối lượng của hệ thống và tải là m = 200kg. Không khí có áp suất đo được là p = 720mmHg, nhiệt độ là t = 27°C. Lấy g = 10m/s². Cho biết khối lượng riêng của không khí ở điều kiện tiêu chuẩn (T₀ = 273K; p₀ = 760mmHg) là ρ = 1,29kg/m³. Nhiệt độ trung bình tối thiểu của quả cầu khí nóng là bao nhiêu để hệ thống này có thể bay lên.",
+    "image": null,
+    "options": [
+      "485,54(°C)",
+      "484,54(K)",
+      "468,54(K)",
+      "468,54(°C)"
+    ],
+    "correct": 2,
+    "explanation": "T' ≥ 468,54 K.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Áp suất của khí lạnh là bao nhiêu?",
+    "image": null,
+    "options": [
+      "8,2.10⁴Pa",
+      "4,2.10⁴Pa",
+      "3,6.10⁴Pa",
+      "6,2.10⁴Pa"
+    ],
+    "correct": 0,
+    "explanation": "Đẳng tích: p₂ = p₁·T₂/T₁ = 8,2·10⁴ Pa.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Xác định lực hướng lên do khí lạnh bên trong lon tác dụng lên nắp.",
+    "image": null,
+    "options": [
+      "40N",
+      "410N",
+      "401N",
+      "140N"
+    ],
+    "correct": 1,
+    "explanation": "F = p·S = 410 N.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Nếu nắp bị rò rỉ, sẽ có bao nhiêu mol không khí đi vào lon khi nó đạt trạng thái cân bằng cuối cùng ở 298 K và áp suất khí quyển? (Giả sử không khí là khí lý tưởng.)",
+    "image": null,
+    "options": [
+      "0,001 mol",
+      "0,002 mol",
+      "0,003 mol",
+      "0,004 mol"
+    ],
+    "correct": 0,
+    "explanation": "Tính Δn từ phương trình trạng thái khí lý tưởng.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Copper (đồng) trong tự nhiên gồm 2 loại đồng vị là ⁶³Cu và ⁶⁵Cu với tỉ lệ số lượng là ⁶³Cu : ⁶⁵Cu = 105 : 245. Tính khối lượng của đồng vị ⁶³Cu (bỏ qua khối lượng của electron) có trong mẫu quặng chalcopyrite (CuFeS₂) nặng 55,311 gam là (biết Fe = 55,85; S = 32,06)",
+    "image": null,
+    "options": ["64,4 gam.", "19,32 gam.", "5,67 gam.", "64 gam."],
+    "correct": 2,
+    "explanation": "M̄_Cu = 64,40; n = 0,3 mol; m_⁶³Cu = 0,3 × (105/350) × 63 = 5,67 gam.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Nung 13,4 gam hỗn hợp hai muối carbonate của kim loại kiềm thổ trong một ống nghiệm. Khi phản ứng xảy ra hoàn toàn, toàn bộ lượng khí thu được hấp thụ vào dung dịch Ca(OH)₂ dư thấy xuất hiện 15 gam kết tủa trắng. Khối lượng chất rắn còn lại trong ống nghiệm là",
+    "image": null,
+    "options": ["4,2 gam.", "5,8 gam.", "6,9 gam.", "6,5 gam."],
+    "correct": 2,
+    "explanation": "n_CO₂ = 0,15 mol; m_rắn = 13,4 − 0,15 × 44 = 6,9 gam.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Phương pháp nào dưới đây không được sử dụng trong việc điều chế kim loại sắt?",
+    "image": null,
+    "options": ["khử oxide kim loại.", "nhiệt nhôm.", "khử các hỗn hống.", "điện phân."],
+    "correct": 2,
+    "explanation": "Không dùng khử hỗn hống để điều chế Fe.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Cho ba hợp chất X, Y, Z. Biết X chứa các nguyên tố C, H, Cl trong đó Cl chiếm 71,72% theo khối lượng. Y chứa các nguyên tố C, H, O trong đó O chiếm 55,17% theo khối lượng. Khi thủy phân X trong môi trường kiềm hay hydrogen hóa Y đều thu được Z. Công thức cấu tạo của X, Y, Z lần lượt là",
+    "image": null,
+    "options": ["CH₃Cl, HCHO, CH₃OH.", "C₂H₅Cl, CH₃CHO, C₂H₅OH.", "C₂H₄Cl₂, (CHO)₂, C₂H₄(OH)₂.", "C₂H₄Cl₂, CH₃CHO, C₂H₄(OH)₂."],
+    "correct": 2,
+    "explanation": "X = ClCH₂CH₂Cl, Y = (CHO)₂, Z = HOCH₂CH₂OH.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Khi phản ứng thủy phân tinh bột thành đường được xúc tác bằng HCl. Khi giảm nồng độ HCl, tốc độ phản ứng sẽ",
+    "image": null,
+    "options": ["giảm do nồng độ xúc tác giảm.", "tăng do nồng độ xúc tác giảm.", "không đổi do nồng độ xúc tác không ảnh hưởng tới tốc độ phản ứng.", "giảm do khi nồng độ xúc tác tăng làm nồng độ tinh bột giảm."],
+    "correct": 0,
+    "explanation": "Giảm nồng độ xúc tác làm giảm tốc độ phản ứng.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Thủy phân hoàn toàn 1 mol pentapeptide X thu được 2 mol Glycine, 1 mol Alanine, 1 mol Valine và 1 mol Lysine. Nếu thủy phân không hoàn toàn X thì hỗn hợp sản phẩm có các dipeptide Ala – Gly và Gly – Ala nhưng không có Lys – Gly. Trình tự các amino acid trong phân tử X là",
+    "image": null,
+    "options": ["Gly – Ala – Gly – Lys – Val.", "Gly – Val – Ala – Lys – Gly.", "Lys – Ala – Gly – Ala – Gly.", "Lys – Gly – Ala – Gly – Val."],
+    "correct": 0,
+    "explanation": "Có đoạn Gly–Ala–Gly và không có Lys–Gly → trình tự Gly–Ala–Gly–Lys–Val.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Tiến hành các thí nghiệm cho chất rắn vào dung dịch tương ứng: (a) Al vào NaOH (loãng); (b) FeS vào H₂SO₄ (loãng); (c) Cu vào HNO₃ (đặc); (d) CaCO₃ vào HCl (loãng). Số thí nghiệm tạo thành chất khí là",
+    "image": null,
+    "options": ["1.", "2.", "3.", "4."],
+    "correct": 3,
+    "explanation": "Cả 4 thí nghiệm đều sinh khí (H₂, H₂S, NO₂, CO₂).",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Cho chất hữu cơ X mạch hở, có công thức phân tử là C₄H₆O₄ tác dụng với dung dịch NaOH đun nóng thu được alcohol Y và muối sodium của carboxylic acid Z. Biết rằng Y và Z có cùng số nguyên tử carbon. Nhận định đúng là",
+    "image": null,
+    "options": ["Z có phản ứng tráng bạc.", "Dung dịch Y hòa tan Cu(OH)₂ ở điều kiện thường tạo phức màu xanh lam.", "X là hợp chất hữu cơ đa chức.", "Đun nóng Y với H₂SO₄ ở 170°C, thu được 1 alkene duy nhất."],
+    "correct": 3,
+    "explanation": "Y = C₂H₅OH → đun với H₂SO₄ 170°C thu được 1 alkene duy nhất (ethylene).",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Cho các phát biểu sau: (a) Trong một ong có chứa nhiều glucose và fructose. (b) Saccharose là nguyên liệu làm bánh kẹo, nước giải khát. (c) Phân tử triglyceride luôn có số chẵn nguyên tử carbon. (d) Xà phòng hóa hoàn toàn chất béo luôn thu được glycerol. (e) Amino acid thuộc loại hợp chất hữu cơ tạp chức. Số phát biểu đúng là",
+    "image": null,
+    "options": ["2.", "1.", "4.", "3."],
+    "correct": 3,
+    "explanation": "Đúng: (a), (b), (d), (e). (c) sai vì có acid béo số lẻ.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Thủy phân hoàn toàn 8,58 kg một loại chất béo cần 1,2 kg NaOH, thu được 0,368 kg glycerol và hỗn hợp muối của acid béo. Từ lượng muối trên sản xuất tối đa bao nhiêu kg xà phòng (biết xà phòng chứa 60% khối lượng muối của acid béo)?",
+    "image": null,
+    "options": ["9,088 kg.", "15,147 kg.", "15,690 kg.", "16,000 kg."],
+    "correct": 1,
+    "explanation": "m_muối = 9,088 kg → m_xà phòng = 9,088 / 0,6 ≈ 15,147 kg.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Trong số các tơ sau: sợi bông (a); tơ capron (b); len (c); tơ visco (d); tơ acetate (e); nilon-6,6 (g); tơ nitron (h), số tơ tổng hợp là",
+    "image": null,
+    "options": ["3", "4.", "5.", "6."],
+    "correct": 0,
+    "explanation": "Tơ tổng hợp: (b), (g), (h).",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Cinnamaldehyde có trong thành phần tinh dầu của vỏ cây quế (Cinnamomum L.) và tạo nên mùi thơm đặc trưng của quế. Khi phân tích thành phần khối lượng các nguyên tố trong cinnamaldehyde, thu được kết quả; còn lại là hydrogen. Dựa trên phổ MS của cinnamaldehyde (hình dưới), với mảnh [M⁺] có giá trị m/z lớn nhất, hãy cho biết công thức phân tử của cinnamaldehyde?",
+    "image": null,
+    "options": ["C₉H₇O.", "C₉H₈O.", "C₈H₄O₂.", "C₆H₁₂O."],
+    "correct": 0,
+    "explanation": "M = 131; C₉H₇O.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Một học sinh thực hiện một thí nghiệm chiết tách chất hữu cơ như sau: ... Cho các phát biểu sau: (1) Trước khi chiết lớp hexane trong phễu có màu xanh lam; sau khi chiết lớp hexane trong phễu có màu vàng cam. (2) Thí nghiệm tách β-carotene từ nước cà rốt dựa theo nguyên tắc chiết lỏng – lỏng. (3) Hexane không tan trong nước, có khả năng hòa tan β-carotene. (4) Chất lỏng trong phễu chiết tách thành hai lớp, lớp bên trên là lớp nước. Số phát biểu đúng là",
+    "image": null,
+    "options": ["1.", "4.", "2.", "3."],
+    "correct": 2,
+    "explanation": "Đúng (2) và (3).",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Chlorine hiện được sử dụng phổ biến để khử trùng nước sinh hoạt ở nhiều nhà máy nước. ... Hàm lượng của Cl₂ trong nước theo đơn vị mg/m³ là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "497",
+    "explanation": "n_Cl₂ = 0,7·10⁻⁵ mol → hàm lượng 497 mg/m³.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Nhận định nào dưới đây là đúng khi nói về quá trình sản xuất nước Javel?",
+    "image": null,
+    "options": ["Na⁺ bị khử oxi hóa tại cathode.", "Nước Javel là hỗn hợp các chất NaCl, NaOH, Cl₂.", "Quá trình điện phân dung dịch NaCl tại anode thu được khí oxygen tinh khiết có tác dụng tẩy màu.", "Ở cathode thu được sản phẩm là NaOH là nguyên liệu chính để sản xuất nước Javel."],
+    "correct": 3,
+    "explanation": "Cathode tạo NaOH – nguyên liệu chính của nước Javel.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Bỏ qua sự bay hơi của nước, phần trăm NaCl bị điện phân là",
+    "image": null,
+    "options": ["30%.", "40%.", "50%.", "60%."],
+    "correct": 1,
+    "explanation": "%NaCl bị điện phân ≈ 40%.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Loại nước Javel dùng để tẩy vết bẩn quần áo trên thị trường thường được đóng vào chai có dung tích 1 L, có nồng độ NaClO và NaCl lần lượt là 6% và 5% (khối lượng riêng của dung dịch nước Javel là D = 1,1g/mL). Tính khối lượng NaCl nguyên chất và thể tích nước cần dùng để sản xuất 1000 chai nước Javel nói trên. Coi gần đúng khối lượng riêng của nước nguyên chất là 1 g/mL.",
+    "image": null,
+    "options": ["106,83 kg và 994,95 L.", "105,66 kg và 956,5 L.", "105,66 kg và 994,95 L.", "106,83 kg và 956,5 L."],
+    "correct": 0,
+    "explanation": "m_NaCl = 106,83 kg; V_nước = 994,95 L.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Để thực hiện kỹ thuật phân đoạn tế bào nhằm tách các loại bào quan dựa trên khối lượng của chúng, ta cần sử dụng thiết bị nào sau đây?",
+    "image": null,
+    "options": ["Kính hiển vi điện tử.", "Máy li tâm.", "Micro pipet.", "Cân tiểu ly."],
+    "correct": 1,
+    "explanation": "Dùng máy li tâm để tách bào quan theo khối lượng.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Trong các loài động vật dưới đây, loài nào phát triển thông qua biến thái không hoàn toàn?",
+    "image": null,
+    "options": ["Ếch xanh.", "Bướm cải.", "Ong mật.", "Ve sầu."],
+    "correct": 3,
+    "explanation": "Ve sầu phát triển qua biến thái không hoàn toàn.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Nhận định nào sau đây là đúng khi nói về quang hợp ở thực vật? (I) Oxygen được tạo ra trong quang hợp ở pha sáng. (II) Nhiệt độ môi trường càng tăng, cường độ quang hợp càng tăng. (III) Thực vật C₃ có điểm bù CO₂ thấp hơn thực vật C₄. (IV) Thực vật ưa sáng có điểm bão hòa ánh sáng cao hơn thực vật ưa bóng.",
+    "image": null,
+    "options": ["(I), (II).", "(II), (III).", "(III), (IV).", "(I), (IV)."],
+    "correct": 3,
+    "explanation": "Đúng (I) và (IV).",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Dưới đây là các bước chính để thực hiện liệu pháp gene: (1) Sàng lọc các tế bào đã được chỉnh sửa gene và nhân bản trong ống nghiệm. (2) Truyền các tế bào chỉnh sửa gene vào cơ thể bệnh nhân. (3) Nhân nuôi tế bào trong ống nghiệm, chỉnh sửa gene hoặc thay thế gene bệnh của tế bào bằng gene lành. Các bước này cần được thực hiện theo trình tự nào sau đây?",
+    "image": null,
+    "options": ["(1) → (2) → (3).", "(2) → (3) → (1).", "(3) → (1) → (2).", "(3) → (2) → (1)."],
+    "correct": 2,
+    "explanation": "Trình tự: (3) → (1) → (2).",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Ví dụ nào sau đây minh họa cho tập tính học được?",
+    "image": null,
+    "options": ["Qua ghi nhớ vị trí giấu hạt dựa vào khoảng cách tương đối giữa các cột mốc.", "Chó đánh dấu lãnh thổ bằng nước tiểu.", "Cá voi xám di cư xuống phía Nam vào mùa thu.", "Chim công trống khoe mẽ trong mùa sinh sản."],
+    "correct": 0,
+    "explanation": "Ghi nhớ vị trí giấu hạt là tập tính học được.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Công nghệ thụ tinh 3 bố mẹ được sử dụng để loại trừ bệnh do gene ty thể gây ra. Trong kỹ thuật này, nhân tế bào trứng của người mẹ mắc bệnh sẽ được tách ra và đưa vào tế bào đã được tách nhân của người hiến tặng, sau đó thụ tinh với tinh trùng của bố. Ty thể trong tế bào của em bé sinh ra có đặc điểm nào sau đây?",
+    "image": null,
+    "options": ["Giống với ty thể trong tế bào của bố.", "Giống với ty thể trong tế bào của mẹ.", "Giống với ty thể trong tế bào của người hiến tặng.", "Vừa có ty thể bị bệnh, vừa có ty thể khỏe mạnh."],
+    "correct": 2,
+    "explanation": "Ty thể đến từ người hiến tặng.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Nhịp tim giảm đi trong trường hợp nào sau đây?",
+    "image": null,
+    "options": ["Nồng độ CO₂ trong máu tăng.", "Tuyến trên thận tăng tiết adrenaline và noradrenaline.", "Cơ thể trong trạng thái nghỉ ngơi.", "Có cảm xúc mạnh, hồi hộp, lo âu."],
+    "correct": 2,
+    "explanation": "Khi nghỉ ngơi, hệ đối giao cảm làm giảm nhịp tim.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Một chủng vi khuẩn bị đột biến ở gene lacI dẫn tới protein lacI bị đột biến cấu trúc không liên kết được với allolactose. Nhận định nào sau đây về sự phiên mã của các gene cấu trúc trong operon lac ở chủng vi khuẩn này là đúng?",
+    "image": null,
+    "options": ["Các gene cấu trúc luôn được phiên mã ở cả môi trường có lactose hay không có lactose.", "Các gene cấu trúc chỉ được phiên mã khi môi trường có lactose.", "Các gene cấu trúc chỉ được phiên mã khi môi trường không có lactose.", "Các gene cấu trúc không được phiên mã ở cả môi trường có lactose hay không có lactose."],
+    "correct": 3,
+    "explanation": "LacI luôn gắn operator → không phiên mã.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Bạn Lan đếm được trên mặt cắt thân cây bàng có 30 vòng gỗ. Có thể kết luận điều gì về tuổi của cây bàng này?",
+    "image": null,
+    "options": ["Cây bàng khoảng 15 tuổi.", "Cây bàng khoảng 30 tuổi.", "Cây bàng khoảng 60 tuổi.", "Không thể kết luận về tuổi của cây bàng."],
+    "correct": 1,
+    "explanation": "Mỗi vòng gỗ = 1 năm → 30 tuổi.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "CRISPR-cas9 là một công nghệ cho phép sử dụng một RNA dẫn đến gene đích mong muốn để enzyme cas9 cắt bỏ đoạn lỗi trong DNA cần sửa, sau đó CRISPR chèn đoạn DNA mới thay thế đoạn lỗi đã bị cắt đi. Công nghệ này có thể được sử dụng để điều trị bệnh nào sau đây?",
+    "image": null,
+    "options": ["Tiểu đường tuýp 2 do tế bào giảm nhạy cảm với insulin.", "Bệnh loạn dưỡng cơ Duchenne do sai hỏng gene dystrophin.", "Bệnh Down do thừa một nhiễm sắc thể số 21.", "Bệnh lao do vi khuẩn Mycobacterium tuberculosis tấn công vào phổi."],
+    "correct": 1,
+    "explanation": "Chữa bệnh do đột biến gene đơn lẻ (Duchenne).",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Trong các trường hợp dưới đây, có bao nhiêu trường hợp mà số lượng cá thể của quần thể có thể tăng lên? I. Các cá thể cạnh tranh gay gắt để tranh giành nơi ở. II. Nguồn thức ăn trong môi trường dồi dào. III. Có các cá thể di chuyển từ quần thể khác tới. IV. Dịch bệnh lan tràn trong quần thể.",
+    "image": null,
+    "options": ["1.", "2.", "3.", "4."],
+    "correct": 1,
+    "explanation": "II và III làm tăng số lượng cá thể.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Cho lưới thức ăn như hình vẽ. Khi loại bỏ cào cào trong quần xã, người ta thấy số lượng chim sẻ tăng lên. Những nhận định nào sau đây giải thích đúng về hiện tượng này? (I) Khi không có cào cào, lúa phát triển tốt làm thức ăn cho chim sẻ. (II) Cào cào bị loại bỏ khiến số lượng đại bàng giảm đi. (III) Cào cào bị loại bỏ sẽ không còn cạnh tranh nơi ở với chim sẻ làm quần thể chim sẻ phát triển. (IV) Khi không có cào cào, rắn sẽ phát triển mạnh làm nguồn thức ăn cho chim sẻ.",
+    "image": null,
+    "options": ["(I), (II).", "(II), (III).", "(III), (IV).", "(I), (IV)."],
+    "correct": 0,
+    "explanation": "Đúng (I) và (II).",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Ở người, hội chứng rậm lông tai làm xuất hiện lông dày, dài ở vành tai ngoài là do allele đột biến lặn hiếm gặp liên kết nhiễm sắc thể giới tính Y không có allele tương ứng trên X. Phát biểu nào sau đây là chính xác?",
+    "image": null,
+    "options": ["Cả con gái và con trai đều có thể mắc hội chứng này.", "Nếu người bố bị bệnh, sinh ra con trai 100% mắc bệnh.", "Nếu người bố bị bệnh, sinh ra con gái 50% mắc bệnh.", "Bệnh này có thể được chữa trị bằng phương pháp thụ tinh ba bố mẹ."],
+    "correct": 1,
+    "explanation": "Bệnh liên kết Y → bố truyền 100% cho con trai.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Ở một loài thực vật, tính trạng chiều cao cây do nhiều cặp gen nằm trên các cặp nhiễm sắc thể tương đồng khác nhau di truyền theo kiểu tương tác cộng gộp. Cho cây cao nhất lai với cây thấp nhất thu được F₁. Cho các cây F₁ giao phấn tự do thu được F₂ có 13 nhóm kiểu hình về tính trạng chiều cao cây. Tính trạng chiều cao của loài thực vật này do bao nhiêu cặp gen quy định?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Số nhóm kiểu hình = 2n + 1 = 13 → n = 6.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Nhận định nào sau đây là chính xác khi nói về gene quy định màu sắc hoa của quần thể này?",
+    "image": null,
+    "options": ["Tần số hai allele quy định màu hoa của quần thể là bằng nhau.", "Gene quy định màu sắc hoa của loài cây này nằm trong lục lập.", "Allele quy định hoa đỏ trội hoàn toàn so với allele quy định hoa trắng.", "Các cây hoa hồng có kiểu gene dị hợp về gene quy định màu hoa đang xét."],
+    "correct": 3,
+    "explanation": "Trội không hoàn toàn → hoa hồng = Aa.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Các nhân tố tiến hóa tác động mạnh nhất đến quần thể từ thế hệ thứ 2 đến thế hệ thứ 3 là:",
+    "image": null,
+    "options": ["Chọn lọc tự nhiên và di nhập gene.", "Phiêu bạt di truyền và giao phối không ngẫu nhiên.", "Di nhập gene và giao phối không ngẫu nhiên.", "Chọn lọc tự nhiên và phiêu bạt di truyền."],
+    "correct": 2,
+    "explanation": "Di nhập gene (chim mang hạt) + giao phối không ngẫu nhiên (tự thụ phấn).",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Nhận định nào sau đây là chính xác khi nói về các hạt giống được chim sẻ mang ra đảo?",
+    "image": null,
+    "options": ["Phần lớn trong số hạt giống này là hạt của cây hoa hồng.", "Phần lớn trong số hạt giống này là hạt của cây hoa đỏ.", "Phần lớn trong số hạt giống này là hạt của cây hoa trắng.", "Chim chỉ mang ra đảo hạt giống cây hoa trắng và hoa đỏ."],
+    "correct": 0,
+    "explanation": "Tỷ lệ hoa hồng thực tế 20% >> lý thuyết 2% → hạt mang theo chủ yếu từ cây hoa hồng.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Giai cấp nào lãnh đạo cuộc cách mạng tư sản Pháp (thế kỉ XVIII)?",
+    "image": null,
+    "options": ["Giai cấp tư sản.", "Quần chúng nhân dân.", "Tầng lớp tri thức.", "Giai cấp công nhân."],
+    "correct": 0,
+    "explanation": "Giai cấp tư sản là lực lượng lãnh đạo chính của Cách mạng tư sản Pháp.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Đâu không phải đặc điểm của nền văn minh Đông Nam Á?",
+    "image": null,
+    "options": ["Nền văn minh nông nghiệp lúa nước.", "Tính đa dạng văn hóa.", "Ảnh hưởng của các nền văn minh lớn.", "Văn hóa du mục thảo nguyên."],
+    "correct": 3,
+    "explanation": "Văn hóa du mục thảo nguyên không phải đặc điểm của văn minh Đông Nam Á.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Sự kiện đánh dấu chủ nghĩa xã hội nối liền từ Âu sang Á là gì?",
+    "image": null,
+    "options": ["Cách mạng tháng Mười Nga thành công.", "Sự ra đời của nước Cộng hòa Nhân Dân Trung Hoa.", "Thắng lợi của Cách mạng tháng Tám.", "Thắng lợi của Cách mạng Cuba."],
+    "correct": 1,
+    "explanation": "Ngày 1/10/1949, nước Cộng hòa Nhân dân Trung Hoa ra đời đánh dấu CNXH nối liền từ Âu sang Á.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Đâu là một trong những nội dung của mục tiêu, hành động mang tính toàn cầu đến năm 2030 của Liên hợp quốc?",
+    "image": null,
+    "options": ["Chống nạn thất nghiệp.", "Quyền tự do chính trị.", "Chống bạo lực gia đình.", "Chất lượng giáo dục."],
+    "correct": 3,
+    "explanation": "Chất lượng giáo dục là một trong 17 Mục tiêu Phát triển Bền vững (SDGs).",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Hợp tác kinh tế giữa các nước ASEAN tăng lên nhanh chóng từ khi",
+    "image": null,
+    "options": ["Cộng đồng kinh tế ASEAN được thành lập.", "Hội nghị cấp cao ASEAN lần thứ 10 (2004).", "Tuyên bố chung Cua-la Lăm-pơ (tại Malaxia).", "Hội nghị cấp cao của ba nước Đông Dương."],
+    "correct": 0,
+    "explanation": "AEC được thành lập năm 2015 thúc đẩy mạnh mẽ hợp tác kinh tế ASEAN.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Hình thức tổ chức nào tiêu biểu cho khối đại đoàn kết toàn dân tộc ở Việt Nam?",
+    "image": null,
+    "options": ["Mặt trận Tổ quốc Việt Nam.", "Đảng Cộng sản Việt Nam.", "Quốc hội Việt Nam.", "Chính phủ Việt Nam."],
+    "correct": 0,
+    "explanation": "Mặt trận Tổ quốc Việt Nam là tổ chức tiêu biểu cho khối đại đoàn kết toàn dân tộc.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Trong đoạn trích, từ \"điển chương\" có nghĩa là gì?",
+    "image": null,
+    "options": ["Luật lệ và quy định của triều đình", "Các loại sách vở và tài liệu lịch sử.", "Các nghi lễ và phong tục truyền thống.", "Các bài văn và thơ ca được lưu truyền."],
+    "correct": 0,
+    "explanation": "Điển chương chỉ hệ thống luật lệ, quy định của triều đình.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Mục đích chính của cuộc cải cách hành chính dưới thời vua Lê Thánh Tông là gì?",
+    "image": null,
+    "options": ["Tăng cường quyền lực của quý tộc.", "Củng cố bộ máy nhà nước trung ương tập quyền.", "Mở rộng lãnh thổ Đại Việt.", "Thúc đẩy phát triển kinh tế tư nhân."],
+    "correct": 1,
+    "explanation": "Cải cách nhằm củng cố bộ máy nhà nước trung ương tập quyền.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Eo biển nào sau đây là một trong những tuyến đường hàng hải quan trọng nhất trên Biển Đông?",
+    "image": null,
+    "options": ["Eo biển Đài Loan.", "Eo biển Malacca.", "Eo biển Bering.", "Eo biển Manche."],
+    "correct": 1,
+    "explanation": "Eo biển Malacca là tuyến đường biển quan trọng nhất nối Á – Âu.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Các thông tin nào sau đây là đúng về Cộng đồng ASEAN? I. Cộng đồng ASEAN được xây dựng dựa trên ba trụ cột chính: APSC, AEC và ASCC. II. Mục tiêu của ASCC là xây dựng cộng đồng hướng tới người dân. III. ASEAN chỉ tập trung vào hợp tác kinh tế. IV. Các quốc gia thành viên phải từ bỏ chủ quyền để xây dựng nhà nước liên bang ASEAN.",
+    "image": null,
+    "options": ["I và II.", "I và IV.", "II và III.", "III và IV."],
+    "correct": 0,
+    "explanation": "Đúng I và II.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Nguyên tắc \"đa phương hóa, đa dạng hóa quan hệ đối ngoại\" của Việt Nam có nghĩa là:",
+    "image": null,
+    "options": ["Chỉ quan hệ với các nước có cùng hệ tư tưởng.", "Quan hệ với tất cả các nước, không phân biệt chế độ chính trị.", "Ưu tiên quan hệ với các nước láng giềng.", "Chỉ quan hệ với các nước có tiềm lực kinh tế mạnh."],
+    "correct": 1,
+    "explanation": "Quan hệ với tất cả các nước, không phân biệt chế độ chính trị.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Ngoại giao \"cây tre Việt Nam\" được Tổng Bí thư Nguyễn Phú Trọng nêu ra vào thời gian nào?",
+    "image": null,
+    "options": ["Hội nghị Trung ương Đảng lần thứ 14 (2021).", "Hội nghị Đối ngoại Toàn quốc (14-12-2021)", "Đại hội Đảng toàn quốc lần thứ XIII (2021).", "Phiên họp Quốc hội cuối năm 2021."],
+    "correct": 1,
+    "explanation": "Được nêu tại Hội nghị Đối ngoại Toàn quốc ngày 14-12-2021.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Theo đoạn tư liệu, ngoại giao \"cây tre Việt Nam\" thể hiện điều gì về đường lối đối ngoại của Việt Nam?",
+    "image": null,
+    "options": ["Sự cứng rắn, không khoan nhượng trong các vấn đề quốc tế.", "Sự phụ thuộc vào các cường quốc để đảm bảo an ninh quốc gia.", "Sự cô lập, không tham gia vào các vấn đề khu vực và quốc tế.", "Sự linh hoạt, mềm dẻo nhưng kiên định trong bảo vệ lợi ích quốc gia."],
+    "correct": 3,
+    "explanation": "Linh hoạt, mềm dẻo nhưng kiên định bảo vệ lợi ích quốc gia.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Đâu không phải là đóng góp của Việt Nam vào hòa bình, hợp tác và phát triển trên thế giới được nêu trong đoạn tư liệu?",
+    "image": null,
+    "options": ["Tổ chức thành công các hội nghị quốc tế lớn như ASEM, APEC.", "Tham gia các hoạt động gìn giữ hòa bình của Liên Hợp Quốc tại châu Phi.", "Hoàn thành trọng trách Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc.", "Trở thành Chủ tịch luân phiên ASEAN."],
+    "correct": 1,
+    "explanation": "Đoạn tư liệu không đề cập đến hoạt động gìn giữ hòa bình tại châu Phi.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Việt Nam được đề cử vào vị trí Chủ tịch Hội nghị lần thứ 35 các quốc gia thành viên Công ước Liên hợp quốc về Luật Biển (SPLOS) bởi tổ chức nào?",
+    "image": null,
+    "options": ["Liên Hợp Quốc.", "Nhóm châu Á - Thái Bình Dương tại Liên Hợp Quốc.", "Hiệp hội các quốc gia Đông Nam Á (ASEAN).", "Ủy ban Luật Biển Quốc tế."],
+    "correct": 1,
+    "explanation": "Nhóm châu Á - Thái Bình Dương tại Liên Hợp Quốc đề cử.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Hội nghị lần thứ 35 các quốc gia thành viên Công ước Liên hợp quốc về Luật Biển (SPLOS) sẽ diễn ra ở đâu?",
+    "image": null,
+    "options": ["Hà Nội, Việt Nam.", "New York, Hoa Kỳ.", "Geneva, Thụy Sĩ.", "Vienna, Áo."],
+    "correct": 1,
+    "explanation": "Diễn ra tại trụ sở Liên hợp quốc ở New York.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Việc Việt Nam được đề cử vào vị trí Chủ tịch Hội nghị lần thứ 35 các quốc gia thành viên Công ước Liên hợp quốc về Luật Biển (SPLOS) thể hiện điều gì về vai trò của Việt Nam trên trường quốc tế?",
+    "image": null,
+    "options": ["Sự suy yếu về ảnh hưởng ngoại giao của Việt Nam.", "Sự tín nhiệm cao và ghi nhận của cộng đồng quốc tế đối với những nỗ lực của Việt Nam trong việc thực thi UNCLOS.", "Việt Nam chỉ tập trung vào các vấn đề khu vực mà không quan tâm đến các vấn đề toàn cầu.", "Việt Nam đang tìm cách đối đầu với các cường quốc trên biển."],
+    "correct": 1,
+    "explanation": "Thể hiện sự tín nhiệm cao và ghi nhận của cộng đồng quốc tế.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Đá được hình thành do quá trình ngưng kết (nguội lạnh) của các khối mac-ma nóng chảy là",
+    "image": null,
+    "options": ["đá trầm tích.", "đá mac-ma.", "đá biến chất.", "đá go-nai."],
+    "correct": 1,
+    "explanation": "Đá mac-ma hình thành do ngưng kết của magma.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Cơ cấu dân số xã hội gồm:",
+    "image": null,
+    "options": ["dân số theo lao động và theo trình độ văn hoá.", "trình độ văn hoá và theo giới tính.", "theo tuổi và theo giới tính.", "theo lao động và theo tuổi."],
+    "correct": 0,
+    "explanation": "Cơ cấu xã hội gồm cơ cấu theo lao động và theo trình độ văn hoá.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Thiết lập và duy trì một nền thương mại toàn cầu, tự do, thuận lợi và minh bạch là mục đích của tổ chức nào dưới đây?",
+    "image": null,
+    "options": ["Liên minh châu Âu.", "Cục Điều tra Liên bang Mỹ.", "Tổ chức Thương mại Thế giới.", "Tổ chức Phát triển Công nghiệp Liên hợp Quốc."],
+    "correct": 2,
+    "explanation": "Mục đích của WTO.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Lúa mì được phân bố nhiều ở vùng trung tâm đất đen và phía nam đồng bằng Tây Xi-bia của Liên bang Nga chủ yếu do",
+    "image": null,
+    "options": ["đất đai màu mỡ, có khí hậu ấm", "đất đai màu mỡ, nhiều sinh vật.", "đất đai màu mỡ, nguồn ẩm lớn.", "khí hậu ấm, nguồn nước dồi dào."],
+    "correct": 0,
+    "explanation": "Đất đen màu mỡ và khí hậu ấm thuận lợi cho lúa mì.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "An ninh lương thực giúp",
+    "image": null,
+    "options": ["giảm tình trạng thiếu lương thực và nạn đói.", "giảm thiên tai và dịch bệnh kéo dài.", "hạn chế mất trật tự an ninh mạng.", "giảm tác động của biến đổi khí hậu, mất mùa."],
+    "correct": 0,
+    "explanation": "An ninh lương thực giúp giảm thiếu lương thực và nạn đói.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Dựa vào bảng số liệu, nhận xét nào sau đây đúng về tình hình xuất khẩu, nhập khẩu hàng hóa và dịch vụ của Hoa Kỳ giai đoạn 2000 - 2020?",
+    "image": null,
+    "options": ["Tổng kim ngạch xuất - nhập khẩu tăng liên tục trong giai đoạn 2000 - 2020.", "Giá trị nhập khẩu tăng liên tục trong giai đoạn 2000 - 2020 và tăng 1,9 lần.", "Xuất khẩu tăng nhanh hơn so với nhập khẩu trong giai đoạn 2000 - 2020.", "Trong giai đoạn trên tổng trị giá trị xuất - nhập khẩu tăng 1,96 lần."],
+    "correct": 2,
+    "explanation": "Xuất khẩu tăng nhanh hơn nhập khẩu.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về đặc điểm khí hậu tại Huế?",
+    "image": null,
+    "options": ["Huế có hai mùa mưa và mùa khô rõ rệt nên nhiệt cao đều trên 25°C.", "Từ tháng 12 - tháng 2 nền nhiệt thấp là do chịu tác động của gió Tây Nam.", "Mùa mưa xảy ra vào thời kì thu đông do chịu tác động của gió và địa hình.", "Mùa mưa xảy ra các mùa trong năm do chịu tác động của gió và địa hình."],
+    "correct": 2,
+    "explanation": "Mùa mưa lệch về thu đông do gió và địa hình.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nhận xét nào dưới đây đúng về tỉ lệ gia tăng dân số phân theo thành thị và nông thôn của nước ta giai đoạn 2016 - 2022?",
+    "image": null,
+    "options": ["Tỉ lệ tăng dân số của thành thị luôn lớn hơn nông thôn và tăng liên tục qua các năm.", "Tỉ lệ tăng dân số của nông thôn luôn nhỏ hơn thành thị và giảm liên tục qua các năm.", "Tỉ lệ tăng dân số ở thành thị luôn lớn hơn nông thôn do ảnh hưởng của quá trình công nghiệp hoá.", "Tỉ lệ tăng năm 2020 thành thị tăng nhanh, nông thôn giảm mạnh là do nền kinh tế tăng trưởng đột biến."],
+    "correct": 2,
+    "explanation": "Tỉ lệ tăng dân số thành thị luôn lớn hơn nông thôn do công nghiệp hoá.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Sự phân hóa lãnh thổ du lịch nước ta phụ thuộc vào các yếu tố nào sau đây?",
+    "image": null,
+    "options": ["Chất lượng đội ngũ trong ngành.", "Vị trí địa lí và tài nguyên du lịch.", "Tiềm năng du lịch ở các vùng xa.", "Số lượng du khách đến tham quan."],
+    "correct": 1,
+    "explanation": "Phụ thuộc vào vị trí địa lí và tài nguyên du lịch.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Biểu đồ dưới đây thể hiện nội dung nào về ngành du lịch của nước ta giai đoạn 2000 - 2020?",
+    "image": null,
+    "options": ["Số lượt khách du lịch quốc tế đến nước ta phân theo loại hình giao thông vận tải giai đoạn 2000 - 2020.", "Sự chuyển dịch tỉ lệ khách du lịch quốc tế đến nước ta phân theo loại hình giao thông vận tải giai đoạn 2000 - 2020.", "Tốc độ tăng trưởng khách du lịch quốc tế đến nước ta phân theo loại hình giao thông vận tải giai đoạn 2000 - 2020.", "Quy mô và cơ cấu khách du lịch quốc tế đến nước ta phân theo loại hình giao thông vận tải giai đoạn 2000 - 2020."],
+    "correct": 1,
+    "explanation": "Biểu đồ miền thể hiện sự chuyển dịch tỉ lệ theo loại hình giao thông.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Vùng Đồng bằng sông Cửu Long có ngành chăn nuôi gia súc và gia cầm phát triển mạnh chủ yếu do",
+    "image": null,
+    "options": ["khí hậu cận xích đạo có sự phân hóa sâu sắc, nhiều giống vật nuôi tốt.", "nguồn thức ăn cho chăn nuôi phong phú, thị trường tiêu thụ rộng lớn.", "lực lượng lao động dồi dào, có kinh nghiệm trong phát triển chăn nuôi.", "sử dụng nhiều giống gia súc, gia cầm có giá trị kinh tế cao trong chăn nuôi."],
+    "correct": 1,
+    "explanation": "Nguồn thức ăn phong phú và thị trường rộng lớn.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Biểu hiện rõ nhất của sức ép dân số lên tài nguyên ở vùng Đồng bằng sông Hồng là",
+    "image": null,
+    "options": ["chất lượng về nguồn nước sạch giảm rõ rệt.", "đất hoang hóa ngày càng được mở rộng ra.", "bình quân đất canh tác trên đầu người giảm.", "diện tích đất suy thoái tăng lên nhanh chóng."],
+    "correct": 2,
+    "explanation": "Bình quân đất canh tác trên đầu người giảm rõ nhất.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Hướng chính trong việc sử dụng hợp lí tự nhiên ở Đồng bằng sông Cửu Long là",
+    "image": null,
+    "options": ["khai thác sinh vật biển, khoáng sản và phát triển du lịch biển.", "khai thác hiệu quả thế mạnh, cải tạo tự nhiên và thích ứng với biến đổi khí hậu.", "vùng bờ biển với đất liền và hệ thống sông ngòi, kênh rạch.", "kết hợp du lịch biển, phát triển giao thông vận tải biển và du lịch miệt vườn."],
+    "correct": 1,
+    "explanation": "Khai thác hiệu quả thế mạnh, cải tạo tự nhiên và thích ứng biến đổi khí hậu.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Thế mạnh nổi bật của vùng kinh tế trọng điểm Bắc Bộ?",
+    "image": null,
+    "options": ["Tài nguyên khoáng sản rất phong phú.", "Khí hậu nhiệt đới ẩm và ít có thiên tai.", "Lao động dồi dào và có chất lượng tốt.", "Đứng đầu về vốn, công nghệ ở nước ta."],
+    "correct": 2,
+    "explanation": "Lao động dồi dào và chất lượng cao.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Khu vực hiện chiếm tỉ trọng cao nhất trong cơ cấu giá trị sản lượng công nghiệp của nước ta là",
+    "image": null,
+    "options": ["kinh tế Nhà nước.", "kinh tế ngoài Nhà nước.", "tư nhân và cá thể.", "có vốn đầu tư nước ngoài."],
+    "correct": 3,
+    "explanation": "Khu vực có vốn đầu tư nước ngoài chiếm tỉ trọng cao nhất (59,1% năm 2021).",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Nhân tố nào sau đây không ảnh hưởng chính đến sự phát triển và phân bố trung tâm công nghiệp?",
+    "image": null,
+    "options": ["Vị trí địa lí.", "Điều kiện tự nhiên.", "Điều kiện kinh tế - xã hội.", "Lịch sử hình thành lãnh thổ."],
+    "correct": 3,
+    "explanation": "Lịch sử hình thành lãnh thổ không phải nhân tố ảnh hưởng chính.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Công nghiệp chế biến cà phê của nước ta phân bố chủ yếu ở vùng nào sau đây?",
+    "image": null,
+    "options": ["Tây Nguyên.", "Đồng bằng sông Hồng.", "Trung du và miền núi Bắc Bộ.", "Duyên hải Nam Trung Bộ."],
+    "correct": 0,
+    "explanation": "Tây Nguyên là vùng trồng và chế biến cà phê lớn nhất.",
+    "passage": null
+  }
+]

@@ -1,0 +1,771 @@
+[
+  {
+    "id": 101,
+    "question": "Hình bên mô tả cấu trúc bên trong của một cánh tay người đang giữ một quả cầu sắt. Búi cơ cung cấp một lực hướng lên. Lực của búi cơ có tác dụng làm cẳng tay quay ngược chiều kim đồng hồ quanh trục quay là khớp khuỷu tay. Tay sẽ giữ được quả cầu nếu moment của lực tác dụng bởi búi cơ bằng với moment lực gây ra bởi trọng lượng của quả cầu đối với khớp khuỷu tay. Biết trọng lượng của quả cầu là 40N. Độ lớn của lực sinh ra bởi búi cơ là:",
+    "image": null,
+    "options": ["350N", "437,5N", "400N", "100N"],
+    "correct": 0,
+    "explanation": "Khi vật nặng được giữ cân bằng thì mômen của lực tác dụng bởi búi cơ bằng với mômen lực gây ra bởi trọng lượng của vật nặng đối với khớp khuỷu tay. Ta có: M1 = M2 ⇒ F1.d1 = F2.d2. Trong đó: F1 là lực tác dụng bởi búi cơ, d1 là khoảng cách từ giá của lực F1 đến khớp khuỷu tay (chính là trục quay). F2 là trọng lực do Trái Đất tác dụng lên vật nặng (chính là trọng lượng của vật nặng), d2 là khoảng cách từ giá của lực F2 đến khớp khuỷu tay. ⇒ F1.4 = 40.35 ⇒ F1 = 350N.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Một hệ dao động điều hòa với tần số dao động riêng 4Hz. Tác dụng vào hệ dao động đó một ngoại lực có biểu thức f = F.cos(8πt + π) N thì",
+    "image": null,
+    "options": ["hệ sẽ dao động cưỡng bức với tần số dao động là 8Hz.", "hệ sẽ dao động với biên độ cực đại vì khi đó xảy ra hiện tượng cộng hưởng.", "hệ sẽ ngừng dao động vì do hiệu tần số của ngoại lực cưỡng bức và tần số dao động riêng bằng 0.", "hệ sẽ dao động với biên độ giảm dần rất nhanh do ngoại lực tác dụng cân trở dao động."],
+    "correct": 1,
+    "explanation": "Tần số của ngoại lực: f = ω/(2π) = 4Hz. Ta thấy tần số của ngoại lực bằng với tần số của dao động riêng nên xảy ra hiện tượng cộng hưởng.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Nhiệt lượng chiếc bánh nướng trong lò nướng cần thu vào để nóng lên không phụ thuộc vào yếu tố nào dưới đây?",
+    "image": null,
+    "options": ["Khối lượng chiếc bánh.", "Nhiệt độ của chiếc bánh.", "Chất làm chiếc bánh.", "Hình dạng của chiếc bánh."],
+    "correct": 3,
+    "explanation": "Ta có công thức xác định nhiệt lượng: Q = mcΔt. ⇒ Nhiệt lượng của chiếc bánh trong lò phụ thuộc vào khối lượng, chất làm bánh và nhiệt độ ban đầu của bánh. ⇒ chỉ có hình dạng của bánh là không phụ thuộc.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Một viên đạn khối lượng m = 10g bắn đi theo phương ngang với vận tốc v0 va chạm mềm với khối gỗ khối lượng M = 1kg treo đầu sợi dây nhẹ cân bằng thẳng đứng. Sau va chạm khối gỗ chứa đạn nâng lên độ cao cực đại h = 0,8m so với vị trí cân bằng ban đầu, lấy g = 10m/s2, bỏ qua lực cản của không khí. Tỉ lệ phần trăm động năng ban đầu đã chuyển thành nhiệt là:",
+    "image": null,
+    "options": ["99%", "96%", "95%", "92%"],
+    "correct": 0,
+    "explanation": "Vận tốc của hệ ngay sau va chạm bằng: v12 = √(2gh) = √(2.10.0,8) = 4m/s. Áp dụng định luật bảo toàn động lượng của hệ khi va chạm mềm: m1.v1 = (m1 + m2).v ⇒ v = v12 = (m1.v2)/(m1 + m2) = (m.v0)/(m + M). Thay số: 4 = (0,01.v0)/(0,01 + 1) ⇔ v0 = 404m/s. Nhiệt tỏa ra trong va chạm: Qnhiet = |W2 - W1| = 1/2 . (mM)/(m+M) . v0^2 = 1/2 . (0,01.1)/(0,01+1) . 404^2 = 808J. Động năng ban đầu: Wd0 = 1/2.m.v0^2 = 0,5.0,01.404^2 = 816,08J. Tỉ lệ phần trăm động năng ban đầu đã chuyển thành nhiệt là: Q/Wd0 . 100% = 808/816,08 . 100% = 99%.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Trên mặt nước rộng có một phù kế hình trụ: tiết diện ngang S = 0,8cm2, khối lượng m = 50g, nổi luôn thẳng đứng. Cho phù kế dao động nhỏ theo phương thẳng đứng, tính tần số dao động. Bỏ qua lực ma sát giữa phù kế với nước, khối lượng riêng của nước là 1000kg/m3.",
+    "image": null,
+    "options": ["3,96Hz", "1,59Hz", "0,64Hz", "0,25Hz"],
+    "correct": 2,
+    "explanation": "Khi phù kế đứng cân bằng trong nước thì trọng tâm M của phù kế sát mặt nước, khi đó: P = FA. Khi phù kế nhô lên khỏi mặt nước một khoảng x thì lực đẩy Archimedes giảm đi 1/2, lượng này bằng với độ tăng trọng lực, kí hiệu là lực F. Ta có F là lực tổng hợp tác dụng lên toàn bộ khối nước. Ta có: F = -DgSx = -kx với k = DgS ⇒ ω = √(k/m) = √(DgS/m). Mặt khác: f = ω/(2π) = 1/(2π).√(DgS/m) = 0,64Hz.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Trong thí nghiệm giao thoa Y-âng, nguồn S phát bức xạ có bước sóng 450nm, khoảng cách giữa hai khe 1,5mm, màn quan sát E cách mặt phẳng hai khe 2,4m. Dịch chuyển một mối hàn của cặp nhiệt điện trên màn E theo đường vuông góc với hai khe, thì cứ sau một khoảng bằng bao nhiêu kim điện kế lại lệch nhiều nhất?",
+    "image": null,
+    "options": ["0,4 mm", "0,8 mm", "0,6 mm", "0,3 mm"],
+    "correct": 2,
+    "explanation": "Vị trí mà kim điện kế lệch nhiều nhất chính là vị trí các vân sáng giao thoa ⇒ cứ sau một khoảng vân thì kim điện kế lệch nhiều nhất. Khoảng vân giao thoa được xác định bằng: i = λD/a = (450.10^-9.2,4)/(1,5.10^-3) = 6.10^-4 m = 0,6mm.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Hai học sinh đang trao đổi về nhiệt độ ở Bắc cực: - Học Sinh 1: 'Một số vùng ở Bắc cực nhiệt độ có thể xuống đến âm 45 độ.' - Học sinh 2: 'Bạn đang nói đến nhiệt độ trong thang nhiệt độ Kelvin hay Celsius?' Trong các phát biểu sau, phát biểu nào là chính xác khi nhận xét về học sinh 1 và 2.",
+    "image": null,
+    "options": ["Học sinh 1 đã nêu đầy đủ thông và và câu hỏi 2 là không cần thiết.", "Học sinh 1 chưa nêu rõ về thang nhiệt độ và và câu hỏi của học sinh 2 là có nghĩa.", "Học sinh 1 và 2 đều đưa ra những thông tin chính xác.", "Học sinh 1 chưa nêu rõ thang đo nhưng câu hỏi của học sinh 2 không có ý nghĩa vì thang nhiệt Kelvin không có các giá trị nhiệt độ âm."],
+    "correct": 3,
+    "explanation": "Học sinh 1 chưa nêu rõ thang đo nhiệt độ (Celsius hay Kelvin), dẫn đến sự thiếu rõ ràng trong thông tin. Học sinh 2 đặt câu hỏi về thang đo, tuy nhiên thang nhiệt độ Kelvin không có giá trị âm (0 K là giá trị thấp nhất, tương đương -273,15°C). Vì vậy, câu hỏi của học sinh 2 không có ý nghĩa trong bối cảnh này.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Khi một lượng nước nhất định chuyển từ trạng thái lỏng sang trạng thái hơi, công do các phân tử thực hiện chống lại áp suất bên ngoài là 450J. Trong quá trình này, nhiệt lượng cung cấp cho hệ thống là 7100J. Bao nhiêu phần trăm tổng nhiệt lượng làm tăng nội năng của các phân tử?",
+    "image": null,
+    "options": ["160J", "80J", "90J", "120J"],
+    "correct": 1,
+    "explanation": "Khi nhận nhiệt và thực hiện công nên ta có: Q > 0, A < 0. ⇒ theo nguyên lí I của nhiệt động lực học: ∆U = Q + A = 7100 - 450 = 6650J. Phần trăm nhiệt lượng làm tăng nội năng: (6650/7100)*100% ≈ 93,66%. (Có vẻ như có sự nhầm lẫn trong dữ liệu đề bài, vì các đáp án đưa ra là các giá trị năng lượng chứ không phải phần trăm. Có lẽ câu hỏi muốn hỏi lượng nhiệt dùng để tăng nội năng là bao nhiêu. Nếu vậy, đáp án là 6650J, không có trong các lựa chọn. Tuy nhiên, dựa trên phương pháp giải đã cho, đáp án là 80J là sai.)",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Ngày nay, tỉ lệ khối lượng 235U/238U = 1/1103. Biết chu kì bán rã của 235U và 238U lần lượt là T1 = 7,04.10^8 năm, T2 = 4,46.10^9 năm. Trái Đất được hình thành cách ngày nay 4,5 tỉ năm. Hãy tìm tỉ lệ khối lượng 235U/238U = m01/m02 tại thời điểm Trái Đất mới hình thành, biết trong quá trình tồn tại 235U và 238U không được tạo ra thêm bởi các phóng xạ.",
+    "image": null,
+    "options": ["0,404", "0,303", "0,04", "0,044"],
+    "correct": 1,
+    "explanation": "Gọi m01, m02 lần lượt là khối lượng ban đầu của 235U và 238U. Tại thời điểm hiện tại, tỉ lệ khối lượng mỗi chất tương ứng còn lại là: m1/m2 = (m01.2^(-t/T1))/(m02.2^(-t/T2)) ⇒ m01/m02 = (m1/m2).(2^(-t/T1))/(2^(-t/T2)) = (1/1103).2^(t/T2 - t/T1) = (1/1103).2^(4,5.10^9/7,04.10^8 - 4,5.10^9/4,46.10^9) = 0,303.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Một vòng dây điện tích S = 100cm2 nối vào tụ điện có điện dung C = 200µF, được đặt trong từ trường đều có véc tơ cảm ứng từ vuông góc với mặt phẳng chứa khung dây, có độ lớn tăng đều 5.10^-2T/s. Tính điện tích tụ điện.",
+    "image": null,
+    "options": ["2.10^-7C", "3.10^-7C", "10^-7C", "4.10^-7C"],
+    "correct": 2,
+    "explanation": "Ta có: U = |ec| = |ΔB|.S/Δt = 5.10^-4 V. Điện tích của tụ điện: q = C.U = 200.10^-6 . 5.10^-4 = 10^-7 C.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Electron có tốc độ v = 8,4.10^6 m/s được cho đi vào vùng có từ trường đều theo phương vuông góc với cảm ứng từ. Electron chuyển động trong từ trường theo một đường tròn. Biết B = 0,5mT, độ lớn điện tích và khối lượng của electron là e = 1,6.10^-19C, m = 9,1.10^-31kg. Bán kính quỹ đạo của electron xấp xỉ bao nhiêu cm?",
+    "image": null,
+    "options": ["9,6cm", "5,64cm", "7,2cm", "4,8cm"],
+    "correct": 0,
+    "explanation": "Lực từ tác dụng lên điện tích q là: F = Bqv sinθ. Mặt khác, lực từ tác dụng đóng vai trò lực hướng tâm, nên ta có: mv^2/r = Bev ⇒ r = mv/(Be) = (9,1.10^-31 . 8,4.10^6)/(0,5.10^-3 . 1,6.10^-19) = 0,09555m = 9,6cm.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Một học sinh làm thí nghiệm như sau. Cho 1kg nước ở 10°C rồi đặt lên bếp điện để đun đến khi nước sôi ở 100°C. Theo dõi thời gian đun học sinh đó ghi chép được các số liệu sau đây: - Để đun nước từ 10°C đến 100°C cần 18 phút. - Để cho 200g nước hóa hơi khi sôi thì cần 23 phút. Biết nhiệt dung riêng của nước là 4180J/kg.K và công suất của bếp điện là không đổi trong quá trình đun, bỏ qua nhiệt dung của ấm và mất mát nhiệt ra môi trường. Xác định công suất của bếp.",
+    "image": null,
+    "options": ["1218 W", "3415 W", "1045 W", "1053 W"],
+    "correct": 2,
+    "explanation": "Nhiệt lượng để làm nóng 1 kg nước từ 10°C lên đến 100°C là: Q = mcΔt = 1.4180.90 = 376200J. Công suất của bếp: P = A/t = Q/t = 376200/(18.60) = 348,33W (Sai số do dữ liệu đề bài). (Có vẻ như có sự nhầm lẫn trong dữ liệu đề bài hoặc đáp án, vì kết quả tính ra là 348W, không có đáp án nào phù hợp. Tuy nhiên, phương pháp giải được sử dụng để xác định công suất của bếp là đúng.)",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Nitrogen là thành phần chính của khí quyển, góp phần trong việc bảo vệ Trái Đất khỏi tác động, phá hủy của bức xạ Mặt Trời. Nitrogen có công thức phân tử là N2. Khí nitrogen chiếm khoảng 78% thể tích của không khí. Hỏi số phân tử nitrogen có trong 5 lít không khí ở điều kiện chuẩn (nhiệt độ 25°C và áp suất 1bar) bằng bao nhiêu?",
+    "image": null,
+    "options": ["0,324.10^24 phân tử", "0,947.10^23 phân tử", "1,237.10^23 phân tử", "0,756.10^23 phân tử"],
+    "correct": 1,
+    "explanation": "Thể tích khí nitrogen có trong 5 lít không khí: V = 78% Vkk = 0,78.5 = 3,9l. Thể tích của khí nitrogen ở điều kiện chuẩn là 24,79(lít). Số mol khí Nitrogen là: nN2 = V/24,79 = 3,9/24,79 = 0,157mol. Số phân tử khí nitrogen có trong 5 lít không khí: N = n.NA = 0,157.6,023.10^23 = 0,947.10^23 phân tử.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Sạc điện thoại không dây hoạt động dựa trên hiện tượng cảm ứng điện từ như máy biến áp. Ở trên sạc có cuộn dây được nối với dòng điện xoay chiều, đóng vai trò như cuộn sơ cấp . Phía sau của điện thoại có cuộn dây được nối với pin, đóng vai trò như cuộn thứ cấp. Giả sử cuộn sơ cấp có 100 vòng dây được nối với điệp áp xoay chiều giá trị hiệu dụng 50V, cuộn thứ cấp nối với pin điện thoại có 10 vòng dây, thì điện áp cuộn thứ cấp bằng bao nhiêu vôn?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "Áp dụng biểu thức máy biến áp: U1/U2 = N1/N2 ⇔ 50/U2 = 100/10 ⇒ U2 = 5V.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Tính vận tốc ban đầu của electron khi nó đi vào vùng I.",
+    "image": null,
+    "options": ["1,5.10^8m/s", "3,5.10^6m/s", "2,7.10^7m/s", "2,5.10^6m/s"],
+    "correct": 2,
+    "explanation": "Động năng ban đầu của electron là: Wd0 = 2.10^3eV = 2.10^3.1,6.10^-19 = 3,2.10^-16 J. Wd0 = 1/2.m.v0^2 ⇒ v0 = √(2.Wd0/m) = √(2.3,2.10^-16/9,1.10^-31) = 2,7.10^7 m/s.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Tính độ lớn của điện trường E giữa các bản và hướng của nó là:",
+    "image": null,
+    "options": ["1,25.10^4V/m", "2,15.10^4V/m", "3,12.10^4V/m", "2,3.10^4V/m"],
+    "correct": 0,
+    "explanation": "Hướng của cường độ điện trường là hướng từ bản dương sang bản âm (từ trên xuống dưới). Độ lớn của điện trường là: E = U/d = 250/0,02 = 1,25.10^4 V/m.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Tính độ lớn của lực điện F tác dụng lên electron khi nó ở trong vùng I.",
+    "image": null,
+    "options": ["1,5.10^-15N", "2,5.10^-15N", "2.10^-15N", "2.10^-16N"],
+    "correct": 2,
+    "explanation": "Lực điện tác dụng lên electron là: F = |q|.E = 1,6.10^-19 . 1,25.10^4 = 2.10^-15 N.",
+    "passage": "Một electron ban đầu chuyển động theo phương ngang và có động năng là 2.10³eV khi nó ở vị trí như hình trên. Nó đi qua một điện trường đều giữa hai tấm nằm ngang tích điện trái dấu (vùng I) và một vùng không có điện trường (vùng II) trước khi cuối cùng đập vào một màn chắn ở khoảng cách 0,08m từ mép của các tấm. Các tấm dài 0,04m và cách nhau một khoảng cách 0,02m. Hiệu điện thế giữa hai tấm là 250V. Trọng lực không đáng kể."
+  },
+  {
+    "id": 201,
+    "question": "Nguyên tố nào có tính phi kim mạnh nhất?",
+    "image": null,
+    "options": ["Si", "S", "F", "O"],
+    "correct": 2,
+    "explanation": "Trong một chu kì, theo chiều tăng điện tích hạt nhân, tính phi kim của các nguyên tố có xu hướng tăng dần → Tính phi kim: Si < S; O < F. (1) Trong một nhóm A, theo chiều tăng điện tích hạt nhân, tính phi kim của các nguyên tố có xu hướng giảm dần → Tính phi kim: S < O. (2) Từ (1) và (2) → Tính phi kim được sắp xếp theo thứ tự: Si < S < O < F. → Nguyên tố F có tính phi kim mạnh nhất trong các nguyên tố đã cho.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Cấu hình electron thu gọn của ion Cr2+ là",
+    "image": null,
+    "options": ["[Ar]3d5 4s1", "[Ar]3d6", "[Ar]3d6 4s2", "[Ar]3d4"],
+    "correct": 3,
+    "explanation": "Cấu hình electron của kim loại: Cr: [Ar]3d5 4s1. → Cấu hình electron của ion: Cr2+: [Ar]3d4.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Trộn CuO với một oxit của kim loại M (M có hóa trị II không đổi, M đứng trước Al trong dãy điện hóa) theo tỉ lệ mol tương ứng là 1:2 được hỗn hợp A. Dẫn một luồng khí CO dư đi qua 3,6 gam A nung nóng đến phản ứng hoàn toàn, thu được hỗn hợp B. Để hòa tan hết B cần 60 ml dung dịch HNO3 2,5M, thu được dung dịch (chỉ chứa chất tan là muối nitrate của kim loại) và V lít khí NO duy nhất (đktc). Kim loại M là",
+    "image": null,
+    "options": ["Ba", "Mg", "Al", "Ca"],
+    "correct": 1,
+    "explanation": "Gọi oxit kim loại phải tìm là MO và số mol CuO và MO trong A lần lượt là a mol và 2a mol. CuO + CO → Cu + CO2. a → a. 3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O. a → 8/3a → 2/3a. MO + 2HNO3 → M(NO3)2 + H2O. 2a → 4a. mA = 3,6 = a.80 + 2a.(M+16) = 0,0225.80 + 2.0,0225.(M+16) → M = 24 → M là Mg thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Trong cốc nước chứa 0,01 mol Na+; 0,02 mol Ca2+; 0,01 mol Mg2+; 0,05 mol HCO3- và 0,02 mol Cl-. Đun sôi cốc nước hồi lâu, nước thu được là",
+    "image": null,
+    "options": ["nước cứng tạm thời", "nước cứng vĩnh cửu", "nước mềm", "nước cứng toàn phần"],
+    "correct": 1,
+    "explanation": "Các phương trình hóa học của phản ứng: 2HCO3- → CO3^2- + CO2 + H2O. CO3^2- + Ca2+ → CaCO3. 0,02 ← 0,02. CO3^2- + Mg2+ → MgCO3. 0,005 ← 0,005. Sau khi đun, trong cốc nước còn lại 0,01 mol Na+; 0,005 mol Mg2+ và 0,02 mol Cl-. Do còn muối MgCl2 nên nước cứng thu được là nước cứng vĩnh cửu.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Tỉ khối hơi của hỗn hợp X (gồm hai hydrocarbon mạch hở) so với H2 là 11,25. Dẫn 1,9832 lít X (đkc) đi thật chậm qua bình đựng dung dịch bromine dư, sau khi phản ứng xảy ra hoàn toàn thấy khối lượng bình tăng 0,84 gam. X phải chứa hydrocarbon nào dưới đây?",
+    "image": null,
+    "options": ["Propyne", "Propane", "Propene", "Propadiene"],
+    "correct": 2,
+    "explanation": "MX = 22,5 → Trong X chắc chắn phải có CH4. Dựa vào đáp án, ta thấy các hydrocarbon đều có 3 carbon nên ta gọi C3Hx. CH4: a, C3Hx: b ⇒ a + b = 0,08; (12.3 + x)b = 0,84; mCH4 = (22,5.0,08 - 0,84) = 0,96 ⇒ a = 0,02; b = 0,06. MC3Hx = 0,84/0,02 = 42 → C3H6 (Propene).",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Phát biểu nào sau đây là sai?",
+    "image": null,
+    "options": ["Aniline tác dụng với nước bromine tạo thành kết tủa trắng.", "Dung dịch lysine làm xanh quỳ tím.", "Dung dịch glycine không làm đổi màu quỳ tím.", "Cho Cu(OH)2 vào dung dịch lỏng trắng trứng thấy xuất hiện màu vàng."],
+    "correct": 3,
+    "explanation": "Đáp án A đúng vì C6H5NH2 + 3Br2 → (2,4,6)-Br3C6H2OH + 3HBr. Đáp án B đúng vì lysine có môi trường base nên làm xanh quỳ tím. Đáp án C đúng vì glycine có môi trường trung tính nên không làm đổi màu quỳ tím. Đáp án D sai vì cho Cu(OH)2 vào dung dịch lỏng trắng trứng thấy xuất hiện màu tím.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Cấu hình electron của nguyên tử nguyên tố X có dạng [Ne]3s2 3p3. Phát biểu nào sau đây là sai?",
+    "image": null,
+    "options": ["X nằm ở ô số 15 trong bảng tuần hoàn.", "X là một phi kim.", "Nguyên tử của nguyên tố X có 8 electron p.", "Nguyên tử của nguyên tố X có 3 phân lớp electron."],
+    "correct": 2,
+    "explanation": "Cấu hình electron đầy đủ của nguyên tử nguyên tố X 1s2 2s2 2p6 3s2 3p3. → Nguyên tử của nguyên tố X có 9 electron p.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Hình ảnh sau là của đơn chất nào?",
+    "image": null,
+    "options": ["fluorine", "bromine", "iodine", "chlorine"],
+    "correct": 1,
+    "explanation": "Ở điều kiện thường: - Fluorine và chlorine tồn tại ở trạng thái khí. - Bromine tồn tại ở trạng thái lỏng. - Iodine tồn tại ở trạng thái rắn.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "HNO3 tác dụng được với tất cả các chất trong dãy nào sau đây?",
+    "image": null,
+    "options": ["NaHCO3, CO2, FeS, Fe2O3", "K2SO3, K2O, Cu, Fe(NO3)2", "FeO, Fe2(SO4)3, FeCO3, Na2O", "CuSO4, CuO, Mg3(PO4)2"],
+    "correct": 1,
+    "explanation": "A sai vì HNO3 không tác dụng với CO2. C sai vì HNO3 không tác dụng với Fe2(SO4)3. D sai vì HNO3 không tác dụng với CuSO4 và Mg3(PO4)2.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Cho dung dịch chứa m gam hỗn hợp gồm phenol (C6H5OH) và acetic acid tác dụng vừa đủ với nước bromine, thu được dung dịch X và 33,1 gam kết tủa 2,4,6-tribromophenol. Trung hòa hoàn toàn X cần vừa đủ 500 ml dung dịch NaOH 1M. Giá trị của m là",
+    "image": null,
+    "options": ["33,4", "21,4", "24,8", "39,4"],
+    "correct": 1,
+    "explanation": "C6H5OH + 3Br2 → C6H2(OH)Br3 + 3HBr. CH3COOH + Br2: không xảy ra. dung dịch X: CH3COOH; HBr. CH3COOH + NaOH → CH3COONa + H2O. HBr + NaOH → NaBr + H2O. Theo đề: n(kết tủa) = 0,1(mol) = n(phenol); n(NaOH) = 0,5.1 = 0,5 mol; n(HBr) = 3.0,1 = 0,3 mol. n(acetic acid) = 0,5 - 0,3 = 0,2 mol. m = 94.0,1 + 60.0,2 = 21,4 gam.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Với đại đa số phi kim, tổng của hóa trị cao nhất với O và hóa trị với H bằng",
+    "image": null,
+    "options": ["4", "8", "6", "2"],
+    "correct": 1,
+    "explanation": "Với đại đa số phi kim, tổng của hóa trị cao nhất với O và hóa trị với H bằng 8.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Acetic acid được sử dụng rộng rãi để điều chế polymer, tổng hợp hương liệu,… Acetic acid được tổng hợp từ nguồn khí than (giá thành rẻ) theo các phản ứng hóa học sau (giả thuyết hiệu suất của mỗi phản ứng đều đạt 90%): CO + 2H2 → CH3OH; CH3OH + CO → CH3COOH. Tính khối lượng khí CO và khí H2 (theo kg) cần dùng để sản xuất được 4 860 lít acetic acid, biết khối lượng riêng của acetic acid là D = 1,05 kg/L.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "6006",
+    "explanation": "Số mol acetic acid là: nCH3COOH = (4860.1,05.10^3)/60 = 85050 mol. ⇒ nH2 = 85050 : 0,9 : 0,9 : 2 = 210000 mol. nCO = 85050 : 0,9 + 85050 : 0,9 : 0,9 = 199500 mol. Vậy tổng khối lượng khí CO và H2 là: (210000.2 + 199500.28).10^-3 = 6006kg.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Phản ứng xảy ra trong hỗn hợp (A) là",
+    "image": null,
+    "options": ["2CH4 + 2H2O ⇌ CH3OH + CO + 4H2.", "2CH4 + H2O ⇌ 2CO2 + 5H2.", "2CH4 + H2O ⇌ CH3OH + H2.", "CH4 + H2O ⇌ CO + 3H2."],
+    "correct": 3,
+    "explanation": "Tại hỗn hợp phản ứng (A), từ CH4 và H2 ban đầu thì khí CO được tổng hợp ⇒ Loại đáp án B và C. Methanol được tổng hợp trong bình (C) ⇒ Loại A. Chọn D.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Sau khi hạ nhiệt độ của hỗn hợp (A) thu được hỗn hợp khí (B) và chất gì ngưng tụ và được loại ra khỏi hệ thống phân ứng qua cổng (4)?",
+    "image": null,
+    "options": ["Nước và CH4.", "Methanol, nước và CH4.", "Nước.", "Methanol và nước."],
+    "correct": 2,
+    "explanation": "Sau khi phản ứng ở (A) diễn ra, hỗn hợp khí (B) thu được sẽ là: CH4, H2O, CO, H2. Vậy tại 25°C, H2O được ngưng tụ và đưa ra ngoài qua cổng (4). Chọn C.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Tổng hợp methanol từ hỗn hợp CO và H2 là quá trình tỏa nhiệt. Để chuyển dịch cân bằng theo chiều tạo ra methanol (tăng hiệu suất tổng hợp methanol), quá trình nên thực hiện ở:",
+    "image": null,
+    "options": ["Nhiệt độ thấp và áp suất cao.", "Nhiệt độ cao và áp suất thấp.", "Nhiệt độ cao và áp suất cao.", "Nhiệt độ thấp và áp suất thấp."],
+    "correct": 0,
+    "explanation": "Phương trình tổng hợp methanol từ hỗn hợp CO và H2 là: CO(k) + 2H2(k) → CH3OH(k) ΔH < 0. - Phản ứng tổng hợp methanol là phản ứng tỏa nhiệt. Vậy để làm tăng hiệu suất tổng hợp methanol, cần làm giảm nhiệt độ của môi trường để phản ứng chuyển dịch theo chiều tỏa nhiệt ra môi trường. - Số mol khí chất tham gia lớn hơn số mol khí sản phẩm. Vậy để phản ứng chuyển dịch theo chiều thuận là chiều làm giảm số mol khí cần thực hiện phản ứng ở điều kiện là áp suất cao. Chọn A.",
+    "passage": "Trong công nghiệp methanol (CH3-OH, nhiệt độ sôi 65ºC) được tổng hợp từ CO và H2 ở nhiệt độ và áp suất theo sơ đồ sau: Khi CO được tổng hợp từ khí thiên nhiên [dòng khí CH4 vào cổng (1) và hơi nước (cổng 2)] trong hỗn hợp phản ứng (A) ở nhiệt độ 200°C và 10 bar. Sau khi phản ứng được hỗn hợp B. Hạ nhiệt độ hỗn hợp (B) về 25°C thu được hỗn hợp khí C (chỉ có CO và H2). Methanol được tổng hợp trong bình phản ứng (C) ở nhiệt độ 250°C, áp suất 80 – 90 bar và chất xúc tác phù hợp."
+  },
+  {
+    "id": 216,
+    "question": "Tế bào nào trong các tế bào sau đây của cơ thể người có nhiều ti thể nhất?",
+    "image": null,
+    "options": ["Tế bào xương.", "Tế bào hồng cầu.", "Tế bào cơ tim.", "Tế bào biểu bì."],
+    "correct": 2,
+    "explanation": "Tế bào cơ tim là loại tế bào có nhu cầu năng lượng rất cao vì cơ tim cần hoạt động liên tục không ngừng để bơm máu đi khắp cơ thể. Để đáp ứng nhu cầu năng lượng lớn này, tế bào cơ tim có nhiều ti thể nhất trong các loại tế bào của cơ thể, giúp tạo ra năng lượng dưới dạng ATP.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Những nhận định nào dưới đây là đúng? (I) Bình 1 không đục do không có tế bào nấm men A. cereviside. (II) Hai bình 2, 3 nước đục sau hai ngày. (III) Bình 2 không bị đục nhiều do không có dinh dưỡng cung cấp cho sự phát triển của S.cerevisiae nên số lượng tế bào ngày càng giảm. (IV) Bình 3 có số lượng tế bào S.cerevisiae chết nhiều làm cho dung dịch trong bình đục hơn ban đầu.",
+    "image": null,
+    "options": ["(I), (II), (III)", "(I), (II), (IV)", "(I), (III), (IV)", "(II), (III), (IV)"],
+    "correct": 0,
+    "explanation": "I đúng: Vì bình 1 không chứa tế bào nấm men A. cerevisiae ban đầu, nên không có sự sinh trưởng của nấm men, do đó dung dịch không đục. II đúng: Bình 2 và bình 3 đều có chứa tế bào nấm men A. cerevisiae ban đầu. Tuy nhiên, chỉ có bình 3 có thêm nguồn dinh dưỡng (đường sucrose), nên nấm men trong bình 3 sẽ sinh trưởng và phát triển mạnh hơn, dẫn đến nước trong cả hai bình bị đục sau hai ngày, nhưng bình 3 đục nhiều hơn. III đúng: Bình 2 không có nguồn dinh dưỡng cần thiết cho sự phát triển của nấm men, vì vậy số lượng tế bào S. cerevisiae sẽ giảm dần, và mức độ đục cũng giảm dần theo thời gian. IV sai: Bình 3 có thêm sucrose làm nguồn dinh dưỡng, giúp tế bào S. cerevisiae phát triển mạnh. Độ đục tăng là do sự phát triển và sinh sản của tế bào, chứ không phải do tế bào chết nhiều hơn.",
+    "passage": "Thí nghiệm đánh giá ảnh hưởng của nguồn dinh dưỡng (đường sucrose) đến sinh trưởng của nấm men rượu A. cereviside được bố trí thí nghiệm như bảng ở nhiệt độ phòng, và thu được kết quả (hình dưới)."
+  },
+  {
+    "id": 301,
+    "question": "Một trong những ứng dụng của công nghệ tế bào là gì?",
+    "image": null,
+    "options": ["Tạo ra các loại thức ăn nhanh.", "Sản xuất các loại thuốc kháng sinh.", "Sản xuất giống cây trồng kháng bệnh.", "Tạo ra các loại đồ uống có gas."],
+    "correct": 2,
+    "explanation": "Một ứng dụng quan trọng của công nghệ tế bào là sản xuất giống cây trồng kháng bệnh. Công nghệ này giúp tạo ra các giống cây có khả năng chống lại sâu bệnh, từ đó tăng năng suất và giảm thiểu sự phụ thuộc vào thuốc bảo vệ thực vật.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Qua những đêm ẩm ướt, vào buổi sáng thường có những giọt nước xuất hiện trên đầu tận cùng của lá (đặc biệt thường thấy ở lá của cây một lá mầm), hiện tượng đó gọi là sự ứ giọt. Phát biểu nào sau đây về hiện tượng này là đúng? (I) Ứ giọt chỉ xuất hiện ở các loài thực vật nhỏ, cây thân bụi thấp. (II) Rễ hấp thụ nhiều nước và thoát hơi nước kém gây ứ giọt. (III) Ứ giọt xảy ra khi độ ẩm không khí tương đối cao. (IV) Chất lỏng hình thành từ hiện tượng ứ giọt là nhựa cây.",
+    "image": null,
+    "options": ["(I), (II)", "(II), (III)", "(I), (III)", "(I), (IV)"],
+    "correct": 1,
+    "explanation": "I sai. Hiện tượng ứ giọt có thể xảy ra ở nhiều loại thực vật, không chỉ giới hạn ở cây nhỏ hay thân bụi thấp. Nhiều cây lớn cũng có thể xuất hiện hiện tượng này. II đúng. Khi rễ hấp thụ nước nhiều nhưng thoát hơi nước kém, nước sẽ được giữ lại trong cây và gây ra hiện tượng ứ giọt. III đúng. Hiện tượng ứ giọt thường xảy ra khi độ ẩm không khí cao, do đó nước không bay hơi dễ dàng. IV sai. Chất lỏng hình thành từ hiện tượng ứ giọt chủ yếu là nước, không phải là nhựa cây. Nhựa cây thường liên quan đến các quá trình khác như chảy nhựa khi cây bị tổn thương.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Nội dung nào sau đây chỉ có ở miễn dịch không đặc hiệu mà không có ở miễn dịch đặc hiệu?",
+    "image": null,
+    "options": ["Hình thành ngay từ khi sinh ra.", "Hình thành dần trong đời sống cá thể.", "Hình thành sau khi tác nhân bệnh xâm nhập.", "Hình thành sau khi tiêm vaccine."],
+    "correct": 0,
+    "explanation": "Miễn dịch không đặc hiệu (hay còn gọi là miễn dịch bẩm sinh) là dạng miễn dịch mà cơ thể đã có sẵn từ khi sinh ra. Nó bao gồm các hàng rào bảo vệ như da, niêm mạc, và các tế bào miễn dịch như bạch cầu. Miễn dịch này hoạt động ngay lập tức để bảo vệ cơ thể khỏi các tác nhân xâm nhập mà không cần phải nhận diện cụ thể. Miễn dịch đặc hiệu (hay còn gọi là miễn dịch thích ứng) phát triển theo thời gian và hình thành sau khi cơ thể tiếp xúc với mầm bệnh hoặc sau khi tiêm vaccine. Nó cần một khoảng thời gian để phát triển và liên quan đến sự hình thành kháng thể và trí nhớ miễn dịch.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Nếu chạm nhẹ vào đầu một con ốc sên đang bò, con ốc sên sẽ rụt đầu vào trong vỏ. Lặp lại kích thích này nhiều lần thì ốc sên không rụt đầu vào vỏ nữa. Đây là một ví dụ về hình thức học tập gì ở ốc sên?",
+    "image": null,
+    "options": ["Học giải quyết vấn đề.", "Học liên hệ.", "Quen nhờn.", "Học xã hội."],
+    "correct": 2,
+    "explanation": "Quen nhờn là một hình thức học tập xảy ra khi một động vật mất đi phản ứng với một kích thích đã được lặp lại nhiều lần và không gây ra hậu quả tiêu cực. Trong trường hợp này, con ốc sên ban đầu rụt đầu vào trong vỏ khi bị chạm vào, nhưng sau nhiều lần kích thích mà không có nguy hiểm, nó đã 'quen' và không còn phản ứng nữa.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Các nhận định nào sau đây đúng về vòng đời của sinh vật? (I) Là khoảng thời gian tính từ khi cơ thể được sinh ra đến khi già chết. (II) Vòng đời của các loài sinh sản hữu tính bắt đầu từ sơ sinh đến khi trưởng thành già rồi chết. (III) Vòng đời của các loài sinh sản vô tính bắt đầu từ khi hoàn thiện các cơ quan đến khi trưởng thành già rồi chết. (IV) Từ khi cơ thể được sinh ra, lớn lên, phát triển thành cơ thể trưởng thành, sinh sản tạo ra cá thể mới, già đi rồi chết.",
+    "image": null,
+    "options": ["(II), (III)", "(I), (II)", "(I), (III)", "(I), (IV)"],
+    "correct": 3,
+    "explanation": "Nhận định (I) và (IV) đều mô tả đúng về vòng đời của sinh vật. Vòng đời bắt đầu từ khi sinh ra, trái qua quá trình phát triển, sinh sản, già và chết. Nhận định (II) và (III) không chính xác vì vòng đời không phải lúc nào cũng bắt đầu từ sơ sinh mà có thể bắt đầu từ giai đoạn trứng hoặc tế bào gốc, và không phải tất cả sinh vật sinh sản hữu tính đều có các giai đoạn như vậy.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Một đoạn polypeptide ở sinh vật nhân sơ có trình tự các amino acid như sau: … Gly – Arg – Lys – Ser … Bảng dưới đây mô tả các anticodon của tRNA vận chuyển amino acid: Gly: 3'CUU5'; Arg: 3'UUA5'; Lys: 3'UGG5'; Ser: 3'GGA5'. Đoạn mạch gốc của gene mã hóa đoạn polypeptide có trình tự:",
+    "image": null,
+    "options": ["3'TCCCCATAAAAG5'", "3'CTTTTATGGGGA5'", "3'AGGGGTATTTTC5'", "3'GAAAATACCCT5'"],
+    "correct": 1,
+    "explanation": "… Gly – Arg – Lys – Ser … => codon trên mRNA dựa trên anticodon của tRNA: 5'GAA AAU ACC CCU3'. => Vậy, mạch gốc DNA là: 3'CTT TTA TGG GGA5'.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Khi nói về nguyên nhân và cơ chế phát sinh đột biến gene, các nhận định nào sau đây là đúng? (I) Tần số phát sinh đột biến gene không phụ thuộc vào liều lượng, cường độ của tác nhân gây đột biến. (II) Trong quá trình tái bản DNA, sự có mặt của base nitrogen dạng hiếm có thể làm phát sinh đột biến gene. (III) Đột biến gene phát sinh do tác động của các tác nhân lý hoá ở môi trường hay do các tác nhân sinh học. (IV) Đột biến gene được phát sinh chủ yếu trong quá trình tái bản DNA.",
+    "image": null,
+    "options": ["(II), (III), (IV)", "(I), (II), (III)", "(I), (III), (IV)", "(I), (IV)"],
+    "correct": 0,
+    "explanation": "I sai. Tần số phát sinh đột biến gene không phụ thuộc vào liều lượng, cường độ của tác nhân gây đột biến. II đúng. Trong quá trình tái bản DNA, sự có mặt của base nitrogen dạng hiếm có thể phát sinh đột biến gene ⇒ phát sinh đột biến thay thế. III đúng. Đột biến gene phát sinh do tác động của các tác nhân lý hoá ở môi trường hay do các tác nhân sinh học ⇒ chính là nguyên phân phát sinh đột biến. IV đúng. Đột biến gene được phát sinh chủ yếu trong quá trình tái bản DNA ⇒ chính là cơ chế chính phát sinh đột biến gene.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Một loài động vật, gen A nằm trên nhiễm sắc thể thường quy định màu lông có 3 alen. Alen A1 quy định lông đen trội hoàn toàn so với alen A2 quy định lông xám và alen A3 quy định lông trắng, Alen A2 trội hoàn toàn so với alen A3. Một quần thể đang cân bằng di truyền có 64% số cá thể lông đen; 27% số cá thể lông xám; 9% số cá thể lông trắng. Tần số alen A1, A2, A3 lần lượt là:",
+    "image": null,
+    "options": ["0,4; 0,2; 0,4", "0,4; 0,3; 0,3", "0,3; 0,2; 0,5", "0,3; 0,5; 0,2"],
+    "correct": 1,
+    "explanation": "Trong quần thể đang có: 64% cá thể lông đen: A1A1 + 2A1A2 + 2A1A3 = 0,64. 27% cá thể lông xám: A2A2 + 2A2A3 = 0,27. 9% cá thể lông trắng: A3A3 = 0,09 => r = A3 = √0,09 = 0,3. Mà p + q + r = 1 => p + q = 0,7. => A1 = p = 0,4; A2 = q = 0,3; A3 = r = 0,3.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Cho các phương pháp sau đây: (I) Tiến hành lai hữu tính giữa các giống khác nhau. (II) Sử dụng kĩ thuật di truyền để chuyển gene. (III) Gây đột biến nhân tạo bằng các tác nhân vật lý, hóa học. (IV) Loại bỏ những cá thể không mong muốn. Có bao nhiêu phương pháp có thể tạo ra nguồn biến dị di truyền cung cấp cho quá trình chọn giống?",
+    "image": null,
+    "options": ["(II), (III), (IV)", "(I), (II), (III)", "(I), (II), (IV)", "(I), (III), (IV)"],
+    "correct": 1,
+    "explanation": "I đúng. Phương pháp này tạo ra biến dị tổ hợp qua quá trình tái tổ hợp di truyền, do đó, có thể tạo ra nguồn biến dị di truyền. II đúng. Kỹ thuật này tạo ra các biến dị di truyền mới khi một hoặc nhiều gene từ nguồn khác được chuyển vào genome của sinh vật, vì vậy nó tạo ra nguồn biến dị di truyền. III đúng. Phương pháp này tạo ra các đột biến gene hoặc đột biến nhiễm sắc thể, cung cấp nguồn biến dị di truyền mới. IV không đúng. Phương pháp này chỉ là quá trình chọn lọc, không tạo ra biến dị di truyền mới.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Gene b gây chứng phenylceton niệu về phương diện di truyền đây là bệnh gây ra do rối loạn sự chuyển hóa phenylalanine. Allele B quy định sự chuyển hóa bình thường, sơ đồ dưới đây, vòng tròn biểu thị giới nữ, hình vuông biểu thị giới nam, còn tổ đen biểu thị người mắc chứng phenylceton niệu. Xác suất mang gene bệnh của người con gái (3) là bao nhiêu phần trăm?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "67",
+    "explanation": "Cặp vợ chồng ở thế hệ thứ 2 bình thường sinh con gái bị bệnh chứng tỏ tính trạng bị bệnh do gene lặn trên NST thường quy định. Cặp vợ chồng I1 × I2 đều bình thường, sinh 1 người con trai bị bệnh, người con trai bị bệnh này có kiểu gene aa sẽ nhận 1a từ bố và 1a từ mẹ. Do vậy I1 và I2 đều có kiểu gene Aa. Người con gái 3 bình thường có thể có kiểu gene: 1/3 AA: 2/3 Aa nên xác suất mang gene bệnh của người con gái (3) là 2/3 ≈ 67%.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Khi nói về biến động số lượng cá thể của quần thể sinh vật, các nhận định nào sau đây là đúng? (I) Biến động số lượng được coi là phản ứng tổng hợp của quần thể trước sự biến đổi của điều kiện sống, đặc biệt là nguồn thức ăn và không gian sống cũng như các nhân tố môi trường khác. (II) Biến động không theo chu kì thường xảy ra với các loài sinh vật có kích thước nhỏ và tuổi thọ thấp. (III) Các loài sinh vật có kích thước nhỏ và tuổi thọ thấp thường biến động theo chu kì ngày đêm. (IV) Cạnh tranh là nhân tố duy nhất điều chỉnh số lượng cá thể của quần thể.",
+    "image": null,
+    "options": ["(I), (III)", "(I), (II)", "(III), (IV)", "(II), (III)"],
+    "correct": 0,
+    "explanation": "I đúng. II sai. Biến động không theo chu kì thường xảy ra với những loài có vùng phân bố hẹp và kích thước quần thể nhỏ. III đúng. Các loài sinh vật có kích thước nhỏ và tuổi thọ thấp thường biến động theo chu kì ngày đêm. Ví dụ như số lượng cá thể của các loài thực vật nổi tăng vào ban ngày, giảm vào ban đêm. Ngược lại, số lượng cá thể của các loài động vật nổi lại tăng vào ban đêm, giảm vào ban ngày do chúng sinh sản tập trung vào ban đêm. IV sai. Cạnh tranh không là nhân tố duy nhất điều chỉnh số lượng cá thể của quần thể. Ngoài sự cạnh tranh giữa các cá thể trong quần thể còn có sự di cư, mối quan hệ con mồi – vật ăn thịt, vật chủ - kí sinh cùng là những cơ chế quan trọng điều chỉnh số lượng cá thể của quần thể.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Quá trình hình thành loài khác khu vực địa lí diễn ra theo trình tự nào sau đây? (1) Sự khác biệt về vốn gen ngày càng nhiều dẫn đến cách li sinh sản giữa các quần thể với nhau và với quần thể gốc đã hình thành loài mới. (2) Trong những điều kiện địa lí khác nhau, CLTN và các nhân tố tiến hóa đã làm biến đổi vốn gen của các quần thể theo các hướng thích nghi khác nhau. (3) Các quần thể của loài bị chia cắt bởi các chướng ngại địa lí hoặc khu phân bố được mở rộng.",
+    "image": null,
+    "options": ["(2) → (3) → (1)", "(3) → (1) → (2)", "(3) → (2) → (1)", "(1) → (2) → (3)"],
+    "correct": 2,
+    "explanation": "Quá trình hình thành loài khác khu vực địa lý thường diễn ra qua các bước sau: - Chia tách quần thể (3): Các quần thể của loài bị chia cắt bởi các chướng ngại địa lý (như núi, sông, biển) hoặc do sự mở rộng khu phân bố. Việc này dẫn đến sự phân tách gen giữa các quần thể. - Biến đổi vốn gen (2): Trong các điều kiện địa lý khác nhau, chọn lọc tự nhiên (CLTN) và các nhân tố tiến hóa (như đột biến, di cư) sẽ làm biến đổi vốn gen của các quần thể theo các hướng thích nghi khác nhau. - Hình thành loài mới (1): Sự khác biệt về vốn gen giữa các quần thể ngày càng nhiều sẽ dẫn đến sự cách li sinh sản giữa các quần thể với nhau và với quần thể gốc, từ đó hình thành loài mới.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Loài ong bắp cày Gyranusoidea tebygi được đưa vào để kiểm soát loài rệp sáp Rastroccocus invadens hại xoài. Dựa vào các dữ liệu so sánh dưới đây, lý do nào sau đây KHÔNG phải là ưu điểm của G. tebygi trong việc kiểm soát R. invadens?",
+    "image": null,
+    "options": ["G.tebygi có thời gian từ khi trứng nở đến khi trưởng thành ngắn hơn so với R. invadens.", "G.tebygi có khả năng sinh sản nhiều trứng hơn R. invadens.", "Tỷ lệ ấu trùng mang giới tính cái của G. tebygi cao hơn nhiều so với R. invadens.", "G.tebygi ký sinh lên ấu trùng của R. invadens và tiêu diệt chúng."],
+    "correct": 1,
+    "explanation": "Ý B không đúng. Trong bảng dữ liệu, R. invadens sinh sản trung bình 16 trứng mỗi ngày, cao hơn nhiều so với G. tebygi, chỉ sinh sản 2 trứng mỗi ngày. Do đó, khả năng sinh sản của G. tebygi không phải là một ưu điểm trong việc kiểm soát R. invadens.",
+    "passage": "Rệp sáp hại xoài (Rastrococcus invadens) được tìm thấy lần đầu tiên tại Ghana vào năm 1982 và đã trở thành một loài gây hại nghiêm trọng cho cây trồng ở đây. Thuốc trừ sâu không khống chế được loài này, vì vậy một loài ong bắp cày, Gyrannusoidea tebygi, đã được đưa vào để kiểm soát sự phá hoại của rệp sáp hại xoài. Loài ong bắp cày này ăn rệp sáp xoài trưởng thành và cũng đẻ trứng bên trong ấu trùng. Khi trứng của ong bắp cày nở, ấu trùng xuất hiện ăn ấu trùng rệp sáp, thậm chí còn tiêu diệt chúng. Bảng dưới đây đưa ra sự so sánh dữ liệu của hai loài."
+  },
+  {
+    "id": 314,
+    "question": "Nội dung nào dưới đây là nguyên nhân chung dẫn đến sự chuyển hóa của Hội Việt Nam Cách mạng Thanh niên, phân hóa của Tân Việt Cách mạng đảng và thất bại của Việt Nam Quốc dân Đảng?",
+    "image": null,
+    "options": ["Thực dân Pháp đàn áp dã man những người yêu nước Việt Nam.", "Tư tưởng dân chủ tư sản đã không còn phù hợp với lịch sử dân tộc.", "Phong trào yêu nước cần có một lãnh đạo phù hợp hơn.", "Chủ nghĩa Mác-Lênin được truyền bá vào trong phong trào yêu nước."],
+    "correct": 3,
+    "explanation": "Chủ nghĩa Mác-Lênin được truyền bá vào trong phong trào yêu nước là nguyên nhân chung dẫn đến sự chuyển hóa của Hội Việt Nam Cách mạng Thanh niên, phân hóa của Tân Việt Cách mạng đảng và thất bại của Việt Nam Quốc dân Đảng.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Từ việc kí kết hiệp định Giơ-ne-vơ năm 1954 về Đông Dương, Chính phủ nước Việt Nam Dân chủ Cộng hòa có được kinh nghiệm gì trong quá trình đàm phán và kí Hiệp định Pari về Việt Nam năm 1973?",
+    "image": null,
+    "options": ["Căn cứ vào bối cảnh quốc tế để có đường lối đấu tranh ngoại giao phù hợp.", "Kiên trì dựa vào sự giúp đỡ của các nước lớn trong đấu tranh ngoại giao.", "Hòa bình ở Việt Nam cần được giải quyết ở một hội nghị quốc tế.", "Phát huy tối đa thắng lợi trên bàn đàm phán."],
+    "correct": 3,
+    "explanation": "Từ việc kí kết hiệp định Giơ-ne-vơ năm 1954 về Đông Dương, Chính phủ nước Việt Nam Dân chủ Cộng hòa đã phát huy tối đa thắng lợi trên bàn đàm phán và kí Hiệp định Pari về Việt Nam năm 1973.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Phong trào cách mạng 1930-1931 và phong trào dân chủ 1936-1939 ở Việt Nam có điểm tương đồng nào dưới đây?",
+    "image": null,
+    "options": ["Đề ra những mục tiêu và hình thức đấu tranh mới và quyết liệt.", "Sử dụng hình thức đấu tranh phong phú.", "Để lại bài học kinh nghiệm về lãnh đạo quần chúng đấu tranh hợp pháp.", "Tổ chức các lực lượng yêu nước trong một mặt trận dân tộc thống nhất."],
+    "correct": 1,
+    "explanation": "Phong trào cách mạng 1930-1931 và phong trào dân chủ 1936-1939 ở Việt Nam có điểm tương đồng là sử dụng hình thức đấu tranh phong phú.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Một trong những điểm khác nhau giữa chiến dịch Hồ Chí Minh năm 1975 với chiến dịch Điện Biên Phủ năm 1954 ở Việt Nam là gì?",
+    "image": null,
+    "options": ["Hình thức vận động.", "Kết cục quân sự.", "Quyết tâm giành thắng lợi.", "Sự huy động lực lượng đến mức cao nhất."],
+    "correct": 0,
+    "explanation": "Một trong những điểm khác nhau giữa chiến dịch Hồ Chí Minh năm 1975 với chiến dịch Điện Biên Phủ năm 1954 ở Việt Nam là về hình thức vận động.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Nét mới trong phong trào dân tộc tư sản ở Đông Nam Á sau Chiến tranh thế giới thứ nhất là",
+    "image": null,
+    "options": ["chỉ tập trung đấu tranh đòi quyền lợi chính trị.", "đã thành lập được các chính đảng tư sản.", "kiên quyết từ bỏ con đường cải lương.", "có sự liên minh giữa giai cấp vô sản và nông dân."],
+    "correct": 1,
+    "explanation": "Nét mới trong phong trào dân tộc tư sản ở Đông Nam Á sau Chiến tranh thế giới thứ nhất là đã thành lập được các chính đảng tư sản.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Trong công cuộc xây dựng CNXH nhân dân Liên Xô phải tiến hành công nghiệp hóa xuất phát từ lí do nào?",
+    "image": null,
+    "options": ["Công nghiệp hoá thành công sẽ làm cho Mĩ nể sợ.", "Công nghiệp hoá sẽ trang bị cơ sở vật chất cho Liên Xô.", "Công nghiệp hoá sẽ giúp Liên Xô trở thành cường quốc công nghiệp đứng số 1 thế giới.", "Công nghiệp hoá sẽ giúp Liên Xô từ một nước nông nghiệp trở thành cường quốc công nghiệp."],
+    "correct": 3,
+    "explanation": "Trong công cuộc xây dựng CNXH nhân dân Liên Xô phải tiến hành công nghiệp hóa xuất phát từ lí do Công nghiệp hoá sẽ giúp Liên Xô từ một nước nông nghiệp trở thành cường quốc công nghiệp.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Có nhiều lý do để Nguyễn Tất Thành chọn nước Pháp làm điểm đến đầu tiên trong hành trình tìm đường cứu nước, ngoại trừ việc",
+    "image": null,
+    "options": ["đã được tiếp xúc với văn minh Pháp ở Việt Nam.", "muốn tìm hiểu bản chất của 'Tự do - Bình đẳng - Bác ái'.", "muốn hiểu rõ kẻ thù để đánh đuổi kẻ thù đó.", "Pháp là nước tư bản giàu mạnh nhất châu Âu."],
+    "correct": 3,
+    "explanation": "Có nhiều lý do để Nguyễn Tất Thành chọn nước Pháp làm điểm đến đầu tiên trong hành trình tìm đường cứu nước, ngoại trừ việc Pháp là nước tư bản giàu mạnh nhất châu Âu.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Chiến dịch nào mở màn cho cuộc Tổng tiến công và nổi dậy Xuân năm 1975 của quân dân ở đâu?",
+    "image": null,
+    "options": ["Tây Nguyên", "Huế - Đà Nẵng", "Hồ Chí Minh", "Đường 14 - Phước Long"],
+    "correct": 0,
+    "explanation": "Chiến dịch mở màn cho cuộc Tổng tiến công và nổi dậy Xuân năm 1975 là chiến dịch Tây Nguyên (từ ngày 4-3 đến ngày 24-3-1975).",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Cách mạng tháng Tám năm 1945 ở Việt Nam và Cách mạng Cuba năm 1959 đều",
+    "image": null,
+    "options": ["xóa bỏ áp bức của chủ nghĩa thực dân mới.", "chịu tác động bởi sự đối đầu giữa hai hệ thống xã hội đối lập.", "thành lập được chính quyền dân chủ nhân dân.", "có nhiệm vụ chống đế quốc, phong kiến để đòi tự do dân chủ."],
+    "correct": 2,
+    "explanation": "Cách mạng tháng Tám năm 1945 ở Việt Nam và Cách mạng Cuba năm 1959 đều thành lập được chính quyền dân chủ nhân dân (Việt Nam: Chính quyền Việt Nam Dân chủ Cộng hòa; Cuba: Cộng hòa Cuba).",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam có đặc điểm",
+    "image": null,
+    "options": ["kết hợp khởi nghĩa giành chính quyền ở nông thôn và thành thị.", "khởi nghĩa giành chính quyền từ thành thị về nông thôn.", "khởi nghĩa giành chính quyền từ nông thôn ra thành thị.", "khởi nghĩa giành chính quyền chỉ diễn ra ở thành thị."],
+    "correct": 2,
+    "explanation": "Cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam có đặc điểm khởi nghĩa giành chính quyền từ nông thôn ra thành thị vì Giữa tháng 8/1945, khí thế cách mạng sôi sục. Căn cứ vào tình hình cụ thể của địa phương và vận dụng chỉ thị 'Nhật –Pháp bắn nhau và hành động của chúng ta' nhiều địa phương tuy chưa nhận được lệnh đã phát động khởi nghĩa. 18/8/1945 Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Ngãi đã giành được chính quyền sớm nhất, 19/8 Hà Nội giành thắng lợi, 20/8 Huế giành chính quyền,…",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Ở Việt Nam, từ đầu thế kỉ XX đến năm 1925, chống đế quốc là nhiệm vụ chủ yếu của phong trào dân tộc dân chủ vì một trong những lí do nào sau đây?",
+    "image": null,
+    "options": ["Mâu thuẫn giai cấp trong xã hội đã được giải quyết triệt để.", "Chỉ có thể chống phong kiến sau khi lật đổ chế độ thực dân.", "Chỉ giải phóng dân tộc mới giải phóng được con người.", "Mâu thuẫn giữa các giai cấp trong xã hội không sâu sắc."],
+    "correct": 2,
+    "explanation": "Giai đoạn 1919-1925, Pháp thực hiện cuộc khai thác thuộc địa lần thứ 2. Chính sách cai trị kìm hãm sự phát triển của Việt Nam. Không xóa bỏ giai cấp địa chủ phong kiến, biến giai cấp thành công cụ phục vụ cho khai thác; không du nhập hoàn chỉnh phương thức sản xuất TBCN vào VN, kết hợp 2 phương thức bóc lột tư bản và phong kiến để kiếm lợi nhuận. Như vậy, chống đế quốc quốc là nhiệm vụ chủ yếu của phong trào dân tộc dân chủ vì Chỉ giải phóng dân tộc mới giải phóng được con người.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Đội Việt Nam Tuyên truyền giải phóng quân được thành lập khi nào?",
+    "image": null,
+    "options": ["Ngày 22-12-1944", "Ngày 22-12-1945", "Ngày 22-12-1946", "Ngày 22-12-1947"],
+    "correct": 0,
+    "explanation": "Đội Việt Nam Tuyên truyền giải phóng quân được thành lập ngày 22-12-1944 tại khu rừng giữa hai tổng Hoàng Hoa Thám và Trần Hưng Đạo thuộc châu Nguyên Bình, tỉnh Cao Bằng.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Đội trưởng của đội Đội Việt Nam Tuyên truyền giải phóng quân là ai?",
+    "image": null,
+    "options": ["Hoàng Sâm", "Xích Thắng", "Văn Tiên", "Võ Nguyên Giáp"],
+    "correct": 0,
+    "explanation": "Đội trưởng của đội Đội Việt Nam Tuyên truyền giải phóng quân là Hoàng Sâm.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Trung ương Đảng và lãnh tụ Hồ Chí Minh giao cho ai nhiệm vụ thành lập Đội?",
+    "image": null,
+    "options": ["Hoàng Sâm", "Xích Thắng", "Văn Tiên", "Võ Nguyên Giáp"],
+    "correct": 3,
+    "explanation": "Đồng chí Võ Nguyên Giáp được Trung ương Đảng và lãnh tụ Hồ Chí Minh ủy nhiệm tổ chức, lãnh đạo, chỉ huy tuyên bố thành lập Đội' Nhiệm vụ mà Đoàn thể ủy thác cho chúng ta là một nhiệm vụ quan trọng và nặng nề.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "'Thời gian này' trong tư liệu nhằm nhắc tới khoảng thời gian nào dưới đây?",
+    "image": null,
+    "options": ["Thời gian sau khi Hiệp định Pari được kí kết.", "Thời gian sau khi Mĩ đưa quân vào Việt Nam.", "Thời gian sau khi Nhật đưa quân vào Việt Nam.", "Thời gian sau khi kí kết Hiệp định Giơ-ne-vơ."],
+    "correct": 3,
+    "explanation": "Đây là giai đoạn thực hiện các quy định của Hiệp định Giơ-ne-vơ năm 1954 về việc kết thúc chiến tranh tại Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Yếu tố nào dưới đây không thể hiện chính sách khoan hồng của Đảng và Chính phủ giai đoạn từ sau Hiệp định Giơ-ne-vơ 1954?",
+    "image": null,
+    "options": ["Giải quyết công ăn việc làm cho các binh lính Việt Nam hoàn lương.", "Trao trả các tù binh chiến tranh.", "Tăng cường giáo dục, đẩy mạnh tiễu phỉ.", "Trao trả các tù binh chính trị."],
+    "correct": 2,
+    "explanation": "Các đáp án A, B, D: Đều thể hiện rõ chính sách khoan hồng của Đảng và Chính phủ đối với những người đã từng tham gia chiến tranh hoặc có quan điểm chính trị khác biệt. Việc giải quyết công ăn việc làm, trao trả tù binh là những hành động cụ thể nhằm hòa giải, đoàn kết dân tộc. Đáp án C: 'Tăng cường giáo dục, đẩy mạnh tiễu phỉ' lại mang tính chất đấu tranh, trấn áp đối với những phần tử chống đối chính quyền. Hành động này nhằm mục tiêu ổn định tình hình xã hội nhưng không phải là một biểu hiện của chính sách khoan hồng.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Yếu tố sâu xa nào khiến Mĩ tiến vào chiến tranh ở Việt Nam sau khi thực dân Pháp thất bại?",
+    "image": null,
+    "options": ["Mĩ muốn đưa miền Bắc Việt Nam thành 'con đê' ngăn cản 'làn sóng đỏ'.", "Mĩ muốn chiếm đoạt tài nguyên thiên nhiên ở Việt Nam.", "Mĩ muốn biến miền Nam Việt Nam thành một quốc gia quân chủ lập hiến.", "Mĩ Muốn biến miền Nam Việt Nam thành nơi ngăn chặn sự phát triển của chủ nghĩa cộng sản."],
+    "correct": 3,
+    "explanation": "Các đáp án A, B, C: Mặc dù các yếu tố này cũng có thể ảnh hưởng đến quyết định của Mỹ trong việc can thiệp vào Việt Nam, nhưng chúng không phải là động cơ chính và sâu xa nhất. Đáp án D: Đây mới là lý do cốt lõi khiến Mỹ quyết định tham chiến ở Việt Nam. Trong bối cảnh Chiến tranh Lạnh, Mỹ coi chủ nghĩa cộng sản là mối đe dọa lớn đối với hệ thống tư bản chủ nghĩa. Việc Việt Nam Dân chủ Cộng hòa giành thắng lợi ở miền Bắc và có xu hướng lan rộng ảnh hưởng sang miền Nam đã khiến Mỹ lo ngại về sự sụp đổ của 'đế chế thực dân' của mình ở Đông Dương và sự lan rộng của chủ nghĩa cộng sản ra khu vực Đông Nam Á.",
+    "passage": "Đồng thời, cũng trong thời gian này ta còn đấu tranh đòi Pháp thi hành điều 21 của Hiệp định Giơnevơ về việc trao trả tù binh và thường dân bị giam giữ trong chiến tranh. Ta đã trao trả cho Pháp 6800 tù binh Âu-Phi và 2360 tù binh thuộc quốc tịch Việt Nam. Pháp cũng trao trả cho ta 7350 tù binh, 18350 tù binh chính trị và tỉnh nghi, 37.900 thường dân bị giam giữ trong chiến tranh. Chính sách khoan hồng nhân đạo của Đảng và Chính phủ ta đã làm cho cuộc vận động binh lính địch thu được kết quả to lớn. Trên 60% binh lính ngụy đã bỏ trốn về với nhân dân. Ta còn giải quyết công ăn việc làm, đời sống cho hàng vạn binh lính ngụy và những nhân viên chính quyền cũ ở lại với miền Bắc. Thực hiện chỉ thị của Ban Bí thư trung ương Đảng ngày 16-4-1955 về phá âm mưu gây phỉ của đế quốc Mỹ và tay sai, các địa phương đã tăng cường giáo dục quần chúng, đẩy mạnh tiễu phỉ trừ gian kết hợp với sản xuất, ổn định đời sống. Hàng nghìn tên phi đã bị tiêu diệt, hàng ngàn người làm đường đã quay trở về với gia đình bản làng. (Đại cương Lịch sử Việt Nam tập 3, tr.137)"
+  },
+  {
+    "id": 414,
+    "question": "Nhân tố khởi đầu trong quá trình hình thành đất là",
+    "image": null,
+    "options": ["khí hậu", "sinh vật", "đá mẹ", "địa hình"],
+    "correct": 2,
+    "explanation": "Nhân tố khởi đầu trong quá trình hình thành đất là đá mẹ. Các đặc tính của đá mẹ như màu sắc, cấu tạo, thành phần khoáng sẽ tác động đến tính chất lí, hóa của đất.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Sản lượng khai thác thủy sản trên thế giới ngày càng tăng không phải do",
+    "image": null,
+    "options": ["nhu cầu tiêu thụ lớn.", "công nghệ đánh bắt hiện đại.", "tàu thuyền được đầu tư.", "diện tích mặt nước lớn."],
+    "correct": 3,
+    "explanation": "Gạch chân từ khóa: khai thác. Sản lượng khai thác thủy sản trên thế giới ngày càng tăng không phải do diện tích mặt nước lớn vì đây là điều kiện thuận lợi cho ngành nuôi trồng thủy sản phát triển.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Vấn đề nào sau đây được coi là tiền đề quan trọng để phát triển kinh tế - xã hội?",
+    "image": null,
+    "options": ["An ninh năng lượng", "An ninh nguồn nước", "An ninh mạng", "An ninh lương thực"],
+    "correct": 0,
+    "explanation": "An ninh năng lượng được coi là tiền đề quan trọng để phát triển kinh tế - xã hội.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Ngoại thương của Trung Quốc ngày càng phát triển chủ yếu do",
+    "image": null,
+    "options": ["mở rộng thêm nhiều đối tác thương mại.", "hoạt động sản xuất trong nước phát triển.", "sản phẩm mẫu mã đẹp, giá thành rẻ.", "sản phẩm đa dạng, chất lượng cao."],
+    "correct": 0,
+    "explanation": "Gạch chân từ khóa: ngoại thương. Ngoại thương gồm hai hoạt động: xuất khẩu và nhập khẩu. => Ngoại thương của Trung Quốc ngày càng phát triển chủ yếu do mở rộng thêm nhiều đối tác thương mại trên thế giới. Yếu tố này tác động cả hai phương diện xuất khẩu và nhập khẩu.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Đặc điểm nào sau đây không đúng với dân cư Liên bang Nga?",
+    "image": null,
+    "options": ["Đông dân.", "Cơ cấu dân số già.", "Ít dân tộc.", "Mật độ dân số rất thấp."],
+    "correct": 2,
+    "explanation": "Ít dân tộc là đặc điểm không đúng với dân cư Liên bang Nga vì đây là một quốc gia đa sắc tộc với khoảng 100 dân tộc khác nhau.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Cho bảng số liệu giá trị tổng số dân, số dân thành thị của Thái Lan và In-đô-nê-xi-a năm 2000 và 2020, (đơn vị: triệu người): Năm: 2000, 2020. Thái Lan: Tổng số dân: 62,9; 69,8. Số dân thành thị: 19,8; 35,7. In-đô-nê-xi-a: Tổng số dân: 211,5; 271,7. Số dân thành thị: 88,6; 154,2. Dựa vào bảng số liệu, nhận xét nào sau đây đúng về tỉ lệ dân thành thị của Thái Lan và In-đô-nê-xi-a năm 2000 và 2020?",
+    "image": null,
+    "options": ["In-đô-nê-xi-a thấp hơn và tăng nhiều hơn.", "In-đô-nê-xi-a cao hơn và tăng ít hơn.", "Thái Lan thấp hơn và tăng ít hơn.", "Thái Lan cao hơn và tăng ít hơn."],
+    "correct": 1,
+    "explanation": "Tỉ lệ dân thành thị = (Số dân thành thị/Tổng số dân)*100. => Tỉ lệ dân thành thị của Thái Lan năm 2000 và năm 2020 lần lượt là 31,5%; 51,1% (tăng 19,6%). Tỉ lệ dân thành thị của In-đô-nê-xi-a năm 2000 và năm 2020 lần lượt là 41,9%; 56,8% (tăng 14,9%). => In-đô-nê-xi-a cao hơn và tăng ít hơn là nhận xét đúng.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Cho bảng số liệu về sản lượng thủy sản của Đồng bằng sông Cửu Long và cả nước giai đoạn 2000 – 2022: (Đơn vị: nghìn tấn). Năm: 2000, 2010, 2015, 2022. Đồng bằng sông Cửu Long: 1169,1; 2990,4; 3539,5; 4617,2. Cả nước: 2250,5; 5142,7; 6237,5; 8244,3. Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về sản lượng thuỷ sản của Đồng bằng sông Cửu Long và cả nước giai đoạn 2000 - 2022?",
+    "image": null,
+    "options": ["Sản lượng thủy sản của Đồng bằng sông Cửu Long chiếm tỉ trọng ngày càng cao trong cơ cấu sản lượng thủy sản cả nước do vùng khai thác ngày càng hiệu quả các lợi thế về tự nhiên.", "Sản lượng thủy sản của Đồng bằng sông Cửu Long chiếm tỉ trọng ngày càng cao trong cơ cấu sản lượng thủy sản cả nước do vùng áp dụng công nghệ cao vào khai thác thủy sản.", "Sản lượng thủy sản của Đồng bằng sông Cửu Long luôn đứng đầu trong cả nước do vùng có ngư trường trọng điểm, hệ thống sông ngòi, kênh rạch chằng chịt, khí hậu tương đối ổn định.", "Sản lượng thủy sản của Đồng bằng sông Cửu Long luôn đứng đầu trong cả nước do vùng có diện tích mặt nước lớn, ứng dụng công nghệ cao, xây dựng dịch vụ hậu cần nghề cá."],
+    "correct": 3,
+    "explanation": "C sai vì Đồng bằng sông Cửu Long không có ngư trường trọng điểm. Tỉ trọng sản lượng thủy sản ở Đồng bằng sông Cửu Long trong tổng sản lượng thủy sản cả nước năm 2000, 2010, 2015, 2022 lần lượt là: 51,9%; 57,4%; 56,2% và 56,0%. => Sản lượng thủy sản của Đồng bằng sông Cửu Long luôn đứng đầu trong cả nước do vùng có diện tích mặt nước lớn, ứng dụng công nghệ cao, xây dựng dịch vụ hậu cần nghề cá là nhận xét đúng.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Cho bảng số liệu về nhiệt độ trung bình các tháng tại trạm Vinh và Quy Nhơn năm 2023: (Đơn vị: °C). Tháng: I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII. Vinh: 17,3; 18,1; 21,9; 25,1; 28,0; 30,2; 31,3; 30,1; 28,1; 25,4; 22,3; 18,3. Quy Nhơn: 23,2; 24,0; 25,6; 27,4; 29,4; 30,0; 30,3; 30,6; 30,0; 28,6; 26,7; 24,0. Nhận xét nào sau đây đúng với bảng số liệu trên?",
+    "image": null,
+    "options": ["Số tháng có nhiệt độ trung bình trên 25°C ở Quy Nhơn ít hơn Vinh.", "Biên độ nhiệt trung bình năm của Vinh cao hơn Quy Nhơn.", "Nhiệt độ trung bình năm ở Quy Nhơn thấp hơn Vinh.", "Nhiệt độ trung bình tháng 7 ở Quy Nhơn cao hơn Vinh."],
+    "correct": 1,
+    "explanation": "A sai vì số tháng có nhiệt độ trung bình trên 25°C ở Vinh là 7 tháng (từ tháng 4 đến tháng 10), Quy Nhơn là 8 tháng (từ tháng 4 đến tháng 11) ⇒ Số tháng có nhiệt độ trung bình trên 25°C ở Quy Nhơn nhiều hơn Vinh. B đúng vì biên độ nhiệt của Vinh là 31,3 – 17,3 = 14°C, Quy Nhơn là 31,4 – 23,2 = 8,2°C. C sai vì nhiệt độ trung bình năm ở Quy Nhơn là 27,8°C và Vinh là 25,5°C ⇒ Nhiệt độ trung bình năm ở Quy Nhơn cao hơn Vinh. D sai vì nhiệt độ trung bình tháng 7 ở Quy Nhơn là 30,3°C và ở Vinh là 31,3°C ⇒ Nhiệt độ trung bình tháng 7 ở Vinh cao hơn Quy Nhơn.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Giới hạn của đai nhiệt đới gió mùa ở miền Nam nước ta khác so với miền Bắc chủ yếu do",
+    "image": null,
+    "options": ["gió mùa Đông Bắc, vị trí gần với chí tuyến Bắc, hoạt động của frông.", "năm ở vĩ độ thấp hơn, các gió hướng tây nam, Tín phong bán cầu Bắc.", "năm ở vĩ độ cao hơn, Tín phong bán cầu Bắc, Tín phong bán cầu Nam.", "Tín phong bán cầu Nam, năm xa chí tuyến Bắc, có nhiều cao nguyên."],
+    "correct": 1,
+    "explanation": "A sai vì gió mùa Đông Bắc, vị trí gần với chí tuyến Bắc, hoạt động của frông là các đặc điểm của miền Bắc. C sai vì miền Nam nằm ở vĩ độ thấp hơn miền Bắc. D sai vì giới hạn của đai nhiệt đới gió mùa ở miền Nam nước ta khác so với miền Bắc chủ yếu do gió Tín phong bán cầu Bắc. Hơn nữa, địa hình nhiều cao nguyên không phải là nguyên nhân. => Giới hạn của đai nhiệt đới gió mùa ở miền Nam nước ta khác so với miền Bắc chủ yếu do nằm ở vĩ độ thấp hơn, các gió hướng tây nam, Tín phong bán cầu Bắc.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Biểu đồ thể hiện nội dung về tỉ suất sinh thô và tỉ suất từ thô của nước ta giai đoạn 2005 – 2021: (Nguồn: Niên giám thống kê 2021, Nxb Thống kê, 2022). Biểu đồ trên thể hiện nội dung nào sau đây?",
+    "image": null,
+    "options": ["Sự thay đổi cơ cấu tỉ suất sinh thô và tỉ suất từ thô.", "Tốc độ tăng trưởng tỉ suất sinh thô và tỉ suất từ thô.", "Sự thay đổi tỉ suất sinh thô và tỉ suất tử thô.", "Chuyển dịch cơ cấu tỉ suất sinh thô và tỉ suất tử thô."],
+    "correct": 2,
+    "explanation": "Dựa vào phần chú thích và đơn vị được thể hiện trên biểu đồ ta thấy: đường thể hiện tỉ suất tử thô xuất phát từ mốc 5,3‰; đường thể hiện tỉ suất sinh thô xuất phát từ mốc 18,6‰. => Biểu đồ thể hiện sự thay đổi tỉ suất sinh thô và tỉ suất tử thô. A, B, D sai vì cơ cấu, tốc độ tăng trưởng, chuyển dịch cơ cấu có đơn vị là %.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Đặc điểm nổi bật về mặt dân cư - lao động của Đồng bằng sông Hồng là",
+    "image": null,
+    "options": ["dân số đông, nguồn lao động dồi dào và có trình độ.", "lao động có trình độ cao và phân bố dân cư khá đều.", "nguồn lao động chuyên môn đông, có nhiều dân tộc.", "tỉ lệ dân thành thị cao, mật độ dân số còn khá thấp."],
+    "correct": 0,
+    "explanation": "Đặc điểm nổi bật về mặt dân cư - lao động của Đồng bằng sông Hồng là dân số đông, nguồn lao động dồi dào và có trình độ. B sai vì vùng phân bố dân cư không đều. C sai vì vùng nào ở nước ta cũng có nhiều dân tộc sinh sống nên đây không phải là điểm nổi bật. D sai vì Đồng bằng sông Hồng là vùng có mật độ dân số cao nhất cả nước.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nước ta có mưa nhiều vào mùa hạ chủ yếu do tác động của",
+    "image": null,
+    "options": ["gió mùa mùa hạ, địa hình, dải hội tụ và áp thấp nhiệt đới.", "địa hình nhiều đồi núi, bão, dải hội tụ và áp thấp nhiệt đới.", "gió từ áp cao Bắc Ấn Độ Dương, Tín phong bán cầu Bắc và bão.", "Tín phong bán cầu Bắc, địa hình, bão và dải hội tụ nhiệt đới."],
+    "correct": 0,
+    "explanation": "Nước ta có mưa nhiều vào mùa hạ chủ yếu do tác động của gió mùa mùa hạ, địa hình, dải hội tụ và áp thấp nhiệt đới. B sai thiếu yếu tố quan trọng nhất gây mưa chủ yếu vào mùa hạ nước ta là gió mùa mùa hạ (gió hướng tây nam và gió mùa Tây Nam). C, D sai vì gió Tín phong bán cầu Bắc gây ra hiện tượng khô, nóng.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Hoạt động ngoại thương của vùng Đông Nam Bộ ngày càng phát triển chủ yếu do",
+    "image": null,
+    "options": ["tăng cường hội nhập quốc tế và sự phát triển mạnh của nền kinh tế.", "khai thác và chế biến tài nguyên khoáng sản biển đạt hiệu quả cao.", "mức sống của dân cư cao và vốn đầu tư ngoài Nhà nước tăng nhanh.", "đa dạng hóa thị trường và phân quyền trong quản lí hành chính."],
+    "correct": 0,
+    "explanation": "Ngoại thương là các hoạt động xuất, nhập khẩu hàng hóa. Hoạt động ngoại thương của vùng Đông Nam Bộ ngày càng phát triển chủ yếu do tăng cường hội nhập quốc tế và sự phát triển mạnh của nền kinh tế.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Sự đa dạng, phong phú về tài nguyên biển và hải đảo là cơ sở thuận lợi để",
+    "image": null,
+    "options": ["phát triển mạnh các ngành kinh tế biển.", "giải quyết việc làm, thu hút nhà đầu tư.", "giữ vững an ninh quốc phòng đất nước.", "nâng cao chất lượng cuộc sống dân cư."],
+    "correct": 0,
+    "explanation": "Sự đa dạng, phong phú về tài nguyên biển và hải đảo là cơ sở thuận lợi để phát triển mạnh các ngành kinh tế biển (ví dụ: vùng biển rộng, nhiều hải sản => thuận lợi phát triển ngành khai thác hải sản; nhiều bãi biển đẹp => thuận lợi phát triển ngành du lịch biển;...)",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống có quy mô rất lớn ở nước ta là",
+    "image": null,
+    "options": ["Hà Nội, Thành phố Hồ Chí Minh.", "Hà Nội, Hải Phòng.", "Đà Nẵng, Thành phố Hồ Chí Minh.", "Hải Phòng, Cần Thơ."],
+    "correct": 0,
+    "explanation": "Quan sát bản đồ, kết hợp phần chú giải về quy mô các trung tâm công nghiệp. Các trung tâm công nghiệp có quy mô rất lớn có vòng tròn to nhất. Việt Nam có 2 trung tâm công nghiệp sản xuất, chế biến thực phẩm, sản xuất đồ uống có quy mô rất lớn là Hà Nội, Thành phố Hồ Chí Minh.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Nhận xét nào sau không đúng với công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống ở nước ta?",
+    "image": null,
+    "options": ["Ngành công nghiệp này đóng góp lớn vào kim ngạch xuất khẩu của nước ta.", "Nguyên liệu đầu vào chủ yếu dựa vào sản phẩm nông nghiệp và thủy sản.", "Ngành công nghiệp này có sự phân bố trương đối đồng đều trên cả nước.", "Sản phẩm đa dạng, đáp ứng nhu cầu của thị trường trong nước và quốc tế."],
+    "correct": 2,
+    "explanation": "Ngành công nghiệp này có sự phân bố trương đối đồng đều trên cả nước là nhận xét không đúng vì dựa vào bản đồ ta thấy ngành công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống mặc dù phân bố rộng khắp cả nước nhưng phân bố không đều, tập trung nhiều nhất Đông Nam Bộ, Đồng bằng sông Hồng và Đồng bằng sông Cửu Long.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống phân bố chủ yếu ở Đông Nam Bộ, Đồng bằng sông Hồng do các vùng này có",
+    "image": null,
+    "options": ["nguồn nguyên liệu phong phú, thị trường tiêu thụ lớn.", "công nghệ hiện đại, thu hút được nhiều đầu tư.", "cơ sở hạ tầng phát triển, lao động dồi dào.", "chất lượng lao động cao, có nhiều truyền thống."],
+    "correct": 0,
+    "explanation": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm, sản xuất đồ uống phân bố chủ yếu ở Đông Nam Bộ, Đồng bằng sông Hồng do các vùng này có đầu vào là nguồn nguyên liệu phong phú (nguyên liệu từ nông, lâm, thủy sản), đầu ra là thị trường tiêu thụ lớn (gồm cả trong và ngoài nước rộng lớn).",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Dựa vào bản đồ dưới đây và kiến thức đã học, trả lời các câu hỏi từ 515 đến 517: (Bản đồ các trung tâm công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống ở Việt Nam)",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "",
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống có quy mô rất lớn ở nước ta là",
+    "image": null,
+    "options": ["Hà Nội, Thành phố Hồ Chí Minh", "Hà Nội, Hải Phòng", "Đà Nẵng, Thành phố Hồ Chí Minh", "Hải Phòng, Cần Thơ"],
+    "correct": 0,
+    "explanation": "Quan sát bản đồ, kết hợp phần chú giải về quy mô các trung tâm công nghiệp. Các trung tâm công nghiệp có quy mô rất lớn có vòng tròn to nhất. Việt Nam có 2 trung tâm công nghiệp sản xuất, chế biến thực phẩm, sản xuất đồ uống có quy mô rất lớn là Hà Nội, Thành phố Hồ Chí Minh.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Nhận xét nào sau không đúng với công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống ở nước ta?",
+    "image": null,
+    "options": ["Ngành công nghiệp này đóng góp lớn vào kim ngạch xuất khẩu của nước ta.", "Nguyên liệu đầu vào chủ yếu dựa vào sản phẩm nông nghiệp và thủy sản.", "Ngành công nghiệp này có sự phân bố trương đối đồng đều trên cả nước.", "Sản phẩm đa dạng, đáp ứng nhu cầu của thị trường trong nước và quốc tế."],
+    "correct": 2,
+    "explanation": "Ngành công nghiệp này có sự phân bố trương đối đồng đều trên cả nước là nhận xét không đúng vì dựa vào bản đồ ta thấy ngành công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống mặc dù phân bố rộng khắp cả nước nhưng phân bố không đều, tập trung nhiều nhất Đông Nam Bộ, Đồng bằng sông Hồng và Đồng bằng sông Cửu Long.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm; sản xuất đồ uống phân bố chủ yếu ở Đông Nam Bộ, Đồng bằng sông Hồng do các vùng này có",
+    "image": null,
+    "options": ["nguồn nguyên liệu phong phú, thị trường tiêu thụ lớn.", "công nghệ hiện đại, thu hút được nhiều đầu tư.", "cơ sở hạ tầng phát triển, lao động dồi dào.", "chất lượng lao động cao, có nhiều truyền thống."],
+    "correct": 0,
+    "explanation": "Các trung tâm công nghiệp sản xuất, chế biến thực phẩm, sản xuất đồ uống phân bố chủ yếu ở Đông Nam Bộ, Đồng bằng sông Hồng do các vùng này có đầu vào là nguồn nguyên liệu phong phú (nguyên liệu từ nông, lâm, thủy sản), đầu ra là thị trường tiêu thụ lớn (gồm cả trong và ngoài nước rộng lớn).",
+    "passage": null
+  }
+]

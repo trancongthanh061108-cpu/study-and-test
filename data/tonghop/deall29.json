@@ -1,0 +1,1180 @@
+[
+  {
+    "id": 101,
+    "question": "Đặt một cốc đầy nước lên trên tờ giấy. Tác dụng rất nhanh một lực F theo phương nằm ngang của tờ giấy thì hiện tượng gì sẽ xảy ra với tờ giấy và cốc nước?",
+    "image": null,
+    "options": [
+      "Tờ giấy rời khỏi cốc nước mà nước vẫn không đổ.",
+      "Tờ giấy chuyển động về một hướng, cốc nước chuyển động theo hướng ngược lại.",
+      "Tờ giấy chuyển động và cốc nước chuyển động theo.",
+      "Tờ giấy bị đứt ở chỗ đặt cốc nước."
+    ],
+    "correct": 0,
+    "explanation": "Do quán tính, cốc nước không kịp thay đổi vận tốc (vẫn bằng 0) khi lực tác dụng trong thời gian ngắn.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Trong môn trượt tuyết, một vận động viên sau khi trượt trên đoạn đường dốc thì trượt ra khỏi dốc theo phương ngang ở độ cao 90m so với mặt đất. Người đó bay xa được 180m trước khi chạm đất. Hỏi tốc độ của vận động viên đó khi rời khỏi dốc là bao nhiêu? Lấy g = 9,8m/s².",
+    "image": null,
+    "options": [
+      "53m/s.",
+      "25m/s.",
+      "42m/s.",
+      "36m/s."
+    ],
+    "correct": 2,
+    "explanation": "t = √(2s/g) ≈ 4,29 s → v₀ = L/t ≈ 42 m/s.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Khảo sát dao động điều hòa của một con lắc đơn, vật dao động nặng 200g, tích điện q = -400μC tại nơi có gia tốc trọng trường 10 m/s². Khi chưa có điện trường chu kì dao động điều hòa là T. Khi có điện trường đều phương thẳng đứng thì chu kì dao động điều hòa là 2T. Điện trường đều sẽ:",
+    "image": null,
+    "options": [
+      "hướng xuống và E = 7,5 kV/m.",
+      "hướng lên và E = 7,5 kV/m.",
+      "hướng xuống và E = 3,75 kV/m.",
+      "hướng lên và E = 3,75 kV/m."
+    ],
+    "correct": 2,
+    "explanation": "g' = g/4 → F = qE hướng lên (E hướng xuống) → E = 3,75 kV/m.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Một miếng gỗ dán hình vuông trên mặt bàn nằm ngang chịu tác dụng của hai lực nằm ngang như hình vẽ. Lực thứ ba có độ lớn 5N phải được tác dụng vào đâu để đưa miếng gỗ dán vào trạng thái cân bằng?",
+    "image": null,
+    "options": [
+      "Hình A.",
+      "Hình B.",
+      "Hình C.",
+      "Hình D."
+    ],
+    "correct": 0,
+    "explanation": "Theo quy tắc momen lực, lực thứ ba phải tác dụng như Hình A để ΣF = 0 và ΣM = 0.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Hai nguồn kết hợp A, B cùng pha, cùng biên độ, cách nhau 40 cm. Khoảng cách giữa hai điểm dao động với biên độ cực đại gần nhau nhất trên đoạn AB là 0,8 cm. Điểm M thuộc miền giao thoa cách nguồn A một đoạn 25cm và cách nguồn B một đoạn 22cm. Dịch chuyển nguồn B từ từ dọc theo phương AB ra xa nguồn A đoạn 10 cm thì số lần điểm M chuyển thành điểm dao động với biên độ cực đại là:",
+    "image": null,
+    "options": [
+      "6 lần",
+      "8 lần",
+      "7 lần",
+      "5 lần"
+    ],
+    "correct": 3,
+    "explanation": "λ = 1,6 cm. Khi B dịch chuyển, Δd thay đổi từ 3 cm đến -5,8 cm → k = -3;-2;-1;0;1 → 5 lần.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Một chiếc thuyền dài L = 4m, khối lượng M = 150kg và một người khối lượng m = 50kg trên thuyền. Ban đầu thuyền và người đều đứng yên trên nước yên lặng. Người đi với vận tốc đều từ đầu này đến đầu kia của thuyền. Bỏ qua mọi lực cản. Xác định độ dịch chuyển của thuyền. Lấy đơn vị là mét.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Hệ kín → s_thuyền = L·m/(M+m) = 1 m.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Để đo khối lượng nước trong các giọt sương mù trong không khí, người ta cho không khí chứa sương mù vào trong một cái bình kín có thành trong suốt dưới áp suất 100kPa và nhiệt độ 0°C. Làm nóng khí chậm đến 82°C thì sương mù chứa trong 1m³ không khí là:",
+    "image": null,
+    "options": [
+      "180g.",
+      "350g.",
+      "100g.",
+      "305g."
+    ],
+    "correct": 3,
+    "explanation": "p' = 130 kPa → p_hơi = 50 kPa → m = 305 g.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Dùng bếp điện để đun một ấm nhôm khối lượng 600g đự 1,5l nước ở nhiệt độ 20°C. Sau 35 phút đã có 20% lượng nước trong ấm hoá hơi ở nhiệt độ sôi 100°C. Tính nhiệt lượng trung bình mà bếp điện cung cấp cho ấm nước trong mỗi giây, biết chỉ có 75% nhiệt lượng mà bếp tỏa ra được dùng vào việc đun ấm nước. Biết nhiệt dung riêng của nhôm là 880J/kg.K, của nước là 4200J/kg.K; nhiệt hoá hơi của nước ở nhiệt độ sôi 100°C là 2,26.10⁶J/kg. Khối lượng riêng của nước là 1kg/l.",
+    "image": null,
+    "options": [
+      "871J.",
+      "777J.",
+      "648J.",
+      "581J."
+    ],
+    "correct": 1,
+    "explanation": "Q_cần = 1 224 240 J → Q_bếp = 1 632 320 J → Q_tb = 777 J/s.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Một thiết bị điện xoay chiều có các điện áp định mức ghi trên thiết bị là 100V. Thiết bị đó chịu được điện áp tối đa là:",
+    "image": null,
+    "options": [
+      "100V.",
+      "100√2 V.",
+      "200V.",
+      "50√2 V."
+    ],
+    "correct": 1,
+    "explanation": "Điện áp định mức là hiệu dụng → U_max = 100√2 V.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Một anten vệ tinh có công suất phát sóng là 1570W hướng về một vùng của Trái Đất. Tín hiệu nhận được từ vệ tinh ở vùng đó trên mặt đất có cường độ là 5.10⁻¹⁰ W/m². Bán kính đáy của hình nón tiếp xúc với mặt đất được vệ tinh phủ sóng là:",
+    "image": null,
+    "options": [
+      "1000km.",
+      "500km.",
+      "10000km.",
+      "5000km."
+    ],
+    "correct": 0,
+    "explanation": "R = √(P/(Iπ)) = 1000 km.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Công nghệ NFC (Near Field Communication) là công nghệ truyền không dây tầm ngắn cho phép các thiết bị trao đổi dữ liệu khi chúng được đặt gần nhau, thường là trong khoảng cách vài centimet, nó hoạt động dựa trên hiện tượng nào sau đây?",
+    "image": null,
+    "options": [
+      "Hiện tượng cảm ứng điện từ.",
+      "Hiện tượng giao thoa ánh sáng.",
+      "Hiện tượng nhiệt điện.",
+      "Hiện tượng siêu dẫn."
+    ],
+    "correct": 0,
+    "explanation": "NFC hoạt động dựa trên hiện tượng cảm ứng điện từ.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Hạt nhân ²¹⁰₈₄Po đang đứng yên thì phóng xạ α, ngay sau phóng xạ đó, động năng của hạt α:",
+    "image": null,
+    "options": [
+      "lớn hơn động năng của hạt nhân con.",
+      "chỉ có thể nhỏ hơn hoặc bằng động năng của hạt nhân con.",
+      "bằng động năng của hạt nhân con.",
+      "nhỏ hơn động năng của hạt nhân con."
+    ],
+    "correct": 0,
+    "explanation": "Do bảo toàn động lượng, W_α ≈ 51,5 W_Pb → lớn hơn động năng hạt nhân con.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "So sánh đèn sợi đốt và điện trở nhiệt thuận. Phát biểu nào sau đây là đúng?",
+    "image": null,
+    "options": [
+      "Điện trở của cả hai đều tăng nhanh theo nhiệt độ.",
+      "Điện trở của cả hai đều tăng chậm theo nhiệt độ.",
+      "Điện trở đèn sợi đốt tăng nhanh hơn so với điện trở nhiệt thuận.",
+      "Điện trở đèn sợi đốt tăng chậm hơn so với điện trở nhiệt thuận."
+    ],
+    "correct": 3,
+    "explanation": "Điện trở đèn sợi đốt tăng chậm hơn thermistor PTC.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Một mẫu vật chứa 200g C¹⁴ (đồng vị Carbon phóng xạ) có độ phóng xạ là 375 phân rã/phút. Tính tuổi của mẫu vật. Biết rằng độ phóng xạ của cơ thể sống bằng 15 phân rã/phút tính trên 1g Carbon và chu kì bán rã của C¹⁴ là 5730 năm.",
+    "image": null,
+    "options": [
+      "27190 năm.",
+      "1190 năm.",
+      "17190 năm.",
+      "17450 năm."
+    ],
+    "correct": 2,
+    "explanation": "H₀ = 3000 → 375 = 3000·2^(-t/5730) → t = 17190 năm.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Suất điện động cảm ứng trong thanh MN có độ lớn là:",
+    "image": null,
+    "options": [
+      "3,6.10⁻²V.",
+      "1,5.10⁻⁵V.",
+      "2,5.10⁻⁶V.",
+      "3.10⁻⁴V."
+    ],
+    "correct": 0,
+    "explanation": "e = Bvl = 0,6·0,2·0,3 = 3,6·10⁻² V.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Dòng điện trong mạch có cường độ:",
+    "image": null,
+    "options": [
+      "2.10⁻³A.",
+      "1,3.10⁻²A.",
+      "1,8.10⁻²A.",
+      "2,4.10⁻³A."
+    ],
+    "correct": 2,
+    "explanation": "I = e/R = 3,6·10⁻² / 2 = 1,8·10⁻² A.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Lực kéo thanh MN chuyển động đều với tốc độ đã cho là:",
+    "image": null,
+    "options": [
+      "1,54.10⁻⁴N.",
+      "2,54.10⁻⁴N.",
+      "1,67.10⁻⁴N.",
+      "3,24.10⁻⁴N."
+    ],
+    "correct": 3,
+    "explanation": "F = BIl = 0,6·1,8·10⁻²·0,3 = 3,24·10⁻⁴ N.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Cho phản ứng hoá học: Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). Sau 40 giây, nồng độ của dung dịch HCl giảm từ 0,8 M về còn 0,6 M. Tốc độ trung bình của phản ứng theo nồng độ HCl trong 40 giây là",
+    "image": null,
+    "options": [
+      "2,5.10⁻³ (M/s).",
+      "3,6.10⁻³ (M/s).",
+      "0,6.10⁻³ (M/s).",
+      "1,5.10⁻³ (M/s)."
+    ],
+    "correct": 0,
+    "explanation": "v = −(1/2)·(ΔC/Δt) = 2,5·10⁻³ M/s.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Cellulose trinitrate được điều chế từ nitric acid và cellulose (hiệu suất phản ứng 90% tính theo nitric acid). Để có 14,85 kg cellulose trinitrate cần V lít dung dịch nitric acid 96% (d = 1,5 g/ml). Giá trị của V là",
+    "image": null,
+    "options": [
+      "11,50.",
+      "6,56.",
+      "16,40.",
+      "7,29."
+    ],
+    "correct": 3,
+    "explanation": "n_HNO₃ phản ứng = 0,15 mol → n_HNO₃ dùng = 1/6 mol → V = 7,29 lít.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Cho 1 gam hỗn hợp X gồm C và S tác dụng hết với lượng dư dung dịch H₂SO₄ đặc, nóng, thu được a mol hỗn hợp khí Y gồm SO₂ và CO₂. Hấp thụ toàn bộ sản phẩm vào 500 ml dung dịch NaOH 1M thu được dung dịch chứa 26,3 gam chất tan. Biết các phản ứng xảy ra hoàn toàn. Giá trị của a là",
+    "image": null,
+    "options": [
+      "0,12 mol.",
+      "0,15 mol.",
+      "0,25 mol.",
+      "0,27 mol."
+    ],
+    "correct": 1,
+    "explanation": "x = 0,03; y = 0,02 → a = 0,15 mol.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Cho 4 lít N₂ và 14 lít H₂ vào bình kín rồi nung nóng với xúc tác thích hợp để phản ứng xảy ra, sau phản ứng thu được 16,4 lít hỗn hợp khí (các khí đo ở cùng điều kiện nhiệt độ và áp suất). Thể tích khí ammonia thu được là",
+    "image": null,
+    "options": [
+      "1,2 lít.",
+      "1,4 lít.",
+      "1,6 lít.",
+      "1,8 lít."
+    ],
+    "correct": 2,
+    "explanation": "x = 0,8 lít N₂ phản ứng → V_NH₃ = 1,6 lít.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Cấu hình electron lớp ngoài cùng của nguyên tử kim loại kiềm là",
+    "image": null,
+    "options": [
+      "ns¹.",
+      "ns².",
+      "ns²np¹.",
+      "(n-1)dˣnsʸ."
+    ],
+    "correct": 0,
+    "explanation": "Kim loại kiềm có cấu hình ns¹.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Nhiệt tạo thành của một chất là",
+    "image": null,
+    "options": [
+      "biến thiên enthalpy của phản ứng tạo thành 2 mol chất đó từ các hợp chất ở dạng bền vững nhất, ở điều kiện xác định.",
+      "biến thiên enthalpy của phản ứng tạo thành 1 mol chất đó từ các hợp chất ở dạng bền vững nhất, ở điều kiện xác định.",
+      "biến thiên enthalpy của phản ứng tạo thành 1 mol chất đó từ các đơn chất ở dạng bền vững nhất, ở điều kiện xác định.",
+      "biến thiên enthalpy của phản ứng tạo thành 2 mol chất đó từ các đơn chất ở dạng bền vững nhất, ở điều kiện xác định."
+    ],
+    "correct": 2,
+    "explanation": "Nhiệt tạo thành là ΔH của phản ứng tạo 1 mol chất từ các đơn chất bền vững nhất.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Trong phản ứng: 2FeCl₃ + H₂S → 2FeCl₂ + S + 2HCl. Vai trò của H₂S là",
+    "image": null,
+    "options": [
+      "chất oxi hóa.",
+      "chất khử.",
+      "chất tạo môi trường.",
+      "vừa axit vừa khử."
+    ],
+    "correct": 1,
+    "explanation": "S²⁻ tăng số oxi hóa từ −2 lên 0 → H₂S là chất khử.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Khử 1,6 gam hỗn hợp 2 aldehyde no, mạch hở bằng khí H₂ thu được hỗn hợp 2 alcohol. Đun nóng hỗn hợp hai alcohol này với H₂SO₄ đặc ở 180°C thu được hỗn hợp 2 olefin là đồng đẳng kế tiếp. Đốt cháy hai olefin này được 3,52 gam CO₂. Biết các phản ứng xảy ra hoàn toàn. Công thức của hai aldehyde là",
+    "image": null,
+    "options": [
+      "HCHO và CH₃CHO.",
+      "CH₃CHO và CH₂(CHO)₂.",
+      "CH₃CHO và C₂H₅CHO.",
+      "C₂H₅CHO và C₃H₇CHO."
+    ],
+    "correct": 2,
+    "explanation": "n_CO₂ = 0,08; n_aldehyde = 0,03 → C̄ = 2,667 → CH₃CHO và C₂H₅CHO.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Cho dãy biến hóa sau: X → Y → Z → T → Na₂SO₄. X, Y, Z, T có thể là các chất nào sau đây?",
+    "image": null,
+    "options": [
+      "FeS₂, SO₂, SO₃, H₂SO₄.",
+      "S, SO₂, SO₃, NaHSO₄.",
+      "FeS₂, SO₂, SO₃, NaHSO₄.",
+      "Cả 3 phương án trên đều đúng."
+    ],
+    "correct": 3,
+    "explanation": "Cả ba dãy đều có thể dẫn đến Na₂SO₄.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Thủy phân không hoàn toàn x gam tetrapeptide Gly-Ala-Gly-Val trong môi trường acid thu được 0,2 mol Gly-Ala, 0,3 mol Gly-Val, 0,3 mol Ala và m gam hỗn hợp 2 amino acid Gly và Val. Xác định giá trị của m?",
+    "image": null,
+    "options": [
+      "57,2.",
+      "82,1.",
+      "60,9.",
+      "65,2."
+    ],
+    "correct": 2,
+    "explanation": "n_Gly = 0,5; n_Val = 0,2 → m = 60,9.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Cho các dẫn xuất halogen sau: (1) C₂H₅F; (2) C₂H₅Br; (3) C₂H₅I; (4) C₂H₅Cl. Thứ tự giảm dần nhiệt độ sôi là",
+    "image": null,
+    "options": [
+      "(3) > (2) > (4) > (1).",
+      "(1) > (4) > (2) > (3).",
+      "(1) > (2) > (3) > (4).",
+      "(3) > (2) > (1) > (4)."
+    ],
+    "correct": 0,
+    "explanation": "Nhiệt độ sôi tăng theo thứ tự F < Cl < Br < I.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Kim loại có độ cứng lớn nhất trong tất cả các kim loại là",
+    "image": null,
+    "options": [
+      "W.",
+      "Cr.",
+      "Fe.",
+      "Cu."
+    ],
+    "correct": 1,
+    "explanation": "Crom có độ cứng lớn nhất trong các kim loại.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Tính acid của dung dịch hydrohalic acid tăng dần theo thứ tự",
+    "image": null,
+    "options": [
+      "HF < HCl < HBr < HI.",
+      "HCl < HF < HI < HBr.",
+      "HI < HCl < HBr < HF.",
+      "HBr < HCl < HF < HI."
+    ],
+    "correct": 0,
+    "explanation": "Tính acid tăng theo thứ tự HF < HCl < HBr < HI.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Năm 2020, một vụ nổ tại thủ đô Beirut, Lebanon đã cướp đi sinh mạng hàng trăm người. Nguyên nhân vụ nổ được cho là sự phân hủy 2 750 tấn ammonium nitrate trên một tàu hàng bỏ hoang theo phương trình hóa học sau: NH₄NO₃(s) → N₂O(g) + 2H₂O(g). Nhiệt của vụ nổ trên tương đương với lượng nhiệt của bao nhiêu tấn thuốc nổ TNT (2,4,6-trinitrotoluene), biết nhiệt tỏa ra khi 1 kg thuốc nổ TNT phát nổ là 1,165 MJ. Biết 1 MJ = 1.10⁶ J.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "1062",
+    "explanation": "Q = 1,2375·10⁶ MJ → số tấn TNT = 1062.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Để một phản ứng không tự xảy ra ở mọi nhiệt độ thì",
+    "image": null,
+    "options": [
+      "ΔrH° > 0 và ΔrS° < 0.",
+      "ΔrH° < 0 và ΔrS° < 0.",
+      "ΔrH° > 0 và ΔrS° > 0.",
+      "ΔrH° < 0 và ΔrS° > 0."
+    ],
+    "correct": 0,
+    "explanation": "ΔrG° luôn dương khi ΔrH° > 0 và ΔrS° < 0.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Biến thiên enthalpy và entropy của phản ứng 2SO₂(g) + O₂(g) → 2SO₃(g) ở 25°C lần lượt là ΔrH° = −198 kJ và ΔrS° = −187 J/K. Hãy cho biết giá trị của ΔrG° thay đổi như thế nào khi tăng nhiệt độ và ở trên hay dưới khoảng nhiệt độ nào thì phản ứng không xảy ra tự nhiên được? Giả sử giá trị enthalpy và entropy của phản ứng không thay đổi theo nhiệt độ.",
+    "image": null,
+    "options": [
+      "ΔrG° tăng; T < 1059 K.",
+      "ΔrG° tăng; T > 1059 K.",
+      "ΔrG° giảm; T < 1059 K.",
+      "ΔrG° giảm; T > 1059 K."
+    ],
+    "correct": 1,
+    "explanation": "ΔrG° tăng khi T tăng; phản ứng không tự xảy ra khi T > 1059 K.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Xét phản ứng sau: CaCO₃(s) → CaO(s) + CO₂(g). Giả sử giá trị enthalpy và entropy của phản ứng không thay đổi theo nhiệt độ. Mối liên hệ giữa ΔrG° và T (K) của phản ứng trên như sau: Hãy chọn nhận xét sai:",
+    "image": null,
+    "options": [
+      "Phản ứng trên là phản ứng thu nhiệt và có thể tự xảy ra ở nhiệt độ trên 1110K.",
+      "Phản ứng trên không xảy ra ở nhiệt độ phòng nhưng có thể tự xảy ra ở nhiệt độ trên 1110K.",
+      "Phản ứng trên là phản ứng thu nhiệt và không tự xảy ra ở nhiệt độ phòng.",
+      "Phản ứng trên là phản ứng tỏa nhiệt và tự xảy ra ở nhiệt độ phòng."
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng thu nhiệt (ΔrG° giảm khi T tăng) → nhận xét D sai.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Bệnh thiếu máu ở người do thiếu nguyên tố khoáng nào sau đây?",
+    "image": null,
+    "options": [
+      "Oxygen (O).",
+      "Calcium (Ca).",
+      "Sắt (Fe).",
+      "Iodine (I)."
+    ],
+    "correct": 2,
+    "explanation": "Thiếu sắt gây giảm hemoglobin → thiếu máu.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Sự phát triển của sinh học góp phần bảo vệ môi trường được thể hiện qua bao nhiêu thành tựu trong các thành tựu sau đây? I. Sử dụng vi sinh vật để xử lí dầu tràn trên biển. II. Sử dụng vi khuẩn để làm sạch nước nhiễm thủy ngân, chì, sắt. III. Sử dụng hóa chất mạnh để phân hủy rác thải hữu cơ trong môi trường tự nhiên. IV. Sản xuất thuốc trừ sâu sinh học.",
+    "image": null,
+    "options": [
+      "II, III, IV.",
+      "I, III.",
+      "I, II, IV.",
+      "III, IV."
+    ],
+    "correct": 2,
+    "explanation": "I, II, IV đúng; III sai vì hóa chất mạnh gây ô nhiễm.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Tế bào gốc được phân loại dựa trên khả năng gì?",
+    "image": null,
+    "options": [
+      "Khả năng tạo ra các tế bào khác nhau.",
+      "Khả năng sinh sản nhanh.",
+      "Khả năng chịu đựng điều kiện khắc nghiệt.",
+      "Khả năng tồn tại lâu trong môi trường."
+    ],
+    "correct": 0,
+    "explanation": "Phân loại dựa trên khả năng biệt hóa thành các loại tế bào khác nhau.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Sự trương nước hay mất nước của tế bào khí khổng chủ yếu phụ thuộc vào",
+    "image": null,
+    "options": [
+      "Ánh sáng, nhiệt độ.",
+      "Nhiệt độ, lượng nước.",
+      "Ánh sáng, ATP.",
+      "Ánh sáng, pH."
+    ],
+    "correct": 0,
+    "explanation": "Chủ yếu phụ thuộc vào ánh sáng và nhiệt độ.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Ở người tuyến miễn dịch nào sau đây có vai trò ngăn cản, rửa trôi sự xâm nhiễm của tác nhân gây bệnh, ức chế hoặc tiêu diệt tác nhân gây bệnh?",
+    "image": null,
+    "options": [
+      "Miễn dịch dịch thể.",
+      "Miễn dịch không đặc hiệu.",
+      "Miễn dịch đặc hiệu.",
+      "Miễn dịch đặc trưng."
+    ],
+    "correct": 1,
+    "explanation": "Miễn dịch không đặc hiệu (bẩm sinh) là hàng rào đầu tiên.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Bạn B khi ăn quả khế chua vài lần thì sẽ có phản xạ tiết nước bọt khi nghe từ “khế chua”. Đây là một ví dụ về hình thức học tập gì?",
+    "image": null,
+    "options": [
+      "Học giải quyết vấn đề.",
+      "Học liên hệ.",
+      "In vết.",
+      "Học xã hội."
+    ],
+    "correct": 1,
+    "explanation": "Đây là học liên hệ (học có điều kiện).",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Các nhận định đúng về hormone ảnh hưởng đến sự sinh trưởng và phát triển của động vật xương sống và người là? I. Ecdysone kích thích gây biến thái. II. Testosterone kích thích phát triển cơ bắp và chuyển calcium vào xương. III. Estrogen có kích thích phát triển hệ sinh dục ở thời kì phôi thai. IV. Dậy thì chủ yếu là do tác động của tăng testosterone ở nam và tăng estrogen ở nữ.",
+    "image": null,
+    "options": [
+      "II, III, IV.",
+      "I, II, III.",
+      "I, III, IV.",
+      "I, IV."
+    ],
+    "correct": 0,
+    "explanation": "I sai (ecdysone thuộc động vật không xương sống); II, III, IV đúng.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Trong tế bào khả năng biểu hiện của các gene là khác nhau, sự khác nhau đó là do sự biểu hiện của các gene phụ thuộc vào",
+    "image": null,
+    "options": [
+      "điều kiện sống của cá thể và khả năng tìm kiếm thức ăn của từng cá thể.",
+      "chế độ dinh dưỡng và điều kiện môi trường sống xung quanh cá thể.",
+      "giai đoạn phát triển của cá thể và theo nhu cầu hoạt động sống của tế bào.",
+      "nhu cầu dinh dưỡng và điều kiện sức khoẻ của cá thể trước môi trường sống."
+    ],
+    "correct": 2,
+    "explanation": "Phụ thuộc vào giai đoạn phát triển và nhu cầu hoạt động sống của tế bào.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Có bao nhiêu phát biểu sau đây đến điều hòa hoạt động gene ở sinh vật là đúng? I. Điều hoà hoạt động của gene sau phiên mã thực chất là điều khiển sự trưởng thành và thời gian tồn tại của mRNA. II. Ở sinh vật nhân thực, hai gene khác nhau (không bị đột biến) có thể tổng hợp nên các phân tử protein giống nhau. III. Ở sinh vật nhân thực, khi gene bị đột biến thì sản phẩm protein của nó phải khác với sản phẩm protein của gene bình thường. IV. Hoạt động của gene chịu sự kiểm soát chủ yếu của gene điều hoà.",
+    "image": null,
+    "options": [
+      "II, III, IV.",
+      "I, II, III.",
+      "I, II, IV.",
+      "I, III."
+    ],
+    "correct": 2,
+    "explanation": "I, II, IV đúng; III sai.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Một quần thể ngẫu phối, xét các gen: gen 1 có 2 alen nằm trên một cặp NST thường tương đồng; gen 2 và gen 3 mỗi gen đều có 3 alen nằm trên một cặp NST thường tương đồng khác; gen 4 có 4 alen nằm trên vùng tương đồng của cặp NST giới tính XY; gen 5 có 2 alen và gen 6 có 3 alen nằm trên vùng không tương đồng của NST X, NST Y không mang alen tương ứng; gen 7 có 9 alen nằm trên NST giới tính Y, không có alen tương ứng trên NST X. Tổng số kiểu gen có thể có trong quần thể là?",
+    "image": null,
+    "options": [
+      "157140.",
+      "21870.",
+      "10206.",
+      "73332."
+    ],
+    "correct": 0,
+    "explanation": "3 × 6 × 6 × 10 × 2 × 3 × 9 = 157140.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Giống lúa “gạo vàng” có khả năng tổng hợp β-Carotene (tiền chất tạo ra vitamin A) trong hạt được tạo ra nhờ ứng dụng:",
+    "image": null,
+    "options": [
+      "Phương pháp nhân bản vô tính.",
+      "Phương pháp cấy truyền phôi.",
+      "Phương pháp lai xa và đa bội hóa.",
+      "Công nghệ gen."
+    ],
+    "correct": 3,
+    "explanation": "Gạo vàng được tạo ra nhờ công nghệ gen.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Ở người, gene quy định dạng tóc nằm trên nhiễm sắc thể thường có 2 allele, allele A quy định tóc quăn trội hoàn toàn so với allele a quy định tóc thẳng; Bệnh mù màu đỏ - xanh lục do allele lặn b nằm trên vùng không tương đồng của nhiễm sắc thể giới tính X quy định, allele trội B quy định mắt nhìn màu bình thường. Cho sơ đồ phả hệ sau: ... Cặp vợ chồng III.10 – III.11 trong phả hệ này sinh con, xác suất đứa con đầu lòng không mang allele lặn về hai gene trên là bao nhiêu phần trăm (nhập đáp án vào ô trống)?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "33",
+    "explanation": "Xác suất = (4/9) × (3/4) = 1/3 = 33%.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Trong số các hiện tượng dưới đây thì sẽ có bao nhiêu hiện tượng xảy ra nếu một quần xã sinh vật có độ đa dạng loài càng cao, mối quan hệ sinh thái càng chặt chẽ? (I) Quần xã có cấu trúc càng ổn định vì có lưới thức ăn phức tạp, nhiều loài (II) Quần xã dễ xảy ra diễn thế do tác động của nhiều loài trong quần xã làm cho môi trường thay đổi nhanh. (III) Quần xã sẽ có cấu trúc ít ổn định vì số lượng lớn loài sẽ dẫn đến cạnh tranh nhau gay gắt. (IV) Quần xã có xu hướng biến đổi làm cho độ đa dạng thấp từ đó mối quan hệ sinh thái lỏng lẻo hơn do thức ăn trong môi trường cạn kiệt dần.",
+    "image": null,
+    "options": [
+      "(I), (III)",
+      "(I), (II)",
+      "(II), (IV)",
+      "(III), (IV)"
+    ],
+    "correct": 1,
+    "explanation": "I và II đúng; III và IV sai.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Khi một quần thể trong tự nhiên chịu ảnh hưởng của các yếu tố ngẫu nhiên thì điều gì có thể xảy ra? I. Một alen có lợi có thể bị loại bỏ khỏi quần thể. II. Tần số alen và tần số kiểu gen có thể bị thay đổi đột ngột. III. Các alen trội và lặn có hại luôn bị loại bỏ hết. IV. Một gen có hại trong quần thể có thể trở lên phổ biến.",
+    "image": null,
+    "options": [
+      "I, II, III.",
+      "I, II, IV.",
+      "I, III, IV.",
+      "II, III, IV."
+    ],
+    "correct": 1,
+    "explanation": "I, II, IV đúng; III sai.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Thí nghiệm được thực hiện để nghiên cứu sự ảnh hưởng của nhân tố nào đến sự nảy mầm của hạt táo Berber?",
+    "image": null,
+    "options": [
+      "Ánh sáng.",
+      "Nhiệt độ.",
+      "pH.",
+      "Độ ẩm."
+    ],
+    "correct": 1,
+    "explanation": "Thí nghiệm nghiên cứu ảnh hưởng của nhiệt độ.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Mỗi loài thực vật sinh trưởng và phát triển thuận lợi trong một khoảng nhiệt độ nhất định. Nhiệt độ tối ưu của cây ôn đới là",
+    "image": null,
+    "options": [
+      "15 - 20°C.",
+      "20 - 30°C.",
+      "25 - 35°C.",
+      "0 - 15°C."
+    ],
+    "correct": 0,
+    "explanation": "Nhiệt độ tối ưu của cây ôn đới là khoảng 15 - 20°C.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Khoảng nhiệt độ nào dưới đây có thể được chọn để làm tăng tỉ lệ nảy mầm và rút ngắn thời gian nảy mầm của hạt táo Berber (Ziziphus lotus)?",
+    "image": null,
+    "options": [
+      "15 - 20 °C",
+      "20 - 25 °C",
+      "25 - 35 °C",
+      "40 - 45 °C"
+    ],
+    "correct": 2,
+    "explanation": "Khoảng 25 – 35 °C cho tỉ lệ nảy mầm cao và thời gian ngắn.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Sự kiện có tác động lớn nhất của tình hình thế giới đến phong trào độc lập dân tộc ở Đông Nam Á sau Chiến tranh thế giới thứ nhất là gì?",
+    "image": null,
+    "options": [
+      "Quốc tế Cộng sản thành lập.",
+      "Các Đảng Cộng sản được thành lập ở các nước.",
+      "Chủ nghĩa Mác - Lênin được truyền bá.",
+      "Cách mạng tháng Mười Nga (1917) thành công."
+    ],
+    "correct": 3,
+    "explanation": "Cách mạng tháng Mười Nga (1917) thành công có tác động lớn nhất.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Sau Chiến tranh thế giới thứ nhất, giai cấp, tầng lớp nào ở các nước Đông Nam Á đấu tranh đòi tự chủ chính trị, đòi sử dụng tiếng mẹ đẻ trong nhà trường?",
+    "image": null,
+    "options": [
+      "Giai cấp tư sản.",
+      "Giai cấp nông dân.",
+      "Học sinh, sinh viên.",
+      "Giai cấp địa chủ."
+    ],
+    "correct": 0,
+    "explanation": "Giai cấp tư sản đấu tranh đòi tự chủ chính trị và sử dụng tiếng mẹ đẻ.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Từ năm 1933, trở đi thu nhập quốc dân của Mỹ tăng lên là do tác động của",
+    "image": null,
+    "options": [
+      "áp dụng hiệu quả “Chính sách kinh tế mới”.",
+      "thực hiện hiệu quả “Chính sách mới”.",
+      "làm giàu từ việc buôn bán vũ khí.",
+      "áp dụng cách mạng khoa học - kĩ thuật."
+    ],
+    "correct": 1,
+    "explanation": "Nhờ “Chính sách mới” của Tổng thống Roosevelt.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Theo quyết định của kì họp thứ nhất của Quốc hội khóa VI (1976), thành phố Sài Gòn - Gia Định được đổi thành Thành phố",
+    "image": null,
+    "options": [
+      "Hồ Chí Minh.",
+      "Thủ Đức.",
+      "Bảo Lộc.",
+      "Biên Hòa."
+    ],
+    "correct": 0,
+    "explanation": "Đổi thành Thành phố Hồ Chí Minh.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Việc Chủ tịch Hồ Chí Minh và chính phủ Việt Nam Dân chủ Cộng hòa kí kết Hiệp định Sơ bộ (6/3/1946) với đại diện Chính phủ Pháp có ý nghĩa là",
+    "image": null,
+    "options": [
+      "tạo thế mạnh trong cuộc đấu tranh ngoại giao sau này.",
+      "tạo điều kiện cho nhân dân Việt Nam kháng chiến chống quân Trung Hoa Dân quốc.",
+      "tạo cho Việt Nam Dân chủ Cộng hòa có thêm thời gian hòa bình để chuẩn bị lực lượng mọi mặt cho cuộc kháng chiến lâu dài chống thực dân Pháp.",
+      "kéo dài thời gian hòa hoãn với Pháp để xây dựng lực lượng."
+    ],
+    "correct": 2,
+    "explanation": "Tạo thêm thời gian hòa bình để chuẩn bị lực lượng cho kháng chiến lâu dài.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Một trong những nguyên nhân trực tiếp khiến Đảng Cộng sản Đông Dương tiến hành Hội nghị bất thường Ban Thường vụ Trung ương trong hai ngày 18 và 19/12/1946 là",
+    "image": null,
+    "options": [
+      "ngày 18/12/1946, Pháp gửi tối hậu thư đòi Chính phủ ta phải giải tán lực lượng tự vệ chiến đấu.",
+      "quân đội các nước Đồng minh lũ lượt kéo vào nước ta.",
+      "Pháp mở các cuộc tấn công ta ở Nam Bộ.",
+      "quân Pháp khiêu khích tấn công ta ở Hải Phòng, Lạng Sơn."
+    ],
+    "correct": 0,
+    "explanation": "Pháp gửi tối hậu thư đòi giải tán lực lượng tự vệ.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Hội nghị Ban Chấp hành Trung ương (7/1936), Hội nghị Ban Chấp hành Trung ương (11/1939), Hội nghị Ban Chấp hành Trung ương (5/1941) và Hội nghị Ban Thường vụ Trung ương (3/1945) của Đảng Cộng sản Đông Dương đã lần lượt xác định kẻ thù trước mắt của cách mạng Đông Dương là lực lượng nào?",
+    "image": null,
+    "options": [
+      "Bọn phản động thuộc địa, đế quốc Pháp, đế quốc Pháp – Nhật, phát xít Nhật.",
+      "Đế quốc Pháp, phát xít Nhật và bọn phản động thuộc địa.",
+      "Bọn phản động thuộc địa, phát xít Nhật, đế quốc Pháp – Nhật.",
+      "Bọn phản động thuộc địa, phát xít Nhật, đế quốc Pháp."
+    ],
+    "correct": 1,
+    "explanation": "Đế quốc Pháp, phát xít Nhật và bọn phản động thuộc địa.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Chiến thắng Điện Biên Phủ (1954) và thắng lợi của trận “Điện Biên Phủ trên không” (1972) ở Việt Nam đều cho thấy",
+    "image": null,
+    "options": [
+      "ý nghĩa của trận phản công lớn nhất trong cuộc chiến tranh bảo vệ Tổ quốc.",
+      "vai trò của trận quyết chiến có ý nghĩa xoay chuyển cục diện chiến tranh.",
+      "giá trị của trận quyết chiến chiến lược đánh dấu cuộc kháng chiến kết thúc thắng lợi.",
+      "sức mạnh của quân chủ lực khi tấn công vào tổ chức phòng ngự mạnh của đối phương."
+    ],
+    "correct": 1,
+    "explanation": "Cả hai đều là trận quyết chiến có ý nghĩa xoay chuyển cục diện chiến tranh.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Theo thỏa thuận của Hội nghị Pốtxđam (7/1945), việc giải giáp quân Nhật ở Đông Dương được giao cho quân đội",
+    "image": null,
+    "options": [
+      "Anh và Pháp.",
+      "Anh và Mỹ.",
+      "Anh và Trung Hoa Dân quốc.",
+      "Pháp và Trung Quốc."
+    ],
+    "correct": 2,
+    "explanation": "Anh (Nam vĩ tuyến 16) và Trung Hoa Dân quốc (Bắc vĩ tuyến 16).",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Nét nổi bật về nghệ thuật chỉ đạo chiến tranh cách mạng của Đảng Lao động Việt Nam trong cuộc Tổng tiến công và nổi dậy mùa Xuân năm 1975 là",
+    "image": null,
+    "options": [
+      "lựa chọn đúng địa bàn và chủ động tạo thời cơ tiến công.",
+      "đi từ khởi nghĩa từng phần tiến lên chiến tranh cách mạng.",
+      "kết hợp tiến công và khởi nghĩa của lực lượng vũ trang.",
+      "kết hợp đánh nhanh thắng nhanh và đánh chắc, tiến chắc."
+    ],
+    "correct": 0,
+    "explanation": "Lựa chọn đúng địa bàn (Tây Nguyên) và chủ động tạo thời cơ tiến công.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp",
+    "image": null,
+    "options": [
+      "chủ nghĩa Mác-Lênin, phong trào công nhân VN.",
+      "chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh.",
+      "chủ nghĩa Mác-Lênin, phong trào công nhân, phong trào yêu nước.",
+      "chủ nghĩa Mác-Lênin, phong trào công nhân, phong trào tiểu tư sản."
+    ],
+    "correct": 2,
+    "explanation": "Kết hợp chủ nghĩa Mác-Lênin, phong trào công nhân và phong trào yêu nước.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Thời điểm nào đánh dấu việc Pháp chính thức bắt tay vào khai thác thuộc địa ở Việt Nam?",
+    "image": null,
+    "options": [
+      "Năm 1897.",
+      "Năm 1858.",
+      "Năm 1914.",
+      "Năm 1918."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1897 Pháp bắt đầu khai thác thuộc địa.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Các nhân vật đại diện cho phong trào đấu tranh giải phóng trong “lát ngắt” mà tư liệu nhắc tới là:",
+    "image": null,
+    "options": [
+      "Phan Bội Châu, Nguyễn Ái Quốc, Huỳnh Thúc Kháng.",
+      "Phan Bội Châu, Phan Châu Trinh.",
+      "Nguyễn Ái Quốc, Hàm Nghi, Tôn Thất Thuyết.",
+      "Phan Châu Trinh, Hoàng Hoa Thám, Tôn Thất Thuyết."
+    ],
+    "correct": 1,
+    "explanation": "Phan Bội Châu và Phan Châu Trinh đại diện khuynh hướng dân chủ tư sản.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "“Phạm trù khác” trong tư liệu muốn nói tới khuynh hướng đấu tranh cách mạng nào?",
+    "image": null,
+    "options": [
+      "Phong kiến.",
+      "Cách mạng vô sản.",
+      "Cách mạng tư sản.",
+      "Cách mạng tôn giáo."
+    ],
+    "correct": 1,
+    "explanation": "Khuynh hướng cách mạng vô sản sau Cách mạng tháng Mười Nga.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Quốc gia nào tại châu Á trở thành “miếng mồi” chính cho các nước đế quốc phân chia theo tư liệu?",
+    "image": null,
+    "options": [
+      "Miến Điện.",
+      "Nhật Bản.",
+      "Trung Quốc.",
+      "Campuchia."
+    ],
+    "correct": 2,
+    "explanation": "Trung Quốc trở thành miếng mồi chính cho các nước đế quốc.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Phương pháp phổ biến được các nước phong kiến tại châu Á áp dụng nhằm đối phó với sự “nhòm ngó” của thực dân phương Tây thời kì cận đại là",
+    "image": null,
+    "options": [
+      "“Bế quan tỏa cảng”.",
+      "Mở cửa thông thương.",
+      "Chống phá quân sự.",
+      "Chống phá tôn giáo."
+    ],
+    "correct": 0,
+    "explanation": "Phương pháp phổ biến là “bế quan tỏa cảng”.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Tại sao thuốc phiện được sử dụng làm mặt hàng để khiến cho Trung Quốc dù không muốn cũng phải giao thương với phương Tây?",
+    "image": null,
+    "options": [
+      "Đây là mặt hàng đắt đỏ, không dành cho dân nghèo nên rất được quan lại Trung Quốc ưa chuộng.",
+      "Loại thuốc này gây nghiện, ban đầu là quan lại, sau đến dân thường, chi phí vốn thấp nhưng lợi nhuận lớn.",
+      "Đây là hàng cấm tại một số nước châu Á, không buôn bán được nên buộc phải đưa vào buôn bán với nhà Thanh.",
+      "Nhà Thanh chấp nhận cho sử dụng loại thuốc này vì quan lại thường xuyên dùng, chi phí sử dụng không quá cao."
+    ],
+    "correct": 1,
+    "explanation": "Thuốc phiện gây nghiện, lợi nhuận lớn, làm bạc trắng chảy ra ngoài.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Nhân tố nào dưới đây không ảnh hưởng tới lượng mưa?",
+    "image": null,
+    "options": [
+      "Frông.",
+      "Dòng biển.",
+      "Khí áp.",
+      "Triều cường."
+    ],
+    "correct": 3,
+    "explanation": "Triều cường không ảnh hưởng tới lượng mưa.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Nhân tố bên ngoài ảnh hưởng tới sự phát triển và phân bố công nghiệp là",
+    "image": null,
+    "options": [
+      "vị trí địa lí.",
+      "khoa học – công nghệ.",
+      "điều kiện tự nhiên.",
+      "điều kiện kinh tế - xã hội."
+    ],
+    "correct": 1,
+    "explanation": "Khoa học – công nghệ là nhân tố bên ngoài.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "An ninh toàn cầu được chia thành mấy loại?",
+    "image": null,
+    "options": [
+      "2 loại.",
+      "3 loại.",
+      "4 loại.",
+      "5 loại."
+    ],
+    "correct": 0,
+    "explanation": "An ninh truyền thống và an ninh phi truyền thống.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Đánh bắt hải sản được coi là ngành quan trọng của Nhật Bản chủ yếu do",
+    "image": null,
+    "options": [
+      "là nơi giao nhau của các dòng biển, nhiều ngư trường.",
+      "ngành này cần vốn đầu tư ít, năng suất và hiệu quả cao.",
+      "nhu cầu lớn về nguyên liệu cho chế biến thực phẩm.",
+      "có đội tàu khai thác hải sản lớn hàng đầu thế giới."
+    ],
+    "correct": 0,
+    "explanation": "Do nằm ở nơi giao nhau của các dòng biển, nhiều ngư trường.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Nhận định nào sau đây không đúng với đặc điểm dân cư Trung Quốc?",
+    "image": null,
+    "options": [
+      "Đất nước có dân số đông nhất thế giới.",
+      "Các thành phố lớn tập trung ở miền Tây.",
+      "Tiến hành chính sách dân số triệt để.",
+      "Chú ý đầu tư cho phát triển giáo dục."
+    ],
+    "correct": 1,
+    "explanation": "Các thành phố lớn tập trung ở miền Đông, không phải miền Tây.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Dựa vào bảng số liệu, nhận xét nào sau đây không đúng về sản lượng thủy sản của Liên bang Nga giai đoạn 2000 – 2020?",
+    "image": null,
+    "options": [
+      "Tổng sản lượng thủy sản tăng liên tục.",
+      "Thủy sản nuôi trồng chậm nhanh hơn thủy sản khai thác.",
+      "Thủy sản nuôi trồng chiếm tỉ trọng ngày càng cao trong cơ cấu sản lượng thủy sản.",
+      "Thủy sản khai thác tăng liên tục và luôn chiếm tỉ trọng cao hơn thủy sản nuôi trồng."
+    ],
+    "correct": 1,
+    "explanation": "Thủy sản nuôi trồng tăng nhanh hơn (không phải chậm hơn) thủy sản khai thác.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về tình hình sản xuất lúa của nước ta giai đoạn 2005 - 2021?",
+    "image": null,
+    "options": [
+      "Diện tích lúa tăng liên tục do thay đổi mục đích sử dụng đất và đẩy mạnh khai hoang.",
+      "Năng suất lúa tăng lên liên tục do áp dụng khoa học – công nghệ, sử dụng giống mới.",
+      "Năng suất lúa có sự biến động do chịu tác động của các yếu tố thị trường và thiên tai.",
+      "Sản lượng lúa có xu hướng tăng do đẩy mạnh quảng canh, tự nhiên có nhiều thuận lợi."
+    ],
+    "correct": 1,
+    "explanation": "Năng suất lúa tăng liên tục nhờ khoa học – công nghệ và giống mới.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nhận xét nào sau đây đúng với bảng số liệu về nhiệt độ trung bình và lượng mưa các tháng năm 2021 tại một địa điểm ở nước ta?",
+    "image": null,
+    "options": [
+      "Tổng lượng mưa trung bình năm của địa điểm này là 2 592,2 mm.",
+      "Nhiệt độ trung bình năm của địa điểm này là 27,6°C.",
+      "Biên độ nhiệt trung bình năm của địa điểm này là 10,8°C.",
+      "Địa điểm này thuộc vùng khí hậu Tây Nguyên."
+    ],
+    "correct": 2,
+    "explanation": "Biên độ nhiệt = 31,1 − 20,3 = 10,8°C.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Các đô thị là nơi sản xuất hàng hóa lớn chủ yếu là do",
+    "image": null,
+    "options": [
+      "tạo ra động lực tăng trưởng, giàu tài nguyên thiên nhiên, đông dân.",
+      "có sức hút đầu tư lớn, lao động có chất lượng, dân cư tập trung đông đúc.",
+      "lực lượng lao động trẻ nhiều, cơ sở vật chất hiện đại, có sức hút đầu tư lớn.",
+      "có sức hút các nhà đầu tư, giao thông phát triển, nguồn khoáng sản nhiều."
+    ],
+    "correct": 1,
+    "explanation": "Do sức hút đầu tư lớn, lao động chất lượng và dân cư đông đúc.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Biểu đồ trên thể hiện rõ nhất nội dung nào sau đây?",
+    "image": null,
+    "options": [
+      "Tỉ lệ thiếu việc làm ở thành thị và nông thôn.",
+      "Tỉ lệ thất nghiệp và thiếu việc làm ở thành thị và nông thôn.",
+      "Tốc độ gia tăng năng suất lao động xã hội ở thành thị và nông thôn.",
+      "Tỉ lệ lao động làm việc trong ngành dịch vụ ở thành thị và nông thôn."
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ thể hiện tỉ lệ thiếu việc làm ở thành thị và nông thôn.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Giải pháp chủ yếu phát triển kinh tế lâm nghiệp bền vững ở Tây Nguyên là",
+    "image": null,
+    "options": [
+      "áp dụng công nghệ, giao đất giao rừng.",
+      "bảo vệ rừng, gắn với hoạt động dịch vụ.",
+      "chú trọng lâm sinh, đẩy mạnh chế biến.",
+      "nâng cao dân trí, mở rộng đào tạo nghề."
+    ],
+    "correct": 2,
+    "explanation": "Chú trọng lâm sinh và đẩy mạnh chế biến.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Sự chuyển dịch cơ cấu sản xuất nông nghiệp ở Đồng bằng sông Cửu Long hiện nay chủ yếu do",
+    "image": null,
+    "options": [
+      "xâm nhập mặn rộng, hạn hán, thiếu nước ngọt.",
+      "bề mặt sụt lún, nhiều vùng bị phèn và mặn hóa.",
+      "sạt lở bờ biển, nước biển dâng và nhiệt độ tăng.",
+      "khô hạn kéo dài, vùng rừng ngập mặn thu hẹp."
+    ],
+    "correct": 0,
+    "explanation": "Chủ yếu do xâm nhập mặn, hạn hán và thiếu nước ngọt.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Đồng bằng sông Hồng chịu lụt úng nghiêm trọng chủ yếu do tác động kết hợp của",
+    "image": null,
+    "options": [
+      "lũ tập trung trong các hệ thống sông lớn, diện mưa bão rộng.",
+      "mặt đất thấp, có đê sông, đê biển bao bọc, mật độ xây dựng cao.",
+      "mặt đất thấp, đê bao bọc, mưa bão rộng, mức độ đô thị hóa cao.",
+      "dân cư tập trung đông, mặt đất thấp, mưa bão rộng, đê bao bọc."
+    ],
+    "correct": 2,
+    "explanation": "Mặt đất thấp + đê bao bọc + mưa bão rộng + đô thị hóa cao.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Một trong những định hướng phát triển của vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long là",
+    "image": null,
+    "options": [
+      "phát triển dịch vụ cảng biển, du lịch biển và du lịch sinh thái.",
+      "tập trung sản xuất nông nghiệp hiện đại, quy mô lớn, nông nghiệp hữu cơ.",
+      "tập trung vào các ngành công nghệ cao: sản xuất, lắp ráp các sản phẩm điện, điện tử.",
+      "xây dựng các trung tâm đào tạo nguồn nhân lực chất lượng cao, phát triển các ngành công nghiệp công nghệ cao, công nghiệp phụ trợ."
+    ],
+    "correct": 1,
+    "explanation": "Tập trung sản xuất nông nghiệp hiện đại, quy mô lớn, nông nghiệp hữu cơ.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Rừng ngập mặn tập trung nhiều nhất ở",
+    "image": null,
+    "options": [
+      "Đồng bằng sông Hồng.",
+      "Bắc Trung Bộ và Duyên hải miền Trung.",
+      "Đông Nam Bộ.",
+      "Đồng bằng sông Cửu Long."
+    ],
+    "correct": 3,
+    "explanation": "Rừng ngập mặn tập trung nhiều nhất ở Đồng bằng sông Cửu Long.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Những điều kiện tự nhiên chủ yếu giúp Tây Nguyên phát triển mạnh du lịch sinh thái là",
+    "image": null,
+    "options": [
+      "nhiều vườn quốc gia, khu dự trữ sinh quyển, cao nguyên.",
+      "nhiều rừng, có nhiều các ngôi làng cổ với dân tộc đa dạng.",
+      "nhiều hang động đẹp, không khí trong lành, ít ô nhiễm.",
+      "khí hậu mát mẻ, nhiều cao nguyên, chính sách phát triển."
+    ],
+    "correct": 0,
+    "explanation": "Nhiều vườn quốc gia, khu dự trữ sinh quyển và cao nguyên.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Sinh vật nhiệt đới chiếm ưu thế ở nước ta chủ yếu là do",
+    "image": null,
+    "options": [
+      "vị trí nội chí tuyến, núi thấp chiếm phần lớn diện tích lãnh thổ, luồng di cư sinh vật.",
+      "nền nhiệt cao, địa hình phân hoá đa dạng, lượng mưa lớn và tập trung cường độ cao.",
+      "thuộc vùng nhiệt đới bán cầu Bắc, luồng di cư sinh vật phương Nam, gió Tín phong.",
+      "lượng bức xạ Mặt Trời lớn, hướng của địa hình đa dạng, lượng mưa theo mùa rõ rệt."
+    ],
+    "correct": 0,
+    "explanation": "Do vị trí nội chí tuyến, núi thấp chiếm phần lớn diện tích và luồng di cư sinh vật.",
+    "passage": null
+  }
+]

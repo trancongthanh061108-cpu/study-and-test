@@ -1,0 +1,770 @@
+[
+  {
+    "id": 101,
+    "question": "Động cơ của máy bay Airbus A320 có công suất 384 HP. Để cất cánh tốt nhất, máy bay cần đạt tốc độ 308 km/h. Khi bay ở độ cao ổn định, tốc độ trung bình của máy bay là 1005 km/h và để tiết kiệm nhiên liệu thì tốc độ trung bình là 968 km/h. Tính lực kéo máy bay trong từng trường hợp trên. Biết 1 HP ≈ 746 W. Lực kéo của động cơ trong trường hợp máy bay cất cánh có độ lớn là",
+    "image": null,
+    "options": ["984,7 N", "1026,1 N", "1065,4 N", "3348,3 N"],
+    "correct": 3,
+    "explanation": "Lực kéo của động cơ có độ lớn: F1 = P = 384.746 = 3348,3 N. v1 308 3,6",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Một tàu thủy chạy trên song song theo đường thẳng kéo một sà lan chở hàng với lực không đổi có độ lớn 5.10³ N , thực hiện công là 15.10⁶ J . Sà lan đã dời chỗ theo phương của lực một quãng đường là",
+    "image": null,
+    "options": ["300 m", "3000 m", "1500 m", "2500 m"],
+    "correct": 1,
+    "explanation": "Sà lan đã dời chỗ theo phương của lực một quãng đường là s = A = 15.10 6 = 3000 m . F 5.10 3",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Linh chạy bộ qua cầu vượt với vận tốc 3 m/s theo hướng từ Nam đến Bắc. Đúng lúc đó Hùng chạy bộ dưới cầu vượt theo hướng từ Đông sang Tây với vận tốc 4 m/s. Vận tốc của Linh đối với Hùng là",
+    "image": null,
+    "options": ["3 m/s", "5 m/s", "7 m/s", "4 m/s"],
+    "correct": 1,
+    "explanation": "(1) – Linh (2) – Hùng (3) – đất Theo công thức cộng vận tốc, ta có: v13 = v12 + v23 Có: v13 = 3m/s v23 = 4m/s Mà: v13 | v23 Từ hình vẽ, ta có: v12 = sqrt(v13^2 + v23^2) = sqrt(3^2 + 4^2) = 5 m/s.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Ngày nay sóng WiFi có tần số 5 GHz được sử dụng rộng rãi trong đời sống. Sóng này truyền trong không khí với bước sóng xấp xỉ bằng",
+    "image": null,
+    "options": ["0,8 m", "6 cm", "8,0 m", "0,125 m"],
+    "correct": 1,
+    "explanation": "Bước sóng của sóng điện từ: λ = c f = 3.10 8 = 5.10 9 0,06m = 6cm .",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Pha của dao động được dùng để xác định",
+    "image": null,
+    "options": ["biên độ dao động", "trang thái dao động", "tần số dao động", "chu kì dao động"],
+    "correct": 1,
+    "explanation": "Pha của dao động được dùng để xác định trạng thái dao bao gồm li độ và vận tốc chuyển động của vật.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Một chất điểm dao động điều hòa trên trục Ox có phương trình x = 6cos(-πt - π/3) cm , t tính bằng s. Khẳng định nào sau đây là đúng?",
+    "image": null,
+    "options": ["Lúc t = 0 chất điểm có li độ 3 cm và chuyển động theo chiều dương của trục Ox.", "Pha ban dâu cua dao dong la 3 rad.", "Tần số góc dao động là – π rad/s.", "Tại t = 1 s pha của dao động là 4π rad."],
+    "correct": 1,
+    "explanation": "Đưa phương trình dao động về dạng chuẩn tắc: x = 6cos(-πt - π/3) = 6cos(πt + π/3) cm. Từ phương trình ta có pha ban đầu là π/3 rad.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Hình vẽ nào sau đây là phương án thí nghiệm đúng để tìm hiểu sự phụ thuộc của gia tốc vào khối lượng?",
+    "image": null,
+    "options": ["A", "B", "C", "D"],
+    "correct": 3,
+    "explanation": "Để tìm hiểu sự phụ thuộc của gia tốc vào khối lượng thì các đại lượng khác phải giữ nguyên, đặc biệt là lực tác dụng. Khối lượng càng lớn thì gia tốc càng nhỏ.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Một khung dây phẳng, diện tích S = π.(0,1)^2 m^2, gồm N = 10 vòng dây. Khung dây được đặt trong từ trường đều sao cho vectơ cảm ứng từ hợp với vectơ pháp tuyến của mặt phẳng khung dây một góc α = 0^0 và có độ lớn cảm ứng từ biến thiên theo thời gian như đồ thị bên. Suất điện động cảm ứng xuất hiện trong khung dây trong khoảng thời gian từ 0 đến 0,01s có giá trị là",
+    "image": null,
+    "options": ["3,14 mV", "31,4 mV", "314 mV", "3,14 V"],
+    "correct": 1,
+    "explanation": "Suất điện động cảm ứng xuất hiện trong khung dây là e_c = N * |ΔΦ/Δt| = |ΔB * S * cosα / Δt| = |10^-2 * π * 0,1^2 * cos0° / 0,01| = π * 10^-2 V ≈ 31,4 mV.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Dùng một thanh nam châm và một vòng dây dẫn như hình vẽ. Dòng điện cảm ứng xuất hiện trong những trường hợp nào sau đây?",
+    "image": null,
+    "options": ["Khi đưa nam châm lại gần vòng dây (1).", "Khi đưa nam châm ra xa vòng dây (2).", "Khi giữ cố định nam châm trong lòng vòng dây (3).", "(1) và (2) đúng."],
+    "correct": 3,
+    "explanation": "Khi ta đưa thanh nam châm ra xa hay lại gần vòng dây thì xuất hiện dòng điện cảm ứng.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Trong hình vẽ sau, hình nào chỉ đúng hướng của lực từ tác dụng lên hạt mang điện dương chuyển động trong từ trường đều?",
+    "image": null,
+    "options": ["Hình 1", "Hình 2", "Hình 3", "Hình 4"],
+    "correct": 1,
+    "explanation": "Dòng điện là dòng điện tích chuyển động theo một hướng. Ví dụ, các electron chuyển động trong dây dẫn điện. Chiều dòng điện là chiều dịch chuyển của các điện tích dương. Áp dụng quy tắc bàn tay trái → Hình 2 đúng.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Khẳng định nào dưới đây là sai? Từ trường tồn tại ở gần",
+    "image": null,
+    "options": ["một nam châm", "một thanh thủy tinh được nhiễm điện do cọ xát", "dây dẫn có dòng điện", "chùm tia điện tử"],
+    "correct": 1,
+    "explanation": "Từ trường tồn tại ở quanh nam châm và quanh dòng điện. → Xung quanh thanh thủy tinh nhiễm điện do cọ xát không có từ trường (không có dòng điện).",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Ban đầu một khối khí có thể tích V1 ở nhiệt độ T1. Thay đổi nhiệt độ của khối khí đến nhiệt độ T2 thì thấy thể tích của khối khí khí đó là V2 với V2 = 2V1. Biết rằng áp suất của khối khí là không đổi trong suốt quá trình. Hệ thức đúng là",
+    "image": null,
+    "options": ["T1 = 2T2", "T2 = 2T1", "T1 = 4T2", "T2 = 4T1"],
+    "correct": 1,
+    "explanation": "Do quá trình thay đổi trạng thái khí là đẳng áp nên áp dụng định luật Charles, ta có: V/T = const → V2=2V1 → T2 = 2T1.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Một electron bay với vận tốc không đổi vào trong vùng có từ trường đều theo phương vuông góc với cảm ứng từ. Electron chuyển động trong từ trường theo quỹ đạo là một đường tròn. Biết độ lớn cảm ứng từ B = 1mT , điện tích của electron là −1,6.10−19C và độ lớn lực từ tác dụng lên electron là 1,6.10−16N . Vận tốc chuyển động của electron có độ lớn là",
+    "image": null,
+    "options": ["1,0.109 m/s", "1,0.106 m/s", "1,6.106 m/s", "1,6.109 m/s"],
+    "correct": 1,
+    "explanation": "Độ lớn lực từ tác dụng lên dây dẫn mang dòng điện: F = BIℓ.sinα. Mà cường độ dòng điện được định nghĩa là: I = |q|/t → F = B * |q|/t * ℓ * sinα = B |q| * v * sinα. Electron chuyển động theo quỹ đạo tròn nên lực từ đóng vai trò là lực hướng tâm → F = mv^2/R → v = F/(|q|B) = (1,6.10^-16)/(1,6.10^-19.10^-3) = 10^6 m/s.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Một lượng không khí có thể tích 240 cm3 bị giam trong một xilanh có pit-tông kín như hình vẽ trên, tiết tích của pit-tông là 24 cm2, áp suất khí trong xilanh bằng áp suất ngoài là 100 kPa. Để pit-tông dịch chuyển sang phải 2 cm thì cần một lực bằng bao nhiêu Newton? Bỏ qua mọi ma sát, coi quá trình trên là đẳng nhiệt.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "40",
+    "explanation": "Do nhiệt độ của khí là không đổi, áp dụng định luật Boyle ta có: p1V1 = p2V2 = const. → (10^5.240)/(288) = 10^5 - F/(24.10^-4) → F = 40 N.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Tai con người có thể nghe được những âm có tần số nằm trong khoảng",
+    "image": null,
+    "options": ["từ 16 kHz đến 20 000 Hz", "từ 16 Hz đến 20 000 kHz", "từ 16 kHz đến 20 000 kHz", "từ 16 Hz đến 20 000 Hz"],
+    "correct": 3,
+    "explanation": "Tai con người có thể nghe được những âm có tần số nằm trong khoảng từ 16 Hz đến 20 000 Hz.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Ngưỡng đau của tai một người có giá trị là 130 dB. Biết cường độ âm chuẩn là 10-12 W/m2. Cường độ âm tương ứng với ngưỡng đau bằng",
+    "image": null,
+    "options": ["10W/m2", "1W/m2", "0,1W/m2", "100W/m2"],
+    "correct": 0,
+    "explanation": "L(B) = log(I/I0) → I = I0 * 10^13 = 10^-12 * 10^13 = 10 W/m^2.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Tại vòng loại giải Vô địch bóng đá U-23 châu Á 2020, đội tuyển Việt Nam gặp đội tuyển Thái Lan trên Sân vận động Quốc gia Mỹ Đình, kích thước của sân dài 105 m và rộng 68 m. Trong một lần thổi phạt, thủ môn Tiến Dũng của đội tuyển Việt Nam đứng chính giữa hai cọc gôn, trọng tài đứng phía tay phải thủ môn, cách thủ môn 32,3 m và cách góc sân gần nhất 10,5 m. Trọng tài thổi còi và âm đi đẳng hướng thì âm thanh đến tai thủ môn Tiến Dũng có mức cường độ là 40 dB. Khi đó huấn luyện viên Park Hang Seo đang đứng phía trái Tiến Dũng và trên đường ngang giữa sân, phía ngoài sân, cách biên dọc 5 m sẽ nghe được âm thanh có mức cường độ âm gần nhất với giá trị nào sau đây là",
+    "image": null,
+    "options": ["14,58 dB", "27,31 dB", "32,06 dB", "38,52 dB"],
+    "correct": 2,
+    "explanation": "Gọi A, H, T lần lượt là vị trí thủ môn, huấn luyện viên và trọng tài. + Trong ΔATM có: AM2 + MT2 = AT2 → x2 + y2 = 32,32 (1) + Trong ΔMTN có: MN2 + MT2 = NT2 → (AN – AM)2 + MT2 = NT2 → (68/2 - x)^2 + y^2 = 10,5^2 (2) → y^2 = 32,3^2 - x^2 = 10,5^2 - (34 - x)^2 → 32,3^2 - x^2 = 10,5^2 - (34^2 - 2.34x + x^2) → x = 30,72m, y = 9,98m. Mà TH^2 = (105/2 - y)^2 + (68/2 + x + 5)^2 → TH = 81,66m → LA – LH = 10log(AH^2/TH^2) = 8,06dB → LH = LA – 8,06 = 40 – 8,06 = 31,94dB.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Biết rằng, khi nhiệt độ tăng thêm 10°C, tốc độ của một phản ứng hoá học tăng 4 lần; cho biết tốc độ phản ứng giảm bao nhiêu lần khi nhiệt độ giảm từ 70⁰C xuống 40⁰C.",
+    "image": null,
+    "options": ["giảm 32 lần", "giảm 16 lần", "giảm 8 lần", "giảm 64 lần"],
+    "correct": 3,
+    "explanation": "Áp dụng công thức Van't Hoff: ν_t2/ν_t1 = γ^(t2-t1)/10. Với γ = 4, khi nhiệt độ phản ứng giảm từ 70 °C xuống 40 °C, ta có: ν_t2/ν_t1 = 4^(40-70)/10 = 4^-3 = 1/64. Vậy, tốc độ phản ứng giảm 64 lần.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Hạt nhân của nguyên tử Fe có điện tích bằng +26 và số khối bằng 56. Số neutron có trong nguyên tử Fe là",
+    "image": null,
+    "options": ["26", "56", "30", "72"],
+    "correct": 2,
+    "explanation": "Hạt nhân của nguyên tử Fe có điện tích bằng +26 và số khối bằng 56 → nguyên tử Fe có p = 26, A = 56. → số neutron của nguyên tử Fe là 56 – 26 = 30.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Chuyên ngành hóa học không theo định hướng nghiên cứu là",
+    "image": null,
+    "options": ["hóa hữu cơ", "hóa vô cơ", "hóa sinh", "hóa môi trường"],
+    "correct": 3,
+    "explanation": "Chuyên ngành hóa học không theo định hướng nghiên cứu là hóa môi trường. Vì ngành hóa môi trường theo định hướng ứng dụng.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Cho 2 mol N2 và 8 mol H2 vào bình kín có dung tích 2 lít: N2 + 3H2 ⇌ 2NH3. Sau khi phản ứng đạt trạng thái cân bằng, đưa nhiệt độ về nhiệt độ ban đầu thì áp suất trong bình bằng 0,9 lần áp suất đầu. Tính Kc của phản ứng tổng hợp NH3?",
+    "image": null,
+    "options": ["9.71. 10-3", "0,205", "4,85. 10-3", "0,016"],
+    "correct": 0,
+    "explanation": "Tổng số mol ban đầu là 10 mol. Vì V và T không đổi nên: Pt/Ps = nt/ns → 1/0,9 = 10/ns → ns = 9 mol. N2 + 3H2 ⇌ 2NH3. Bđ: 2 8 (mol). Pur: x → 3x → 2x (mol). Cb: (2-x) (8-3x) 2x (mol). Tổng số mol sau phản ứng là: ns = 10 – 2x = 9 → x = 0,5 mol. → [N2] = 0,75M; [H2] = 3,25M; [NH3] = 0,5M. Kc = [NH3]^2/([N2][H2]) = 0,5^2/(0,75 * 3,25^3) ≈ 9,71 * 10^-3.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Hỗn hợp X gồm hai alcohol đơn chức kế tiếp nhau trong dãy đồng đẳng. Đốt cháy hoàn toàn 0,2 mol hỗn hợp X thu được 0,65 mol H2O. Thành phần phần trăm số mol của alcohol có phân tử khối nhỏ hơn trong X là",
+    "image": null,
+    "options": ["25%", "40%", "50%", "75%"],
+    "correct": 3,
+    "explanation": "Gọi công thức chung của hai alcohol no, đơn chức là C_nH_2n+2O. C_nH_2n+2O + O2 → (n+1)H2O. 0,2 → 0,2.(n+1) → 0,2.(n+1) = 0,65 → n = 2,25 → C2H6O và C3H8O. C2H6O x mol, C3H8O y mol → x+y=0,2; 3x+4y=0,65 → x=0,15; y=0,05. → %m C2H6O = (0,15.46.100%)/(0,15.46 + 0,05.60) = 75%.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Spin của electron được ứng dụng để chế tạo ra",
+    "image": null,
+    "options": ["máy tính lượng tử", "máy tính điện tử", "máy điều hòa", "máy giật"],
+    "correct": 0,
+    "explanation": "Spin của electron được ứng dụng để chế tạo ra máy tính lượng tử.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Hãy cho biết isopentane có bao nhiêu carbon bậc I?",
+    "image": null,
+    "options": ["3", "2", "4", "5"],
+    "correct": 0,
+    "explanation": "Công thức cấu tạo của isopentane là: CH3-CH(CH3)-CH2-CH3. ⇒ Có 3 gốc C bậc I.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Trong pin Galvani",
+    "image": null,
+    "options": ["điện cực có giá trị thế điện cực lớn hơn đóng vai trò cực âm, điện cực có giá trị thế điện cực nhỏ hơn đóng vai trò cực dương.", "sức điện động của pin đo bằng Ampe kế.", "sức điện động của pin đo bằng Vôn kế.", "Epin = E(−) − E(+)."],
+    "correct": 2,
+    "explanation": "Trong pin Galvani sức điện động của pin đo bằng Vôn kế.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Cho nước bromine dư vào dung dịch phenol thu được 6,62 gam kết tủa trắng (phản ứng hoàn toàn). Khối lượng phenol có trong dung dịch là",
+    "image": null,
+    "options": ["1,88 gam", "18,8 gam", "37,6 gam", "3,76 gam"],
+    "correct": 0,
+    "explanation": "Số mol kết tủa = 6,62/331 = 0,02 mol. Phương trình hoá học: C6H5OH + 3Br2 → C6H2Br3OH ↓ +3HBr. 0,02 ← 0,02 mol. → mphenol = 94 * 0,02 = 1,88 gam.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Theo dãy thế điện hóa của kim loại thì từ trái sang phải",
+    "image": null,
+    "options": ["tính khử của kim loại tăng dần và tính oxi hoá của cation kim loại tăng dần.", "tính khử của kim loại giảm dần và tính oxi hoá của cation kim loại giảm dần.", "tính khử của kim loại giảm dần và tính oxi hoá của cation kim loại tăng dần.", "tính khử của kim loại tăng dần và tính oxi hoá của cation kim loại tăng dần."],
+    "correct": 2,
+    "explanation": "Theo dãy điện hóa của kim loại thì từ trái sang phải tính khử của kim loại giảm dần và tính oxi hóa của các cation tăng dần. Ví dụ: Fe + CuSO4 → FeSO4 + Cu.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Sự ăn mòn điện hoá xảy ra các quá trình nào sau đây?",
+    "image": null,
+    "options": ["Sự oxi hoá ở cực dương và sự khử ở cực âm.", "Sự oxi hoá cực âm.", "Sự khử ở cực dương và sự oxi hoá ở cực âm.", "Sự oxi hóa ở cực dương."],
+    "correct": 2,
+    "explanation": "Sự ăn mòn điện hoá xảy ra các quá trình: Sự khử ở cực dương và sự oxi hoá ở cực âm.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Số electron ở lớp M trong nguyên tử Na là",
+    "image": null,
+    "options": ["1", "8", "6", "2"],
+    "correct": 0,
+    "explanation": "Trong nguyên tử, lớp M tương ứng với lớp electron thứ 3. → Số electron ở lớp M trong nguyên tử Na là 1.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Mặc dù chlorine có độ âm điện là 3,16 xấp xỉ với nitrogen là 3,04 nhưng giữa các phân tử HCl không tạo được liên kết hydrogen với nhau, trong khi giữa các phân tử NH3 tạo được liên kết hydrogen với nhau, nguyên nhân là do",
+    "image": null,
+    "options": ["độ âm điện của chlorine nhỏ hơn của nitrogen.", "phân tử NH3 chứa nhiều nguyên tử hydrogen hơn phân tử HCl.", "tổng số nguyên tử trong phân tử NH3 nhiều hơn so với phân tử HCl.", "kích thước nguyên tử chlorine lớn hơn nguyên tử nitrogen nên mật độ điện tích âm trên chlorine không đủ lớn để hình thành liên kết hydrogen."],
+    "correct": 3,
+    "explanation": "Vì kích thước nguyên tử chlorine lớn hơn nguyên tử nitrogen nên mật độ điện tích âm trên chlorine không đủ lớn để hình thành liên kết hydrogen.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Cho các chất sau: (1) CH3[CH2]14COOCH2CH(OCO[CH2]16CH3)CH2OCO[CH2]14CH3; (2) (CH3[CH2]16COO)2Ca; (3) CH3[CH2]14OSO3Na; (4) CH3[CH2]16COOK; (5) CH3[CH2]14C6H4SO3Na; (6) CH3[CH2]14COONa. Số chất là thành phần của xà phòng là bao nhiêu?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "(1) là ester đa chức. (2) là muối calcium của acid hữu cơ. (4) và (6) là xà phòng. (3) và (5) là chất giặt rửa tổng hợp.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Cho sơ đồ mạch điện như hình vẽ. Sức điện động của bộ nguồn là 12 V, các bình điện phân (1), (2), (3) mắc nối tiếp. Trong quá trình điện phân, bình (2) và (3) có hiện tượng gì?",
+    "image": null,
+    "options": ["Bình (2) giải phóng Ag và bình (3) giải phóng H2.", "Bình (2) giải phóng Ag và bình (3) giải phóng Cu.", "Bình (2) giải phóng O2 và bình (3) giải phóng H2.", "Bình (2) giải phóng O2 và bình (3) giải phóng Cu."],
+    "correct": 2,
+    "explanation": "Bình 2: 2H2O → 4H+ + O2↑ + 4e (anot). Bình 3: 2H2O + 2e → H2↑ + 2OH- (catot). Vậy bình (2) giải phóng O2 và bình (3) giải phóng H2.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Giá trị pH của dung dịch ở bình 2 thay đổi như thế nào?",
+    "image": null,
+    "options": ["pH tăng do OH- sinh ra ở catot.", "pH giảm do H+ sinh ra ở anot.", "pH không đổi do không có H+ và OH- sinh ra.", "pH không đổi do lượng H+ sinh ra ở anot bằng với lượng OH- sinh ra ở catot."],
+    "correct": 1,
+    "explanation": "Do phương trình điện phân: 4AgNO3 + 2H2O → 4Ag + 4HNO3 + O2. Do nồng độ H+ tăng → pH giảm.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Số gam kim loại Al bám lên điện cực trong bình 3 là:",
+    "image": null,
+    "options": ["0 gam", "1,62 gam", "0,405 gam", "0,81 gam"],
+    "correct": 0,
+    "explanation": "Do ion Al3+ không điện phân trong dung dịch nên không có kim loại sinh ra ở bình 3.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Tổng hợp là",
+    "image": null,
+    "options": ["quá trình hình thành các chất hữu cơ phức tạp từ các chất đơn giản dưới sự xúc tác của enzyme.", "quá trình phân giải các chất hữu cơ phức tạp thành các chất đơn giản.", "quá trình nhân bản các chất hữu cơ phức tạp.", "quá trình giải phóng năng lượng cho các hoạt động sống."],
+    "correct": 0,
+    "explanation": "Tổng hợp là quá trình hình thành các chất hữu cơ phức tạp từ các chất đơn giản dưới sự xúc tác của enzyme.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Vì sao tự thụ phấn và giao phối gần gây ra hiện tượng thoái hóa giống nhưng vẫn được sử dụng trong quá trình chọn giống?",
+    "image": null,
+    "options": ["Để nhân nhanh các dòng đã có.", "Vì đây là phương pháp nhanh nhất để tạo ra các dòng thuần chủng.", "Vì chỉ có tự thụ mới tạo ra dòng thuần chủng.", "Vì chỉ có tự thụ và giao phối gần mới tạo ra một lượng biến dị tổ hợp phong phú."],
+    "correct": 1,
+    "explanation": "Tự thụ ở thực vật và giao phối gần ở động vật nhằm tạo ra các dòng thuần chủng phục vụ cho tạo ưu thế lai.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Đặc điểm của sự phát triển không qua biến thái là gì?",
+    "image": null,
+    "options": ["Con non mới nở có hình dạng cấu tạo và sinh lý khác con trưởng thành.", "Trải qua nhiều lần lột xác.", "Con non mới nở có hình thái cấu tạo và sinh lý tương tự con trưởng thành.", "Trải qua các giai đoạn sâu, nhộng,... mới tới con trưởng thành."],
+    "correct": 2,
+    "explanation": "Phát triển không qua biến thái: con non mới nở hoặc mới sinh có hình thái, cấu tạo và sinh lý tương tự con trưởng thành. Ví dụ: gà, mèo,...",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Trong điều kiện môi trường không bị giới hạn, đường cong tăng trưởng có dạng hình chữ",
+    "image": null,
+    "options": ["A", "S", "N", "J"],
+    "correct": 3,
+    "explanation": "Trong điều kiện môi trường không bị giới hạn, nguồn sống dồi dào và cung cấp đầy đủ cho nhu cầu của từng cá thể thì lúc này quần thể có mức sinh sản tối đa, còn mức tử vong tối thiểu, số lượng cá thể tăng theo tiềm năng sinh học, đường cong tăng trưởng lúc này có dạng hình chữ J.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Vi sinh vật có phạm vi phân bố rộng hơn rất nhiều so với những nhóm sinh vật khác nhờ đâu?",
+    "image": null,
+    "options": ["Đa dạng về hình thức dinh dưỡng.", "Kích thước nhỏ, cấu tạo đơn giản, nhiều biến dị.", "Tốc độ sinh trưởng, sinh sản và chuyển hoá nhanh.", "Tất cả các đáp án trên."],
+    "correct": 3,
+    "explanation": "Vi sinh vật có phạm vi phân bố rộng hơn rất nhiều so với những nhóm sinh vật khác vì: + Số lượng lớn, đa dạng hình thái, đa dạng về kiểu dinh dưỡng, cấu tạo đơn giản dễ dàng phát sinh các biến dị nên thích nghi với nhiều điều kiện môi trường khác nhau. + Tốc độ sinh trưởng, sinh sản, chuyển hoá nhanh.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Các nguyên tố chính cấu tạo nên carbohydate là",
+    "image": null,
+    "options": ["C, N, O", "H, N, P", "C, H, N", "C, H, O"],
+    "correct": 3,
+    "explanation": "Carbonhydrate được cấu tạo bởi các nguyên tố chính là C, H, O. Cấu tạo chung: (CH2O)n.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Ở động vật có hệ thần kinh chưa phát triển, tập tính kiếm ăn hình thành nhờ đâu?",
+    "image": null,
+    "options": ["Một số ít là tập tính bẩm sinh.", "Phần lớn là tập tính học được.", "Phần lớn là tập tính bẩm sinh.", "Là tập tính học được."],
+    "correct": 2,
+    "explanation": "Ở động vật có hệ thần kinh chưa phát triển, tập tính kiếm ăn phần lớn là tập tính bẩm sinh. Tập tính kiếm ăn ở động vật có tổ chức hệ thần kinh chưa phát triển phần lớn thuộc loại tập tính bẩm sinh, do ở những động vật này, số lượng tế bào thần kinh rất ít hoặc không có nên số lượng các tập tính học được cũng rất ít.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Giải thích vai trò của nghiên cứu Sinh học trong việc đưa ra các biện pháp nhằm kiểm soát sự phát triển dân số cả về chất lượng và số lượng.",
+    "image": null,
+    "options": ["Nghiên cứu cơ sở khoa học và ứng dụng các biện pháp phòng tránh thai và giúp sàng lọc dị tật trước sinh.", "Nghiên cứu cơ sở khoa học và ứng dụng các biện pháp phòng tránh thai và giúp sàng lọc dân số có trí thức cao hơn.", "Nghiên cứu cơ sở khoa học giúp sàng lọc dị tật trước sinh và nghiên cứu phát triển dòng tế bào miễn dịch ở người.", "Nghiên cứu cơ sở khoa học giúp sàng lọc dị tật trước sinh và nghiên cứu các biện pháp nhân bản vô tính người."],
+    "correct": 0,
+    "explanation": "Để kiểm soát về số lượng dân số, ta cần có các biện pháp tránh thai phù hợp. Dựa vào các nghiên cứu Sinh học, biết được cơ chế thụ tinh và phát triển của thai nhi, người ta đã có những biện pháp tránh thai như thắt ống dẫn tinh, dùng bao cao su, đặt vòng,… Để kiểm soát được chất lượng dân số, ta cần có các phương pháp sàng lọc trước sinh → tránh việc trẻ sinh ra bị dị tật, làm gánh nặng cho gia đình và xã hội.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Cho hình ảnh dưới đây về thành tế bào ở Gram dương và Gram âm: Chú thích: gram-negative: gram âm; gram-positive: gram dương; outer membrane: màng ngoài; cytoplasmic membrane: màng sinh chất. Khi cho lysozyme tác động lên thành tế bào thì hiện tượng gì xảy ra?",
+    "image": null,
+    "options": ["Tế bào Gram dương chết, tế bào Gram âm sống.", "Tế bào Gram dương sống, tế bào Gram âm chết.", "Cả tế bào Gram dương và Gram âm đều chết.", "Cả tế bào Gram dương và Gram âm đều sống."],
+    "correct": 0,
+    "explanation": "Như ta thấy, ở gram âm có màng ngoài bao phủ lớp thành tế bào. Khi penicillin tác động, gây cắt đứt các liên kết giữa các amino acid của thành tế bào và ức chế sự phân chia tế bào và tiêu diệt vi khuẩn. Đối với gram dương, sau khi mất thành tế bào, tế bào sẽ bị ảnh hưởng bởi môi trường ngoài (ưu trương hoặc nhược trương) gây vỡ tế bào. Ở gram âm, khi mất thành tế bào thì tế bào vẫn còn màng ngoài, tế bào giữ được hình dạng và dần tổng hợp thành tế bào mới → sống sót.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Quá trình hình thành quần thể thích nghi diễn ra nhanh hay chậm phụ thuộc vào những yếu tố nào dưới đây? (1) Quá trình phát sinh và tích lũy các gene đột biến ở mỗi loài. (2) Áp lực chọn lọc tự nhiên. (3) Hệ gene đơn bội hay lưỡng bội. (4) Nguồn dinh dưỡng nhiều hay ít. (5) Thời gian thế hệ dài hay ngắn.",
+    "image": null,
+    "options": ["(1), (2), (3), (4)", "(2), (3), (4), (5)", "(1), (2), (3), (5)", "(1), (3), (4), (5)"],
+    "correct": 2,
+    "explanation": "Quá trình hình thành quần thể thích nghi diễn ra nhanh hay chậm phụ thuộc vào các yếu tố (1), (2), (3), (5).",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Nồng độ O2 và CO2 trong tế bào so với ngoài cơ thể như thế nào?",
+    "image": null,
+    "options": ["Trong tế bào, nồng độ O2 thấp còn CO2 cao so với ngoài cơ thể.", "Nồng độ O2 và CO2 trong tế bào thấp hơn so với ngoài cơ thể.", "Trong tế bào, nồng độ O2 cao còn CO2 thấp so với ngoài cơ thể.", "Nồng độ O2 và CO2 trong tế bào cao hơn so với ngoài cơ thể."],
+    "correct": 0,
+    "explanation": "Trong tế bào, nồng độ O2 thấp hơn môi trường nên O2 khuếch tán từ ngoài vào trong, nồng độ CO2 trong tế bào cao hơn ngoài môi trường nên khuếch tán từ trong ra ngoài.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Quá trình bài tiết có thể xảy ra ở đâu?",
+    "image": null,
+    "options": ["Phổi", "Ruột và thận", "Da, phổi, ruột và thận", "Da, phổi và thận"],
+    "correct": 2,
+    "explanation": "Quá trình bài tiết có thể xảy ra ở da, phổi, ruột và thận.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Tại sao sự lan truyền xung thần kinh trên sợi trục thường chỉ đi theo một chiều?",
+    "image": null,
+    "options": ["Các eo Ranvier bị ngăn cản bởi các cấu trúc cách điện nên chỉ cho phép dòng điện di chuyển theo một chiều.", "Sau khi hình thành điện thế hoạt động tại một vị trí, xảy ra hiện tượng trơ trong một khoảng thời gian ngắn do vậy điện thế hoạt động chỉ có thể xảy ra ở vùng lân cận sau đó.", "Đồi axon của neuron thần kinh có điện thế cao hơn do vậy sự lan truyền điện thế chỉ đi theo một chiều từ thân neuron đến sợi trục mà thôi.", "Các kênh Na+, kênh K+ và bơm Na-K chỉ mở và hoạt động theo một chiều và do đó điện thế hoạt động cũng chỉ phát triển theo một chiều."],
+    "correct": 1,
+    "explanation": "Sự hình thành điện thế hoạt động xảy ra tại một vị trí, sau đó xảy ra hiện tượng trơ trong một khoảng thời gian ngắn, rồi lại tiếp tục ở vùng lân cận sau đó nên xung thần kinh chỉ đi theo một chiều.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Cho các bệnh, tật và hội chứng di truyền sau đây ở người: (1) Bệnh bạch tạng. (2) Bệnh phenylketol niệu. (3) Bệnh mù màu. (4) Tật dính ngón tay số 2 và 3. (5) Hội chứng Down. (6) Bệnh máu khó đông. (7) Hội chứng tiếng khóc mèo kêu. (8) Tật túm lông trên vành tai. Có bao nhiêu trường hợp bệnh thường gặp ở nam mà ít gặp ở nữ hoặc chỉ gặp ở nam mà không gặp ở nữ?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Trường hợp gặp ở nam và không gặp ở nữ: (4) và (8). Trường hợp thường gặp ở nam và ít gặp ở nữ: (3) và (6).",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Giai đoạn đầu của HIV lây nhiễm vật chủ là",
+    "image": null,
+    "options": ["xâm nhập", "tổng hợp protein", "lắp ráp", "cài vật chất di truyền vào hệ gen của vật chủ"],
+    "correct": 0,
+    "explanation": "Giai đoạn đầu tiên của HIV lây nhiễm vật chủ là xâm nhập vào tế bào vật chủ nhờ việc gắn vào thụ thể trên bề mặt vật chủ.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Tại sao khi nhiễm HIV, con người bị suy yếu hệ miễn dịch?",
+    "image": null,
+    "options": ["Do chúng gây độc cho cơ thể.", "Do chúng phá huỷ bộ máy nhân đôi của tế bào.", "Do làm giảm lượng tế bào lympho T, hàng rào miễn dịch bị suy yếu.", "Do làm giảm lượng tế bào lympho B, hàng rào miễn dịch bị suy yếu."],
+    "correct": 2,
+    "explanation": "Vì gai glycoprotein của virus HIV chỉ gắn đặc hiệu lên thụ thể CD4+ của tế bào lympho T (1 loại tế bào tham gia vào miễn dịch tế bào trong cơ thể), làm giảm số lượng tế bào đó → làm cho hàng rào miễn dịch bị suy yếu. Khi tế bào lympho T vì giảm quá mức, cơ thể có thể sẽ bị chết do mắc những bệnh thông thường (như cúm,…).",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Tại sao nói gen ở virus mã hoá protein glycoprotein tiến hoá liên tục?",
+    "image": null,
+    "options": ["Gen mã hoá protein glycoprotein liên tục biến đổi tạo nhiều biến thể.", "Gen mã hoá protein glycoprotein không biến đổi làm cho kháng thể ở người không gắn được vào.", "Gen mã hoá protein glycoprotein thích nghi với việc gắn đặc hiệu vào kháng thể của người.", "Gen mã hoá protein glycoprotein bảo thủ qua nhiều thế hệ."],
+    "correct": 0,
+    "explanation": "Để lẩn tránh được hệ miễn dịch của người (không bị trung hoà), HIV tiến hoá liên tục do bộ gen là ARN dễ biến đổi. Gen mã hoá gai glicoprotein của HIV liên tục biến đổi tạo ra các biến thể mới, làm cho kháng thể ở người không thể nhận diện để gắn vào trung hoà chúng.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Từ sự sụp đổ của chủ nghĩa xã hội ở Liên Xô và Đông Âu, Việt Nam có thể rút ra bài học gì cho công cuộc xây dựng chế độ chủ nghĩa xã hội ngày nay?",
+    "image": null,
+    "options": ["Giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam.", "Tập trung cải cách chế độ chính trị trên con đường đổi mới.", "Thừa nhận chế độ đa nguyên, đa đảng, mở rộng quyền dân chủ.", "Tiếp thu thành tựu của cuộc cách mạng khoa học công nghệ."],
+    "correct": 0,
+    "explanation": "Bài học sâu sắc nhất rút ra từ sự sụp đổ của Liên Xô và Đông Âu đó là phải thường xuyên chăm lo xây dựng đảng để giữ vững vai trò cầm quyền của Đảng, bộ máy chính quyền trong sạch vững mạnh và gắn bó với nhân dân. Xây dựng đảng vững mạnh về chính trị, tư tưởng, tổ chức, luôn luôn gắn bó mật thiết với nhân dân, nắm chắc quần chúng và động viên được sức mạnh của nhân dân. Như vậy, đáp án đúng là giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Biển Đông nằm trên tuyến đường giao thông đường biển huyết mạch nối liền hai châu lục nào sau đây?",
+    "image": null,
+    "options": ["Châu Âu và châu Á", "Châu Phi và châu Mĩ", "Châu Âu và châu Phi", "Châu Á và châu Mĩ"],
+    "correct": 0,
+    "explanation": "Biển Đông có vị trí quan trọng trong giao thông hàng hải quốc tế, tập trung các tuyến đường biển huyết mạch kết nối Thái Bình Dương - Ấn Độ Dương, châu Âu - châu Á, Trung Đông - Đông Á.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Trong giai đoạn 1918 – 1920, ở Nga đã diễn ra sự kiện nào sau đây?",
+    "image": null,
+    "options": ["Cuộc cải cách kinh tế, chính trị, xã hội toàn diện.", "Cách mạng lật đổ Chính phủ lâm thời của tư sản.", "Cuộc đấu tranh đánh bại liên minh 14 nước đế quốc.", "Xác lập chính quyền Xô viết trên toàn lãnh thổ."],
+    "correct": 2,
+    "explanation": "Trong những năm 1918 – 1920, quân đội 14 nước đế quốc (do Mĩ đứng đầu) đã liên kết với lực lượng chống đối trong nước tấn công nước Nga Xô viết. Để bảo vệ thành quả của Cách mạng tháng Mười, nước Nga Xô viết và các nước cộng hòa Xô viết đồng minh đã liên minh với nhau và đánh bại kẻ thù chung (1920). Như vậy, đáp án đúng là cuộc đấu tranh đánh bại liên minh 14 nước đế quốc.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Nội dung nào sau đây không đúng về thành Cổ Loa?",
+    "image": null,
+    "options": ["Là một trong những đô thị cổ nhất nước ta.", "Vừa là kinh đô vừa là căn cứ quân sự vững chắc.", "Là kinh đô quan trọng của nhà nước Văn Lang.", "Là trung tâm, kinh tế, chính trị, quân sự của nước Âu Lạc."],
+    "correct": 2,
+    "explanation": "Thành Cổ Loa là kinh đô của nước Âu Lạc, một trong những đô thị cổ nhất nước ta. Thành là trung tâm kinh tế, chính trị quân sự của nước Âu Lạc.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Trong thời kì 1954 - 1975, hoạt động đối ngoại của Việt Nam tập trung phục vụ sự nghiệp nào sau đây?",
+    "image": null,
+    "options": ["Bảo vệ miền Bắc, xây dựng chủ nghĩa xã hội.", "Giải phóng miền Nam, thống nhất đất nước.", "Bảo vệ và thống nhất chủ nghĩa xã hội.", "Thống nhất đất nước bằng con đường hoà bình."],
+    "correct": 1,
+    "explanation": "Sau năm 1954, miền Bắc từng bước xây dựng chủ nghĩa xã hội, miền Nam tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân, Trong bối cảnh mới, hoạt động đối ngoại của Việt Nam tập trung chủ yếu phục vụ sự nghiệp giải phóng miền Nam, thống nhất đất nước.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Chủ tịch Hồ Chí Minh chủ trì đại hội nào sau đây?",
+    "image": null,
+    "options": ["Đại hội đại biểu lần thứ nhất của Đảng Cộng sản Đông Dương.", "Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam.", "Đại hội Quốc tế Nông dân của Quốc tế Cộng sản.", "Đại hội lần thứ XVIII của Đảng Xã hội Pháp."],
+    "correct": 1,
+    "explanation": "Trong giai đoạn 1954 - 1969, Chủ tịch Hồ Chí Minh chủ trì và chỉ đạo xây dựng Nghị quyết Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9-1960). Nghị quyết nêu rõ: Đại hội này là Đại hội xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thống nhất nước nhà. Đại hội có ý nghĩa quan trọng trong cuộc kháng chiến chống Mỹ, cứu nước.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Hồ Quý Ly và triều Hồ thực hiện các chính sách nào sau đây nhằm hạn chế thế lực của quý tộc Trần?",
+    "image": null,
+    "options": ["Hạn điền, hạn nô.", "Hạn chế Phật giáo, hạn nô.", "Cải cách thi cử, dịch chữ Nôm.", "Phát hành tiền giấy, lập sổ ruộng."],
+    "correct": 0,
+    "explanation": "Năm 1407, cuộc kháng chiến chống quân Minh của nhà Hồ thất bại, đất nước ta bước vào thời kì bị nhà Minh đô hộ (1407 - 1427). Nhà Minh đã thi hành chính sách bóc lột, cai trị nặng nề đối với nhân dân Việt Nam. Năm 1418, Lê Lợi dựng cờ khởi nghĩa chống quân Minh. Như vậy, bối cảnh là khi kháng chiến chống Minh của nhà Hồ đã thất bại.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Trong hai lần kháng chiến chống quân Mông Cổ (1258) và quân Nguyên (1285), quân dân nhà Trần đã sử dụng kế sách nào sau đây để đối phó với quân giặc?",
+    "image": null,
+    "options": ["“Tien phat ché nhan”.", "Hành quân thần tốc.", "“Muru phat tam cong”.", "Ké sách “thanh dã”."],
+    "correct": 3,
+    "explanation": "Năm 1407, cuộc kháng chiến chống quân Minh của nhà Hồ thất bại, đất nước ta bước vào thời kì bị nhà Minh đô hộ (1407 - 1427). Nhà Minh đã thi hành chính sách bóc lột, cai trị nặng nề đối với nhân dân Việt Nam. Năm 1418, Lê Lợi dựng cờ khởi nghĩa chống quân Minh. Như vậy, bối cảnh là khi kháng chiến chống Minh của nhà Hồ đã thất bại.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Nội dung nào sau đây là vai trò của Liên hợp quốc về bảo đảm quyền con người, phát triển văn hoá, xã hội?",
+    "image": null,
+    "options": ["Giảm lãi suất cho vay ở hầu hết các nước phát triển.", "Tăng cường bình đẳng giới và vị thế, năng lực của phụ nữ.", "Cải thiện năng lực công nghệ thông tin.", "Hoàn thành phổ cập giáo dục đại học."],
+    "correct": 1,
+    "explanation": "Vai trò của Liên hợp quốc về bảo đảm quyền con người, phát triển văn hoá, xã hội. Ngay từ khi thành lập, Liên hợp quốc đã nỗ lực thúc đẩy việc xây dựng và kí kết những văn bản, điều ước quốc tế quan trọng nhằm bảo đảm quyền cơ bản của con người (đặc biệt là quyền đối với phụ nữ), xây dựng một thế giới an toàn hơn, công bằng hơn và tạo cơ hội phát triển cho tất cả mọi người. Tại Hội nghị Thượng đỉnh Thiên niên kỉ năm 2000, Liên hợp quốc đã đề ra Mục tiêu phát triển thiên niên kỉ nhằm xoá bỏ đói nghèo, hoàn thành phổ cập giáo dục tiểu học; tăng cường bình đẳng giới và vị thế, năng lực của phụ nữ, giảm tỉ lệ tử vong ở trẻ em, cải thiện sức khoẻ bà mẹ, phòng chống HIV/AIDS, sốt rét và các bệnh dịch khác, bảo đảm bền vững môi trường,....",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Năm 1967, Hiệp hội các nước Đông Nam Á (ASEAN) thành lập tại",
+    "image": null,
+    "options": ["Giacácta (Inđônêxia).", "Băng Cốc (Thái Lan).", "Kuala Lumpur (Malaixia).", "Malina (Philippin)."],
+    "correct": 1,
+    "explanation": "Năm 1967, Hiệp hội các nước Đông Nam Á (ASEAN) thành lập tại Băng Cốc (Thái Lan).",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Những thông tin nào sau đây là đúng về quá trình Việt Nam xác lập chủ quyền và quản lí đối với quần đảo Hoàng Sa và quần đảo Trường Sa? I. Việt Nam là Nhà nước đầu tiên xác lập chủ quyền và thực hiện quản lí liên tục đối với hai quần đảo Hoàng Sa và Trường Sa. II. Đến thời nhà Nguyễn, chủ quyền của nước ta với hai quần đảo này mới được thể hiện trên bản đồ. III. Chủ quyền của Việt Nam với Hoàng Sa và Trường Sa chỉ được ghi nhận trong tư liệu lịch sử Việt Nam. IV. Đội Hoàng Sa được thành lập từ thế kỉ XVII làm nhiệm vụ thực thi chủ quyền ở Hoàng Sa và Trường Sa.",
+    "image": null,
+    "options": ["I và II", "I và IV", "II và III", "III và IV"],
+    "correct": 1,
+    "explanation": "Xét từng thông tin: I. Việt Nam là Nhà nước đầu tiên xác lập chủ quyền và thực hiện quản lí liên tục với Hoàng Sa và Trường Sa. Đây là thông tin đúng. II. Đến thời nhà Nguyễn, chủ quyền của nước ta với hai quần đảo này mới được thể hiện trên bản đồ. Đây là thông tin sai vì từ thời các chúa Nguyễn (thế kỉ XVII) đã có những bản đồ thể hiện chủ quyền của Việt Nam như Toàn tập Thiên Nam tứ chí lộ đồ thư (1686), Giáp Ngọ niên bình Nam đồ (1774). III. Chủ quyền của Việt Nam với Hoàng Sa và Trường Sa chỉ được ghi nhận trong tư liệu lịch sử Việt Nam. Đây là thông tin sai vì chủ quyền của nước ta với hai quần đảo này không chỉ thể hiện trong tư liệu lịch sử Việt Nam mà còn trong lịch sử thế giới. IV. Đội Hoàng Sa được thành lập từ thế kỉ XVII làm nhiệm vụ thực thi chủ quyền ở Hoàng Sa và Trường Sa. Đây là thông tin đúng. Như vậy, đáp án đúng là I và IV.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Cuộc cải cách nông nô năm 1861 ở Nga có tính chất như một cuộc",
+    "image": null,
+    "options": ["cách mạng tư sản kiểu mới.", "cách mạng dân chủ tư sản.", "chiến tranh giải phóng dân tộc.", "cách mạng xã hội chủ nghĩa."],
+    "correct": 1,
+    "explanation": "Dựa vào đoạn tư liệu “cuộc cải cách nông nô năm 1861 tuy kết quả rất hạn chế nhưng đã phần nào tạo điều kiện cho kinh tế tư bản, đồng thời du nhập kĩ thuật mới của quá trình công nghiệp hoá ở châu Âu nên nước Nga đã có bước tiến triển đáng kể trên con đường TBCN và bước vào hàng ngũ các nước đế quốc.” Với những kết quả đạt được như vậy, cuộc cải cách nông nô có tính chất như một cuộc cách mạng dân chủ tư sản với hình thức một cuộc cải cách.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Trước Cách mạng 1905, trong nội bộ nước Nga KHÔNG xuất hiện mâu thuẫn nào sau đây?",
+    "image": null,
+    "options": ["Toàn thể nhân dân Nga với chế độ phong kiến.", "Trong nội bộ Đảng Công nhân Xã hội dân chủ Nga.", "Một bộ phận tư sản với nền quân chủ Nga hoàng.", "Giữa toàn thế giai cấp công nhân với giai cấp tư sản."],
+    "correct": 1,
+    "explanation": "Dựa vào đoạn tư liệu “tình hình nội bộ nước Nga rất phức tạp, chằng chéo nhiều mâu thuẫn giữa đông đảo nhân dân Nga với chế độ phong kiến, mâu thuẫn giữa một bộ phận tư sản với nền quân chủ Nga hoàng, mâu thuẫn giữa giai cấp công nhân với giai cấp tư sản và mâu thuẫn giữa đế quốc Nga với một số đế quốc khác.” Như vậy, thời điểm này chưa xuất hiện mâu thuẫn trong nội bộ Đảng Công nhân Xã hội dân chủ Nga.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Cách mạng dân chủ tư sản kiểu mới có điểm nào khác với cách mạng dân chủ tư sản?",
+    "image": null,
+    "options": ["Để lật đổ chế độ phong kiến.", "Thiết lập quyền thống trị của giai cấp vô sản.", "Do giai cấp vô sản lãnh đạo.", "Do liên minh tư sản và vô sản cũng lãnh đạo."],
+    "correct": 2,
+    "explanation": "Dựa vào thông tin đoạn tư liệu “Lênin chủ trương tiến hành cuộc cách mạng dân chủ tư sản kiểu mới do giai cấp vô sản lãnh đạo để lật đổ chế độ phong kiến quân chủ Nga hoàng” và kiến thức về cách mạng dân chủ tư sản kiểu mới cũng như cách mạng dân chủ tư sản kiểu cũ, theo đó cách mạng dân chủ kiểu mới: Làm nhiệm vụ của cách mạng dân chủ tư sản do giai cấp vô sản lãnh đạo, sau khi thắng lợi sẽ chuyển lên cách mạng xã hội chủ nghĩa. Như vậy, điểm khác biệt so với cách mạng dân chủ tư sản là do giai cấp vô sản lãnh đạo.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Hiệp định Pari về chấm dứt chiến tranh lập lại hòa bình ở Việt Nam được kí kết vào thời điểm nào?",
+    "image": null,
+    "options": ["Sau khi chiến dịch Hồ Chí Minh kết thúc thắng lợi.", "Trước khi Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời.", "Sau khi Chiến tranh lạnh chính thức chấm dứt.", "Sau thắng lợi oanh liệt của chiến dịch “Điện Biên Phủ trên không”."],
+    "correct": 3,
+    "explanation": "Tìm thông tin trong đoạn tài liệu “Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được kí chính thức ngày 27 – 1 – 1973 tại Pari giữa bốn ngoại trưởng, đại diện cho các chính phủ tham dự Hội nghị và bắt đầu có hiệu lực.” Như vậy, Hiệp định Pari được kí năm 1973, xem xét các phương án. - Phương án A. Chiến dịch Hồ Chí Minh năm 1975 nên phương án này sai. - Phương án B. Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời năm 1960 nên phương án này sai. - Phương án C. Chiến tranh lạnh chính thức chấm dứt năm 1989 nên phương án này sai. - Phương án D. Chiến thắng “Điện Biên Phủ trên không” diễn ra trong 12 ngày đêm cuối năm 1972 và đây cũng là thắng lợi quân sự quyết định buộc Mĩ phải kí với ta Hiệp định Pari.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Những quyền dân tộc cơ bản của Việt Nam mà Hoa Kì và các nước tham dự Hội nghị Pari (1973) cam kết tôn trọng bao gồm",
+    "image": null,
+    "options": ["độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.", "quyền tự quyết định tương lai chính trị qua tổng tuyển cử.", "hỗ trợ để hàn gắn vết thương chiến tranh.", "được sống hòa bình, dân chủ, bình đẳng."],
+    "correct": 0,
+    "explanation": "Tìm thông tin trong tài liệu “Hoa Kỳ và các nước cam kết tôn trọng độc lập, chủ quyền thống nhất và toàn vẹn lãnh thổ của Việt Nam” Đây chính là những quyền dân tộc cơ bản của Việt Nam mà các nước tham dự Hội nghị phải công nhân qua văn bản mang tính pháp lí quốc tế - Hiệp định Pari.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "22 năm sau ngày kí Hiệp định Pari, nội dung nào sau đây mới được Hoa Kì thực hiện?",
+    "image": null,
+    "options": ["Trao trả tù binh và dân thường bị bắt.", "Không can thiệp vào công việc nội bộ của miền Nam Việt Nam.", "Góp phần hàn gắn vết thương chiến tranh và bình thường hóa quan hệ.", "Ngừng bắn ở miền Nam Việt Nam."],
+    "correct": 2,
+    "explanation": "Theo nội dung Hiệp định Pari, Hoa Kì cam kết góp phần vào việc hàn gắn vết thương chiến tranh ở Việt Nam và Đông Dương, thiết lập quan hệ bình thường cùng có lợi với Việt Nam. Tuy nhiên, từ năm 1975, Mĩ tiến hành cấm vận Việt Nam và không có động thái góp phần hàn gắn vết thương chiến tranh. Đến năm 1995, Mĩ mới bình thường hóa quan hệ với Việt Nam, mở ra một thời kì mới trong quan hệ giữa hai nước. Như vậy, sau 22 năm kí Hiệp định Pari, nội dung góp phần hàn gắn vết thương chiến tranh và bình thường hóa quan hệ cùng có lợi với Việt Nam mới được Mĩ thực hiện.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Sự phân bố dân cư không đều theo lãnh thổ của Nga đã gây khó khăn cho việc",
+    "image": null,
+    "options": ["sử dụng hợp lí lao động và tài nguyên thiên nhiên.", "sử dụng hợp lí lao động và bảo vệ các tài nguyên.", "bảo vệ tài nguyên thiên nhiên và phát triển đời sống.", "phát triển đời sống và bảo vệ môi trường tự nhiên."],
+    "correct": 0,
+    "explanation": "Dân cư phân bố không đều, nơi nhiều tài nguyên thì không đủ lao động để khai thác, nơi tập trung nhiều lao động thì việc làm không đáp ứng đủ. Như vậy, việc phân bố dân cư không đều theo lãnh thổ của Nga đã gây khó khăn cho việc sử dụng hợp lí lao động và tài nguyên thiên nhiên.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Cho bảng số liệu: Trị giá xuất khẩu, nhập khẩu hàng hóa và dịch vụ của Liên bang Nga giai đoạn 2000 - 2020 (Đơn vị: tỉ USD). Năm: 2000, 2010, 2015, 2020. Xuất khẩu: 114,4; 444,5; 391,4; 381,0. Nhập khẩu: 62,4; 322,4; 281,6; 304,6. Nhận xét nào sau đây không đúng về trị giá xuất khẩu, nhập khẩu hàng hóa và dịch vụ của Liên bang Nga giai đoạn 2000 - 2020?",
+    "image": null,
+    "options": ["Từ 2000 đến 2020 trị giá xuất khẩu tăng 3,33 lần.", "Từ 2000 đến 2020 trị giá nhập khẩu tăng 4,88 lần.", "Liên bang Nga nhập siêu trong cả giai đoạn.", "Trị giá xuất khẩu tăng nhiều hơn trị giá nhập khẩu."],
+    "correct": 2,
+    "explanation": "Từ năm 2000 đến 2020, trị giá xuất khẩu tăng 3,33 lần, nhập khẩu tăng 4,88 lần, nên xuất khẩu tăng ít hơn nhập khẩu. Vì xuất khẩu luôn lớn hơn nhập khẩu nên trong cả giai đoạn này Liên bang Nga xuất siêu. Như vậy, đáp án cần chọn là Liên bang Nga nhập siêu trong cả giai đoạn.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Văn hóa - xã hội, khu vực Tây Nam Á có đặc điểm nào sau đây?",
+    "image": null,
+    "options": ["Nền văn hóa cởi mở, phóng khoáng mang đặc thù của khu vực.", "Hầu hết các quốc gia của khu vực có mức sống trung bình thấp.", "Hồi giáo là tôn giáo duy nhất có vị trí quan trọng ở khu vực này.", "Thường xuyên xảy ra xung đột sắc tộc, tôn giáo, tranh chấp lãnh thổ."],
+    "correct": 3,
+    "explanation": "Tây Nam Á thường xuyên có các xung đột sắc tộc, tôn giáo và tranh chấp biên giới,.. xảy ra ở một quốc gia hoặc giữa các quốc gia, đồng thời chịu sự can thiệp của một số cường quốc trên thế giới. Tình hình an ninh, chính trị bất ổn đã tác động tiêu cực đến phát triển kinh tế - xã hội của khu vực. Như vậy, đáp án đúng là thường xuyên xảy ra xung đột sắc tộc, tôn giáo, tranh chấp lãnh thổ.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Việc phát triển giao thông phía tây Bắc Trung Bộ đem lại ý nghĩa nào sau đây?",
+    "image": null,
+    "options": ["Khai thác rừng hiệu quả, thu hút vốn đầu tư, nâng cao dân trí.", "Phát huy thế liên hoàn, hình thành trung tâm kinh tế vừa, nhỏ.", "Tạo việc làm, chất lượng cuộc sống nâng cao, tạo đô thị mới.", "Thúc đẩy kinh tế, phân bố lại dân cư và mở rộng giao thương."],
+    "correct": 3,
+    "explanation": "Việc phát triển giao thông ở phía tây vùng Bắc Trung Bộ mang lại những ý nghĩa quan trọng trong việc thúc đẩy kinh tế, phân bố lại dân cư và mở rộng giao thương. - Thúc đẩy kinh tế: phát triển hạ tầng giao thông giúp kết nối các khu vực vùng sâu, vùng xa với trung tâm kinh tế, từ đó tạo điều kiện thuận lợi cho việc trao đổi hàng hóa, dịch vụ và phát triển sản xuất kinh doanh, đặc biệt là các lĩnh vực nông nghiệp, lâm nghiệp và du lịch sinh thái. - Phân bố lại dân cư: giao thông phát triển tạo điều kiện cho người dân di chuyển, định cư tại các khu vực mới, từ đó giúp giảm bớt áp lực dân số tại các vùng ven biển đông đúc, đồng thời khai thác hiệu quả tiềm năng vùng miền núi và trung du. - Mở rộng giao thương: hệ thống giao thông tốt giúp tăng cường kết nối giữa các tỉnh trong vùng, cũng như với các vùng khác trong cả nước và với nước bạn Lào qua các cửa khẩu biên giới. Điều này thúc đẩy hoạt động thương mại, giao lưu kinh tế và văn hóa. -> Việc phát triển giao thông ở phía tây Bắc Trung Bộ góp phần quan trọng vào quá trình phát triển kinh tế - xã hội toàn diện của khu vực.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Biện pháp phát triển kinh tế có hiệu quả của nhiều nước ở Mỹ Latinh hiện nay là",
+    "image": null,
+    "options": ["tích cực hội nhập, tự do hóa thương mại.", "giảm tỉ lệ lạm phát, giải quyết việc làm.", "chuyển dịch cơ cấu ngành, giảm thất nghiệp.", "tăng cường sự hợp tác giữa các nước."],
+    "correct": 0,
+    "explanation": "Hiện nay, một số nước đã tiến hành cải cách kinh tế, tích cực hội nhập, tự do hóa thương mại,... nên nền kinh tế từng bước được cải thiện và đạt nhiều thành tựu. Như vậy, đây chính là biện pháp phát triển kinh tế hiệu quả của nhiều nước ở Mỹ Latinh.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Cộng hòa Nam Phi có diện tích khoảng",
+    "image": null,
+    "options": ["1,4 triệu km2", "1,2 triệu km2", "1,1 triệu km2", "1,3 triệu km2"],
+    "correct": 1,
+    "explanation": "Cộng hòa Nam Phi có diện tích khoảng 1,2 triêu km2, nằm ở phía nam châu Phi, nằm hoàn toàn trong bán cầu Nam.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Cho bảng số liệu: Quy mô, cơ cấu dân số khu vực Đông Nam Á giai đoạn 2000, 2020. Trung tâm: 2000, 2020. Quy mô (triệu người): 525,0; 668,4. Cơ cấu dân số (%): Dưới 15 tuổi: 31,8; 25,2. Từ 15 đến 64 tuổi: 63,3; 67,7. Từ 65 tuổi trở lên: 4,9; 7,1. Biểu đồ nào thích hợp nhất để thể hiện quy mô và cơ cấu dân số của Đông Nam Á giai đoạn 2000, 2020?",
+    "image": null,
+    "options": ["Biểu đồ tròn.", "Biểu đồ miền.", "Biểu đồ thanh ngang.", "Biểu đồ kết hợp."],
+    "correct": 0,
+    "explanation": "Dựa vào từ khóa “quy mô và cơ cấu” và có số năm là 2 năm nên biểu đồ thích hợp nhất là biểu đồ tròn, mỗi năm là một hình tròn và có chia tỉ lệ bán kính.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Vùng kinh tế nào của Nhật Bản có diện tích lớn nhất, kinh tế phát triển nhất?",
+    "image": null,
+    "options": ["Kiu-xiu", "Xi-cô-cư", "Hôn-su", "Hô-cai-đô"],
+    "correct": 2,
+    "explanation": "+ Chiếm 61,2 % diện tích và khoảng 83,2 % dân số Nhật Bản. Đây là vùng kinh tế phát triển nhất của Nhật Bản. + Công nghiệp phát triển mạnh, phân bố chủ yếu ở bờ biển Thái Bình Dương. Nông nghiệp trồng lúa gạo, chè, dâu tằm, hoa quả; nuôi trồng và đánh bắt cá. + Các trung tâm công nghiệp lớn: Tô-ky-ô, I-ô-cô-ha-ma, Ca-oa-xa-ki, Na-gôi-a, Ky-ô-tô, Ô-xa-ca, Cô-bê, Phu-cu-a-ma,... + Vùng Hôn-su được chia thành 5 vùng kinh tế trọng điểm: Tô-hu-cô, Can-tô, Chu-bu, Can-sai, Chu-gô-cu; trong đó Can-tô và Can-sai là hai vùng quan trọng nhất.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Ngành khai thác than của Liên bang Nga phát triển mạnh nhất ở vùng nào?",
+    "image": null,
+    "options": ["Vùng Trung Tây", "Vùng Trung", "Vùng Nam", "Xi-bia và Viễn Đông"],
+    "correct": 3,
+    "explanation": "Liên bang Nga đứng thứ năm thế giới về sản lượng khai thác than, chiếm 5,2% sản lượng than toàn cầu. Các mỏ than có sản lượng khai thác cao nhất tập trung ở Xi-bia và Viên Đông.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Điều kiện nào sau đây thuận lợi để phát triển du lịch biển đảo ở nước ta?",
+    "image": null,
+    "options": ["Nằm gần các tuyến hàng hải quốc tế.", "Có nhiều vùng biển nước sâu, kín gió.", "Có nhiều bãi tắm đẹp, khí hậu tốt.", "Có tài nguyên khoáng sản phong phú."],
+    "correct": 2,
+    "explanation": "Có nhiều bãi tắm đẹp, khí hậu tốt là điều kiện thuận lợi để phát triển du lịch biển đảo ở nước ta.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Căn cứ vào nguồn gốc, có thể phân loại thành các nguồn lực nào sau đây?",
+    "image": null,
+    "options": ["Vị trí địa lí, kinh tế - xã hội, trong nước.", "Vị trí địa lí, tự nhiên, kinh tế - xã hội.", "Kinh tế - xã hội, trong nước, ngoài nước.", "Vị trí địa lí, kinh tế - xã hội, ngoài nước."],
+    "correct": 1,
+    "explanation": "Cách phân loại phổ biến hiện nay là căn cứ vào phạm vi lãnh thổ và nguồn gốc hình thành. Căn cứ vào nguồn gốc, có thể phân loại thành các nguồn lực vị trí địa lí, tự nhiên và kinh tế - xã hội. Căn cứ vào phạm vi lãnh thổ, có thể phân chia thành nguồn lực nội lực (nguồn lực trong nước) và ngoại lực (nguồn lực ngoài nước).",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Tuyên ngôn Băng Cốc (1967) của ASEAN đã đề ra mục tiêu nào sau đây?",
+    "image": null,
+    "options": ["Cân bằng trình độ phát triển của các nước.", "Vươn lên thành trung tâm kinh tế thế giới.", "Duy trì và thúc đẩy hòa bình, an ninh.", "Khắc phục khoảng cách giàu nghèo."],
+    "correct": 2,
+    "explanation": "Một trong những mục tiêu của tổ chức ASEAN được nêu trong Tuyên ngôn Băng Cốc năm 1967 là: Duy trì và thúc đẩy hòa bình, an ninh, ổn định, hướng tới hòa bình trong khu vực. Duy trì khu vực không có vũ khí hạt nhân và các loại vũ khí hủy diệt hàng loạt khác. Như vậy, đáp án đúng là duy trì và thúc đẩy hòa bình, an ninh.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Nguyên nhân chủ yếu nào sau đây làm cho chăn nuôi lợn và gia cầm tập trung nhiều ở các đồng bằng lớn ở nước ta?",
+    "image": null,
+    "options": ["Cơ sở thức ăn được đảm bảo tốt.", "Có nhiều mặt bằng để tập trung chuồng trại.", "Có nhiều cơ sở công nghiệp chế biến thịt.", "Nhu cầu thịt, trứng của người dân lớn."],
+    "correct": 0,
+    "explanation": "Thức ăn cung cấp cho ngành chăn nuôi lợn và gia cầm chủ yếu là lương thực, phụ phẩm nông nghiệp. Các vùng đồng bằng có thể mạnh về cây lương thực. có thể đáp ứng được nhu cầu thức ăn cho chăn nuôi lợn và gia cầm. Như vậy, đáp án đúng là cơ sở thức ăn được đảm bảo.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "ASEAN hiện nay đã là một tổ chức",
+    "image": null,
+    "options": ["mang tính khu vực có nền kinh tế năng động.", "có nền kinh tế phát triển nhất ở châu Á.", "phát triển và sử dụng đồng tiền chung.", "có các cơ quan chính trị và hiến pháp chung."],
+    "correct": 0,
+    "explanation": "Về thành tựu kinh tế, ASEAN trở thành một khu vực kinh tế năng động và có tốc độ phát triển cao trên thế giới. Những phương án còn lại chưa thực hiện được.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Ở vùng Đồng bằng sông Cửu Long chủ yếu có các loại đất nào sau đây?",
+    "image": null,
+    "options": ["Đất phèn, đất xám.", "Đất phù sa sông, đất khác.", "Đất mãn, đất phèn.", "Đất mãn, đất khác."],
+    "correct": 2,
+    "explanation": "- Dựa vào bản đồ + bảng chú giải -> Xác định các loại đất chủ yếu ở vùng Đồng bằng sông Cửu Long. - Các loại đất chủ yếu ở vùng Đồng bằng sông Cửu Long là đất mặn, đất phèn và đất phù sa ngọt. +) Đất phù sa ngọt có diện tích khoảng 1,2 triệu ha, phân bố thành một dải dọc sông Tiền và sông Hậu. +) Đất phèn chiếm diện tích lớn nhất (hơn 1,6 triệu ha), tập trung ở Đồng Tháp Mười, Tứ giác Long Xuyên và vùng trung tâm bán đảo Cà Mau. +) Đất mặn có diện tích khoảng 75 vạn ha, phân bố thành một dải ven Biển Đông và ven vịnh Thái Lan.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Đặc điểm nào sau đây của đất ở vùng Đồng bằng sông Cửu Long thuận lợi để phát triển vùng chuyên canh cây lương thực?",
+    "image": null,
+    "options": ["Đất phèn giữ nước tốt với độ pH trung tính.", "Đất phù sa có độ phì cao, phân bố tập trung.", "Nhiều loại đất đa dạng, màu sắc khác nhau.", "Đất phèn dọc ven biển, đất xám khá màu mỡ."],
+    "correct": 1,
+    "explanation": "- Đất phù sa ở Đồng bằng sông Cửu Long có độ phì nhiêu cao, rất giàu dinh dưỡng, đặc biệt là đạm, lân và kali, cung cấp các chất cần thiết cho sự phát triển của cây lương thực. - Đất phù sa ở Đồng bằng sông Cửu Long phân bố rộng rãi và tập trung thành nhiều vùng rộng tạo ra những vùng đồng bằng lớn, thuận lợi cho việc canh tác quy mô lớn và cơ giới hóa trong nông nghiệp. - Đất phù sa có khả năng giữ nước tốt, đặc biệt quan trọng đối với cây lúa, loại cây trồng cần nhiều nước để phát triển. -> Đặc điểm của đất phù sa ở vùng Đồng bằng sông Cửu Long rất thuận lợi để phát triển vùng chuyên canh cây lương thực, đặc biệt là cây lúa.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Vào mùa khô, ở Đồng bằng sông Cửu Long bị xâm nhập mặn nặng do nguyên nhân chủ yếu nào sau đây?",
+    "image": null,
+    "options": ["Ba mặt giáp biển, địa hình thấp và sông ngòi, kênh rạch chằng chịt.", "Có nhiều vùng trũng lớn, địa hình đa dạng và đường bờ biển kéo dài.", "Hệ thống sông ngòi dày đặc, nhiều cửa sông và thực vật phong phú.", "Vị trí tiếp giáp với biển, đường bờ biển kéo dài, nhiều đất khác nhau."],
+    "correct": 0,
+    "explanation": "Vào mùa khô, ở Đồng bằng sông Cửu Long bị xâm nhập mặn nặng nguyên nhân chủ yếu do vùng này có ba mặt tiếp giáp với biển rộng, địa hình thấp và sông ngòi, kênh rạch chằng chịt. - Đồng bằng sông Cửu Long có ba mặt giáp biển, làm cho nước mặn từ biển dễ dàng xâm nhập vào đất liền qua các cửa sông. - Địa hình thấp ở Đồng bằng sông Cửu Long tạo điều kiện cho nước mặn lấn sâu vào đất liền, đặc biệt là vào mùa khô khi mực nước ngọt từ sông Mê Công giảm mạnh. - Hệ thống sông ngòi, kênh rạch chằng chịt ở vùng đồng bằng này không chỉ là đường dẫn nước ngọt mà còn là con đường để nước mặn từ biển xâm nhập vào sâu hơn trong đất liền khi lượng nước ngọt từ thượng nguồn không đủ mạnh để đẩy nước mặn ra vào mùa khô.",
+    "passage": null
+  }
+]

@@ -1,0 +1,1181 @@
+[
+  {
+    "id": 101,
+    "question": "Một tảng băng có phần thể tích chìm trong nước là 80% tổng thể tích. Khối lượng riêng của nước là 1000kg/m³. Tảng băng trôi dưới tác dụng của lực đẩy của nước với độ lớn bằng 0,45% trọng lượng của tảng băng. Tính gia tốc trôi của tảng băng. Lấy g = 10m/s².",
+    "image": null,
+    "options": [
+      "0,045m/s².",
+      "0,45m/s².",
+      "0,0405m/s².",
+      "0,0045m/s²."
+    ],
+    "correct": 0,
+    "explanation": "Áp dụng định luật II Newton: a = 0,45% · g = 0,0045 · 10 = 0,045 m/s².",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Một vật dao động với biên độ 10cm. Trong một chu kì, thời gian vật có tốc độ lớn hơn một giá trị v₀ nào đó là 1s. Tốc độ trung bình khi đi một chiều giữa hai vị trí có cùng tốc độ v₀ ở trên là 20cm/s. Tốc độ v₀ là bao nhiêu?",
+    "image": null,
+    "options": [
+      "25,4cm/s.",
+      "35,14cm/s.",
+      "18,14cm/s.",
+      "3,14cm/s."
+    ],
+    "correct": 2,
+    "explanation": "x₀ = 5 cm, ω = 2π/3 → v₀ = ω√(A² - x₀²) = 18,14 cm/s.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Từ mặt đất, một vật được ném lên thẳng đứng với vận tốc ban đầu 10m/s. Bỏ qua sức cản không khí. Cho g = 10 m/s². Vị trí cao nhất mà vật lên được cách mặt đất một khoảng bằng:",
+    "image": null,
+    "options": [
+      "10m.",
+      "20m.",
+      "15m.",
+      "5m."
+    ],
+    "correct": 3,
+    "explanation": "Cơ năng bảo toàn: (1/2)v₀² = gh → h = 5 m.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Thực hiện thí nghiệm giao thoa sóng cơ trên mặt chất lỏng với 2 nguồn cùng pha có tần số f = 30(Hz), vận tốc truyền sóng trong môi trường là 150(cm/s). Trên mặt chất lỏng có 4 điểm có tọa độ so với các nguồn lần lượt như sau: M(d₁ = 25cm; d₂ = 30cm); N(d₁ = 5cm; d₂ = 10cm); O(d₁ = 7cm; d₂ = 12cm); P(d₁ = 27,5cm; d₂ = 30cm). Hỏi có mấy điểm nằm trên đường cực đại số 1.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "λ = 5 cm. Các điểm M, N, O có Δd = λ → nằm trên đường cực đại số 1. Có 3 điểm.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Một vật nhỏ m = 200g rơi tự do. Lấy g = 10m/s². Độ biến thiên động lượng của vật từ thời điểm thứ hai đến thời điểm thứ sáu kể từ lúc bắt đầu rơi là:",
+    "image": null,
+    "options": [
+      "0,8 (kg.m/s).",
+      "8 (kg.m/s).",
+      "80 (kg.m/s).",
+      "800 (kg.m/s)."
+    ],
+    "correct": 1,
+    "explanation": "Δp = m(v₆ - v₂) = 0,2 · 10 · (6 - 2) = 8 kg·m/s.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Khi đến các trạm dừng để đón hoặc trả khách, xe buýt chỉ tạm dừng mà không tắt máy. Hành khách ngồi trên xe nhận thấy thân xe bị “rung”. Dao động của thân xe lúc đó là dao động",
+    "image": null,
+    "options": [
+      "cộng hưởng.",
+      "tắt dần.",
+      "cưỡng bức.",
+      "điều hòa."
+    ],
+    "correct": 2,
+    "explanation": "Dao động cưỡng bức do động cơ vẫn hoạt động.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Cho một bộ dụng cụ gồm điện trở R, khóa K và ampe kế. Sơ đồ mạch điện nào sau đây sẽ xác định được cường độ dòng điện qua điện trở R.",
+    "image": null,
+    "options": [
+      "Hình 1",
+      "Hình 2",
+      "Hình 3",
+      "Hình 4"
+    ],
+    "correct": 0,
+    "explanation": "Ampe kế phải mắc nối tiếp với điện trở cần đo (Hình 1).",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Ánh sáng thông thường khi truyền đi xa trong không khí dễ bị các phần tử trong không khí gây ra hiện tượng tán xạ. Với tia hồng ngoại thì rất ít bị không khí hoặc những phần tử nhỏ lơ lửng trong không khí (như hơi nước) tán xạ, nếu dùng phim bắt nhạy tia hồng ngoại, ta có thể chụp được những bức ảnh của những vật ở rất xa một cách rõ nét và có thể chụp về ban đêm. Điều này thể hiện tính chất nào của tia hồng ngoại?",
+    "image": null,
+    "options": [
+      "Tác dụng nhiệt rất mạnh.",
+      "Bước sóng dài hơn ánh sáng nhìn thấy.",
+      "Gây ra một số phản ứng hóa học.",
+      "Có thể biến điệu như sóng điện từ cao tần."
+    ],
+    "correct": 1,
+    "explanation": "Tia hồng ngoại có bước sóng dài nên ít bị tán xạ.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Phương pháp làm giảm hao phí điện năng trong máy biến áp là:",
+    "image": null,
+    "options": [
+      "để máy biến áp ở nơi khô thoáng.",
+      "lõi của máy biến áp được cấu tạo bằng một khối thép đặc.",
+      "lõi của máy biến áp được cấu tạo bởi các lá thép mỏng ghép cách điện với nhau.",
+      "tăng độ cách điện trong máy biến áp."
+    ],
+    "correct": 2,
+    "explanation": "Lõi bằng các lá thép mỏng ghép cách điện giúp giảm dòng điện xoáy.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Tại thời điểm t = 0,5s số chỉ hiển thị trên ampe kế là 4A. Giá trị đó là:",
+    "image": null,
+    "options": [
+      "Cường độ hiệu dụng",
+      "Cường độ cực đại",
+      "Cường độ tức thời",
+      "Cường độ trung bình"
+    ],
+    "correct": 2,
+    "explanation": "Số chỉ tại thời điểm t là giá trị tức thời.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Tính khối lượng riêng của không khí ở đỉnh Fansipan (Phăng xi phăng) trong dãy Hoàng Liên Sơn cao 3140m. Biết mỗi khi lên cao thêm 10m, áp suất khí quyển giảm 1mmHg và nhiệt độ trên đỉnh núi là 2°C. Khối lượng riêng của không khí chuẩn là 1,29kg/m³.",
+    "image": null,
+    "options": [
+      "0,125kg/m³.",
+      "0,525kg/m³.",
+      "0,75kg/m³.",
+      "0,715kg/m³."
+    ],
+    "correct": 2,
+    "explanation": "ρ₂ = 1,29 · (446/760) · (273/275) ≈ 0,75 kg/m³.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Hạt nhân nào sau đây có thể phân hạch?",
+    "image": null,
+    "options": [
+      "¹²₆C.",
+      "²³⁹₉₄U.",
+      "⁷₃Li.",
+      "¹⁴₇N."
+    ],
+    "correct": 1,
+    "explanation": "Phân hạch xảy ra với các hạt nhân nặng như uranium.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Ban đầu có m₀ = 21g chất phóng xạ ²¹⁰₈₄Po, chất này phóng xạ ra hạt α và biến thành một hạt nhân bền. Hãy tìm thể tích khí Helium sinh ra ở điều kiện tiêu chuẩn trong thời gian 30 ngày. Biết chu kì bán rã ²¹⁰₈₄Po là T = 138 ngày.",
+    "image": null,
+    "options": [
+      "V = 3,12l.",
+      "V = 0,313l.",
+      "V = 1,31l.",
+      "V = 0,131l."
+    ],
+    "correct": 1,
+    "explanation": "V = 0,313 lít.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Một khung dây phẳng, diện tích 20cm², gồm 10 vòng dây đặt trong từ trường đều, góc giữa B và vector pháp tuyến là 30°, B = 2.10⁻⁴T, làm cho từ trường giảm đều về 0 trong thời gian 0,01s. Hãy xác định suất điện động cảm ứng sinh ra trong khung dây?",
+    "image": null,
+    "options": [
+      "3,46.10⁻⁴V.",
+      "6,92.10⁻⁴V.",
+      "1,73.10⁻⁴V.",
+      "5,19.10⁻⁴V."
+    ],
+    "correct": 0,
+    "explanation": "e = N·ΔΦ/Δt = 3,46·10⁻⁴ V.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Xác định độ lớn của điện trường trong vùng giữa các tấm và chỉ ra hướng của nó trên hình trên.",
+    "image": null,
+    "options": [
+      "200V/m.",
+      "2000V/m.",
+      "20000V/m.",
+      "200000V/m."
+    ],
+    "correct": 2,
+    "explanation": "E = V/d = 200/0,01 = 20000 V/m.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Xác định độ lớn và hướng của gia tốc của electron trong vùng giữa các tấm.",
+    "image": null,
+    "options": [
+      "3.10⁸ m/s².",
+      "3,5.10¹⁵ m/s².",
+      "3,5.10¹⁰ m/s².",
+      "4,5.10⁵ m/s²."
+    ],
+    "correct": 1,
+    "explanation": "a = qE/m ≈ 3,5·10¹⁵ m/s² (hướng lên trên).",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Xác định độ lớn của độ dịch chuyển theo phương thẳng đứng của electron trong khoảng thời gian mà nó di chuyển qua vùng giữa các tấm.",
+    "image": null,
+    "options": [
+      "4,9.10⁻³ m.",
+      "5,5.10⁻³ m.",
+      "3,5.10⁻³ m.",
+      "6,3.10⁻³ m."
+    ],
+    "correct": 0,
+    "explanation": "y = (1/2)at² = 4,9·10⁻³ m.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Đun nóng 37,5 gam dung dịch glucose với lượng AgNO₃/dung dịch NH₃ dư, thu được 6,48 gam Ag. Nồng độ % của dung dịch glucose là",
+    "image": null,
+    "options": [
+      "11,4%.",
+      "14,4%.",
+      "13,4%.",
+      "12,4%."
+    ],
+    "correct": 1,
+    "explanation": "n_Ag = 0,06 mol → n_glucose = 0,03 mol → C% = 14,4%.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Ứng dụng nào sau đây không phải của khí nitrogen trong đời sống sản xuất?",
+    "image": null,
+    "options": [
+      "Trong phòng cháy, chữa cháy.",
+      "Trong công nghệ đóng gói thực phẩm.",
+      "Trong sản xuất dược phẩm.",
+      "Trong khai thác dầu khí."
+    ],
+    "correct": 2,
+    "explanation": "Nitrogen không dùng trong sản xuất dược phẩm theo các ứng dụng phổ biến nêu.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Xu hướng biến đổi bán kính nguyên tử ảnh hưởng đến",
+    "image": null,
+    "options": [
+      "số hạt electron trong nguyên tử của nguyên tố.",
+      "số hạt proton trong nguyên tử của nguyên tố.",
+      "một số tính chất vật lí và tính chất hóa học của nguyên tố.",
+      "số hạt neutron trong nguyên tử của nguyên tố."
+    ],
+    "correct": 2,
+    "explanation": "Ảnh hưởng đến tính chất vật lí và hóa học của nguyên tố.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Phát biểu nào sau đây là không đúng khi nói về polymer?",
+    "image": null,
+    "options": [
+      "Polyethylene (PE) là polymer tổng hợp.",
+      "Nylon-6,6 thuộc loại polymer trùng ngưng.",
+      "Tinh bột, cellulose là polymer tự nhiên.",
+      "Các loại tơ như tơ tằm; tơ nylon-6,6;... đều là polymer tự nhiên."
+    ],
+    "correct": 3,
+    "explanation": "Tơ nylon-6,6 là polymer tổng hợp, không phải tự nhiên.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Cho m gam hỗn hợp X gồm Al, Cu vào dung dịch HCl (dư), sau khi kết thúc phản ứng sinh ra 3,7185 lít khí (ở đkc). Nếu cho m gam hỗn hợp X trên vào một lượng dư nitric acid (đặc, nguội), sau khi kết thúc phản ứng sinh ra 7,437 lít khí NO₂ (sản phẩm khử duy nhất, ở đkc). Giá trị của m là",
+    "image": null,
+    "options": [
+      "11,5 g.",
+      "12,3 g.",
+      "10,5 g.",
+      "15,6 g."
+    ],
+    "correct": 1,
+    "explanation": "n_Al = 0,1 mol; n_Cu = 0,15 mol → m = 12,3 g.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Tổng số hợp chất hữu cơ no, đơn chức, mạch hở, có cùng công thức phân tử C₅H₁₀O₂, phản ứng với dung dịch NaOH nhưng không có phản ứng tráng bạc là",
+    "image": null,
+    "options": [
+      "4.",
+      "5.",
+      "8.",
+      "9."
+    ],
+    "correct": 3,
+    "explanation": "Có 4 acid + 5 ester = 9 hợp chất.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Các alkyne ở trạng thái lỏng hoặc rắn có số nguyên tử carbon",
+    "image": null,
+    "options": [
+      "≥ 5",
+      "< 5.",
+      "> 2.",
+      "≥ 2."
+    ],
+    "correct": 0,
+    "explanation": "Alkyne lỏng hoặc rắn có số C ≥ 5.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Cho biết sự phân bố electron theo lớp của nguyên tử K như sau: Tổng số electron ở lớp L và lớp N trong nguyên tử K là",
+    "image": null,
+    "options": [
+      "10.",
+      "18.",
+      "3.",
+      "9."
+    ],
+    "correct": 3,
+    "explanation": "Lớp L có 8e, lớp N có 1e → tổng 9.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Nguyên tố X thuộc chu kì 4, nhóm IIIA. Cấu hình electron nguyên tử của X là",
+    "image": null,
+    "options": [
+      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+      "1s² 2s² 2p⁶ 3s² 3p⁶ 3d² 4s²",
+      "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p¹",
+      "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p³"
+    ],
+    "correct": 2,
+    "explanation": "X thuộc chu kì 4, nhóm IIIA → cấu hình 1s²2s²2p⁶3s²3p⁶3d¹⁰4s²4p¹.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Đưa dây Pt có tấm NaCl vào ngọn lửa không màu thì ngọn lửa có màu gì?",
+    "image": null,
+    "options": [
+      "Đỏ.",
+      "Vàng.",
+      "Xanh.",
+      "Tím."
+    ],
+    "correct": 1,
+    "explanation": "NaCl làm ngọn lửa có màu vàng.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Tên gọi nào sau đây không phù hợp với hợp chất NH₂CH(CH₃)COOH?",
+    "image": null,
+    "options": [
+      "2-aminopropanoic acid.",
+      "Alanine.",
+      "α-aminopropionic acid.",
+      "α-aminoisopropionic acid."
+    ],
+    "correct": 3,
+    "explanation": "α-aminoisopropionic acid không đúng với cấu trúc NH₂CH(CH₃)COOH.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Polymer bị nóng chảy khi đun nóng được gọi là polymer",
+    "image": null,
+    "options": [
+      "phân hủy.",
+      "nhiệt rắn.",
+      "hóa hợp.",
+      "nhiệt dẻo."
+    ],
+    "correct": 3,
+    "explanation": "Polymer nóng chảy khi đun nóng là polymer nhiệt dẻo.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Chất nào sau đây cùng dãy đồng đẳng với benzene?",
+    "image": null,
+    "options": [
+      "C₈H₁₆.",
+      "C₈H₁₄.",
+      "C₈H₁₂.",
+      "C₈H₁₀."
+    ],
+    "correct": 3,
+    "explanation": "Dãy đồng đẳng benzene: CₙH₂ₙ₋₆ → C₈H₁₀.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Melatonin có vai trò quan trọng trong điều hòa giấc ngủ. Phần trăm khối lượng các nguyên tố trong melatonin như sau: %C = 67,241%; %H = 6,897%; %N = 12,069%; còn lại là oxygen. Biết trong phân tử melatonin có 2 nguyên tử nitrogen. Phân tử khối của melatonin là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "232",
+    "explanation": "M = (2×14)/0,12069 ≈ 232.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Một dây phơi quần áo gồm một đoạn dây đồng nối với một đoạn dây thép. Hiện tượng nào sau đây xảy ra ở chỗ nối hai đoạn dây khi để lâu ngày?",
+    "image": null,
+    "options": [
+      "Sắt bị ăn mòn.",
+      "Đồng bị ăn mòn.",
+      "Sắt và đồng đều bị ăn mòn.",
+      "Sắt và đồng đều không bị ăn mòn."
+    ],
+    "correct": 0,
+    "explanation": "Sắt có tính khử mạnh hơn nên bị ăn mòn điện hóa.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Nhận định nào dưới đây là nhận định đúng? Trong ăn mòn điện hoá học, xảy ra",
+    "image": null,
+    "options": [
+      "sự oxi hoá ở cực dương.",
+      "sự khử ở cực âm.",
+      "sự oxi hoá ở cực dương và sự khử ở cực âm.",
+      "sự oxi hoá ở cực âm và sự khử ở cực dương."
+    ],
+    "correct": 3,
+    "explanation": "Oxi hóa ở cực âm, khử ở cực dương.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Trong các trường hợp sau, trường hợp kim loại bị ăn mòn điện hoá học là",
+    "image": null,
+    "options": [
+      "kim loại Zn trong dung dịch HCl.",
+      "thép carbon để trong không khí ẩm.",
+      "đốt cháy dây Fe trong khí O₂.",
+      "kim loại Cu trong dung dịch HNO₃ loãng."
+    ],
+    "correct": 1,
+    "explanation": "Thép carbon trong không khí ẩm tạo pin điện hóa.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Cho những thông tin sau về chu kì tế bào của tế bào. Hãy tìm thông tin SAI.",
+    "image": null,
+    "options": [
+      "Chu kỳ tế bào gồm hai thời kỳ xen kẽ nhau đó là kỳ trung gian và nguyên phân.",
+      "Tùy từng loại tế bào trong cơ thể mà thời gian của chu kỳ tế bào cũng như thời gian của các pha có sự khác nhau.",
+      "Thời gian của chu kỳ tế bào không phụ thuộc vào tốc độ phân bào ở những giai đoạn khác nhau trong sự phát triển cơ thể.",
+      "Kỳ trung gian là giai đoạn chuẩn bị cơ sở vật chất cho sự phân chia tế bào."
+    ],
+    "correct": 2,
+    "explanation": "Thời gian chu kỳ tế bào phụ thuộc vào tốc độ phân bào ở các giai đoạn phát triển.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Khi cạn kiệt nguồn sống, vi khuẩn sẽ sinh sản bằng",
+    "image": null,
+    "options": [
+      "trực phân theo chiều dọc.",
+      "bào tử.",
+      "trực phân theo chiều ngang.",
+      "sinh sản hữu tính."
+    ],
+    "correct": 1,
+    "explanation": "Khi môi trường khắc nghiệt, vi khuẩn hình thành bào tử.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Mô tả đặc điểm của loại van tim nào giúp cho máu lưu thông đúng theo một chiều từ tim đến các cơ quan?",
+    "image": null,
+    "options": [
+      "Van ba lá mở ra cho máu đi một chiều từ nhĩ phải xuống thất phải và đóng lại khi dòng máu được bơm từ thất phải qua van động mạch phổi vào động mạch phổi đưa máu lên phổi để trao đổi oxygen.",
+      "Van hai lá nằm giữa tâm thất trái và tâm nhĩ trái. Cho phép máu đi một chiều từ nhĩ trái xuống thất trái, dòng máu từ thất trái qua van động mạch chủ vào động mạch chủ đưa máu đi nuôi toàn cơ thể.",
+      "Van động mạch phổi gồm có ba van nhỏ hình tổ chim nằm giữa tâm thất phải và động mạch phổi. Van giúp kiểm soát dòng máu từ tim vào động mạch phổi, đảm bảo máu chảy đúng một chiều, không bị rò rỉ ngược.",
+      "Van động mạch chủ nằm giữa tâm thất trái và động mạch chủ. Tâm thất trái co bóp đẩy máu vào động mạch chủ và đóng lại để ngăn dòng máu từ động mạch chủ chảy trở ngược về thất trái."
+    ],
+    "correct": 3,
+    "explanation": "Van động mạch chủ đảm bảo máu đi một chiều từ tim ra cơ quan.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Hoạt động chó chăn cừu ứng dụng hiện tượng tập tính nào ở động vật?",
+    "image": null,
+    "options": [
+      "Sử dụng tập tính học được để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập tính bẩm sinh để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập tính di truyền từ bố mẹ để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập tính di truyền của loài để huấn luyện động vật phục vụ chăn nuôi"
+    ],
+    "correct": 0,
+    "explanation": "Tập tính học được qua huấn luyện.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Thực vật 1 lá mầm như tre, trúc có thể tăng chiều cao lên nhanh chóng do",
+    "image": null,
+    "options": [
+      "ngoài mô phân sinh ngọn còn có mô phân sinh lóng.",
+      "ngoài mô phân sinh ngọn còn có mô phân sinh bên.",
+      "mô phân sinh đỉnh hoạt động tích cực suốt ngày đêm.",
+      "mô phân sinh bên hoạt động rất tích cực suốt ngày đêm."
+    ],
+    "correct": 0,
+    "explanation": "Có thêm mô phân sinh lóng giúp tăng chiều cao nhanh.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Loài ong có những hình thức sinh sản nào?",
+    "image": null,
+    "options": [
+      "Sinh sản hữu tính và trinh sản",
+      "Sinh sản sinh dưỡng và trinh sản",
+      "Nảy chồi và phân mảnh",
+      "Sinh sản hữu tính và nảy chồi"
+    ],
+    "correct": 0,
+    "explanation": "Ong sinh sản hữu tính và trinh sản.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Từ đặc điểm nào của tuyến yên có thể cho thấy mối quan hệ giữa hoạt động của 3 hệ: thần kinh, nội tiết và sinh sản của cơ thể người?",
+    "image": null,
+    "options": [
+      "Các hormone estrogen, testosterone đều do tuyến yên chỉ đạo tuyến sinh dục tiết ra. Các hormone này tác động lên cơ thể và gây biến đổi cơ thể vào tuổi dậy thì.",
+      "Vùng dưới đồi là liên kết thần kinh với hệ thống nội tiết, từ đó thông báo cho tuyến yên sản sinh hoặc giảm tiết hormone FSH hoặc LH ảnh hưởng đến tinh hoàn và buồng trứng tiết estrogen, testosterone.",
+      "Tuyến yên là tuyến quan trọng trong hệ nội tiết bởi hormone tăng trưởng, ACTH, ADH, prolactin....đều được tạo ra bởi tuyến yên được đưa vào máu đi đến cơ quan đích.",
+      "Tuyến yên là một tuyến nội tiết quan trọng trong hệ nội tiết. Cùng với hệ thần kinh, điều hòa điều khiển hoạt động sản sinh ra hormone insulin tác động làm giảm đường huyết."
+    ],
+    "correct": 1,
+    "explanation": "Vùng dưới đồi (thần kinh) điều khiển tuyến yên (nội tiết) ảnh hưởng tuyến sinh dục (sinh sản).",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Ở một loài thực vật, cho cơ thể dị hợp tử 1 cặp gene đột biến đa bội thành thể tứ bội. Sau đó cho tự thụ phấn cả 2 dạng lưỡng bội và tứ bội. Hãy tính sự biểu hiện kiểu hình lặn ở đời sau của dạng tứ bội gấp bao nhiêu lần dạng lưỡng bội",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Tỉ lệ lặn lưỡng bội 1/4, tứ bội 1/36 → gấp 4 lần.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Allele là gì?",
+    "image": null,
+    "options": [
+      "Là các bậc cấu trúc khác nhau của DNA.",
+      "Là các trạng thái khác nhau của cùng 1 gene.",
+      "Là các trạng thái khác nhau của cùng 1 tính trạng.",
+      "Là các trạng thái khác nhau của cùng 1 kiểu hình."
+    ],
+    "correct": 1,
+    "explanation": "Allele là các trạng thái khác nhau của cùng một gene.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Cá thể có kiểu gene SsSs phát triển thành giới gì và khả năng sinh sản ra sao?",
+    "image": null,
+    "options": [
+      "Con cái, hữu thụ",
+      "Con cái, bất thụ",
+      "Con đực, bất thụ",
+      "Con đực, hữu thụ"
+    ],
+    "correct": 2,
+    "explanation": "Kiểu gene đồng hợp tử → đực bất thụ.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Có bao nhiêu phép lai có thể xảy ra khi cho cơ thể cái và đực của loài giao phối với nhau?",
+    "image": null,
+    "options": [
+      "648",
+      "136",
+      "318",
+      "324"
+    ],
+    "correct": 3,
+    "explanation": "36 kiểu gene cái × 9 kiểu gene đực = 324 phép lai.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Hãy tìm ra trình tự các bước của phương pháp làm tăng nguồn vật liệu và chọn lọc cho nhiệm vụ tạo giống mới? 1. Xây dựng ngân hàng gene. 2. Thu thập các vật liệu ban đầu từ thiên nhiên 3. Lai tạo giống tạo ra sự đa dạng của vật liệu di truyền. 4. Sử dụng nguồn gene bằng kĩ thuật di truyền. 5. Chọn lọc vật liệu di truyền phù hợp: từ kiểu hình đến kiểu gene.",
+    "image": null,
+    "options": [
+      "3 – 2 – 5 – 1 – 4",
+      "2 – 3 – 5 – 1 – 4",
+      "2 – 3 – 1 – 4 – 5",
+      "5 – 2 – 1 – 3 – 4"
+    ],
+    "correct": 2,
+    "explanation": "Trình tự đúng: 2 – 3 – 1 – 4 – 5.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Hội chứng nào ở người bộ NST bị thiếu 1 NST?",
+    "image": null,
+    "options": [
+      "Hội chứng Klinefelter",
+      "Hội chứng Turner",
+      "Hội chứng Down",
+      "Hội chứng siêu nữ"
+    ],
+    "correct": 1,
+    "explanation": "Hội chứng Turner: 44A + X (thiếu 1 NST).",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Mệnh đề nào SAI khi nói về bằng chứng sinh học phân tử của tiến hóa cùng nguồn gốc?",
+    "image": null,
+    "options": [
+      "DNA của các loài đều được cấu tạo từ 4 loại nucleotide, khác nhau ở thành phần, số lượng, trình tự sắp xếp của các loại đơn phân. Sự giống và khác nhau nhiều hay ít phản ánh mức độ quan hệ họ hàng giữa các loài.",
+      "Tính thống nhất của sinh giới còn thể hiện ở mã di truyền. Tất cả các loài sinh vật hiện nay đều sử dụng chung 1 bộ mã di truyền, đều dùng cùng 20 loại amino acid để cấu tạo nên protein.",
+      "Sự tương đồng về nhiều đặc điểm ở tế bào cũng chứng minh cho mối quan hệ họ hàng giữa các loài trên Trái Đất. Cấu tạo các phân tử tế bào và hoạt động sinh hóa cơ bản là giống nhau.",
+      "Các loài càng có quan hệ họ hàng gần gũi với nhau thì sự tương đồng giữa các phân tử (DNA, protein) của chúng càng cao và ngược lại."
+    ],
+    "correct": 2,
+    "explanation": "Mệnh đề C không thuộc bằng chứng sinh học phân tử thuần túy về cùng nguồn gốc ở mức phân tử.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Có bao nhiêu đặc điểm là các đặc trưng cơ bản của hệ sinh thái? 1. Có sự tương tác giữa thành phần sống và không sống 2. Có đa dạng sinh học 3. Có các chu trình sinh thái 4. Phản ứng đối với biến đổi 5. Là một hệ động, không có khả năng tự điều chỉnh 6. Quan trọng với sự sống",
+    "image": null,
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "Có 5 đặc điểm đúng (loại trừ đặc điểm 5 sai).",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Phát triển bền vững có 3 yếu tố chính là Lợi nhuận (Profit); Con người (People); Hành tinh (Planet). Vậy 3 trụ cột chính lần lượt của quá trình này là gì?",
+    "image": null,
+    "options": [
+      "Kinh tế - Xã hội - Môi trường.",
+      "Kinh tế - Môi trường - Xã hội.",
+      "Xã hội - Môi trường - Kinh tế.",
+      "Môi trường - Xã hội - Kinh tế."
+    ],
+    "correct": 0,
+    "explanation": "3 trụ cột: Kinh tế – Xã hội – Môi trường.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Năm 2023 Việt Nam lần đầu tiên bán thành công 10,3 triệu tín chỉ Carbon rừng thông qua Ngân hàng Thế giới thu về 51,5 triệu USD. Việt Nam sẽ tích cực tham gia vào thị trường toàn cầu, đặt mục tiêu trong năm nay và năm sau bán thêm 5 triệu tín chỉ, nâng tổng số lượng Carbon bán ra lên 25 triệu tín chỉ. Hỏi rằng đến năm 2025 dự kiến nước ta có thể thu được bao nhiêu triệu USD từ bán tín chỉ Carbon?",
+    "image": null,
+    "options": [
+      "125",
+      "51,5",
+      "50",
+      "12,5"
+    ],
+    "correct": 0,
+    "explanation": "Giá 1 tín chỉ ≈ 5 USD → 25 triệu tín chỉ = 125 triệu USD.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Ngày 13/8/1945, ngay khi nhận được những thông tin Nhật Bản đầu hàng quân Đồng minh, Trung ương Đảng và Tổng bộ Việt Minh lập tức thành lập",
+    "image": null,
+    "options": [
+      "Ủy ban Khởi nghĩa toàn quốc.",
+      "Mặt trận Dân chủ Đông Dương.",
+      "Ủy ban Quân sự cách mạng Bắc Kỳ.",
+      "Mặt trận Việt Nam độc lập đồng minh."
+    ],
+    "correct": 0,
+    "explanation": "Thành lập Ủy ban Khởi nghĩa toàn quốc.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "“Anh, Pháp, Mĩ phải chịu một phần trách nhiệm trong việc để Chiến tranh thế giới thứ hai bùng nổ”. Đây là nhận định",
+    "image": null,
+    "options": [
+      "đúng, vì các nước này không có động thái gì để ngăn chặn chiến tranh thế giới.",
+      "đúng, vì chính sách đối ngoại của họ đã tạo điều kiện cho phát xít hành động.",
+      "sai, vì sự xuất hiện chủ nghĩa phát xít lúc bấy giờ là xu thế tất yếu khách quan.",
+      "sai, vì đây là hậu quả của cuộc khủng hoảng kinh tế thế giới (1929 – 1933)."
+    ],
+    "correct": 1,
+    "explanation": "Nhận định đúng vì chính sách đối ngoại của họ tạo điều kiện cho phát xít hành động.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Năm 1954, nhân dân Việt Nam giành được thắng lợi ngoại giao nào sau đây?",
+    "image": null,
+    "options": [
+      "Kí Hiệp định Giơnevơ.",
+      "Chiến thắng Vạn Tường.",
+      "Đánh bại cuộc hành quân của Mỹ vào An Lão.",
+      "Đánh bại cuộc tập kích của không quân Mỹ."
+    ],
+    "correct": 0,
+    "explanation": "Thắng lợi ngoại giao là kí Hiệp định Giơnevơ năm 1954.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Từ 1945 - 1971, đại biểu Trung Quốc tại Hội đồng Bảo an Liên hợp quốc là đại diện của chính quyền",
+    "image": null,
+    "options": [
+      "Hồng Kông.",
+      "Trung Hoa Dân quốc.",
+      "Ma Cao.",
+      "Cộng hòa Nhân dân Trung Hoa."
+    ],
+    "correct": 1,
+    "explanation": "Đại diện của Trung Hoa Dân quốc (Đài Loan).",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Cách mạng dân chủ nhân dân được hoàn thành ở các nước Đông Âu trong những năm 1948 -1949 đánh dấu",
+    "image": null,
+    "options": [
+      "sự xác lập hoàn chỉnh của cục diện hai cực, hai phe.",
+      "sự phát triển của phong trào giải phóng dân tộc thế giới.",
+      "chủ nghĩa xã hội đã trở thành một hệ thống thế giới.",
+      "chủ nghĩa xã hội thắng thế hoàn toàn ở châu Âu."
+    ],
+    "correct": 2,
+    "explanation": "Đánh dấu chủ nghĩa xã hội trở thành một hệ thống thế giới.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Năm 1946, ở Việt Nam, cuộc bầu cử Quốc hội, bầu cử Hội đồng nhân dân các cấp chỉ được tiến hành ở Bắc Bộ và Trung Bộ do",
+    "image": null,
+    "options": [
+      "nhân dân Nam Bộ không muốn tiến hành bầu cử.",
+      "thực dân Pháp đã quay trở lại xâm lược Nam Bộ.",
+      "Pháp đã xây dựng ở Nam Bộ thành một xứ tự trị riêng.",
+      "Đảng Cộng sản không có cơ sở quần chúng ở Nam Bộ."
+    ],
+    "correct": 1,
+    "explanation": "Do thực dân Pháp quay trở lại xâm lược Nam Bộ.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Sự kiện nào đánh dấu mở đường giải quyết sự khủng hoảng về đường lối giải phóng dân tộc ở Việt Nam?",
+    "image": null,
+    "options": [
+      "Nguyễn Ái Quốc ra đi tìm đường cứu nước năm 1911.",
+      "Nguyễn Ái Quốc đọc bản sơ thảo Luận cương về vấn đề dân tộc và thuộc địa của Lê-nin tháng 7/1920.",
+      "Nguyễn Ái Quốc tham gia sáng lập Đảng Cộng sản Pháp tháng 12/1920.",
+      "Nguyễn Ái Quốc xuất bản tác phẩm Đường Kách mệnh năm 1927."
+    ],
+    "correct": 1,
+    "explanation": "Đọc bản sơ thảo Luận cương của Lê-nin tháng 7/1920.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam có đặc điểm",
+    "image": null,
+    "options": [
+      "kết hợp khởi nghĩa giành chính quyền ở nông thôn và thành thị.",
+      "khởi nghĩa giành chính quyền từ thành thị về nông thôn.",
+      "khởi nghĩa giành chính quyền từ nông thôn ra thành thị.",
+      "khởi nghĩa giành chính quyền chỉ diễn ra ở thành thị."
+    ],
+    "correct": 0,
+    "explanation": "Kết hợp khởi nghĩa ở nông thôn và thành thị.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Trong Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh ngày 19/12/1946 có đoạn: bất kì đàn ông, đàn bà, người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Đoạn trích trên thể hiện rõ nhất điều gì?",
+    "image": null,
+    "options": [
+      "Tính toàn dân của cuộc kháng chiến.",
+      "Tính chính nghĩa.",
+      "Tính nhân văn sâu sắc.",
+      "Tính triệt để trong đấu tranh giải phóng dân tộc."
+    ],
+    "correct": 0,
+    "explanation": "Thể hiện tính toàn dân của cuộc kháng chiến.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Con đường giải phóng dân tộc của Nguyễn Ái Quốc hình thành trong những năm 20 của thế kỉ XX có điểm gì khác biệt với con đường giải phóng dân tộc của các vị tiền bối?",
+    "image": null,
+    "options": [
+      "Mục tiêu cứu nước.",
+      "Đối tượng cách mạng.",
+      "Khuynh hướng chính trị.",
+      "Sự quyết tâm tìm ra con đường cứu nước, cứu dân."
+    ],
+    "correct": 2,
+    "explanation": "Khác biệt về khuynh hướng chính trị (cách mạng vô sản).",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Từ ngày 14-15/8/1945, tại Tân Trào (Tuyên Quang) đã diễn ra sự kiện lịch sử nào?",
+    "image": null,
+    "options": [
+      "Đảng triệu tập Hội nghị toàn quốc phát động Tổng khởi nghĩa trong toàn quốc trước khi quân Đồng minh kéo vào Đông Dương.",
+      "Thành lập Ủy ban khởi nghĩa toàn quốc.",
+      "Ra quân lệnh số 1, phát động lệnh tổng khởi nghĩa trong toàn quốc.",
+      "Quyết định lấy lá cờ đỏ sao vàng làm quốc kì sau khi ta giành độc lập."
+    ],
+    "correct": 0,
+    "explanation": "Hội nghị toàn quốc phát động Tổng khởi nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Nguyễn Tri Phương đã chống lại quân Pháp tại mấy mặt trận?",
+    "image": null,
+    "options": [
+      "Một.",
+      "Hai.",
+      "Ba.",
+      "Bốn."
+    ],
+    "correct": 2,
+    "explanation": "Ba mặt trận: Đà Nẵng, Gia Định, Hà Nội.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Nguyễn Tri Phương làm Bí thư ở Nội điện khi nào?",
+    "image": null,
+    "options": [
+      "Năm 1823.",
+      "Năm 1824.",
+      "Năm 1825.",
+      "Năm 1826."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1823 (Quý Mùi).",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Tổng đốc An Hà chịu trách nhiệm quản lí những tỉnh nào?",
+    "image": null,
+    "options": [
+      "An Giang, Hà Tiên.",
+      "An Giang, Hà Giang.",
+      "An Giang, Hà Nội.",
+      "An Giang, Hà Nam."
+    ],
+    "correct": 0,
+    "explanation": "An Giang và Hà Tiên.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "“Đây là một cuộc tấn công chưa từng có trong lịch sử khủng bố xét về quy mô của nó. Đây là cuộc tấn công quy mô lớn nhất của một lực lượng nước ngoài trên đất Mỹ”, nói về sự kiện nào?",
+    "image": null,
+    "options": [
+      "Vụ khủng bố 11-09-2001.",
+      "Trận Trân Châu Cảng.",
+      "Cuộc khủng hoảng năng lượng 1973.",
+      "Bị biến thành thuộc địa của Anh."
+    ],
+    "correct": 0,
+    "explanation": "Vụ khủng bố 11-9-2001.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Vụ khủng bố 11-09-2001 xảy ra ở nước nào?",
+    "image": null,
+    "options": [
+      "Nhật Bản.",
+      "Mỹ.",
+      "Anh.",
+      "Đức."
+    ],
+    "correct": 1,
+    "explanation": "Xảy ra tại Mỹ.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Vụ khủng bố 11-09-2001 thể hiện điều gì?",
+    "image": null,
+    "options": [
+      "Tăng cường hợp tác với các nước Đồng minh.",
+      "Điều chỉnh chính sách với các nước Hồi giáo.",
+      "Dẫn đến sự thay đổi trong chính sách đối nội và đối ngoại của Mỹ.",
+      "Tăng cường an ninh nội địa của Mỹ."
+    ],
+    "correct": 2,
+    "explanation": "Dẫn đến sự thay đổi trong chính sách đối nội và đối ngoại của Mỹ.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Quy luật địa đới là sự thay đổi có quy luật của tất cả các thành phần địa lí và các cảnh quan theo",
+    "image": null,
+    "options": [
+      "vĩ độ.",
+      "kinh độ.",
+      "độ cao.",
+      "hướng địa hình."
+    ],
+    "correct": 0,
+    "explanation": "Theo vĩ độ (từ Xích đạo về cực).",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Sản phẩm nào dưới đây thuộc ngành công nghiệp điện tử - tin học?",
+    "image": null,
+    "options": [
+      "Tua bin phát điện.",
+      "Hàng không vũ trụ.",
+      "Thiết bị viễn thông.",
+      "Đầu máy xe lửa."
+    ],
+    "correct": 2,
+    "explanation": "Thiết bị viễn thông thuộc ngành điện tử - tin học.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "An ninh lương thực luôn là vấn đề",
+    "image": null,
+    "options": [
+      "trọng yếu của tất cả các quốc gia.",
+      "được một số quốc gia quan tâm.",
+      "lớn chỉ ở các quốc gia châu Phi.",
+      "chưa được quan tâm."
+    ],
+    "correct": 0,
+    "explanation": "Vấn đề trọng yếu của tất cả các quốc gia.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Đông Nam Á trồng nhiều lúa gạo, cà phê, cao su, dừa, mía, xoài, chuối,... chủ yếu do",
+    "image": null,
+    "options": [
+      "địa hình đồi núi chiếm diện tích lớn, nhiều kiểu khí hậu.",
+      "đất phù sa và đất fe-ra-lit là chủ yếu; khí hậu nóng, ẩm.",
+      "đất phù sa chiếm diện tích lớn và nhiệt độ trung bình thấp dưới 20°C.",
+      "các mặt bằng rộng lớn, mưa nhiều và có sự phân mùa."
+    ],
+    "correct": 1,
+    "explanation": "Do đất phù sa, đất feralit và khí hậu nóng ẩm.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Tỉ trọng nông nghiệp, lâm nghiệp, thủy sản của phần lớn các nước khu vực Tây Nam Á thấp là do",
+    "image": null,
+    "options": [
+      "thiếu vốn đầu tư.",
+      "ảnh hưởng của thiên tai.",
+      "hạn chế về trình độ khoa học kỹ thuật.",
+      "điều kiện tự nhiên không thuận lợi."
+    ],
+    "correct": 3,
+    "explanation": "Do điều kiện tự nhiên khô nóng không thuận lợi.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Dựa vào bảng số liệu, nhận xét nào sau đây không đúng về sản lượng lúa gạo và lúa mì của Trung Quốc giai đoạn 2005 - 2020?",
+    "image": null,
+    "options": [
+      "Sản lượng lúa gạo và lúa mì tăng liên tục.",
+      "Sản lượng lúa mì có tốc độ tăng nhanh hơn sản lượng lúa gạo.",
+      "Sản lượng lúa mì tăng ít hơn sản lượng lúa gạo.",
+      "Sản lượng lúa gạo luôn cao hơn sản lượng lúa mì."
+    ],
+    "correct": 2,
+    "explanation": "Sản lượng lúa mì tăng nhiều hơn lúa gạo (không đúng là tăng ít hơn).",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về lượng mưa ở Đà Lạt?",
+    "image": null,
+    "options": [
+      "Mùa khô kéo dài từ tháng 11 đến tháng 4 năm sau do Tín phong bán cầu Bắc.",
+      "Mùa khô vào thu đông do Tín phong bán cầu Nam và bức chắn địa hình.",
+      "Mùa mưa vào thu đông do gió mùa Tây Nam, gió mùa Đông Bắc, dải hội tụ.",
+      "Mùa mưa vào thu đông do các loại gió Tín phong, gió mùa Tây Nam, bão."
+    ],
+    "correct": 0,
+    "explanation": "Mùa khô từ tháng 11 đến tháng 4 do Tín phong bán cầu Bắc.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nhận xét nào sau đây đúng với bảng số liệu lực lượng lao động từ 15 tuổi trở lên của một số tỉnh/ thành phố nước ta năm 2010 và năm 2021?",
+    "image": null,
+    "options": [
+      "Đà Nẵng có tốc độ tăng trưởng số lượng lao động từ 15 tuổi cao nhất.",
+      "Số lượng lao động từ 15 tuổi ở Hà Nội luôn thấp hơn Đồng Nai.",
+      "Số lượng lao động từ 15 tuổi ở Đồng Nai tăng nhanh hơn Đà Nẵng.",
+      "Năm 2021, số lượng lao động từ 15 tuổi ở Hà Nội cao gấp 8,8 lần so với Đà Nẵng."
+    ],
+    "correct": 0,
+    "explanation": "Đà Nẵng có tốc độ tăng trưởng cao nhất.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Hà Nội và Thành phố Hồ Chí Minh có hoạt động nội thương rất phát triển chủ yếu do",
+    "image": null,
+    "options": [
+      "hoạt động quảng cáo, tiếp thị mạnh, dân cư đông đúc, vốn đầu tư rất lớn.",
+      "kinh tế phát triển, chất lượng cuộc sống cao, có nhiều chợ lớn, siêu thị.",
+      "có mật độ dân số cao, vốn đầu tư rất lớn, nhiều tài nguyên khoáng sản.",
+      "vốn đầu tư lớn, nhiều tài nguyên khoáng sản, xuất khẩu nhiều hàng hóa."
+    ],
+    "correct": 1,
+    "explanation": "Do kinh tế phát triển, chất lượng cuộc sống cao, nhiều chợ lớn, siêu thị.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Biểu đồ dưới đây thể hiện nội dung nào về vốn đăng kí và số dự án của nước ta giai đoạn 2017 - 2021?",
+    "image": null,
+    "options": [
+      "Số dự án, tổng số vốn đăng kí và tổng số vốn thực hiện của nước ta giai đoạn 2010 – 2021.",
+      "Tổng số vốn đăng kí, tổng số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 – 2021.",
+      "Quy mô số vốn đăng kí, số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 – 2021.",
+      "Sự chuyển dịch số vốn đăng kí, số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 – 2021."
+    ],
+    "correct": 1,
+    "explanation": "Thể hiện tổng số vốn đăng kí, tổng số vốn thực hiện và tốc độ tăng trưởng số dự án.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Hiện nay, Đồng bằng sông Hồng có nhiều ngành sản xuất công nghệ cao được phát triển chủ yếu do",
+    "image": null,
+    "options": [
+      "lao động nhiều kinh nghiệm, tập trung chủ yếu ở đô thị.",
+      "lao động có trình độ, thu hút nhiều đầu tư nước ngoài.",
+      "cơ sở hạ tầng rất hiện đại, nhiều đầu mối giao thông lớn.",
+      "cơ sở vật chất kĩ thuật tốt, gần các vùng giàu tài nguyên."
+    ],
+    "correct": 1,
+    "explanation": "Do lao động có trình độ và thu hút nhiều FDI.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Mức độ đô thị hóa ở Trung du và miền núi Bắc Bộ vào loại thấp nhất cả nước chủ yếu do",
+    "image": null,
+    "options": [
+      "quá trình công nghiệp hóa diễn ra muộn, số dân ít, trữ lượng khoáng sản nhỏ.",
+      "trình độ phát triển kinh tế - xã hội thấp, thưa dân, địa hình chủ yếu là đồi núi.",
+      "địa hình hiểm trở, nhiều thuận lợi phát triển nông nghiệp, mật độ dân số thấp.",
+      "chất lượng cuộc sống thấp, cơ sở hạ tầng hạn chế, khoáng sản phân bố phân tán."
+    ],
+    "correct": 1,
+    "explanation": "Do trình độ KT-XH thấp, thưa dân, địa hình đồi núi.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Hiện nay, Đồng bằng sông Cửu Long đang gặp phải vấn đề nào do tình trạng hạn hán kéo dài vào mùa khô?",
+    "image": null,
+    "options": [
+      "Diện tích nuôi tôm bị ảnh hưởng, tình trạng cháy rừng và biến đổi khí hậu.",
+      "Biến đổi khí hậu, gia tăng xâm nhập mặn, thiếu nước sinh hoạt và sản xuất.",
+      "Thiếu nước sinh hoạt và sản xuất, xâm nhập mặn lấn sâu, sụt lún vùng ngọt.",
+      "Diện tích rừng ngập mặn và vùng sản xuất nông nghiệp bị thu hẹp nhanh."
+    ],
+    "correct": 2,
+    "explanation": "Thiếu nước, xâm nhập mặn lấn sâu, sụt lún vùng ngọt.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Một trong những định hướng phát triển của vùng kinh tế trọng điểm miền Trung là",
+    "image": null,
+    "options": [
+      "phát triển cảng biển, du lịch biển và du lịch sinh thái.",
+      "phát triển công nghệ giống, bảo quản nông sản và thủy sản.",
+      "phát triển các ngành công nghiệp sản xuất, lắp ráp điện tử.",
+      "xây dựng trung tâm đào tạo nhân lực chất lượng cao."
+    ],
+    "correct": 0,
+    "explanation": "Phát triển cảng biển, du lịch biển và du lịch sinh thái.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Những vùng nào dưới đây có GDP bình quân tỉnh theo đầu người cao nhất cả nước?",
+    "image": null,
+    "options": [
+      "Đông Nam Bộ và Đồng bằng sông Hồng.",
+      "Đồng bằng sông Cửu Long và Đông Nam Bộ.",
+      "Đồng bằng sông Hồng, Bắc Trung Bộ và duyên hải miền Trung.",
+      "Bắc Trung Bộ và duyên hải miền Trung, Đông Nam Bộ."
+    ],
+    "correct": 0,
+    "explanation": "Đông Nam Bộ và Đồng bằng sông Hồng.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Đồng bằng sông Cửu Long có nhiều điều kiện tự nhiên thuận lợi nên",
+    "image": null,
+    "options": [
+      "ngành nông, lâm nghiệp và thủy sản còn chiếm tỉ trọng cao.",
+      "có nhiều khu kinh tế ven biển và cửa khẩu nhất cả nước.",
+      "GDP bình quân đầu người cao hơn so với Tây Nguyên.",
+      "quy mô GRDP và tốc độ tăng trưởng kinh tế cao nhất cả nước."
+    ],
+    "correct": 0,
+    "explanation": "Ngành nông, lâm, thủy sản còn chiếm tỉ trọng cao.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Việc hình thành các khu kinh tế ven biển ở Bắc Trung Bộ và duyên hải miền Trung chủ yếu nhằm",
+    "image": null,
+    "options": [
+      "phát triển cơ cấu lãnh thổ, phân bố lại lao động, thay đổi bộ mặt vùng.",
+      "phát triển sản xuất hàng hóa, đẩy mạnh việc xuất khẩu, thu hút đầu tư.",
+      "phát triển công nghiệp, thay đổi phân bố sản xuất, tạo nhiều việc làm.",
+      "chuyển dịch cơ cấu sản xuất, đa dạng sản phẩm, hình thành đô thị mới."
+    ],
+    "correct": 1,
+    "explanation": "Nhằm phát triển sản xuất hàng hóa, đẩy mạnh xuất khẩu, thu hút đầu tư.",
+    "passage": null
+  }
+]
+

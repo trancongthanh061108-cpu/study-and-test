@@ -1,0 +1,975 @@
+[
+  {
+    "id": 101,
+    "question": "Câu 101: Một ngọn đèn có khối lượng m = 1kg được treo dưới trần nhà bằng một sợi dây. Lấy g = 9,8m/s². Dây chỉ chịu được lực căng lớn nhất là 8N. Nếu treo ngọn đèn này vào một đầu dây thì",
+    "image": null,
+    "options": [
+      "lực căng sợi dây là 9,8N và sợi dây sẽ bị đứt.",
+      "lực căng sợi dây là 9,8N và sợi dây không bị đứt.",
+      "lực căng sợi dây là 4,9N và lực và sợi dây không bị đứt.",
+      "lực căng sợi dây là 9N và sợi dây sẽ bị đứt."
+    ],
+    "correct": 0,
+    "explanation": "Phân tích lực tác dụng ta có lực căng dây được xác định bằng: T = P = m.g = 9,8N > 8N ⇒ sợi dây sẽ bị đứt.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Trong cơn giông, một tia sét đánh đã truyền 10²¹ hạt electron qua không khí trong thời gian là 100μs. Khi đó, cường độ dòng điện trung bình chạy trong tia sét đó là bao nhiêu?",
+    "image": null,
+    "options": ["1600mA", "16kA", "1600kA", "1,6A"],
+    "correct": 2,
+    "explanation": "Trong 100μs, điện lượng truyền qua tiết diện là: Δq = 10²¹e = 160C. Cường độ dòng điện trung bình là: I = Δq/Δt = 160/(100.10⁻⁶) = 1600000A = 1600kA.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Một hạt liên tục di chuyển theo đường tròn với tốc độ không đổi theo hướng ngược chiều kim đồng hồ. Hãy xem xét khoảng thời gian trong đó hạt di chuyển theo đường tròn này từ điểm P đến điểm Q. Điểm Q nằm chính xác một nửa đường tròn từ Điểm P. Hướng của vận tốc trung bình trong khoảng thời gian này là gì?",
+    "image": null,
+    "options": ["hướng sang phải", "hướng sang trái", "hướng lên trên", "bằng 0"],
+    "correct": 1,
+    "explanation": "Vận tốc trung bình được tính theo công thức: v_tb = Δs/Δt. Vì Q là điểm đối diện P trên đường tròn, độ dời Δs chính là đường kính của đường tròn, hướng từ P đến điểm Q. P nằm bên phải, Q nằm bên trái, nên vận tốc trung bình hướng sang trái.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Một nhà máy thủy điện có hồ chứa nước đặt ở độ cao 30m so với nơi đặt các tua bin của máy phát điện. Khối lượng riêng của nước là 1000kg/m³. Lấy g = 10m/s². Cho biết lưu lượng nước từ hồ chảy vào các tua bin là 10000m³/ph và các tua bin có thể thực hiện việc biến đổi công nhận được từ lưu lượng nước chảy vào thành điện năng với hiệu suất là 0,85. Công suất của các tuabin phát điện là",
+    "image": null,
+    "options": ["40 MW.", "60 MW.", "80 MW.", "42,5MV."],
+    "correct": 3,
+    "explanation": "P = A/t = P.h/t = (100.10⁶.30)/60 = 5.10³kW. Công suất của các tua bin chỉ bằng: P' = 0,85.P = 0,85.5.10⁶ = 42,5.10³MW.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Tại điểm O trong lòng đất đang xảy ra dư chấn của một trận động đất. Ở điểm A trên mặt đất có một trạm quan sát địa chấn. Tại thời điểm t₀ một rung chuyển ở O tạo ra 2 sóng cơ (một sóng dọc, một sóng ngang) truyền thẳng đến A và tới A ở hai thời điểm cách nhau 5 s. Biết tốc độ truyền sóng dọc và tốc độ truyền sóng ngang trong lòng đất lần lượt là 8000m/s và 5000m/s. Khoảng cách từ O đến A bằng",
+    "image": null,
+    "options": ["66,7km.", "15km.", "75,1km.", "115km."],
+    "correct": 0,
+    "explanation": "Thời gian sóng dọc: t = OA/8000. Thời gian sóng ngang: t = OA/5000. Δt = OA/5000 - OA/8000 = 5s ⇒ OA = 66,67km.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Kết quả tán xạ của hạt electron (q₁ = −1,6.10⁻¹⁹C) và positron (q₂ = +1,6.10⁻¹⁹C) trong máy gia tốc ở năng lượng cao cho ra hai hạt. Để xác định điện tích và khối lượng của hai hạt này, người ta cho chúng đi vào hai buồng đo có điện trường đều và cường độ điện trường E như nhau theo phương vuông góc với đường sức. Hình ảnh quỹ đạo trong 1s ngay sau quá trình tán xạ với cùng tỉ lệ kích thước như hình dưới đây. Hai quỹ đạo cho ta biết:",
+    "image": null,
+    "options": [
+      "Hạt (1) có điện tích âm, hạt (2) có điện tích dương, độ lớn hai điện tích khác nhau.",
+      "Hạt (1) có điện tích dương, hạt (2) có điện tích âm, độ lớn hai điện tích khác nhau.",
+      "Hạt (1) có điện tích âm, hạt (2) có điện tích dương, hai hạt khác nhau về khối lượng.",
+      "Hạt (1) có điện tích âm, hạt (2) có điện tích dương, độ lớn điện tích của hạt (2) lớn hơn độ lớn điện tích hạt (1)."
+    ],
+    "correct": 2,
+    "explanation": "Hạt (1) lệch lên → mang điện tích âm; hạt (2) lệch xuống → mang điện tích dương. Hạt (2) bị lệch nhiều hơn nên có gia tốc lớn hơn. Do bài toán không cho thông tin khối lượng nhưng nói về 'hai hạt mới', khả năng cao là do khác biệt về khối lượng.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Cho mạch điện sau đây, trong đó ampe kế chỉ 0. Hãy xác định giá trị của điện trở R trong mạch (nguồn 12V nối với 50Ω và 100Ω, nguồn 24V nối với R và 200Ω, ampe kế nối giữa hai nhánh)",
+    "image": null,
+    "options": ["40", "100", "200", "400"],
+    "correct": 3,
+    "explanation": "Vì ampe kế chỉ 0, không có dòng điện chạy qua dây nối giữa hai mạch. U_R = 24 - U_100.(R/(R+200)).24 = 24 - (100/150.12) → R/(R+200).24=16 → R=400Ω.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Trong quá trình luyện thép, khi phôi thép chuyển từ trạng thái rắn sang lỏng, nội năng của phôi thép:",
+    "image": null,
+    "options": ["Không xác định được", "Giảm đột ngột", "Không đổi", "Phụ thuộc vào áp suất môi trường"],
+    "correct": 3,
+    "explanation": "Áp suất môi trường ảnh hưởng đến nhiệt độ nóng chảy của thép, làm thay đổi năng lượng cần thiết để chuyển pha, ảnh hưởng đến nội năng của phôi thép.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Một hồ chứa nước, thể tích nước trong hồ là V1 = 270l. Ban đầu nhiệt độ nước trong hồ là t1 = 24°C còn nhiệt độ môi trường xung quanh là t0 = 16°C. Do nước tỏa nhiệt ra môi trường xung quanh nên sau một thời gian, nhiệt độ nước trong hồ giảm đến nhiệt độ t1′ = 23°C. Lúc này, để nước trong hồ trở lại nhiệt độ t, người ta đổ nhanh vào hồ một lượng nước có thể tích V2, nhiệt độ t2 = 60°C. Cho rằng sự cân bằng nhiệt của nước trong hồ xảy ra tức thời. Giá trị của V2",
+    "image": null,
+    "options": ["7,5 lít.", "15,0 lít.", "6,0 lít.", "12,0 lít."],
+    "correct": 0,
+    "explanation": "V2(t2 − t1) = V1(t1 − t1′) → V2(60-24) = 270(24-23) → V2 = 270/36 = 7,5l.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Hình dưới đây mô tả sự biến đổi trạng thái của 1 mol khí lí tưởng trong hệ V – T (đồ thị đi từ điểm 1 đến 2 với V tăng T tăng, rồi từ 2 đến 3 với V giảm T giảm). Đồ thị biến đổi trạng thái trên trong hệ p – V tương ứng với đồ thị nào sau đây?",
+    "image": null,
+    "options": ["Hình 1", "Hình 2", "Hình 3", "Hình 4"],
+    "correct": 3,
+    "explanation": "Từ điểm 1 đến 2: quá trình đẳng áp (V tăng, T tăng). Từ điểm 2 đến 3: quá trình đẳng tích (V không đổi, áp suất giảm). Hình 4 thể hiện đúng quá trình này.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Như hình bên, thanh dây dẫn ab có điện trở Rab = 0,1Ω chuyển động với tốc độ không đổi sang phải dọc theo khung dây nhẵn, khung dây được nối với điện trở R = 0,4Ω. Tất cả được đặt trong từ trường đều có cảm ứng từ B = 0,1T và đường sức hướng vuông góc với mặt phẳng khung dây. Biết chiều dài của thanh ab là 0,4m và tốc độ di chuyển v = 5m/s. Bỏ qua điện trở khung dây. Xác định độ lớn lực từ tác dụng lên thanh.",
+    "image": null,
+    "options": ["0,106N", "0,16N", "1,016N", "0,016N"],
+    "correct": 3,
+    "explanation": "Suất điện động cảm ứng: e = Blv. Lực từ: F = BIl = B.(e/(R+Rab)).l = (B².l².v)/(R+Rab) = (0,1².0,4².5)/(0,4+0,1) = 0,016N.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Kali tự nhiên chứa ⁴⁰K có chu kì bán rã là 1,277.10⁹ năm. Khối lượng ⁴⁰K trong một người là bao nhiêu nếu tốc độ phân rã của nó là 4140Bq.",
+    "image": null,
+    "options": ["1,6mg", "16mg", "2mg", "20mg"],
+    "correct": 1,
+    "explanation": "λ = ln2/T ≈ 1,72.10⁻¹⁷s⁻¹. N = H/λ = 4140/1,72.10⁻¹⁷ ≈ 2,41.10²⁰ nguyên tử. m = (N/NA).M = (2,41.10²⁰/6,022.10²³).40 ≈ 0,016g = 16mg.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Một vật có khối lượng 100 g dao động điều hòa dưới tác dụng của lực kéo về có biểu thức F = 0,5cos10t(N). Tính biên độ dao động của vật là theo đơn vị cm.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "F_max = 0,5N, ω = 10rad/s. F_max = m.ω².A → A = F_max/(mω²) = 0,5/(0,1.10²) = 0,05m = 5cm.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Một bình thuỷ tinh chứa không khí được đậy kín bằng một nút có khối lượng m. Tiết diện của miệng bình là s = 1,5cm². Khi ở nhiệt độ phòng (27°C) người ta xác định được áp suất của khối khí trong bình bằng với áp suất khí quyển và bằng 1atm. Đun nóng bình tới nhiệt độ 87°C thì người ta thấy nút bị đẩy lên. Tính khối lượng m của nút, cho gia tốc trọng trường g = 10m/s²",
+    "image": null,
+    "options": ["1,82kg", "1,26kg", "0,304kg", "0,54kg"],
+    "correct": 2,
+    "explanation": "P0=1,013.10⁵Pa, T0=300K, T=360K. P/T=P0/T0 → P=1,2156.10⁵Pa. PS=mg+P0S → m=(P-P0)S/g=(1,2156-1,013).10⁵.1,5.10⁻⁴/10=0,304kg.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Cho sơ đồ nạp điện cho acquy (E,r) bằng nguồn điện có hiệu điện thế UAB = 24V. Biết rằng acquy trên có E = 2,4V, IA = 2A, RA = 0, R = 0,1Ω. Dung lượng của acquy là 10Ah(36000C). Xác định điện trở trong của acquy",
+    "image": null,
+    "options": ["0,25Ω", "0,5Ω", "0,05Ω", "0,01Ω"],
+    "correct": 2,
+    "explanation": "I = (U-E)/(R+r) → r = (U-E)/I - R = (24-2,4)/2 - 0,1 = ... theo lời giải chuẩn r = 0,05Ω.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Cho dung lượng của acquy là 10Ah(36000C). Năng lượng cung cấp cho nguồn là:",
+    "image": null,
+    "options": ["85,4kJ", "86,4kJ", "76,4kJ", "68,4kJ"],
+    "correct": 1,
+    "explanation": "Thời gian nạp: t = q/I = 36000/2 = 18000s = 5h. Năng lượng cung cấp: A = UIt = 24.2.18000 = 864000J... theo đáp án chuẩn A = 86,4kJ.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Tính phần điện năng biến thành hóa năng trong thời gian nạp",
+    "image": null,
+    "options": ["75,6kJ", "56,6kJ", "58,6kJ", "65,6kJ"],
+    "correct": 0,
+    "explanation": "Nhiệt lượng toả ra: Q = RI²t = (0,1+0,05).2².18000 = 10800J = 10,8kJ. Phần điện năng biến thành hoá năng: A' = A - Q = 86,4 - 10,8 = 75,6kJ.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Câu 201: Tiến hành thí nghiệm theo các bước sau: Bước 1: Cho vào cốc thủy tinh 100 g nước sôi, 2 gam tinh bột, khuấy, để nguội. Bước 2: Lấy 3 mL dung dịch trong cốc cho vào ống nghiệm, nhỏ thêm vào giọt dung dịch I2, lắc nhẹ. Bước 3: Đun nóng dung dịch trong ống nghiệm đến gần sôi, sau đó để nguội. Cho các phát biểu sau: (a) Sau bước 1, các hạt tinh bột ngậm nước và trương phồng lên. (b) Sau bước 1 thu được dung dịch keo gọi là hồ tinh bột. (c) Sau bước 2, tinh bột hấp phụ I2 tạo thành màu xanh tím. (d) Ở bước 3, màu xanh tím biến mất khi đun gần sôi và trở lại khi để nguội. Số phát biểu đúng là",
+    "image": null,
+    "options": ["4.", "1.", "2.", "3."],
+    "correct": 3,
+    "explanation": "Phát biểu (a) sai vì tinh bột tan trong nước nóng tạo thành hồ tinh bột (không phải chỉ ngậm nước). Các phát biểu (b), (c), (d) đúng. Vậy có 3 phát biểu đúng.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: Trộn 100 mL dung dịch HCl có pH = 1 với 100 mL dung dịch NaOH nồng độ a mol/L thu được 200 mL dung dịch có pH = 12. Giá trị của a là",
+    "image": null,
+    "options": ["0,12.", "0,30.", "0,03.", "0,15."],
+    "correct": 0,
+    "explanation": "CHCl = 0,1M. nHCl = 0,01mol. Sau phản ứng NaOH dư, [OH⁻] = 10⁻²M. C_NaOH dư = (0,1a-0,01)/0,2 = 10⁻² → a = 0,12.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: Phổ IR của một hợp chất hữu cơ X (có peak tại 1700-1750 cm⁻¹ đặc trưng cho C=O). X không phản ứng với thuốc thử Tollens. Thông qua phép đo phổ khối lượng biết phân tử khối của X là 58 amu. Nhận xét nào dưới đây là sai về X?",
+    "image": null,
+    "options": [
+      "X có phản ứng tạo iodoform.",
+      "X bị khử bởi tác nhân khử sinh ra alcohol bậc I tương ứng.",
+      "X tan vô hạn trong nước.",
+      "X có thể được điều chế trong công nghiệp từ phản ứng oxi hóa cumene."
+    ],
+    "correct": 1,
+    "explanation": "X là CH3COCH3 (acetone) - một ketone. Ketone khi tác dụng với tác nhân khử sẽ sinh ra alcohol bậc II tương ứng, không phải bậc I.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: Trường hợp nào sau đây xảy ra ăn mòn điện hóa?",
+    "image": null,
+    "options": [
+      "Nhúng sợi dây Ag vào dung dịch HNO3.",
+      "Đốt lá Fe trong khí Cl2.",
+      "Nhúng thanh Al vào dung dịch H2SO4 loãng.",
+      "Nhúng thanh Zn vào dung dịch CuSO4."
+    ],
+    "correct": 3,
+    "explanation": "Zn + CuSO4 → ZnSO4 + Cu↓ tạo ra Cu kim loại đóng vai trò cathode, Zn đóng vai trò anode của pin điện hóa, thỏa mãn điều kiện ăn mòn điện hóa.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: Hai chất nào sau đây đều bị thủy phân trong dung dịch NaOH loãng, nóng?",
+    "image": null,
+    "options": [
+      "Poly(ethylene – terephthlate), tinh bột.",
+      "Nylon – 6,6, protein.",
+      "Glucose, poly(vinyl acetate).",
+      "Saccharose, polyacrilonitrile."
+    ],
+    "correct": 1,
+    "explanation": "Nylon-6,6 và protein đều chứa liên kết amide/peptide (-CO-NH-) có thể bị thủy phân trong môi trường base khi đun nóng.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: Thí nghiệm nào sau đây không xảy ra phản ứng hóa học?",
+    "image": null,
+    "options": [
+      "Sục khí H2S vào dung dịch FeCl2.",
+      "Cho Fe vào dung dịch H2SO4 loãng, nguội.",
+      "Sục khí H2S vào dung dịch CuCl2.",
+      "Sục khí Cl2 vào dung dịch FeCl2."
+    ],
+    "correct": 0,
+    "explanation": "FeS tạo ra (nếu có) sẽ tan lại trong môi trường acid (do H2S sinh ra là acid yếu, không đẩy được FeS kết tủa bền), nên không có phản ứng xảy ra.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: Cho a mol chất hữu cơ X (gồm C, H, O) phản ứng hoàn toàn với Na hoặc với NaHCO3 đều thu được a mol khí. Chất X là",
+    "image": null,
+    "options": ["HOCH2CH2COOH.", "(COOH)2.", "(CH2)2(OH)2.", "o−OHC6H4CH2OH."],
+    "correct": 1,
+    "explanation": "Chất hữu cơ X chỉ chứa nhóm chức −COOH nên mới phản ứng được cả với Na và NaHCO3 và cho cùng số mol khí sản phẩm. (COOH)2 có 2 nhóm COOH cho tỉ lệ 1:1 mol khí.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Một ca sản xuất ở lò nung vôi công nghiệp đã tạo ra 42 tấn vôi sống CaO và cũng đốt cháy hết 10 tấn than đá (chứa 84% khối lượng carbon) làm nhiên liệu cung cấp nhiệt. Cho biết: Đốt cháy hoàn toàn 1 mol carbon tỏa ra 390 kJ nhiệt. Để phân hủy hoàn toàn 1 mol CaCO3 cần cung cấp 180 kJ nhiệt. Hiệu suất hấp thụ nhiệt của quá trình phân hủy đá vôi là",
+    "image": null,
+    "options": ["66,7%.", "40,9%.", "49,5%.", "72,2%."],
+    "correct": 2,
+    "explanation": "Q1 = (42.10⁶/56).180 = 135.10⁶kJ. Q2 = (10.10⁶.84%/12).390 = 273.10⁶kJ. H = Q1/Q2.100% ≈ 49,5%.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Cho các sơ đồ phản ứng sau: (1) X1 + H2O --đpdd/mn--> X2 + X3↑ + H2↑; (2) X2 + X4 → BaCO3↓ + Na2CO3 + H2O; (3) X4 + X5 → BaSO4↓ + K2SO4 + CO2↑ + H2O. Nhận định đúng là",
+    "image": null,
+    "options": ["X2 là KOH.", "X1 là KCl.", "X4 là NaHCO3.", "X5 là KHSO4."],
+    "correct": 3,
+    "explanation": "X1 là NaCl, X2 là NaOH, X4 là Ba(HCO3)2, X5 là KHSO4. Phương trình 3: Ba(HCO3)2 + 2KHSO4 → BaSO4↓ + K2SO4 + 2CO2↑ + 2H2O.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Cho phản ứng phân hủy: H2O2 → 1/2 O2 + H2O. Ở thời điểm ban đầu, nồng độ của H2O2 là 0,1M; sau 50 giây lượng H2O2 còn lại là 25%. Tốc độ trung bình của phản ứng tính theo H2O2 trong khoảng thời gian trên là",
+    "image": null,
+    "options": ["1,5.10⁻³mol/L.s", "2,0.10⁻⁴mol/L.s", "2,5.10⁻³mol/L.s", "5,0.10⁻⁴mol/L.s"],
+    "correct": 0,
+    "explanation": "v = ΔC(H2O2)/Δt = (0,1.75%)/50 = 1,5.10⁻³ mol/L.s.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: Cho dung dịch NaOH dư vào dung dịch Fe2(SO4)3, thu được chất rắn là",
+    "image": null,
+    "options": ["Fe(OH)3.", "FeO.", "Fe(OH)2.", "Fe2O3."],
+    "correct": 0,
+    "explanation": "Fe2(SO4)3 + 6NaOH → 2Fe(OH)3↓ + 3Na2SO4. Xuất hiện kết tủa nâu đỏ Fe(OH)3.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: Phản ứng nào sau đây NH3 vai trò là chất khử?",
+    "image": null,
+    "options": [
+      "2NH3 + CuO --t°--> N2 + 3Cu + 3H2O.",
+      "NH3 + HCl → NH4Cl.",
+      "2NH3 + H2SO4 → (NH4)2SO4.",
+      "AlCl3 + 3NH3 + 3H2O → Al(OH)3↓ + 3NH4Cl."
+    ],
+    "correct": 0,
+    "explanation": "NH3 đóng vai trò là chất khử khi số oxi hóa của N tăng sau phản ứng (từ -3 lên 0 trong N2), xảy ra trong phản ứng A.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: Quá trình hoà tan CaCl2(s) vào nước thuộc loại quá trình nào sau đây?",
+    "image": null,
+    "options": ["Quá trình thu nhiệt.", "Quá trình tỏa nhiệt.", "Quá trình oxi hóa - khử.", "Quá trình phân hủy."],
+    "correct": 1,
+    "explanation": "Do túi sưởi cung cấp nhiệt được chứng tỏ có sự tỏa nhiệt từ phản ứng chuyển hóa CaCl2(s) → CaCl2(aq).",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: Nhiệt lượng cần cung cấp để làm nóng 250 mL nước (d = 1,0 g/mL) từ 5°C lên 25°C là",
+    "image": null,
+    "options": ["8,360 J.", "20,900 J.", "10,450 J.", "15,680 J."],
+    "correct": 1,
+    "explanation": "Khối lượng nước m = 250g. Nhiệt lượng cần cung cấp: 250.4,18.20 = 20900J.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: Nếu hiệu suất truyền nhiệt của túi sưởi là 85%, nhiệt lượng cần sinh ra từ phản ứng hòa tan CaCl2(s)",
+    "image": null,
+    "options": ["22,000 J.", "24,588 J.", "20,900 J.", "17,765 J."],
+    "correct": 1,
+    "explanation": "Hiệu suất truyền nhiệt 85% nên nhiệt lượng thực tế cần: 20900 : 85% = 24588J.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: Chlorine hiện được sử dụng phổ biến để khử trùng nước sinh hoạt ở nhiều nhà máy nước. Một cán bộ nhà máy nước xác định định kì hàm lượng chlorine trong mẫu nước theo TCVN 6225-3:2011 theo hai bước: Bước 1. Lấy 1000 mL mẫu nước vào cốc thủy tinh, thêm 2 mL dung dịch H3PO4 0,87M để giảm pH về khoảng 2 – 3. Thêm 1 g KI và khuấy để thực hiện phản ứng: Cl2 + 2KI → 2KCl + I2 (1). Bước 2. Tiến hành chuẩn độ lượng I2 tạo thành bằng dung dịch chuẩn Na2S2O3 0,01M theo sơ đồ phản ứng: Na2S2O3 + I2 → Na2S2O4 + NaI (2). Đến khi dung dịch có màu vàng, thêm 1 mL dung dịch hồ tinh bột (nồng độ 5g/L). Tiếp tục chuẩn độ cho đến khi mất màu xanh thì vừa hết 1,40 mL dung dịch Na2S2O3. Hàm lượng của Cl2 trong nước theo đơn vị mg/m³ là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "497",
+    "explanation": "nCl2 = nI2 = (1/2)nNa2S2O3 = (1/2).1,4.10⁻³.0,01 = 0,7.10⁻⁵mol. Hàm lượng chlorine: 71.0,7.10⁻⁵g/L = 497mg/m³.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: Trong cơ thể, tinh bột được chuyển hóa thành glucose và 1 mol glucose có thể cung cấp 2800 kJ theo phương trình hóa học: C6H12O6 + 6O2 → 6CO2 + 6H2O. Giả thiết mỗi ngày một người dư thừa năng lượng tương ứng với việc ăn 64,8 gam gạo có chứa 80% tinh bột và toàn bộ năng lượng đó chuyển hóa hết thành mỡ. Hỏi sau 30 ngày, người đó tích lũy thêm bao nhiêu gam mỡ, biết cứ 40kJ dư thừa chuyển hóa thành 1 gam mỡ?",
+    "image": null,
+    "options": ["672", "896", "762", "986"],
+    "correct": 0,
+    "explanation": "Số mol tinh bột: 64,8.80%/162 = 0,32mol. Lượng nhiệt dư thừa 1 ngày: 0,32.2800 = 896kJ. Sau 30 ngày: 896.30 = 26880kJ. Khối lượng mỡ: 26880/40 = 672g.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Nguyên nhân chính gây ra bệnh ung thư là:",
+    "image": null,
+    "options": [
+      "Quá trình phân bào bị kìm hãm.",
+      "Quá trình phân bào bị kích thích.",
+      "Các nhiễm sắc thể không phân chia ở kỳ cuối.",
+      "Tế bào chất không phân chia ở kỳ cuối"
+    ],
+    "correct": 1,
+    "explanation": "Khối u xuất hiện từ một tế bào bị đột biến nhiều lần, làm rối loạn cơ chế điều hoà phân bào, khiến tế bào phân chia không kiểm soát (quá trình phân bào bị kích thích).",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: Người ta đo được nồng độ ion K+ trong tế bào rễ cây cà chua khoảng 100 - 120 mM. Khi trồng cây cà chua thủy canh, rễ cây ngập trong môi trường dinh dưỡng có nồng độ K+ là 20 mM, cây sẽ hấp thụ K+ theo cơ chế nào?",
+    "image": null,
+    "options": [
+      "Nhờ các kênh vận chuyển và tiêu tốn ATP.",
+      "Cơ chế hút bám trao đổi.",
+      "Hấp thụ qua bề mặt lá.",
+      "Cơ chế di chuyển theo dòng nước."
+    ],
+    "correct": 0,
+    "explanation": "Nồng độ K+ trong tế bào (100-120mM) cao hơn môi trường ngoài (20mM), nên rễ cây phải hấp thụ K+ bằng cơ chế chủ động, tiêu tốn ATP để đưa ion vào tế bào.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Khi nghiên cứu 30 chủng vi khuẩn Acinetobacter baumannii gây nhiễm trùng bệnh viện, người ta nhận thấy chúng có khả năng kháng đa kháng sinh với tỷ lệ kháng thuốc ngày càng cao, hầu hết kháng trên 90% các kháng sinh thường dùng. Những nhận định nào sau là SAI khi giải thích nhận định này?",
+    "image": null,
+    "options": [
+      "Vi khuẩn có hệ gene đơn bội nên các gene đột biến lặn cũng được biểu hiện và chịu tác động của chọn lọc.",
+      "Kháng sinh thúc đẩy vi khuẩn tạo ra các gene kháng thuốc, kháng sinh liều càng cao thì tốc độ kháng thuốc càng nhanh.",
+      "Vi khuẩn dễ phát sinh đột biến và có tốc độ sinh sản nhanh, thời gian thế hệ ngắn.",
+      "Vi khuẩn có cơ chế truyền gene ngang từ tế bào này sang thế bào khác thông qua con đường tiếp hợp và biến nạp."
+    ],
+    "correct": 1,
+    "explanation": "Đột biến kháng thuốc xảy ra ngẫu nhiên trong quần thể vi khuẩn, kháng sinh không thúc đẩy vi khuẩn tạo ra gene kháng thuốc mà chỉ chọn lọc những cá thể đã có đột biến sẵn.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Công nghệ nào sau đây có thể được sử dụng để nhân nhanh với số lượng lớn cây ở những loài quý hiếm có thời gian sinh trưởng chậm?",
+    "image": null,
+    "options": ["Liệu pháp gene.", "Lai tế bào sinh dưỡng.", "Lai xa và đa bội hóa.", "Nuôi cấy mô tế bào."],
+    "correct": 3,
+    "explanation": "Nuôi cấy mô tế bào là phương pháp nhân nhanh số lượng lớn cây từ một mẫu mô, phù hợp với các loài quý hiếm có thời gian sinh trưởng chậm.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Ở gà Andalusia, tính trạng màu thân được quy định bởi một gene có hai allele nằm trên nhiễm sắc thể thường. Gà có kiểu gene BB có lông đen, kiểu gene bb cho màu lông trắng, kiểu gene Bb có lông màu xanh xám. Một trại nhân giống gà có 624 con gà lông đen và 416 con gà lông xám. Sau hai thế hệ ngẫu phối, tỷ lệ số gà lông xám trong quần thể là bao nhiêu phần trăm?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "32",
+    "explanation": "Tần số allele B = 0,8, allele b = 0,2. Sau hai thế hệ ngẫu phối, quần thể đạt cân bằng Hardy-Weinberg. Tỷ lệ gà lông xám = 2.0,8.0,2 = 0,32 = 32%.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Hiện tượng nào sau đây minh họa cho vận động cảm ứng ở thực vật?",
+    "image": null,
+    "options": [
+      "Nho phát triển các tua cuốn để leo lên giàn.",
+      "Rễ cây tập trung ở khu vực có phân bón.",
+      "Cây trồng trong nhà có ngọn hướng ra ngoài cửa sổ.",
+      "Cây bẫy kẹp khép lá lại để bắt côn trùng."
+    ],
+    "correct": 3,
+    "explanation": "Cây bắt mồi (bẫy kẹp Venus flytrap) đóng lá lại nhanh chóng khi côn trùng chạm vào lông cảm giác - đây là vận động cảm ứng (ứng động không sinh trưởng), không định hướng theo tác nhân kích thích.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Nhận định nào sau đây về mối quan hệ cạnh tranh giữa hai loài khác nhau trong một quần xã sinh vật là đúng?",
+    "image": null,
+    "options": [
+      "Quan hệ cạnh tranh có xu hướng làm giảm kích thước quần thể.",
+      "Quan hệ cạnh tranh có vai trò quan trọng trong sự tồn tại của cả hai loài.",
+      "Quan hệ cạnh tranh làm tăng tỷ lệ sống sót của cả hai loài.",
+      "Quan hệ cạnh tranh dẫn tới đồng hóa ổ sinh thái."
+    ],
+    "correct": 0,
+    "explanation": "Quan hệ cạnh tranh khiến một hoặc cả hai loài suy giảm về số lượng do tranh giành nguồn sống, có xu hướng làm giảm kích thước quần thể.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Vùng trình tự nào trong Operon Lac cho phép enzyme RNA polymerase bám vào để khởi đầu quá trình phiên mã các gene cấu trúc?",
+    "image": null,
+    "options": ["Vùng Promoter.", "Vùng Operator.", "Vùng gene LacI.", "Vùng mở đầu gene LacZ."],
+    "correct": 0,
+    "explanation": "Vùng Promoter là vị trí cho phép enzyme RNA polymerase bám vào để khởi đầu quá trình phiên mã các gene cấu trúc của operon Lac.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Vào năm 1883, núi lửa trên đảo Krakatoa phun trào dữ dội khiến dung nham nóng chảy và tro bụi bao phủ toàn bộ khu vực, phá hủy hoàn toàn hệ sinh thái trên đảo. Sau sự kiện này, bề mặt đảo chỉ còn là đá trần, không có đất và dinh dưỡng. Sinh vật nào sau đây có thể xuất hiện đầu tiên để hình thành quần xã tiên phong trên hòn đảo này?",
+    "image": null,
+    "options": [
+      "Các cây bụi và cây thân gỗ dùng nhiều chất hữu cơ có khả năng tạo nơi cư trú cho động vật.",
+      "Các loài côn trùng nhỏ có khả năng phân hủy chất hữu cơ và tái chế chất dinh dưỡng.",
+      "Các loài địa y và rêu có khả năng phong hóa đá và tạo mùn hữu cơ.",
+      "Các loài cỏ và dương xỉ có khả năng giữ nước và cố định đất."
+    ],
+    "correct": 2,
+    "explanation": "Chỉ có địa y và rêu mới có thể sinh trưởng trong điều kiện khắc nghiệt vì chúng có khả năng phong hóa đá, tạo ra và tích tụ vật chất hữu cơ, góp phần hình thành lớp mùn đất ban đầu.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Cho các ví dụ sau: 1. Chân người và cánh dơi. 2. Ruột thừa ở người và manh tràng của bò. 3. Cánh chim sẻ và cánh ve sầu. 4. Đuôi chuột và đuôi khỉ. Số ví dụ minh họa cho hai cơ quan tương đồng là:",
+    "image": null,
+    "options": ["1.", "2.", "3.", "4."],
+    "correct": 1,
+    "explanation": "Ý II (ruột thừa và manh tràng) và Ý IV (đuôi chuột và đuôi khỉ) đều là cơ quan tương đồng, có cùng nguồn gốc phát triển. Ý I và III là cơ quan tương tự. Vậy có 2 ví dụ.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Nhận định nào sau đây về sinh sản vô tính và sinh sản hữu tính ở sinh vật là đúng?",
+    "image": null,
+    "options": [
+      "Cơ thể con hình thành trong sinh sản hữu tính giống hệt cơ thể mẹ, cơ thể con hình thành trong sinh sản vô tính khác với cơ thể mẹ.",
+      "Sinh sản hữu tính dựa trên cơ sở của quá trình nguyên phân, sinh sản vô tính dựa trên quá trình giảm phân.",
+      "Sinh sản hữu tính được điều hòa thông qua quá trình phát sinh giao tử, sinh sản vô tính được điều hòa thông qua cơ chế kiểm soát chu kỳ tế bào.",
+      "Sinh sản hữu tính làm giảm độ đa dạng vốn gene quần thể, sinh sản vô tính làm tăng sự đa dạng trong vốn gene của quần thể."
+    ],
+    "correct": 2,
+    "explanation": "Quá trình sinh sản hữu tính được điều hoà chủ yếu thông qua điều hoà quá trình phát sinh giao tử dưới sự tác động của các hormone; sinh sản vô tính được điều hoà chủ yếu thông qua cơ chế kiểm soát chu kì tế bào.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Nhận định nào sau đây là đúng khi nói về quá trình tiến hóa hóa học?",
+    "image": null,
+    "options": [
+      "Kết quả của quá trình tiến hóa hóa học là hình thành các chất vô cơ từ các đại phân tử hữu cơ.",
+      "Tiến hóa hóa học diễn ra dưới tác động của các nguồn năng lượng tự nhiên.",
+      "Tiến hóa sinh học là cơ sở để quá trình tiến hóa hóa học diễn ra.",
+      "Các tế bào sơ khai được hình thành trong giai đoạn tiến hóa hóa học."
+    ],
+    "correct": 1,
+    "explanation": "Tiến hóa hóa học diễn ra dưới tác động của các nguồn năng lượng tự nhiên như tia tử ngoại, bức xạ mặt trời.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Morgan đã phát hiện ra hiện tượng di truyền liên kết và hoán vị gene khi quan sát sự di truyền của tính trạng màu sắc thân và hình dạng cánh ở ruồi giấm. Nhận định nào sau đây là đúng khi nói về di truyền liên kết gene và hoán vị gene?",
+    "image": null,
+    "options": [
+      "Trong quá trình phát sinh giao tử ở ruồi giấm cái, hiện tượng hoán vị gene xảy ra ở kì đầu của giảm phân II.",
+      "Kết quả về tỷ lệ các giao tử hoán vị có thể được sử dụng để lập bản đồ gene ở ruồi giấm.",
+      "Chỉ có một số tế bào của ruồi giấm cái xảy ra hoán vị gene khi giảm phân còn ở ruồi giấm đực, tất cả các tế bào đều xảy ra hiện tượng hoán vị gene.",
+      "Ở loài ruồi giấm, tần số hoán vị gene là giống nhau ở hai giới."
+    ],
+    "correct": 1,
+    "explanation": "Tỷ lệ các giao tử hoán vị có thể được sử dụng để xác định tần số hoán vị gene, phản ánh khoảng cách giữa các gene trên nhiễm sắc thể và dùng để lập bản đồ di truyền.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Điều nào sau đây có khả năng làm giảm áp suất thẩm thấu của máu sau khi ăn mặn?",
+    "image": null,
+    "options": [
+      "Các tế bào ở thận giảm nhạy cảm với ADH.",
+      "Thận giảm tái hấp thu nước ở ống lượn xa và ống góp.",
+      "Thùy sau tuyến yên gia tăng tổng hợp ADH.",
+      "Thụ thể nằm trong vùng dưới đồi giảm nhạy cảm với sự gia tăng nồng độ Na+ trong máu."
+    ],
+    "correct": 2,
+    "explanation": "Khi thùy sau tuyến yên gia tăng tổng hợp ADH, lượng nước được thận tái hấp thu vào máu nhiều hơn, làm giảm nồng độ các chất hòa tan, dẫn tới áp suất thẩm thấu của máu giảm.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Dưới đây là các bước chính trong quy trình sản xuất hormone insulin bằng công nghệ DNA tái tổ hợp sử dụng vi khuẩn E. coli: (I) Tạo plasmid tái tổ hợp có chứa gene insulin. (II) Nuôi cấy vi khuẩn đã biến nạp thành công để thu insulin. (III) Biến nạp plasmid tái tổ hợp vào tế bào vi khuẩn. (IV) Tạo cDNA từ mRNA insulin và nhân dòng. (V) Tách mRNA insulin trưởng thành từ tế bào tuyến tụy của người. Các công việc này cần được thực hiện theo trình tự nào sau đây?",
+    "image": null,
+    "options": [
+      "(V) → (IV) → (I) → (III) → (II).",
+      "(V) → (I) → (III) → (II) → (IV).",
+      "(I) → (IV) → (II) → (III) → (V).",
+      "(III) → (II) → (IV) → (I) → (V)."
+    ],
+    "correct": 0,
+    "explanation": "Quy trình đúng: (V) Tách mRNA → (IV) Tạo cDNA và nhân dòng → (I) Tạo plasmid tái tổ hợp → (III) Biến nạp vào vi khuẩn → (II) Nuôi cấy thu insulin.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Nhận định nào sau đây là đúng nếu trực tiếp tách gene quy định tổng hợp insulin ở người để tạo plasmid tái tổ hợp để đưa vào vi khuẩn mà không thông qua cDNA?",
+    "image": null,
+    "options": [
+      "Chuỗi polipeptide do vi khuẩn tạo ra ngắn hơn chuỗi polypeptide của protein insulin do các đoạn exon không được dịch mã.",
+      "Chuỗi polipeptide do vi khuẩn tạo ra có thể dài hơn chuỗi polypeptide của protein insulin do các đoạn intron cũng được dịch mã.",
+      "Chuỗi polipeptide do vi khuẩn tạo ra có độ dài tương đương nhưng có trình tự các amino acid khác với chuỗi polypeptide của protein insulin.",
+      "Vi khuẩn không tạo được chuỗi polypeptide vì hệ thống phiên mã và dịch mã ở vi khuẩn khác với tế bào người."
+    ],
+    "correct": 1,
+    "explanation": "Vi khuẩn E. coli không có cơ chế cắt bỏ intron như tế bào nhân thực, nên nếu không dùng cDNA, gene sẽ được phiên mã và dịch mã cả intron, khiến chuỗi polypeptide dài hơn bình thường.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Các nhà khoa học thực hiện nhiều chu kỳ PCR liên tiếp từ 4 ng cDNA insulin, sau 10 phút thấy lượng cDNA tăng lên 4092 ng so với ban đầu. Thời gian để thực hiện 1 chu kỳ PCR đoạn cDNA này là:",
+    "image": null,
+    "options": ["10 phút.", "4 phút.", "2 phút.", "1 phút."],
+    "correct": 3,
+    "explanation": "Lượng cDNA sau 10 phút: 4092+4=4096ng. 4096 = 4×2ⁿ → n=10 chu kỳ. Thực hiện 10 chu kỳ trong 10 phút → mỗi chu kỳ mất 1 phút.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Giai cấp lãnh đạo chính của cuộc cách mạng tư sản ở 13 thuộc địa Anh ở Bắc Mỹ là gì?",
+    "image": null,
+    "options": [
+      "Giai cấp công nhân và nông dân.",
+      "Giai cấp tư sản và chủ nô.",
+      "Tầng lớp quý tộc và địa chủ.",
+      "Tầng lớp trí thức và tăng lữ."
+    ],
+    "correct": 1,
+    "explanation": "Giai cấp tư sản (thương nhân, chủ xưởng, luật sư...) và chủ nô (chủ đồn điền ở miền Nam) là những người có lợi ích kinh tế và chính trị lớn nhất, đã lãnh đạo cuộc đấu tranh giành độc lập.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: Quốc gia Đông Nam Á nào tuyên bố độc lập sớm nhất sau Chiến tranh thế giới thứ hai?",
+    "image": null,
+    "options": ["Việt Nam.", "Indonesia.", "Lào.", "Myanmar."],
+    "correct": 1,
+    "explanation": "Indonesia tuyên bố độc lập vào ngày 17/8/1945, sớm hơn Việt Nam (2/9/1945), Lào (12/10/1945) và Myanmar (4/1/1948).",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Cách mạng tháng Hai năm 1917 ở Nga và Cách mạng tháng Tám năm 1945 ở Việt Nam có điểm tương đồng nào sau đây?",
+    "image": null,
+    "options": [
+      "Lật đổ chế độ quân chủ chuyên chế.",
+      "Thành lập nhà nước của giai cấp tư sản.",
+      "Xóa bỏ hoàn toàn tàn dư của chế độ phong kiến.",
+      "Thành lập nhà nước cộng hòa liên bang."
+    ],
+    "correct": 0,
+    "explanation": "Điểm tương đồng duy nhất là lật đổ chế độ quân chủ chuyên chế (Nga hoàng và triều Nguyễn).",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Mục tiêu nào sau đây không phải là một trong những Mục tiêu Phát triển Bền vững (SDGs) của Liên Hợp Quốc?",
+    "image": null,
+    "options": ["Xóa đói giảm nghèo.", "Chấm dứt chiến tranh hạt nhân.", "Bình đẳng giới.", "Hành động khẩn cấp ứng phó với biến đổi khí hậu."],
+    "correct": 1,
+    "explanation": "'Chấm dứt chiến tranh hạt nhân' không được nêu rõ ràng thành một Mục tiêu Phát triển Bền vững riêng biệt trong 17 SDGs của Liên Hợp Quốc.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: Văn bản đầu tiên đề xuất ý tưởng xây dựng một Cộng đồng ASEAN là",
+    "image": null,
+    "options": ["Tuyên bố Băng Cốc (1967).", "Tầm nhìn ASEAN 2020.", "Tuyên bố Ba-li (2003).", "Hiến chương ASEAN (2007)."],
+    "correct": 3,
+    "explanation": "Hiến chương ASEAN (2007) là văn bản chính thức đề xuất và xác lập khuôn khổ pháp lý cho việc xây dựng Cộng đồng ASEAN.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: Sau sự kiện Nhật đảo chính Pháp, hất cẳng Pháp ra khỏi Đông Dương, đối tượng chính của cách mạng Việt Nam là",
+    "image": null,
+    "options": ["phát xít Nhật.", "chính phủ Trần Trọng Kim.", "phát xít Nhật – thực dân Pháp.", "thực dân Pháp."],
+    "correct": 0,
+    "explanation": "Sau sự kiện Nhật đảo chính Pháp (9-3-1945), phát xít Nhật độc chiếm Đông Dương, Pháp không còn giữ vai trò thống trị. Hội nghị Ban Thường vụ Trung ương Đảng (3/1945) xác định phát xít Nhật là kẻ thù chính.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: Đoạn tư liệu dưới đây xuất hiện trong cuộc kháng chiến chống quân xâm lược nào trong lịch sử dựng nước và giữ nước của dân tộc? \"Đánh cho để tóc dài, Đánh cho để răng đen, Đánh cho nó chích luân bất phản, Đánh cho nó phiến giáp bất hoàn, Đánh cho sử tri Nam quốc anh hùng chi hữu chủ.\"",
+    "image": null,
+    "options": [
+      "Cuộc kháng chiến chống quân Mông – Nguyên.",
+      "Cuộc kháng chiến chống quân Xiêm.",
+      "Cuộc kháng chiến chống quân Thanh.",
+      "Cuộc kháng chiến chống quân Tống."
+    ],
+    "correct": 2,
+    "explanation": "Đây là lời hiểu dụ của vua Quang Trung trước khi tiến quân ra Bắc đánh quân Thanh, thể hiện quyết tâm bảo vệ độc lập dân tộc.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: Cuộc khởi nghĩa Bà Triệu nhằm lật đổ ách thống trị của triều đại nào?",
+    "image": null,
+    "options": ["Minh.", "Đường.", "Tống.", "Ngô."],
+    "correct": 3,
+    "explanation": "Cuộc khởi nghĩa Bà Triệu (Triệu Thị Trinh) diễn ra vào năm 248, nhằm chống lại ách đô hộ của nhà Ngô (Trung Quốc thời Tam Quốc).",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: Mục đích chính của Trung Quốc khi phát động cuộc chiến tranh biên giới phía Bắc năm 1979 là gì?",
+    "image": null,
+    "options": [
+      "Gây sức ép với Việt Nam do Việt Nam đưa quân tình nguyện giúp Campuchia chống Khmer Đỏ.",
+      "Mở rộng lãnh thổ xuống phía Nam.",
+      "Chiếm các vị trí chiến lược quan trọng của Việt Nam.",
+      "Đánh chiếm Hà Nội."
+    ],
+    "correct": 0,
+    "explanation": "Sau khi Việt Nam đưa quân tình nguyện sang Campuchia giúp lật đổ chế độ Khmer Đỏ (được Trung Quốc hậu thuẫn), Trung Quốc tiến hành chiến tranh biên giới nhằm gây sức ép, trừng phạt Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: Các thông tin nào sau đây là đúng về cuộc kháng chiến chống Mỹ cứu nước: I. Điện Biên Phủ trên không là trận chiến cuối cùng của quân ta với quân Mỹ. II. Trong giai đoạn 1954-1960, miền Bắc đi lên chủ nghĩa xã hội, miền Nam tiếp tục kháng chiến chống Pháp, giải phóng miền Nam, thống nhất đất nước. III. Chiến dịch cuối cùng của cuộc Tổng tiến công và nổi dậy Xuân 1975 là chiến dịch Hồ Chí Minh. IV. Hiệp định Pa-ri là thắng lợi ngoại giao trong cuộc kháng chiến chống Mỹ của nhân dân Việt Nam.",
+    "image": null,
+    "options": ["I và II.", "I và IV.", "II và III.", "III và IV."],
+    "correct": 3,
+    "explanation": "III và IV đúng. I sai vì trận chiến cuối cùng là Chiến dịch Hồ Chí Minh 1975. II sai vì sau 1954 miền Nam kháng chiến chống Mỹ và chính quyền Sài Gòn, không phải chống Pháp.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: Mục tiêu chính của chính sách đối ngoại \"ngoại giao cây tre\" của Việt Nam là gì?",
+    "image": null,
+    "options": [
+      "Xây dựng liên minh quân sự vững chắc.",
+      "Duy trì sự độc lập, tự chủ và linh hoạt trong quan hệ quốc tế.",
+      "Tập trung vào phát triển kinh tế song phương.",
+      "Hạn chế tham gia vào các diễn đàn đa phương."
+    ],
+    "correct": 1,
+    "explanation": "\"Ngoại giao cây tre\" thể hiện sự kiên định về nguyên tắc (gốc vững), đồng thời mềm dẻo, linh hoạt trong ứng xử (thân dẻo), duy trì sự độc lập, tự chủ trong quan hệ quốc tế.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Việt Nam đã được bầu làm Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc với số phiếu ủng hộ cao kỷ lục là bao nhiêu?",
+    "image": null,
+    "options": ["190/193 phiếu.", "191/193 phiếu.", "192/193 phiếu.", "193/193 phiếu."],
+    "correct": 2,
+    "explanation": "Việt Nam được bầu là Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc (nhiệm kỳ 2020-2021) với số phiếu cao kỷ lục 192/193 phiếu ủng hộ.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Việt Nam đã nộp bản Đóng góp do quốc gia tự quyết định (NDC) cập nhật cho Ban Thư ký của tổ chức nào?",
+    "image": null,
+    "options": [
+      "Tổ chức Y tế Thế giới (WHO).",
+      "Liên hợp quốc về Biến đổi Khí hậu (UNFCCC).",
+      "Chương trình Phát triển Liên hợp quốc (UNDP).",
+      "Quỹ Nhi đồng Liên hợp quốc (UNICEF)."
+    ],
+    "correct": 1,
+    "explanation": "UNFCCC là Công ước khung của Liên hợp quốc về biến đổi khí hậu, là cơ quan chính thức tiếp nhận và quản lý các NDC của các quốc gia thành viên, trong đó có Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: Việt Nam đã phát huy \"vai trò kép\" trong năm 2020 trên cương vị nào?",
+    "image": null,
+    "options": [
+      "Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc và Chủ tịch ASEAN.",
+      "Ủy viên Hội đồng Bảo an Liên hợp quốc và thành viên Tổ chức Thương mại Thế giới (WTO).",
+      "Thành viên ASEAN và thành viên Tổ chức Y tế Thế giới (WHO).",
+      "Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc và thành viên Tổ chức Y tế Thế giới (WHO)."
+    ],
+    "correct": 0,
+    "explanation": "Năm 2020, Việt Nam đảm nhận đồng thời hai trọng trách: Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc nhiệm kỳ 2020-2021 và Chủ tịch ASEAN.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: Lĩnh vực nào sau đây không được đề cập đến trong báo cáo của Ủy ban châu Âu (EC) về các sự cố an ninh mạng năm 2020?",
+    "image": null,
+    "options": ["Hệ thống chăm sóc sức khỏe.", "Tài chính.", "Năng lượng.", "Giáo dục"],
+    "correct": 3,
+    "explanation": "Báo cáo của EC đề cập đến hệ thống chăm sóc sức khỏe, tài chính, năng lượng và các kết cấu hạ tầng khác, nhưng không đề cập đến giáo dục.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: Tại sao vấn đề an ninh mạng lại gây căng thẳng trong quan hệ quốc tế?",
+    "image": null,
+    "options": [
+      "Vì nó chỉ ảnh hưởng đến các quốc gia phát triển.",
+      "Vì nó làm lộ bí mật quân sự của các quốc gia.",
+      "Vì nó liên quan đến sự cạnh tranh về công nghệ và ảnh hưởng địa chính trị.",
+      "Vì các cuộc tấn công mạng không thể truy tìm nguồn gốc."
+    ],
+    "correct": 2,
+    "explanation": "An ninh mạng trở thành công cụ cạnh tranh giữa các quốc gia, đặc biệt trong lĩnh vực công nghệ cao, ảnh hưởng đến cán cân quyền lực và địa chính trị toàn cầu.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: Theo đoạn tư liệu, căng thẳng giữa Mỹ và Tập đoàn Huawei xuất phát từ lo ngại nào?",
+    "image": null,
+    "options": [
+      "Tập đoàn Huawei cạnh tranh không lành mạnh.",
+      "Công nghệ mạng 5G của Trung Quốc có thể tạo ra nền tảng trợ giúp các hoạt động gián điệp.",
+      "Tập đoàn Huawei vi phạm bản quyền công nghệ.",
+      "Tập đoàn Huawei từ chối hợp tác với Mỹ về an ninh mạng."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn tư liệu nêu rõ Mỹ lo ngại công nghệ mạng 5G của Trung Quốc (Huawei) có thể tạo ra nền tảng trợ giúp các hoạt động gián điệp.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Các loại đá cấu tạo nên vỏ Trái Đất gồm:",
+    "image": null,
+    "options": [
+      "vỏ đại dương và vỏ lục địa và đá biến chất.",
+      "vỏ lục địa và lớp manti trên, đá mac-ma.",
+      "đá mac-ma, đá biến chất, đá trầm tích.",
+      "đá trầm tích, khoáng vật si-li-cat."
+    ],
+    "correct": 2,
+    "explanation": "Các loại đá cấu tạo nên vỏ Trái Đất gồm: đá mac-ma, đá biến chất, đá trầm tích.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Cơ cấu dân số xã hội không bao gồm:",
+    "image": null,
+    "options": ["cơ cấu dân số theo lao động.", "cơ cấu dân số theo dân tộc.", "cơ cấu dân số theo tôn giáo.", "cơ cấu dân số theo giới tính."],
+    "correct": 3,
+    "explanation": "Cơ cấu dân số xã hội không bao gồm cơ cấu dân số theo giới tính vì đây thuộc cơ cấu sinh học.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: Tổ chức nào dưới đây có vai trò quan trọng trong việc thúc đẩy phát triển kinh tế toàn cầu?",
+    "image": null,
+    "options": [
+      "Các công ty đa quốc gia và các tổ chức thương mại nội địa.",
+      "Tổ chức Thương mại Thế giới (WTO) và Quỹ Tiền tệ Quốc tế (IMF).",
+      "Ngân hàng Thế giới (WB) và Tổ chức Hợp tác Kinh tế châu Âu (ECO).",
+      "Diễn đàn hợp tác châu Á - Thái Bình Dương (APEC) và Ngân hàng Thế giới (WB)."
+    ],
+    "correct": 1,
+    "explanation": "Tổ chức Thương mại Thế giới (WTO) và Quỹ Tiền tệ Quốc tế (IMF) có vai trò quan trọng và trực tiếp nhất trong việc thúc đẩy phát triển kinh tế toàn cầu.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Chăn nuôi đại gia súc tập trung chủ yếu ở phía Tây Hoa Kỳ là do",
+    "image": null,
+    "options": [
+      "đồng cỏ rộng lớn, nguồn thức ăn dồi dào.",
+      "ngành công nghiệp chế biến phát triển.",
+      "tập trung đông dân cư, thị trường lớn.",
+      "đời sống cao nên nhu cầu dùng thịt lớn."
+    ],
+    "correct": 0,
+    "explanation": "Phía Tây Hoa Kỳ địa hình chủ yếu là đồi núi, các sơn nguyên, cao nguyên rộng lớn với đồng cỏ phát triển trù phú, tạo nguồn thức ăn dồi dào cho chăn nuôi đại gia súc.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: An ninh truyền thống là các vấn đề liên quan đến",
+    "image": null,
+    "options": ["lương thực.", "quân sự.", "nguồn nước.", "biến đổi khí hậu."],
+    "correct": 1,
+    "explanation": "An ninh truyền thống là các vấn đề liên quan đến quân sự. Các vấn đề lương thực, nguồn nước, biến đổi khí hậu thuộc an ninh phi truyền thống.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Cho bảng số liệu Cơ cấu GDP của Nhật Bản giai đoạn 2010 – 2020 (%): Nông nghiệp, lâm nghiệp, thủy sản: 2010=1,1; 2015=1,0; 2020=1,0. Công nghiệp, xây dựng: 2010=28,3; 2015=28,6; 2020=29,1. Dịch vụ: 2010=70,5; 2015=69,8; 2020=69,6. Thuế sản phẩm trừ trợ cấp sản phẩm: 2010=0,1; 2015=0,6; 2020=0,3. Dựa vào bảng số liệu, nhận xét nào sau đây không đúng về cơ cấu GDP của Nhật Bản giai đoạn 2010 - 2020?",
+    "image": null,
+    "options": [
+      "Nông nghiệp, lâm nghiệp, thuỷ sản chiếm tỉ trọng nhỏ trong cơ cấu GDP của Nhật Bản giai đoạn 2010 - 2020.",
+      "Ngành dịch vụ chiếm tỉ trọng lớn nhất nhưng lại đang giảm 0,9% trong cơ cấu GDP giai đoạn 2010 - 2020.",
+      "Ngành công nghiệp, xây dựng có tỉ trọng lớn thứ 2 và có tăng 0,8% trong cơ cấu GDP giai đoạn 2010 - 2020.",
+      "Ngành nông nghiệp, lâm nghiệp, thuỷ sản chiếm tỉ trọng nhỏ trong cơ cấu GDP do Nhật Bản là quốc gia có nhiều quỹ đất cho nông nghiệp."
+    ],
+    "correct": 3,
+    "explanation": "Nhật Bản chủ yếu là đồi núi (¾ diện tích), quỹ đất cho nông nghiệp chỉ khoảng 13%, không phải là nhiều. Đáp án D là đáp án không đúng.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Cho bảng số liệu số giờ nắng các tháng năm 2021 tại trạm quan trắc Quy Nhơn (Bình Định) (Đơn vị: Giờ): Tháng 1=108,4; 2=203,9; 3=260,0; 4=260,7; 5=312,0; 6=270,5; 7=224,1; 8=283,6; 9=184,4; 10=142,1; 11=78,9; 12=101,9. Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về số giờ nắng của Bình Định?",
+    "image": null,
+    "options": [
+      "Tổng số giờ nắng cao, trên 2400 giờ/năm, có 7 tháng có số giờ nắng >200 giờ do vị trí địa lý, hoàn lưu gió mùa, địa hình.",
+      "Tổng số giờ nắng cao, trên 2500 giờ/năm, có 5 tháng có số giờ nắng <100 giờ do vị trí địa lý, gió mùa tây nam, địa hình.",
+      "Tổng số giờ nắng cao, trên 2500 giờ/năm, tháng 11 có số giờ nắng thấp nhất do vị trí địa lý, gió mùa đông bắc, dải hội tụ nhiệt đới.",
+      "Tổng số giờ nắng cao, trên 2400 giờ/năm, có 6 tháng có số giờ nắng >200 giờ do vị trí địa lý, hoàn lưu gió mùa, dải hội tụ nhiệt đới."
+    ],
+    "correct": 0,
+    "explanation": "Tổng số giờ nắng là 2430,5 giờ (trên 2400 giờ), có 7 tháng >200 giờ. Dải hội tụ nhiệt đới ảnh hưởng chủ yếu đến chế độ mưa nên loại đáp án D.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Cho bảng số liệu diện tích và sản lượng cây lương thực có hạt của nước ta năm 2015 và năm 2023: Diện tích cây lương thực có hạt (nghìn ha): 2015=9008,8; 2023=8004,2. Diện tích cây lúa: 2015=7828,0; 2023=7119,3. Sản lượng cây lương thực có hạt (nghìn tấn): 2015=50379,5; 2023=47935,7. Sản lượng cây lúa: 2015=45091,0; 2023=43497,7. Nhận xét nào sau đây không đúng với bảng số liệu trên?",
+    "image": null,
+    "options": [
+      "Diện tích và sản lượng cây lương thực có hạt đều giảm.",
+      "Tỉ lệ diện tích và sản lượng cây lúa trong tổng diện tích và sản lượng cây lương thực có hạt đều tăng.",
+      "Tỉ lệ diện tích cây lúa luôn chiếm hơn 85% trong tổng diện tích cây lương thực có hạt.",
+      "Tỉ lệ sản lượng cây lúa luôn chiếm hơn 90% trong tổng sản lượng cây lương thực có hạt."
+    ],
+    "correct": 3,
+    "explanation": "Tỉ lệ sản lượng cây lúa năm 2015 chỉ chiếm 89,5% (45091/50379,5.100), chưa đến 90%, nên đáp án D không đúng.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Ý nghĩa của sự phân vùng lãnh thổ du lịch ở nước ta là",
+    "image": null,
+    "options": [
+      "khai thác thế mạnh, phát triển các sản phẩm du lịch đặc trưng, tạo liên kết giữa các vùng.",
+      "tận dụng sự tiến bộ của khoa học công nghệ hiện đại vào phát triển các ngành du lịch.",
+      "chủ động phát triển các ngành du lịch đặc trưng, nâng cao thu nhập cho người dân.",
+      "đáp ứng nhu cầu hưởng thụ, khám phá du lịch của đại đa số dân cư và tạo việc làm."
+    ],
+    "correct": 0,
+    "explanation": "Ý nghĩa của sự phân vùng lãnh thổ du lịch là khai thác thế mạnh sẵn có của từng vùng, phát triển sản phẩm du lịch đặc trưng, tạo liên kết giữa các vùng để tạo sản phẩm tổng hợp có sức cạnh tranh.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Biểu đồ (cột kết hợp đường, thể hiện giá trị xuất khẩu, nhập khẩu bằng cột và tốc độ tăng xuất, nhập khẩu bằng đường, đơn vị Tỷ đô la Mỹ và %) thể hiện nội dung nào về ngành ngoại thương của nước ta giai đoạn 2010 - 2022?",
+    "image": null,
+    "options": [
+      "Giá trị và tốc độ tăng trưởng xuất - nhập khẩu hàng hoá của nước ta giai đoạn 2010 - 2022.",
+      "Sự chuyển dịch cơ cấu giá trị xuất - nhập khẩu hàng hoá của nước ta giai đoạn 2010 - 2022.",
+      "Quy mô và cơ cấu giá trị xuất - nhập khẩu hàng hoá của nước ta giai đoạn 2010 - 2022.",
+      "Quy mô và giá trị xuất - nhập khẩu hàng hoá của nước ta giai đoạn 2010 - 2022."
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ có giá trị xuất/nhập khẩu (cột) và tốc độ tăng (đường), phù hợp với nội dung 'Giá trị và tốc độ tăng trưởng xuất - nhập khẩu hàng hoá'.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Ý nghĩa chủ yếu của việc đẩy mạnh cây công nghiệp ở Trung du và miền núi Bắc Bộ là",
+    "image": null,
+    "options": [
+      "tạo ra nguồn hàng xuất khẩu, cạnh tranh với Thái Lan.",
+      "hạn chế tối đa nạn du canh, du cư của lao động trong vùng.",
+      "sử dụng hợp lí tài nguyên, phát triển nông nghiệp hàng hoá.",
+      "tạo ra nguồn nguyên liệu tại chỗ cho công nghiệp chế biến."
+    ],
+    "correct": 2,
+    "explanation": "Ý nghĩa chủ yếu của việc đẩy mạnh cây công nghiệp ở Trung du và miền núi Bắc Bộ là sử dụng hợp lí tài nguyên, phát triển nông nghiệp hàng hoá.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Ý nghĩa chủ yếu của việc phát triển nuôi trồng thuỷ sản ở Bắc Trung Bộ là",
+    "image": null,
+    "options": [
+      "tạo sản phẩm hàng hoá, đa dạng sản xuất.",
+      "thu hút đầu tư, mở rộng phân bố sản xuất.",
+      "mở rộng sản xuất, tái cấu trúc nền kinh tế.",
+      "thay đổi cơ cấu kinh tế, phát huy thế mạnh."
+    ],
+    "correct": 3,
+    "explanation": "Ý nghĩa chủ yếu của việc phát triển nuôi trồng thuỷ sản ở Bắc Trung Bộ là thay đổi cơ cấu kinh tế và phát huy thế mạnh của vùng có bờ biển dài, nhiều đầm phá.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Biện pháp quan trọng nhất để khai thác tốt hơn tiềm năng tự nhiên cho sản xuất lương thực vùng Đồng bằng sông Cửu Long?",
+    "image": null,
+    "options": [
+      "giải quyết tốt vấn đề thủy lợi.",
+      "chuyển đổi cơ cấu mùa vụ.",
+      "phát triển công nghiệp chế biến.",
+      "tăng cường việc bảo vệ rừng tràm và rừng ngập mặn."
+    ],
+    "correct": 0,
+    "explanation": "Biện pháp quan trọng nhất là giải quyết tốt vấn đề thủy lợi vì nước ngọt là vấn đề quan trọng hàng đầu vào mùa khô ở ĐBSCL.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: So với các vùng kinh tế trọng điểm trong nước, vùng kinh tế trọng điểm miền Trung có",
+    "image": null,
+    "options": [
+      "nguồn lao động dồi dào, chất lượng tốt.",
+      "đứng đầu về vốn và công nghệ ở nước ta.",
+      "vị trí chuyển tiếp và có tài nguyên biển phong phú.",
+      "quỹ đất nông nghiệp lớn, nguồn nước dồi dào."
+    ],
+    "correct": 2,
+    "explanation": "Vùng kinh tế trọng điểm miền Trung có vị trí chuyển tiếp giữa vùng kinh tế trọng điểm Bắc Bộ và phía Nam, có tài nguyên biển phong phú.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: Địa điểm nào sau đây ở nước ta có lượng mưa trung bình năm lớn nhất?",
+    "image": null,
+    "options": ["Hà Nội.", "Huế.", "Nha Trang.", "Phan Thiết."],
+    "correct": 1,
+    "explanation": "Huế là một trong những trung tâm mưa lớn nhất cả nước do tác động của dải hội tụ nhiệt đới cùng sự dịch chuyển của bão chậm dần từ Bắc vào Nam.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: Mùa hạ nóng, mùa đông ấm, mưa nhiều về thu đông là kiểu khí hậu của thành phố",
+    "image": null,
+    "options": ["Hà Nội.", "Huế.", "Nha Trang.", "Cần Thơ."],
+    "correct": 1,
+    "explanation": "Kiểu khí hậu mùa hạ nóng, mùa đông ấm, mưa nhiều về thu đông là đặc trưng của vùng đồng bằng ven biển Trung Bộ, trong đó có thành phố Huế.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: Vùng khí hậu Đông Bắc Bộ có biên độ nhiệt độ trung bình năm lớn nhất là",
+    "image": null,
+    "options": [
+      "do hướng địa hình và ảnh hưởng của gió mùa Đông Bắc.",
+      "do lượng mưa trung bình năm thấp hơn các vùng khác.",
+      "do gió mùa Tây Nam gây ra sự chênh lệch nhiệt độ giữa các mùa.",
+      "do vị trí gần biển và chịu ảnh hưởng của khí hậu đại dương."
+    ],
+    "correct": 0,
+    "explanation": "Địa hình núi cao kết hợp với ảnh hưởng của gió mùa Đông Bắc (mùa đông lạnh sâu) khiến nhiệt độ thay đổi rõ rệt giữa các mùa, dẫn đến biên độ nhiệt độ trung bình năm lớn.",
+    "passage": null
+  }
+]

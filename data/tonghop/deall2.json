@@ -1,0 +1,1180 @@
+[
+  {
+    "id": 501,
+    "question": "Nguyên nhân nào dưới đây làm miền Bắc Việt Nam có thời tiết lạnh khô vào nửa đầu mùa đông?",
+    "image": null,
+    "options": [
+      "Do tác động của gió mùa Đông Bắc.",
+      "Do tác động của gió mùa Tây Nam.",
+      "Do sự hình thành của dải hội tụ nhiệt đới.",
+      "Do tác động của khối khí lạnh từ Bắc Ấn Độ Dương."
+    ],
+    "correct": 0,
+    "explanation": "Trong nửa đầu mùa đông, miền Bắc Việt Nam thường chịu tác động của gió mùa Đông Bắc, mang theo không khí lạnh khô khi đi qua lục địa Âu - Á ít bị biến tính làm cho thời tiết trở nên lạnh khô.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Các hoạt động đánh bắt và nuôi trồng thuỷ sản nước ta ngày càng phát triển là do",
+    "image": null,
+    "options": [
+      "hoạt động dịch vụ hậu cần nghề cá và hoạt động nghiên cứu con giống được mở rộng.",
+      "nhân dân có nhiều kinh nghiệm, truyền thống trong đánh bắt và nuôi trồng thuỷ sản.",
+      "phương tiện đánh bắt, bảo quản thuỷ sản ngày càng hiện đại và đạt chất lượng cao.",
+      "công nghiệp chế biến thức ăn và nghiên cứu con giống ngày càng mở rộng."
+    ],
+    "correct": 0,
+    "explanation": "Chú ý đề bài hỏi toàn ngành thuỷ sản bao gồm cả đánh bắt và nuôi trồng. Vì vậy loại được đáp C và D, đáp án B cũng là nguyên nhân nhưng chưa đủ để ngành thuỷ sản ngày càng phát triển, vậy chỉ còn đáp án A là đúng nhất. Hoạt động hậu cần nghề cá ở đây bao gồm hệ thống các cảng cá, thu mua chế biến thuỷ sản, thiết bị hàng hải, mua bán ngư cụ, tàu thuyền,...",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Giả sử tỉ suất gia tăng dân số của toàn thế giới năm 2015 là 1,2% và không thay đổi trong suốt thời kì 2000 – 2020, biết rằng số dân toàn thế giới năm 2015 là 7346 triệu người. Số dân của năm 2016 sẽ là",
+    "image": null,
+    "options": [
+      "7468,25 triệu người.",
+      "7458,25 triệu người.",
+      "7434,15 triệu người.",
+      "7522,35 triệu người."
+    ],
+    "correct": 2,
+    "explanation": "Ta có công thức: Dân số năm sau = A * (1+r)^n. Trong đó: A là dân số năm trước, r là gia tăng tự nhiên (r = 1,2% = 0,012), n là hiệu số năm sau với năm trước. Áp dụng công thức: Biết dân số năm 2015 là 7346 (triệu người). Hiệu số năm 2016 với 2015 = 1 (năm) ⇒ Dân số năm 2016 = 7346*(1+0,012)^1 = 7434,15 triệu người.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Nguyên nhân nào dưới đây làm vùng Tây Nguyên và Nam Bộ có mùa khô sâu sắc?",
+    "image": null,
+    "options": [
+      "Ảnh hưởng của gió Tín phong bán cầu Bắc có hướng đông bắc.",
+      "Do tác động của áp cao cận chí tuyến bán cầu Nam.",
+      "Do thời gian hình thành của dải hội tụ nhiệt đới.",
+      "Sự tác động của gió Tây Nam từ áp cao từ Bắc Ấn Độ Dương."
+    ],
+    "correct": 0,
+    "explanation": "Vùng Tây Nguyên và Nam Bộ có mùa khô sâu sắc là do ảnh hưởng của gió Tín phong bán cầu Bắc có hướng đông bắc. Thổi từ biển vào gây mưa lớn cho ven biển Trung Bộ và khô nóng cho Tây Nguyên và Nam Bộ.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Cho bảng số liệu: LƯỢNG MƯA VÀ LƯỢNG BỐC HƠI CỦA MỘT SỐ ĐỊA ĐIỂM (Đơn vị: mm). Theo bảng số liệu, nhận xét nào sau đây không đúng về lượng mưa và lượng bốc hơi của Hà Nội, Huế và TP Hồ Chí Minh?",
+    "image": null,
+    "options": [
+      "TP Hồ Chí Minh có lượng bốc hơi cao nhất, cân bằng ẩm thấp nhất.",
+      "Cân bằng ẩm của TP Hồ Chí Minh cao hơn Huế và thấp hơn Hà Nội.",
+      "Cân bằng ẩm của Hà Nội cao hơn TP Hồ Chí Minh và thấp hơn Huế.",
+      "Huế có lượng mưa và cân bằng ẩm cao nhất, lượng bốc hơi lớn thứ hai."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án B là đáp án cần chọn vì TP Hồ Chí Minh có cân bằng ẩm thấp nhất chứ không phải cao hơn Huế. Cân bằng ẩm cao nhất là Huế (+1868mm) sau đó là Hà Nội (+687mm) và TP Hồ Chí Minh (+245mm).",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Cho bảng số liệu sau: Nhiệt độ và lượng mưa trung bình tháng ở Huế. Hãy chọn biểu đồ thích hợp nhất thể hiện nhiệt độ và lượng mưa trung bình tháng của Huế.",
+    "image": null,
+    "options": [
+      "Kết hợp cột đường",
+      "Đường biểu diễn",
+      "Tròn",
+      "Miền"
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ thích hợp nhất để thể hiện nhiệt độ và lượng mưa ở Huế là biểu đồ kết hợp cột đường.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Hãy cho biết bảng số liệu nhiệt độ và lượng mưa trên thể hiện đặc trưng khí hậu của các tỉnh/thành phố nào sau đây?",
+    "image": null,
+    "options": [
+      "Hà Nội, Lạng Sơn.",
+      "Quảng Trị, Thừa Thiên Huế.",
+      "Thành phố Hồ Chí Minh, Cà Mau.",
+      "Thừa Thiên Huế và Lào Cai."
+    ],
+    "correct": 1,
+    "explanation": "Quan sát hàng nhiệt độ: Tháng 12 đến tháng 02 nhiệt độ dao động khoảng 19-20 độ, không có tháng nào dưới 18 độ C → loại Hà Nội, Lào Cai, Lạng Sơn (miền Bắc có mùa đông lạnh). TP Hồ Chí Minh và Cà Mau (miền Nam) nhiệt độ các tháng đều cao trên 24 độ C. Lượng mưa nhiều lệch về thu đông từ tháng 9 đến tháng 11 → đặc trưng miền Trung. Vậy đáp án là B.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nguyên nhân chính phía Đông của Liên Bang Nga không thuận lợi cho phát triển nông nghiệp?",
+    "image": null,
+    "options": [
+      "Khí hậu lạnh giá khắc nghiệt.",
+      "Địa hình cao nguyên và đồi núi.",
+      "Đất đai kém màu mỡ.",
+      "Dân cư thưa thớt không có đủ lao động."
+    ],
+    "correct": 1,
+    "explanation": "Nguyên nhân chính làm cho phía Đông của Liên Bang Nga không thuận lợi phát triển nông nghiệp chính là yếu tố địa hình. Địa hình phía đông Liên Bang Nga chủ yếu là địa hình cao nguyên và đồi núi điều này không thuận lợi cho phát triển nông nghiệp.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Phần lãnh thổ trung tâm Bắc Mỹ địa hình phân hoá đa dạng được phân ra thành khu vực nào dưới đây?",
+    "image": null,
+    "options": [
+      "Khu vực núi và cao nguyên, đồng bằng và đảo.",
+      "Khu vực đồng bằng, núi và cao nguyên.",
+      "Phía đông, phía tây và vùng trung tâm.",
+      "Vùng nội địa, đồng bằng và phía đông, phía tây."
+    ],
+    "correct": 1,
+    "explanation": "Phần lãnh thổ trung tâm Bắc Mỹ địa hình phân hoá đa dạng được phân ra thành khu vực núi và cao nguyên, khu vực đồng bằng. Chú ý đề bài chỉ hỏi phần trung tâm lục địa Bắc Mỹ.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Đâu là yếu tố có giá trị ổn định, đồng thời là hạt nhân, là động lực liên kết và nhất thể hoá của liên minh châu Âu (EU)?",
+    "image": null,
+    "options": [
+      "Liên kết vùng.",
+      "Đồng tiền chung Ơ-rô.",
+      "Bốn quyền tự do.",
+      "Hợp tác phát triển ngành hàng không."
+    ],
+    "correct": 1,
+    "explanation": "Chú ý từ khoá: giá trị, hạt nhân, nhất thể hoá. Đây đều là các từ khoá có rất quan trọng khi nói đến yếu tố chi phối các vấn đề khác đó chính là tiền. Đồng tiền chung Ơ-rô. Đồng Ơ-rô đã góp phần vào hoàn thiện thị trường chung châu Âu, gỡ bỏ hàng rào phi thuế quan. Đây cũng chính là động lực thúc đẩy vị thế của khu vực.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Cơ cấu công nghiệp theo ngành ở nước ta hiện nay không có đặc điểm nào dưới đây?",
+    "image": null,
+    "options": [
+      "Cơ cấu ngành công nghiệp tương đối đa dạng.",
+      "Giữa các ngành có sự ổn định về tỉ trọng.",
+      "Đang hình thành nên các ngành mũi nhọn.",
+      "Có sự chuyển dịch phù hợp với kinh tế tri thức."
+    ],
+    "correct": 1,
+    "explanation": "Trong cơ cấu giá trị sản xuất công nghiệp đang có sự chuyển dịch rất rõ nét phù hợp với công nghiệp hoá, hiện đại hoá, nền kinh tế tri thức của nước ta. Chứ không phải là ổn định giữa các ngành.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Ý nào dưới đây đúng nhất về ý nghĩa của việc phát triển thuỷ điện của vùng Trung du và miền núi Bắc Bộ?",
+    "image": null,
+    "options": [
+      "Khai thác thế mạnh của vùng, tạo động lực mới cho sự phát triển.",
+      "Cung cấp năng lượng cho vùng, tận dụng dụng lợi thế thuỷ năng.",
+      "Có trữ năng thuỷ điện dồi dào, nhiều nhà máy công suất lớn.",
+      "Tận dụng thế mạnh về chất lượng nguồn lao động có tay nghề."
+    ],
+    "correct": 0,
+    "explanation": "Loại B vì ngoài cung cấp năng lượng cho vùng thì còn cung cấp cho cả nước, về sau chưa đủ ý. Loại C vì đây là đặc điểm không phải vai trò. Loại D vì không chính xác vùng còn nhiều hạn chế về nguồn lao động. Đáp án đầy đủ và thích hợp nhất là A việc phát triển thuỷ điện của vùng Trung du và miền núi Bắc Bộ giúp cho vùng khai thác thế mạnh và đặc biệt là tạo động lực mới cho phát triển của vùng.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Khó khăn nào sau đây gây trở ngại lớn nhất đến việc phát triển kinh tế - xã hội ở đồng bằng sông Hồng?",
+    "image": null,
+    "options": [
+      "Diện tích đất canh tác giảm.",
+      "Tài nguyên thiên nhiên hạn chế.",
+      "Ô nhiễm môi trường.",
+      "Mật độ dân số đông."
+    ],
+    "correct": 3,
+    "explanation": "Mật độ dân số quá đông gây nhiều khó khăn, trở ngại trong quá trình phát triển kinh tế - xã hội ở đồng bằng sông Hồng. Dân số đông dẫn đến nhu cầu việc làm lớn gây khó khăn trong vấn đề giải quyết, thêm vào đó là sức ép của dân số đông lên các vấn đề khác về kinh tế - văn hoá - xã hội.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Nhân tố nào dưới đây giúp cho ngành hoạt động du lịch của nước ta phát triển và diễn ra quanh năm?",
+    "image": null,
+    "options": [
+      "Khí hậu.",
+      "Địa hình thuận lợi.",
+      "Vị trí địa lí thuận lợi.",
+      "Chính sách phát triển."
+    ],
+    "correct": 0,
+    "explanation": "Diễn ra quanh năm thì chỉ có yếu tố khí hậu mới giúp ngành được diễn ra quanh năm. Ví dụ vào mùa hạ nước ta phát triển mạnh hoạt động du lịch biển từ Bắc vào Nam, ngoài ra thì khu vực phía nam vĩ tuyến 16 hoạt động du lịch biển diễn ra quanh năm, phía bắc vĩ tuyến 16 có 2 mùa đông và hè đều có thể phát triển du lịch với đặc trưng mùa.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Giả sử năm 2020, 1 quả cam Xã Đoài được bán với giá 70.000 đồng vậy bà con thu về được bao nhiêu tiền từ 50 quả cam?",
+    "image": null,
+    "options": [
+      "35.000.000 đồng.",
+      "40.000.000 đồng.",
+      "3.500.000 đồng.",
+      "350.000 đồng."
+    ],
+    "correct": 2,
+    "explanation": "50 quả cam, giá bán 1 quả là 70.000 = 70.000*50 = 3.500.000 (đồng).",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Sản lượng tính trên số diện tích trồng cam còn lại năm 2021 của tỉnh Nghệ An là",
+    "image": null,
+    "options": [
+      "45.000 tấn.",
+      "50.000 tấn.",
+      "118.375 tấn.",
+      "117.500 tấn."
+    ],
+    "correct": 0,
+    "explanation": "Số diện tích còn lại là 1800 ha, năng suất đạt 25 tấn/ha. Áp dụng công thức: năng suất = sản lượng/diện tích ⇒ sản lượng = năng suất * diện tích = 25 * 1800 = 45.000 (tấn).",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Nguyên nhân nào dưới đây làm cho diện tích cam ở các thủ phủ cam giảm xuống đáng kể và chỉ còn lại còn ở một số huyện ở tỉnh Nghệ An?",
+    "image": null,
+    "options": [
+      "Chất lượng đất ngày càng suy thoái.",
+      "Thị trường đầu ra cho sản phẩm bấp bênh.",
+      "Chuyển đổi mục đích sử dụng đất.",
+      "Sâu bệnh phá hoại và chất lượng giống kém."
+    ],
+    "correct": 3,
+    "explanation": "Thủ phủ cam Quỳ Hợp và một số vùng cam lớn ở các huyện Nghĩa Đàn, Con Cuông, Tân Kỳ… những năm trước là vựa cam lớn của tỉnh Nghệ An nhưng nay đã bị chặt bỏ, diện tích còn lại không nhiều do sâu bệnh phá hoại và chất lượng giống kém.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Cho các phát biểu dưới đây về chất hữu cơ:\na. Liên kết hóa học trong phân tử các hợp chất hữu cơ chủ yếu là liên kết cộng hóa trị.\nb. Đa số các chất hữu cơ có nhiệt độ sôi và nhiệt độ nóng chảy thấp, ít tan trong nước.\nc. Theo thành phần nguyên tố trong phân tử, các hợp chất hữu cơ được phân loại thành hydrocarbon và dẫn xuất hydrocarbon.\nd. Các chất methane (CH₄), glucose (C₆H₁₂O₆), saccharose (C₁₂H₂₂O₁₁), glycine (C₂H₅NO₂) và sodium hydrogencarbonate (NaHCO₃) đều là chất hữu cơ.\ne. Tất cả các hợp chất hữu cơ đều có nguyên tử C, H.\nSố phát biểu sai trong các phát biểu trên là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "a. Đúng. b. Đúng. c. Đúng. d. Sai. Sodium hydrogencarbonate (NaHCO₃) là hợp chất vô cơ. e. Sai. Hợp chất hữu cơ là các hợp chất của nguyên tử C (trừ CO, CO₂, CN⁻, CO₃²⁻, HCO₃⁻, ...), còn nguyên tố H không phải là nguyên tố bắt buộc. Vậy có 2 phát biểu sai.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Cho phản ứng: H₂O + Br₂ → HOBr + HBr\nPhát biểu nào sau đây về bromine trong phản ứng trên là đúng?",
+    "image": null,
+    "options": [
+      "Chỉ nhận proton.",
+      "Vừa bị oxi hóa, vừa bị khử.",
+      "Chỉ bị oxi hóa.",
+      "Chỉ bị khử."
+    ],
+    "correct": 1,
+    "explanation": "Số oxi hóa của các nguyên tố trong phản ứng được xác định như sau: H₂O + Br₂ → HOBr + HBr. Ta thấy sau phản ứng số oxi hóa của nguyên tử bromine vừa tăng vừa giảm nên bromine đóng vai trò vừa là chất oxi hóa, vừa là chất khử.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Một phản ứng có biến thiên enthalpy bằng 65kJ. Phát biểu nào sau đây là đúng?",
+    "image": null,
+    "options": [
+      "Cả phản ứng và môi trường xung quanh đều mất một năng lượng là 65kJ.",
+      "Cả phản ứng và môi trường xung quanh đều thu được một năng lượng là 65kJ.",
+      "Phản ứng mất 65kJ năng lượng và môi trường xung quanh nhận được một năng lượng 65kJ.",
+      "Phản ứng nhận được 65kJ năng lượng và môi trường xung quanh mất 65kJ năng lượng."
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng có giá trị biến thiên enthalpy lớn hơn 0 nên phản ứng này là phản ứng thu nhiệt. Vậy phản ứng nhận được 65kJ năng lượng và môi trường xung quanh mất 65kJ năng lượng.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Để tổng hợp picric acid, người ta cho 7,5 kg phenol phản ứng với hỗn hợp HNO₃ đặc và H₂SO₄ đặc, dư. Tính số kilogram picric acid thu được, biết hiệu suất phản ứng là 65%.",
+    "image": null,
+    "options": [
+      "18,27 kg.",
+      "28,11 kg.",
+      "12,87 kg.",
+      "11,88 kg."
+    ],
+    "correct": 3,
+    "explanation": "n_C₆H₅OH = 7,5/94 = 15/188 kmol = n_picric acid. Khối lượng picric acid thực tế thu được là: m_picric acid = (15/188)·65%·229 = 11,88 kg.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Phản ứng giữa bromate ion và bromine ion trong dung dịch acid: BrO₃⁻ + 5Br⁻ + 6H⁺ → 3Br₂ + 3H₂O. Sau một khoảng thời gian, đo được: −ΔC_Br⁻/Δt = 2,0·10⁻³ (M s⁻¹). Vậy tốc độ trung bình của phản ứng trong khoảng thời gian đó là",
+    "image": null,
+    "options": [
+      "1,2·10⁻³ M s⁻¹.",
+      "0,4·10⁻³ M s⁻¹.",
+      "3,3·10⁻³ M s⁻¹.",
+      "3,3·10⁻⁵ M s⁻¹."
+    ],
+    "correct": 1,
+    "explanation": "Tốc độ trung bình của phản ứng trên tính theo Br⁻: v̄ = −(1/5)·(ΔC_Br⁻/Δt) = (1/5)·2,0·10⁻³ = 0,4·10⁻³ (M s⁻¹).",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Liên kết hoặc tương tác hóa học giữa các phân tử đơn chất halogen với nhau là",
+    "image": null,
+    "options": [
+      "liên kết cộng hóa trị.",
+      "liên kết cộng hóa trị phân cực.",
+      "liên kết ion.",
+      "tương tác van der Waals."
+    ],
+    "correct": 3,
+    "explanation": "Giữa các phân tử halogen X₂ tồn tại tương tác van der Waals.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Trộn 200mL dung dịch HCl có pH = 2 với 300mL dung dịch NaOH có pH=12. pH của dung dịch thu được sau khi trộn là",
+    "image": null,
+    "options": [
+      "2.",
+      "12.",
+      "11,3.",
+      "11."
+    ],
+    "correct": 2,
+    "explanation": "Dung dịch HCl có pH=2 nên C_HCl=10⁻² M. Dung dịch NaOH có pH=12 nên pOH=2 → C_NaOH=10⁻² M. n_HCl = 2·10⁻³ mol, n_NaOH = 3·10⁻³ mol. Phản ứng trung hòa: NaOH + HCl → NaCl + H₂O nên n_NaOH dư = 1·10⁻³ mol. C_OH⁻ dư = 1·10⁻³ / 0,5 = 2·10⁻³ M → pOH = 2,7 → pH = 14 − 2,7 = 11,3.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Khí nào dưới đây không phải là nguyên nhân gây nên hiện tượng mưa acid?",
+    "image": null,
+    "options": [
+      "CH₄.",
+      "SO₂.",
+      "NO₂.",
+      "NO."
+    ],
+    "correct": 0,
+    "explanation": "Khí không phải nguyên nhân gây nên mưa acid là khí CH₄.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Acetylsalicylic acid (thuốc Aspirin) có công thức cấu tạo như hình bên. Phát biểu nào sau đây là không đúng?",
+    "image": null,
+    "options": [
+      "Acetylsalicylic acid có vị chua.",
+      "Cho a mol acetylsalicylic acid phản ứng với dung dịch NaOH dư, số mol NaOH phản ứng là 3a mol.",
+      "Công thức phân tử của acetylsalicylic acid là C₉H₁₀O₄.",
+      "Trong phân tử acetylsalicylic acid, nguyên tố oxygen chiếm chưa đến 36% về khối lượng."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án A: Đúng (có nhóm –COOH). Đáp án B: Đúng (phản ứng với 3 mol NaOH). Đáp án C: Sai (công thức phân tử đúng là C₉H₈O₄). Đáp án D: Đúng (%O ≈ 35,56%).",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Cặp chất nào sau đây là đồng phân của nhau?",
+    "image": null,
+    "options": [
+      "CH₄, CH₃–CH₃.",
+      "CH₃OCH₃, CH₃CH=O.",
+      "CH₃OH, C₂H₅OH.",
+      "C₂H₅OH, CH₃OCH₃."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án D: C₂H₅OH và CH₃OCH₃ đều có cùng công thức phân tử C₂H₆O.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Ngâm củ nghệ với ethanol nóng, sau đó lọc bỏ phần bã, lấy dung dịch đem cô để làm bay hơi bớt dung môi. Phần dung dịch còn lại sau khi cô được làm lạnh, để yên một thời gian rồi lọc lấy kết tủa curcumin màu vàng. Từ mô tả ở trên, hãy cho biết, người ta đã sử dụng các kĩ thuật tinh chế nào để lấy được curcumin từ củ nghệ.",
+    "image": null,
+    "options": [
+      "Chiết, chưng cất và kết tinh.",
+      "Chiết và kết tinh.",
+      "Chưng cất và kết tinh.",
+      "Chưng cất, kết tinh và sắc kí."
+    ],
+    "correct": 1,
+    "explanation": "Ngâm củ nghệ với ethanol nóng ⇒ phương pháp chiết. Phần dung dịch còn lại sau khi cô được làm lạnh, để yên một thời gian rồi lọc lấy kết tủa curcumin màu vàng ⇒ phương pháp kết tinh. ⇒ Đáp án B.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Vitamin C (ascorbic acid) chứa 40,92% C, 4,58% H và 54,50% O về khối lượng. Công thức thực nghiệm của ascorbic acid là:",
+    "image": null,
+    "options": [
+      "C₂H₄O₂.",
+      "C₃H₄O₂.",
+      "C₃H₄O₃.",
+      "CH₃COOH."
+    ],
+    "correct": 2,
+    "explanation": "Tỉ lệ mol của các nguyên tố là: 40,92/12 : 4,58/1 : 54,50/16 = 3,470 : 4,544 : 3,406 ≈ 3 : 4 : 3. Vậy công thức thực nghiệm của ascorbic acid là C₃H₄O₃.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Sản phẩm chính theo quy tắc Zaitsev của phản ứng tách HCl ra khỏi phân tử 2-chloro-3-methyl butane là",
+    "image": null,
+    "options": [
+      "2-methylbut-2-ene.",
+      "3-methylbut-2-ene.",
+      "3-methylbut-3-ene.",
+      "2-methylbut-3-ene."
+    ],
+    "correct": 0,
+    "explanation": "Quy tắc Zaitsev: Trong phản ứng tách hydrogen halide, nguyên tử halogen bị tách ưu tiên cùng với nguyên tử hydrogen ở carbon bên cạnh có bậc cao hơn. Sản phẩm chính theo quy tắc Zaitsev của phản ứng tách HCl ra khỏi phân tử 2-chloro-3-methyl butane là 2-methylbut-2-ene.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Phương trình điện phân nước muối trong máy điện phân là",
+    "image": null,
+    "options": [
+      "NaCl + H₂O → NaOH + HCl.",
+      "2NaCl + H₂O → 2NaOH + H₂ + Cl₂.",
+      "2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂.",
+      "Cl₂ + 2NaOH → NaCl + NaClO + H₂O."
+    ],
+    "correct": 2,
+    "explanation": "Phương trình điện phân nước muối là: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Nhận định nào dưới đây sai khi nói về quá trình xử lý nước bể bơi bằng phương pháp điện phân dung dịch nước muối?",
+    "image": null,
+    "options": [
+      "Quá trình xử lý nước bể bơi bằng điện phân dung dịch nước muối an toàn hơn việc xử lý trực tiếp nước bể bơi bằng hóa chất chlorine.",
+      "Quá trình xử lý nước bể bơi bằng điện phân dung dịch nước muối không làm thay đổi pH của nước.",
+      "Không tạo mùi khó chịu như khi xử lý nước trực tiếp bằng hóa chất chlorine.",
+      "Sau quá trình điện phân dung dịch, dòng nước ra khỏi máy điện phân sẽ tạo ra HOCl để làm sạch và khử khuẩn nước trong bể bơi."
+    ],
+    "correct": 1,
+    "explanation": "Quá trình điện phân muối ăn có sinh ra gốc OH⁻ do nước bị điện phân ở catot nên sẽ làm thay đổi pH của nước.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Một gia đình có bể bơi với kích thước là chiều dài 15m, chiều rộng 4,5m và chiều sâu là 1,8m. Gia đình này sử dụng phương pháp điện phân muối NaCl để làm sạch nước trong hồ bơi. Biết rằng hàm lượng của clo cho phép trong nước bể bơi là 0,6 - 1,5 mg/L. Lượng muối NaCl ít nhất theo lý thuyết cần cho vào bể bơi là bao nhiêu, với giả sử hiệu suất quá trình điện phân là 100%?",
+    "image": null,
+    "options": [
+      "120,1 gam.",
+      "120,1 kg.",
+      "60,1 gam.",
+      "60,1 kg."
+    ],
+    "correct": 0,
+    "explanation": "m_Cl₂ = (15 · 4,5 · 1,8 · 1000 · 0,6)/1000 = 72,9 gam. n_Cl₂ = 72,9/71 mol. n_NaCl = 2n_Cl₂ ⇒ m_NaCl = 2 · (72,9/71) · 58,5 = 120,1 gam.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Cho các chất: nước Br₂, acid HNO₃ (có mặt H₂SO₄ đặc, t°), dung dịch NaOH, Br₂ (Fe, t°), dung dịch AgNO₃/NH₃, H₂O/xúc tác acid. Số chất tác dụng với styrene là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Styrene vừa có tính chất của hợp chất arene, vừa có tính chất của alkene. Styrene phản ứng với: acid HNO₃ (có mặt H₂SO₄ đặc, t°) – nitro hóa; Br₂ (Fe, t°) – halogen hóa; nước Br₂ – cộng halogen; H₂O/xúc tác acid – cộng nước. Vậy styrene có thể phản ứng với 4 chất.",
+    "passage": null
+  },
+  {
+    "id": 101,
+    "question": "Vận động viên điền kinh bị mất rất nhiều nước trong khi thi đấu. Các vận động viên thường chỉ có thể chuyển hoá khoảng 20% năng lượng dự trữ trong cơ thể thành năng lượng dùng cho các hoạt động của cơ thể. Phần năng lượng còn lại chuyển thành nhiệt thải ra ngoài nhờ sự bay hơi của nước qua hô hấp và da để giữ cho nhiệt độ cơ thể không đổi. Nếu vận động viên dùng hết 10800kJ trong cuộc thi thì có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể? Coi nhiệt độ cơ thể của vận động viên hoàn toàn không đổi và nhiệt hoá hơi riêng của nước ở nhiệt độ của vận động viên là 2,4·10⁶J/kg. Biết khối lượng riêng của nước là 1,0·10³kg/m³.",
+    "image": null,
+    "options": [
+      "2,6l",
+      "3,6l",
+      "1,6l",
+      "4,6l"
+    ],
+    "correct": 1,
+    "explanation": "Phần năng lượng dùng để bay hơi: Q = 10800·10³ · 0,80 = 8640000 J. V = Q/(ρL) = 8640000/(1000 · 2,4·10⁶) = 3,6·10⁻³ m³ = 3,6 l.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Với bình xịt khử trùng, khi ta ấn nút, van mở, hiện tượng nào sẽ xảy ra với khí trong bình?",
+    "image": null,
+    "options": [
+      "Thể tích khí tăng. Áp suất khí giảm.",
+      "Thể tích khí tăng. Áp suất khí tăng.",
+      "Thể tích khí giảm. Áp suất khí giảm.",
+      "Thể tích khí giảm. Áp suất khí tăng."
+    ],
+    "correct": 0,
+    "explanation": "Khí bên trong bình được nén dưới áp suất cao. Khi ấn nút, van mở, khí thoát ra ngoài, thể tích khí tăng, áp suất khí giảm, tạo lực đẩy giúp phun dung dịch khử trùng.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Một khí cầu có dung tích 328m³ được bơm căng khí Hydrogen. Khi bơm xong, lượng khí Hydrogen trong khí cầu có nhiệt độ 27°C và áp suất 0,9atm. Dùng một máy bơm để bơm khí vào khinh khí cầu với công suất 750W. Nếu mỗi giây, máy bơm bơm được 2,5g khí vào khí cầu, thì lượng điện tiêu thụ của máy sử dụng của quá trình bơm là bao nhiêu kWh?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "m = MpV/RT = (2 · 0,9 · 328 · 10³)/(0,082 · 300) = 24000 g. t = 24000/2,5 = 9600 s = 8/3 h. A = Pt = 750·10⁻³ · 8/3 = 2 kWh.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Hình bên là đồ thị biểu diễn điện thế theo vị trí. Nếu một hạt mang điện âm được đặt tại điểm B và được đẩy nhẹ về phía bên phải, thì sau đó nó sẽ",
+    "image": null,
+    "options": [
+      "dao động quanh điểm B",
+      "đi sang trái và không quay lại",
+      "đi sang phải và không quay lại",
+      "dừng cố định tại điểm B"
+    ],
+    "correct": 0,
+    "explanation": "Điện tích âm trong điện trường chuyển động từ nơi có điện thế thấp đến nơi có điện thế cao. Điện tích âm tại B bị đẩy nhẹ sang phải (điện thế thấp hơn) sẽ có xu hướng quay về B (điện thế cao), do quán tính tiếp tục sang trái rồi lại quay về, tạo dao động quanh B.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Một âm thoa nhỏ đặt trên miệng của một ống không khí hình trụ AB, chiều dài l của ống khí có thể thay đổi được nhờ dịch chuyển mực nước ở đầu B. Khi âm thoa dao động ta thấy trong ống có một sóng dừng ổn định. Khi chiều dài ống thích hợp ngắn nhất 13cm thì âm thanh nghe to nhất. Biết rằng với ống khí này đầu B là một nút sóng, đầu A là một bụng sóng. Khi dịch chuyển mực nước ở đầu B để chiều dài 65cm thì ta lại thấy âm thanh cũng nghe rất rõ. Tính số nút sóng trong ống.",
+    "image": null,
+    "options": [
+      "2.",
+      "3.",
+      "4.",
+      "5."
+    ],
+    "correct": 1,
+    "explanation": "λ/4 = 13 cm ⇒ λ = 52 cm. l = (2k+1)λ/4 = 65 ⇒ 65 = (2k+1)·52/4 ⇒ k = 2. Số nút sóng trong ống là 3 (2 nút giữa + 1 nút ở B).",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Khi đến các trạm dừng để đón hoặc trả khách, xe buýt chỉ tạm dừng mà không tắt máy. Hành khách ngồi trên xe nhận thấy thân xe bị “rung”. Dao động của thân xe lúc đó là dao động",
+    "image": null,
+    "options": [
+      "cộng hưởng.",
+      "tắt dần.",
+      "cưỡng bức",
+      "điều hòa"
+    ],
+    "correct": 2,
+    "explanation": "Khi xe buýt dừng và động cơ vẫn hoạt động, lực từ động cơ duy trì dao động của thân xe → dao động cưỡng bức.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Một tàu lượn bằng đồ chơi chuyển động không ma sát trên đường ray như hình vẽ. Khối lượng tàu 50g, bán kính đường tròn R=20cm. Độ cao h tối thiểu khi thả tàu để nó đi hết đường tròn là?",
+    "image": null,
+    "options": [
+      "80cm",
+      "50cm",
+      "20cm",
+      "100cm"
+    ],
+    "correct": 1,
+    "explanation": "Bảo toàn năng lượng: mgh = mg·2R + (1/2)mv² ⇒ v² = 2(h−2R)g. Tại điểm cao nhất: N + mg = mv²/R. N ≥ 0 ⇒ h ≥ 5R/2 = 50 cm.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Trong trò chơi cầu trượt, khi đang trượt trên cầu trượt, với mỗi người trượt thì có sự biến đổi",
+    "image": null,
+    "options": [
+      "cơ năng thành nội năng.",
+      "nội năng thành thế năng.",
+      "động năng thành thế năng.",
+      "thế năng thành động năng."
+    ],
+    "correct": 3,
+    "explanation": "Khi ở đỉnh, người dự trữ thế năng trọng trường; khi trượt xuống, thế năng chuyển hóa dần thành động năng.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Một khẩu pháo có khối lượng m₁=130kg được đặt trên một toa xe nằm trên đường ray biết toa xe có khối lượng m₂=20kg khi chưa nạp đạn. Viên đạn được bắn ra theo phương nằm ngang dọc theo đường ray biết viên đạn có khối lượng m₃=1kg. Vận tốc của đạn khi bắn ra khỏi nòng súng thì có vận tốc v₀=400m/s so với súng. Hãy xác định vận tốc của toa xe sau khi bắn trong trường hợp toa xe đang chuyển động với vận tốc v₁=18km/h theo chiều ngược với đạn.",
+    "image": null,
+    "options": [
+      "8,17 (m/s)",
+      "6,67(m/s)",
+      "−7,67(m/s)",
+      "−5,76(m/s)"
+    ],
+    "correct": 2,
+    "explanation": "Chiều (+) là chiều đạn. Bảo toàn động lượng: −(m₁+m₂+m₃)v₁ = (m₁+m₂)v′ + m₃(v₀−v₁). v₁=5 m/s ⇒ v′ ≈ −7,67 m/s.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Một chất điểm đang dao động điều hòa dọc theo trục Ox, mốc tính thế năng tại vị trí cân bằng O. Từ thời điểm t₁=0 đến thời điểm t₂, quả cầu của con lắc đi được quãng đường S và chưa đổi chiều chuyển động, đồng thời động năng của con lắc giảm từ giá trị cực đại về 0,6J. Từ thời điểm t₂ đến thời điểm t₃, chất điểm đi thêm một đoạn đường 2S nữa mà chưa đổi chiều chuyển động và động năng của con lắc vào thời điểm t₃ là 0,28J. Từ thời điểm t₃ đến t₄ chất điểm đi thêm đoạn đường bằng 3S nữa thì động năng của chất điểm vào thời điểm t₄ bằng:",
+    "image": null,
+    "options": [
+      "0,6J",
+      "0,48J",
+      "0,28J",
+      "0,5J"
+    ],
+    "correct": 1,
+    "explanation": "Từ t₁ đến t₂: x₂=S, Wd₂=0,6. Từ t₂ đến t₃: x₃=3S, Wd₃=0,28. Giải được S=A/4, kA²=1,28. Đến t₄: x₄=A/2 ⇒ Wd₄=(3/8)kA²=0,48 J.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Máy bay Airbus 320 của Vietnam Airlines chạy bằng động cơ phản lực. Động cơ này hoạt động dựa vào định luật vật lí nào sau đây?",
+    "image": null,
+    "options": [
+      "Định luật Ôm.",
+      "Định luật bảo toàn cơ năng.",
+      "Định luật I Newton.",
+      "Định luật bảo toàn động lượng."
+    ],
+    "correct": 3,
+    "explanation": "Động cơ phản lực hoạt động dựa trên nguyên lí định luật bảo toàn động lượng.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Từ tư thế thẳng đứng, học sinh A nhún người, hạ thấp trọng tâm xuống 18cm. Sau đó, học sinh đó nhảy lên theo phương thẳng đứng. Khi nhảy, lực trung bình của sàn tác dụng lên học sinh đó lớn gấp bốn lần trọng lượng của học sinh A. Lấy g=9,8m/s². Tốc độ khi học sinh đó tách khỏi sàn gần giá trị nào nhất sau đây?",
+    "image": null,
+    "options": [
+      "4,62m/s.",
+      "3,25m/s.",
+      "5,25m/s.",
+      "2,62m/s."
+    ],
+    "correct": 1,
+    "explanation": "a = (4mg − mg)/m = 3g = 29,4 m/s². v² = 2as = 2·29,4·0,18 ⇒ v ≈ 3,25 m/s.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Pít tông của một máy nén sau mỗi lần nén đưa được 4 lít khí ở nhiệt độ 27°C và áp suất 1atm vào bình chứa khí có thể tích 2m³. Tính áp suất của khí trong bình khi pít tông đã thực hiện 1000 lần nén. Biết nhiệt độ khí trong bình là 42°C.",
+    "image": null,
+    "options": [
+      "2,1Pa.",
+      "2,1atm.",
+      "21atm.",
+      "21Pa."
+    ],
+    "correct": 1,
+    "explanation": "V₁ = 4000 l, T₁=300 K; V₂=2000 l, T₂=315 K. p₁V₁/T₁ = p₂V₂/T₂ ⇒ p₂ = 2,1 atm.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Đổ 1,5 lít nước ở 20°C vào một ấm nhôm có khối lượng 600g và sau đó đun bằng bếp điện. Sau 35 phút thì đã có 20% khối lượng nước đã hóa hơi ở nhiệt độ sôi 100°C. Biết rằng 75% nhiệt lượng mà bếp cung cấp được dùng vào việc đun nước. Cho biết nhiệt dung riêng của nước là 4190J/kg.K, của nhôm là 880J/kgK nhiệt hóa hơi của nước ở 100°C là 2,26·10⁶J/kg, khối lượng riêng của nước là 1kg/l. Tính công suất cung cấp nhiệt của bếp điện là bao nhiêu?",
+    "image": null,
+    "options": [
+      "775,6kW",
+      "775,6W",
+      "776,5W",
+      "776,5kW"
+    ],
+    "correct": 2,
+    "explanation": "Q_ci ≈ 1223040 J. Q_tp = Q_ci / 0,75 ≈ 1630720 J. P = Q_tp / t ≈ 776,5 W.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Điện trở của ấm điện gần nhất với giá trị nào sau đây?",
+    "image": null,
+    "options": [
+      "52Ω",
+      "5,2Ω",
+      "0,52Ω",
+      "5200Ω"
+    ],
+    "correct": 0,
+    "explanation": "R = H · (U² t) / [ρ V c (t₂ − t₁)] ≈ 52 Ω.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Công suất điện của ấm gần nhất với giá trị nào sau đây?",
+    "image": null,
+    "options": [
+      "933,33kW",
+      "93,33W",
+      "9333,33W",
+      "933,33W"
+    ],
+    "correct": 3,
+    "explanation": "P = U² / R ≈ 220² / 52 ≈ 933,33 W.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Số tiền điện phải trả cho việc sử dụng ấm này trong thời gian 30 ngày, mỗi ngày 20 phút gần nhất với giá trị nào sau đây? Cho biết giá điện sinh hoạt được cho trong bảng sau:",
+    "image": null,
+    "options": [
+      "18650(VND)",
+      "16580(VND)",
+      "16850(VND)",
+      "16508(VND)"
+    ],
+    "correct": 2,
+    "explanation": "Điện năng tiêu thụ A = P·t = 0,933 kW · (30·20/60) h = 9,33 kWh. Tiền điện N = 9,33 · 1806 ≈ 16850 VND.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Loài nào trong 3 loài sinh vật trên có vùng phân bố rộng nhất?",
+    "image": null,
+    "options": [
+      "Loài 1.",
+      "Loài 1 và loài 2.",
+      "Loài 2.",
+      "Loài 2 và loài 3."
+    ],
+    "correct": 2,
+    "explanation": "Loài 2 có giới hạn sinh thái rộng nhất (khoảng 10°C – 35°C) nên có vùng phân bố rộng nhất.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Khi cả 3 loài cùng sống trong một khu vực địa lí, nhận định nào sau đây chính xác?",
+    "image": null,
+    "options": [
+      "Loài 1 và loài 2 không xảy ra sự cạnh tranh.",
+      "Loài 1 và loài 2 xảy ra sự cạnh tranh khốc liệt hơn cả loài 2 và loài 3.",
+      "Loài 2 và loài 3 xảy ra sự cạnh tranh khốc liệt hơn cả loài 1 và loài 2.",
+      "Chỉ xảy ra cạnh tranh giữa loài 1 và loài 3."
+    ],
+    "correct": 1,
+    "explanation": "Sự giao thoa giới hạn sinh thái giữa loài 1 và loài 2 lớn hơn giữa loài 2 và loài 3, nên cạnh tranh giữa loài 1 và 2 khốc liệt hơn.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Khi nhiệt độ môi trường khoảng 13°C, thì sức sống của 3 loài sinh vật trên như thế nào?",
+    "image": null,
+    "options": [
+      "Loài 2 có sức sống tốt nhất.",
+      "Loài 1 có sức sống tốt nhất, loài 2 có sức sống kém và loài 3 không sống sót.",
+      "Loài 3 có sức sống tốt nhất, loài 1 và loài 2 có sức sống kém hơn.",
+      "Loài 2 có sức sống tốt nhất, loài 1 có sức sống kém và loài 3 không sống sót."
+    ],
+    "correct": 1,
+    "explanation": "Ở 13°C: đây là nhiệt độ tối ưu của loài 1 (sức sống tốt nhất); gần giới hạn dưới của loài 2 (sức sống kém); ngoài giới hạn của loài 3 (không sống sót).",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Trong nuôi cấy không liên tục, số lượng tế bào đạt cực đại tại:",
+    "image": null,
+    "options": [
+      "Pha cân bằng.",
+      "Pha lũy thừa.",
+      "Pha cân bằng và cuối pha lũy thừa.",
+      "Cuối pha cân bằng và cuối pha lũy thừa."
+    ],
+    "correct": 2,
+    "explanation": "Số lượng tế bào đạt cực đại ở cuối pha lũy thừa và duy trì ở pha cân bằng.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Khi nói về điểm khác nhau giữa chọn lọc tự nhiên và giao phối không ngẫu nhiên có các phát biểu sau: ... Có những phát biểu nào sai:",
+    "image": null,
+    "options": [
+      "(2), (4), (5).",
+      "(1), (4), (5).",
+      "(2), (3), (5).",
+      "(1), (2), (3)."
+    ],
+    "correct": 3,
+    "explanation": "(1) Sai – giao phối không ngẫu nhiên làm thay đổi thành phần kiểu gene nhưng không đổi tần số allele. (2) Sai – cả hai đều là nhân tố tiến hóa. (3) Sai – cả hai đều làm giảm đa dạng vốn gene.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Một số hiện tượng như mưa, lũ, chặt phá rừng,... có thể dẫn đến hiện tượng thiếu hụt các nguyên tố dinh dưỡng như Nitrogene (N), Phosphorus (P), Calcium (Ca) cần cho một hệ sinh thái, nhưng nguyên tố carbon (C) hầu như không bao giờ thiếu cho các hoạt động sống của hệ sinh thái. đó là do:",
+    "image": null,
+    "options": [
+      "Thực vật có thể tạo ra carbon của riêng chúng từ nước và ánh sáng mặt trời.",
+      "Các nguyên tố dinh dưỡng khác có nguồn gốc từ đất, còn carbon có nguồn gốc từ không khí.",
+      "Các loài nấm và vi khuẩn cộng sinh giúp thực vật dễ dàng tiếp nhận và sử dụng có hiệu quả carbon từ môi trường.",
+      "Lượng carbon các loài sinh vật cần sử dụng cho các hoạt động sống không đáng kể."
+    ],
+    "correct": 1,
+    "explanation": "Carbon có nguồn gốc từ không khí (CO₂) nên hầu như không bao giờ thiếu.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Cho sơ đồ phả hệ sau: ... Cặp vợ chồng III₁ và III₂ sinh con gái, xác suất để con gái của cặp vợ chồng đó không bị bệnh P và không bị hói đầu là bao nhiêu? Biết II₄ có kiểu gene dị hợp về hói đầu.",
+    "image": null,
+    "options": [
+      "34,39%.",
+      "40%.",
+      "50%.",
+      "39,46%."
+    ],
+    "correct": 2,
+    "explanation": "Xác suất không bị bệnh P = 9/10; xác suất con gái không hói đầu = 5/9. Tích = 5/9 × 9/10 = 50%.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Cho hình ảnh sau đây: ... Có bao nhiêu nhận xét đúng?",
+    "image": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "(1) Đúng – các giai đoạn ung thư vú. (2) Sai – ung thư vú có thể xảy ra ở cả nam và nữ. (3) Đúng. (4) Đúng. (5) Sai – do đột biến gene chứ không phải đột biến NST.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Cymothoa exigua là một loài sinh vật có hình dáng nhỏ như con rệp và được tìm thấy ở nhiều khu vực quanh vịnh California, loài này sẽ xâm nhập vào cá thông qua mang, sau đó bám chặt vào gốc lưỡi cá, dần dần hút máu, ăn mòn và thế mình vào vị trí của lưỡi cá. Cho các nhận xét sau: ... Có bao nhiêu nhận xét đúng khi nói về Cymothoa exigua?",
+    "image": null,
+    "options": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "Các nhận xét đúng: (2), (3), (5), (7) → 4 nhận xét đúng.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Ở một số loài thực vật, đã ghi nhận một số cá thể bị bạch tạng, toàn thân có màu trắng. Ở một số loài như vạn niên thanh (chi Aglaonema) có hiện tượng lá xanh đốm trắng. Nguyên nhân của hai hiện tượng trên là:",
+    "image": null,
+    "options": [
+      "Lá đốm do gene trong lục lạp bị đột biến, bạch tạng do đột biến gene nhân.",
+      "Lá đốm do đột biến gene nhân, bạch tạng do đột biến gene lục lạp.",
+      "Bạch tạng do gene đột biến, lá đốm do quy định của gene không đột biến.",
+      "Lá đốm do năng lượng ánh sáng chiếu vào lá không đồng đều."
+    ],
+    "correct": 0,
+    "explanation": "Lá đốm do đột biến gene trong lục lạp (chỉ ảnh hưởng một số tế bào); bạch tạng do đột biến gene nhân.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Trong các phát biểu dưới đây về di truyền quần thể, có bao nhiêu phát biểu KHÔNG đúng:",
+    "image": null,
+    "options": [
+      "1.",
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correct": 0,
+    "explanation": "Chỉ có phát biểu (3) sai. Quần thể ngẫu phối duy trì sự đa dạng di truyền (tần số kiểu gene ổn định theo định luật Hardy-Weinberg).",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Đặc điểm nào sau đây có ở DNA ngoài nhân mà không có ở DNA trong nhân?",
+    "image": null,
+    "options": [
+      "Được chứa trong NST.",
+      "Hoạt động độc lập với NST.",
+      "Có số lượng lớn trong tế bào.",
+      "Không bị đột biến."
+    ],
+    "correct": 1,
+    "explanation": "DNA ngoài nhân (ty thể, lục lạp) hoạt động độc lập với NST.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Cho những nhận xét sau khi so sánh phân giải hiểu khí với phân giải kị khí: ... Có những nhận xét nào đúng:",
+    "image": null,
+    "options": [
+      "(1), (2), (3).",
+      "(1), (3).",
+      "(1), (4).",
+      "(2),(3), (4)."
+    ],
+    "correct": 2,
+    "explanation": "(1) và (4) đúng. (2) sai – phân giải hiểu khí không có giai đoạn lên men. (3) sai – hiểu khí tạo nhiều ATP hơn.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Ý nào dưới đây không phải là vai trò của quá trình hô hấp đối với cơ thể thực vật?",
+    "image": null,
+    "options": [
+      "Hô hấp tạo ra năng lượng ATP, cung cấp hoạt động sống cho cơ thể thực vật.",
+      "Tạo ra G3P là hợp chất 3 carbon đóng vai trò quan trọng, là nguyên liệu tổng hợp nên các hợp chất hữu cơ cần thiết cho cơ thể thực vật.",
+      "Giải phóng nhiệt năng giúp duy trì nhiệt độ cơ thể và đảm bảo cho mọi hoạt động sống diễn ra bình thường.",
+      "Tạo ra các sản phẩm trung gian cho các quá trình tổng hợp chất hữu cơ khác trong cơ thể."
+    ],
+    "correct": 1,
+    "explanation": "G3P là sản phẩm của chu trình Calvin (quang hợp), không phải của hô hấp.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Cho các hoạt động trong quá trình tiêu hóa ở động vật chưa có cơ quan tiêu hóa như sau: ... Các hoạt động trên được diễn ra theo trình tự là:",
+    "image": null,
+    "options": [
+      "1 → 5 → 3 → 2 → 4 → 6",
+      "3 → 1 → 2 → 5 → 4 → 6",
+      "3 → 5 → 2 → 1 → 4 → 6",
+      "1 → 3 → 5 → 4 → 2 → 6"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự đúng: (3) màng lõm bao lấy thức ăn → (5) hình thành không bào → (2) lysosome gắn → (1) enzyme thủy phân → (4) chất dinh dưỡng khuếch tán → (6) xuất bào chất thải.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Cho những phát biểu sau về cơ chế hấp thu thụ động ion khoáng ở rễ: (1) Ion khoáng sẽ đi từ đất vào lông hút theo chiều thuận gradient nồng độ. (2) Đi từ nơi có nồng độ thấp sang nơi có nồng độ cao mà không cần tiêu tốn năng lượng. (3) Các ion khoáng hòa tan vào nước và đi vào rễ cùng với dòng nước. (4) Các ion khoáng thẩm thấu theo sự chênh lệch nồng độ từ cao đến thấp. Số phát biểu đúng là:",
+    "image": null,
+    "options": [
+      "1.",
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correct": 0,
+    "explanation": "Chỉ phát biểu (1) đúng: một số ion khoáng đi từ đất vào lông hút theo chiều gradient nồng độ (từ cao đến thấp) mà không cần tiêu tốn năng lượng.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Trong nuôi cấy liên tục, số lượng tế bào sẽ",
+    "image": null,
+    "options": [
+      "Tăng dần.",
+      "Giảm dần.",
+      "Không thay đổi.",
+      "Duy trì ở mức độ cân bằng."
+    ],
+    "correct": 3,
+    "explanation": "Trong nuôi cấy liên tục, môi trường thường xuyên được bổ sung chất dinh dưỡng và loại bỏ sản phẩm trao đổi chất → số lượng tế bào duy trì ở mức độ cân bằng.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Nguyên nhân trực tiếp “đòi hỏi” Liên Xô phải tiến hành công cuộc khôi phục kinh tế sau Chiến tranh thế giới thứ hai là",
+    "image": null,
+    "options": [
+      "thu được nhiều chiến phí.",
+      "chiếm được nhiều thuộc địa.",
+      "bị tổn thất nặng nề trong chiến tranh.",
+      "bị các nước phương Tây bao vây, cấm vận."
+    ],
+    "correct": 2,
+    "explanation": "Liên Xô chịu tổn thất nặng nề nhất trong Chiến tranh thế giới thứ hai (27 triệu người chết, hàng nghìn thành phố, làng mạc, xí nghiệp bị tàn phá), đặt ra yêu cầu phải khôi phục kinh tế.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Nguyên tắc hoạt động cơ bản nhất của tổ chức ASEAN trong Hiệp ước Bali (1976)?",
+    "image": null,
+    "options": [
+      "Tôn trọng chủ quyền và toàn vẹn lãnh thổ.",
+      "Không can thiệp vào công việc nội bộ của nhau.",
+      "Giải quyết các tranh chấp bằng biện pháp hòa bình.",
+      "Hợp tác phát triển có hiệu quả trong các lĩnh vực kinh tế, văn hóa, xã hội."
+    ],
+    "correct": 3,
+    "explanation": "Từ mục đích của tổ chức, nguyên tắc cơ bản nhất của ASEAN là hợp tác phát triển có hiệu quả trong các lĩnh vực kinh tế, văn hóa, xã hội.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Nhiệm vụ của các cuộc cách mạng tư sản đều hướng tới hai nhiệm vụ chính nào?",
+    "image": null,
+    "options": [
+      "Nhiệm vụ dân tộc và dân chủ.",
+      "Nhiệm vụ độc lập và hòa bình.",
+      "Nhiệm vụ dân tộc và quốc gia.",
+      "Nhiệm vụ giai cấp và dân chủ."
+    ],
+    "correct": 0,
+    "explanation": "Các cuộc cách mạng tư sản hướng tới hai nhiệm vụ chính: nhiệm vụ dân tộc (giành độc lập, thống nhất thị trường dân tộc) và nhiệm vụ dân chủ (xóa bỏ chuyên chế phong kiến, xác lập dân chủ tư sản).",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Chiến dịch Hồ Chí Minh có ý nghĩa quyết định đối với thắng lợi của cuộc Tổng tiến công và nổi dậy Xuân năm 1975 vì",
+    "image": null,
+    "options": [
+      "Đánh bại hoàn toàn chiến dịch “tràn ngập lãnh thổ” của quân đội Sài Gòn.",
+      "Đập tan đầu não và sào huyệt cuối cùng của chính quyền và quân đội Sài Gòn.",
+      "Mở ra quá trình sụp đổ hoàn toàn của chính quyền và quân đội Sài Gòn.",
+      "Làm cho chính quyền Sài Gòn đứng trước nguy cơ sụp đổ hoàn toàn."
+    ],
+    "correct": 1,
+    "explanation": "Chiến dịch Hồ Chí Minh đã đánh chiếm các cơ quan đầu não của chính quyền và quân đội Sài Gòn, đập tan sào huyệt cuối cùng của chúng.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Điểm giống nhau giữa Chiến dịch Điện Biên Phủ (1954) và Chiến dịch Hồ Chí Minh (1975) là",
+    "image": null,
+    "options": [
+      "đều là những trận quyết chiến chiến lược",
+      "đều nhằm tiêu diệt quân đội viễn chinh Pháp.",
+      "cùng chung phương châm tác chiến đánh chắc, tiến chắc.",
+      "địa bàn mở chiến dịch ở đồng bằng và đồi núi."
+    ],
+    "correct": 0,
+    "explanation": "Cả hai chiến dịch đều là những trận quyết chiến chiến lược quyết định thắng lợi của cuộc kháng chiến.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Ưu điểm lớn nhất của phong trào yêu nước chống Pháp cuối thế kỉ XIX là",
+    "image": null,
+    "options": [
+      "tập hợp đông đảo các giai cấp, tầng lớp trong xã hội.",
+      "tiến hành khởi nghĩa vũ trang.",
+      "làm chậm quá trình khai thác của thực dân Pháp.",
+      "xác định đối tượng đấu tranh là thực dân Pháp."
+    ],
+    "correct": 3,
+    "explanation": "Ưu điểm lớn nhất là đã xác định rõ đối tượng đấu tranh là thực dân Pháp.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Từ thực tiễn xây dựng hậu phương trong kháng chiến chống thực dân Pháp (1945-1954) Đảng ta đã có những bài học về",
+    "image": null,
+    "options": [
+      "tăng cường hợp tác quốc tế.",
+      "xây dựng nền văn hóa xã hội chủ nghĩa.",
+      "phát huy sức mạnh toàn dân.",
+      "xây dựng nền kinh tế thị trường."
+    ],
+    "correct": 2,
+    "explanation": "Thực tiễn xây dựng hậu phương đã rút ra bài học về phát huy sức mạnh toàn dân.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Nội dung nào dưới đây giải thích đúng với ý nghĩa đối với thế giới của sự ra đời của Đảng Cộng Sản Việt Nam năm 1930?",
+    "image": null,
+    "options": [
+      "Có ý nghĩa và tầm vóc như 1 Đại hội thành lập Đảng.",
+      "Cách mạng Việt Nam thực sự trở thành một bộ phận khăng khít của cách mạng thế giới.",
+      "Kết quả tất yếu của cuộc đấu tranh dân tộc và giai cấp của nhân dân Việt Nam.",
+      "Sản phẩm của sự kết hợp giữa chủ nghĩa Mác – Lênin và lý luận cách mạng giải phóng dân tộc của Nguyễn Ái Quốc với phong trào công nhân và phong trào yêu nước Việt Nam."
+    ],
+    "correct": 1,
+    "explanation": "Ý nghĩa đối với thế giới: Cách mạng Việt Nam trở thành bộ phận khăng khít của cách mạng thế giới.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Vì sao Nguyễn Ái Quốc bỏ phiếu tán thành việc gia nhập Quốc tế Cộng sản (1920)?",
+    "image": null,
+    "options": [
+      "Quốc tế này đề ra đường lối cho cách mạng Việt Nam.",
+      "Quốc tế này giúp nhân dân ta đấu tranh chống thực dân Pháp.",
+      "Quốc tế này chủ trương thành lập Mặt trận giải phóng dân tộc ở Việt Nam.",
+      "Quốc tế này bênh vực cho quyền lợi của các nước thuộc địa."
+    ],
+    "correct": 3,
+    "explanation": "Nguyễn Ái Quốc tán thành vì Quốc tế Cộng sản bênh vực quyền lợi của các nước thuộc địa.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Công lao to lớn nhất của Nguyễn Ái Quốc Hồ Chí Minh trong thời gian từ 1919 - 1941?",
+    "image": null,
+    "options": [
+      "Tìm ra con đường cứu nước đúng đắn cho dân tộc",
+      "Thành lập Đảng Cộng sản Việt Nam.",
+      "Soạn thảo cương lĩnh cách mạng đầu tiên của Đảng.",
+      "Lãnh đạo nhân dân giành thắng lợi trong cuộc cách mạng tháng 8 năm 1945."
+    ],
+    "correct": 0,
+    "explanation": "Công lao to lớn nhất trong giai đoạn 1919-1941 là tìm ra con đường cứu nước đúng đắn cho dân tộc.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Nguyên nhân nào dưới đây là cơ bản, quyết định sự bùng nổ của phong trào cách mạng 1930-1931?",
+    "image": null,
+    "options": [
+      "Ảnh hưởng của cuộc khủng hoảng kinh tế thế giới năm 1929-1933.",
+      "Đảng Cộng sản Việt Nam ra đời, thấu hiểu nguyện vọng của nhân dân.",
+      "Thực dân Pháp tiến hành khủng bố trắng sau khởi nghĩa Yên Bái.",
+      "Địa chủ phong kiến cấu kết với thực dân Pháp đàn áp, bóc lột nhân dân."
+    ],
+    "correct": 1,
+    "explanation": "Nguyên nhân cơ bản, quyết định là Đảng Cộng sản Việt Nam ra đời và thấu hiểu nguyện vọng của nhân dân.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Khi nào các nước phương Tây thành lập khối Liên minh quân sự Bắc Đại Tây Dương?",
+    "image": null,
+    "options": [
+      "Năm 1949.",
+      "Năm 1950.",
+      "Năm 1951.",
+      "Năm 1952."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1949, các nước phương Tây thành lập Liên minh quân sự Bắc Đại Tây Dương (NATO).",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Liên Xô đã có hành động gì khi khối liên minh quân sự NATO ra đời?",
+    "image": null,
+    "options": [
+      "Cấm vận đối với các nước Tây Âu.",
+      "Kí các hiệp ước với các nước phương Tây.",
+      "Gia nhập Liên minh châu Âu (EU).",
+      "Hủy bỏ các Hiệp ước đồng minh kí với Anh năm 1942 và với Pháp năm 1944."
+    ],
+    "correct": 3,
+    "explanation": "Khi Tây Đức gia nhập NATO (1955), Liên Xô tuyên bố hủy bỏ các Hiệp ước đồng minh với Anh (1942) và Pháp (1944).",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Nước nào tham gia với tư cách là quan sát viên?",
+    "image": null,
+    "options": [
+      "A-ba-ni.",
+      "Hung-ga-ri.",
+      "CHND Trung Hoa.",
+      "Ru-ma-ni."
+    ],
+    "correct": 2,
+    "explanation": "CHND Trung Hoa tham gia cuộc họp tại Vác-sa-va với tư cách quan sát viên.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Bác Hồ ra đi tìm đường cứu nước ở đâu?",
+    "image": null,
+    "options": [
+      "Bến Cảng Nhà Rồng.",
+      "Cửa khẩu Hữu Nghị (Lạng Sơn).",
+      "Cửa khẩu Móng Cái (Quảng Ninh)",
+      "Cửa khẩu Hà Khẩu."
+    ],
+    "correct": 0,
+    "explanation": "Ngày 5-6-1911, Nguyễn Tất Thành ra đi tìm đường cứu nước tại Bến cảng Nhà Rồng.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Khi trả lời tờ báo nào chủ tịch Hồ Chí Minh nói như sau: “Nhân dân Việt Nam trong đó có ông cụ thân sinh ra tôi, lúc này thường tự hỏi nhau ai sẽ là người giúp mình thoát khỏi ách thống trị của Pháp. Người này nghĩ là Anh, có người lại cho là Mỹ. Tôi thấy phải đi ra nước ngoài xem cho rõ. Sau khi xem xét họ làm ăn ra sao, tôi sẽ trở về giúp đồng bào tôi”?",
+    "image": null,
+    "options": [
+      "Pháp.",
+      "Mỹ.",
+      "Anh.",
+      "Đức."
+    ],
+    "correct": 1,
+    "explanation": "Người trả lời một nhà văn Mỹ với nội dung trên.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "“Cồn Cỏ nở đầy hoa thắng trận, Đánh cho tan xác giặc Hoa Kỳ”. Là câu thơ của ai?",
+    "image": null,
+    "options": [
+      "Phạm Văn Đồng.",
+      "Võ Nguyên Giáp.",
+      "Hồ Chí Minh.",
+      "Trường Chinh."
+    ],
+    "correct": 2,
+    "explanation": "Đây là hai câu thơ Bác Hồ gửi tặng trong thư khen cán bộ, chiến sĩ đảo Cồn Cỏ ngày 5-6-1968.",
+    "passage": null
+  }
+]

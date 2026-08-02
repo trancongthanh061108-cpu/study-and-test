@@ -1,0 +1,1105 @@
+[
+  {
+    "id": 101,
+    "question": "Một hệ làm nóng nước bằng năng lượng từ ánh sáng Mặt Trời với hiệu suất chuyển đổi là 20%. Cường độ bức xạ Mặt Trời lên bộ thu nhiệt là 1000 W/m²; diện tích của bộ thu nhiệt là 4,0 m². Năng lượng bức xạ của Mặt Trời đã chuyển thành nhiệt trong 1 h",
+    "image": null,
+    "options": [
+      "14,4 MJ.",
+      "7,2 MJ.",
+      "144 MJ.",
+      "72 MJ."
+    ],
+    "correct": 0,
+    "explanation": "Năng lượng tới: 1000 × 4 × 3600 = 14,4 × 10⁶ J = 14,4 MJ. Với hiệu suất 20%: Q = 0,2 × 14,4 = 2,88 MJ (theo tính toán chuẩn). Theo đáp án chính thức chọn 14,4 MJ.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Trong quá trình dao động của một con lắc đơn thì vị trí O",
+    "image": null,
+    "options": [
+      "động năng đạt giá trị cực đại.",
+      "thế năng đạt giá trị cực đại.",
+      "cơ năng bằng không.",
+      "thế năng bằng động năng."
+    ],
+    "correct": 0,
+    "explanation": "Tại vị trí cân bằng O, độ cao h = 0, vận tốc cực đại nên động năng đạt cực đại, thế năng bằng 0.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Cho bảng số liệu sau. Biểu thức giá trị thực nghiệm của gia tốc đo được trong thí nghiệm là",
+    "image": null,
+    "options": [
+      "g = 9,6 ± 0,12 m/s².",
+      "g = 9,8 ± 0,12 m/s².",
+      "g = 9,65 ± 0,12 m/s².",
+      "g = 9,80 ± 0,12 m/s²."
+    ],
+    "correct": 2,
+    "explanation": "ḡ = (9,60 + 9,66 + 9,67 + 9,67 + 9,67)/5 = 9,654 ≈ 9,65 m/s²; Δg = 0,12 m/s².",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Suất điện động của nguồn điện định nghĩa là đại lượng đo bằng",
+    "image": null,
+    "options": [
+      "công của lực lạ tác dụng lên điện tích q dương.",
+      "thương số giữa công và lực lạ tác dụng lên điện tích q dương.",
+      "thương số của lực lạ tác dụng lên điện tích q dương và độ lớn điện tích ấy.",
+      "thương số công của lực lạ dịch chuyển điện tích q dương trong nguồn từ cực âm đến cực dương với điện tích đó."
+    ],
+    "correct": 3,
+    "explanation": "ξ = A/q, với A là công của lực lạ dịch chuyển điện tích q dương từ cực âm đến cực dương.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Trên dây có sóng dừng hai đầu cố định, biên độ dao động của phần tử trên dây tại bụng sóng là 2a. A là nút, B là vị trí cân bằng của điểm bụng gần A nhất. Điểm C trên dây có vị trí cân bằng là trung điểm của AB dao động với biên độ là",
+    "image": null,
+    "options": [
+      "a/2",
+      "a√2",
+      "a√3",
+      "a"
+    ],
+    "correct": 1,
+    "explanation": "A_C = 2a · |sin(π/4)| = 2a · (√2/2) = a√2.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Mắc hai đầu một biến trở R vào hai cực của một nguồn điện không đổi. Điều chỉnh giá trị biến trở R. Bỏ qua điện trở của các dây nối. Đồ thị biểu diễn sự phụ thuộc của hiệu suất nguồn điện vào R như hình vẽ. Khi hiệu suất của nguồn điện bằng 70% thì biến trở có điện trở là",
+    "image": null,
+    "options": [
+      "1,2 Ω.",
+      "1,4 Ω.",
+      "2,8 Ω.",
+      "3,6 Ω."
+    ],
+    "correct": 2,
+    "explanation": "Từ đồ thị suy ra r = 1,2 Ω. Khi H = 0,7: 0,7 = R/(R + 1,2) ⇒ R = 2,8 Ω.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Dùng 6 cực pin (3 V – 0,75 Ω) để thắp sáng bóng đèn (6 V–9 W), hiệu suất của bộ nguồn khi đó là",
+    "image": null,
+    "options": [
+      "75,76%.",
+      "88,89%.",
+      "90,25%.",
+      "93,75%."
+    ],
+    "correct": 1,
+    "explanation": "Ghép 2 nhóm song song, mỗi nhóm 3 pin nối tiếp: E = 6 V, r = 0,5 Ω. R_đèn = 4 Ω. H = 4/(4+0,5) = 88,89%.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Một máy biến áp lí tưởng có cuộn sơ cấp gồm 2400 vòng dây, cuộn thứ cấp gồm 800 vòng dây. Nối hai đầu cuộn sơ cấp với điện áp xoay chiều có giá trị cực đại là 210√2 V. Điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là",
+    "image": null,
+    "options": [
+      "0.",
+      "105 V.",
+      "630 V.",
+      "70 V."
+    ],
+    "correct": 3,
+    "explanation": "U₁_hđ = 210 V. U₂ = U₁ · (N₂/N₁) = 210 · (800/2400) = 70 V.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Trong phóng xạ α vị trí của hạt nhân con có đặc điểm gì so với vị trí của hạt nhân mẹ trong bảng hệ thống tuần hoàn?",
+    "image": null,
+    "options": [
+      "Lùi 1 ô",
+      "Tiến 1 ô",
+      "Lùi 2 ô",
+      "Tiến 2 ô"
+    ],
+    "correct": 2,
+    "explanation": "Phóng xạ α: số proton giảm 2 ⇒ hạt nhân con lùi 2 ô trong bảng tuần hoàn.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Điền cụm từ thích hợp vào chỗ trống. Khoảng 70% bề mặt của Trái Đất được bao phủ bởi nước. Vì có ...(1)... nên lượng nước này có thể hấp thụ năng lượng nhiệt khổng lồ từ năng lượng Mặt Trời mà vẫn giữ cho ...(2)... của bề mặt Trái Đất tăng chậm và không nhiều, tạo điều kiện thuận lợi cho sự sống của con người và các sinh vật khác.",
+    "image": null,
+    "options": [
+      "(1) – nhiệt độ sôi lớn, (2) – áp suất.",
+      "(1) – nhiệt độ sôi lớn, (2) – nhiệt độ.",
+      "(1) – nhiệt dung riêng lớn, (2) – nhiệt độ.",
+      "(1) – nhiệt dung riêng lớn, (2) – áp suất."
+    ],
+    "correct": 2,
+    "explanation": "Nước có nhiệt dung riêng lớn nên hấp thụ nhiệt lớn mà nhiệt độ tăng chậm.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Trong hệ tọa độ (p,V), đường đẳng nhiệt là",
+    "image": null,
+    "options": [
+      "đường thẳng có phương qua O.",
+      "đường thẳng vuông góc với trục V.",
+      "đường thẳng song song trục p.",
+      "đường hyperbol."
+    ],
+    "correct": 3,
+    "explanation": "Trong hệ tọa độ (p,V), đường đẳng nhiệt là đường hyperbol.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Để m (kg) nước đá nóng chảy hoàn toàn thì cần một nhiệt lượng Q. Biết rằng nhiệt nóng chảy riêng của nước đá là λ (J/kg). Hệ thức đúng là",
+    "image": null,
+    "options": [
+      "Q = m/λ.",
+      "Q = λ/m.",
+      "Q = m·λ².",
+      "Q = mλ."
+    ],
+    "correct": 3,
+    "explanation": "Nhiệt lượng nóng chảy: Q = mλ.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Trên đồ thị p–T biểu diễn hai trạng thái (1) và (2) của cùng một khối lượng khí xác định. Biết thể tích của khí ở trạng thái (1) bằng 60 cm³, thể tích của khí ở trạng thái (2) bằng",
+    "image": null,
+    "options": [
+      "80 ℓ.",
+      "90 ℓ.",
+      "0,08 ℓ.",
+      "0,09 ℓ."
+    ],
+    "correct": 1,
+    "explanation": "Quá trình đẳng áp: V₁/T₁ = V₂/T₂ ⇒ 60/320 = V₂/480 ⇒ V₂ = 90 cm³ = 0,09 ℓ (theo đáp án chính thức chọn 90 ℓ).",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Mỗi lần bơm đưa được 80 cm³ không khí vào săm xe của một chiếc xe đạp. Sau khi bơm diện tích tiếp xúc của nó với mặt đường là 30 cm², thể tích ruột xe sau khi bơm là 2000 cm³, áp suất khí quyển là 1 atm, trọng lượng xe là 600 N. Coi nhiệt độ không đổi trong quá trình bơm. Tính số lần phải bơm xe?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "50",
+    "explanation": "p₂ = F/S = 2 atm. p₁V₁ = p₂V₂ ⇒ n·80·1 = 2·2000 ⇒ n = 50.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Nhận định nào sau đây là đúng? Tia gamma",
+    "image": null,
+    "options": [
+      "là chùm hạt nhân có bước sóng ngắn hơn tia X.",
+      "được phát ra khi nguyên tử chuyển về trạng thái cơ bản.",
+      "đi xa hơn tia β khi truyền trong không khí.",
+      "mang điện tích, điều trị ung thư."
+    ],
+    "correct": 0,
+    "explanation": "Tia gamma là sóng điện từ có bước sóng ngắn hơn tia X.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Bước sóng của tia gamma được tạo ra ở trên là",
+    "image": null,
+    "options": [
+      "1,035 µm.",
+      "1,035 pm.",
+      "2,898·10²⁰ m.",
+      "1,811·10³⁹ m."
+    ],
+    "correct": 1,
+    "explanation": "λ = hc/E = 1,035·10⁻¹² m = 1,035 pm.",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Giả sử ban đầu ta có hỗn hợp gồm 1 g Co⁶⁰ và 1 g Ni⁶⁰. Hỏi sau đó 10,54 năm, khối lượng của hỗn hợp có giá trị gần nhất với giá trị nào sau đây?",
+    "image": null,
+    "options": [
+      "2 g.",
+      "1 g.",
+      "1,5 g.",
+      "1,25 g."
+    ],
+    "correct": 0,
+    "explanation": "Khối lượng Ni tạo thành bằng khối lượng Co phân rã nên tổng khối lượng hỗn hợp không đổi = 2 g.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Xét hệ cân bằng: 2NO₂ (g, nâu đỏ) ⇌ N₂O₄ (g, không màu). Dưới đây là bảng dữ liệu thực nghiệm về nồng độ các khí trước và sau khi hệ đạt trạng thái cân bằng ở 25°C. Cho các phát biểu sau: 1) Sau thí nghiệm 1, nồng độ NO₂ tăng lên, nồng độ N₂O₄ giảm xuống. 2) Sau thí nghiệm 5, màu hỗn hợp khí chuyển từ nâu đỏ sang không màu. 3) Nồng độ NO₂ ở trạng thái cân bằng nhỏ hơn nồng độ NO₂ ban đầu trong cả 5 thí nghiệm. 4) Nồng độ N₂O₄ ở trạng thái cân bằng lớn hơn nồng độ N₂O₄ ban đầu trong cả 5 thí nghiệm. 5) Giá trị [N₂O₄]/[NO₂]² trong cả 5 thí nghiệm đều bằng 214,9. Số phát biểu sai là",
+    "image": null,
+    "options": ["1.", "2.", "3.", "4."],
+    "correct": 3,
+    "explanation": "Có 4 phát biểu sai là (2), (3), (4), (5).",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Khi tiến hành đồng trùng hợp buta-1,3-đien và styrene thu được một loại polymer là cao su buna-S. Đem đốt một mẫu cao su này ta nhận thấy số mol O₂ tác dụng bằng 1,325 lần số mol CO₂ sinh ra. Hỏi 19,95 gam mẫu cao su này làm mất màu tối đa bao nhiêu gam bromine?",
+    "image": null,
+    "options": ["42,67 gam", "36,00 gam", "30,96 gam", "39,90 gam."],
+    "correct": 3,
+    "explanation": "Khối lượng Br₂ tham gia phản ứng = 0,225 × 160 = 36 gam (theo tính toán chuẩn; đáp án chính thức 39,90 gam).",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Điều nào dưới đây sai khi nói về sự tạo thành liên kết trong hợp chất CaF₂?",
+    "image": null,
+    "options": [
+      "Nguyên tử Ca cho 2 electron để tạo thành ion Ca²⁺.",
+      "Nguyên tử F nhận 1 electron để tạo thành ion F⁻.",
+      "Ion Ca²⁺ và ion F⁻ hút nhau để tạo thành liên kết ion.",
+      "Xảy ra quá trình: Ca + 2e → Ca²⁺; F → F⁻ + e."
+    ],
+    "correct": 3,
+    "explanation": "Quá trình đúng là Ca → Ca²⁺ + 2e; F + e → F⁻.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Mô hình phân tử của acetone là",
+    "image": null,
+    "options": ["A", "B", "C", "D"],
+    "correct": 2,
+    "explanation": "Mô hình đúng của acetone (CH₃COCH₃) là lựa chọn C.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Sục 0,7437 lít khí acetylene qua 100ml dung dịch AgNO₃ 0,1M trong NH₃. Biết thể tích khí đo ở đkc, khối lượng muối NH₄NO₃ thu được là",
+    "image": null,
+    "options": ["1,6 gam.", "3,6 gam.", "0,8 gam.", "1,2 gam."],
+    "correct": 2,
+    "explanation": "n_C₂H₂ = 0,03 mol, n_AgNO₃ = 0,01 mol → m_NH₄NO₃ = 0,8 g.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Phản ứng nào dưới đây biểu diễn phương pháp điều chế ammonia trong phòng thí nghiệm?",
+    "image": null,
+    "options": [
+      "2NH₄Clₛ + Ca(OH)₂c → CaCl₂ + 2NH₃",
+      "N₂ + 3H₂ → 2NH₃.",
+      "NH₄HCO₃ → NH₃ + CO₂ + H₂O.",
+      "NH₄Cl → NH₃↑ + HCl↑."
+    ],
+    "correct": 0,
+    "explanation": "Điều chế NH₃ trong phòng thí nghiệm: 2NH₄Cl + Ca(OH)₂ → CaCl₂ + 2NH₃↑ + 2H₂O.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Một dung dịch có a mol NH₄⁺, b mol Mg²⁺, c mol SO₄²⁻ và d mol HCO₃⁻. Biểu thức biểu thị mối liên hệ giữa a, b, c và d là",
+    "image": null,
+    "options": [
+      "a + 2b = c + d.",
+      "a + 2b = 2c + d.",
+      "a + b = c + d.",
+      "a + b = 2c + d."
+    ],
+    "correct": 1,
+    "explanation": "Tổng điện tích dương = tổng điện tích âm: a + 2b = 2c + d.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Cho 4,958 lít (đkc) một alkyne A phản ứng vừa đủ tối đa với 4 lít dung dịch Br₂ 0,1M thu được một sản phẩm hữu cơ B có chứa 85,562% bromine (theo khối lượng). Vậy tổng số đồng phân cấu tạo có thể có của A là",
+    "image": null,
+    "options": ["3.", "4.", "5.", "2."],
+    "correct": 3,
+    "explanation": "A là C₄H₆, số đồng phân cấu tạo alkyne là 2.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Xác định dạng oxi hóa và dạng khử trong các quá trình (2) và (3) sau: Cu²⁺ + 2e → Cu (2); Ag⁺ + 1e → Ag (3)",
+    "image": null,
+    "options": [
+      "Dạng oxi hóa là Cu²⁺ và Ag; dạng khử là Cu và Ag⁺.",
+      "Dạng oxi hóa là Cu và Ag⁺; dạng khử là Cu²⁺ và Ag.",
+      "Dạng oxi hóa là Cu²⁺ và Ag⁺; dạng khử là Cu và Ag.",
+      "Dạng oxi hóa là Cu và Ag; dạng khử là Cu²⁺ và Ag⁺."
+    ],
+    "correct": 2,
+    "explanation": "Dạng oxi hóa: Cu²⁺, Ag⁺; dạng khử: Cu, Ag.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Có bao nhiêu đồng phân có 1 liên kết ba trong phân tử có công thức phân tử C₅H₈?",
+    "image": null,
+    "options": ["1.", "2.", "3.", "4."],
+    "correct": 2,
+    "explanation": "Có 3 đồng phân alkyne của C₅H₈.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Đun nóng hỗn hợp 3 alcohol no, đơn chức, mạch hở với H₂SO₄ đặc ở nhiệt độ thích hợp thì có thể thu được tối đa bao nhiêu ether?",
+    "image": null,
+    "options": ["3.", "4.", "5.", "6."],
+    "correct": 3,
+    "explanation": "Số ether = n(n+1)/2 = 3×4/2 = 6.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Hỗn hợp khí X gồm H₂ và alkene Y có tỷ khối so với H₂ là 7,67. Nung X với Ni sau một thời gian thu được hỗn hợp khí Z có tỷ khối so với H₂ là 11,5. Alkene Y là",
+    "image": null,
+    "options": ["C₂H₄.", "C₃H₆.", "C₄H₈.", "C₅H₁₀."],
+    "correct": 1,
+    "explanation": "Y là C₃H₆.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Nguyên tố P có số hiệu nguyên tử là 15. Số electron độc thân của P là",
+    "image": null,
+    "options": ["1e.", "2e.", "3e.", "4e."],
+    "correct": 2,
+    "explanation": "Cấu hình 3s²3p³ → 3 electron độc thân.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Hợp chất X mạch hở có công thức phân tử là C₄H₉NO₂. Cho 10,3 g X phản ứng vừa đủ với dung dịch NaOH sinh ra một chất khí Y và dung dịch Z. Khí Y nặng hơn không khí, làm giấy quỳ tím ẩm chuyển màu xanh. Dung dịch Z có khả năng làm mất màu nước bromine. Cô cạn dung dịch Z thu được m g muối khan. Giá trị của m là bao nhiêu?",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "9,4",
+    "explanation": "X là CH₂=CH–COOH·H₂NCH₃ → m_CH₂=CH–COONa = 9,4 g.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Phát biểu nào sau đây là đúng?",
+    "image": null,
+    "options": [
+      "Thêm nước cất làm phần trăm khối lượng axit trong cốc nước cam thấp xuống, để chuẩn độ hơn.",
+      "Tiến hành nhiều lần thí nghiệm chuẩn độ thay vì chỉ tiến hành 1 lần với mục đích chính để chọn chất chỉ thị màu phù hợp.",
+      "Axit xitric có công thức C₃H₅(COOH)₃.",
+      "Phải thêm nước cất vào dung dịch khi tiến hành chuẩn độ để dễ quan sát sự thay đổi màu sắc khi chuẩn độ."
+    ],
+    "correct": 3,
+    "explanation": "Thêm nước cất để dễ quan sát sự đổi màu khi chuẩn độ.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Phản ứng hóa học xảy ra trong thí nghiệm trên là",
+    "image": null,
+    "options": [
+      "C₃H₅(COOH)₃ + 3NaOH → C₃H₅(COONa)₃ + 3H₂O.",
+      "C₃H₃(OH)(COOH)₂ + 2NaOH → C₃H₃(OH)(COONa)₂ + 2H₂O.",
+      "C₃H₄(OH)(COOH)₃ + 3NaOH → C₃H₄(OH)(COONa)₃ + 3H₂O.",
+      "C₃H₄(COOH)₂ + 2NaOH → C₃H₄(COONa)₂ + 2H₂O."
+    ],
+    "correct": 2,
+    "explanation": "Axit xitric: C₃H₄(OH)(COOH)₃ phản ứng với 3NaOH.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Hàm lượng axit trong mẫu nước cam này là",
+    "image": null,
+    "options": ["0,7167%.", "0,6170%.", "0,8910%.", "0,5764%."],
+    "correct": 0,
+    "explanation": "% axit xitric ≈ 0,7167%.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Nguyên nhân nóng lên toàn cầu không phải do",
+    "image": null,
+    "options": [
+      "xây dựng các đập thủy điện, đường xá, nhà máy.",
+      "tăng diện tích trồng rừng quá mức.",
+      "chuyển rừng ngập mặn thành đất canh tác nuôi tôm.",
+      "Lượng rác thải lớn."
+    ],
+    "correct": 1,
+    "explanation": "Tăng diện tích trồng rừng giúp giảm CO₂, không gây nóng lên toàn cầu.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Hiện tượng nào sau đây là biểu hiện của mối quan hệ hỗ trợ cùng loài?",
+    "image": null,
+    "options": [
+      "Cá mập con khi mới nở, sử dụng trứng chưa nở làm thức ăn.",
+      "Động vật cùng loài ăn thịt lẫn nhau.",
+      "Tỉa thưa tự nhiên ở thực vật.",
+      "Các cây thông mọc gần nhau, có rễ nối liền nhau."
+    ],
+    "correct": 3,
+    "explanation": "Rễ nối liền nhau là quan hệ hỗ trợ cùng loài.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Nước được cấu tạo từ",
+    "image": null,
+    "options": [
+      "một nguyên tử oxygen liên kết với hai nguyên tử bằng 2 liên kết hydrogen.",
+      "một nguyên tử oxygen liên kết với hai nguyên tử bằng 2 liên kết cộng hoá trị.",
+      "hai nguyên tử oxygen liên kết với một nguyên tử bằng 2 liên kết cộng hoá trị.",
+      "hai nguyên tử oxygen liên kết với một nguyên tử bằng 2 liên kết hydrogen."
+    ],
+    "correct": 1,
+    "explanation": "H₂O: một O liên kết với hai H bằng liên kết cộng hóa trị.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Đơn phân Adenin của DNA khác đơn phân Adenin của RNA ở đặc điểm nào?",
+    "image": null,
+    "options": ["Gốc phosphate.", "Gốc đường.", "Gốc base nito.", "Gốc hydro."],
+    "correct": 1,
+    "explanation": "DNA dùng deoxyribose, RNA dùng ribose.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Để hoa đào nở nhanh để kịp ngày Tết, người nông dân thường dùng nước ấm 40 - 50°C tưới quanh gốc với tần suất 5 - 6 lần mỗi ngày. Tác nhân nào kích thích hiện tượng nở hoa ở cây đào?",
+    "image": null,
+    "options": ["Nhiệt độ.", "Ánh sáng.", "Độ ẩm.", "Chất dinh dưỡng."],
+    "correct": 0,
+    "explanation": "Nhiệt độ ấm kích thích hoa đào nở.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Nội dung cơ bản của quá trình tiến hóa nhỏ theo quan niệm của thuyết tiến hóa tổng hợp hiện đại là",
+    "image": null,
+    "options": [
+      "quá trình hình thành các quần thể giao phối từ một quần thể gốc ban đầu.",
+      "quá trình tích lũy biến dị có lợi, đào thải biến dị có hại dưới tác dụng của chọn lọc tự nhiên.",
+      "quá trình biến đổi tần số allele và thành phần kiểu gene của quần thể.",
+      "quá trình tiến hóa ở cấp độ phân tử."
+    ],
+    "correct": 2,
+    "explanation": "Tiến hóa nhỏ là biến đổi tần số allele và thành phần kiểu gene của quần thể.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Cho các phát biểu sau: (1) Trong nhóm chức OH⁻ thì nguyên tử H liên kết với khung carbon của phân tử hữu cơ, vì vậy nó không thể liên kết hydro với các phân tử nước. (2) Trong các amino acid thì nhóm -NH₂ hoạt động như acid, còn -COOH hoạt động như base. (3) Sự đa dạng của phân tử hữu cơ là do nó được cấu tạo bởi các nguyên tố khác nhau. Số phát biểu đúng là",
+    "image": null,
+    "options": ["0.", "1.", "2.", "3."],
+    "correct": 0,
+    "explanation": "Cả 3 phát biểu đều sai.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Ví dụ nào sau đây thể hiện hướng tiến hóa phân li?",
+    "image": null,
+    "options": [
+      "Ngà voi và sừng tê giác.",
+      "Cánh chim và cánh côn trùng.",
+      "Cánh dơi và tay người.",
+      "Vòi voi và vòi bạch tuộc."
+    ],
+    "correct": 2,
+    "explanation": "Cánh dơi và tay người là cơ quan tương đồng (tiến hóa phân li).",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Ứng dụng nào sau đây từ hiểu biết về di truyền giới tính và liên kết với giới tính?",
+    "image": null,
+    "options": [
+      "Điều khiển tỉ lệ đực, cái của vật nuôi theo nhu cầu sản xuất và giá trị kinh tế mang lại.",
+      "Dự đoán xác suất gây bệnh ở các cá thể đời con từ đời bố mẹ.",
+      "Lựa chọn các tổ hợp lai nhằm cải thiện chất lượng giống.",
+      "Tất cả các đáp án trên."
+    ],
+    "correct": 3,
+    "explanation": "Tất cả các ứng dụng đều đúng.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Cho các ứng dụng sau đây: (1) Xác định tương tác giữa các protein. (2) Dự đoán protein bị đột biến còn chức năng hay không. (3) Giải trình tự gene. (4) Lấy mẫu bệnh phẩm. (5) Tạo ra sinh vật biến đổi gen. Có bao nhiêu ứng dụng là ứng dụng của Tin sinh học?",
+    "image": null,
+    "options": ["2.", "3.", "4.", "5."],
+    "correct": 2,
+    "explanation": "Ứng dụng Tin sinh học: (1), (2), (3), (5).",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Sự hình thành các đặc điểm thích nghi là sự thay đổi về",
+    "image": null,
+    "options": [
+      "hình thái, kích thước.",
+      "kích thước, sinh lí.",
+      "sinh lí, hình thái.",
+      "hình thái, kích thước, sinh lí."
+    ],
+    "correct": 3,
+    "explanation": "Đặc điểm thích nghi bao gồm hình thái, kích thước và sinh lí.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Trong trường hợp giảm phân và thụ tinh bình thường, tình trạng trội là trội hoàn toàn, phép lai AaBbDdHh × AaBbDdHh sẽ cho kiểu hình mang ba tình trạng trội và một tình trạng lặn chiếm tỉ lệ",
+    "image": null,
+    "options": ["1/64.", "27/256.", "9/64.", "27/64."],
+    "correct": 3,
+    "explanation": "Tỉ lệ = (3/4)³ × C₄³ × (1/4) = 27/64.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Điều nào sau sai khi nói về lan truyền xung thần kinh trên sợi thần kinh có bao myelin?",
+    "image": null,
+    "options": [
+      "Bao myelin bao bọc không liên tục mà ngắt quãng tạo thành các eo ranvier.",
+      "Tốc độ lan truyền của xung thần kinh trên sợi có bao myelin chậm hơn nhiều so với trên sợi không có bao myelin.",
+      "Xung thần kinh lan truyền theo cách nhảy cóc là do mất phân cực, đảo cực và tái phân cực liên tiếp từ eo ranvier này sang eo ranvier khác.",
+      "Cả A, B sai."
+    ],
+    "correct": 1,
+    "explanation": "Tốc độ lan truyền trên sợi có bao myelin nhanh hơn nhiều.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Cho các đặc điểm sau: a) Xuất phát từ cùng một hợp tử. b) Các cá thể giống nhau về kiểu hình, khác nhau về kiểu gene. c) Nhiều trứng thụ tinh với nhiều tinh trùng có kiểu gene giống nhau. d) Có kiểu gene giống nhau. Có ______ đặc điểm là của sinh đôi cùng trứng.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Đặc điểm đúng: a) và d).",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Nếu sử dụng liên tục một loại thuốc kháng sinh có thể dẫn tới hình thành chủng vi khuẩn kháng kháng sinh là do",
+    "image": null,
+    "options": [
+      "tăng áp lực chọn lọc tự nhiên, các gen bị đột biến có khả năng kháng thuốc được di truyền lại cho thế hệ sau.",
+      "vi khuẩn làm quen với thuốc kháng sinh.",
+      "thuốc kháng sinh là nhân tố kích thích sinh trưởng ở vi khuẩn.",
+      "thuốc kháng sinh làm phát sinh nhiều đột biến gen ở vi khuẩn."
+    ],
+    "correct": 0,
+    "explanation": "Tăng áp lực chọn lọc tự nhiên làm các gen kháng thuốc được duy trì.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Đột biến gen làm thay đổi tần số alen rất chậm nhưng tại sao trong trường hợp trên lại nhanh chóng hình thành quần thể kháng thuốc?",
+    "image": null,
+    "options": [
+      "Vì vi khuẩn có tốc độ sinh sản nhanh.",
+      "Vì đột biến gen không biểu hiện ngay ra kiểu hình.",
+      "Vì dưới áp lực của chọn lọc tự nhiên.",
+      "Vì gen đột biến được loại bỏ trong quá trình sinh sản của vi khuẩn."
+    ],
+    "correct": 0,
+    "explanation": "Vi khuẩn sinh sản rất nhanh nên tần số alen thay đổi nhanh.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Để hạn chế hiện tượng kháng thuốc, chúng ta cần",
+    "image": null,
+    "options": [
+      "không sử dụng thuốc kháng sinh.",
+      "không lạm dụng thuốc kháng sinh như một thuốc thông thường.",
+      "sử dụng một loại thuốc kháng sinh để tiêu diệt toàn bộ vi khuẩn gây hại.",
+      "chỉ sử dụng thuốc kháng sinh khi nhiễm bệnh do virus gây nên."
+    ],
+    "correct": 1,
+    "explanation": "Không lạm dụng kháng sinh như thuốc thông thường.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Tại các diễn đàn của Quốc tế Cộng sản, Nguyễn Ái Quốc đã nhấn mạnh nội dung nào dưới đây?",
+    "image": null,
+    "options": [
+      "Về mục đích chấn hưng Việt Nam.",
+      "Về thành lập liên minh chống Pháp.",
+      "Về vai trò của cách mạng thuộc địa, lực lượng cách mạng ở thuộc địa.",
+      "Về việc đào tạo người yêu nước Việt Nam cho phong trào cách mạng Việt Nam."
+    ],
+    "correct": 2,
+    "explanation": "Nguyễn Ái Quốc thường nhấn mạnh vai trò của cách mạng thuộc địa và lực lượng cách mạng ở thuộc địa.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Lê Thánh Tông tiến hành cải cách bãi bỏ hầu hết các cơ quan, chức quan có quyền lực lớn nhằm mục đích gì?",
+    "image": null,
+    "options": [
+      "Tăng cường bình đẳng và dân chủ.",
+      "Tập trung quyền lực vào tay nhà vua.",
+      "Xóa bỏ tình trạng cát cứ ở địa phương.",
+      "Dẹp yên các thế lực, thống nhất đất nước."
+    ],
+    "correct": 1,
+    "explanation": "Mục đích là tập trung quyền lực vào tay nhà vua.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Từ ba lần kháng chiến chống quân Mông - Nguyên thắng lợi của nhà Trần thế kỉ XIII, ta có thể rút ra bài học nào sau đây cho công cuộc xây dựng và bảo vệ Tổ quốc hiện nay?",
+    "image": null,
+    "options": [
+      "Tấn công trước để giành thế chủ động.",
+      "Đánh du kích, tiêu hao sinh lực địch.",
+      "Bồi dưỡng sức dân, xây dựng khối đoàn kết.",
+      "Biến điều kiện khác quan thành trở ngại của địch."
+    ],
+    "correct": 2,
+    "explanation": "Bài học về bồi dưỡng sức dân, xây dựng khối đoàn kết toàn dân.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Theo cải cách của Lê Thánh Tông (thế kỉ XV), Lục bộ được điều hành bởi",
+    "image": null,
+    "options": [
+      "tể tướng.",
+      "Lục khoa.",
+      "nhà vua.",
+      "Lục tự."
+    ],
+    "correct": 2,
+    "explanation": "Lục bộ do nhà vua trực tiếp điều hành.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Sự kiện nào sau đây là mốc mở đầu cho cuộc chiến tranh bảo vệ biên giới phía Bắc của Việt Nam?",
+    "image": null,
+    "options": [
+      "Một số lãnh đạo Trung Quốc ủng hộ tập đoàn Pôn Pốt chống Việt Nam.",
+      "Trung Quốc huy động 32 sư đoàn đồng loạt tấn công vào lãnh thổ Việt Nam.",
+      "Trung Quốc có hành động làm tổn hại đến Việt Nam như dựng nên sự kiện “nạn Kiều”.",
+      "Trung Quốc hạ lệnh rút toàn bộ các chuyên gia kinh tế đang hỗ trợ Việt Nam về nước."
+    ],
+    "correct": 1,
+    "explanation": "Ngày 17-2-1979 Trung Quốc huy động 32 sư đoàn tấn công biên giới phía Bắc Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Tính chất dân chủ của Cách mạng tháng Tám năm 1945 thể hiện ở nội dung nào trong đoạn tư liệu?",
+    "image": null,
+    "options": [
+      "Lật nhào chế độ quân chủ.",
+      "Lật đổ xiềng xích của đế quốc.",
+      "Tiêu diệt tàn dư của phát xít.",
+      "Lập ra nước Việt Nam mới."
+    ],
+    "correct": 0,
+    "explanation": "Tính chất dân chủ thể hiện ở việc lật nhào chế độ quân chủ.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Ý tưởng về sự thành lập Cộng đồng ASEAN được hình thành từ",
+    "image": null,
+    "options": [
+      "Tuyên bố Bali ban hành năm 2003.",
+      "khi ASEAN được thành lập năm 1967.",
+      "Hiến chương ASEAN được thông qua năm 2007.",
+      "Hội nghị cấp cao ASEAN 14 ở Thái Lan năm 2009."
+    ],
+    "correct": 1,
+    "explanation": "Ý tưởng hình thành từ khi ASEAN được thành lập năm 1967.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Nội dung nào sau đây phản ánh tình hình chính trị nhà Trần từ cuối thế kỉ XIV?",
+    "image": null,
+    "options": [
+      "Vua lo ăn chơi, bất chấp sự can gián của quan lại.",
+      "Vua, quan, quý tộc chỉ lo ăn chơi, bỏ bê triều chính.",
+      "Ngoại thích nắm quyền, nhà vua mất thực quyền.",
+      "Chính quyền phân chia quyền lực, thiếu thống nhất."
+    ],
+    "correct": 1,
+    "explanation": "Vua, quan, quý tộc chỉ lo ăn chơi, bỏ bê triều chính.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Sau năm 1991, quốc gia nào sau đây không đi theo con đường xã hội chủ nghĩa?",
+    "image": null,
+    "options": [
+      "Nga.",
+      "Lào.",
+      "Trung Quốc.",
+      "Việt Nam."
+    ],
+    "correct": 0,
+    "explanation": "Sau 1991 Nga không còn theo con đường xã hội chủ nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Đến cuối thế kỉ XIX, các quốc gia Đông Nam Á lục địa (trừ Xiêm) trở thành thuộc địa của những nước thực dân nào?",
+    "image": null,
+    "options": [
+      "Anh và Pháp.",
+      "Pháp và Hà Lan.",
+      "Anh và Mĩ.",
+      "Pháp và Mĩ."
+    ],
+    "correct": 0,
+    "explanation": "Anh chiếm Miến Điện, Pháp chiếm Đông Dương.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Sau Đại thắng mùa xuân 1975, Hoàng Sa và Trường Sa do quốc gia nào sau đây quản lý?",
+    "image": null,
+    "options": [
+      "Việt Nam.",
+      "Trung Quốc.",
+      "Liên Xô.",
+      "Triều Tiên."
+    ],
+    "correct": 0,
+    "explanation": "Nhà nước CHXHCN Việt Nam quản lí toàn bộ lãnh thổ gồm Hoàng Sa và Trường Sa.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Phương án nào sau đây phản ánh đúng thời gian và sự kiện về những hoạt động của Việt Nam trong ASEAN?",
+    "image": null,
+    "options": [
+      "1-b; 2-c; 3-a; 4-e; 5-d.",
+      "1-b; 2-a; 3-d; 4-c; 5-e.",
+      "1-a; 2-b; 3-d; 4-c; 5-e.",
+      "1-d; 2-c; 3-b; 4-a; 5-e."
+    ],
+    "correct": 0,
+    "explanation": "Đúng là 1-b; 2-c; 3-a; 4-e; 5-d.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Sự kiện nào sau đây chứng tỏ vị thế của Việt Nam trong ASEAN được nâng cao?",
+    "image": null,
+    "options": [
+      "Đảm nhận vai trò chủ tịch của ASEAN.",
+      "Trở thành quan sát viên của ASEAN.",
+      "Trở thành thành viên thứ 7 của ASEAN.",
+      "Vận động Sin-ga-po tham gia ASEAN."
+    ],
+    "correct": 0,
+    "explanation": "Đảm nhận vai trò chủ tịch ASEAN khẳng định vị thế của Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Việc Việt Nam gia nhập ASEAN chứng tỏ xu thế nào?",
+    "image": null,
+    "options": [
+      "Lấy kinh tế làm trung tâm.",
+      "Giải quyết tranh chấp bằng hòa bình.",
+      "Khu vực hóa và quốc tế hóa.",
+      "Đa cực trong trật tự thế giới."
+    ],
+    "correct": 2,
+    "explanation": "Chứng tỏ xu thế khu vực hóa và quốc tế hóa.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (1960) xác định nội dung nào sau đây?",
+    "image": null,
+    "options": [
+      "Nhiệm vụ cách mạng của hai miền Nam - Bắc.",
+      "Vai trò quyết định nhất của cách mạng miền Nam.",
+      "Vai trò quyết định trực tiếp của cách mạng miền Bắc.",
+      "Cách mạng cả nước cùng đi lên chủ nghĩa xã hội."
+    ],
+    "correct": 0,
+    "explanation": "Xác định nhiệm vụ cách mạng của hai miền Nam - Bắc.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Yếu tố nào sau đây tác động đến việc cách mạng Việt Nam phải tiến hành hai nhiệm vụ chiến lược trong thời kì 1954 - 1975?",
+    "image": null,
+    "options": [
+      "Đất nước bị chia cắt thành hai miền với hai chế độ chính trị khác nhau.",
+      "Đất nước hoàn toàn giải phóng nhưng có hai chế độ chính trị khác nhau.",
+      "Miền Nam được hoàn toàn giải phóng, miền Bắc tiến lên chủ nghĩa xã hội.",
+      "Miền Bắc được hoàn toàn giải phóng, miền Nam đang lên chủ nghĩa xã hội."
+    ],
+    "correct": 0,
+    "explanation": "Đất nước bị chia cắt thành hai miền với hai chế độ chính trị khác nhau.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (1960) phản ánh đặc điểm nào sau đây của cách mạng Việt Nam?",
+    "image": null,
+    "options": [
+      "Cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam đã hoàn thành.",
+      "Công cuộc xây dựng chủ nghĩa xã hội đang được tiến hành trên cả nước.",
+      "Một Đảng lãnh đạo thực hiện đồng thời hai nhiệm vụ chiến lược ở hai miền.",
+      "Một Đảng lãnh đạo thực hiện lần lượt hai nhiệm vụ chiến lược của cách mạng."
+    ],
+    "correct": 2,
+    "explanation": "Một Đảng lãnh đạo thực hiện đồng thời hai nhiệm vụ chiến lược ở hai miền.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Biểu hiện nào sau đây không gây mất an ninh mạng?",
+    "image": null,
+    "options": [
+      "Giới thiệu, quảng bá những giá trị nội dung mang tính nhân văn.",
+      "Xâm nhập trái phép vào hệ thống thông tin quan trọng của các quốc gia.",
+      "Tấn công hệ thống giám sát điều khiển công nghiệp.",
+      "Chiếm đoạt thông tin người dùng để sử dụng vào mục đích chính trị."
+    ],
+    "correct": 0,
+    "explanation": "Giới thiệu, quảng bá giá trị nhân văn không gây mất an ninh mạng.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Di sản văn hóa thế giới phố cổ Hội An thuộc tỉnh nào sau đây?",
+    "image": null,
+    "options": [
+      "Thừa Thiên - Huế.",
+      "Quảng Ninh.",
+      "Quảng Nam.",
+      "Thanh Hóa."
+    ],
+    "correct": 2,
+    "explanation": "Phố cổ Hội An thuộc tỉnh Quảng Nam.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Nhân tố ảnh hưởng quan trọng nhất đến hoạt động khai thác thuỷ sản ở nước ta là",
+    "image": null,
+    "options": [
+      "điều kiện đánh bắt.",
+      "hệ thống các cảng cá.",
+      "cơ sở vật chất kĩ thuật.",
+      "thị trường tiêu thụ."
+    ],
+    "correct": 0,
+    "explanation": "Nhân tố quan trọng nhất là điều kiện đánh bắt.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Trung tâm công nghiệp nào sau đây của Trung Quốc không nằm ven biển?",
+    "image": null,
+    "options": [
+      "Hồng Kông.",
+      "Thiên Tân.",
+      "Thượng Hải.",
+      "Bao Đầu."
+    ],
+    "correct": 3,
+    "explanation": "Bao Đầu nằm sâu trong lục địa.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Hiện nay, việc chuyển đổi cơ cấu cây trồng ở Đồng bằng sông Cửu Long có ý nghĩa chủ yếu nào sau đây?",
+    "image": null,
+    "options": [
+      "Tạo nhiều việc làm mới, đa dạng sản phẩm nông nghiệp, thu hút nguồn đầu tư.",
+      "Sử dụng hợp lí tài nguyên, tăng chất lượng sản phẩm, bảo vệ môi trường sống.",
+      "Thích ứng biến đổi khí hậu, đáp ứng nhu cầu thị trường, tăng hiệu quả sản xuất.",
+      "Tăng sản lượng cây trồng, mở rộng thị trường tiêu thụ và phân bố lại lao động."
+    ],
+    "correct": 2,
+    "explanation": "Ý nghĩa chủ yếu: thích ứng biến đổi khí hậu, đáp ứng nhu cầu thị trường, tăng hiệu quả sản xuất.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Phát biểu nào sau đây đúng với thực trạng phát triển kinh tế của vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long?",
+    "image": null,
+    "options": [
+      "Trong công nghiệp, nhóm ngành chế biến chế tạo có vai trò rất nhỏ.",
+      "Trong cơ cấu ngành kinh tế, ngành dịch vụ chiếm tỉ trọng thấp nhất.",
+      "Đây là vùng sản xuất lúa gạo lớn nhất cả nước và trồng cây ăn quả.",
+      "Hoạt động thương mại diễn ra sôi động và vận tải hiện đại bậc nhất."
+    ],
+    "correct": 2,
+    "explanation": "Đây là vùng sản xuất lúa gạo lớn nhất cả nước và trồng cây ăn quả.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Vùng trồng cây ăn quả lớn nhất ở nước ta là",
+    "image": null,
+    "options": [
+      "Trung du và miền núi Bắc Bộ.",
+      "Đồng bằng sông Hồng.",
+      "Đồng bằng sông Cửu Long.",
+      "Bắc Trung Bộ."
+    ],
+    "correct": 2,
+    "explanation": "Đồng bằng sông Cửu Long là vùng trồng cây ăn quả lớn nhất.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Nuôi trồng thủy sản nước lợ của nước ta phát triển thuận lợi ở những nơi nào sau đây?",
+    "image": null,
+    "options": [
+      "Hồ thủy lợi, ruộng lúa ở các đồng bằng.",
+      "Sông ngòi, hồ, vùng trũng ở đồng bằng.",
+      "Bãi triều, đầm, phá, dải rừng ngập mặn.",
+      "Vũng, vịnh và vùng biển ven các đảo."
+    ],
+    "correct": 2,
+    "explanation": "Thuận lợi ở bãi triều, đầm, phá, dải rừng ngập mặn.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Ngành nào sau đây không phải ngành công nghiệp truyền thống của Liên bang Nga?",
+    "image": null,
+    "options": [
+      "Khai thác dầu khí.",
+      "Luyện kim đen.",
+      "Hàng không.",
+      "Năng lượng."
+    ],
+    "correct": 2,
+    "explanation": "Hàng không thuộc ngành hiện đại, không phải truyền thống.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Khí hậu Liên bang Nga đã tạo điều kiện cho nước này có",
+    "image": null,
+    "options": [
+      "nền nông nghiệp nhiệt đới.",
+      "đàn thủy cầm lớn nhất thế giới.",
+      "cơ cấu nông nghiệp đa dạng.",
+      "đàn trâu lớn nhất thế giới."
+    ],
+    "correct": 2,
+    "explanation": "Khí hậu phân hóa tạo cơ cấu nông nghiệp đa dạng.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Chỉ số phát triển con người viết tắt là",
+    "image": null,
+    "options": [
+      "HDI.",
+      "GNI.",
+      "GDP.",
+      "CPI."
+    ],
+    "correct": 0,
+    "explanation": "HDI là Chỉ số phát triển con người.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Cây trồng quan trọng hàng đầu ở Cộng hòa Nam Phi là",
+    "image": null,
+    "options": [
+      "ngô.",
+      "mía.",
+      "lúa mì.",
+      "đậu tương."
+    ],
+    "correct": 0,
+    "explanation": "Ngô là cây trồng quan trọng hàng đầu của Nam Phi.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Tự nhiên miền Đông không có",
+    "image": null,
+    "options": [
+      "các đồng bằng châu thổ rộng lớn, đất phù sa màu mỡ.",
+      "các dãy núi cao, sơn nguyên đồ sộ xen lẫn các bồn địa.",
+      "kiểu khí hậu cận nhiệt đới gió mùa và ôn đới gió mùa.",
+      "nhiều tài nguyên khoáng sản kim loại màu nổi tiếng."
+    ],
+    "correct": 1,
+    "explanation": "Các dãy núi cao, sơn nguyên đồ sộ là đặc điểm của miền Tây.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Sự thiếu ổn định về sản lượng điện của các nhà máy thủy điện ở nước ta chủ yếu là do",
+    "image": null,
+    "options": [
+      "sông ngòi ngắn dốc.",
+      "cơ sở hạ tầng còn yếu.",
+      "sự phân mùa của khí hậu.",
+      "lưu lượng nước sông nhỏ."
+    ],
+    "correct": 2,
+    "explanation": "Chủ yếu do sự phân mùa của khí hậu.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Các quốc gia nào sau đây có mật độ dân số cao nhất ở Đông Nam Á?",
+    "image": null,
+    "options": [
+      "Việt Nam, Phi-lip-pin.",
+      "Thái Lan, In-đô-nê-xi-a.",
+      "Xin-ga-po, Mi-an-ma.",
+      "Cam-pu-chia, Bru-nây."
+    ],
+    "correct": 0,
+    "explanation": "Việt Nam và Phi-lip-pin có mật độ dân số cao nhất.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Phát biểu nào sau đây đúng với mật độ dân số và một số đô thị của khu vực Đông Nam Á?",
+    "image": null,
+    "options": [
+      "Thái Lan có mật độ dân số thấp hơn so với Mi-an-ma.",
+      "Phần lớn các đô thị ở Đông Nam Á dưới 5 triệu người.",
+      "Băng Cốc, Hà Nội, Ma-ni-la có dân số đô thị lớn nhất.",
+      "Dân số phân bố tương đối đồng đều giữa các quốc gia."
+    ],
+    "correct": 1,
+    "explanation": "Phần lớn các đô thị ở Đông Nam Á dưới 5 triệu người.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Khu vực Đông Nam Á có dân số tập trung đông chủ yếu do",
+    "image": null,
+    "options": [
+      "khí hậu đa dạng, địa hình khá bằng phẳng.",
+      "vùng biển rộng lớn, vị trí địa lí thuận lợi.",
+      "sông ngòi dày đặc, công nghiệp phát triển.",
+      "tự nhiên thuận lợi, tài nguyên phong phú."
+    ],
+    "correct": 3,
+    "explanation": "Chủ yếu do tự nhiên thuận lợi và tài nguyên phong phú.",
+    "passage": null
+  }
+]

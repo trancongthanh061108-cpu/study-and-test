@@ -1,0 +1,1180 @@
+[
+  {
+    "id": 101,
+    "question": "Hai quả cầu dẫn điện giống hệt nhau được tích điện +2Q và -Q tương ứng và cách nhau một khoảng d (lớn hơn nhiều so với bán kính của các hình cầu). Độ lớn lực hấp dẫn lên quả cầu bên trái là F₁. Sau khi cho hai quả cầu chạm nhau rồi lại cách nhau một khoảng d thì độ lớn của lực tác dụng lên quả cầu bên trái là F₂. Mối quan hệ nào sau đây là đúng?",
+    "image": null,
+    "options": [
+      "2F₁ = F₂",
+      "F₁ = F₂",
+      "F₁ = 2F₂",
+      "F₁ = 8F₂"
+    ],
+    "correct": 3,
+    "explanation": "Sau chạm, mỗi quả cầu có điện tích Q/2. F₁ = k·2Q²/d²; F₂ = k·(Q/2)·(Q/2)/d² = k·Q²/(4d²) ⇒ F₁ = 8F₂.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Một số vòi nước thường có hai tai vặn. Tác dụng chính của các tai vặn này là:",
+    "image": null,
+    "options": [
+      "tăng độ bền của đai ốc.",
+      "tăng momen của ngẫu lực.",
+      "tăng momen lực.",
+      "giảm momen lực."
+    ],
+    "correct": 1,
+    "explanation": "Hai lực đối ngược tác dụng vào hai tai vặn tạo ngẫu lực, làm tăng momen quay, giúp dễ mở/đóng vòi.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Ở điều kiện thường, iodine là chất rắn dạng tinh thể màu đen tím. Khi đun nóng, sẽ diễn ra quá trình thăng hoa. Sự thăng hoa đó là sự chuyển từ:",
+    "image": null,
+    "options": [
+      "rắn sang khí",
+      "rắn sang lỏng",
+      "lỏng sang rắn",
+      "khí sang rắn"
+    ],
+    "correct": 0,
+    "explanation": "Thăng hoa là sự chuyển trực tiếp từ thể rắn sang thể khí.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Thiết bị điều khiển từ xa được chế tạo dựa trên tính chất và công dụng của tia nào dưới đây?",
+    "image": null,
+    "options": [
+      "Tia hồng ngoại.",
+      "Tia tử ngoại.",
+      "Tia Ron-ghen.",
+      "Tia gamma"
+    ],
+    "correct": 0,
+    "explanation": "Tia hồng ngoại có thể biến điệu như sóng điện từ cao tần, được dùng trong thiết bị điều khiển từ xa.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Cần thực hiện một joule công để di chuyển một coulomb điện tích từ điểm này sang điểm khác mà không thay đổi vận tốc. Câu nào sau đây là đúng giữa hai điểm?",
+    "image": null,
+    "options": [
+      "Dòng điện là một ampe.",
+      "Hiệu điện thế là một vôn.",
+      "Cường độ điện trường là một newton trên một coulomb.",
+      "Cường độ điện trường là một joule trên một electron."
+    ],
+    "correct": 1,
+    "explanation": "A = qU ⇒ 1 J = 1 C · U ⇒ U = 1 V.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Sóng vô tuyến ngắn có thể được sử dụng để đo khoảng cách từ Trái Đất đến Mặt Trăng, bằng cách phát một tín hiệu từ Trái Đất tới Mặt Trăng và thu tín hiệu trở lại, đo khoảng thời gian từ khi phát đến khi nhận tín hiệu. Khoảng thời gian từ khi phát tới khi nhận được tín hiệu trở lại là 2,5 s. Biết tốc độ của sóng vô tuyến này là 3·10⁸ m/s và có tần số 10⁷ Hz. Tính khoảng cách từ Mặt Trăng tới Trái Đất và bước sóng của sóng truyền đi.",
+    "image": null,
+    "options": [
+      "d = 7,5·10⁸ (m); λ = 30 m",
+      "d = 3,75·10⁸ (m); λ = 30 m",
+      "d = 3,75·10¹⁰ (m); λ = 30 m",
+      "d = 3,75·10⁸ (m); λ = 60 m"
+    ],
+    "correct": 1,
+    "explanation": "d = (c·t)/2 = (3·10⁸·2,5)/2 = 3,75·10⁸ m; λ = c/f = 3·10⁸/10⁷ = 30 m.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Một xilanh đang chứa một khối khí, khi đó pít-tông cách đáy xilanh một khoảng 15 cm. Hỏi phải đẩy pít-tông theo chiều nào, một đoạn bằng bao nhiêu để áp suất khí trong xilanh tăng gấp 3 lần? Coi nhiệt độ của khí không đổi trong quá trình trên.",
+    "image": null,
+    "options": [
+      "sang phải 5 cm.",
+      "sang trái 5 cm.",
+      "sang phải 10 cm.",
+      "sang trái 10 cm."
+    ],
+    "correct": 3,
+    "explanation": "Đẳng nhiệt: p₁V₁ = p₂V₂ ⇒ h₁ = 3h₂ ⇒ h₂ = 5 cm ⇒ đẩy pít-tông sang trái 10 cm.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Một ô tô có khối lượng 1600 kg đang chạy với tốc độ 54 km/h thì người lái xe nhìn thấy một vật cản trước mặt cách khoảng 10 m. Người đó tắt máy và hãm phanh khẩn cấp với lực hãm không đổi là 2·10⁴ N. Xe dừng lại cách vật cản một khoảng bằng",
+    "image": null,
+    "options": [
+      "1,2 m.",
+      "1,0 m.",
+      "1,4 m.",
+      "1,5 m."
+    ],
+    "correct": 1,
+    "explanation": "v = 15 m/s. ΔWđ = −180000 J = A = −2·10⁴·S ⇒ S = 9 m. Xe dừng cách vật cản 1 m.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Một bộ acquy có thể cung cấp dòng điện 4 A liên tục trong 2 giờ thì phải nạp lại. Tính cường độ dòng điện mà acquy này có thể cung cấp liên tục trong 40 giờ thì phải nạp lại.",
+    "image": null,
+    "options": [
+      "0,2 A",
+      "0,4 A",
+      "0,6 A",
+      "0,1 A"
+    ],
+    "correct": 0,
+    "explanation": "q = 4·2·3600 = 28800 C. I' = 28800/(40·3600) = 0,2 A.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Một tên lửa khối lượng vỏ 200 kg, khối lượng nhiên liệu 100 kg, bay thẳng đứng lên nhờ nhiên liệu cháy phụt toàn bộ tức thời ra sau với vận tốc 400 m/s. Tìm độ cao mà tên lửa đạt tới, biết sức cản của không khí làm giảm độ cao của tên lửa 5 lần. Lấy đơn vị là mét.",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "400",
+    "explanation": "v₂ = (m₁·v₁)/m₂ = 200 m/s. h = v₂²/(2g) = 2000 m. Có lực cản: h' = 2000/5 = 400 m.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Hai nguồn kết hợp A, B cùng pha, cùng biên độ, cách nhau 40 cm. Khoảng cách giữa hai điểm dao động với biên độ cực đại gần nhất trên đoạn AB là 0,8 cm. Điểm M thuộc miền giao thoa cách nguồn A một đoạn 25 cm và cách nguồn B một đoạn 22 cm. Dịch chuyển nguồn B từ từ dọc theo phương AB ra xa nguồn B đoạn 10 cm thì số lần điểm M chuyển thành điểm dao động với biên độ cực đại là:",
+    "image": null,
+    "options": [
+      "6 lần",
+      "8 lần",
+      "7 lần",
+      "5 lần"
+    ],
+    "correct": 3,
+    "explanation": "λ = 1,6 cm. Khi B dịch chuyển, Δd thay đổi từ 3 cm đến −5,8 cm ⇒ k = −3…1 ⇒ 5 lần.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Một vật có khối lượng m = 400 g đang chuyển động tròn đều với vận tốc góc 30 vòng/phút, bán kính quỹ đạo tròn 2 m. Động năng của vật này bằng",
+    "image": null,
+    "options": [
+      "720 J.",
+      "1440 J.",
+      "3,9 J.",
+      "7,9 J."
+    ],
+    "correct": 3,
+    "explanation": "v = ωr = 2π m/s. Wđ = ½·0,4·(2π)² ≈ 7,9 J.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Bếp điện có ghi 220-800 W được nối với hiệu điện thế 220 V được dùng để đun sôi 2 lít nước ở 20°C. Biết hiệu suất của bếp H = 80% và nhiệt dung riêng của nước là 4200 J/kg·K. Tính thời gian đun sôi nước và điện năng tiêu thụ của bếp ra kWh.",
+    "image": null,
+    "options": [
+      "t = 150 s; A = 0,233 kWh",
+      "t = 1150 s; A = 0,213 kWh",
+      "t = 1050 s; A = 0,233 kWh",
+      "t = 1150 s; A = 0,13 kWh"
+    ],
+    "correct": 2,
+    "explanation": "t = (mCΔt)/(P·H) = 1050 s. A = P·t = 0,233 kWh.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Một chất điểm thực hiện đồng thời hai dao động điều hòa cùng phương cùng chu kỳ T mà đồ thị x₁ và x₂ phụ thuộc vào thời gian như hình vẽ. Biết x₂ = v₁T, tốc độ cực đại của chất điểm là 53,4 (cm/s). Giá trị T gần giá trị nào nhất:",
+    "image": null,
+    "options": [
+      "2,56 s",
+      "2,99 s",
+      "2,75 s",
+      "2,64 s"
+    ],
+    "correct": 1,
+    "explanation": "Hai dao động vuông pha. vmax = ω√(A₁² + A₂²) = 53,4 ⇒ T ≈ 2,99 s.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Điều nào sau đây là đúng khi nói về nguyên nhân gây ra sấm sét?",
+    "image": null,
+    "options": [
+      "Do sự cọ xát giữa các đám mây với nhau làm chúng nóng lên, gây ra sự phóng điện",
+      "Do có sự chênh lệch rất lớn về điện thế giữa hai đám mây, hay giữa đám mây với mặt đất",
+      "Do mưa lớn tạo ra môi trường dẫn điện tốt giữa các đám mây và giữa đám mây với mặt đất",
+      "Do trong cơn giông, gió mạnh đẩy các đám mây va chạm vào nhau gây ra sự phóng điện"
+    ],
+    "correct": 1,
+    "explanation": "Sấm sét do sự chênh lệch điện thế lớn giữa các đám mây hoặc giữa mây với mặt đất gây phóng điện.",
+    "passage": null
+  },
+  {
+    "id": 116,
+    "question": "Tiếng sét và tia chớp được tạo ra gần như cùng một lúc, nhưng ta thường nhìn thấy chớp trước khi nghe thấy tiếng sét. Giải thích đúng là:",
+    "image": null,
+    "options": [
+      "Vận tốc của ánh sáng nhỏ hơn vận tốc của âm thanh",
+      "Vận tốc của ánh sáng lớn hơn vận tốc của âm thanh",
+      "Tia chớp đi nhanh hơn tiếng sét.",
+      "Hiện nay các nhà khoa học vẫn chưa giải thích được hiện tượng trên"
+    ],
+    "correct": 1,
+    "explanation": "Vận tốc ánh sáng (3·10⁸ m/s) lớn hơn rất nhiều so với vận tốc âm thanh (≈340 m/s).",
+    "passage": null
+  },
+  {
+    "id": 117,
+    "question": "Một người nghe thấy tiếng sét sau tia chớp 5 giây. Hỏi người đó đứng cách nơi xảy ra sét bao xa? Biết vận tốc truyền âm trong không khí là 340 m/s.",
+    "image": null,
+    "options": [
+      "1700 m",
+      "170 m",
+      "240 m",
+      "1360 m"
+    ],
+    "correct": 0,
+    "explanation": "s = vt = 340·5 = 1700 m.",
+    "passage": null
+  },
+  {
+    "id": 201,
+    "question": "Phát biểu nào dưới đây không đúng về ammonia?",
+    "image": null,
+    "options": [
+      "Trong công nghiệp, ammonia lỏng được sử dụng làm chất sinh hàn.",
+      "Ammonia tác dụng với các acid để sản xuất các loại phân đạm.",
+      "Do hàm lượng nguyên tố nitrogen lớn (chiếm 82,35% về khối lượng) nên ammonia được sử dụng làm phân bón cung cấp trực tiếp đạm cho cây trồng.",
+      "Quá trình tổng hợp ammonia theo quy trình Haber – Bosch không thể đạt được hiệu suất 100%."
+    ],
+    "correct": 2,
+    "explanation": "Phát biểu sai là phát biểu C. Ammonia không sử dụng trực tiếp làm phân bón đạm cho cây trồng.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Dung dịch glucose 5% thường được sử dụng để cung cấp nước và bổ sung nguồn năng lượng cần thiết cho cơ thể thông qua hình thức truyền tĩnh mạch. Khi một người trưởng thành truyền hết một chai glucose 5% 500mL đồng nghĩa với việc người đó đã nạp vào cơ thể bao nhiêu mol glucose? Biết dung dịch glucose 5% có khối lượng riêng là 1,02 g/mL.",
+    "image": null,
+    "options": [
+      "2,833 mol.",
+      "0,136 mol.",
+      "0,142 mol.",
+      "2,722 mol."
+    ],
+    "correct": 2,
+    "explanation": "m_dd = 500 · 1,02 = 510 g. m_C6H12O6 = 510 · 5% = 25,5 g ⇒ n ≈ 0,142 mol.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Một bạn học sinh thực hiện thí nghiệm về tính chất của protein như sau: Chuẩn bị: lòng trắng trứng, dung dịch HCl 1M, 3 ống nghiệm, đèn cồn. Tiến hành thí nghiệm: Bước 1: Lấy khoảng 2 mL lòng trắng trứng cho vào mỗi ống nghiệm. Bước 2: Ống nghiệm (1): Thêm vài giọt HCl 1M. Ống nghiệm (2): Hơ nóng nhẹ ống nghiệm trên ngọn lửa đèn cồn trong khoảng 1 phút. Ống nghiệm (3): Đun nóng ống nghiệm (3) trên ngọn lửa đèn cồn cho đến khi thấy có mùi khét. Bạn học sinh quan sát các hiện tượng ở các ống nghiệm và đưa ra nhận xét. Nhận xét nào dưới đây là sai về hiện tượng có thể có trong các ống nghiệm?",
+    "image": null,
+    "options": [
+      "Sau bước 2 ở ống nghiệm (1) có xuất hiện kết tủa màu trắng.",
+      "Sau bước 2 ở ống nghiệm (2) có hiện tượng giống ở ống nghiệm 3.",
+      "Sau bước 2 ở ống nghiệm (3), trong ống nghiệm xuất hiện chất rắn màu đen.",
+      "Thí nghiệm 1 và 2 là minh chứng cho tính chất protein bị đông tụ bởi acid và nhiệt độ."
+    ],
+    "correct": 1,
+    "explanation": "Nhận xét sai là B. Sau bước 2 ở thí nghiệm 2, lòng trắng trứng đục dần, xuất hiện kết tủa trắng. Còn ở ống nghiệm 3, lòng trắng trứng bị cháy tạo chất rắn đen.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Nhiệt tạo thành chuẩn của chất nào dưới đây có giá trị bằng 0?",
+    "image": null,
+    "options": [
+      "O₃ (ozone).",
+      "C (kim cương).",
+      "C (graphite).",
+      "H₂O."
+    ],
+    "correct": 2,
+    "explanation": "C (graphite) là dạng đơn chất bền vững nhất của carbon, nên nhiệt tạo thành chuẩn bằng 0.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Men răng là lớp ngoài cùng của răng, được coi là chất cứng nhất trong cơ thể người. Chính nhờ lớp men này mà răng của chúng ta có thể chịu được những lực nhai nghiền lớn. Một trong những yếu tố quan trọng tạo nên độ cứng chắc của men răng chính là các khoáng chất tự nhiên, trong đó phải kể đến khoáng chất Ca₅(PO₄)₃(OH). Khi trong khoang miệng có sự lên men tạo acid, hoặc quá trình ăn uống có loại thức ăn có tính acid, nhóm OH⁻ trong khoáng chất sẽ phản ứng, lâu dần làm mất đi khoáng chất, men răng trở nên yếu đi, dễ bị vi khuẩn tấn công và gây sâu răng. Để thế vào vị trí của nhóm OH⁻ đó, ion nào sau đây được bổ sung vào thành phần của kem đánh răng?",
+    "image": null,
+    "options": [
+      "Ca²⁺.",
+      "F⁻.",
+      "Na⁺.",
+      "Cl⁻."
+    ],
+    "correct": 1,
+    "explanation": "Ion thế vào vị trí nhóm OH⁻ được bổ sung vào kem đánh răng là F⁻ (dưới dạng muối NaF).",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Cho các nhận định sau về phân tử ammonia và ion ammonium: (1) đều chứa liên kết cộng hóa trị. (2) nguyên tử N đều hình thành được 3 liên kết cộng hóa trị. (3) đều có tính base yếu. (4) nguyên tử nitrogen đều có số oxi hóa là –3. Số nhận định đúng là",
+    "image": null,
+    "options": [
+      "2.",
+      "1.",
+      "4.",
+      "3."
+    ],
+    "correct": 0,
+    "explanation": "Nhận định đúng là (1) và (4). (2) sai vì trong NH₄⁺ nguyên tử N hình thành 4 liên kết. (3) sai vì NH₄⁺ có tính acid yếu.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Thành phần chính của kẹo mạch nha là",
+    "image": null,
+    "options": [
+      "saccharose.",
+      "maltose.",
+      "glucose.",
+      "fructose."
+    ],
+    "correct": 1,
+    "explanation": "Kẹo mạch nha có thành phần chính là đường maltose.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Cho các phát biểu sau: (1) Khi nguyên tử nhường electron sẽ trở thành anion. (2) Tính chất đặc trưng của kim loại là tính khử vì nguyên tử kim loại luôn có xu hướng nhường electron nên số oxi hóa tăng sau phản ứng. (3) Liên kết ion là liên kết được hình thành do sự nhường nhận electron của các nguyên tử. (4) NH₄⁺, NO₃⁻, OH⁻ là các ion đa nguyên tử. Trong các phát biểu trên, có bao nhiêu phát biểu đúng?",
+    "image": null,
+    "options": [
+      "1.",
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correct": 1,
+    "explanation": "(1) Sai – trở thành cation. (2) Đúng. (3) Sai – liên kết ion do lực hút tĩnh điện giữa các ion trái dấu. (4) Đúng. Vậy có 2 phát biểu đúng.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Chất nào dưới đây không hòa tan được copper(II) hydroxide tạo thành dung dịch màu xanh lam đậm?",
+    "image": null,
+    "options": [
+      "ethylene glycol.",
+      "glycerol.",
+      "propane-1,2-diol.",
+      "butane-1,3-diol."
+    ],
+    "correct": 3,
+    "explanation": "Butane-1,3-diol không có nhóm –OH liền kề nên không hòa tan được Cu(OH)₂ tạo dung dịch xanh lam đậm.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Phát biểu nào dưới đây sai?",
+    "image": null,
+    "options": [
+      "Carboxylic acid thường có mùi chua nồng và là chất điện li yếu.",
+      "CH₃COOH có nhiệt độ sôi cao hơn C₂H₅OH.",
+      "Có thể sử dụng giấm ăn để hòa tan cặn đá vôi có trong bình đun nước.",
+      "Quá trình lên men giấm nhờ men giấm là quá trình lên men kị khí."
+    ],
+    "correct": 3,
+    "explanation": "Phát biểu sai là D. Quá trình lên men giấm nhờ vi khuẩn acetobacter có sự tham gia của oxygen, không phải kị khí.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Phản ứng nào dưới đây không thể hiện tính oxi hóa - khử của hợp chất aldehyde?",
+    "image": null,
+    "options": [
+      "CH₃CH = O + 2[H] → CH₃CH₂OH.",
+      "CH₃CHO + Br₂ + H₂O → CH₃COOH + HBr.",
+      "CH₃CHO + 2[Ag(NH₃)₂]OH → CH₃COONH₄ + 2Ag + 3NH₃ + H₂O.",
+      "CH₃CHO + HCN → CH₃CH(OH)CN."
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng CH₃CHO + HCN → CH₃CH(OH)CN là phản ứng cộng, không thể hiện tính oxi hóa-khử của aldehyde.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Một sinh viên thực hiện thí nghiệm tổng hợp ethyl acetate từ ethyl alcohol và acetic acid (xúc tác acid H₂SO₄). Sinh viên thu được hỗn hợp Y gồm acetic acid, ethyl acetate, ethyl alcohol và chất xúc tác. Hãy đề xuất phương pháp tách ester ra khỏi hỗn hợp trên.",
+    "image": null,
+    "options": [
+      "Đun nóng hỗn hợp Y, sau đó thu toàn bộ chất bay hơi vì ethyl acetate dễ bay hơi hơn so với ethyl alcohol và acetic acid.",
+      "Lắc hỗn hợp Y với dung dịch NaHCO₃ 5%. Acetic acid với xúc tác H₂SO₄ phản ứng với NaHCO₃ tạo muối. Các muối và ethyl alcohol tan tốt trong nước, ethyl acetate không tan trong nước sẽ tách lớp.",
+      "Cho NaHCO₃ rắn dư vào hỗn hợp Y, acetic acid và H₂SO₄ phản ứng với NaHCO₃ tạo muối, ethyl acetate không tan trong nước sẽ tách lớp.",
+      "Rửa hỗn hợp Y với nước để loại xúc tác. Sau đó cô cạn hỗn hợp sau khi vừa rửa thu được chất không bay hơi là ethyl acetate (vì ethyl acetate có khối lượng phân tử lớn nên khó bay hơi)."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án đúng là B. Không nên dùng NaHCO₃ rắn vì tốc độ phản ứng chậm hơn dung dịch NaHCO₃.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Trong xà phòng làm thủ công không có thành phần nào dưới đây?",
+    "image": null,
+    "options": [
+      "Muối sodium alkylsulfate.",
+      "Muối sodium hoặc potassium của acid béo.",
+      "Glycerol.",
+      "Chất phụ gia, hương liệu, chất tạo màu."
+    ],
+    "correct": 0,
+    "explanation": "Trong xà phòng làm thủ công không có muối sodium alkylsulfate (đây là thành phần của chất giặt rửa tổng hợp).",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Trong quá trình làm xà phòng thủ công, phản ứng hóa học nào đóng vai trò quan trọng nhất?",
+    "image": null,
+    "options": [
+      "Phản ứng oxi hóa – khử giữa dầu thực vật và oxygen trong không khí.",
+      "Phản ứng phân hủy các hợp chất hữu cơ trong dầu thực vật.",
+      "Phản ứng ester hóa giữa glycerol và acid béo.",
+      "Phản ứng thủy phân chất béo bằng dung dịch kiềm."
+    ],
+    "correct": 3,
+    "explanation": "Bản chất của quá trình sản xuất xà phòng thủ công là thủy phân chất béo bằng dung dịch kiềm (phản ứng xà phòng hóa).",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Chỉ số xà phòng hóa là số mg KOH cần để trung hòa acid tự do và xà phòng hóa hết lượng ester có trong 1 gam chất béo. Một nhóm học sinh tiến hành thí nghiệm điều chế xà phòng từ nguyên liệu ban đầu là KOH và 500 gam dầu dừa thì thấy dầu dừa có chỉ số xà phòng hóa là 257. Nếu thay KOH bằng NaOH thì khối lượng NaOH tương ứng cần lấy là bao nhiêu?",
+    "image": null,
+    "options": [
+      "91,8 gam.",
+      "128,5 gam.",
+      "92,8 gam.",
+      "112,5 gam."
+    ],
+    "correct": 0,
+    "explanation": "m_KOH = 257 · 500 = 128500 mg = 128,5 g ⇒ n_KOH = 128,5/56 = 257/112 mol. n_NaOH = n_KOH ⇒ m_NaOH ≈ 91,8 gam.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Phenol được tổng hợp từ cumene (isopropylbenzene) bằng phản ứng oxi hóa bởi oxygen rồi thủy phân trong môi trường acid thu được hai sản phẩm là phenol và acetone. Người ta tiến hành điều chế phenol từ 2 tấn cumene. Khối lượng phenol điều chế được từ lượng cumene trên là (Biết hiệu suất phản ứng là 90%).",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "1410",
+    "explanation": "n_cumene = (2 · 90% · 10⁶)/120 = 15000 mol ⇒ n_phenol = 15000 mol. m_phenol = 15000 · 94 = 1410000 g = 1410 kg.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Người ta tiến hành khảo sát các yếu tố ảnh hưởng đến lượng khí CO₂ thu được trong một khoảng thời gian xác định từ phản ứng giữa đá vôi với dung dịch HCl 1M. Trong điều kiện thí nghiệm nào dưới đây, lượng khí CO₂ thu được là lớn nhất?",
+    "image": null,
+    "options": [
+      "Đập nhỏ miếng đá vôi rồi hòa tan trong dung dịch HCl 1M ở điều kiện thường.",
+      "Hòa tan nguyên cục đá vôi trong dung dịch HCl 1M ở điều kiện thường.",
+      "Đập nhỏ miếng đá vôi rồi hòa tan trong dung dịch HCl 1M đun nóng.",
+      "Hòa tan nguyên cục đá vôi trong dung dịch HCl 1M đun nóng."
+    ],
+    "correct": 2,
+    "explanation": "Trong cùng khoảng thời gian, đập nhỏ đá vôi (tăng diện tích tiếp xúc) và đun nóng (tăng nhiệt độ) làm tốc độ phản ứng lớn nhất → lượng CO₂ thu được lớn nhất.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Khi tế bào cần tăng cường tổng hợp protein, cấu trúc nào sau đây sẽ hoạt động mạnh mẽ hơn?",
+    "image": null,
+    "options": [
+      "Lưới nội chất trơn",
+      "Ribosome",
+      "Ty thể",
+      "Màng tế bào"
+    ],
+    "correct": 1,
+    "explanation": "Ribosome là bào quan chính tổng hợp protein. Khi cần nhiều protein, hoạt động của ribosome tăng lên.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Việc muối chua rau quả là ứng dụng hoạt động của loại vi sinh vật nào sau đây?",
+    "image": null,
+    "options": [
+      "Nấm men rượu",
+      "Vi khuẩn acetic",
+      "Vi khuẩn lactic",
+      "Nấm cúc đen"
+    ],
+    "correct": 2,
+    "explanation": "Vi khuẩn lactic tham gia lên men lactic, chuyển đường thành axit lactic tạo vị chua cho rau quả muối.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Những nhận định nào sau đây đúng khi nói về nguyên nhân làm tế bào lông hút luôn ưu trương so với dung dịch đất? (I) Rễ hấp thụ các ion khoáng từ đất và tích lũy các chất tan từ quá trình chuyển hóa vật chất. (II) Thoát hơi nước ở lá làm giảm lượng nước ở tế bào lông hút. (III) Rễ hấp thụ nước và tích lũy nước từ quá trình chuyển hóa vật chất. (IV) Rễ tiết các chất làm phân giải các chất tan trong dung dịch đất.",
+    "image": null,
+    "options": [
+      "(I), (II)",
+      "(III), (IV)",
+      "(I), (IV)",
+      "(I), (III)"
+    ],
+    "correct": 0,
+    "explanation": "(I) và (II) đúng. (III) và (IV) sai.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Nhân viên y tế nhà trường sau khi đo nhiệt độ cơ thể của bạn A thì ghi nhận thân nhiệt của bạn Hoa là 39°C và cho bạn A uống thuốc hạ sốt gấp. Những thông tin nào sau đây về hiện tượng “SỐT” là ĐÚNG? (I) Sốt là phản ứng tạm thời nhằm bảo vệ cơ thể khỏi các tác nhân gây bệnh. (II) Khi bị sốt, đại thực bào tiết ra chất gây sốt làm cơ thể tăng sinh nhiệt và gây sốt. (III) Sốt là hiện tượng thân nhiệt tăng và duy trì cao hơn ở mức bình thường là 35°C. (IV) Sốt >39°C lâu gây nguy hiểm cho cơ thể như co giật, hôn mê thậm chí tử vong.",
+    "image": null,
+    "options": [
+      "(I), (II), (III)",
+      "(II), (III), (IV)",
+      "(I), (III), (IV)",
+      "(I), (II), (IV)"
+    ],
+    "correct": 3,
+    "explanation": "(I), (II), (IV) đúng. (III) sai vì thân nhiệt bình thường ≈37°C.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Để nghiên cứu sự sinh trưởng và phát triển của thực vật, người ta tiến hành một thí nghiệm như sau: - Cây mầm 1: chiếu sáng từ một phía lên bao lá mầm. - Cây mầm 2: cắt bỏ đỉnh ngọn, rồi chiếu sáng từ một phía. - Cây mầm 3: che tối phần bao lá mầm, chiếu sáng từ một phía. Nhận định nào sau đây không chính xác?",
+    "image": null,
+    "options": [
+      "Cây 1 ngọn cây cong về phía ánh sáng do tính hướng sáng.",
+      "Cây 2 ngọn cây vẫn mọc thẳng.",
+      "Cây 3 ngọn cây cong về phía ánh sáng do tính hướng sáng.",
+      "Đỉnh ngọn là nơi tiếp nhận kích thích ánh sáng gây phản ứng hướng sáng ở ngọn cây."
+    ],
+    "correct": 2,
+    "explanation": "Cây 3 bị che đỉnh ngọn nên không nhận kích thích ánh sáng, ngọn mọc thẳng. Nhận định C sai.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Ở một loài cá, người ta phát hiện ra rằng con cái có khả năng chuyển giới thành con đực khi môi trường sống thiếu vắng con đực. Điều này có thể là một lợi thế tiến hóa của loài cá này. Dựa trên kiến thức về sinh sản ở động vật, cơ chế nào sau đây có thể giải thích cho hiện tượng này và lợi ích tiến hóa của nó?",
+    "image": null,
+    "options": [
+      "Chuyển giới giúp duy trì cân bằng giới tính trong quần thể, tăng khả năng sinh sản khi số lượng con đực giảm.",
+      "Chuyển giới giúp tăng kích thước cơ thể của cá cái, từ đó tăng khả năng sinh sản trong các điều kiện sống khắc nghiệt.",
+      "Chuyển giới giúp cá tránh khỏi việc bị các kẻ săn mồi tấn công, nhờ vào thay đổi màu sắc và hành vi.",
+      "Chuyển giới giúp tăng tốc độ sinh trưởng của con cái và làm giảm sự cạnh tranh thức ăn trong quần thể."
+    ],
+    "correct": 0,
+    "explanation": "Chuyển giới duy trì cân bằng giới tính, đảm bảo đủ con đực để sinh sản khi thiếu đực.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Người nông dân muốn cây cà chua trong vườn ra nhiều hoa hơn để tăng năng suất quả. Họ định sử dụng chất kích thích sinh trưởng và cắt tỉa các lá già. Tuy nhiên, một chuyên gia khuyên rằng cần lưu ý điều chỉnh lượng phân bón và nước tưới. Dựa trên kiến thức về sinh trưởng và phát triển ở thực vật, vì sao điều này có thể giúp cây ra nhiều hoa hơn?",
+    "image": null,
+    "options": [
+      "Sử dụng chất kích thích sinh trưởng sẽ làm giảm lượng auxin, từ đó tăng sự hình thành hoa.",
+      "Việc cắt tỉa lá già giúp cây tập trung năng lượng cho việc ra hoa, trong khi lượng phân bón và nước tưới cân đối sẽ duy trì sự phát triển toàn diện của cây.",
+      "Điều chỉnh lượng phân bón và nước tưới giúp giảm sự cạnh tranh giữa các cành non, tạo điều kiện tốt cho việc ra hoa đồng đều.",
+      "Bổ sung dinh dưỡng và nước quá mức sẽ kích thích quá trình sinh trưởng của cây và tăng hiệu suất ra hoa."
+    ],
+    "correct": 1,
+    "explanation": "Cắt tỉa lá già giúp tập trung năng lượng cho ra hoa; phân bón và nước cân đối duy trì phát triển toàn diện.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Trong quá trình quang hợp, giai đoạn nào sau đây tạo ra O₂?",
+    "image": null,
+    "options": [
+      "Giai đoạn tối (chu trình Calvin).",
+      "Giai đoạn sáng (phản ứng phụ thuộc ánh sáng).",
+      "Cả giai đoạn sáng và tối.",
+      "Giai đoạn cố định CO₂."
+    ],
+    "correct": 1,
+    "explanation": "O₂ được giải phóng trong giai đoạn sáng khi nước bị quang phân.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Ở người, bệnh nào sau đây do đột biến gen lặn trên nhiễm sắc thể X gây ra?",
+    "image": null,
+    "options": [
+      "Bệnh Down.",
+      "Bệnh Huntington.",
+      "Bệnh máu khó đông (hemophilia).",
+      "Bệnh bạch tạng."
+    ],
+    "correct": 2,
+    "explanation": "Hemophilia là bệnh di truyền lặn liên kết với nhiễm sắc thể X.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Hiện tượng ưu thế lai thường được ứng dụng trong",
+    "image": null,
+    "options": [
+      "chọn lọc cá thể.",
+      "lai tạo giống F1.",
+      "nuôi cấy mô.",
+      "công nghệ gen."
+    ],
+    "correct": 1,
+    "explanation": "Ưu thế lai được khai thác mạnh ở thế hệ F1 trong lai tạo giống.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Trong hệ sinh thái, chuỗi thức ăn nào sau đây là chuỗi thức ăn bắt đầu từ sinh vật sản xuất?",
+    "image": null,
+    "options": [
+      "Xác chết → vi khuẩn → giun đất.",
+      "Cỏ → châu chấu → ếch → rắn.",
+      "Lá cây rụng → nấm → giun đất.",
+      "Phân động vật → vi khuẩn → nguyên sinh động vật."
+    ],
+    "correct": 1,
+    "explanation": "Chuỗi thức ăn khởi đầu từ sinh vật sản xuất (cỏ).",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Enzyme nào sau đây tham gia vào quá trình nhân đôi DNA?",
+    "image": null,
+    "options": [
+      "DNA polymerase.",
+      "RNA polymerase.",
+      "Ligase chỉ trong phiên mã.",
+      "Helicase chỉ trong dịch mã."
+    ],
+    "correct": 0,
+    "explanation": "DNA polymerase tổng hợp mạch DNA mới trong quá trình nhân đôi.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Ở thực vật C4, sự cố định CO₂ ban đầu xảy ra ở",
+    "image": null,
+    "options": [
+      "tế bào bao bó mạch.",
+      "tế bào khí khổng.",
+      "tế bào mô giậu.",
+      "tế bào mô mềm."
+    ],
+    "correct": 3,
+    "explanation": "Ở thực vật C4, CO₂ được cố định ban đầu ở tế bào mô mềm (mesophyll).",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Hiện tượng nào sau đây minh họa cho quy luật phân ly độc lập của Mendel?",
+    "image": null,
+    "options": [
+      "Tỉ lệ 3:1 ở F2 khi lai một cặp tính trạng.",
+      "Tỉ lệ 9:3:3:1 ở F2 khi lai hai cặp tính trạng.",
+      "Tỉ lệ 1:2:1 ở F2.",
+      "Tỉ lệ 1:1 ở phép lai phân tích."
+    ],
+    "correct": 1,
+    "explanation": "Tỉ lệ 9:3:3:1 là biểu hiện của quy luật phân ly độc lập.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Trong chu trình nitơ, quá trình nào chuyển nitơ phân tử thành dạng cây hấp thụ được?",
+    "image": null,
+    "options": [
+      "Nitrat hóa.",
+      "Cố định nitơ.",
+      "Phân nitrat hóa.",
+      "Amon hóa."
+    ],
+    "correct": 1,
+    "explanation": "Cố định nitơ chuyển N₂ thành NH₃/NH₄⁺ hoặc nitrat mà cây hấp thụ được.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Trong nuôi cấy mô thực vật, môi trường nuôi cấy cần bổ sung",
+    "image": null,
+    "options": [
+      "chỉ vitamin.",
+      "auxin và cytokinin với tỉ lệ phù hợp.",
+      "chỉ đường.",
+      "chỉ khoáng."
+    ],
+    "correct": 1,
+    "explanation": "Tỉ lệ auxin/cytokinin quyết định sự hình thành rễ hoặc chồi trong nuôi cấy mô.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Một quần thể thực vật tự thụ phấn, ở thế hệ xuất phát có tỉ lệ kiểu gen Aa = 0,4. Tỉ lệ kiểu gen Aa ở thế hệ F₂ là",
+    "image": null,
+    "options": [],
+    "correct": null,
+    "answer": "0,1",
+    "explanation": "Sau mỗi thế hệ tự thụ, tỉ lệ Aa giảm một nửa. F₂: 0,4/4 = 0,1.",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Từ năm 1884 đến năm 1945, thông qua nhiều hoạt động, chính quyền thuộc địa Pháp đại diện quyền lợi của Việt Nam trong quan hệ đối ngoại, luôn khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và quần đảo Trường Sa, ngoại trừ việc",
+    "image": null,
+    "options": [
+      "dựng cột mốc chủ quyền.",
+      "công bố sách trắng quốc phòng.",
+      "xây dựng hải đăng, trạm khí tượng.",
+      "thực hiện các cuộc khảo sát khoa học."
+    ],
+    "correct": 1,
+    "explanation": "Chính quyền Pháp khẳng định chủ quyền qua dựng mốc, xây hải đăng, trạm khí tượng, khảo sát khoa học; không có việc công bố sách trắng quốc phòng.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Sự phát triển của xu thế đối thoại sau Chiến tranh lạnh đã tạo ra thuận lợi nào sau đây cho quan hệ quốc tế?",
+    "image": null,
+    "options": [
+      "Tạo ra thế cân bằng về tiềm lực kinh tế, quân sự giữa các cường quốc trên thế giới.",
+      "Là nguyên nhân chính thúc đẩy sự ra đời của các tổ chức kinh tế, tài chính quốc tế.",
+      "Tạo điều kiện để giải quyết các tranh chấp, xung đột bằng biện pháp hòa bình.",
+      "Chấm dứt sự đối lập về hệ tư tưởng giữa chủ nghĩa tư bản và chủ nghĩa xã hội."
+    ],
+    "correct": 2,
+    "explanation": "Xu thế đối thoại tạo điều kiện giải quyết tranh chấp, xung đột bằng biện pháp hòa bình.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Quá trình phát triển của ASEAN từ 1967 đến nay trải qua bao nhiêu giai đoạn?",
+    "image": null,
+    "options": [
+      "Hai giai đoạn.",
+      "Ba giai đoạn.",
+      "Bốn giai đoạn.",
+      "Năm giai đoạn."
+    ],
+    "correct": 2,
+    "explanation": "ASEAN trải qua bốn giai đoạn chính: hình thành – củng cố; mở rộng; tăng cường hợp tác hướng tới Cộng đồng; xây dựng và phát triển Cộng đồng.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Nhận xét nào dưới đây không phản ánh đúng tác động từ cuộc khủng hoảng kinh tế thế giới (1929 – 1933) đối với Việt Nam?",
+    "image": null,
+    "options": [
+      "Làm kìm hãm các hoạt động của nền kinh tế.",
+      "Làm cho đời sống nhân dân thêm khổ.",
+      "Trở thành nguyên nhân sâu xa và trực tiếp dẫn đến phong trào cách mạng 1930 – 1931.",
+      "Gián tiếp ảnh hưởng đến nền kinh tế và đời sống các giai cấp trong xã hội Việt Nam."
+    ],
+    "correct": 3,
+    "explanation": "Cuộc khủng hoảng ảnh hưởng trực tiếp, không phải gián tiếp.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Quyết định nào của Hội nghị Ianta (2/1945) đã buộc nhân dân Đông Nam Á xác định nhiệm vụ phải tiếp tục đứng lên đấu tranh để giành và bảo vệ nền độc lập của mình?",
+    "image": null,
+    "options": [
+      "Thống nhất tiêu diệt tận gốc chủ nghĩa quân phiệt Nhật Bản.",
+      "Quân đội Mĩ sẽ chiếm đóng Nhật Bản và Nam Triều Tiên.",
+      "Đông Nam Á vẫn thuộc phạm vi ảnh hưởng của các nước phương Tây.",
+      "Lực lượng Đồng minh vào Đông Dương giải giáp quân phiệt Nhật Bản."
+    ],
+    "correct": 2,
+    "explanation": "Hội nghị Ianta quyết định Đông Nam Á vẫn thuộc phạm vi ảnh hưởng phương Tây, buộc các nước phải tiếp tục đấu tranh giành độc lập.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Một đặc điểm nổi bật của phong trào 1936 – 1939 ở Việt Nam là gì?",
+    "image": null,
+    "options": [
+      "Có quy mô rộng lớn, tính chất quyết liệt và triệt để.",
+      "Mang tính quần chúng, có quy mô, thống nhất cao.",
+      "Là phong trào đấu tranh vũ trang do Đảng lãnh đạo.",
+      "Lần đầu tiên giai cấp công – nông đoàn kết đấu tranh."
+    ],
+    "correct": 1,
+    "explanation": "Phong trào 1936–1939 mang tính quần chúng rộng rãi, quy mô lớn và thống nhất cao.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Sự kiện nào đã “phá vỡ trận tuyến” của chủ nghĩa tư bản, làm cho nó không còn là hệ thống hoàn chỉnh, duy nhất trên toàn thế giới?",
+    "image": null,
+    "options": [
+      "Cách mạng tháng Mười năm 1917 ở nước Nga thành công.",
+      "Chủ nghĩa xã hội mở rộng từ châu Âu sang châu Á.",
+      "Nhân dân In-đô-nê-xi-a, Việt Nam, Lào giành và tuyên bố giành độc lập (1945).",
+      "Cách mạng Trung Quốc thành công (1949), đi lên chủ nghĩa xã hội."
+    ],
+    "correct": 0,
+    "explanation": "Cách mạng tháng Mười Nga 1917 phá vỡ trận tuyến của chủ nghĩa tư bản, xuất hiện nhà nước xã hội chủ nghĩa đầu tiên.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Kiến giải nào dưới đây là đúng khi cho rằng: Toàn cầu hóa là một xu thế khách quan, một thực tế không thể đảo ngược?",
+    "image": null,
+    "options": [
+      "Kết quả việc thống trị thị trường giữa các nước đang phát triển.",
+      "Hệ quả của việc mở rộng quan hệ thương mại giữa các cường quốc.",
+      "Hệ quả của cuộc cách mạng khoa học – kĩ thuật hiện đại.",
+      "Kết quả quá trình mở rộng các tổ chức liên kết quốc tế."
+    ],
+    "correct": 2,
+    "explanation": "Toàn cầu hóa là hệ quả của cuộc cách mạng khoa học – kĩ thuật hiện đại, là xu thế khách quan không thể đảo ngược.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Nguyên nhân khách quan đưa đến thắng lợi của nhân dân Việt Nam trong cuộc kháng chiến chống Mĩ cứu nước (1954 – 1975) là gì?",
+    "image": null,
+    "options": [
+      "Sự giúp đỡ của các nước tư bản chủ nghĩa.",
+      "Sự giúp đỡ của các nước xã hội chủ nghĩa.",
+      "Ủng hộ của Cộng đồng châu Âu (EC).",
+      "Đoàn kết của các nước khối ASEAN."
+    ],
+    "correct": 1,
+    "explanation": "Nguyên nhân khách quan quan trọng là sự giúp đỡ của các nước xã hội chủ nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Nội dung nào sau đây là yếu tố quyết định để khẳng định: Đảng Cộng sản Việt Nam ra đời (1930) đã chấm dứt thời kì khủng hoảng về đường lối cứu nước ở Việt Nam?",
+    "image": null,
+    "options": [
+      "Cách mạng nước ta có Đảng lãnh đạo.",
+      "Phương hướng tiến lên của cách mạng.",
+      "Nội dung của Cương lĩnh chính trị.",
+      "Nhiệm vụ chiến lược của cách mạng."
+    ],
+    "correct": 2,
+    "explanation": "Nội dung Cương lĩnh chính trị xác định rõ mục tiêu, kẻ thù, đường lối cách mạng, chấm dứt khủng hoảng đường lối.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Trong Chiến dịch Điện Biên Phủ (1954), quân đội Việt Nam đánh Pháp bằng việc",
+    "image": null,
+    "options": [
+      "trí tuệ thắng vũ khí hiện đại.",
+      "lấy lực thắng thế.",
+      "hợp đồng các binh chủng.",
+      "lấy ít địch nhiều."
+    ],
+    "correct": 2,
+    "explanation": "Chiến dịch Điện Biên Phủ sử dụng hợp đồng binh chủng (bộ binh, pháo binh, công binh…).",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Đế quốc Nhật sau khi tiến lên chủ nghĩa tư bản có đặc điểm gì?",
+    "image": null,
+    "options": [
+      "Đế quốc cho vay nặng lãi.",
+      "Đế quốc mặt trời không bao giờ lặn.",
+      "Đế quốc quân phiệt hiếu chiến.",
+      "Đế quốc phong kiến quân phiệt."
+    ],
+    "correct": 3,
+    "explanation": "Nhật Bản duy trì quyền sở hữu ruộng đất phong kiến và ưu thế chính trị của tầng lớp quý tộc – võ sĩ, tạo đặc điểm đế quốc phong kiến quân phiệt.",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Đâu là cơ sở thành lập các tổ chức nghiệp đoàn?",
+    "image": null,
+    "options": [
+      "Sự lớn mạnh của giai cấp tư sản.",
+      "Sự phát triển của chủ nghĩa tư bản.",
+      "Sự lớn mạnh của tầng lớp Samurai.",
+      "Sự phát triển của phong trào công nhân."
+    ],
+    "correct": 3,
+    "explanation": "Sự phát triển của phong trào công nhân là cơ sở thành lập các tổ chức nghiệp đoàn.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Thành công của cuộc Duy Tân Minh Trị ở Nhật Bản, tác động trực tiếp đến nhà yêu nước nào của Việt Nam?",
+    "image": null,
+    "options": [
+      "Phan Bội Châu.",
+      "Phan Châu Trinh.",
+      "Trần Quý Cáp.",
+      "Nguyễn Ái Quốc."
+    ],
+    "correct": 0,
+    "explanation": "Thành công Duy Tân Minh Trị tác động trực tiếp đến Phan Bội Châu, góp phần hình thành con đường cứu nước dân chủ tư sản.",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Phan Thanh Giản với vai trò là gì được triều đình cử đi đàm phán với Pháp?",
+    "image": null,
+    "options": [
+      "Chánh sứ.",
+      "Phó sứ.",
+      "Đại sứ.",
+      "Sứ giả."
+    ],
+    "correct": 0,
+    "explanation": "Phan Thanh Giản với vai trò Chánh sứ được cử đi điều đình với Pháp.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Hòa ước Nhâm Tuất được kí khi nào?",
+    "image": null,
+    "options": [
+      "Ngày 5-6-1862.",
+      "Ngày 5-6-1863.",
+      "Ngày 5-6-1864.",
+      "Ngày 5-6-1865."
+    ],
+    "correct": 0,
+    "explanation": "Hòa ước Nhâm Tuất được kí ngày 5 tháng 6 năm 1862.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Triều đình Huế quyết định đổi 3 tỉnh Biên Hòa, Gia Định, Định Tường để lấy lại tỉnh nào?",
+    "image": null,
+    "options": [
+      "Hà Nội.",
+      "Huế.",
+      "Đà Nẵng.",
+      "Vĩnh Long."
+    ],
+    "correct": 3,
+    "explanation": "Theo Hòa ước, Pháp trả lại tỉnh Vĩnh Long cho triều đình Huế.",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Gió phon là",
+    "image": null,
+    "options": [
+      "gió mùa.",
+      "gió đất.",
+      "gió Tín phong.",
+      "gió địa phương."
+    ],
+    "correct": 3,
+    "explanation": "Gió phon là một loại gió địa phương.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Nhân tố nào dưới đây không phải là nhân tố quyết định đến đô thị hóa?",
+    "image": null,
+    "options": [
+      "Vị trí và điều kiện tự nhiên.",
+      "Lối sống, mức thu nhập.",
+      "Chính sách phát triển đô thị.",
+      "Sự phát triển kinh tế."
+    ],
+    "correct": 0,
+    "explanation": "Vị trí và điều kiện tự nhiên không phải nhân tố quyết định đô thị hóa; các nhân tố kinh tế – xã hội mới quyết định.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Khu vực hóa kinh tế là liên kết kinh tế - thương mại giữa",
+    "image": null,
+    "options": [
+      "những khu vực có sự gần gũi nhau.",
+      "những nước cùng trình độ phát triển.",
+      "các nước có sự tương đồng với nhau.",
+      "các nhóm nước có quan hệ với nhau."
+    ],
+    "correct": 2,
+    "explanation": "Khu vực hóa kinh tế là liên kết giữa các nước có sự tương đồng về địa lí, văn hóa, xã hội hoặc mục tiêu chung.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Cây lương thực được phát triển ở nhiều nơi của Đông Nam Á do nguyên nhân chủ yếu nào sau đây?",
+    "image": null,
+    "options": [
+      "Đất feralit rộng, nhiều loại màu mỡ; khí hậu cận nhiệt đới và cận xích đạo.",
+      "Đất phù sa diện tích rộng, màu mỡ; khí hậu nhiệt đới và cận xích đạo.",
+      "Đất đai đa dạng, nhiều loại màu mỡ; khí hậu cận xích đạo và nhiệt đới.",
+      "Đất đai có nhiều loại, diện tích rộng; khí hậu cận nhiệt đới và ôn đới."
+    ],
+    "correct": 1,
+    "explanation": "Đất phù sa rộng, màu mỡ kết hợp khí hậu nhiệt đới – cận xích đạo là nguyên nhân chính phát triển cây lương thực ở Đông Nam Á.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Sự phân chia thế giới thành các nhóm nước nói lên tình trạng chủ yếu nào sau đây?",
+    "image": null,
+    "options": [
+      "Thế giới có nhiều quốc gia, dân tộc và tôn giáo.",
+      "Sự khác biệt về trình độ phát triển giữa các nhóm nước.",
+      "Sự khác nhau về chế độ chính trị - xã hội giữa các nước.",
+      "Hậu quả kéo dài của chiến tranh lạnh kéo dài."
+    ],
+    "correct": 1,
+    "explanation": "Phân chia thành nhóm nước phát triển và đang phát triển phản ánh sự khác biệt về trình độ phát triển.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Cho bảng số liệu tỉ suất sinh và tỉ suất tử của một số quốc gia Đông Nam Á năm 2022. Dựa vào bảng số liệu, nhận xét nào sau đây đúng về tỉ lệ gia tăng dân số tự nhiên của một số quốc gia Đông Nam Á năm 2022?",
+    "image": null,
+    "options": [
+      "Lào cao hơn Cam-pu-chia và thấp hơn In-đô-nê-xi-a.",
+      "In-đô-nê-xi-a cao hơn Cam-pu-chia và thấp hơn Lào.",
+      "Cam-pu-chia cao hơn In-đô-nê-xi-a và cao hơn Lào.",
+      "Cam-pu-chia cao hơn In-đô-nê-xi-a và thấp hơn Lào."
+    ],
+    "correct": 2,
+    "explanation": "Tỉ lệ gia tăng tự nhiên: Cam-pu-chia 1,5%; In-đô-nê-xi-a 0,6%; Lào 1,4% ⇒ Cam-pu-chia cao nhất.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Cho bảng số liệu nhiệt độ trung bình năm, nhiệt độ trung bình tháng 1 và tháng 7 tại một số trạm quan trắc của nước ta năm 2022. Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về chế độ nhiệt của nước ta?",
+    "image": null,
+    "options": [
+      "Nhiệt độ trung bình năm giảm dần từ Nam ra Bắc do nước ta lãnh thổ nước ta hẹp ngang, nhiều đồi núi.",
+      "Biên độ nhiệt năm giảm dần từ Nam ra Bắc do miền Nam không chịu ảnh hưởng của gió mùa Đông Bắc.",
+      "Bãi Cháy có biên độ nhiệt trung bình năm cao do vị trí địa lí và ảnh hưởng của gió mùa mùa đông.",
+      "Chênh lệch nhiệt độ trung bình năm giữa Cà Mau và Đà Nẵng là 1,4°C do đều nằm ở vùng khí hậu phía Nam."
+    ],
+    "correct": 3,
+    "explanation": "Cà Mau và Đà Nẵng đều thuộc vùng khí hậu phía Nam, chênh lệch nhiệt độ trung bình năm nhỏ (1,4°C).",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Cho bảng số vận tải hàng hóa bằng đường hàng không chia theo hình thức giai đoạn 1995 – 2020. Nhận xét nào sau đây đúng với bảng số liệu trên?",
+    "image": null,
+    "options": [
+      "Vận chuyển hàng hóa quốc tế tăng nhanh hơn vận chuyển hàng hóa trong nước.",
+      "Vận chuyển hàng hóa trong nước luôn cao gấp hai lần vận chuyển hàng hóa quốc tế.",
+      "Vận chuyển hàng hóa trong nước luôn thấp hơn vận chuyển hàng hóa quốc tế.",
+      "Vận chuyển hàng hóa trong nước tăng nhiều hơn vận chuyển hàng hóa quốc tế."
+    ],
+    "correct": 3,
+    "explanation": "Vận chuyển trong nước tăng 163,3 nghìn tấn; quốc tế tăng 77,1 nghìn tấn ⇒ trong nước tăng nhiều hơn.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Cơ cấu lao động theo thành phần kinh tế ở nước ta hiện nay đang chuyển dịch chủ yếu do",
+    "image": null,
+    "options": [
+      "quá trình công nghiệp hóa, hiện đại hóa đất nước nhanh.",
+      "khoa học – công nghệ tiến bộ, đầu tư nước ngoài tăng lên.",
+      "chính sách mở cửa, hội nhập quốc tế ngày càng sâu rộng.",
+      "sự đa dạng hóa sản xuất, tỉ lệ dân thành thị ngày càng tăng."
+    ],
+    "correct": 2,
+    "explanation": "Chuyển dịch cơ cấu lao động theo thành phần kinh tế chủ yếu do chính sách mở cửa, hội nhập quốc tế.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Biểu đồ dưới đây thể hiện nội dung nào về ngành thủy sản của nước ta giai đoạn 2015 - 2022?",
+    "image": null,
+    "options": [
+      "Biểu đồ thể hiện tốc độ tăng trưởng thủy sản khai thác và nuôi trồng.",
+      "Biểu đồ thể hiện quy mô sản lượng thủy sản khai thác và nuôi trồng.",
+      "Biểu đồ thể hiện cơ cấu sản lượng thủy sản khai thác và nuôi trồng.",
+      "Biểu đồ thể hiện quy mô và cơ cấu sản lượng thủy sản khai thác."
+    ],
+    "correct": 1,
+    "explanation": "Biểu đồ có đơn vị nghìn tấn, thể hiện quy mô sản lượng khai thác và nuôi trồng.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Thuận lợi để phát triển kinh tế biển của Duyên hải Nam Trung Bộ không phải là",
+    "image": null,
+    "options": [
+      "vùng biển có trữ lượng hải sản lớn, nhiều đặc sản.",
+      "có nhiều vịnh biển kín, tiếp giáp với vùng biển nước sâu.",
+      "diện tích mặt nước nuôi trồng thủy sản lớn nhất cả nước.",
+      "dọc bờ biển có nhiều bãi biển với phong cảnh đẹp."
+    ],
+    "correct": 2,
+    "explanation": "Diện tích mặt nước nuôi trồng thủy sản lớn nhất thuộc Đồng bằng sông Cửu Long, không phải Duyên hải Nam Trung Bộ.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Công nghiệp chế biến của Tây Nguyên đang được đẩy mạnh chủ yếu là nhờ",
+    "image": null,
+    "options": [
+      "điều kiện tự nhiên thuận lợi, đặc biệt là về khí hậu và đất trồng.",
+      "nguồn lao động dồi dào, kinh nghiệm, chất lượng ngày càng cao.",
+      "việc tăng cường xây dựng cơ sở hạ tầng và mở rộng thị trường.",
+      "nền nông nghiệp hàng hóa phát triển mạnh, nhiều chính sách."
+    ],
+    "correct": 2,
+    "explanation": "Công nghiệp chế biến Tây Nguyên đẩy mạnh nhờ tăng cường xây dựng cơ sở hạ tầng và mở rộng thị trường.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Trung du và miền núi Bắc Bộ hiện nay phát triển công nghiệp điện tử chủ yếu do",
+    "image": null,
+    "options": [
+      "nâng cao trình độ lao động, thu hút đầu tư, phát triển cơ sở hạ tầng.",
+      "thúc đẩy hội nhập toàn cầu, đa dạng cơ cấu kinh tế, mở rộng đô thị.",
+      "mở rộng hợp tác quốc tế, đào tạo nhân lực, phát huy các nguồn lực.",
+      "xây dựng cơ sở vật chất kĩ thuật, khai thác tiềm năng, nâng dân trí."
+    ],
+    "correct": 0,
+    "explanation": "Phát triển công nghiệp điện tử nhờ nâng cao trình độ lao động, thu hút đầu tư và phát triển cơ sở hạ tầng.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Trong việc phát triển du lịch biển đảo ở nước ta hiện nay cần chú ý đến",
+    "image": null,
+    "options": [
+      "phát triển đồng đều ở tất cả các vùng.",
+      "bảo vệ môi trường và các hệ sinh thái.",
+      "tập trung chủ yếu vào du lịch tắm biển.",
+      "xây dựng khu nghỉ dưỡng cao cấp."
+    ],
+    "correct": 1,
+    "explanation": "Cần chú ý bảo vệ môi trường và hệ sinh thái để phát triển du lịch biển đảo bền vững.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Gió mùa mùa hạ thổi vào vùng khí hậu Tây Bắc Bộ thổi theo hướng",
+    "image": null,
+    "options": [
+      "tây và tây nam.",
+      "bắc và đông bắc.",
+      "đông và đông nam.",
+      "bắc và tây bắc."
+    ],
+    "correct": 0,
+    "explanation": "Theo bản đồ khí hậu, gió mùa mùa hạ thổi vào Tây Bắc Bộ theo hướng tây và tây nam.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Vùng khí hậu nào sau đây có mưa nhiều vào mùa thu – đông?",
+    "image": null,
+    "options": [
+      "Vùng khí hậu Đông Bắc Bộ và vùng khí hậu Đồng bằng Bắc Bộ.",
+      "Vùng khí hậu Bắc Trung Bộ và vùng khí hậu Nam Trung Bộ.",
+      "Vùng khí hậu Tây Nguyên và vùng khí hậu Nam Bộ.",
+      "Vùng khí hậu Nam Trung Bộ và vùng khí hậu Nam Bộ."
+    ],
+    "correct": 1,
+    "explanation": "Bắc Trung Bộ và Nam Trung Bộ có mưa tập trung vào mùa thu – đông.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Chế độ nhiệt nước ta có sự phân hóa đa dạng do tác động chủ yếu của",
+    "image": null,
+    "options": [
+      "gió Tín phong, độ cao của địa hình, vị trí địa lí, Mặt Trời lên thiên đỉnh.",
+      "lãnh thổ kéo dài, gió mùa, địa hình, chuyển động biểu kiến của Mặt Trời.",
+      "gió mùa Đông Bắc, thời gian Mặt Trời lên thiên đỉnh, địa hình, vị trí địa lí.",
+      "gió đông bắc, lãnh thổ kéo dài, địa hình, thời gian Mặt Trời lên thiên đỉnh."
+    ],
+    "correct": 1,
+    "explanation": "Phân hóa chế độ nhiệt do lãnh thổ kéo dài, gió mùa, địa hình và chuyển động biểu kiến của Mặt Trời.",
+    "passage": null
+  }
+]
