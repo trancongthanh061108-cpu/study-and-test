@@ -63,7 +63,6 @@ const EXAM_FILES = {
     "hsa_kh_35": "data/tonghop/deall35.json",
     "hsa_kh_d": "data/tonghop/ded924.json",
     "hsa_kh_h": "data/tonghop/deh924.json",
-    "hsa_kh_l": "data/tonghop/del924.json",
     "hsa_kh_s": "data/tonghop/des924.json",
     "hsa_kh_sh": "data/tonghop/desh924.json",
   
