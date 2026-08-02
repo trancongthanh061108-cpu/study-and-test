@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 201,
     "question": "Câu 201: Xét hệ cân bằng: 2NO2 (g, nâu đỏ) ⇌ N2O4 (g, không màu). Dưới đây là bảng dữ liệu thực nghiệm về nồng độ các khí trước và sau khi hệ đạt trạng thái cân bằng ở 25oC: Cho các phát biểu sau: 1) Sau thí nghiệm 1, nồng độ NO2 tăng lên, nồng độ N2O4 giảm xuống. 2) Sau thí nghiệm 5, màu hỗn hợp khí chuyển từ nâu đỏ sang không màu. 3) Nồng độ NO2 ở trạng thái cân bằng nhỏ hơn nồng độ NO2 ban đầu trong cả 5 thí nghiệm. 4) Nồng độ N2O4 ở trạng thái cân bằng lớn hơn nồng độ N2O4 ban đầu trong cả 5 thí nghiệm. 5) Giá trị  N 2 O 4  trong cả 5 thí nghiệm đều bằng 214,9.  NO 2  2 Số phát biểu sai là",
     "options": [
@@ -872,4 +873,4 @@
     "explanation": "- Khu vực Đông Nam Á có dân số tập trung đông chủ yếu do các điều kiện tự nhiên thuận lợi và nguồn tài nguyên phong phú, đa dạng. + Địa hình: Đông Nam Á có nhiều đồng bằng màu mỡ và các khu vực ven biển, tạo điều kiện thuận lợi cho nông nghiệp và sinh sống. Các con sông lớn như sông Mekong, sông Chao Phraya và sông Hồng cung cấp nước tưới tiêu và giao thông vận tải. + Khí hậu nhiệt đới ẩm gió mùa với nền nhiệt, ẩm cao: khí hậu nhiệt đới ẩm ở Đông Nam Á với lượng mưa lớn tạo điều kiện tốt cho canh tác nông nghiệp, đặc biệt là trồng lúa nước, một loại cây trồng cần nhiều nước và là nguồn lương thực chính của người dân trong khu vực. + Nguồn tài nguyên phong phú: khu vực này có nhiều tài nguyên thiên nhiên, bao gồm dầu mỏ, khí đốt, khoáng sản và rừng, góp phần thu hút dân cư đến sinh sống và làm việc. - Ngoài ra, khu vực này có sự phát triển lâu dài với các nền văn minh cổ đại, giao thoa của các luồng di cư và quá trình đô thị hóa cũng làm cho khu vực này có dân số tăng trong thời kỳ. -----------",
     "passage": "ban_do_dna"
   }
-];
+]
