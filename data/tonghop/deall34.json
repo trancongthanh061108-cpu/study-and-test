@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 101,
     "question": "Câu 101: Một hạt nhân nguyên tử có kí hiệu ¹⁹₁₀X, kết luận nào dưới đây là đúng?",
     "options": ["Hạt nhân này có 10 proton và 9 neutron.", "Hạt nhân này có 9 proton và 10 neutron.", "Hạt nhân này có 10 proton, 9 neutron và 19 electron.", "Hạt nhân này có 9 proton và 10 neutron và 10 electron."],
@@ -678,4 +679,4 @@
     "explanation": "Sự khác nhau về chế độ nhiệt chủ yếu do vị trí địa lí, địa hình, các loại gió và thời gian Mặt Trời lên thiên đỉnh.",
     "passage": "34ban_do_khi_hau_mua_VN"
   }
-];
+]
