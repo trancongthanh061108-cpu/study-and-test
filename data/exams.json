@@ -7,6 +7,125 @@
     "questions": 85
   },
   {
+    "id": "hsa_kh_2",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 2",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_3",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 3",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_4",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 4",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_5",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 5",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_6",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 6",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_7",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 7",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_8",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 8",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_25",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 25",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_27",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 27",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_28",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 28",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_29",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 29",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_30",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 30",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_31",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 31",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_32",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 32",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_33",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 33",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_34",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 34",
+    "time": 100,
+    "questions": 85
+  },
+  {
+    "id": "hsa_kh_35",
+    "type": "Khoa học",
+    "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 35",
+    "time": 100,
+    "questions": 85
+  },
+  {
     "id": "hsa_kh_h",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (HÓA)",
