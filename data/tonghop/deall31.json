@@ -133,7 +133,7 @@
     "options": ["xM = 3i", "xM = 2i", "xM = 3,5i", "xM = 2,5i"],
     "correct": 0,
     "explanation": "Ta có vị trí 2 vân sáng hoặc tối liên tiếp là một khoảng vân. Khi M là vị trí vân sáng bậc 3 thì: xM = 3i.",
-    "passage": null
+    "passage":   "de31_cau115_117"
   },
   {
     "id": 116,
@@ -142,8 +142,7 @@
     "options": ["0,45μm", "0,64μm", "0,72μm", "0,50μm"],
     "correct": 1,
     "explanation": "Khoảng cách giữa 6 vân sáng liên tiếp là 5i = 2,4mm ⇒ i = 0,48mm. Mặt khác: i = λD/a ⇒ λ = i.a/D = (0,48.10^-3 . 1,2.10^-3)/0,9 = 0,64.10^-6 m = 0,64μm.",
-    "passage": "Khoảng năm 1805, thầy thuốc và nhà vật lý người Anh Thomas Young đã thực hiện thí nghiệm về sự lan truyền của ánh sáng. Anh cắt một lỗ nhỏ trên một cửa sổ và bao phủ nó bởi một tấm bìa dày có một lỗ nhỏ ở đó và sử dụng một cái gương để làm lệch hướng chùm tia ánh sáng mảnh xuyên qua đó. Sau đó, anh dùng một thẻ nhỏ dày khoảng 1/13 inch, trên có hai khe nhỏ và đặt nó ở giữa chùm tia để chia chùm tia sáng thành hai luồng ánh sáng. Kết quả thu được trên tường là những vân giao thoa. Hiện tượng quan sát được chỉ có thể được giải thích nếu hai chùm tia sáng đó lan truyền như các sóng. Các dải sáng trên tường là nơi hai đỉnh sóng giao nhau, các dải tối là nơi một đỉnh sóng giao thoa với một bụng sóng. Thí nghiệm của Young đã khẳng định sự lan truyền của ánh sáng như những sóng."
-  },
+    "passage":   "de31_cau115_117"
   {
     "id": 117,
     "question": "Khoảng cách giữa 9 vân sáng liên tiếp là L. Tịnh tiến màn 42 cm theo phương vuông góc với màn tới vị trí mới thì khoảng cách giữa 13 vân sáng liên tiếp cũng là L. Khoảng cách giữa màn và mặt phẳng chứa hai khe lúc đầu là:",
@@ -151,7 +150,7 @@
     "options": ["1,40 m", "1,55 m", "1,26 m", "2,10 m"],
     "correct": 2,
     "explanation": "Khoảng cách giữa 9 vân sáng liên tiếp: L = 8i ⇒ i = L/8. Khoảng cách giữa 13 vân sáng liên tiếp: L = 12i' ⇒ i' = L/12. ⇒ i'/i = 8/12 = 2/3. Khi tịnh tiến màn thì: D' = D - 0,42(m). Khi đó ta có: i'/i = D'/D ⇒ 2/3 = (D - 0,42)/D ⇒ D = 1,26 m.",
-    "passage": null
+    "passage":   "de31_cau115_117"
   },
   {
     "id": 201,
@@ -287,7 +286,7 @@
     "options": ["C6H12O6 > Cu2+ > H2O", "C6H12O6 > H2O > Cu2+", "Cu2+ > H2O > C6H12O6", "H2O > C6H12O6 > Cu2+"],
     "correct": 0,
     "explanation": "Dựa vào thông tin đã cho trong đề bài: Ion đồng (Cu2+) và glucose được hòa tan riêng biệt trong các thể tích nước bằng nhau để tạo thành hai dung dịch. Dung dịch glucose loãng hơn, nghĩa là nó có tỷ lệ phần trăm phân tử nước cao hơn so với dung dịch ion đồng. Biết phân tử nước có kích thước nhỏ nhất. Dung dịch nước và glucose không màu, trong khi dung dịch ion đồng có màu xanh lam. Tuy nhiên, việc trộn glucose và ion đồng lại tạo thành dung dịch màu đỏ. Trong thí nghiệm 1, sau 2 giờ, dung dịch bên trái có màu đỏ và bên phải có màu xanh lam. Điều này chứng tỏ ion Cu2+ có kích thước nhỏ hơn glucose nên có thể đi qua màng. Do đó, kích thước: C6H12O6 > Cu2+ > H2O.",
-    "passage": "Lực trên một đơn vị diện tích được tạo ra do sự ngăn cách các dung dịch có nồng độ khác nhau bởi một màng bán thấm được gọi là áp suất thẩm thấu. Các phân tử, bao gồm cả nước, có xu hướng di chuyển từ vùng có nồng độ cao sang vùng có nồng độ thấp. Màng bán thấm hoạt động như một bộ lọc, chỉ cho phép các phân tử có kích thước dưới một ngưỡng nhất định đi qua. Áp suất thẩm thấu là áp suất cần thiết để ngăn nước di chuyển qua màng này từ vùng có nồng độ nước cao sang vùng có nồng độ nước thấp. Ion đồng (Cu2+) và glucose được hòa tan riêng biệt trong các thể tích nước bằng nhau để tạo thành hai dung dịch. Dung dịch glucose loãng hơn, nghĩa là nó có tỷ lệ phần trăm phân tử nước cao hơn so với dung dịch ion đồng. Biết phân tử nước có kích thước nhỏ nhất. Dung dịch nước và glucose không màu, trong khi dung dịch ion đồng có màu xanh lam. Tuy nhiên, việc trộn glucose và ion đồng lại tạo thành dung dịch màu đỏ. Thí nghiệm 1: Một ống hình chữ U chứa màng bán thấm, ngăn cách ống thành hai bên bằng nhau. Dung dịch glucose được đổ vào bên trái và một thể tích tương tự của dung dịch ion đồng được đổ vào bên phải. Sau 2 giờ, mực nước bên trái giảm và bên phải tăng. Lúc này, dung dịch bên trái có màu đỏ và bên phải có màu xanh lam. Thí nghiệm 2: Một bên chứa dung dịch ion đồng, bên còn lại chứa nước tinh khiết (thể tích bằng nhau). Sau 2 giờ, mực nước bên phải giảm và bên trái tăng. Lúc này, cả hai bên đều có dung dịch màu xanh lam. Thí nghiệm 3: Một bên chứa dung dịch glucose, bên còn lại chứa nước tinh khiết (thể tích bằng nhau). Sau 2 giờ, mực nước bên phải giảm và bên trái tăng. Lúc này, cả hai bên đều có dung dịch không màu."
+    "passage":   "de31_cau215_217"
   },
   {
     "id": 216,
@@ -296,7 +295,7 @@
     "options": ["Thí nghiệm 2: Dung dịch ion đồng; thí nghiệm 3: Nước tinh khiết.", "Thí nghiệm 2: Dung dịch glucose; thí nghiệm 3: Nước tinh khiết.", "Thí nghiệm 2: Dung dịch ion đồng; thí nghiệm 3: Dung dịch glucose", "Thí nghiệm 2: Dung dịch glucose; thí nghiệm 3: Dung dịch ion đồng."],
     "correct": 2,
     "explanation": "Ta thấy ở cả hai thí nghiệm, mực nước bên phải đều giảm, chứng tỏ bên trái có nồng độ dung dịch cao hơn bên phải. Vậy bên trái ống chữ U ở thí nghiệm 2 có dung dịch ion đồng, thí nghiệm 3 là dung dịch glucose.",
-    "passage": null
+    "passage":   "de31_cau215_217"
   },
   {
     "id": 217,
@@ -305,7 +304,7 @@
     "options": ["Phân tử albumin trong lòng trắng trứng có kích thước phân tử lớn hơn glucose nên không đi qua được màng bán thấm.", "Trong thí nghiệm 1 và 2, ta thấy ion Cu2+ chỉ đi xuyên qua được màng bán thấm ngăn cách dung dịch ion Cu2+ với dung dịch nước tinh khiết.", "Độ tan sẽ giảm và một số muối sẽ kết tủa ra khỏi dung dịch. Trong thí nghiệm nào cũng có phân tử nước.", "Giả sử thực hiện thêm một thí nghiệm với nước muối loãng với nước tinh khiết, phân tử nước sẽ di chuyển từ dung dịch nước tinh khiết sang nước muối loãng."],
     "correct": 1,
     "explanation": "Nhận định B sai. Trong thí nghiệm 1 và 2 ion Cu2+ đi xuyên qua được màng bán thấm ngăn cách dung dịch của ion Cu2+ với dung dịch glucose và nước tinh khiết vì đều thấy có sự pha trộn màu ở thí nghiệm 1 và 2.",
-    "passage": null
+    "passage":   "de31_cau215_217"
   },
   {
     "id": 301,
@@ -441,7 +440,7 @@
     "options": ["Kích thước trung bình của quần thể.", "Kích thước tối thiểu của quần thể.", "Mật độ của quần thể.", "Kích thước tối đa của quần thể."],
     "correct": 3,
     "explanation": "Kích thước tối đa của quần thể là giới hạn lớn nhất về số lượng cá thể mà quần thể có thể đạt được, phù hợp với khả năng cung cấp nguồn sống của môi trường. Ở hồ 2, các nhà nghiên cứu nhận thấy quần thể cá trẻ đang tiệm cận đến giới hạn lớn nhất về số lượng cá thể mà quần thể có thể đạt được. Giới hạn này là kích thước tối đa của quần thể cá trẻ.",
-    "passage": "Để đánh giá tiềm năng khai thác quần thể cá trẻ ở 3 hồ nước ngọt có điều kiện tự nhiên tương đương nhau, người ta đã sử dụng cùng một cách đánh bắt, ở cùng một thời điểm rồi phân loại số cá bắt được theo nhóm tuổi (tính theo tỷ lệ %). Biết rằng, tuổi thành thục sinh sản của cá trẻ là 12 - 15 tháng và số lượng cá đánh bắt ở 3 hồ trong nghiên cứu đảm bảo tin cậy về thống kê. Kết quả điều tra được trình bày ở bảng dưới đây. Tuổi (tháng): 1-3, 4-6, 7-9, 10-12, 13-15, 16-18, 19-21, 22-24, 25-27, 28-30. Hồ 1: 17,0; 25,7; 32,4; 14,6; 7,1; 3,2; -; -; -; -. Hồ 2: 2,1; 2,7; 5,0; 11,2; 14,5; 18,4; 21,2; 16,9; 5,2; 2,8. Hồ 3: 5,2; 8,1; 9,6; 19,1; 24,7; 14,0; 13,3; 3,5; 2,5; -."
+    "passage":   "de31_cau315_317"
   },
   {
     "id": 316,
@@ -450,7 +449,7 @@
     "options": ["chưa hết tiềm năng.", "quá mức.", "vừa phải ở mức cân bằng.", "cần khai thác thêm."],
     "correct": 1,
     "explanation": "Kết quả đánh bắt được ở hồ 1 chủ yếu là cá nhỏ (1-12 tháng tuổi) chứng tỏ hồ 1 đang bị khai thác quá mức, nếu tiếp tục giữ nguyên tình trạng này thì quần thể cá sẽ cạn kiệt, không còn cá trong quần thể nữa.",
-    "passage": null
+    "passage":   "de31_cau315_317"
   },
   {
     "id": 317,
@@ -459,7 +458,7 @@
     "options": ["1", "2", "3", "4"],
     "correct": 1,
     "explanation": "1. Sai (vì quần thể cá trẻ ở hồ 2 có dạng tháp suy thoái khi tỷ lệ trước sinh sản và đang sinh sản thấp). 2. Đúng (vì hồ 2 chủ yếu là cá sau sinh sản chứng tỏ hồ 2 có tình trạng nuôi cá và để quá mức. Tỉ lệ cá già quá cao làm kích thước của quần thể đã tiệm cận với sức chứa của môi trường nên tăng sản lượng khai thác lên làm kích thước quần thể giảm, nguồn sống phong phú hơn, kích thích sinh sản, làm tăng tỉ lệ nhóm tuổi 1-9). 3. Đúng (vì hồ 3 có nhóm tuổi sinh sản chiếm khoảng 71%, chủ yếu cá tập trung ở tuổi sinh sản nên đây là hồ có tiềm năng cao nhất, có sức phát triển cao nhất. Chứng tỏ con người khai thác tối ưu nhất, duy trì sự được phát triển của hồ 3). 4. Sai (vì hồ 1 đang khai thác quá mức - chủ yếu khai thác cá nhỏ (1-12 tháng tuổi) nên dừng khai thác hồ 1 trong thời gian ít nhất 1 năm để cá nhỏ kịp lớn lên và sinh sản).",
-    "passage": null
+    "passage":   "de31_cau315_317"
   },
   {
     "id": 401,
@@ -567,7 +566,7 @@
     "options": ["Năm 1911", "Năm 1913", "Năm 1915", "Năm 1920"],
     "correct": 3,
     "explanation": "Năm 1920, sau khi đọc được 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa' của Lênin, Nguyễn Ái Quốc đã tìm thấy con đường cứu nước.",
-    "passage": null
+    "passage": "de31_cau412_414"
   },
   {
     "id": 413,
@@ -576,7 +575,7 @@
     "options": ["Là mốc đánh dấu dân tộc Việt Nam đã thoát khỏi thân phận nô lệ.", "Giúp Người tìm ra con đường cứu nước mới cho dân tộc Việt Nam.", "Đưa Người từ một nhà yêu nước trở thành một chiến sĩ cộng sản.", "Bước đầu đưa Người đến với con đường cách mạng dân chủ tư sản."],
     "correct": 1,
     "explanation": "Quan sát đoạn tư liệu, ta thấy khi đọc và nghiên cứu bản Luận cương của Lê-nin, Nguyễn Ái Quốc đã tìm thấy ở đó con đường giải phóng dân tộc, và Người đã thốt lên: 'Hỡi đồng bào bị đọa đày đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!'. Như vậy, sự kiện Nguyễn Ái Quốc đọc Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lê-nin (1920) có ý nghĩa giúp Người tìm ra con đường cứu nước mới cho dân tộc Việt Nam.",
-    "passage": null
+    "passage": "de31_cau412_414"
   },
   {
     "id": 414,
@@ -585,7 +584,7 @@
     "options": ["Đánh dấu mốc chấm dứt cuộc khủng hoảng về đường lối cứu nước.", "Mở đường cho việc giải quyết sự khủng hoảng về đường lối cứu nước.", "Đánh dấu lịch sử Việt Nam lựa chọn con đường cách mạng vô sản.", "Chứng tỏ sự thất bại của khuynh hướng tư sản trong phong trào yêu nước."],
     "correct": 1,
     "explanation": "Việc Nguyễn Ái Quốc xác định con đường cứu nước mới cho dân tộc (1920) đã mở đường cho việc giải quyết sự khủng hoảng về đường lối cứu nước ở Việt Nam. Khi các khuynh hướng cứu nước phong kiến và dân chủ tư sản đều thất bại, sự xuất hiện của khuynh hướng cách mạng vô sản sẽ tạo ra hi vọng mới cho cách mạng. Và thực tiễn đã chứng minh khuynh hướng cứu nước này là hoàn toàn phù hợp và đúng đắn.",
-    "passage": "Ngày 16 và 17/7/1920, báo Nhân đạo (L'Humanite) của Đảng Xã hội Pháp đăng toàn văn 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa' của Lênin. Người đọc, nghiên cứu bản Luận cương và Người đã tìm thấy ở đó con đường giải phóng dân tộc. Người đã thốt lên: 'Hỡi đồng bào bị đọa đày đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!'."
+    "passage":"de31_cau412_414" 
   },
   {
     "id": 415,
@@ -594,7 +593,7 @@
     "options": ["Năm 1957", "Năm 1959", "Năm 1961", "Năm 1963"],
     "correct": 1,
     "explanation": "Dựa vào thông tin đoạn 1 cho thấy: Tháng 1-1959, Hiệp ước hữu nghị và kinh tế Đông Nam Á (SAFET) bao gồm Ma-lai-xi-a và Phi-lip-pin ra đời.",
-    "passage": "Trong quá trình tìm kiếm sự hợp tác giữa các nước Đông Nam Á đã xuất hiện những tổ chức khu vực và kí kết các hiệp ước giữa các nước trong khu vực. Tháng 1-1959, Hiệp ước hữu nghị và kinh tế Đông Nam Á (SAFET) bao gồm Ma-lai-xi-a và Phi-lip-pin ra đời. Tháng 7-1961, Hội Đông Nam Á (ASA) gồm Ma-lai-xi-a, Phi-lip-pin và Thái Lan được thành lập. Tháng 8-1963, một tổ chức gồm Ma-lai-xi-a, Phi-lip-pin, In-đô-nê-xi-a (MAPHILINDO) được thành lập. Tuy nhiên, những tổ chức trên đây không tồn tại được lâu do sự bất đồng giữa các nước về vấn đề lãnh thổ và chủ quyền."
+    "passage":   "de31_cau415_417"
   },
   {
     "id": 416,
@@ -603,7 +602,7 @@
     "options": ["Ma-lai-xi-a, Phi-lip-pin, In-đô-nê-xi-a.", "Ma-lai-xi-a, Phi-lip-pin, Mi-an-ma.", "Ma-lai-xi-a, Phi-lip-pin, Thái Lan.", "Ma-lai-xi-a, Phi-lip-pin, Xin-ga-po."],
     "correct": 0,
     "explanation": "Tháng 8-1963, một tổ chức gồm Ma-lai-xi-a, Phi-lip-pin, In-đô-nê-xi-a (MAPHILINDO) được thành lập.",
-    "passage": null
+    "passage":   "de31_cau415_417"
   },
   {
     "id": 417,
@@ -612,7 +611,7 @@
     "options": ["Sự khác biệt về văn hóa.", "Sự cạnh tranh kinh tế.", "Bất đồng về vấn đề lãnh thổ và chủ quyền.", "Áp lực từ các cường quốc bên ngoài."],
     "correct": 2,
     "explanation": "A loại vì Sự khác biệt về văn hóa: Mặc dù sự khác biệt về văn hóa là một yếu tố cần được quan tâm, nhưng nó không phải là nguyên nhân chính dẫn đến thất bại của các tổ chức hợp tác. B loại vì Sự cạnh tranh kinh tế: Cạnh tranh kinh tế là một phần không thể tránh khỏi trong quá trình phát triển, nhưng nó không phải là nguyên nhân gốc rễ của các xung đột. D loại vì áp lực từ các cường quốc bên ngoài: Áp lực từ các cường quốc bên ngoài cũng là một yếu tố ảnh hưởng, nhưng nó thường chỉ là yếu tố gia tăng thêm các căng thẳng vốn đã tồn tại. Bất đồng về vấn đề lãnh thổ và chủ quyền là rào cản lớn nhất đối với sự hợp tác khu vực ở Đông Nam Á. Để xây dựng một cộng đồng hòa bình và ổn định, các quốc gia trong khu vực cần có những nỗ lực không ngừng để giải quyết các tranh chấp một cách hòa bình và tôn trọng luật pháp quốc tế.",
-    "passage": null
+    "passage":   "de31_cau415_417"
   },
   {
     "id": 501,
