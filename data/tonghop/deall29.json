@@ -203,7 +203,7 @@
     ],
     "correct": 0,
     "explanation": "e = Bvl = 0,6·0,2·0,3 = 3,6·10⁻² V.",
-    "passage": null
+    "passage":   "de29_cau115_117"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 2,
     "explanation": "I = e/R = 3,6·10⁻² / 2 = 1,8·10⁻² A.",
-    "passage": null
+    "passage":   "de29_cau115_117"
   },
   {
     "id": 117,
@@ -231,7 +231,7 @@
     ],
     "correct": 3,
     "explanation": "F = BIl = 0,6·1,8·10⁻²·0,3 = 3,24·10⁻⁴ N.",
-    "passage": null
+    "passage":   "de29_cau115_117"
   },
   {
     "id": 201,
@@ -437,7 +437,7 @@
     ],
     "correct": 0,
     "explanation": "ΔrG° luôn dương khi ΔrH° > 0 và ΔrS° < 0.",
-    "passage": null
+    "passage":   "de29_cau215_217"
   },
   {
     "id": 216,
@@ -451,7 +451,7 @@
     ],
     "correct": 1,
     "explanation": "ΔrG° tăng khi T tăng; phản ứng không tự xảy ra khi T > 1059 K.",
-    "passage": null
+    "passage":  "de29_cau215_217"
   },
   {
     "id": 217,
@@ -465,7 +465,7 @@
     ],
     "correct": 3,
     "explanation": "Phản ứng thu nhiệt (ΔrG° giảm khi T tăng) → nhận xét D sai.",
-    "passage": null
+    "passage":  "de29_cau215_217"
   },
   {
     "id": 301,
@@ -671,7 +671,7 @@
     ],
     "correct": 1,
     "explanation": "Thí nghiệm nghiên cứu ảnh hưởng của nhiệt độ.",
-    "passage": null
+    "passage":  "de29_cau315_317"
   },
   {
     "id": 316,
@@ -685,7 +685,7 @@
     ],
     "correct": 0,
     "explanation": "Nhiệt độ tối ưu của cây ôn đới là khoảng 15 - 20°C.",
-    "passage": null
+    "passage": "de29_cau315_317"
   },
   {
     "id": 317,
@@ -699,7 +699,7 @@
     ],
     "correct": 2,
     "explanation": "Khoảng 25 – 35 °C cho tỉ lệ nảy mầm cao và thời gian ngắn.",
-    "passage": null
+    "passage": "de29_cau315_317"
   },
   {
     "id": 401,
@@ -867,7 +867,7 @@
     ],
     "correct": 0,
     "explanation": "Năm 1897 Pháp bắt đầu khai thác thuộc địa.",
-    "passage": null
+    "passage": "de29_cau412_414"
   },
   {
     "id": 413,
@@ -881,7 +881,7 @@
     ],
     "correct": 1,
     "explanation": "Phan Bội Châu và Phan Châu Trinh đại diện khuynh hướng dân chủ tư sản.",
-    "passage": null
+    "passage": "de29_cau412_414"
   },
   {
     "id": 414,
@@ -895,7 +895,7 @@
     ],
     "correct": 1,
     "explanation": "Khuynh hướng cách mạng vô sản sau Cách mạng tháng Mười Nga.",
-    "passage": null
+    "passage": "de29_cau412_414"
   },
   {
     "id": 415,
@@ -909,7 +909,7 @@
     ],
     "correct": 2,
     "explanation": "Trung Quốc trở thành miếng mồi chính cho các nước đế quốc.",
-    "passage": null
+    "passage": "de29_cau415_417"
   },
   {
     "id": 416,
@@ -923,7 +923,7 @@
     ],
     "correct": 0,
     "explanation": "Phương pháp phổ biến là “bế quan tỏa cảng”.",
-    "passage": null
+    "passage": "de29_cau415_417"
   },
   {
     "id": 417,
@@ -937,7 +937,7 @@
     ],
     "correct": 1,
     "explanation": "Thuốc phiện gây nghiện, lợi nhuận lớn, làm bạc trắng chảy ra ngoài.",
-    "passage": null
+    "passage": "de29_cau415_417"
   },
   {
     "id": 501,
