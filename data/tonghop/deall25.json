@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 101,
     "question": "Câu 101: Một tảng băng có phần thể tích chìm trong nước là 80% tổng thể tích. Khối lượng riêng của nước là 1000kg/m3. Tảng băng trôi dưới tác dụng của lực đẩy của nước với độ lớn bằng 0,45% trọng lượng của tảng băng. Tính gia tốc trồi của tảng băng. Lấy g = 10m/s2.",
     "options": [
@@ -1088,4 +1089,4 @@
     "explanation": "- Dựa vào bản đồ ta thấy, Bắc Trung Bộ và duyên hải miền Trung là hai vùng có nhiều khu kinh tế ven biển nhất cả nước. => Việc hình thành các khu kinh tế ven biển ở Bắc Trung Bộ và duyên hải miền Trung chủ yếu nhằm phát triển sản xuất hàng hóa, đẩy mạnh việc xuất khẩu, thu hút đầu tư. - Phát triển sản xuất hàng hóa: tăng cường sản xuất các sản phẩm có giá trị, đáp ứng nhu cầu thị trường trong nước và quốc tế. - Đẩy mạnh xuất khẩu: góp phần cải thiện cán cân thương mại và tăng thu nhập cho người dân trong vùng. - Thu hút đầu tư: tạo môi trường đầu tư hấp dẫn để thu hút các doanh nghiệp trong và ngoài nước, đặc biệt là các doanh nghiệp trong lĩnh vực công nghiệp, dịch vụ. -----------",
     "passage": null
   }
-];
+]
