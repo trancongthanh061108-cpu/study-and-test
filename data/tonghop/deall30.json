@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 101,
     "question": "Câu 101: Đặt một cốc đầy nước lên trên tờ giấy. Tác dụng rất nhanh một lực F theo phương nằm ngang của tờ giấy thì hiện tượng gì sẽ xảy ra với tờ giấy và cốc nước?",
     "options": ["Tờ giấy rời khỏi cốc nước mà nước vẫn không đổ.", "Tờ giấy chuyển động về một hướng, cốc nước chuyển động theo hướng ngược lại.", "Tờ giấy chuyển động và cốc nước chuyển động theo.", "Tờ giấy bị đứt ở chỗ đặt cốc nước."],
@@ -678,4 +679,4 @@
     "explanation": "Sinh vật nhiệt đới chiếm ưu thế chủ yếu do vị trí nội chí tuyến, núi thấp chiếm phần lớn diện tích, và các luồng di cư sinh vật nhiệt đới.",
     "passage": "ban_do_dia_li_VN"
   }
-];
+]
