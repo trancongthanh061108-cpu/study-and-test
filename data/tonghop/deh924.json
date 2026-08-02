@@ -57,16 +57,6 @@
     "passage": null
   },
   {
-    "id": 5,
-    "question": "Hợp chất hữu cơ X là thành phần chính trong tinh dầu cây đinh hương và cây hương nhu. Trên phổ hồng ngoại của X có số sóng hấp thụ ở 3 515 cm-1 nhưng không có số sóng hấp thụ mạnh ở vùng 1 780 -- 1 650 cm-1. Chất nào sau đây có phổ hồng ngoại phù hợp với X?",
-    "image": null,
-    "options": [],
-    "correct": null,
-    "answer": "",
-    "explanation": "X không có số sóng hấp thụ mạnh ở vùng 1 780 -- 1 650 cm-1 ⇒ X không chứa liên kết C = O nên loại đáp án chứa aldehyde, ketone, ester, acid. X có số sóng hấp thụ ở 3 515 cm-1 nên trong phân tử X có nhóm --OH nên chọn đáp án D.",
-    "passage": null
-  },
-  {
     "id": 6,
     "question": "Một nhóm học sinh muốn mạ lớp bạc mỏng lên tấm huy chương X (làm bằng hợp kim bạc). Các bạn đã chuẩn bị các bước thí nghiệm như sau: Bước 1: Chuẩn bị một bình dung dịch chứa 200 mL muối nitrate của kim loại R và thanh hợp kim Sterling (chiếm 92,5% khối lượng bạc và 7,5% khối lượng đồng). Bước 2: Nối tấm huy chương X (nặng 5 gam) vào điện cực A và nối thanh hợp kim Sterling (nặng 10 gam) vào điện cực B, rồi cắm nguồn điện một chiều (với cường độ dòng điện và hiệu điện thế thích hợp) để thực hiện quá trình điện phân dung dịch trong một thời gian. Bước 3: Ngắt dòng điện, tháo lấy huy chương X và hợp kim Sterling ra, rửa sạch bằng nước rồi sấy khô, cân lại thấy khối lượng thu được lần lượt là 5,54 gam và m gam. Đồng thời tấm huy chương X lúc này có một lớp kim loại sáng bóng trên bề mặt. Cho các phát biểu sau: 1) Điện cực A và điện cực B lần lượt là anode và cathode. 2) Ở bước 1, muối nitrate của kim loại R cần chuẩn bị là AgNO3. 3) Giá trị của m nhỏ hơn 10. 4) Kết thúc bước 2, dung dịch lúc sau điện phân chỉ chứa một muối nitrate. Các phát biểu đúng là",
     "image": null,
@@ -2139,16 +2129,6 @@
     ],
     "correct": 2,
     "explanation": "Trong dung dịch, (NH4)2SO4 phân li ra NH4+ và SO42-. Ion NH4+ tiếp tục phân li ra H+ nên dung dịch có tính acid, làm quỳ tím chuyển đỏ.",
-    "passage": null
-  },
-  {
-    "id": 156,
-    "question": "Quần áo tẩy trắng bằng nước Javel thì sau khi giữ bằng nước vẫn còn lưu mùi chlorine. Để khử mùi này, người ta ngâm quần áo với nước có hòa tan một loại tính kiềm yếu và an toàn với da tay là",
-    "image": null,
-    "options": [],
-    "correct": null,
-    "answer": "",
-    "explanation": "Để khử mùi chlorine còn lại trên quần áo sau khi tẩy trắng bằng nước Javel, người ta thường ngâm quần áo trong nước có hòa tan một ít giấm ăn hoặc nước cốt chanh (acid yếu) để trung hòa chlorine dư.",
     "passage": null
   },
   {
