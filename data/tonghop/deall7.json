@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 201,
     "question": "Câu 201: Biết rằng, khi nhiệt độ tăng thêm 10°C, tốc độ của một phản ứng hoá học tăng 4 lần; cho biết tốc độ phản ứng giảm bao nhiêu lần khi nhiệt độ giảm từ 700C xuống 400C.",
     "options": [
@@ -872,4 +873,4 @@
     "explanation": "Vào mùa khô, ở Đồng bằng sông Cửu Long bị xâm nhập mặn nặng nguyên nhân chủ yếu do vùng này có ba mặt tiếp giáp với biển rộng, địa hình thấp và sông ngòi, kênh rạch chằng chịt. - Đồng bằng sông Cửu Long có ba mặt giáp biển, làm cho nước mặn từ biển dễ dàng xâm nhập vào đất liền qua các cửa sông. - Địa hình thấp ở Đồng bằng sông Cửu Long tạo điều kiện cho nước mặn lấn sâu vào đất liền, đặc biệt là vào mùa khô khi mực nước ngọt từ sông Mê Công giảm mạnh. - Hệ thống sông ngòi, kênh rạch chằng chịt ở vùng đồng bằng này không chỉ là đường dẫn nước ngọt mà còn là con đường để nước mặn từ biển xâm nhập vào sâu hơn trong đất liền khi lượng nước ngọt từ thượng nguồn không đủ mạnh để đẩy nước mặn ra vào mùa khô. -----------",
     "passage": "pass_515"
   }
-];
+]
