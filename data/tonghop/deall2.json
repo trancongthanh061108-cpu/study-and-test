@@ -1,4 +1,5 @@
-  {"id":101,"question":"Câu 101: Vận động viên điền kinh bị mất rất nhiều nước... có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể?","options":["2,6l","3,6l","1,6l","4,6l"],"correct":1,"explanation":"Q = 10800×0,8 = 8640 kJ → V = 3,6 l.","passage":null},
+[
+{"id":101,"question":"Câu 101: Vận động viên điền kinh bị mất rất nhiều nước... có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể?","options":["2,6l","3,6l","1,6l","4,6l"],"correct":1,"explanation":"Q = 10800×0,8 = 8640 kJ → V = 3,6 l.","passage":null},
 
   {"id":102,"question":"Câu 102: Với bình xịt khử trùng, khi ta ấn nút, van mở, hiện tượng nào sẽ xảy ra với khí trong bình?","options":["Thể tích khí tăng. Áp suất khí giảm.","Thể tích khí tăng. Áp suất khí tăng.","Thể tích khí giảm. Áp suất khí giảm.","Thể tích khí giảm. Áp suất khí tăng."],"correct":0,"explanation":"Khí thoát ra → thể tích tăng, áp suất giảm.","passage":null},
 
@@ -168,4 +169,4 @@
 
   {"id":517,"question":"Câu 517: Nguyên nhân nào dưới đây làm cho diện tích cam ở các thủ phủ cam giảm xuống đáng kể và chỉ còn lại còn ở một số huyện ở tỉnh Nghệ An?","options":["Chất lượng đất ngày càng suy thoái.","Thị trường đầu ra cho sản phẩm bấp bênh.","Chuyển đổi mục đích sử dụng đất.","Sâu bệnh phá hoại và chất lượng giống kém."],"correct":3,"explanation":"Do sâu bệnh phá hoại và chất lượng giống kém.","passage":"cam_nghe_an"}
 
-];
+]
