@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 201,
     "question": "Câu 201: Phương trình phản ứng xảy ra trong giai đoạn 2 là",
     "options": [
@@ -872,4 +873,4 @@
     "explanation": "120 Các vùng trên lãnh thổ nước ta khác nhau về chế độ nhiệt chủ yếu do tác động của vị trí địa lí, địa hình, các loại gió và thời gian Mặt Trời lên thiên đỉnh. - Ở các vị trí khác nhau trên lãnh thổ sẽ nhận được lượng nhiệt khác nhau và thời gian Mặt Trời lên thiên đỉnh khác nhau. Ví dụ: phần lãnh thổ phía Bắc nằm gần chí tuyến nên nhận được lượng bức xạ nhỏ hơn phần lãnh thổ phía Nam nằm gần với Xích đạo,… - Ở các khu vực địa hình khác nhau nhận được bức xạ khác nhau từ Mặt Trời, ngoài ở một dãy núi với các hướng sườn khác nhau cũng nhận được lượng nhiệt khác nhau (sườn đón nắng và khuất nắng). - Ở phần lãnh thổ phía Bắc chịu tác động của gió mùa Đông Bắc nên có 2-3 tháng nền nhiệt giảm xuống 180C; trong khi phần lãnh thổ phía Nam không chịu ảnh hưởng của gió mùa Đông Bắc nên có nền nhiệt độ cao quanh năm, biên độ nhiệt độ trung bình năm nhỏ,… -----------",
     "passage": null
   }
-];
+]
