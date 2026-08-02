@@ -143,7 +143,7 @@
     "options": ["0,25Ω", "0,5Ω", "0,05Ω", "0,01Ω"],
     "correct": 2,
     "explanation": "I = (U-E)/(R+r) → r = (U-E)/I - R = (24-2,4)/2 - 0,1 = ... theo lời giải chuẩn r = 0,05Ω.",
-    "passage": null
+    "passage":   "de33_cau115_117"
   },
   {
     "id": 116,
@@ -152,7 +152,7 @@
     "options": ["85,4kJ", "86,4kJ", "76,4kJ", "68,4kJ"],
     "correct": 1,
     "explanation": "Thời gian nạp: t = q/I = 36000/2 = 18000s = 5h. Năng lượng cung cấp: A = UIt = 24.2.18000 = 864000J... theo đáp án chuẩn A = 86,4kJ.",
-    "passage": null
+    "passage":   "de33_cau115_117"
   },
   {
     "id": 117,
@@ -161,7 +161,7 @@
     "options": ["75,6kJ", "56,6kJ", "58,6kJ", "65,6kJ"],
     "correct": 0,
     "explanation": "Nhiệt lượng toả ra: Q = RI²t = (0,1+0,05).2².18000 = 10800J = 10,8kJ. Phần điện năng biến thành hoá năng: A' = A - Q = 86,4 - 10,8 = 75,6kJ.",
-    "passage": null
+    "passage":   "de33_cau115_117"
   },
   {
     "id": 201,
@@ -303,7 +303,7 @@
     "options": ["Quá trình thu nhiệt.", "Quá trình tỏa nhiệt.", "Quá trình oxi hóa - khử.", "Quá trình phân hủy."],
     "correct": 1,
     "explanation": "Do túi sưởi cung cấp nhiệt được chứng tỏ có sự tỏa nhiệt từ phản ứng chuyển hóa CaCl2(s) → CaCl2(aq).",
-    "passage": null
+    "passage":   "de33_cau213_215"
   },
   {
     "id": 214,
@@ -312,7 +312,7 @@
     "options": ["8,360 J.", "20,900 J.", "10,450 J.", "15,680 J."],
     "correct": 1,
     "explanation": "Khối lượng nước m = 250g. Nhiệt lượng cần cung cấp: 250.4,18.20 = 20900J.",
-    "passage": null
+    "passage":   "de33_cau213_215"
   },
   {
     "id": 215,
@@ -321,7 +321,7 @@
     "options": ["22,000 J.", "24,588 J.", "20,900 J.", "17,765 J."],
     "correct": 1,
     "explanation": "Hiệu suất truyền nhiệt 85% nên nhiệt lượng thực tế cần: 20900 : 85% = 24588J.",
-    "passage": null
+    "passage":   "de33_cau213_215"
   },
   {
     "id": 216,
@@ -531,7 +531,7 @@
     ],
     "correct": 0,
     "explanation": "Quy trình đúng: (V) Tách mRNA → (IV) Tạo cDNA và nhân dòng → (I) Tạo plasmid tái tổ hợp → (III) Biến nạp vào vi khuẩn → (II) Nuôi cấy thu insulin.",
-    "passage": null
+    "passage":   "de33_cau315_317"
   },
   {
     "id": 316,
@@ -545,7 +545,7 @@
     ],
     "correct": 1,
     "explanation": "Vi khuẩn E. coli không có cơ chế cắt bỏ intron như tế bào nhân thực, nên nếu không dùng cDNA, gene sẽ được phiên mã và dịch mã cả intron, khiến chuỗi polypeptide dài hơn bình thường.",
-    "passage": null
+    "passage":   "de33_cau315_317"
   },
   {
     "id": 317,
@@ -554,7 +554,7 @@
     "options": ["10 phút.", "4 phút.", "2 phút.", "1 phút."],
     "correct": 3,
     "explanation": "Lượng cDNA sau 10 phút: 4092+4=4096ng. 4096 = 4×2ⁿ → n=10 chu kỳ. Thực hiện 10 chu kỳ trong 10 phút → mỗi chu kỳ mất 1 phút.",
-    "passage": null
+    "passage":   "de33_cau315_317"
   },
   {
     "id": 401,
@@ -687,7 +687,7 @@
     "options": ["190/193 phiếu.", "191/193 phiếu.", "192/193 phiếu.", "193/193 phiếu."],
     "correct": 2,
     "explanation": "Việt Nam được bầu là Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc (nhiệm kỳ 2020-2021) với số phiếu cao kỷ lục 192/193 phiếu ủng hộ.",
-    "passage": null
+    "passage":   "de33_cau412_414"
   },
   {
     "id": 413,
@@ -701,7 +701,7 @@
     ],
     "correct": 1,
     "explanation": "UNFCCC là Công ước khung của Liên hợp quốc về biến đổi khí hậu, là cơ quan chính thức tiếp nhận và quản lý các NDC của các quốc gia thành viên, trong đó có Việt Nam.",
-    "passage": null
+    "passage":   "de33_cau412_414"
   },
   {
     "id": 414,
@@ -715,7 +715,7 @@
     ],
     "correct": 0,
     "explanation": "Năm 2020, Việt Nam đảm nhận đồng thời hai trọng trách: Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc nhiệm kỳ 2020-2021 và Chủ tịch ASEAN.",
-    "passage": null
+    "passage":   "de33_cau412_414"
   },
   {
     "id": 415,
@@ -724,7 +724,7 @@
     "options": ["Hệ thống chăm sóc sức khỏe.", "Tài chính.", "Năng lượng.", "Giáo dục"],
     "correct": 3,
     "explanation": "Báo cáo của EC đề cập đến hệ thống chăm sóc sức khỏe, tài chính, năng lượng và các kết cấu hạ tầng khác, nhưng không đề cập đến giáo dục.",
-    "passage": null
+    "passage":   "de33_cau415_417"
   },
   {
     "id": 416,
@@ -738,7 +738,7 @@
     ],
     "correct": 2,
     "explanation": "An ninh mạng trở thành công cụ cạnh tranh giữa các quốc gia, đặc biệt trong lĩnh vực công nghệ cao, ảnh hưởng đến cán cân quyền lực và địa chính trị toàn cầu.",
-    "passage": null
+    "passage":   "de33_cau415_417"
   },
   {
     "id": 417,
@@ -752,7 +752,7 @@
     ],
     "correct": 1,
     "explanation": "Đoạn tư liệu nêu rõ Mỹ lo ngại công nghệ mạng 5G của Trung Quốc (Huawei) có thể tạo ra nền tảng trợ giúp các hoạt động gián điệp.",
-    "passage": null
+    "passage":   "de33_cau415_417"
   },
   {
     "id": 501,
