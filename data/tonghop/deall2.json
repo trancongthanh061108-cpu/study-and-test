@@ -207,7 +207,7 @@
     ],
     "correct": 2,
     "explanation": "50 quả cam, giá bán 1 quả là 70.000 = 70.000*50 = 3.500.000 (đồng).",
-    "passage": null
+    "passage":   "de2_515_517"
   },
   {
     "id": 516,
@@ -221,7 +221,7 @@
     ],
     "correct": 0,
     "explanation": "Số diện tích còn lại là 1800 ha, năng suất đạt 25 tấn/ha. Áp dụng công thức: năng suất = sản lượng/diện tích ⇒ sản lượng = năng suất * diện tích = 25 * 1800 = 45.000 (tấn).",
-    "passage": null
+    "passage":   "de2_515_517"
   },
   {
     "id": 517,
@@ -235,7 +235,7 @@
     ],
     "correct": 3,
     "explanation": "Thủ phủ cam Quỳ Hợp và một số vùng cam lớn ở các huyện Nghĩa Đàn, Con Cuông, Tân Kỳ… những năm trước là vựa cam lớn của tỉnh Nghệ An nhưng nay đã bị chặt bỏ, diện tích còn lại không nhiều do sâu bệnh phá hoại và chất lượng giống kém.",
-    "passage": null
+    "passage":   "de2_515_517"
   },
   {
     "id": 201,
