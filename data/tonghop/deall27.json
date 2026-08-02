@@ -143,7 +143,7 @@
     "options": ["1000/3 (N)", "1000(N)", "10/3(N)", "1003(N)"],
     "correct": 0,
     "explanation": "Áp dụng biểu thức tính công suất P = Fv. Khi vật chuyển động trên mặt đường nằm ngang: F = Fms = P/v = 5000/15 = 1000/3 (N).",
-    "passage": "Dựa vào thông tin sau để trả lời các câu hỏi từ câu 115 đến câu 117: Một ô tô khối lượng 1 tấn đang hoạt động với công suất 5 kW và chuyển động thẳng đều với vận tốc 54km/h thì lên dốc. Hỏi động cơ ô tô phải hoạt động với công suất bằng bao nhiêu để có thể lên dốc với tốc độ như cũ? Hệ số ma sát giữa bánh xe và mặt đường không đổi, dốc nghiêng góc 2,3° so với mặt đường nằm ngang và g = 10m/s²."
+    "passage":   "de27_cau115_117"
   },
   {
     "id": 116,
@@ -152,7 +152,7 @@
     "options": ["1/30", "1/3", "2/3", "1/10"],
     "correct": 0,
     "explanation": "Áp dụng biểu thức tính công suất P = Fv và công thức lực ma sát Fms = μN. Hệ số ma sát: μ = Fms/N = 1000/(3.10000) = 1/30.",
-    "passage": "Dựa vào thông tin sau để trả lời các câu hỏi từ câu 115 đến câu 117: Một ô tô khối lượng 1 tấn đang hoạt động với công suất 5 kW và chuyển động thẳng đều với vận tốc 54km/h thì lên dốc. Hỏi động cơ ô tô phải hoạt động với công suất bằng bao nhiêu để có thể lên dốc với tốc độ như cũ? Hệ số ma sát giữa bánh xe và mặt đường không đổi, dốc nghiêng góc 2,3° so với mặt đường nằm ngang và g = 10m/s²."
+    "passage":   "de27_cau115_117"
   },
   {
     "id": 117,
@@ -161,7 +161,7 @@
     "options": ["1059W", "1095W", "11015,7W", "10335W"],
     "correct": 2,
     "explanation": "Áp dụng biểu thức P = Fv và Fms = μN. Khi lên dốc: F' = mg.sinα + μmg.cosα = 1000.10.sin(2,3°) + (1/30).1000.10.cos(2,3°) = 734,38N. Công suất khi lên dốc: P' = F'.v = 11015,7W.",
-    "passage": "Dựa vào thông tin sau để trả lời các câu hỏi từ câu 115 đến câu 117: Một ô tô khối lượng 1 tấn đang hoạt động với công suất 5 kW và chuyển động thẳng đều với vận tốc 54km/h thì lên dốc. Hỏi động cơ ô tô phải hoạt động với công suất bằng bao nhiêu để có thể lên dốc với tốc độ như cũ? Hệ số ma sát giữa bánh xe và mặt đường không đổi, dốc nghiêng góc 2,3° so với mặt đường nằm ngang và g = 10m/s²."
+    "passage":   "de27_cau115_117"
   },
   {
     "id": 201,
@@ -243,7 +243,7 @@
     ],
     "correct": 2,
     "explanation": "Trong bình điện phân, các anion di chuyển về điện cực trái dấu là điện cực dương (anode), không phải cathode. Vậy nhận định C sai.",
-    "passage": "Dựa vào thông tin sau đây và trả lời các câu hỏi từ câu 208 đến câu 210: Sự điện phân là quá trình oxi hóa – khử xảy ra tại bề mặt các điện cực khi có dòng điện một chiều di chuyển qua chất điện li nóng chảy hoặc dung dịch chất điện li. Anode là nơi xảy ra bán phản ứng oxi hóa, nối với cực dương của nguồn điện một chiều. Cathode là nơi xảy ra bán phản ứng khử, nối với cực âm của nguồn điện một chiều. Thực hiện điện phân với sơ đồ: bình 1 chứa Zn(NO3)2 1M, bình 2 chứa AgNO3 1M, bình 3 chứa Al(NO3)3 1M, mắc nối tiếp bằng điện cực Pt. Sau một thời gian, khối lượng cathode của bình 2 tăng 3,24 gam. Số điện tử truyền dẫn trong hệ là như nhau."
+    "passage":   "de27_cau208_210"
   },
   {
     "id": 209,
@@ -252,7 +252,7 @@
     "options": ["0,975 gam.", "1,95 gam.", "3,5 gam.", "2,1 gam."],
     "correct": 0,
     "explanation": "Tại bình 2: khối lượng cathode tăng 3,24 gam là khối lượng Ag tạo ra. n(Ag) = 0,03mol. Ag⁺ + 1e → Ag ⇒ n(e) = 0,03mol. Vì số điện tử truyền qua các bình là giống nhau nên n(e) nhận ở bình 1 cũng là 0,03mol. Zn²⁺ + 2e → Zn ⇒ n(Zn) = 0,015mol ⇒ m(Zn) = 0,975g.",
-    "passage": "Dựa vào thông tin sau đây và trả lời các câu hỏi từ câu 208 đến câu 210: Sự điện phân là quá trình oxi hóa – khử xảy ra tại bề mặt các điện cực khi có dòng điện một chiều di chuyển qua chất điện li nóng chảy hoặc dung dịch chất điện li. Anode là nơi xảy ra bán phản ứng oxi hóa, nối với cực dương của nguồn điện một chiều. Cathode là nơi xảy ra bán phản ứng khử, nối với cực âm của nguồn điện một chiều. Thực hiện điện phân với sơ đồ: bình 1 chứa Zn(NO3)2 1M, bình 2 chứa AgNO3 1M, bình 3 chứa Al(NO3)3 1M, mắc nối tiếp bằng điện cực Pt. Sau một thời gian, khối lượng cathode của bình 2 tăng 3,24 gam. Số điện tử truyền dẫn trong hệ là như nhau."
+    "passage":   "de27_cau208_210"
   },
   {
     "id": 210,
@@ -261,7 +261,7 @@
     "options": ["pH tăng do sinh ra OH⁻ ở anode.", "pH giảm do sinh ra H⁺ ở anode.", "pH không đổi do không sinh ra H⁺ hay OH⁻.", "pH không đổi do sinh ra một lượng H⁺ hay OH⁻ bằng nhau."],
     "correct": 3,
     "explanation": "Quá trình điện phân Al(NO3)3: tại cathode nước bị khử: 2H2O + 2e → H2 + 2OH⁻ (0,03mol e); tại anode nước bị oxi hóa: 2H2O → O2 + 4H⁺ + 4e (0,03mol e). Vậy pH của dung dịch không đổi vì sinh ra một lượng H⁺ hay OH⁻ bằng nhau.",
-    "passage": "Dựa vào thông tin sau đây và trả lời các câu hỏi từ câu 208 đến câu 210: Sự điện phân là quá trình oxi hóa – khử xảy ra tại bề mặt các điện cực khi có dòng điện một chiều di chuyển qua chất điện li nóng chảy hoặc dung dịch chất điện li. Anode là nơi xảy ra bán phản ứng oxi hóa, nối với cực dương của nguồn điện một chiều. Cathode là nơi xảy ra bán phản ứng khử, nối với cực âm của nguồn điện một chiều. Thực hiện điện phân với sơ đồ: bình 1 chứa Zn(NO3)2 1M, bình 2 chứa AgNO3 1M, bình 3 chứa Al(NO3)3 1M, mắc nối tiếp bằng điện cực Pt. Sau một thời gian, khối lượng cathode của bình 2 tăng 3,24 gam. Số điện tử truyền dẫn trong hệ là như nhau."
+    "passage":   "de27_cau208_210"
   },
   {
     "id": 211,
@@ -506,7 +506,7 @@
     "options": ["Enzyme pepsin.", "Acid clohydric.", "Protein.", "Chuỗi polypeptide ngắn."],
     "correct": 1,
     "explanation": "Theo đoạn văn: acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn. Đáp án đúng là B.",
-    "passage": "Dựa vào thông tin dưới đây để trả lời các câu hỏi từ câu 315 đến câu 317: Thức ăn trong dạ dày của người được tiêu hóa cơ học nhờ sự co bóp của các cơ dạ dày và tiêu hóa hóa học nhờ dịch vị. Dịch vị gồm 2 thành phần chính bao gồm acid clohydric (HCl) và enzyme pepsin. Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn. Chức năng chính của acid này trong dịch vị là phá vỡ các liên kết ngoại bào có trong thức ăn thịt và thực vật và làm biến tính protein. Nhờ đó, enzyme pepsin có thể tiếp xúc với các liên kết peptide và phân cắt protein thành các polypeptide nhỏ hơn. Khác với nhiều enzyme khác, pepsin hoạt động tốt nhất trong môi trường có tính acid mạnh. Quá trình các chuỗi polypeptide ngắn được phân giải thành từng amino acid và hấp thụ vào cơ thể diễn ra ở ruột non."
+    "passage":   "de27_cau315_317"
   },
   {
     "id": 316,
@@ -520,7 +520,7 @@
     ],
     "correct": 2,
     "explanation": "Tiêu hóa thức ăn ở dạ dày gồm tiêu hóa cơ học (nghiền nát thức ăn) và tiêu hóa hóa học nhờ dịch vị (acid clohydric phá vỡ liên kết, làm biến tính protein; pepsin tiêu hóa protein thành các chuỗi polypeptide ngắn). Chức năng chính là nghiền nát thức ăn và tiêu hóa protein. A sai vì hấp thụ amino acid xảy ra ở ruột non. B, D là chức năng của thành phần riêng lẻ, không phải chức năng chung.",
-    "passage": "Dựa vào thông tin dưới đây để trả lời các câu hỏi từ câu 315 đến câu 317: Thức ăn trong dạ dày của người được tiêu hóa cơ học nhờ sự co bóp của các cơ dạ dày và tiêu hóa hóa học nhờ dịch vị. Dịch vị gồm 2 thành phần chính bao gồm acid clohydric (HCl) và enzyme pepsin. Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn. Chức năng chính của acid này trong dịch vị là phá vỡ các liên kết ngoại bào có trong thức ăn thịt và thực vật và làm biến tính protein. Nhờ đó, enzyme pepsin có thể tiếp xúc với các liên kết peptide và phân cắt protein thành các polypeptide nhỏ hơn. Khác với nhiều enzyme khác, pepsin hoạt động tốt nhất trong môi trường có tính acid mạnh. Quá trình các chuỗi polypeptide ngắn được phân giải thành từng amino acid và hấp thụ vào cơ thể diễn ra ở ruột non."
+    "passage":   "de27_cau315_317"
   },
   {
     "id": 317,
@@ -529,7 +529,7 @@
     "options": ["Thiếu chất đạm.", "Thiếu chất bột đường.", "Thiếu vitamin A.", "Thiếu máu do thiếu sắt."],
     "correct": 0,
     "explanation": "Pepsin có vai trò chính trong tiêu hóa protein ở dạ dày. Nếu đột biến làm pepsinogen không thể chuyển hóa thành pepsin, quá trình tiêu hóa protein bị ảnh hưởng nghiêm trọng, khiến quá trình hấp thu chất đạm giảm hiệu quả, gây ra thiếu chất đạm. Các chất bột đường, vitamin A, sắt không được tiêu hóa bởi pepsin nên không bị ảnh hưởng.",
-    "passage": "Dựa vào thông tin dưới đây để trả lời các câu hỏi từ câu 315 đến câu 317: Thức ăn trong dạ dày của người được tiêu hóa cơ học nhờ sự co bóp của các cơ dạ dày và tiêu hóa hóa học nhờ dịch vị. Dịch vị gồm 2 thành phần chính bao gồm acid clohydric (HCl) và enzyme pepsin. Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn. Chức năng chính của acid này trong dịch vị là phá vỡ các liên kết ngoại bào có trong thức ăn thịt và thực vật và làm biến tính protein. Nhờ đó, enzyme pepsin có thể tiếp xúc với các liên kết peptide và phân cắt protein thành các polypeptide nhỏ hơn. Khác với nhiều enzyme khác, pepsin hoạt động tốt nhất trong môi trường có tính acid mạnh. Quá trình các chuỗi polypeptide ngắn được phân giải thành từng amino acid và hấp thụ vào cơ thể diễn ra ở ruột non."
+    "passage":   "de27_cau315_317"
   },
   {
     "id": 401,
