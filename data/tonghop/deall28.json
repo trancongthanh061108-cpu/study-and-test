@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": 101,
     "question": "Câu 101: Hình bên mô tả cấu trúc bên trong của một cánh tay người đang giữ một quả cầu sắt. Búi cơ cung cấp một lực hướng lên. Lực của búi cơ có tác dụng làm cẳng tay quay ngược chiều kim đồng hồ quanh trục quay là khớp khuỷu tay. Tay sẽ giữ được quả cầu nếu moment của lực tác dụng bởi búi cơ bằng với moment lực gây ra bởi trọng lượng của quả cầu đối với khớp khuỷu tay. Biết trọng lượng của quả cầu là 40N. Độ lớn của lực sinh ra bởi búi cơ là:",
     "options": ["350N.", "437,5N.", "400N.", "100N."],
@@ -678,4 +679,4 @@
     "explanation": "Do có nguồn nguyên liệu phong phú và thị trường tiêu thụ lớn.",
     "passage": "passage_dl_515_517"
   }
-];
+]
