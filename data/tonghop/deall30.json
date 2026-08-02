@@ -148,7 +148,7 @@
     "options": ["0,2g/s.", "0,09g/s.", "0,15g/s.", "0,12g/s."],
     "correct": 1,
     "explanation": "Trạng thái 1: T1=273K, p1=760mmHg. Trạng thái 2: T2=297K, p2=765mmHg, V2=8l. Áp dụng phương trình trạng thái: V1 = T1.p2.V2/(T2.p1) = 7,4l. m = D.V = 1,43.7,4 = 10,582g. Khối lượng bơm vào mỗi giây: n = m/t = 10,582/120 ≈ 0,09g/s.",
-    "passage": null
+    "passage":   "de30_cau115_117"
   },
   {
     "id": 116,
@@ -157,7 +157,7 @@
     "options": ["3,5h.", "5h.", "6,7h.", "4,6h."],
     "correct": 2,
     "explanation": "Thể tích khí Oxy: VO2 = 8.150 = 1200l. Thời gian sử dụng liên tục với lưu lượng 3l/phút: t = 1200/3 = 400 phút ≈ 6,7h.",
-    "passage": null
+    "passage":   "de30_cau115_117"
   },
   {
     "id": 117,
@@ -166,7 +166,7 @@
     "options": ["chưng cất phân đoạn", "điện phân thủy điện.", "nhiệt phân.", "hấp thụ."],
     "correct": 0,
     "explanation": "Khí oxy trong y tế được sản xuất bằng phương pháp chưng cất phân đoạn.",
-    "passage": null
+    "passage":   "de30_cau115_117"
   },
   {
     "id": 201,
@@ -317,7 +317,7 @@
     ],
     "correct": 2,
     "explanation": "Phương trình điện phân nước muối là: 2NaCl + 2H2O → 2NaOH + H2 + Cl2.",
-    "passage": "Thông thường để xử lý, khử khuẩn nước hồ bơi, người ta sử dụng thiết bị lọc và hóa chất xử lý nước như chlorine. Đây là phương pháp phổ biến, dễ thực hiện và khá hiệu quả. Song nhược điểm của nó là nếu sử dụng quá lượng chlorine cho phép sẽ gây nên các phản ứng ngược, ảnh hưởng đến chất lượng nước và sức khỏe người bơi. Các nhà khoa học đã nghiên cứu và ứng dụng thành công phương pháp điện phân muối ăn để tạo ra nguồn khí clo để xử lý nước bể bơi."
+    "passage":   "de30_cau215_217"
   },
   {
     "id": 216,
@@ -331,7 +331,7 @@
     ],
     "correct": 1,
     "explanation": "Quá trình điện phân muối ăn có sinh ra gốc OH⁻ do nước bị điện phân ở catot nên sẽ làm thay đổi pH của nước.",
-    "passage": null
+    "passage":   "de30_cau215_217"
   },
   {
     "id": 217,
@@ -340,7 +340,7 @@
     "options": ["120,1 gam.", "120,1 kg.", "60,1 gam.", "60,1 kg."],
     "correct": 0,
     "explanation": "mCl2 = 15.4,5.1,8.1000.0,6/1000 = 72,9 gam. nCl2 = 72,9/71 mol. nNaCl = 2nCl2 → mNaCl = 2.(72,9/71).58,5 = 120,1 gam.",
-    "passage": null
+    "passage":   "de30_cau215_217"
   },
   {
     "id": 301,
@@ -496,7 +496,7 @@
     "options": ["Vàng", "Xanh", "Tím", "Hồng"],
     "correct": 1,
     "explanation": "Thuốc thử iot kali iodua (IKI) khi có mặt tinh bột, nó chuyển sang màu xanh đậm.",
-    "passage": "Thuốc thử iot kali iodua (IKI) có thể được sử dụng để phát hiện sự có mặt của tinh bột trong dung dịch. IKI thường có màu vàng nhạt; khi có mặt tinh bột, nó chuyển sang màu xanh đậm. Amylase phá vỡ tinh bột thành maltose. Thí nghiệm kiểm tra hoạt động của amylase ở các độ pH và nhiệt độ khác nhau: pH (3,6,9,12) cho thời gian màu xanh biến mất lần lượt khoảng (10,1,5,30 phút); Nhiệt độ (15,30,37,60°C) cho thời gian biến mất màu xanh lần lượt khoảng (10,5,1, không biến mất - ở 60°C màu không biến mất)."
+    "passage":   "de30_cau315_317"
   },
   {
     "id": 316,
@@ -505,7 +505,7 @@
     "options": ["15°C ; pH 12", "37°C; pH 6", "37°C ; pH 12", "15°C ; pH 6"],
     "correct": 1,
     "explanation": "Vì thời gian cho màu xanh lam biến mất càng lâu thì hoạt tính amylase càng giảm. Nhiệt độ và độ pH tối ưu đối với enzyme trong thí nghiệm là 37°C; pH 6.",
-    "passage": null
+    "passage": "de30_cau315_317"
   },
   {
     "id": 317,
@@ -514,7 +514,7 @@
     "options": ["15°C", "30°C", "37°C", "60°C"],
     "correct": 3,
     "explanation": "Ở nhiệt độ 60°C, màu xanh không biến mất, tức là tinh bột không bị phân hủy thành maltose, cho thấy enzyme amylase có thể bị biến tính dẫn đến không còn chức năng.",
-    "passage": null
+    "passage": "de30_cau315_317"
   },
   {
     "id": 401,
@@ -667,7 +667,7 @@
     "options": ["11 thành viên.", "12 thành viên.", "13 thành viên.", "14 thành viên."],
     "correct": 2,
     "explanation": "Vào ngày này năm 1949, Hoa Kỳ cùng 11 quốc gia khác thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), tổng cộng 12 quốc gia thành viên (Đề gốc ghi đáp án C - 13 thành viên).",
-    "passage": "Vào ngày này năm 1949, Hoa Kỳ cùng 11 quốc gia khác thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), một hiệp ước phòng thủ chung nhằm kiềm chế sự bành trướng của Liên Xô sang Tây Âu. Quan hệ giữa Mỹ và Liên Xô bắt đầu xấu đi nhanh chóng trong năm 1948. Tháng 1 năm 1949, Tổng thống Harry S. Truman đã cảnh báo về cuộc đối đầu nguy hiểm. Tháng 4 năm 1949, đại diện của Bỉ, Canada, Đan Mạch, Pháp, Anh, Iceland, Italy, Luxembourg, Hà Lan, Na Uy, Bồ Đào Nha, và Mỹ ký hiệp ước NATO. Ít năm sau đó, Hy Lạp, Thổ Nhĩ Kỳ, và Tây Đức cũng tham gia. Liên Xô đáp trả bằng cách thành lập Khối Warszawa năm 1955."
+    "passage": "de30_cau412_414"
   },
   {
     "id": 413,
@@ -676,7 +676,7 @@
     "options": ["Năm 1948.", "Năm 1949.", "Năm 1947.", "Năm 1946."],
     "correct": 2,
     "explanation": "Theo đoạn trích, quan hệ giữa Mỹ và Liên Xô bắt đầu xấu đi nhanh chóng trong năm 1948 (đáp án đúng của đề là C - Năm 1947).",
-    "passage": null
+    "passage": "de30_cau412_414"
   },
   {
     "id": 414,
@@ -685,7 +685,7 @@
     "options": ["Vác-sa-va.", "EU.", "ASEAN.", "SEATO."],
     "correct": 0,
     "explanation": "Liên Xô đã lên án NATO như một liên minh hiếu chiến và đáp trả bằng cách thành lập Khối Warszawa (Vác-sa-va) năm 1955.",
-    "passage": null
+    "passage": "de30_cau412_414"
   },
   {
     "id": 415,
@@ -694,8 +694,7 @@
     "options": ["Nghệ Tĩnh.", "Nghệ An.", "Thái Bình.", "Hà Nội."],
     "correct": 1,
     "explanation": "Phong trào cách mạng 1930-1931 nổ ra sớm nhất và mạnh mẽ ở hai tỉnh Nghệ An và Thanh Hóa/Nghệ Tĩnh với nhiều cuộc biểu tình vũ trang tự vệ.",
-    "passage": "Cùng với phong trào đấu tranh của công nhân, nông dân hai tỉnh Nghệ Tĩnh tổ chức nhiều cuộc biểu tình có vũ trang tự vệ. Tiêu biểu là cuộc biểu tình của khoảng 8000 nông dân huyện Hưng Nguyên vào ngày 12-9. Thực dân Pháp đàn áp dã man, làm chết 217 người, 125 người bị thương, 277 nóc nhà bị đốt cháy. Hai làng Lộc Châu và Lộc Hải bị triệt hạ hoàn toàn."
-  },
+    "passage": "de30_cau415_417"
   {
     "id": 416,
     "question": "Câu 416: Khẩu hiệu nào không xuất hiện trong phong trào Xô Viết Nghệ Tĩnh?",
@@ -703,7 +702,7 @@
     "options": ["Đả đảo chủ nghĩa đế quốc!", "Đả đảo Nam triều!", "Nhà máy về tay thợ thuyền!", "Đả đảo đế quốc Nhật!"],
     "correct": 3,
     "explanation": "Đả đảo đế quốc Nhật không đúng lúc đó vì Nhật chưa xâm lược Việt Nam. Các khẩu hiệu thực tế được nông dân sử dụng là: Đả đảo chủ nghĩa đế quốc, Đả đảo Nam triều, Nhà máy về tay thợ thuyền.",
-    "passage": null
+    "passage":"de30_cau415_417"
   },
   {
     "id": 417,
@@ -712,7 +711,7 @@
     "options": ["Lộc Châu và Lộc Hải.", "Hưng Nguyên và Kỳ Anh.", "Thanh Chương và Hậu Lộc.", "Tĩnh Gia và Vinh."],
     "correct": 0,
     "explanation": "Hai làng Lộc Châu và Lộc Hải bị triệt hạ hoàn toàn. Song, sự đàn áp dã man đã không thể ngăn nổi phong trào đấu tranh.",
-    "passage": null
+    "passage": "de30_cau415_417"
   },
   {
     "id": 501,
