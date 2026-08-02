@@ -189,7 +189,7 @@
     ],
     "correct": 2,
     "explanation": "Áp dụng phương trình Clapeyron: pV = nRT → n = pV/RT = 2,4.10^5.0,12/(8,31.(27+273)) = 11,55 (mol).",
-    "passage": null
+    "passage":   "de5_114_116"
   },
   {
     "id": 115,
@@ -203,7 +203,7 @@
     ],
     "correct": 1,
     "explanation": "Áp dụng biểu thức của quá trình đẳng tích: p1/T1 = p2/T2 → p2 = (T2/T1).p1 = (45+273).2,4.10^5/(27+273) = 2,54.10^5 Pa.",
-    "passage": null
+    "passage":  "de5_114_116"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 3,
     "explanation": "Áp dụng biểu thức của quá trình đẳng tích: p3 = (T3/T1).p1 = (65+273).2,4.10^5/(27+273) = 2,7.10^5 Pa.",
-    "passage": null
+    "passage":   "de5_114_116"
   },
   {
     "id": 117,
@@ -245,7 +245,7 @@
     ],
     "correct": 0,
     "explanation": "Trong xà phòng làm thủ công không có muối sodium alkylsulfate do đây là chất có trong chất giặt rửa tổng hợp.",
-    "passage": null
+    "passage": "de5_201_203"
   },
   {
     "id": 202,
@@ -259,7 +259,7 @@
     ],
     "correct": 3,
     "explanation": "Phản ứng quan trọng nhất là phản ứng thủy phân chất béo bằng dung dịch kiềm. Bản chất của quá trình sản xuất xà phòng thủ công là thủy phân chất béo có trong dầu thực vật hoặc mỡ động vật để tạo thành muối potassium hoặc sodium của acid béo và glycerol tương ứng.",
-    "passage": null
+    "passage": "de5_201_203"
   },
   {
     "id": 203,
@@ -273,7 +273,7 @@
     ],
     "correct": 0,
     "explanation": "Lượng KOH cần dùng: mKOH = 257.500 = 128500 mg = 128,5g ⇒ nKOH = 128,5/56 = 257/112 mol. Số mol NaOH cần dùng bằng số mol KOH: nNaOH = nKOH = 257/112 mol ⇒ mNaOH ≈ 91,8 gam.",
-    "passage": null
+    "passage": "de5_201_203"
   },
   {
     "id": 204,
@@ -633,7 +633,7 @@
     ],
     "correct": 1,
     "explanation": "Thủy triều đỏ hay tảo nở hoa là hiện tượng mà tảo sinh sản với số lượng lớn trong nước. Khi tảo tích tụ nhiều sẽ khiến mặt nước đục hoặc chuyển sang màu hồng, tím, đỏ, đen hoặc xanh.",
-    "passage": "Thủy triều đỏ hay tảo nở hoa là hiện tượng mà tảo sinh sản với số lượng lớn trong nước. Khi tảo tích tụ nhiều sẽ khiến mặt nước đục hoặc chuyển sang màu hồng, tím, đỏ, đen hoặc xanh. Hiện tượng này có thể xảy ra khi gặp điều kiện thuận lợi, chẳng hạn như nhiệt độ tăng, việc trao đổi nước kém, hoặc điều kiện dinh dưỡng trong môi trường tăng, hay ô nhiễm môi trường biển... Tùy vào từng loại tảo khác nhau mà tảo nở hoa có thể sản sinh ra những độc tố nhiều hay ít, chúng làm suy giảm khí oxygen và gây ra hàng loạt tác hại, phải kể đến chúng khiến các loài sinh vật biển, các loài cá... chết hàng loạt. \"Thủy triều đỏ\" cũng đã khiến 82 người phải nhập viện do tắm biển, với các triệu chứng ngứa, phồng rộp vùng da nhạy cảm; nguyên nhân là một loài tảo xanh lam \"nở hoa\", tiết độc tố vào nước biển. Cần lưu ý, sự \"nở hoa\" của tảo xanh lam (vi khuẩn lam) còn xảy ra ở nhiều hồ chứa nước ngọt, đe dọa sức khỏe những người sử dụng nguồn nước này."
+    "passage": "de5_312_314"
   },
   {
     "id": 313,
@@ -647,7 +647,7 @@
     ],
     "correct": 1,
     "explanation": "Tùy vào từng loại tảo khác nhau mà tảo nở hoa có thể sản sinh ra những độc tố nhiều hay ít, chúng làm suy giảm khí oxygen và gây ra hàng loạt tác hại, khiến các loài sinh vật biển, các loài cá... chết hàng loạt.",
-    "passage": null
+    "passage": "de5_312_314"
   },
   {
     "id": 314,
@@ -661,7 +661,7 @@
     ],
     "correct": 2,
     "explanation": "Ý I sai vì nhiều hồ nước ngọt cũng có hiện tượng tảo nở hoa. Ý II đúng, khi tảo tích tụ nhiều sẽ khiến mặt nước chuyển sang nhiều màu khác nhau tùy loại tảo. Ý III đúng, tảo nở hoa xảy ra khi gặp điều kiện thuận lợi như nhiệt độ tăng do hiệu ứng nóng lên toàn cầu. Ý IV đúng, tùy loại tảo mà sản sinh độc tố nhiều hay ít.",
-    "passage": null
+    "passage": "de5_312_314"
   },
   {
     "id": 315,
