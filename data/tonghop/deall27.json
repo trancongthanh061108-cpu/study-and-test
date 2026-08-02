@@ -1,0 +1,875 @@
+  {
+    "id": 201,
+    "question": "Câu 201: Một học sinh làm thí nghiệm như sau:Nạp đầy khí ammonia vào bình thủy tinh trong suốt, đậy bình bằng nút cao su có ống thủy tinh vuốt nhọn xuyên qua. Nhúng đầu ống thủy tinh vào một chậu thủy tinh chứa nước có pha thêm dung dịch phenolphtalein. Một lát sau, nước trong chậu phun vào bình thành những tia màu hồng. Phát biểu nào sau đây không đúng?",
+    "options": [
+      "Thí nghiệm chứng tỏ NH3 tan nhiều trong nước.",
+      "Nếu thay chậu nước có chứa một ít dung dịch phenolphthalein bằng chậu nước có chứa một ít dung dịch quỳ tím thì nước trong bình có màu xanh.",
+      "Nước trong chậu phun những tia có màu hồng là do khí ammonia tan nhiều trong nước làm giảm áp suất trong bình và nước bị hút vào bình. Phenolphthalein chuyển thành màu hồng là do dung dịch ammonia có tính base.",
+      "Nếu thay khí ammonia trong bình bằng khí hydrogen chloride thì nước trong chậu phun những tia có màu đỏ."
+    ],
+    "correct": 3,
+    "explanation": "Phát biểu không đúng là phát biểu D. Nếu thay khí ammonia trong bình bằng khí HCl thì nước trong chậu phun thành tia không màu vì dung dịch phenolphtalein không bị đổi màu trong môi trường acid. Chọn đáp án D.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: Cho các nhận định sau a) Glucose và fructose là đồng phân của nhau và đều tác dụng được với nước Br2. b) Saccharose chỉ tồn tại dưới dạng mạch vòng và cho được phản ứng tráng gương. c) Thủy phân đến cùng amylopectin và cellulose trong môi trường acid thu được một loại monosaccharide duy nhất. d) Amylopectin trong tinh bột chỉ có các liên kết α−1,4−glycoside. e) Saccharose bị hóa đen trong H2SO4 đặc. f) Ở điều kiện thường, dùng nước cất có thể phân biệt được glucose và fructose. Số nhận định đúng là",
+    "options": [
+      "2.",
+      "3.",
+      "4.",
+      "5."
+    ],
+    "correct": 0,
+    "explanation": "a) Sai. Fructose không làm mất màu nước Br2 như glucose. b) Sai. Saccharose không có phản ứng tráng gương. c) Đúng. Chỉ thu được glucose. d) Sai. Amylopectin có chứa liên kết α−1,4−glycoside và α−1,6−glycoside. e) Đúng. Saccharose bị H2SO4 đặc hút hết bước nên chỉ còn lại thành phần là nguyên tố C có màu đen. f) Sai. Ở điều kiện thường cả glucose và fructose đều tan trong nước nên không phân biệt được. Vậy có 2 phát biểu đúng. Chọn đáp án A.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: Thuỷ phân 17,2 gam este đơn chức A trong 50 gam dung dịch NaOH 28% thu được dung dịch X. Cô cạn dung dung dịch X thu được chất rắn Y và 42,4 gam chất lỏng Z. Cho toàn bộ Z tác dụng với một lượng Na dư thu được 24,64 lít khí H2 (đktc). Đun toàn bộ chất rắn Y với CaO thu được m gam chất khí T. Các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+    "options": [
+      "5,60.",
+      "4,50.",
+      "4,20.",
+      "6,00."
+    ],
+    "correct": 2,
+    "explanation": "- Xét dung dịch NaOH mNaOH = 50.28% = 14 gam Þ nNaOH = 0,35mol Þ mH2O = 50 - 14 = 36 gam Þ nH2O = 2mol - Xét chất lỏng Z: Z gồm H2O (36 gam) và ROH. mH2O + mROH = mZ Þ 36 + mROH = 42, 4 Þ mROH = 6, 4 gam 24, 64 nH 2 = = 1,1mol 22, 4 - Bảo toàn nguyên tố H: nROH + nHOH = 2.nH2 Þ nROH = 0, 2mol Þ ( R + 17).0, 2 = 6, 4 Þ R = 15  -CH 3  Þ ROH : CH 3OH Xét giai đoạn A tác dụng với dung dịch NaOH: nNaOH = 0,35mol > nCH 3OH = 0, 2 mol Þ NaOH dư. 17, 2 nA = nCH 3OH = 0, 2mol Þ M A = = 86 Þ A : CH 2 = CHCOOCH 3 0, 2 - Bảo toàn nguyên tố Na: nNaOH dư = 0,15 mol. - Xét giai đoạn nung CaO: mCH =CH = 28.0,15 = 4, 2 gam 2 2",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: Cho các thí nghiệm sau: (1) Cho mẫu Na vào dung dịch CuSO4. (2) Cho từ từ đến dư dung dịch Ba(OH)2 vào dung dịch AlCl3. (3) Sục từ từ SO2 vào dung dịch BaCl2 dư. (4) Sục từ từ CO2 đến dư vào dung dịch NaAlO2. (5) Sục từ từ NH3 đến dư vào dung dịch AlCl3. (6) Cho từ từ dung dịch BaCl2 vào dung dịch Na2CO3. Số thí nghiệm thu được kết tủa sau khi phản ứng kết thúc là",
+    "options": [
+      "5.",
+      "4.",
+      "3.",
+      "2."
+    ],
+    "correct": 1,
+    "explanation": "- Thí nghiệm (1): Thu được kết tủa Cu(OH)2. - Thí nghiệm (2): Không thu được kết tủa. - Thí nghiệm (3): Không phản ứng. - Thí nghiệm (4): Thu được kết tủa Al(OH)3. - Thí nghiệm (5): Thu được kết tủa Al(OH)3. - Thí nghiệm (6): Thu được kết tủa BaCO3.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: Có 4 ống nghiệm được đánh số theo thứ tự (1), (2), (3), (4). Mỗi ống nghiệm chứa một trong các dung dịch AgNO3, ZnCl2, HI, Na2CO3. Biết rằng - Dung dịch trong ống nghiệm (2) và (3) tác dụng được với nhau sinh ra chất khí. - Dung dịch trong ống nghiệm (2) và (4) không phản ứng được với nhau. Dung dịch trong ống nghiệm (1), (2), (3) và (4) lần lượt là:",
+    "options": [
+      "ZnCl2, HI, Na2CO3, AgNO3.",
+      "ZnCl2, Na2CO3, HI, AgNO3.",
+      "AgNO3, HI, Na2CO3, ZnCl2.",
+      "AgNO3, Na2CO3, HI, ZnCl2."
+    ],
+    "correct": 2,
+    "explanation": "- Dung dịch trong ống nghiệm (2) và (3) tác dụng được với nhau sinh ra chất khí nên (2) và (3) sẽ là HI hoặc Na2CO3. - Dung dịch trong ống nghiệm (2) và (4) không phản ứng được với nhau. + Giả sử (2) là Na2CO3 thì phản ứng hết với các chất. + Giả sử (2) là HI thì (4) ZnCl2. Vậy (1) là AgNO3, (2) là HI, (3) là Na2CO3, (4) là ZnCl2.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: Thực hiện cracking hoàn toàn m gam isobutane, thu được hỗn hợp A gồm hai hydrocarbon. Cho hỗn hợp A qua dung dịch nước bromine có hoà tan 11,2 gam bromine. Bromine bị mất màu hoàn toàn đồng thời có 2,912 lít khí (ở đktc) thoát ra khỏi bình bromine, tỉ khối hơi của khí so với CO2 bằng 0,5. Giá trị của m là",
+    "options": [
+      "5,22 gam.",
+      "6,96 gam.",
+      "5,80 gam.",
+      "4,64 gam."
+    ],
+    "correct": 2,
+    "explanation": "nBr2 = 0, 07 mol; n­ = 0,13mol Gọi số mol isobutane là x mol Ta có: nBr2 = nanken được tạo ra = nisobutan đã phản ứng Þ 2 x - 0, 07 = 0,13 Þ x = 0,1mol Þ m = 5,8 gam Chọn đáp án C.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: Theo tiêu chuẩn Việt Nam, nồng độ cho phép của ion Cu2+ trong nước uống không được phép vượt quá 3 mg/l. Khi cho dung dịch H2S dư vào 0,5 lít một mẫu nước thấy có 0,00144 gam kết tủa. Tính nồng độ ion Cu2+ trong mẫu nước trên và cho biết mẫu nước này có bị ô nhiễm đồng không?",
+    "options": [
+      "1,92 mg/l; mẫu nước không bị ô nhiễm đồng.",
+      "0,96 mg/l; mẫu nước không bị ô nhiễm đồng.",
+      "3,84 mg/l; mẫu nước bị ô nhiễm đồng.",
+      "4,80 mg/l; mẫu nước bị ô nhiễm đồng."
+    ],
+    "correct": 0,
+    "explanation": "Kết tủa là CuS. mCuS = 0, 00144mg Þ nCuS = 1,5.10-5 (mol) Phương trình ion thu gọn: Cu 2+ + H 2S ® CuS ¯ +2H + ⟹ nCu2+ = nCuS = 1,5.10-5 (mol) ⟹ mCu2+ = 64.1,5.10-5 = 9,6.10-4 (g) = 0,96 mg. Ta có: 0,5 lít mẫu nước chứa 0,96 mg Cu2+ ⟹ 1 lít → 1,92 mg < 3 mg. Vậy mẫu nước trên không bị ô nhiễm đồng. Chọn đáp án A. Dựa vào thông tin sau đây và trả lời các câu hỏi từ câu 208 đến câu 210: Sự điện phân là quá trình oxi hóa - khử xảy ra tại bề mặt các điện cực khi có dòng điện một chiều di chuyển qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng mà nếu không có dòng điện thì phản ứng không tự xảy ra. Trong bình điện phân có - Anode của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anode được nối với cực dương của nguồn điện một chiều. - Cathode của thiết bị là nơi xảy ra bán phản ứng khử. Cathode được nối với cực âm của nguồn điện một chiều. Thực hiện quá trình điện phân có sơ đồ được bố trí như dưới đây: Sau một thời gian thực hiện quá trình điện phân cân lại khối lượng cathode của bình 2 tăng 3,24 gam. Biết trong hệ điện phân nối tiếp, số điện tử truyền dẫn là như nhau.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Nhận định nào sau đây về quá trình điện phân dung dịch là sai?",
+    "options": [
+      "Ở cathode, ưu tiên khử những ion kim loại có tính khử yếu.",
+      "Ở cực dương, không xảy ra quá trình oxi hóa các anion như NO3- , SO42- , …",
+      "Các anion di chuyển về cực cathode của bình điện phân.",
+      "Tại cực âm xảy ra quá trình nhận electron."
+    ],
+    "correct": 2,
+    "explanation": "Nhận định sai về quá trình điện phân là nhận định C. Trong bình điện phân, các anion di chuyển về điện cực trái dấu là điện cực dương là cathode. Chọn đáp án C.",
+    "passage": "hoa_208"
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Khối lượng kim loại Zn được tạo ra ở bình 1 là",
+    "options": [
+      "0,975 gam.",
+      "1,95 gam.",
+      "3,5 gam.",
+      "2,1 gam."
+    ],
+    "correct": 0,
+    "explanation": "- Tại bình 2: Sau một thời gian điện phân khối lượng của cathode tăng 3,24 gam nên khối lượng bạc được tạo ra là 3,24 gam. nAg = 0, 03mol Ag + + 1e ® Ag Þ ne = 0, 03mol - Vì số điện tử truyền qua các bình điện phân là giống nhau nên số mol electron mà ion Zn2+ nhận được ở bình 1 cũng là 0,03 mol. Zn 2 + + 2e ® Zn Þ nZn = 0, 015mol Þ mZn = 0,975g Chọn đáp án A.",
+    "passage": "hoa_208"
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Giá trị pH của bình 3 thay đổi như thế nào trong điều kiện trên?",
+    "options": [
+      "pH tăng do sinh ra OH− ở anode.",
+      "pH giảm do sinh ra H+ ở anode.",
+      "pH không đổi do không sinh ra H+ hay OH−.",
+      "pH không đổi do sinh ra một lượng H+ hay OH− bằng nhau."
+    ],
+    "correct": 3,
+    "explanation": "Quá trình điện phân Al(NO3)3 trong bình điện phân là: - Tại cathode: Al3+ không bị khử mà thay vào đó là nước bị khử theo phương trình: 2H2O + 2e → H2 + 2OH− 0,03 0,03mol - Tại anode: NO3- không bị oxi hóa mà thay vào đó là nước bị oxi hóa theo phương trình: 2H2O → O2 + 4H+ + 4e 0,03 0,03mol Vậy có thể thấy pH của dung dịch không đổi vì sinh ra một lượng H+ hay OH− bằng nhau. Chọn đáp án D.",
+    "passage": "hoa_208"
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: Tinh thể ion kim loại là tinh thể được tạo nên bởi các cation và anion sắp xếp theo một trật tự nhất định trong không gian. Nhận định nào sau đây về tinh thể NaCl là sai?",
+    "options": [
+      "Là chất rắn ở điều kiện thường.",
+      "Có tương tác tĩnh điện mạnh giữa các ion.",
+      "Có nhiệt độ nóng chảy cao.",
+      "Là chất dẫn điện ở trạng thái rắn."
+    ],
+    "correct": 3,
+    "explanation": "Nhận định sai về NaCl là: Là chất dẫn điện ở trạng thái rắn. Sodium chloride có khả năng dẫn điện khi hòa tan vào dung dịch hoặc ở trạng thái nóng chảy. Chọn đáp án D.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: Trong các chất sau, chất nào có nhiệt độ sôi cao nhất?",
+    "options": [
+      "Dimethyl ether.",
+      "Phenol.",
+      "Ethanol.",
+      "Methanol."
+    ],
+    "correct": 1,
+    "explanation": "Chất có nhiệt độ sôi lớn nhất là phenol. Chọn đáp án B.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: Phát biểu nào sau đây không đúng?",
+    "options": [
+      "Polypeptide có phản ứng màu biuret trong môi trường kiềm.",
+      "Trùng ngưng ε - aminocaproic acid thu được polymer thuộc loại polyamide.",
+      "Protein trong thức ăn giúp bổ sung các amino acid thiết yếu cho cơ thể.",
+      "α - aminoglutaric acid và α - aminopropinoic acid đều làm đổi màu giấy quỳ tím ẩm."
+    ],
+    "correct": 3,
+    "explanation": "- Phát biểu A: Đúng. Phản ứng biuret là phản ứng đặc trưng để nhận biết các hợp chất có từ 2 liên kết peptide trở lên, tạo phức chất màu tím trong môi trường kiềm. - Phát biểu B: Đúng. ε - aminocaproic acid là một amino acid có nhóm amino và nhóm carboxyl trên cùng một phân tử, có khả năng trùng ngưng tạo thành polyamide (nylon-6). - Phát biểu C: Đúng. Protein trong thức ăn cung cấp các amino acid, trong đó có các amino acid thiết yếu mà cơ thể không tự tổng hợp được. - Phát biểu D: Sai. • α -aminoglutaric acid (axit glutamic) có 2 nhóm −COOH và 1 nhóm −NH2, do đó nó có tính acid và làm quỳ tím chuyển sang màu đỏ. • α -aminopropinoic acid (alanin) có 1 nhóm −COOH và 1 nhóm −NH2, do đó nó là amino acid trung tính, không làm đổi màu quỳ tím. Chọn đáp án D.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: Sự biến đổi không tuần hoàn một số tính chất vật lý của kim loại nhóm IIA là do",
+    "options": [
+      "sự khác nhau về số proton của nguyên tử kim loại nhóm II",
+      "sự khác nhau về khối lượng nguyên tử của kim loại nhóm II",
+      "sự khác nhau về cấu trúc mạng tinh thể của kim loại nhóm II",
+      "sự khác nhau về số lớp electron của nguyên tử kim loại nhóm II"
+    ],
+    "correct": 2,
+    "explanation": "Sự biến đổi không tuần hoàn một số tính chất vật lý của kim loại nhóm IIA là do sự khác nhau về cấu trúc mạng tinh thể của kim loại nhóm IIA. Chọn đáp án C.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: Cho bảng độ tan (g/100 g nước) ở 20oC của một số muối sulfate và nitrate của kim loại nhóm IIA như sau: Một học sinh hòa tan hoàn toàn 150 g muối X vào 200 g nước ở nhiệt độ là 20oC thu được dung dịch Y. Vậy muối X có thể là",
+    "options": [
+      "Ba(NO3)2.",
+      "Sr(NO3)2.",
+      "Ca(NO3)2.",
+      "MgSO4."
+    ],
+    "correct": 2,
+    "explanation": "150 Độ tan của muối X là: .100 = 75g/100g H 2 O . 200 Vậy muối X là Ca(NO3)2. Chọn đáp án C.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: Hợp chất X có công thức phân tử là C5H12N2O4. Cho 82 gam X phản ứng vừa đủ với dung dịch NaOH sinh ra một chất khí Y và dung dịch Z. Khí Y nặng hơn không khí, làm quỳ tím ẩm chuyển màu xanh. Dung dịch Z có khả năng làm mất màu nước bromine. Cô cạn dung dịch Z thu được m gam muối khan. Giá trị của m là",
+    "options": [
+      "81",
+      "34",
+      "47",
+      "64"
+    ],
+    "correct": 0,
+    "explanation": "- Y là chất khí nặng hơn không khí ⇒ Y là amine ⇒ Y là một trong 4 amine sau: CH3NH2; CH2(NH2)2; CH(NH2)3; C2H5NH2 - Xét thấy X có 4 nguyên tử oxygen và chỉ tạo ra một chất khí Y ⇒ X là muối ammonium được tạo từ 2 carboxylic acid và 1 amine hai chức. - Dung dịch muối Z làm mất màu bromine nên ít nhất phải có gốc −CH = CH−. → CTPT của X là HCOO - NH 3 - CH 2 - NH 3 - OOC - CH = CH 2 (Thỏa mãn) nX = 0,5mol HCOO - NH 3CH 2 NH 3 - OOC - CH = CH 2 + 2 NaOH ® HCOONa + CH 2 = CHCOONa + CH 2  NH 2 2 + H 2 O mZ = mHCOONa + mCH 2 =CHCOONa = 0, 5.68 + 0, 5.94 = 81gam",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: Hỗn hợp X gồm Al, Ba, Na, K. Hòa tan hoàn toàn m gam X vào nước dư, thu được dung dịch Y và 0,0405 mol khí H2. Cho từ từ đến hết dung dịch chứa 0,018 mol H2SO4 và 0,03 mol HCl vào Y, thu được 1,089 gam hỗn hợp kết tủa và dung dịch Z chỉ chứa 3,335 gam hỗn hợp các muối chloride và muối sulfate trung hòa. Phần trăm khối lượng của kim loại Ba trong X là (điền số nguyên)",
+    "options": [],
+    "correct": 30,
+    "explanation": "Gọi số mol của BaO là a mol (Giả sử trong Y thì OH− chưa tác dụng với Al3+) ìM n + Yí - ® 1, 089 gam îOH : 0, 081mol ì BaSO4 : amol ï ¯í nOH - - nH + 0, 015 Þ a = 0, 003mol ï Al (OH ) 3 : = = 0, 005mol î 3 3 Ta có: mCl - + mSO2- + m + mOH - = 0, 03.35,5 + 0, 018.96 + m + 17.3.0, 005 4 Þ m = 1,376 gam Þ %mBa = 29,87% » 30% Vậy số cần điền là 30. ----------",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Ở vi khuẩn E.Coli, operon trp gồm 5 gene cấu trúc mã hóa các enzyme tham gia tổng hợp tryptophan. Khi nồng độ tryptophan trong tế bào thấp, protein ức chế TrpR không gắn vào operator dẫn tới operon được phiên mã giúp tế bào tổng hợp tryptophan. Ngược lại, khi nồng độ tryptophan cao, chất này liên kết với TrpR làm TrpR thay đổi cấu hình, có thể gắn với operator và ngăn cản operon Trp phiên mã. Một chủng E.Coli bị đột biến ở gene quy định tổng hợp protein ức chế TrpR khiến TrpR do gene này tạo ra không gắn được với Operator của operon Trp. Nhận định nào sau đây về sự phiên mã của các gene cấu trúc trong operon trp ở chủng vi khuẩn này là ĐÚNG?",
+    "options": [
+      "Các gene cấu trúc được phiên mã ở môi trường có tryptophan và không được phiên mã ở môi trường không có tryptophan.",
+      "Các gene cấu trúc được phiên mã ở cả môi trường có tryptophan và môi trường không có tryptophan.",
+      "Các gene cấu trúc không được phiên mã ở cả môi trường có tryptophan và môi trường không có tryptophan.",
+      "Các gene cấu trúc không được phiên mã ở môi trường có tryptophan và được phiên mã ở môi trường không có tryptophan."
+    ],
+    "correct": 1,
+    "explanation": "Ở chủng vi khuẩn đột biến có protein ức chế TrpR không thể gắn vào operator → TrpR không thể ức chế operon dù trong môi trường có tryptophan hay không → RNA polymerase luôn có thể phiên mã operon trp dù môi trường có hay không có tryptophan → Chọn B",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: Nhân tố tiến hóa nào sau đây có khả năng thay đổi tần số allele và thành phần kiểu gene của quần thể theo một hướng xác định?",
+    "options": [
+      "Các yếu tố ngẫu nhiên",
+      "Chọn lọc tự nhiên",
+      "Đột biến",
+      "Dòng gene"
+    ],
+    "correct": 1,
+    "explanation": "Chọn lọc tự nhiên (CLTN) là nhân tố tiến hóa có hướng. Bản chất của chọn lọc tự nhiên là quá trình tác động lên kiểu hình các cá thể trong quần thể, tăng cường khả năng sống sót và khả năng sinh sản của các cá thể có kiểu gene thích nghi với môi trường và ngược lại, đào thải các cá thể có kiểu gene kém thích nghi trong quần thể. → Các allele có lợi cho sự thích nghi với môi trường được giữ lại và tích lũy, những allele bất lợi bị đào thải. → Tăng tần số allele và thành phần kiểu gene thích nghi trong quần thể Các nhân tố tiến hóa còn lại không có hướng vì chúng có thể làm cả allele quy định kiểu hình thích nghi và kém thích nghi bị loại bỏ khỏi quần thể",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Những nhận định nào sau đây là ĐÚNG khi nói về di truyền gene ngoài nhân? (I) Nếu bố mắc bệnh do gene ty thể bị đột biến, tất cả các con sinh ra đều sẽ bị bệnh. (II) Các bệnh do di truyền gene ngoài nhân xảy ra khi một hoặc một vài nhiễm sắc thể bị chuyển vị trí ra tế bào chất. (III) Nếu mẹ mắc bệnh do gene ty thể bị đột biến, tất cả các con sinh ra đều sẽ bị bệnh. (IV) Các bệnh do di truyền gene ngoài nhân xảy ra khi gene của ty thể hoặc lục lạp bị đột biến.",
+    "options": [
+      "(I), (II).",
+      "(II), (III).",
+      "(III), (IV).",
+      "(IV), (I)."
+    ],
+    "correct": 2,
+    "explanation": "Ý (I) sai: Gene ty thể chỉ truyền từ mẹ do tế bào chất và các bào quan của hợp tử đến từ tế bào trứng, còn tinh trùng chỉ cho nhân nên nếu bố mắc bệnh do đột biến gene ty thể, con sẽ không nhận ty thể bị bệnh này và không mắc bệnh. Ý (II) sai: Gene ngoài nhân chỉ các gene nằm trong DNA ty thể hoặc lục lạp, chứ không phải do nhiễm sắc thể bị di chuyển ra ngoài. Ý (III) đúng: Nếu mẹ mắc bệnh do gene ty thể, tất cả con đều bị bệnh do ty thể của con chỉ được di truyền từ mẹ. Ý (IV) đúng: Di truyền ngoài nhân xảy ra khi gene của ty thể hoặc lục lạp bị đột biến. → Chọn đáp án C: ý (III) và (IV) đúng.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Cấu trúc nào sau đây chỉ được tìm thấy ở vi khuẩn mà không có ở bất kỳ loại virus nào?",
+    "options": [
+      "Thành peptidoglycan.",
+      "Các phân tử protein.",
+      "Vật chất di truyền là nucleic acid.",
+      "Màng kép phospholipid."
+    ],
+    "correct": 0,
+    "explanation": "Ý A đúng: thành peptidoglycan là cấu trúc chỉ có ở vi khuẩn, không có ở virus. Đây là lớp thành tế bào đặc trưng của vi khuẩn gram âm, giúp duy trì hình dạng và bảo vệ chúng khỏi áp suất thẩm thấu. Ý B sai: Cả vi khuẩn và virus đều có protein. Protein của virus là lớp vỏ capsid bao bọc vật liệu di truyền. Ý C sai: Cả vi khuẩn và virus đều có vật chất di truyền là nucleic acid, trong đó ở vi khuẩn là DNA, còn ở virus có thể là DNA hoặc RNA. Ý D sai: Vi khuẩn và nhiều loại virus động vật có lớp màng kép phospholipid.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Một chủng vi khuẩn Escherichia coli mang đột biến làm mất một đoạn nucleotide ở vùng mã hóa của gene LacZ dẫn tới sản phẩm do gene này tạo ra không có chức năng. Nhận định nào sau đây về khả năng sinh trưởng của chủng vi khuẩn này là đúng?",
+    "options": [
+      "Operon Lac ở chủng vi khuẩn này được phiên mã ngay cả khi môi trường không có lactose.",
+      "Operon Lac ở chủng vi khuẩn này không được phiên mã ngay cả khi môi trường có lactose.",
+      "Chủng vi khuẩn này có thể sinh trưởng ở môi trường cơ bản chỉ có lactose là nguồn carbon.",
+      "Chủng vi khuẩn này không thể sinh trưởng ở môi trường cơ bản chỉ có lactose là nguồn carbon."
+    ],
+    "correct": 3,
+    "explanation": "Nếu đột biến mất đoạn xảy ra trong vùng mã hóa của gene LacZ, enzyme do gene này tạo ra sẽ mất chức năng, đồng nghĩa với việc vi khuẩn không thể phân giải lactose để phát triển → nếu môi trường chỉ có lactose là nguồn Carbon, chủng vi khuẩn này sẽ không thể sinh trưởng được. Tuy nhiên, đột biến này không ảnh hưởng đến cơ chế điều hòa của operon lac, vì vậy operon vẫn có thể được phiên mã bình thường khi có lactose và bị tắt khi môi trường không có lactose. → Chọn D",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Điều nào sau đây có thể gây nên tình trạng huyết áp tăng cao hơn so với bình thường?",
+    "options": [
+      "Tăng hoạt động của hệ thần kinh đối giao cảm khi nghỉ ngơi.",
+      "Mạch máu ngoại vi giãn do sử dụng thuốc giãn mạch.",
+      "Nhịp tim tăng do hồi hộp, lo âu.",
+      "Giảm thể tích dịch tuần hoàn do mất nước nghiêm trọng."
+    ],
+    "correct": 2,
+    "explanation": "Khi hồi hộp hoặc lo âu, hệ thần kinh giao cảm được kích thích, làm tim đập nhanh hơn, co mạch mạnh hơn → dẫn đến huyết áp tăng Ý A sai: hệ đối giao cảm giúp làm chậm nhịp tim, giãn mạch, hạ huyết áp → khi nghỉ ngơi, huyết áp sẽ giảm nhẹ Ý B sai: sử dụng thuốc giãn mạch, mạch máu ngoại vi giãn ra sẽ làm tăng thể tích lòng mạch, giảm sức cản trong mạch máu → hạ huyết áp Ý D sai: mất nước nghiêm trọng dẫn tới giảm thể tích dịch tuần hoàn → giảm thể tích máu lưu thông → hạ huyết áp.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Loài mối không thể tự mình tiêu hóa gỗ vì chúng không thể tổng hợp enzyme cellulase. Thay vào đó, ruột của chúng cung cấp môi trường sống ổn định cho Trichonympha để loài trùng roi này tiết enzyme cellulase giúp mối tiêu hóa thức ăn. Mối quan hệ giữa mối và trùng roi là:",
+    "options": [
+      "Quan hệ cộng sinh.",
+      "Quan hệ vật ký sinh - vật chủ.",
+      "Quan hệ vật hội sinh.",
+      "Quan hệ cạnh tranh."
+    ],
+    "correct": 0,
+    "explanation": "Trong mối quan hệ này, mối được cung cấp enzyme cellulase giúp phân giải thức ăn để có thể tồn tại, trong khi đó trùng roi được cung cấp nơi ở và thức ăn → hai loài đều có lợi và mối quan hệ này có quan hệ chặt chẽ với sự tồn tại của chúng → đây là mối quan hệ cộng sinh.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Ở loài cây Rotala Rotundifolia, các cá thể sống trên cạn có lá dạng tròn, phiến lá dày còn các cá thể sống dưới nước có lá dạng dài, phiến mỏng hơn. Nhận định nào sau đây là đúng về loài thực vật này?",
+    "options": [
+      "Loài cây này dễ phát sinh đột biến ở các gene quy định hình thái lá khi sống ở môi trường nước.",
+      "Khi sống dưới nước, hàm lượng nước trong tế bào lá cây tăng cao làm lá phải kéo dài ra để tăng thể tích chứa nước.",
+      "Lá cây kéo dài giúp thân cây cao hơn để nhanh chóng vươn lên trên mặt nước.",
+      "Đây là một dạng thường biến giúp cây thích nghi với môi trường sống."
+    ],
+    "correct": 3,
+    "explanation": "Ý A sai: thay đổi môi trường sống không phải là yếu tố thúc đẩy đột biến ở sinh vật. Tỷ lệ phát sinh đột biến cũng rất thấp và vô hướng, không thể có một lượng lớn cá thể cùng phát sinh đột biến làm thay đổi hình thái lá theo hướng giống nhau. Ý B sai: hình thái lá các cây sống dưới nước khác với các cây sống ở môi trường cạn là để thích nghi với môi trường, không phải để chứa nước. Các tế bào và mô thực vật có cơ chế kiểm soát lượng nước bên trong, không thể chứa quá nhiều nước vì sẽ làm ảnh hưởng đến các quá trình sinh lý. Ý C sai: lá cây kéo dài không ảnh hưởng tới chiều cao của thân cây. Ý D đúng: việc cây thay đổi hình thái lá là một dạng thường biến giúp cây thích nghi với môi trường sống dưới nước và trên cạn. Lá cây dưới nước dài và mỏng hơn giúp giảm lực cản của nước, tăng khả năng trao đổi chất và quang hợp, giảm chi phí năng lượng tiêu tốn cho việc nâng đỡ. → Chọn D",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Các nhà khoa học đã tách riêng các hạt phấn của ớt Capsicum annuum L. để nuôi cấy trong ống nghiệm, sau đó xử lý với Colchicine (hóa chất gây đột biến đa bội) để tạo ra các cây ớt lưỡng bội. Các cây ớt được tạo ra bằng công nghệ này có đặc điểm nào sau đây?",
+    "options": [
+      "Dị hợp tử về tất cả các cặp gene.",
+      "Đồng hợp tử về tất cả các cặp gene.",
+      "Có bộ nhiễm sắc thể 5n.",
+      "Có bộ nhiễm sắc thể 3n."
+    ],
+    "correct": 1,
+    "explanation": "Theo đề bài, các cây ớt thu được là cây lưỡng bội → có bộ NST 2n → ý C và D sai Hạt phấn là các tế bào có bộ NST đơn bội n, chỉ chứa một allele của mỗi gene → khi xử lý với Colchicine làm gây lưỡng bội hóa sẽ tạo thành cây có bộ NST tăng gấp đôi thì mỗi allele sẽ có thêm một bản sao giống hệt nó → cây được tạo ra đồng hợp tử về tất cả các cặp gene → Chọn B",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Nhận định nào sau đây là ĐÚNG khi nói về nhiễm sắc thể (NST) ở người?",
+    "options": [
+      "Trong tế bào soma, các NST thường tồn tại thành từng cặp tương đồng.",
+      "Mỗi NST được cấu tạo bởi nhiều phân tử DNA mạch kép liên kết với nhiều loại protein khác nhau.",
+      "Các NST khác nhau có số lượng gene và số lượng tâm động khác nhau.",
+      "Các NST co xoắn cực đại vào kỳ trung gian của quá trình phân bào."
+    ],
+    "correct": 0,
+    "explanation": "Ý A đúng: Ở người, tế bào soma có 46 NST, được sắp xếp thành các cặp tương đồng, mỗi cặp gồm 1 NST từ bố và 1 NST từ mẹ. Các NST tương đồng có hình dạng, kích thước tương tự nhau nhưng có thể mang các allele khác nhau đối với cùng một gene. Ý B sai vì mỗi NST được cấu tạo bởi một phân tử DNA mạch kép liên kết với nhiều loại protein khác nhau. Ý C sai vì Các NST khác nhau có số lượng gene khác nhau nhưng chỉ có duy nhất một tâm động, tâm động ở các NST khác nhau có thể nằm ở vị trí khác nhau trên NST. Ý D sai vì các NST co xoắn cực đại vào kỳ giữa của quá trình phân bào. → Chọn A",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Nhận định nào sau đây là đúng khi nói về quá trình sinh sản hữu tính ở thực vật hạt kín? (I) Trong một hạt phấn có hai tế bào con là tế bào sinh sản và tế bào ống phấn. (II) Cùng lúc có hai giao tử đực cùng tham gia quá trình thụ tinh kép. (III) Quá trình thụ phấn và thụ tinh diễn ra đồng thời. (IV) Một bông hoa chỉ có thể có nhụy hoặc có nhị, không thể có đồng thời hai cấu trúc này.",
+    "options": [
+      "(I), (II).",
+      "(II), (III).",
+      "(II), (III), (IV).",
+      "(I)."
+    ],
+    "correct": 0,
+    "explanation": "Ý (I) đúng: Hạt phấn có thành dày bao bọc hai tế bào con có kích thước không bằng nhau, tế bào bé là tế bào sinh sản, còn tế bào lớn hơn là tế bào ống phấn. Ý (II) đúng: khi ống phấn kéo dài đến túi phôi, thông qua lỗ noãn, ống phấn đi vào túi phôi và giải phóng hai tinh tử. Lúc này, một tỉnh tử thụ tinh với trứng tạo thành hợp tử (2n), tinh tử còn lại hợp nhất với tế bào nhân cực tạo thành nhân tam bội (3n), về sau phát triển thành nội nhũ để cung cấp chất dinh dưỡng cho phôi. Như vậy, ở thực vật có hoa (thực vật Hạt kín), cùng lúc có hai giao tử đực tham gia thụ tinh, quá trình này được gọi là thụ tinh kép. Ý (III) sai: quá trình thụ phấn và thụ tinh là hai quá trình riêng biệt và diễn ra vào các thời điểm khác nhau. Thụ phấn là quá trình hạt phấn tiếp xúc và dính lại trên đầu nhụy. Thụ tinh chỉ diễn ra sau khi hạt phấn nảy mầm, hình thành ống phấn đưa giao tử đực xuống bầu nhụy. Ý (IV) sai: hoa lưỡng tính có cả nhụy và nhị trên cùng một bông hoa. → Chọn A",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Nhận định nào sau đây là SAI khi nói về tiến hóa lớn?",
+    "options": [
+      "Tiến hóa lớn bắt đầu từ quá trình hình thành loài mới và các đơn vị phân loại trên loài.",
+      "Nghiên cứu về tiến hóa lớn giúp xây dựng cây phát sinh chủng loại.",
+      "Tiến hóa lớn diễn ra trong phạm vi phân bố tương đối hẹp.",
+      "Thời gian tiến hóa lớn diễn ra kéo dài trong hàng triệu năm."
+    ],
+    "correct": 2,
+    "explanation": "Ý A đúng: Tiến hóa lớn là quá trình biến đổi qua hàng triệu năm, dẫn đến sự hình thành loài mới và các đơn vị phân loại trên loài. Ý B đúng: Nghiên cứu về tiến hóa lớn cung cấp tri thức về mối quan hệ họ hàng giữa các loài, từ đó giúp xây dựng cây phát sinh chủng loại. Ý C sai: Tiến hóa lớn diễn ra ở quy mô rộng, có thể trên phạm vi toàn cầu hoặc khu vực lớn, còn tiến hóa nhỏ diễn ra trong phạm vi tương đối hẹp. Ý D đúng: Tiến hóa lớn diễn ra trong hàng triệu đến hàng tỷ năm, không thể quan sát trực tiếp trong thời gian ngắn. → Nhận định sai là nhận định trong ý C",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Trong trường hợp nào sau đây, trường hợp nào quần xã được bảo vệ và có thể phát triển bền vững?",
+    "options": [
+      "Lạm dụng thuốc trừ sâu và thuốc bảo vệ thực vật trong vườn cam.",
+      "Du nhập các loài ốc ngoại lai để diệt cỏ dại trên các ruộng lúa.",
+      "Khai thác tối đa lượng gỗ trong rừng bạch đàn.",
+      "Tăng cường trồng các loài cây bản địa ở các vùng đất trống, đồi trọc."
+    ],
+    "correct": 3,
+    "explanation": "Ý A sai: Việc lạm dụng thuốc trừ sâu và thuốc bảo vệ thực vật trong vườn cam sẽ tiêu diệt cả các loài côn trùng có lợi và gây ô nhiễm môi trường, làm giảm sự đa dạng và đe dọa sự phát triển bền vững ở quần xã vườn cam. Ý B sai: Khi du nhập các loài ốc ngoại lai để diệt cỏ dại trên các ruộng lúa, chúng có thể trở thành một loài ngoại lai gây hại vì quần xã bản địa không có thiên địch ngăn cản sự phát triển của chúng. Ý C sai: Khai thác tối đa lượng gỗ trong rừng bạch đàn sẽ làm giảm mạnh số lượng cây bạch đàn, có thể gây tuyệt diệt quần thể bạch đàn ở đây. Trong quần xã này, bạch đàn là loài ưu thế nên nếu bị loại bỏ, quần xã sẽ bị biến đổi mạnh. Ý D đúng: Tăng cường trồng các loài cây bản địa ở các vùng đất trống, đồi trọc sẽ giúp bảo vệ môi trường ở khu vực này, tránh hiện tượng xói mòn đất, tạo điều kiện cho các loài sinh vật khác tới sinh sống và quần xã có thể phát triển. → Chọn D",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Ở một loài thực vật, hai cặp gene quy định kiểu hình lá và sự xuất hiện của gai trên thân nằm trên cùng một cặp NST. Allele A quy định lá nguyên trội hoàn toàn so với allele a quy định lá xẻ, allele B quy định thân có gai trội hoàn toàn so với allele b quy định thân trơn. Người ta cho 2 cây thuần chủng có kiểu hình lá nguyên, thân có gai và cây lá xẻ, thân trơn giao phấn với nhau, thu được F1. Khi cho các cây F1 tự thụ, thu được F2 gồm 4 loại kiểu hình với tỷ lệ 73,04% cây lá nguyên có gai : 1,96% cây lá nguyên thân trơn : 1,96% cây lá xẻ có gai : 23,04% cây lá xẻ, thân trơn. Khoảng cách giữa hai cặp gene này trên NST là bao nhiêu cM? Biết quá trình giảm phân là bình thường và giống",
+    "options": [],
+    "correct": 4,
+    "explanation": "AB ab P: ´ AB ab ab F1: 100% ab Xét tỷ lệ phân ly kiểu hình ở F2: 73,04% cây lá nguyên có gai : 1,96% cây lá nguyên thân trơn : 1,96% cây lá xẻ có gai : 23,04% cây lá xẻ thân trơn → Có hiện tượng hoán vị gene ab Tỷ lệ các cá thể có kiểu hình lá xẻ thân trơn (đồng hợp lặn về cả hai cặp gene ) chiếm 23,04% = ab 48% ab × 48% ab → Các cá thể F1 tạo ra 2 loại giao tử hoán vị với tỷ lệ 2% Ab : 2% aB → Tần số hoán vị gene f = tỷ lệ số giao tử hoán vị trong tổng số giao tử được tạo ra → f = 4% → khoảng cách giữa hai gene trên NST là 4 cM Dựa vào thông tin dưới đây để trả lời các câu hỏi từ câu 315 đến câu 317: Thức ăn trong dạ dày của người được tiêu hóa cơ học nhờ sự co bóp của các cơ dạ dày và tiêu hóa hóa học nhờ dịch vị. Dịch vị gồm 2 thành phần chính bao gồm acid clohydric (HCl) và enzyme pepsin. Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn. Chức năng chính của acid này trong dịch vị là phá vỡ các liên kết ngoại bào có trong thức ăn thịt và thực vật và làm biến tính protein. Nhờ đó, enzyme pepsin có thể tiếp xúc với các liên kết peptide và phân cắt protein thành các polypeptide nhỏ hơn. Khác với nhiều enzyme khác, pepsin hoạt động tốt ",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Thành phần nào sau đây của dịch vị tạo nên độ pH thấp ở dạ dày?",
+    "options": [
+      "Enzyme pepsin.",
+      "Acid clohydric.",
+      "Protein.",
+      "Chuỗi polypeptide ngắn."
+    ],
+    "correct": 1,
+    "explanation": "Theo đề bài: \"Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn\" → đáp án chính xác là B",
+    "passage": "sinh_315"
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Chức năng chính của quá trình tiêu hóa thức ăn trong dạ dày là gì?",
+    "options": [
+      "Hấp thụ các amino acid vào cơ thể.",
+      "Tiết ra acid clohydric để hòa tan đinh sắt và tiêu diệt vi khuẩn.",
+      "Nghiền nát thức ăn và tiêu hóa protein.",
+      "Phá vỡ các liên kết ngoại bào và làm biến tính protein."
+    ],
+    "correct": 2,
+    "explanation": "Từ văn bản ta thấy tiêu hóa thức ăn ở dạ dày gồm tiêu hóa cơ học (dạ dày co bóp để nghiền nát thức ăn) và tiêu hóa hóa học nhờ dịch vị trong dạ dày. Dịch vị gồm 2 thành phần chính: acid clohydric giúp Phá vỡ các liên kết ngoại bào và làm biến tính protein; enzyme pepsin tiêu hóa protein thành các chuỗi polypeptide ngắn → Chức năng chính của quá trình tiêu hóa thức ăn ở dạ dày là nghiền nát thức ăn và tiêu hóa protein → chọn C. Ý A sai: quá trình hấp thụ các amino acid vào cơ thể xảy ra ở ruột non. Ý B sai: độ pH thấp của dịch vị có thể hòa tan đinh sắt và tiêu diệt vi khuẩn, nhưng đây không phải là chức năng chính của dạ dày. Ý D sai: Phá vỡ các liên kết ngoại bào và làm biến tính protein là chức năng của acid clohydric, không phải là chức năng chung của quá trình tiêu hóa thức ăn ở dạ dày.",
+    "passage": "sinh_315"
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Enzyme pepsin được tiết vào dịch vị dưới dạng pepsinogen không có hoạt tính sinh học. Chúng phải được kích hoạt bởi acid HCl trong dịch vị hoặc enzyme pepsin đã hoạt hóa để có thể thực hiện chức năng. Nếu một người bị đột biến ở gene quy định tổng hợp pepsinogen khiến protein này giảm khả năng chuyển hóa thành pepsin, người này có thể gặp vấn đề nào sau đây?",
+    "options": [
+      "Thiếu chất đạm.",
+      "Thiếu chất bột đường.",
+      "Thiếu vitamin",
+      "D. Thiếu máu do thiếu sắt."
+    ],
+    "correct": 0,
+    "explanation": "Pepsin là enzyme tiêu hóa có vai trò chính trong dạ dày, giúp phân cắt protein thành các chuỗi peptide nhỏ hơn để cơ thể có thể dễ dàng hấp thụ các amino acid ở ruột non. Nếu đột biến gene làm pepsinogen không thể chuyển hóa thành pepsin, quá trình tiêu hóa protein ở dạ dày bị ảnh hưởng nghiêm trọng, khiến quá trình hấp thu chất đạm (protein) của cơ thể giảm hiệu quả → có thể gây ra thiếu chất đạm. → chọn A. Các chất còn lại (chất bột đường - carbohydrate, vitamin A và sắt) không được tiêu hóa bởi pepsin nên sẽ không bị ảnh ----------",
+    "passage": "sinh_315"
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Khái niệm \"văn minh\" thường được hiểu là trạng thái phát triển cao của xã hội loài người trên phương diện nào?",
+    "options": [
+      "Chỉ về sự tiến bộ của khoa học kỹ thuật.",
+      "Chỉ về sự phát triển của nghệ thuật và văn hóa.",
+      "Cả về sự phát triển vật chất và tinh thần.",
+      "Chỉ về sự hình thành của các đô thị lớn."
+    ],
+    "correct": 2,
+    "explanation": "Văn minh là một khái niệm rộng lớn, bao hàm sự tiến bộ toàn diện của xã hội loài người. Nó không chỉ đơn thuần là sự phát triển về khoa học kỹ thuật hay nghệ thuật văn hóa, mà còn bao gồm cả sự phát triển về đạo đức, pháp luật, tổ chức xã hội, và các giá trị tinh thần khác. Sự phát triển vật chất đề cập đến những tiến bộ trong sản xuất, công nghệ, cơ sở hạ tầng, giúp nâng cao chất lượng cuộc sống vật chất của con người. Sự phát triển tinh thần đề cập đến những tiến bộ trong tư tưởng, đạo đức, nghệ thuật, khoa học, giúp nâng cao đời sống tinh thần và trí tuệ của con người. Do đó, một xã hội được coi là văn minh khi nó đạt được sự cân bằng và hài hòa giữa sự phát triển vật chất và tinh thần.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: Đâu là một trong những nguyên nhân sâu xa dẫn đến các cuộc cách mạng tư sản?",
+    "options": [
+      "Sự trỗi dậy của giai cấp công nhân và nông dân.",
+      "Sự kìm hãm của chế độ phong kiến đối với sự phát triển của kinh tế tư bản chủ nghĩ",
+      "Sự xâm lược của các quốc gia láng giềng.",
+      "Sự suy yếu của các tôn giáo truyền thống."
+    ],
+    "correct": 1,
+    "explanation": "A loại vì Sự trỗi dậy của giai cấp công nhân và nông dân: Giai cấp công nhân và nông dân là lực lượng tham gia vào các cuộc cách mạng tư sản, nhưng không phải là nguyên nhân sâu xa. C loại vì Sự xâm lược của các quốc gia láng giềng: Xâm lược có thể là một yếu tố tác động, nhưng không phải là nguyên nhân chính. D loại vì Sự suy yếu của các tôn giáo truyền thống: Tôn giáo có thể bị ảnh hưởng bởi các cuộc cách mạng tư sản, nhưng không phải là nguyên nhân gây ra chúng. Đáp án đúng là B. Sự kìm hãm của chế độ phong kiến đối với sự phát triển của kinh tế tư bản chủ nghĩa. Cách mạng tư sản là cuộc cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến, giành lấy quyền lực chính trị và mở đường cho sự phát triển của chủ nghĩa tư bản. Nguyên nhân sâu xa của các cuộc cách mạng này chính là mâu thuẫn gay gắt giữa sự phát triển của kinh tế tư bản chủ nghĩa và sự kìm hãm của chế độ phong kiến. Chế độ phong kiến với những đặc trưng như chế độ sở hữu ruộng đất của địa chủ, sự phân chia đẳng cấp xã hội, và sự can thiệp của nhà nước vào kinh tế đã trở thành rào cản lớn đối với sự phát triển của các lực lượng sản xuất tư bản chủ nghĩa. Giai cấp tư sản với mong muốn tự do kinh doanh, mở ",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Khái niệm \"nhà nước vô sản\" thường được đề cập đến trong lý luận của chủ nghĩa xã hội khoa học với vai trò gì?",
+    "options": [
+      "Duy trì trật tự xã hội hiện tại.",
+      "Công cụ để giai cấp công nhân giành chính quyền và xây dựng xã hội mới.",
+      "Bảo vệ quyền lợi của giai cấp tư sản.",
+      "Hòa giải các mâu thuẫn giai cấp trong xã hội."
+    ],
+    "correct": 1,
+    "explanation": "Nhà nước vô sản là một khái niệm trung tâm trong lý luận của chủ nghĩa xã hội khoa học, đặc biệt là chủ nghĩa Marx-Lenin. Theo lý thuyết này, nhà nước vô sản không phải là một nhà nước tồn tại vĩnh viễn, mà chỉ là một giai đoạn quá độ từ xã hội tư bản chủ nghĩa sang xã hội cộng sản chủ nghĩa. Vai trò chính của nhà nước vô sản là công cụ để giai cấp công nhân và nhân dân lao động giành lấy chính quyền từ tay giai cấp tư sản, đồng thời xây dựng một xã hội mới không còn giai cấp, không còn áp bức và bóc lột.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Đọc tư liệu và trả lời câu hỏi. Chủ nghĩa tư bản là một con đỉa có một cái vòi bám vào giai cấp vô sản ở chính quốc và một cái vòi khác bám vào giai cấp vô sản ở các thuộc địa. Nếu người ta muốn giết con vật ấy, người ta phải đồng thời cắt cả hai vòi. Nếu người ta chỉ cắt một vòi thôi, thì cái vòi kia vẫn tiếp tục hút máu của giai cấp vô sản; con vật vẫn tiếp tục sống và cái vòi bị cắt đứt lại sẽ mọc ra\". (Chủ nghĩa đế quốc - Giai đoạn tột cùng của chủ nghĩa tư bản\" (Imperialism, the Highest Stage of Capitalism), xuất bản năm 1917) Hình ảnh \"con đỉa\" trong đoạn tư liệu ẩn dụ cho điều gì về bản chất của chủ nghĩa tư bản?",
+    "options": [
+      "Sự yếu đuối và phụ thuộc vào người khác.",
+      "Sự tàn bạo và khả năng thích nghi cao.",
+      "Sự bền bỉ và khả năng phục hồi mạnh mẽ.",
+      "Sự gian xảo và khả năng ngụy trang tinh vi."
+    ],
+    "correct": 1,
+    "explanation": "- Hình ảnh \"con đỉa\" được sử dụng trong đoạn tư liệu để ẩn dụ cho bản chất bóc lột và tàn bạo của chủ nghĩa tư bản. - \"Con đỉa\" là một loài vật sống bằng cách hút máu của các sinh vật khác, tương tự như cách chủ nghĩa tư bản bóc lột giá trị thặng dư từ giai cấp công nhân. - Khả năng \"mọc ra\" của vòi bị cắt đứt tượng trưng cho khả năng thích nghi và phục hồi của chủ nghĩa tư bản trước những thách thức và khủng hoảng. - Sự tồn tại của hai vòi thể hiện sự bóc lột của chủ nghĩa tư bản không chỉ ở chính quốc mà còn ở các thuộc địa, cho thấy tính chất toàn cầu và sự lan rộng của nó.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: Vấn đề tranh chấp Biển Đông chủ yếu liên quan đến yếu tố nào?",
+    "options": [
+      "Khai thác du lịch biển.",
+      "Đánh bắt hải sản.",
+      "Chủ quyền lãnh thổ và tài nguyên biển.",
+      "Xây dựng cảng biển quốc tế."
+    ],
+    "correct": 2,
+    "explanation": "Vấn đề tranh chấp Biển Đông chủ yếu xoay quanh việc xác định chủ quyền lãnh thổ đối với các quần đảo và quyền khai thác tài nguyên thiên nhiên, như dầu mỏ, khí đốt và hải sản trong khu vực này. Đây cũng là tuyến đường hàng hải quan trọng có ý nghĩa chiến lược trong giao thương quốc tế.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: Năm 2016, Tòa Trọng tài Thường trực (PCA) ra phán quyết về tranh chấp Biển Đông giữa Philippines và Trung Quốc. Kết luận chính của phán quyết là gì?",
+    "options": [
+      "Trung Quốc có chủ quyền lịch sử không thể tranh cãi trên Biển Đông.",
+      "\"Đường chín đoạn\" của Trung Quốc không có cơ sở pháp lý.",
+      "Philippines không có quyền khai thác tài nguyên ở Biển Đông.",
+      "Các nước ngoài khu vực không được can thiệp vào Biển Đông."
+    ],
+    "correct": 1,
+    "explanation": "\"Trung Quốc có chủ quyền lịch sử không thể tranh cãi trên Biển Đông.\"⇒ Sai, vì phán quyết bác bỏ cơ sở lịch sử của Trung Quốc. \"Đường chín đoạn\" của Trung Quốc không có cơ sở pháp lý. ⇒ Đúng, đây là kết luận chính của phán quyết. \"Philippines không có quyền khai thác tài nguyên ở Biển Đông.\" ⇒ Sai, phán quyết khẳng định Philippines có quyền trong vùng đặc quyền kinh tế (EEZ) của mình. \"Các nước ngoài khu vực không được can thiệp vào Biển Đông.\" ⇒ Không liên quan đến nội dung của phán quyết.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: Chọn những nhận định đúng về Liên minh châu Âu (EU)? I. EU là tổ chức kinh tế - chính trị lớn nhất thế giới hiện nay, với nhiều quốc gia ở châu Âu. II. Tất cả các quốc gia thành viên EU đều sử dụng đồng Euro làm đơn vị tiền tệ chính thức. III. EU có quân đội chung và chính sách quốc phòng thống nhất. IV. Eu có một thị trường chung, cho phép tự do lưu thông hàng hóa, dịch vụ, vốn và con người giữa các quốc gia thành viên.",
+    "options": [
+      "I và IV.",
+      "II và III.",
+      "I và III.",
+      "II và IV."
+    ],
+    "correct": 0,
+    "explanation": "I. EU là tổ chức kinh tế - chính trị lớn nhất thế giới hiện nay, với nhiều quốc gia ở châu Âu. Nhận định này đúng. EU là một tổ chức khu vực lớn mạnh, có ảnh hưởng sâu rộng đến kinh tế và chính trị toàn cầu. II. Tất cả các quốc gia thành viên EU đều sử dụng đồng Euro làm đơn vị tiền tệ chính thức. Nhận định này sai. Không phải tất cả các quốc gia thành viên EU đều sử dụng đồng Euro. Ví dụ, Thụy Điển, Đan Mạch, Ba Lan, Hungary, Cộng hòa Séc, Romania, Bulgaria và Croatia vẫn giữ đồng tiền riêng của họ. III. EU có quân đội chung và chính sách quốc phòng thống nhất. Nhận định này sai. EU không có quân đội chung. Các quốc gia thành viên vẫn duy trì quân đội riêng và có các chính sách quốc phòng độc lập. Tuy nhiên, EU có các cơ chế hợp tác về an ninh và quốc phòng. IV. EU có một thị trường chung, cho phép tự do lưu thông hàng hóa, dịch vụ, vốn và con người giữa các quốc gia thành viên. Nhận định này đúng. Đây là một trong những đặc điểm nổi bật nhất của EU. Thị trường chung giúp thúc đẩy thương mại, đầu tư và tăng trưởng kinh tế trong khu vực. Vậy, các nhận định đúng là I và IV.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: Trận đánh nào sau đây là trận đánh lớn, mang tính quyết định trong cuộc khởi nghĩa Lam Sơn?",
+    "options": [
+      "Trận Bạch Đằng.",
+      "Trận Chi Lăng - Xương Giang.",
+      "Trận Ngọc Hồi - Đống Đa.",
+      "Trận Rạch Gầm - Xoài Mút."
+    ],
+    "correct": 1,
+    "explanation": "- Trận Bạch Đằng: Trận Bạch Đằng nổi tiếng diễn ra vào năm 938, khi Ngô Quyền đánh bại quân Nam Hán, chấm dứt thời kỳ Bắc thuộc lần thứ hai. Trận này không thuộc cuộc khởi nghĩa Lam Sơn. - Trận Chi Lăng - Xương Giang: Đây là trận đánh quyết định trong cuộc khởi nghĩa Lam Sơn (1418- 1428) do Lê Lợi lãnh đạo chống lại quân Minh xâm lược. Trận đánh diễn ra vào cuối năm 1427, quân Lam Sơn đã tiêu diệt và bắt sống đại quân Minh do Liễu Thăng chỉ huy. - Trận Ngọc Hồi - Đống Đa: Trận Ngọc Hồi - Đống Đa diễn ra vào năm 1789, khi vua Quang Trung (Nguyễn Huệ) đánh tan quân Thanh xâm lược. Trận này không thuộc cuộc khởi nghĩa Lam Sơn. - Trận Rạch Gầm - Xoài Mút: Trận Rạch Gầm - Xoài Mút diễn ra vào năm 1785, khi quân Tây Sơn đánh tan quân Xiêm xâm lược. Trận này cũng không thuộc cuộc khởi nghĩa Lam Sơn.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: Loại hình văn hóa nào sau đây thể hiện nét đặc trưng của văn hóa nông nghiệp lúa nước ở Việt Nam?",
+    "options": [
+      "Văn hóa du mục.",
+      "Văn hóa săn bắn.",
+      "Văn hóa làng xã.",
+      "Văn hóa đô thị."
+    ],
+    "correct": 2,
+    "explanation": "- Văn hóa du mục là hình thức sinh hoạt kinh tế dựa trên việc chăn nuôi gia súc và di chuyển theo mùa vụ. Loại hình này không phù hợp với nông nghiệp lúa nước. -Văn hóa săn bắn là hình thức sinh hoạt kinh tế dựa trên việc săn bắt động vật hoang dã. Loại hình này cũng không phải là đặc trưng của văn hóa nông nghiệp lúa nước. -Văn hóa làng xã là hình thức tổ chức cộng đồng dựa trên nền tảng nông nghiệp lúa nước. Đây là loại hình văn hóa đặc trưng của Việt Nam, gắn liền với việc trồng lúa nước và các hoạt động sản xuất nông nghiệp khác. -Văn hóa đô thị là hình thức văn hóa phát triển trong các thành phố lớn, gắn liền với các hoạt động kinh tế, thương mại, dịch vụ. Loại hình này không phải là đặc trưng của văn hóa nông nghiệp lúa nước.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: Ý nghĩa nào sau đây KHÔNG phải là ý nghĩa của cuộc cải cách dưới thời vua Lê Thánh Tông?",
+    "options": [
+      "Mở rộng lãnh thổ Đại Việt đến mức tối đa.",
+      "Củng cố và hoàn thiện bộ máy nhà nước.",
+      "Phát triển kinh tế, văn hóa, giáo dục.",
+      "Tăng cường sức mạnh quân sự, bảo vệ chủ quyền quốc gia."
+    ],
+    "correct": 0,
+    "explanation": "Mặc dù vua Lê Thánh Tông có những cuộc chinh phạt mở rộng bờ cõi, nhưng đó không phải là ý nghĩa chính của cuộc cải cách của ông. Mục tiêu chính của cuộc cải cách là củng cố và hoàn thiện bộ máy nhà nước, phát triển kinh tế, văn hóa, giáo dục và tăng cường sức mạnh quân sự để bảo vệ chủ quyền quốc gia. Mở rộng lãnh thổ chỉ là một phần trong những nỗ lực đó, không phải là mục tiêu cuối cùng.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: Sự kiện nào đánh dấu thắng lợi của Cách mạng tháng Tám năm 1945?",
+    "options": [
+      "Nhật Bản đầu hàng Đồng minh.",
+      "Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập.",
+      "Quân đội Việt Minh tiến vào Hà Nội.",
+      "Chính phủ Trần Trọng Kim từ chức."
+    ],
+    "correct": 1,
+    "explanation": "- Nhật Bản đầu hàng Đồng minh: Sự kiện này tạo điều kiện thuận lợi cho Cách mạng tháng Tám, nhưng không phải là sự kiện đánh dấu thắng lợi của cuộc cách mạng. - Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập. Đây là sự kiện lịch sử trọng đại, đánh dấu sự ra đời của nước Việt Nam Dân chủ Cộng hòa, khẳng định quyền độc lập, tự do của dân tộc Việt Nam sau nhiều năm đấu tranh. - Quân đội Việt Minh tiến vào Hà Nội: Đây là một sự kiện quan trọng trong Cách mạng tháng Tám, nhưng không phải là sự kiện đánh dấu thắng lợi cuối cùng. - Chính phủ Trần Trọng Kim từ chức: Sự kiện này thể hiện sự sụp đổ của chính quyền bù nhìn do Nhật Bản dựng lên, nhưng không phải là sự kiện đánh dấu thắng lợi của Cách mạng tháng Tám. Đọc tư liệu và trả lời câu hỏi từ 412 đến 414: Về đội ngũ quan lại: Vua chú trọng xây dựng đội ngũ quan lại hiền tài, thiết lập lại chế định ngạch, bậc quan lại từ Trung ương đến địa phương. Vua bãi bỏ chức Tổng trấn Bắc thành và Gia Định thành, đổi trấn thành tỉnh, củng cố chế độ lưu quan ở miền núi. Nhà vua rất chú trọng việc đào tạo, bồi dưỡng đội ngũ quan lại để tiến cử vào các cơ quan hành chính nhà nước. Trong những năm trị vì, vua Minh Mạng xác định học vấn làm tiêu chuẩn đ",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Tiêu chuẩn tuyển dụng quan lại dưới triều vua Minh Mạng dựa trên yếu tố nào?",
+    "options": [
+      "Gia thế và dòng tộc.",
+      "Kinh nghiệm chiến đấu.",
+      "Học vấn và khoa cử.",
+      "Sự giàu có và ảnh hưởng."
+    ],
+    "correct": 2,
+    "explanation": "A loại vì Gia thế và dòng tộc: Mặc dù gia thế có thể có ảnh hưởng nhất định, nhưng không phải là tiêu chuẩn chính để tuyển chọn quan lại dưới triều vua Minh Mạng. B loại vì Kinh nghiệm chiến đấu: Kinh nghiệm chiến đấu có thể được xem xét trong một số trường hợp, nhưng không phải là tiêu chuẩn chung để tuyển chọn quan lại. D loại vì Sự giàu có và ảnh hưởng: Sự giàu có và ảnh hưởng không phải là tiêu chuẩn để tuyển chọn quan lại dưới triều vua Minh Mạng. Dưới triều vua Minh Mạng, việc tuyển chọn quan lại được chú trọng vào năng lực thực sự thông qua hệ thống khoa cử. Vua Minh Mạng đã có nhiều cải cách để nâng cao chất lượng giáo dục và khoa cử, nhằm tuyển chọn được những người tài giỏi, có năng lực thực sự để phục vụ đất nước, nên đáp án C đúng.",
+    "passage": "minh_mang_quan_lai"
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Các kỳ thi Hương và thi Hội được tổ chức vào những năm nào?",
+    "options": [
+      "Năm Tý, Ngọ, Mão, Dậu và Thìn, Tuất, Sửu, Mùi.",
+      "Năm Thân, Dần, Thìn, Tỵ và Tuất, Dậu, Hợi, Mùi.",
+      "Năm Tý, Sửu, Dần, Mão và Thìn, Tỵ, Ngọ, Mùi.",
+      "Năm Mão, Thìn, Tỵ, Ngọ và Dậu, Tuất, Hợi, Tý."
+    ],
+    "correct": 0,
+    "explanation": "- Kỳ thi Hương: Được tổ chức vào các năm Tý, Ngọ, Mão, Dậu. Đây là kỳ thi cấp tỉnh, người đỗ sẽ được gọi là Cử nhân. - Kỳ thi Hội: Được tổ chức vào các năm Thìn, Tuất, Sửu, Mùi. Đây là kỳ thi cấp quốc gia, người đỗ sẽ được gọi là Tiến sĩ.",
+    "passage": "minh_mang_quan_lai"
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: Vua Minh Mạng đã khuyến cáo quan lại về việc cải tiến chế độ và nội dung thi cử nhằm mục đích gì?",
+    "options": [
+      "Giảm thiểu chi phí tổ chức kỳ thi.",
+      "Đảm bảo tính công bằng và thực chất trong tuyển chọn nhân tài.",
+      "Mở rộng quyền thi cử cho tất cả mọi tầng lớp.",
+      "Giảm áp lực học tập cho sĩ tử."
+    ],
+    "correct": 1,
+    "explanation": "Vua Minh Mạng rất quan tâm đến việc tuyển chọn nhân tài cho đất nước. Ông nhận thấy những bất cập trong chế độ thi cử cũ, có thể dẫn đến việc tuyển chọn không đúng người tài. Do đó, ông đã khuyến cáo quan lại về việc cải tiến chế độ và nội dung thi cử nhằm mục đích: - Đảm bảo tính công bằng: Tạo ra một môi trường thi cử minh bạch, công bằng, để mọi người có cơ hội cạnh tranh như nhau. - Đảm bảo tính thực chất: Đánh giá đúng năng lực và phẩm chất của thí sinh, tránh tình trạng học vẹt, học tủ. - Tuyển chọn nhân tài: Tìm kiếm những người có tài năng thực sự để phục vụ đất nước. Đọc tư liệu và trả lời câu hỏi từ 415 đến 417: Từ Moskva, khi đó Nguyễn Ái Quốc đã thấy đây là một \"cánh chim báo tin vui\". Các thành viên tiêu biểu của Tâm tâm xã là Hồ Tùng Mậu, Lê Hồng Sơn, Lê Hồng Phong, Phạm Hồng Thái… Đây là một nhóm thanh niên đầy nhiệt huyết, sẵn sàng hy sinh vì Tổ quốc nhưng con đường cứu nước của họ chưa xác định được rõ ràng. Ngay sau khi đến Quảng Châu (11/11/1924), Nguyễn Ái Quốc đã chọn những hạt nhân đầu tiên cho cách mạng Việt Nam là những thành viên trung kiên của nhóm Tâm tâm xã trên sự tin tưởng vào bầu nhiệt huyết yêu nước của thế hệ trẻ. Từ những hạt nhân đầu tiên, Nguyễn ",
+    "passage": "minh_mang_quan_lai"
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: Nguyễn Ái Quốc đã lựa chọn những thành viên nào để làm hạt nhân đầu tiên cho cách mạng Việt Nam khi đến Quảng Châu?",
+    "options": [
+      "Những người có kinh nghiệm quân sự dày dặn.",
+      "Những thành viên trung kiên của nhóm Tâm tâm xã.",
+      "Những người có địa vị xã hội cao.",
+      "Những người thông thạo nhiều ngoại ngữ."
+    ],
+    "correct": 1,
+    "explanation": "Trong đoạn tư liệu bạn cung cấp, có đoạn viết: \"Ngay sau khi đến Quảng Châu (11/11/1924), Nguyễn Ái Quốc đã chọn những hạt nhân đầu tiên cho cách mạng Việt Nam là những thành viên trung kiên của nhóm Tâm tâm xã trên 1 tin tưởng vào bầu nhiệt huyết yêu nước của thế hệ trẻ.",
+    "passage": "nguyen_ai_quoc_quang_chau"
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: Tờ báo đầu tiên của cách mạng Việt Nam do Nguyễn Ái Quốc sáng lập có tên là gì?",
+    "options": [
+      "Nhân Dân.",
+      "Thanh Niên.",
+      "Tiền Phong.",
+      "Việt Nam Độc Lập."
+    ],
+    "correct": 1,
+    "explanation": "Tờ báo \"Thanh Niên\" do Nguyễn Ái Quốc sáng lập ngày 21/6/1925 tại Quảng Châu (Trung Quốc) là tờ báo đầu tiên của cách mạng Việt Nam. Báo có vai trò quan trọng trong việc truyền bá chủ nghĩa Mác - Lênin và tư tưởng cách mạng đến giai cấp công nhân và nhân dân Việt Nam, góp phần thúc đẩy phong trào yêu nước và cách mạng Việt Nam phát triển.",
+    "passage": "nguyen_ai_quoc_quang_chau"
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: Trong giai đoạn 1924-1927, ngoài việc tổ chức cách mạng Việt Nam, Nguyễn Ái Quốc còn đảm nhiệm nhiệm vụ gì?",
+    "options": [
+      "Đại sứ tại Liên Xô.",
+      "Chiến sĩ quốc tế do Quốc tế Cộng sản giao phó.",
+      "Giáo viên tại một trường đại học ở Pháp.",
+      "Nhà báo cho một tờ báo quốc tế."
+    ],
+    "correct": 1,
+    "explanation": "Trong giai đoạn 1924-1927, ngoài việc tổ chức và lãnh đạo phong trào cách mạng Việt Nam, Nguyễn Ái Quốc còn hoạt động tích cực trong vai trò là chiến sĩ quốc tế do Quốc tế Cộng sản giao phó. Ông tham gia vào nhiều hoạt động cách mạng tại các nước châu Á, đặc biệt là ở Trung Quốc và Liên Xô, nhằm tuyên truyền chủ nghĩa Mác-Lênin và liên kết phong trào cách mạng quốc tế. ----------",
+    "passage": "nguyen_ai_quoc_quang_chau"
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Mọi nơi trên bề mặt Trái Đất có sự luân phiên ngày đêm là do",
+    "options": [
+      "sự điều hoà nhiệt độ trên bề mặt Trái Đất.",
+      "Trái Đất hình cầu và tự quay quanh trục.",
+      "trục Trái Đất luôn nghiêng và không đổi phương.",
+      "độ dài ngày đêm thay đổi theo vĩ độ."
+    ],
+    "correct": 1,
+    "explanation": "Mọi nơi trên bề mặt Trái Đất có sự luân phiên ngày đêm là do Trái Đất hình cầu và tự quay quanh trục. Loại C và D vì đây là nguyên nhân làm cho hệ quả của chuyển động quanh Mặt Trời của Trái Đất. Loại A vì sai.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Cơ cấu dân số phản ánh những đặc trưng về",
+    "options": [
+      "cấu trúc của dân số.",
+      "cấu trúc lao động.",
+      "cấu trúc theo xã hội.",
+      "cấu trúc theo tuổi."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A đúng và đầy đủ hơn đáp án C và D. Cơ cấu dân số phản ánh những đặc trưng về cấu trúc dân số.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: Quỹ Tiền tệ Quốc tế (IMF) được thành lập với mục đích chủ yếu nào sau đây?",
+    "options": [
+      "Nâng cao mức sống, tạo việc làm.",
+      "Đảm bảo sự ổn định về hòa bình.",
+      "Giải quyết các bất đồng chủ quyền.",
+      "Thúc đẩy hợp tác tiền tệ toàn cầu."
+    ],
+    "correct": 3,
+    "explanation": "Quỹ Tiền tệ Quốc tế được thành lập với mục đích chủ yếu thúc đẩy hợp tác tiền tệ toàn cầu. Loại B vì thuộc tổ chức UN, loại A và C vì không thuộc IMF.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Ngành công nghiệp khai thác than và sản xuất điện của Trung Quốc phát triển là do",
+    "options": [
+      "có trữ lượng than và các nguồn năng lượng thủy điện, gió, mặt trời lớn.",
+      "có nguồn lao động dồi dào, công nghệ sản xuất tiên tiến, hiện đại.",
+      "thu hút được vốn đầu tư của nước ngoài ngày càng lớn.",
+      "có thị trường tiêu thụ lớn từ trong nước và nhiều nước trên thế giới."
+    ],
+    "correct": 0,
+    "explanation": "Ngành công nghiệp khai thác than và sản xuất điện của Trung Quốc phát triển là do có trữ lượng than và các nguồn năng lượng thủy điện, gió, mặt trời lớn.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: Lĩnh vực nào sau đây thuộc an ninh phi truyền thống?",
+    "options": [
+      "Chiến tranh cục bộ.",
+      "Xung đột sắc tộc.",
+      "Dịch bệnh toàn cầu.",
+      "Khủng bố vũ trang."
+    ],
+    "correct": 2,
+    "explanation": "Loại A, B và D vì đây là các vấn đề thuộc an ninh truyền thống. Đáp án C Dịch bệnh toàn cầu là vấn đề thuộc an ninh phi truyền thống.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Cho các nhận định sau về Nhật Bản: 1) Nhật Bản đang thiếu hụt lực lượng lao động trong các hoạt động kinh tế. 2) Tỉ lệ dân thành thị của Nhật Bản đã đạt giá trị cực đại không thể tăng thêm. 3) Nhật Bản là quốc gia có vùng biển giàu hải sản do có các dòng biển nóng, lạnh gặp nhau tạo nên ngư trường lớn với nhiều loài cá. 4) Hệ thống giáo dục được coi là chìa khoá giúp cho Nhật Bản trong quá trình hội nhập, tăng trưởng góp phần đưa đất nước tiến đến hiện đại hoá. 5) Nhật Bản là quốc gia hạn chế về lao động đặc biệt là chất lượng nguồn lao động còn nhiều hạn chế nhưng đã và đang được nâng cao. Có bao nhiêu nhận định đúng về Nhật Bản?",
+    "options": [
+      "2.",
+      "3.",
+      "4.",
+      "5."
+    ],
+    "correct": 1,
+    "explanation": "1) Nhật Bản đang thiếu hụt lực lượng lao động trong các hoạt động kinh tế => đúng. 2) Tỉ lệ dân thành thị của Nhật Bản đã đạt giá trị cực đại không thể tăng thêm => sai. 3) Nhật Bản là quốc gia có vùng biển giàu hải sản do có các dòng biển nóng, lạnh gặp nhau tạo nên ngư trường lớn với nhiều loài cá => đúng. 4) Hệ thống giáo dục được coi là chìa khoá giúp cho Nhật Bản trong quá trình hội nhập, tăng trưởng góp phần đưa đất nước tiến đến hiện đại hoá => đúng. 5) Nhật Bản là quốc gia hạn chế về lao động đặc biệt là chất lượng nguồn lao động còn nhiều hạn chế nhưng đã và đang được nâng cao => sai.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Cho bảng số liệu: Diện tích các loại cây trồng phân theo nhóm cây năm 2005 và năm 2016 (Đơn vị: nghìn ha) Cây lương thực Cây công nghiệp Cây công nghiệp Cây ăn Năm Tổng số Cây khác có hạt hàng năm lâu năm quả 2005 13287,0 8333,4 861,5 1633,6 767,4 1641,1 2016 15112,1 8890,6 811,5 2345,7 869,1 3188,3 Dựa vào bảng số liệu, nhận xét nào sau đây đúng với diện tích các loại cây trồng phân theo các nhóm cây năm 2005 và năm 2016?",
+    "options": [
+      "Diện tích cây công nghiệp hàng năm tăng ít nhất.",
+      "Diện tích cây công nghiệp lâu năm tăng nhiều nhất.",
+      "Diện tích cây công nghiệp lâu năm tăng nhiều hơn diện tích cây lương thực.",
+      "Diện tích cây công nghiệp lâu năm tăng ít hơn diện tích giảm của cây công nghiệp hàng năm."
+    ],
+    "correct": 2,
+    "explanation": "A sai cây công nghiệp hàng năm giảm diện tích. B sai diện tích cây khác tăng nhiều nhất với 1,94 lần. C đúng cây lâu năm tăng 1,4 lần, cây lương thực có hạt tăng 1,1 lần. D sai mức tăng cây công nghiệp lâu năm là 712,1 nghìn ha còn mức giảm cây công nghiệp hàng năm giảm 50 nghìn ha.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Cho bảng số liệu về số dân của nước ta phân theo giới tính, giai đoạn 2010 - 2022 Nhận xét nào sau đây đúng với bảng số liệu trên?",
+    "options": [
+      "Tỷ lệ dân số nam tăng nhanh, dân số nữ giảm nhanh.",
+      "Tỷ số giới tính có xu hướng cân bằng, năm 2022 là 99,4/100.",
+      "Quy mô dân số ngày càng lớn, mỗi năm tăng khoảng 1,5 triệu người.",
+      "Tốc độ tăng trưởng của dân số nam thấp hơn dân số nữ."
+    ],
+    "correct": 1,
+    "explanation": "Loại A vì tỷ lệ nam có xu hướng giảm, nữ xu hướng tăng. Loại C vì sai, trung bình tăng khoảng 1 triệu người/ năm. Loại D vì tốc độ tăng trưởng dân số nam (15,1%) cao hơn dân số nữ (13,4%) Chọn B vì áp dụng công thức năm 2022 là 99,4/100 nữ.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Cho biểu đồ nhiệt độ lượng mưa sau: Theo biểu đồ và kiến thức đã học, phát biểu nào sau đây đúng về nhiệt khí hậu ở Hà Nội?",
+    "options": [
+      "Nhiệt độ trung bình năm cao trên 25 độ C do ảnh hưởng của gió mùa Tây Nam và địa hình.",
+      "Mùa mưa trong khoảng từ tháng 5 đến tháng 10 do ảnh hưởng của gió Đông Nam thổi từ biển vào và ảnh hưởng của dải hội tụ nhiệt đới.",
+      "Biên độ nhiệt trong năm lớn là do ảnh hưởng của gió mùa Đông Nam, độ cao địa hình và hướng các dãy núi.",
+      "Lượng mưa từ tháng 11 đến tháng 4 năm sau do ảnh hưởng của gió mùa Tây Nam và dải hội tụ nhiệt đới."
+    ],
+    "correct": 1,
+    "explanation": "A sai vì nhiệt độ trung bình năm là trên 20 độ C do ảnh hưởng của gió mùa Đông Bắc và địa hình. B đúng vì mùa mưa là 3 tháng liên tiếp có lượng mưa >100mm, mùa hè Hà Nội ảnh hưởng của gió mùa Đông Nam thổi từ biển vào kết hợp với dải hội tụ nhiệt đới làm cho Hà Nội có lượng mưa lớn. C không đủ vì biên độ nhiệt năm lớn là do gió mùa Đông Bắc là chủ yếu. D sai vì lượng mưa mùa đông ít là do gió mùa Đông Bắc.",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Vùng Duyên hải Nam Trung Bộ có thế mạnh phát triển du lịch biển, đảo là do",
+    "options": [
+      "có nhiều ngư trường lớn, nhiều đảo gần bờ.",
+      "có các bãi biển đẹp, nhiều vũng vịnh nổi tiếng, các đảo gần bờ.",
+      "có nhiều vịnh biển ăn sâu vào đất liền, kín gió, giàu khoáng sản.",
+      "vùng biển rộng, ấm, có hai quần đảo lớn là Hoàng Sa và Trường Sa."
+    ],
+    "correct": 1,
+    "explanation": "Vùng Duyên hải Nam Trung Bộ có thế mạnh phát triển du lịch biển, đảo là do có các bãi biển đẹp, nhiều vũng vịnh nổi tiếng, các đảo gần bờ. A, D sai vì ngư trường, biển ấm, rộng thuận lợi cho phát triển thuỷ sản. C sai vì thuận lợi cho xây cảng biển.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Ý nghĩa chủ yếu của việc phát triển vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên là",
+    "options": [
+      "nâng cao trình độ lao động, tập tập quán mới.",
+      "góp phần thay đổi cơ cấu kinh tế, tạo việc làm.",
+      "khai thác hợp lí về tự nhiên, bảo vệ môi trường.",
+      "đẩy mạnh sản xuất hàng hoá, phát triển kinh tế."
+    ],
+    "correct": 3,
+    "explanation": "A không đúng vì nâng cao trình độ lao động thuộc vấn đề về giáo dục. B và C chưa phải là ý nghĩa chủ yếu, trực tiếp nhất. Đáp án D chủ yếu nhất, trực tiếp nhất và phát triển được đúng thế mạnh của vùng là cây công nghiệp lâu năm. Ý nghĩa chủ yếu của việc phát triển vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên là đẩy mạnh sản xuất hàng hoá (việc phát triển vùng chuyên canh giúp tăng sản lượng, nâng cao chất lượng sản phẩm, đáp ứng nhu cầu thị trường trong và ngoài nước), phát triển kinh tế.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Ý nghĩa chủ yếu của việc phát triển ngành công nghiệp dầu khí ở Đông Nam Bộ?",
+    "options": [
+      "Thu hút vốn đầu tư, đẩy mạnh hội nhập quốc tế.",
+      "Tăng cường phân hoá lãnh thổ, cung cấp nguyên liệu.",
+      "Thúc đẩy chuyển dịch cơ cấu kinh tế, tạo ra việc làm.",
+      "Tạo ra sản phẩm hàng hoá, thúc đẩy tăng trưởng kinh tế."
+    ],
+    "correct": 3,
+    "explanation": "Tạo ra sản phẩm hàng hóa: Ngành công nghiệp dầu khí cung cấp các sản phẩm quan trọng như xăng, dầu, khí đốt, hóa chất... phục vụ cho nhu cầu trong nước và xuất khẩu. Thúc đẩy tăng trưởng kinh tế: Ngành dầu khí đóng góp lớn vào GDP, tạo ra nguồn thu ngân sách, thu hút đầu tư, thúc đẩy phát triển các ngành công nghiệp liên quan. Các đáp án A,B và C chưa phải ý nghĩa trực tiếp nhất.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Cho biểu đồ sau về ngành giao thông vận tải của nước ta:",
+    "options": [
+      "Quy mô vận chuyển và tốc độ tăng trưởng luân chuyển hàng hoá của nước ta giai đoạn 2010 - 2021.",
+      "Quy mô vận chuyển và sự chuyển dịch cơ cấu luân chuyển hàng hoá của nước ta giai đoạn 2010 - 2021.",
+      "Quy mô vận chuyển và luân chuyển hàng hoá của nước ta giai đoạn 2010 - 2021.",
+      "Tỉ trọng vận chuyển và luân chuyển hàng hoá của nước ta giai đoạn 2010 - 2021."
+    ],
+    "correct": 2,
+    "explanation": "Loại tốc độ tăng trưởng vì tốc độ tăng trưởng thể hiện đường biểu diễn bắt đầu năm đầu là 100%. Loại sự chuyển dịch cơ cấu vì thích hợp với biểu đồ miền. Loại D vì từ tỉ trọng thích hợp với biểu đồ cơ cấu. Ở đây có 2 đối tượng với 2 đơn vị khác nhau, vận chuyển được thể hiện bằng biểu đồ cột đơn vị là triệu tấn và luân chuyển thể hiện bằng đường biểu diễn đơn vị là Tỉ tấn.km. Vậy biểu đồ trên thể hiện Quy mô vận chuyển và luân chuyển hàng hoá của nước ta giai đoạn 2010 - 2021.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: Vùng kinh tế trọng điểm Đồng bằng sông Cửu Long là trung tâm hàng đầu của nước về",
+    "options": [
+      "diện tích và sản lượng lúa, khai thác và chế biến thủy sản.",
+      "khai thác và chế biến thủy sản, sản xuất hàng điện tử, ô tô.",
+      "sản xuất sản phẩm điện tử, chế biến thực phẩm và đồ uống.",
+      "chế biến thực phẩm và đồ uống, khai thác, chế biến khoáng sản."
+    ],
+    "correct": 0,
+    "explanation": "Đồng bằng sông Cửu Long là vùng sản xuất lúa gạo lớn nhất cả nước, đóng góp phần lớn vào sản lượng lúa của Việt Nam. Vùng này cũng có tiềm năng lớn về khai thác và chế biến thủy sản, với nguồn lợi thủy sản phong phú từ biển và sông ngòi. Dựa vào bảng số liệu và kiến thức đã học hãy trả lời các hỏi từ 515 đến 517:",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: Để thể hiện sản lượng hải sản khai thác, trong đó có sản lượng cá biển của Duyên hải Nam Trung Bộ giai đoạn 2010 - 2021, biểu đồ nào sau đây là thích hợp nhất?",
+    "options": [
+      "Tròn.",
+      "Cột chồng.",
+      "Đường.",
+      "Miền."
+    ],
+    "correct": 1,
+    "explanation": "Từ khoá: sản lượng khai thác, trong đó (tức là thể hiện tổng số và giá trị thành phần). Biểu đồ thích hợp nhất là biểu đồ cột chồng. Loại tròn vì từ khoá là quy mô và cơ cấu. Loại đường vì từ khoá là tốc độ tăng trưởng, tốc độ tăng (động thái phát triển). Loại miền từ khoá là chuyển dịch cơ cấu đơn vị là %.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: Sản lượng cá biển so với sản lượng hải sản khai thác năm 2021 chiếm:",
+    "options": [
+      "82,7%.",
+      "62,7%.",
+      "66,8%.",
+      "77,7%."
+    ],
+    "correct": 0,
+    "explanation": "Áp dụng công thức: Tỉ trọng = Giá trị thành phần/ Tổng số *100 = (966/ 1167,9) *100 = 82,7 (%)",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: Nhận định nào sau đây không đúng với ngành khai thác hải sản của Duyên hải Nam Trung Bộ?",
+    "options": [
+      "Cá biển chiếm tỉ trọng lớn trong sản lượng hải sản khai thác.",
+      "Sản lượng cá biển có tốc độ tăng nhanh hơn so với sản lượng hải sản khai thác.",
+      "Giai đoạn 2010 - 2021, sản lượng cá biển chiếm 50% sản lượng hải sản khai thác.",
+      "Sản lượng tăng liên tục là do đầu tư đội tàu công suất lớn, máy móc thiết bị hiện đại."
+    ],
+    "correct": 2,
+    "explanation": "A đúng vì cá biển chiếm đến 82,7% năm 2021. B đúng sản lượng cá biển tăng 1,9 lần, sản lượng khai thác tăng 1,7 lần. C sai giai đoạn trên cá biển luôn chiếm trên 73% sản lượng hải sản khai thác. D đúng vì tàu công suất lớn, máy móc thiết bị giúp cho sản lượng khai thác tăng liên tục. -----------",
+    "passage": null
+  }
+];

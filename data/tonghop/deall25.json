@@ -1,0 +1,1091 @@
+  {
+    "id": 101,
+    "question": "Câu 101: Một tảng băng có phần thể tích chìm trong nước là 80% tổng thể tích. Khối lượng riêng của nước là 1000kg/m3. Tảng băng trôi dưới tác dụng của lực đẩy của nước với độ lớn bằng 0,45% trọng lượng của tảng băng. Tính gia tốc trồi của tảng băng. Lấy g = 10m/s2.",
+    "options": [
+      "0,045m/s².",
+      "0,45m/s².",
+      "0,0405m/s².",
+      "0,0045m/s²."
+    ],
+    "correct": 0,
+    "explanation": "Chọn chiều dương là chuyển chuyển động của tảng băng. r uur r r Áp dụng định luật II Newton ta được: P + FA + F = ma (1) Chiếu biển thức (1) lên chiều dương của chuyển động ta được: F 0, 45%.mg F = ma Þ a = = = 0, 45%.g = 0, 0045.10 = 0, 045m / s 2 m m",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Một vật dao động với biên độ 10cm. Trong một chu kì, thời gian vật có tốc độ lớn hơn một giá trị v0 nào đó là 1s. Tốc độ trung bình khi đi một chiều giữa hai vị trí có cùng tốc độ v0 ở trên là 20cm/s. Tốc độ v0 là bao nhiêu?",
+    "options": [
+      "25,4cm/s.",
+      "35,14cm/s.",
+      "18,14cm/s.",
+      "3,14cm/s."
+    ],
+    "correct": 2,
+    "explanation": "Vị trí vật có tốc độ v0 là −x0 và +x0, trong 1 chu kì vật có tốc độ lớn hơn v0 khi vật đi từ - x0 ® + x0 và ngược lại (khoảng thời gian là 1s) ⇒ nếu chỉ xét 1 chiều thì khoảng thời gian là 0,5s 2 x0 Tốc độ trung bình khi đi 1 chiều giữa 2 điểm đó là vtb = = 20cm / s Þ x0 = 5cm 1 2 2p Þw = 3 Sử dụng công thức độc lập với thời gian: v0 = w A2 - x02 = 18,14cm / s",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Từ mặt đất, một vật được ném lên thẳng đứng với vận tốc ban đầu 10m/s. Bỏ qua sức cản không khí. Cho g = 10m/s2. Vị trí cao nhất mà vật lên được cách mặt đất một khoảng bằng:",
+    "options": [
+      "10m.",
+      "20m.",
+      "15m.",
+      "5m."
+    ],
+    "correct": 3,
+    "explanation": "Vì bỏ qua lực cản của không khí nên cơ năng của vật bảo toàn. Gọi h là độ cao lớn nhất của vật đạt được. Ta có: 1 2 1 mv0 = mgh Û v02 = gh 2 2 1 Û .102 = 10h 2 Û h = 5m",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Thực hiện thí nghiệm giao thoa sóng cơ trên mặt chất lỏng với 2 nguồn cùng pha có tần số f = 30(Hz), vận tốc truyền sóng trong môi trường là 150(cm/s). Trên mặt chất lỏng có 4 điểm có tọa độ so với các nguồn lần lượt như sau: M(d1 = 25cm; d2 = 30cm); N(d1 = 5cm; d2 = 10cm); O(d1 = 7cm; d2 = 12cm); P(d1 = 27,5cm; d2 = 30cm). Hỏi có mấy điểm nằm trên đường cực đại số 1.",
+    "options": [],
+    "correct": 3,
+    "explanation": "v 150 Bước sóng của sóng truyền đi là: l = = = 5cm f 30 Xét tại 4 điểm trên: + Tại M: Δd = d 2 - d1 = 30 - 25 = 5cm = l Þ nằm trên đường cực đại số 1 +Tại N: Δd = d 2 - d1 = 10 - 5 = 5cm = l Þ nằm trên đường cực đại số 1 + Tại O: Δd = d 2 - d1 = 12 - 7 = 5cm = l Þ nằm trên đường cực đại số 1 + Tại P: Δd = d 2 - d1 = 2, 5 = 0,5l Þ nằm trên đường cực tiểu số 1 Có 3 điểm nằm trên đường cực đại số 1",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Một vật nhỏ m = 200g rơi tự do. Lấy g = 10m/s2. Độ biến thiên động lượng của vật từ thời điểm thứ hai đến thời điểm thứ sáu kể từ lúc bắt đầu rơi là:",
+    "options": [
+      "0,8 (kg.m/s).",
+      "8 (kg.m/s).",
+      "80 (kg.m/s).",
+      "800 (kg.m/s)."
+    ],
+    "correct": 1,
+    "explanation": "Vật rơi tự do, phương trình vận tốc của vật: v = gt + Vận tốc của vật tại thời điểm thứ 2: v2 = 2 g + Vận tốc của vật tại thời điểm thứ 6: v6 = 6 g Biến thiên động lượng của vật từ thời điểm thứ 2 đến thời điểm thứ 6: Δp = p6 - p2 = mv6 - mv2 = 6mg - 2mg = 0, 2.10.(6 - 2) = 8 (kg .m/ s)",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Khi đến các trạm dừng để đón hoặc trả khách, xe buýt chỉ tạm dừng mà không tắt máy. Hành khách ngồi trên xe nhận thấy thân xe bị \"rung\". Dao động của thân xe lúc đó là dao động",
+    "options": [
+      "cộng hưởng.",
+      "tắt dần.",
+      "cưỡng bức.",
+      "điều hòa"
+    ],
+    "correct": 2,
+    "explanation": "Khi đến các trạm dừng để đón hoặc trả khách, xe buýt chỉ tạm dừng mà không tắt máy. Hành khách ngồi trên xe nhận thấy thân xe bị \"rung\" mạnh hơn. Dao động của thân xe lúc đó là dao động cưỡng bức.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Cho một bộ dụng cụ gồm điện trở R, khóa K và ampe kế. Sơ đồ mạch điện nào sau đây sẽ xác định được cường độ dòng điện qua điện trở R.",
+    "options": [
+      "Hình 1",
+      "Hình 2",
+      "Hình 3",
+      "Hình 4"
+    ],
+    "correct": 0,
+    "explanation": "Ta có để đo cường độ dòng điện thì ampe được mắc nối tiếp với dụng cụ cần đo. Có nghĩa là cực dương của ampe kế cần mắc với cực dương của nguồn qua khóa và cực âm của ampe kế mắc vào cực âm của nguồn. Quan sát các đồ thị thì đồ thị thể hiện đúng nhất cách mắc là hình 1.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Ánh sáng thông thường khi truyền đi xa trong không khí dễ bị các phần tử trong không khí gây ra hiện tượng tán xạ. Với tia hồng ngoại thì rất ít bị không khí hoặc những phần tử nhỏ lơ lửng trong không khí (như hơi nước) tán xạ, nếu dùng phim bắt nhạy tia hồng ngoại, tạ có thể chụp được những bức ảnh của những vật ở rất xa một cách rõ nét và có thể chụp về ban đêm. Điều này thể hiện tính chất nào của tia hồng ngoại?",
+    "options": [
+      "Tác dụng nhiệt rất mạnh.",
+      "Bước sóng dài hơn ánh sáng nhìn thấy.",
+      "Gây ra một số phản ứng hóa học.",
+      "Có thể biến điệu như sóng điện từ cao tần."
+    ],
+    "correct": 1,
+    "explanation": "Với tia hồng ngoại, vì nó có bước sóng dài nên rất ít bị không khí hoặc những phần tử nhỏ lơ lửng trong không khí (như hơi nước chẳng hạn) tán xạ. nếu dùng phim bắt nhạy tia hồng ngoại, ta có thể chụp được những bức ảnh của những vật ở rất xa một cách rõ nét và có thể chụp được về ban đêm.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Phương pháp làm giảm hao phí điện năng trong máy biến áp là:",
+    "options": [
+      "để máy biến áp ở nơi khô thoáng.",
+      "lõi của máy biến áp được cấu tạo bằng một khối thép đặc.",
+      "lõi của máy biến áp được cấu tạo bởi các lá thép mỏng ghép cách điện với nhau.",
+      "tăng độ cách điện trong máy biến áp."
+    ],
+    "correct": 2,
+    "explanation": "Hao phí do dòng điện xoáy là một trong những nguyên nhân gây tổn thất điện năng trong máy biến áp. Để giảm hao phí này, lõi của máy biến áp thường được cấu tạo bởi các lá thép mỏng, ghép lại và cách điện với nhau. Cách này giúp giảm dòng điện xoáy sinh ra trong lõi, từ đó giảm thiểu hao phí điện năng.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Tại thời điểm t = 0,5s số chỉ hiển thị trên ampe kế là 4A. Giá trị đó là:",
+    "options": [
+      "Cường độ hiệu dụng",
+      "Cường độ cực đại",
+      "Cường độ tức thời",
+      "Cường độ trung bình"
+    ],
+    "correct": 2,
+    "explanation": "Giá trị hiển trị trên thiết bị đo tại thời điểm t là giá trị tức thời. ⇒ 4A là cường độ dòng điện tức thời.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Tính khối lượng riêng của không khí ở đỉnh Fansipan (Phăng xi phăng) trong dãy Hoàng Liên Sơn cao 3140m. Biết mỗi khi lên cao thêm 10m, áp suất khí quyển giảm 1mmHg và nhiệt độ trên đỉnh núi là 2oC. Khối lượng riêng của không khí chuẩn là 1,29kg/m3.",
+    "options": [
+      "0,125kg/m3.",
+      "0,525kg/m3.",
+      "0,75kg/m3.",
+      "0,715kg/m3."
+    ],
+    "correct": 2,
+    "explanation": "Gọi m là khối lượng khí xác định ở chân núi có thể tích V1 và ở đỉnh núi có thể tích V2. m m Ta có: r1 = ; r2 = V1 V2 PV PV Áp dụng phương trình trạng thái của lí tưởng: 1 1 = 2 2 T1 T2 P1 m P2 m P T Hay . = . Þ r 2 = r1. 2 . 1 T1 r1 T2 r 2 P1 T2 Trạng thái 1 ở chân núi: r1 = 1, 29kg / m3 , P1 = 760mmHg (điều kiện chuẩn) T1 = 2730K 3140 Trạng thái 2 ở đỉnh núi: P2 = 760mmHg - = 446mmHg ; T2 = 2750 K 10 446 273 Þ r 2 = 1, 29. . = 0, 75kg / m3 760",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Hạt nhân nào sau đây có thể phân hạch?",
+    "options": [
+      "126 C .",
+      "94 239 U.",
+      "37 Li .",
+      "147 N ."
+    ],
+    "correct": 1,
+    "explanation": "Phân hạch hạt nhân là quá trình một hạt nhân nặng bị vỡ thành hai hạt nhân trung bình và kèm theo một vài nơtron. Khả năng phân hạch thường xảy ra với các hạt nhân nặng, đặc biệt là các đồng vị phóng xạ của các nguyên tố nặng như uranium (U), plutonium (Pu). Các hạt còn lại như C, Li, N là hạt nhân nhẹ lên không phân hạch được.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Ban đầu có m0 = 21g chất phóng xạ 84 210 Po , chất này phóng xạ ra hạt α và biến thành một hạt nhân bền. Hãy tìm thể tích khí Helium sinh ra ở điều kiện tiêu chuẩn trong thời gian 30 ngày. Biết chu kì bán rã 84 210 Po là T = 138 ngày.",
+    "options": [
+      "V = 3,12l.",
+      "V = 0,313l.",
+      "V = l,31l.",
+      "V = 0,131l."
+    ],
+    "correct": 1,
+    "explanation": "Phương trình phóng xạ: 84 210 Po ® 24 He +82 206 Pb Từ phương trình phóng xạ ta thấy cứ một hạt 84 210 Po phóng xạ sẽ có 1 hạt 42 He tạo thành. Do đó số hạt 42 He tạo thành đúng bằng số hạt 84 210 Po đã phóng xạ. mo 21 Số hạt 84 210 Po ban đầu là: N o = .N A = .6, 02.1023 = 6, 02.1022 A 210 Số hạt 42 He tạo thành sau 30 ngày: æ - ö t æ - 30 ö N = N 0 ç 1 - 2 T ÷ = 6, 02.10 22. ç1 - 2 138 ÷ = 0,842.1022 è ø è ø Thể tích khí 42 He sinh ra ở điều kiện tiêu chuẩn sau 30 ngày: N 0,842.1022 V= .22, 4 = .22, 4 = 0, 313 lít NA 6, 02.1023",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Một khung dây phẳng, diện tích 20cm2, gồm 10 vòng dây đặt trong từ trường đều, góc giữa B và vectơ pháp tuyến là 300, B = 2.10−4T, làm cho từ trường giảm đều về 0 trong thời giam 0,01s. Hãy xác định suất điện động cảm ứng sinh ra trong khung dây?",
+    "options": [
+      "3,46.10−4V.",
+      "6,92.10−4V.",
+      "1,73.10−4V.",
+      "5,19.10−4V."
+    ],
+    "correct": 0,
+    "explanation": "Suất điện động cảm ứng sinh ra trong khung dây là: ΔΦ NBS cos a - 0 10.20.10 -4.2.10 -4. cos 300 e= = = = 3, 46.10-4 V Δt 0, 01 0, 01 Dựa vào thông tin dưới đây và trả lời các câu hỏi từ câu 115 đến câu 117: Một cặp tấm dẫn điện vuông song song, có các cạnh dài 0,05m cách nhau 0,01m và được kết nối với nguồn điện 200V, như minh họa sau. Một electron đang chuyển động theo phương ngang với tốc độ 3.107 m/s khi nó đi vào vùng giữa các tấm. Bỏ qua lực hấp dẫn và sự biến dạng của điện trường xung quanh các cạnh của các tấm.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Xác định độ lớn của điện trường trong vùng giữa các tấm và chỉ ra hướng của nó trên hình trên.",
+    "options": [
+      "200V/m.",
+      "2000V/m.",
+      "20000V/m.",
+      "200000V/m."
+    ],
+    "correct": 2,
+    "explanation": "Chiều của cường độ điện trường hướng từ dương sang âm. V 200 Độ lớn được xác định bằng: E = = = 20000V/m d 0,1",
+    "passage": "tam_dan_dien_electron"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Xác định độ lớn và hướng của gia tốc của electron trong vùng giữa các tấm.",
+    "options": [
+      "3.108 m/s2.",
+      "3,5.1015 m/s2.",
+      "3,5.1010 m/s2.",
+      "4,5.105 m/s2."
+    ],
+    "correct": 1,
+    "explanation": "Hướng của gia tốc sẽ hướng lên trên. Theo định luật II Newton ta có: F = ma Mặt khác lực điện tác dụng được xác định bằng: F = Eq qE Þa= = 3, 5.1015 m/s 2 m",
+    "passage": "tam_dan_dien_electron"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Xác định độ lớn của độ dịch chuyển theo phương thẳng đứng của electron trong khoảng thời gian mà nó di chuyển qua vùng giữa các tấm.",
+    "options": [
+      "4,9.10−3 m.",
+      "5,5.10−3 m.",
+      "3,5.10−3 m.",
+      "6,3.10−3 m."
+    ],
+    "correct": 0,
+    "explanation": "x Chuyển động theo phương ngang: x = vt Þ t = v 1 Theo phương thẳng đứng với v0 y = 0 : y = at 2 2 2 2 a æ x ö 3,5.10-3 æ 0, 05 ö Þy= ç ÷ = ç 7 ÷ = 4,9.10-3 m 2èvø 2 è 3.10 ø",
+    "passage": "tam_dan_dien_electron"
+  },
+  {
+    "id": 201,
+    "question": "Câu 201: Đun nóng 37,5 gam dung dịch glucose với lượng AgNO3/dung dịch NH3 dư, thu được 6,48 gam Ag. Nồng độ % của dung dịch glucose là",
+    "options": [
+      "11,4%.",
+      "14,4%.",
+      "13,4%.",
+      "12,4%."
+    ],
+    "correct": 1,
+    "explanation": "Phương trình phản ứng CH 2OH - [CHOH ]4 - CHO + 2 AgNO3 + NH 3 ® 2 Ag 0,03 0,06 mol 0,03.180 Þ CC H O = .100 = 14, 4% 6 12 6 37,5",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: Ứng dụng nào sau đây không phải của khí nitrogen trong đời sống sản xuất?",
+    "options": [
+      "Trong phòng cháy, chữa cháy.",
+      "Trong công nghệ đóng gói thực phẩm.",
+      "Trong sản xuất dược phẩm.",
+      "Trong khai thác dầu khí."
+    ],
+    "correct": 2,
+    "explanation": "Trong công nghệ đóng gói thực phẩm, khí nitrogen được bơm vào túi để loại bỏ khí oxygen và làm phồng bao bì. Trong phòng cháy, chữa cháy, nitrogen dùng để dập tắt các đám cháy. Trong khai thác dầu khí, hỗn hợp khí N2 và CO2 được bơm vào bể chứa dầu mỏ để tạo áp suất đẩy dầu còn dư bị kẹt lại lên trên nhờ đặc tính nén cao.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: Xu hướng biến đổi bán kính nguyên tử ảnh hưởng đến",
+    "options": [
+      "số hạt electron trong nguyên tử của nguyên tố.",
+      "số hạt proton trong nguyên tử của nguyên tố.",
+      "một số tính chất vật lí và tính chất hóa học của nguyên tố.",
+      "số hạt neutron trong nguyên tử của nguyên tố."
+    ],
+    "correct": 2,
+    "explanation": "Xu hướng biến đổi bán kính nguyên tử ảnh hưởng đến một số tính chất vật lí và tính chất hóa học của nguyên tố.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: Phát biểu nào sau đây là không đúng khi nói về polymer?",
+    "options": [
+      "Polyethylene (PE) là polymer tổng hợp.",
+      "Nylon-6,6 thuộc loại polymer trùng ngưng.",
+      "Tinh bột, cellulose là polymer tự nhiên.",
+      "Các loại tơ như tơ tằm; tơ nylon-6,6;... đều là polymer tự nhiên."
+    ],
+    "correct": 3,
+    "explanation": "Tơ tằm là polymer tự nhiên (tơ tự nhiên) nhưng tơ nylon-6,6 là tơ tổng hợp.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: Cho m gam hỗn hợp X gồm Al, Cu vào dung dịch HCl (dư), sau khi kết thúc phản ứng sinh ra 3,7185 lít khí (ở đkc). Nếu cho m gam hỗn hợp X trên vào một lượng dư nitric acid (đặc, nguội), sau khi kết thúc phản ứng sinh ra 7,437 lít khí NO2 (sản phẩm khử duy nhất, ở đkc). Giá trị của m là",
+    "options": [
+      "11,5 g.",
+      "12,3 g.",
+      "10,5 g.",
+      "15,6 g."
+    ],
+    "correct": 1,
+    "explanation": "Gọi số mol Al và Cu lần lượt là x và y Cu không phản ứng với HCl → x = 0,1 mol Al không phản ứng với HNO3. Bảo toàn e → y = 0,15 Vậy m = 12,3 gam.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: Tổng số hợp chất hữu cơ no, đơn chức, mạch hở, có cùng công thức phân tử C5H10O2, phản ứng với dung dịch NaOH nhưng không có phản ứng tráng bạc là",
+    "options": [
+      "4.",
+      "5.",
+      "8.",
+      "9."
+    ],
+    "correct": 3,
+    "explanation": "Công thức phân tử C5H10O2 2.5 + 2 - 10 k= = 1 → có 1 liên kết pi. 2 C5H10O2 phản ứng được với dung dịch NaOH nhưng không có phản ứng tráng bạc → là acid hoặc ester (không tạo bởi formic acid): Acid (4 đồng phân): CH3CH2CH2CH2COOH; CH3CH2CH(CH3)COOH; CH3CH(CH3)CH2COOH; CH3C(CH3)2COOH. Ester (5 đồng phân): CH3CH2CH2COOCH3, CH3CH(CH3)COOCH3, CH3CH2COOC2H5, CH3COOCH2CH2CH3, CH3COOCH(CH3)2",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: Các alkyne ở trạng thái lỏng hoặc rắn có số nguyên tử carbon",
+    "options": [
+      "≥ 5.",
+      "< 5.",
+      "> 2.",
+      "≥ 2."
+    ],
+    "correct": 0,
+    "explanation": "Các alkyne ở trạng thái lỏng hoặc rắn có số nguyên tử carbon từ 5 trở lên (≥ 5).",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Cho biết sự phân bố electron theo lớp của nguyên tử K như sau: Tổng số electron ở lớp L và lớp N trong nguyên tử K là",
+    "options": [
+      "10.",
+      "18.",
+      "3.",
+      "9."
+    ],
+    "correct": 3,
+    "explanation": "Trong nguyên tử, lớp L và lớp N lần lượt tương ứng với lớp electron thứ 2 và thứ 4 → Tổng số electron ở lớp L và lớp N là 8 + 1 = 9 electron.",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Nguyên tố X thuộc chu kì 4, nhóm IIIA. Cấu hình electron nguyên tử của X là",
+    "options": [
+      "1s 2 2s 2 2 p 6 3s 2 3 p 6 4s 2",
+      "1s 2 2s 2 2 p 6 3s 2 3 p 6 3d 3 4 s 2",
+      "1s 2 2s 2 2 p 6 3s 2 3 p 6 3d 10 4s 2 4 p1",
+      "1s 2 2s 2 2 p 6 3s 2 3 p 6 3d 10 4s 2 4 p3"
+    ],
+    "correct": 2,
+    "explanation": "- X thuộc chu kì 4 → X có 4 lớp electron. - X thuộc nhóm IIIA → X có 3 electron ở lớp ngoài cùng và X là nguyên tố p. → Cấu hình electron của X là 1s 2 2s 2 2 p 6 3s 2 3 p 6 3d 10 4s 2 4 p1",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Đưa dây Pt có tẩm NaCl vào ngọn lửa không màu thì ngọn lửa có màu gì?",
+    "options": [
+      "Đỏ.",
+      "Vàng.",
+      "Xanh.",
+      "Tím."
+    ],
+    "correct": 1,
+    "explanation": "Đưa dây Pt có tẩm NaCl vào ngọn lửa không màu thì ngọn lửa có màu vàng.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: Tên gọi nào sau đây không phù hợp với hợp chất NH2CH(CH3)COOH?",
+    "options": [
+      "2-aminopropanoic acid.",
+      "Alanine.",
+      "α-aminopropionic acid.",
+      "α-aminoisopropionic acid."
+    ],
+    "correct": 3,
+    "explanation": "α-aminoisopropionic acid là CH3-CH(CH3)(NH2)-COOH.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: Polymer bị nóng chảy khi đun nóng được gọi là polymer",
+    "options": [
+      "phân hủy.",
+      "nhiệt rắn.",
+      "hóa hợp.",
+      "nhiệt dẻo."
+    ],
+    "correct": 3,
+    "explanation": "Polymer bị nóng chảy khi đun nóng được gọi là polymer nhiệt dẻo",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: Chất nào sau đây cùng dãy đồng đẳng với benzene?",
+    "options": [
+      "C8H16.",
+      "C8H14.",
+      "C8H12.",
+      "C8H10."
+    ],
+    "correct": 3,
+    "explanation": "Dãy đồng đẳng của benzene có công thức chung là CnH2n-6 ; n ≥ 6. Do đó, chất cùng dãy đồng đẳng với benzene là C8H10.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: Melatonin có vai trò quan trọng trong điều hòa giấc ngủ. Phần trăm khối lượng các nguyên tố trong melatonin như sau: %C = 67,241%; %H = 6,897%; %N = 12,069%%; còn lại là oxygen. Biết trong phân tử melatonin có 2 nguyên tử . Phân tử khối của melatonin là",
+    "options": [],
+    "correct": 232,
+    "explanation": "Trong phân tử melatonin có 2 nguyên tử nitrogen và chiếm 12,069% khối lượng phân tử ⇒Mmelatonin = MN : 12,069% = (2.14) : 12,069% ≈ 232 g/mol Vậy số cần điền là 232. Dựa vào thông tin dưới đây và trả lời các câu hỏi từ câu 215 đến 217: Sự ăn mòn kim loại là sự phá huỷ kim loại hoặc hợp kim do tác dụng của các chất trong môi trường xung quanh. Đó là một quá trình hoá học hoặc quá trình điện hoá trong đó kim loại bị oxi hoá thành ion dương: M → Mn+ + ne Có hai dạng ăn mòn kim loại là ăn mòn hoá học và ăn mòn điện hoá - Ăn mòn hoá học là quá trình oxi hoá - khử, trong đó các electron của kim loại được chuyển trực tiếp đến các chất trong môi trường. - Ăn mòn điện hoá học là quá trình oxi hoá - khử, trong đó kim loại bị ăn mòn do tác dụng của dung dịch chất điện li và tạo nên dòng electron chuyển dời từ cực âm đến cực dương.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: Một dây phơi quần áo gồm một đoạn dây đồng nối với một đoạn dây thép. Hiện tượng nào sau đây xảy ra ở chỗ nối hai đoạn dây khi để lâu ngày?",
+    "options": [
+      "Sắt bị ăn mòn.",
+      "Đồng bị ăn mòn.",
+      "Sắt và đồng đều bị ăn mòn.",
+      "Sắt và đồng đều không bị ăn mòn."
+    ],
+    "correct": 0,
+    "explanation": "Một dây phơi quần áo gồm một đoạn dây đồng nối với một đoạn dây thép, tại vị trí này hình thành pin điện hóa. Do sắt (thành phần chính của thép) có tính khử mạnh hơn nên dây thép hay sắt bị ăn mòn. Chọn đáp án A.",
+    "passage": "an_mon_kim_loai"
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: Nhận định nào dưới đây là nhận định đúng? Trong ăn mòn điện hoá học, xảy ra",
+    "options": [
+      "sự oxi hoá ở cực dương.",
+      "sự khử ở cực âm.",
+      "sự oxi hoá ở cực dương và sự khử ở cực âm.",
+      "sự oxi hoá ở cực âm và sự khử ở cực dương."
+    ],
+    "correct": 3,
+    "explanation": "Trong ăn mòn điện hoá học, xảy ra sự oxi hoá ở cực âm và sự khử ở cực dương. Chọn đáp án D.",
+    "passage": "an_mon_kim_loai"
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: Trong các trường hợp sau, trường hợp kim loại bị ăn mòn điện hoá học là",
+    "options": [
+      "kim loại Zn trong dung dịch HCl.",
+      "thép carbon để trong không khí ẩm.",
+      "đốt cháy dây Fe trong khí O2.",
+      "kim loại Cu trong dung dịch HNO3 loãng."
+    ],
+    "correct": 1,
+    "explanation": "Trường hợp có sự ăn mòn điện hóa là thép carbon để trong không khí ẩm. Chọn đáp án B. ----------",
+    "passage": "an_mon_kim_loai"
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Cho những thông tin sau về chu kì tế bào của tế bào. Hãy tìm thông tin SAI.",
+    "options": [
+      "Chu kỳ tế bào gồm hai thời kỳ xen kẽ nhau đó là kỳ trung gian và nguyên phân.",
+      "Tùy từng loại tế bào trong cơ thể mà thời gian của chu kỳ tế bào cũng như thời gian của các pha có sự khác nhau.",
+      "Thời gian của chu kỳ tế bào không phụ thuộc vào tốc độ phân bào ở những giai đoạn khác nhau trong sự phát triển cơ thể.",
+      "Kỳ trung gian là giai đoạn chuẩn bị cơ sở vật chất cho sự phân chia tế bào."
+    ],
+    "correct": 2,
+    "explanation": "Thời gian của chu kỳ tế bào phụ thuộc vào tốc độ phân bào ở những giai đoạn khác nhau trong sự phát triển cơ thể. Ví dụ như một số tế bào có chu kỳ sống rất ngắn như các tế bào sinh trưởng nhanh trong giai đoạn đầu tiên của sự phát triển phôi (từ 15 đến 20 phút); tế bào ruột phân bào hai lần trong một ngày; tế bào gan phân bào hai lần trong một năm; còn tế bào thần kinh ở cơ thể trưởng thành hầu như không phân bào mà kỳ trung gian kéo dài cho đến khi tế bào chết hoặc có thể chết.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: Khi cạn kiệt nguồn sống, vi khuẩn sẽ sinh sản bằng",
+    "options": [
+      "trực phân theo chiều dọc.",
+      "bào tử.",
+      "trực phân theo chiều ngang",
+      "sinh sản hữu tính."
+    ],
+    "correct": 1,
+    "explanation": "Vi khuẩn có thể sinh sản theo nhiều cách khác nhau. Vi khuẩn nhân lên bằng hình thức nguyên phân. Nhưng khi môi trường sống cạn kiệt dinh dưỡng, vi khuẩn có thể hình thành bào tử. Các bào tử chứa vật chất di truyền và các enzym cần thiết để duy trì sự sống của vi khuẩn. Chúng rất có sức chống chịu với môi trường khắc nghiệt.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Mô tả đặc điểm của loại van tim nào giúp cho máu lưu thông đúng theo một chiều từ tim đến các cơ quan?",
+    "options": [
+      "Van ba lá mở ra cho máu đi một chiều từ nhĩ phải xuống thất phải và đóng lại khi dòng máu được bơm từ thất phải qua van động mạch phổi vào động mạch phổi đưa máu lên phổi để trao đổi oxygen.",
+      "Van hai lá nằm giữa tâm thất trái và tâm nhĩ trái. Cho phép máu đi một chiều từ nhĩ trái xuống thất trái, dòng máu từ thất trái qua van động mạch chủ vào động mạch chủ đưa máu đi nuôi toàn cơ thể.",
+      "Van động mạch phổi gồm có ba van nhỏ hình tổ chim nằm giữa tâm thất phải và động mạch phổi. Van giúp kiểm soát dòng máu từ tim vào động mạch phổi, đảm bảo máu chảy đúng một chiều, không bị rò rỉ ngược.",
+      "Van động mạch chủ nằm giữa tâm thất trái và động mạch chủ. Tâm thất trái co bóp đẩy máu vào động mạch chủ và đóng lại để ngăn dòng máu từ động mạch chủ chảy trở ngược về thất trái."
+    ],
+    "correct": 3,
+    "explanation": "Van động mạch chủ là van tim nằm giữa tâm thất trái của tim và động mạch chủ. Bộ phận này có nhiệm vụ mở ra để tâm thất trái co bóp đẩy máu vào động mạch chủ và đóng lại để ngăn dòng máu từ động mạch chủ chảy trở ngược về thất trái. Cơ chế này giúp cho máu lưu thông đúng theo một chiều từ tim đến các cơ quan.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Hoạt động chó chăn cừu ứng dụng hiện tượng tập tính nào ở động vật?",
+    "options": [
+      "Sử dụng tập tính học được để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập bẩm sinh để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập tính di truyền từ bố mẹ để huấn luyện động vật phục vụ chăn nuôi",
+      "Sử dụng tập tính di truyền của loài để huấn luyện động vật phục vụ chăn nuôi"
+    ],
+    "correct": 0,
+    "explanation": "Tập tính trên ở chó chăn cừu thuộc loại tập tính học được, hình thành trong quá trình sống của cá thể, thông qua học tập, rút kinh nghiệm, được rèn luyện trong một khoảng thời gian nhất định.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Thực vật 1 lá mầm như tre, trúc có thể tăng chiều cao lên nhanh chóng do",
+    "options": [
+      "ngoài mô phân sinh ngọn còn có mô phân sinh lóng.",
+      "ngoài mô phân sinh ngọn còn có mô phân sinh bên.",
+      "mô phân sinh đỉnh hoạt động tích cực suốt ngày đêm.",
+      "mô phân sinh bên hoạt động rất tích cực suốt ngày đêm."
+    ],
+    "correct": 0,
+    "explanation": "Vì ở cây tre,nứa cao lên là kết quả hoạt động của mô phân sinh đỉnh thân. Ngoài ra mô phân sinh lóng giúp kéo dài chiều dài của lóng thân ở cây Một lá mầm ví dụ như tre trúc.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Loài ong có những hình thức sinh sản nào?",
+    "options": [
+      "Sinh sản hữu tính và trinh sản",
+      "Sinh sản sinh dưỡng và trinh sản",
+      "Nảy chồi và phân mảnh",
+      "Sinh sản hữu tính và nảy chồi"
+    ],
+    "correct": 0,
+    "explanation": "Ong có 2 hình thức sinh sản: - Sinh sản hữu tính: ong đực tạo ra tinh trùng (n), ong chúa đẻ trứng (n) → tạo trứng được thụ tinh (2n)→ ong thợ hoặc ong chúa - Trinh sản: Những trứng không thụ tinh sẽ phát triển thành ong đực có bộ nhiễm sắc thể đơn bội.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Từ đặc điểm nào của tuyến yên có thể cho thấy mối quan hệ giữa hoạt động của 3 hệ: thần kinh, nội tiết và sinh sản của cơ thể người?",
+    "options": [
+      "Các hormone estrogen, testosterone đều do tuyến yên chỉ đạo tuyến sinh dục tiết ra. Các hormone này tác động lên cơ thể và gây biến đổi cơ thể vào tuổi dậy thì.",
+      "Vùng dưới đồi là liên kết thần kinh với hệ thống nội tiết, từ đó thông báo cho tuyến yên sản sinh hoặc giảm tiết hormone FSH hoặc LH ảnh hưởng đến tinh hoàn và buồng trứng tiết estrogen, testosterone.",
+      "Tuyến yên là tuyến quan trọng trong hệ nội tiết bởi hormone tăng trưởng, ACTH, ADH, prolactin….đều được tạo ra bởi tuyến yên được đưa vào máu đi đến cơ quan đích.",
+      "Tuyến yên là một một tuyến nội tiết quan trọng trong hệ nội tiết. Cùng với hệ thần kinh, điều hòa điều khiển hoạt động sản sinh ra hormone insulin tác động làm giảm đường huyết."
+    ],
+    "correct": 1,
+    "explanation": "Hệ nội tiết có nhiều tuyến nội tiết, tuyến yên được coi là tuyến quan trọng nhất. Tuyến yên - hệ nội tiết - chịu ảnh hưởng của vùng dưới đồi - hệ thần kinh - chỉ đạo → kích thích tuyến yên tiết ra các loại hormone cần thiết tác động tới các tuyến nội tiết khác như tinh hoàn và buồng trứng - hệ sinh sản, các hoạt động sinh sản.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Ở một loài thực vật, cho cơ thể dị hợp tử 1 cặp gene đột biến đa bội thành thể tứ bội. Sau đó cho tự thụ phấn cả 2 dạng lưỡng bội và tứ bội. Hãy tính sự biểu hiện kiểu hình lặn ở đời sau của dạng tứ bội gấp bao nhiêu lần dạng lưỡng bội (nhập đáp án vào chỗ trống):",
+    "options": [],
+    "correct": 4,
+    "explanation": "æ1 1 ö æ1 1 ö 1 1 1 PL1: Aa ´ Aa ® ç A : a ÷ ´ ç A : a ÷ ® AA : Aa : aa è2 2 ø è2 2 ø 4 2 4 æ1 4 1 ö æ1 4 1 ö PL2: AAaa ´ AAaa ® ç AA : Aa : aa ÷ ´ ç AA : Aa : aa ÷ 6 è 6 6 6 ø è6 6 ø → 35/36 A---: 1/36 aaaa 1 1 → KH lặn ở dạng lưỡng bội gấp dạng đa bội là: : = 4 lần 4 36 Đọc ngữ cảnh dưới đây và trả lời các câu hỏi từ 309 đến 311: Hymenoptera là một bộ côn trùng lớn, bao gồm ong bắp cày, ong đất, ong mật và kiến. Ở nhiều loài Hymenoptera, giới tính được xác định bởi một locus gene đơn với nhiều allele. Cá thể đực có kiểu gene đồng hợp tử (bất thụ) hoặc ở trạng thái đơn bội (hữu thụ). Các thể cái đều dị hợp tử. Phát hiện có 1 loài tên là Habrobracon juglandis gene này có ít nhất 9 allele giới tính, quy ước là Sa, Sb, Sc ... đến SI.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Allele là gì?",
+    "options": [
+      "Là các bậc cấu trúc khác nhau của DN",
+      "Là các trạng thái khác nhau của cùng 1 gene.",
+      "Là các trạng thái khác nhau của cùng 1 tính trạng.",
+      "Là các trạng thái khác nhau của cùng 1 kiểu hình."
+    ],
+    "correct": 1,
+    "explanation": "Allele là những trạng thái khác nhau của cùng 1 gene, cùng tồn tại ở 1 locus xác định trên nhiễm sắc thể.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Cá thể có kiểu gene SgSg phát triển thành giới gì và khả năng sinh sản ra sao?",
+    "options": [
+      "Con cái, hữu thụ",
+      "Con cái, bất thụ",
+      "Con đực, bất thụ",
+      "Con đực, hữu thụ"
+    ],
+    "correct": 2,
+    "explanation": "Theo đầu bài Cá thể đực có kiểu gene đồng hợp tử (bất thụ) hoặc ở trạng thái đơn bội (hữu thụ) → cơ thể có kiểu gene SgSg phát triển thành giới đực, bất thụ.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Có bao nhiêu phép lai có thể xảy ra khi cho cơ thể cái và đực của loài giao phối với nhau?",
+    "options": [
+      "648",
+      "136",
+      "318",
+      "324"
+    ],
+    "correct": 3,
+    "explanation": "- Con cái có kiểu gene dị hợp tử → 2 allele khác nhau - 2 phần tử/ 9 phần tử. 9!/(9-2)! = 72 cách sắp xếp, nhưng ví dụ Sa, Sb chỉ có 1 cách xếp là Sa, Sb 72 (không có Sb, Sa) nên số kiểu gene có thể có là: = 36 kiểu gene. 2 - Con đực hữu thụ thuộc dạng đơn bội: 9 kiểu gen → có 36 × 9 = 324 phép lai.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Hãy tìm ra trình tự các bước của phương pháp làm tăng nguồn vật liệu và chọn lọc cho nhiệm vụ tạo giống mới? 1. Xây dựng ngân hàng gene. 2. Thu thập các vật liệu ban đầu từ thiên nhiên 3. Lai tạo giống tạo ra sự đa dạng của vật liệu di truyền. 4. Sử dụng nguồn gene bằng kĩ thuật di truyền. 5. Chọn lọc vật liệu di truyền phù hợp: từ kiểu hình đến kiểu gene.",
+    "options": [
+      "3 - 2 - 5 - 1 - 4",
+      "2 - 3 - 5 - 1 - 4",
+      "2 - 3 - 1 - 4 - 5",
+      "5 - 2 - 1 - 3 - 4"
+    ],
+    "correct": 2,
+    "explanation": "Các bước của quá trình tạo nguồn vật liệu và chọn lọc cho công tác tạo giống mới là: (2) Thu thập các vật liệu ban đầu từ thiên nhiên để bộ sưu tập giống. (3) Lai tạo giống tạo ra sự đa dạng của vật liệu di truyền, giữ lại cả các dạng khác nhau. (1) Xây dựng ngân hàng gene chứa dạng ban đầu và các dạng mới. (4) Sử dụng nguồn gene bằng kĩ thuật di truyền. (5) Chọn lọc vật liệu di truyền phù hợp: từ kiểu hình đến kiểu gene.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Hội chứng nào ở người bộ NST bị thiếu 1 NST?",
+    "options": [
+      "Hội chứng Klinefelter",
+      "Hội chứng Turner",
+      "Hội chứng Down",
+      "Hội chứng siêu nữ"
+    ],
+    "correct": 1,
+    "explanation": "Các hội chứng này đều thuộc đột biến NST thể dị bội- xuất hiện ở người: - Hội chứng Klinefelter: có 3 NST giới tính 44A+ XXY - Hội chứng Turner: có 1 NST giới tính 44A+ X - Hội chứng Down: có 3 NST cặp số 21 - Hội chứng siêu nữ: có 3 NST giới tính 44A+ XXX",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Mệnh đề nào SAI khi nói về bằng chứng sinh học phân tử của tiến hóa cùng nguồn gốc?",
+    "options": [
+      "DNA của các loài đều được cấu tạo từ 4 loại nucleotide, khác nhau ở thành phần, số lượng, trình tự sắp xếp của các loại đơn phân. Sự giống và khác nhau nhiều hay ít phản ánh mức độ quan hệ họ hàng giữa các loài .",
+      "Tính thống nhất của sinh giới còn thể hiện ở mã di truyền.Tất cả các loài sinh vật hiện nay đều sử dụng chung 1 bộ mã di truyền, đều dùng cùng 20 loại amino acid để cấu tạo nên protein.",
+      "Sự tương đồng về nhiều đặc điểm ở tế bào cũng chứng minh cho mối quan hệ họ hàng giữa các loài trên Trái Đất. Cấu tạo các phần tế bào và hoạt động sinh hóa cơ bản là giống nhau.",
+      "Các loài càng có quan hệ họ hàng gần gũi với nhau thì sự tương đồng giữa các phân tử (DNA, protein) của chúng càng cao và ngược lại."
+    ],
+    "correct": 2,
+    "explanation": "Bằng chứng sinh học phân tử đề cập: - Hầu hết các sinh vật đều có vật chất di truyền là DNA. Cơ chế truyền đạt và biểu hiện thông tin di truyền giống nhau ở các tế bào giống nhau. - Tất cả các loài sinh vật đều sử dụng chung một bảng mã di truyền. Protein của các sinh vật đều được cấu tạo từ 20 loại amino acid. → Sự giống và khác nhau nhiều hay ít về thành phần số lượng và đặc biệt trật tự sắp xếp của các nucleotide, amini acid phản ánh mức độ quan hệ họ hàng giữa các loài. Sự tương đồng giữa các phân tử giúp khẳng định nguồn gốc chung của sinh giới.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Có bao nhiêu đặc điểm là các đặc trưng cơ bản của hệ sinh thái? 1. Có sự tương tác giữa thành phần sống và không sống 2. Có đa dạng sinh học 3. Có các chu trình sinh thái 4. Phản ứng đối với biến đổi 5. Là một hệ đóng, không có khả năng tự điều chỉnh 6. Quan trọng với sự sống",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "Hệ sinh thái sở hữu những đặc điểm đa dạng mang nét đặc trưng riêng, cụ thể như sau: - Sự tương tác giữa thành phần sống và không sống: Hệ sinh thái bao gồm cả các thành phần sống như thực vật, động vật, và vi sinh vật, cũng như yếu tố không sống như đất, nước, và không khí. - Sự đa dạng sinh học: Một trong những đặc điểm quan trọng nhất của hệ sinh thái là sự đa dạng của các loài sống trong hệ sinh thái bao gồm sự đa dạng về loài thực vật, động vật và vi sinh vật. - Các chu trình sinh thái: Hệ sinh thái chứa các chu trình sinh thái ví dụ như chu trình trao đổi vật chất, chu trình sinh địa hóa… - Phản ứng đối với biến đổi: Hệ sinh thái có khả năng thích nghi và phản ứng đối với biến đổi môi trường. - Quan trọng với sự sống: Hệ sinh thái cung cấp nhiều dịch vụ sinh thái quan trọng cho sự tồn tại của con người và các loài khác…Việc bảo vệ và duy trì cân bằng trong hệ sinh thái rất quan trọng để bảo vệ sự sống trên Trái Đất. => HST là một hệ mở, tự điều chỉnh, có ý nghĩa quan trọng với sự sống.",
+    "passage": null
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Phát triển bền vững có 3 yếu tố chính là Lợi nhuận (Profit); Con người (People); Hành tinh (Planet). Vậy 3 trụ cột chính lần lượt của quá trình này là gì?",
+    "options": [
+      "Kinh tế - Xã hội - Môi trường.",
+      "Kinh tế - Môi trường - Xã hội.",
+      "Xã hội - Môi trường - Kinh tế.",
+      "Môi trường - Xã hội - Kinh tế."
+    ],
+    "correct": 0,
+    "explanation": "Mục tiêu - 3 trụ cột của phát triển bền vững là: - Lợi nhuận (Profit): Duy trì tăng trưởng, phát triển kinh tế mà không làm cạn kiệt nguồn tài nguyên. - Con người (People): Xây dựng một xã hội công bằng, bình đẳng và cải thiện chất lượng cuộc sống, con người đều có cơ hội phát triển, được bảo vệ quyền lợi và hưởng phúc lợi. - Hành tinh (Planet): Bảo vệ môi trường tự nhiên để đảm bảo rằng các nguồn tài nguyên thiên nhiên không bị cạn kiệt và hệ sinh thái có thể duy trì sự sống.",
+    "passage": null
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Tín chỉ Carbon là chứng nhận để giao dịch thương mại và thể hiện quyền phát thải lượng khí nhà kính, cụ thể là khí CO2. Nó đại diện cho quyền phát thải một tấn CO2 hoặc một lượng khí nhà kính khác tương đương với 1 tấn CO2 vào bầu khí quyển. Mục tiêu chính của việc tạo ra tín chỉ Carbon là giảm lượng khí thải CO2 và các loại khí nhà kính khác từ các hoạt động công nghiệp, nhằm giảm tác động của hiện tượng nóng lên toàn cầu. Năm 2023 Việt Nam lần đầu tiên bán thành công 10,3 triệu tín chỉ Carbon rừng thông qua Ngân hàng Thế giới thu về 51,5 triệu USD. Việt Nam sẽ tích cực tham gia vào thị trường toàn cầu, đặt mục tiêu trong năm nay và năm sau bán thêm 5 triệu tín chỉ, nâng tổng số lư",
+    "options": [
+      "125",
+      "51,5",
+      "50",
+      "12,5"
+    ],
+    "correct": 0,
+    "explanation": "- Số tiền của 1 tín chỉ thu được = 51,5:13,3 = 5 USD - Số tiền thu được dự kiến vào năm 2025 = 5 × 25 triệu = 125 triệu USD ----------",
+    "passage": null
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Ngày 13/8/1945, ngay khi nhận được những thông tin Nhật Bản đầu hàng quân Đồng minh, Trung ương Đảng và Tổng bộ Việt Minh lập tức thành lập",
+    "options": [
+      "Ủy ban Khởi nghĩa toàn quốc.",
+      "Mặt trận Dân chủ Đông Dương.",
+      "Ủy ban Quân sự cách mạng Bắc Kì.",
+      "Mặt trận Việt Nam độc lập đồng minh."
+    ],
+    "correct": 0,
+    "explanation": "Ngày 13/8/1945, ngay khi nhận được những thông tin Nhật Bản đầu hàng quân Đồng minh, Trung ương Đảng và Tổng bộ Việt Minh lập tức thành lập Ủy ban Khởi nghĩa toàn quốc.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: \"Anh, Pháp, Mĩ phải chịu một phần trách nhiệm trong việc để Chiến tranh thế giới thứ hai bùng nổ\". Đây là nhận định",
+    "options": [
+      "đúng, vì các nước này không có động thái gì để ngăn chặn chiến tranh thế giới.",
+      "đúng, vì chính sách đối ngoại của họ đã tạo điều kiện cho phát xít hành động.",
+      "sai, vì sự xuất hiện chủ nghĩa phát xít lúc bấy giờ là xu thế tất yếu khách quan.",
+      "sai, vì đây là hậu quả của cuộc khủng hoảng kinh tế thế giới (1929 - 1933)."
+    ],
+    "correct": 1,
+    "explanation": "\"Anh, Pháp, Mĩ phải chịu một phần trách nhiệm trong việc để Chiến tranh thế giới thứ hai bùng nổ\". Đây là nhận định đúng, vì chính sách đối ngoại của họ đã tạo điều kiện cho phát xít hành động.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Năm 1954, nhân dân Việt Nam giành được thắng lợi ngoại giao nào sau đây?",
+    "options": [
+      "Kí Hiệp định Giơnevơ.",
+      "Chiến thắng Vạn Tường.",
+      "Đánh bại cuộc hành quân của Mĩ vào An Lão.",
+      "Đánh bại cuộc tập kich của không quân Mĩ."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1954, nhân dân Việt Nam giành được thắng lợi ngoại giao là kí Hiệp định Giơnevơ.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Từ 1945 - 1971, đại biểu Trung Quốc tại Hội đồng Bảo an Liên hợp quốc là đại diện của chính quyền",
+    "options": [
+      "Hồng Kông.",
+      "Trung Hoa Dân quốc.",
+      "Ma Cao.",
+      "Cộng hòa Nhân dân Trung Hoa."
+    ],
+    "correct": 1,
+    "explanation": "Từ 1945 - 1971, đại biểu Trung Quốc tại Hội đồng Bảo an Liên hợp quốc là đại diện của chính quyền Đài Loan- Trung Hoa Dân quốc.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: Cách mạng dân chủ nhân dân được hoàn thành ở các nước Đông Âu trong những năm 1948 -1949 đánh dấu",
+    "options": [
+      "sự xác lập hoàn chỉnh của cục diện hai cực, hai phe.",
+      "sự phát triển của phong trào giải phóng dân tộc thế giới.",
+      "chủ nghĩa xã hội đã trở thành một hệ thống thế giới.",
+      "chủ nghĩa xã hội thăng thế hoàn toàn ở châu Âu."
+    ],
+    "correct": 2,
+    "explanation": "Cách mạng dân chủ nhân dân được hoàn thành ở các nước Đông Âu trong những năm 1948 -1949 đánh dấu chủ nghĩa xã hội đã trở thành một hệ thống thế giới.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: Năm 1946, ở Việt Nam, cuộc bầu cử Quốc hội, bầu cử Hội đồng nhân dân các cấp chỉ được tiến hành ở Bắc Bộ và Trung Bộ do",
+    "options": [
+      "nhân dân Nam Bộ không muốn tiến hành bầu cử.",
+      "thực dân Pháp đã quay trở lại xâm lược Nam Bộ.",
+      "Pháp đã xây dựng ở Nam Bộ thành một xứ tự trị riêng.",
+      "Đảng Cộng sản không có cơ sở quần chúng ở Nam Bộ."
+    ],
+    "correct": 1,
+    "explanation": "Năm 1946, ở Việt Nam, cuộc bầu cử Quốc hội, bầu cử Hội đồng nhân dân các cấp chỉ được tiến hành ở Bắc Bộ và Trung Bộ do thực dân Pháp đã quay trở lại xâm lược Nam Bộ.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: Sự kiện nào đánh dấu mở đường giải quyết sự khủng hoảng về đường lối giải phóng dân tộc ởViệt Nam?",
+    "options": [
+      "Nguyễn Ái Quốc ra đi tìm đường cứu nước năm 1911.",
+      "Nguyễn Ái Quốc đọc bản sơ thảo Luận cương về vấn đề dân tộc và thuộc địa của Lê-nin tháng 7/1920.",
+      "Nguyễn Ái Quốc tham gia sáng lập Đảng Cộng sản Pháp tháng 12/1920.",
+      "Nguyễn Ái Quốc xuất bản tác phẩm Đường Kách mệnh năm 1927."
+    ],
+    "correct": 1,
+    "explanation": "Sự kiện đánh dấu mở đường giải quyết sự khủng hoảng về đường lối giải phóng dân tộc ởViệt Nam là Nguyễn Ái Quốc đọc bản sơ thảo Luận cương về vấn đề dân tộc và thuộc địa của Lê-nin tháng 7/1920. Người đọc, nghiên cứu bản Luận cương và Người đã tìm thấy ở đó con đường giải phóng dân tộc.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: Cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam có đặc điểm",
+    "options": [
+      "kết hợp khởi nghĩa giành chính quyền ở nông thôn và thành thị.",
+      "khởi nghĩa giành chính quyền từ thành thị về nông thôn.",
+      "khởi nghĩa giành chính quyền từ nông thôn ra thành thị.",
+      "khởi nghĩa giành chính quyền chỉ diễn ra ở thành thị."
+    ],
+    "correct": 0,
+    "explanation": "Cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam có đặc điểm khởi nghĩa giành chính quyền từ nông thôn ra thành thị vì Giữa tháng 8/1945, khí thế cách mạng sôi sục. Căn cứ vào tình hình cụ thể của địa phương và vận dụng chỉ thị \"Nhật -Pháp bắn nhau và hành động của chúng ta\" nhiều địa phương tuy chưa nhận được lệnh đã phát động khởi nghĩa. 18/8/1945 Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Ngãi đã giành được chính quyền sớm nhất, 19/8 Hà Nội giành thắng lợi, 20/8 Huế giành chính quyền,…",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: Trong Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh ngày 19 /12/ 1946 có đoạn: bất kì đàn ông, đàn bà, người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Đoạn trích trên thể hiện rõ nhất điều gì?",
+    "options": [
+      "Tính toàn dân của cuộc kháng chiến.",
+      "Tính chính nghĩa.",
+      "Tính nhân văn sâu sắc.",
+      "Tính triệt để trong đấu tranh giải phóng dân tộc."
+    ],
+    "correct": 0,
+    "explanation": "Trong Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh ngày 19 /12/ 1946 có đoạn: bất kì đàn ông, đàn bà, người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Đoạn trích trên thể hiện rõ nhất về Tính toàn dân của cuộc kháng chiến.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: Con đường giải phóng dân tộc của Nguyễn Ái Quốc hình thành trong những năm 20 của thế kỉ XX có điểm gì khác biệt với con đường giải phóng dân tộc của các vị tiền bối?",
+    "options": [
+      "Mục tiêu cứu nước.",
+      "Đối tượng cách mạng.",
+      "Khuynh hướng chính trị.",
+      "Sự quyết tâm tìm ra con đường cứu nước, cứu dân."
+    ],
+    "correct": 2,
+    "explanation": "Nguyễn Ái Quốc lựa chọn con đường cách mạng giải phóng dân tộc theo con đường Cách mạng Tháng Mười Nga (1917), bởi theo Người: \"Trong thế giới bây giờ chỉ có cách mệnh Nga là đã thành công, và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật\". Việc lựa chọn con đường giải phóng dân tộc theo khuynh hướng cách mạng vô sản, thể hiện tầm nhìn chiến lược và phù hợp với xu thế thời đại, đáp ứng nhu cầu, nguyện vọng của các tầng lớp nhân dân lao động. Đến thời điểm này, cách mạng vô sản là cuộc cách mạng toàn diện, sâu sắc và triệt để nhất. Cuộc cách mạng đó không chỉ giải phóng giai cấp, mà gắn liền với nó là giải phóng dân tộc, giải phóng xã hội.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: Từ ngày 14-15/8/1945, tại Tân Trào (Tuyên Quang) đã diễn ra sự kiện lịch sử nào?",
+    "options": [
+      "Đảng triệu tập Hội nghị toàn quốc phát động Tổng khởi nghĩa trong toàn quốc trước khi quân Đồng minh kéo vào Đông Dương.",
+      "Thành lập Ủy ban khởi nghĩa toàn quốc.",
+      "Ra quân lệnh số 1, phát động lệnh tổng khởi nghĩa trong toàn quốc.",
+      "Quyết định lấy lá cờ đỏ sao vàng làm quốc kì sau khi ta giành độc lập."
+    ],
+    "correct": 0,
+    "explanation": "Từ ngày 14-15/8/1945, tại Tân Trào (Tuyên Quang) đã triệu tập Hội nghị toàn quốc phát động Tổng khởi nghĩa trong toàn quốc trước khi quân Đồng minh kéo vào Đông Dương. Dựa vào thông tin trong đoạn trích sau trả lời câu hỏi từ 412 đến 414: Nguyễn Tri Phương (1800-1873) là một đại danh thần Việt Nam thời nhà Nguyễn. Ông là vị Tổng chỉ huy quân đội triều Nguyễn chống lại quân Pháp xâm lược lần lượt ở các mặt trận Đà Nẵng (1858), Gia Định (1861) và Hà Nội (1873). Năm Quý Mùi (1823), vua Minh Mạng đề bạt ông hàm Điển bộ (Bí thư ở Nội điện), năm sau thăng Tu soạn, rồi Thừa chỉ ở Nội các, hai năm sau thăng Thị độc, Thị giảng học sĩ, năm 1831 thăng Hồng Lô tự khanh. Năm 1832, ông được sung vào phái bộ sang Trung Quốc về việc thương mại. Năm 1835 ông nhận lệnh vua Minh Mạng vào Gia Định cùng Trương Minh Giảng bình định các vùng mới khai hoang. Việc thành công ông được thăng hàm Thị lang. Năm 1837, ông bị triều thần dèm pha, nên bị giáng xuống làm thơ lại ở bộ Lại. Cuối năm, ông được khôi phục hàm Chủ sự, sung chức Lang trung. Năm sau ông thăng Thị lang bộ Lễ, năm 1839 thăng hàm Tham tri, làm việc ở Nội các. Năm Canh Tý (1840), ông được bổ làm Tuần phủ Nam Ngãi (Quảng Nam và Quảng Ngãi), trô",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Nguyễn Tri Phương đã chống lại quân Pháp tại mấy mặt trận?",
+    "options": [
+      "Một.",
+      "Hai.",
+      "Ba.",
+      "Bốn."
+    ],
+    "correct": 2,
+    "explanation": "Nguyễn Tri Phương (1800-1873) là một đại danh thần Việt Nam thời nhà Nguyễn. Ông là vị Tổng chỉ huy quân đội triều Nguyễn chống lại quân Pháp xâm lược lần lượt ở các mặt trận Đà Nẵng (1858), Gia Định (1861) và Hà Nội (1873).",
+    "passage": null
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Nguyễn Tri Phương làm Bí thư ở Nội điện khi nào?",
+    "options": [
+      "Năm 1823.",
+      "Năm 1824.",
+      "Năm 1825.",
+      "Năm 1826."
+    ],
+    "correct": 0,
+    "explanation": "Năm Quý Mùi (1823), vua Minh Mạng đề bạt ông hàm Điển bộ (Bí thư ở Nội điện), năm sau thăng Tu soạn, rồi Thừa chỉ ở Nội các, hai năm sau thăng Thị độc, Thị giảng học sĩ, năm 1831 thăng Hồng Lô tự khanh.",
+    "passage": null
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: Tổng đốc An Hà chịu trách nhiệm quản lí những tỉnh nào?",
+    "options": [
+      "An Giang, Hà Tiên.",
+      "An Giang, Hà Giang.",
+      "An Giang, Hà Nội.",
+      "An Giang, Hà Nam."
+    ],
+    "correct": 0,
+    "explanation": "Tháng 5 âm năm 1844, ông được cải bổ Tổng đốc An Hà (An Giang, Hà Tiên). Dựa vào thông tin trong đoạn trích sau trả lời câu hỏi từ 415 đến 417: \"Đây là một cuộc tấn công chưa từng có trong lịch sử khủng bố xét về quy mô của nó. Đây là cuộc tấn công quy mô lớn nhất của một lực lượng nước ngoài trên đất Mỹ\", học giả Brian Michael Jenkins của tổ chức nghiên cứu RAND nói về vụ khủng bố ngày 11-9-2001. Vào ngày này, 19 tên khủng bố Al Qaeda đã khống chế 4 máy bay thương mại của hai hãng hàng không United Airlines và American Airlines. Hai chiếc Boeing 767 lần lượt đâm vào hai tòa tháp đôi thuộc khu phức hợp Trung tâm Thương mại thế giới (WTC) ở thành phố New York, kéo theo sự sụp đổ của toàn bộ 7 tòa tháp trong khu vực. Tại thủ đô Washington D.C, một chiếc Boeing 757 của Hãng American Airlines đâm vào phía tây trụ sở Lầu Năm Góc gây ra đám cháy kinh hoàng, giết chết toàn bộ 64 người trên máy bay (bao gồm 5 tên khủng bố) và 125 người trên mặt đất. (Lịch sử thế giới hiện đại)",
+    "passage": null
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: \"Đây là một cuộc tấn công chưa từng có trong lịch sử khủng bố xét về quy mô của nó. Đây là cuộc tấn công quy mô lớn nhất của một lực lượng nước ngoài trên đất Mỹ\", nói về sự kiện nào?",
+    "options": [
+      "Vụ khủng bố 11-09-2001.",
+      "Trận Trân Châu Cảng.",
+      "Cuộc khủng hoảng năng lượng 1973.",
+      "Bị biến thành thuộc địa của Anh."
+    ],
+    "correct": 0,
+    "explanation": "\"Đây là một cuộc tấn công chưa từng có trong lịch sử khủng bố xét về quy mô của nó. Đây là cuộc tấn công quy mô lớn nhất của một lực lượng nước ngoài trên đất Mỹ\", học giả Brian Michael Jenkins của tổ chức nghiên cứu RAND nói về vụ khủng bố ngày 11-9-2001.",
+    "passage": null
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: Vụ khủng bố 11-09-2001 xảy ra ở nước nào?",
+    "options": [
+      "Nhật Bản.",
+      "Mĩ.",
+      "Anh.",
+      "Đức."
+    ],
+    "correct": 0,
+    "explanation": "Vụ khủng bố 11-09-2001 xảy ra tại nước Mĩ.",
+    "passage": null
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: Vụ khủng bố 11-09-2001 thể hiện điều gì?",
+    "options": [
+      "Tăng cường hợp tác với các nước Đồng minh.",
+      "Điều chỉnh chính sách với các nước Hồi giáo.",
+      "Dẫn đến sự thay đổi trong chính sách đối nội và đối ngoại của Mĩ.",
+      "Tăng cường an ninh nội địa của Mĩ."
+    ],
+    "correct": 2,
+    "explanation": "Vụ khủng bố 11 - 9 - 2001 cho thấy nước Mĩ cũng rất dễ tổn thương và chủ nghĩa khủng bố sẽ là 1 trong những yếu tố dẫn đến sự thay đổi quan trọng trong chính sách đối nội và đối ngoại của Mĩ khi bước vào thế kỉ XXI. ----------",
+    "passage": null
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Quy luật địa đới là sự thay đổi có quy luật của tất cả các thành phần địa lí và các cảnh quan theo",
+    "options": [
+      "vĩ độ.",
+      "kinh độ.",
+      "độ cao.",
+      "hướng địa hình."
+    ],
+    "correct": 0,
+    "explanation": "Quy luật địa đới là sự thay đổi có quy luật của tất cả các thành phần địa lí và các cảnh quan theo vĩ độ (từ Xích đạo về cực).",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Sản phẩm nào dưới đây thuộc ngành công nghiệp điện tử - tin học?",
+    "options": [
+      "Tua bin phát điện.",
+      "Hàng không vũ trụ.",
+      "Thiết bị viễn thông.",
+      "Đầu máy xe lửa."
+    ],
+    "correct": 2,
+    "explanation": "Sản phẩm của ngành công nghiệp điện tử - tin học có thể phân thành bốn nhóm: máy tính (thiết bị công nghệ, phần mềm), thiết bị điện tử (linh kiện điện tử, các tụ điện, các vi mạch…), điện tử tiêu dùng (ti vi màu, cát sét, đồ chơi điện tử, đầu đĩa,…) và thiết bị viễn thông (máy fax, điện thoại…). Đứng hàng đầu trong lĩnh vực này là Hoa Kì, Nhật Bản, EU…",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: An ninh lương thực luôn là vấn đề",
+    "options": [
+      "trọng yếu của tất cả các quốc gia.",
+      "được một số quốc gia quan tâm.",
+      "lớn chỉ ở các quốc gia châu Phi.",
+      "chưa được quan tâm."
+    ],
+    "correct": 0,
+    "explanation": "An ninh lương thực luôn là vấn đề trọng yếu của tất cả các quốc gia vì hiện nay tình trạng mất an ninh lương thực đang đe dọa nhiều quốc gia bởi các nguyên nhân như xung đột vũ trang, chiến tranh, biến đổi khí hậu, thiên tai, dịch bệnh,…",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Đông Nam Á trồng nhiều lúa gạo, cà phê, cao su, dừa, mía, xoài, chuối,… chủ yếu do",
+    "options": [
+      "địa hình đồi núi chiếm diện tích lớn, nhiều kiểu khí hậu.",
+      "đất phù sa và đất fe-ra-lit là chủ yếu; khí hậu nóng, ẩm.",
+      "đất phù sa chiếm diện tích lớn và nhiệt độ trung bình thấp dưới 20℃.",
+      "các mặt bằng rộng lớn, mưa nhiều và có sự phân mùa."
+    ],
+    "correct": 1,
+    "explanation": "- Lúa gạo, cà phê, cao su, dừa, mía, xoài, chuối,… là các cây trồng nhiệt đới => điều kiện thuận lợi để trồng các loại cây này là khí hậu nóng, ẩm. - Lúa gạo là cây lương thực thích hợp trồng trên phù sa màu mỡ. - Cà phê, cao su, dừa, mía, xoài, chuối là cây công nghiệp và cây ăn quả thích hợp trồng trên đất fe- ra-lit => Đông Nam Á trồng nhiều lúa gạo, cà phê, cao su, dừa, mía, xoài, chuối,… chủ yếu do có đất phù sa và đất fe-ra-lit là chủ yếu; khí hậu nóng, ẩm. Lưu ý: Cây trồng phụ thuộc rất lớn vào điều kiện đất trồng và khí hậu.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: Tỉ trọng nông nghiệp, lâm nghiệp, thủy sản của phần lớn các nước khu vực Tây Nam Á thấp là do",
+    "options": [
+      "thiếu vốn đầu tư.",
+      "ảnh hưởng của thiên tai.",
+      "hạn chế về trình độ khoa học kĩ thuật.",
+      "điều kiện tự nhiên không thuận lợi."
+    ],
+    "correct": 3,
+    "explanation": "Tỉ trọng nông nghiệp, lâm nghiệp, thủy sản của phần lớn các nước khu vực Tây Nam Á thấp là do điều kiện tự nhiên không thuận lợi (là một trong những khu vực có khí hậu khô và nóng bậc nhất thế giới) vì ngành nông nghiệp, lâm nghiệp và thủy sản phụ thuộc chủ yếu vào các điều kiện tự nhiên.",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Cho bảng số liệu sản lượng lúa gạo và lúa mì của Trung Quốc giai đoạn 2005 - 2020: Năm 2005 2010 2020 Lúa gạo (triệu tấn) 182,1 197,2 213,6 Lúa mì (triệu tấn) 97,4 115,2 134,3 Dựa vào bảng số liệu, nhận xét nào sau đây không đúng về sản lượng lúa gạo và lúa mì của Trung Quốc giai đoạn 2005 - 2020?",
+    "options": [
+      "Sản lượng lúa gạo và lúa mì tăng liên tục.",
+      "Sản lượng lúa mì có tốc độ tăng nhanh hơn sản lượng lúa gạo.",
+      "Sản lượng lúa mì tăng ít hơn sản lượng lúa gạo.",
+      "Sản lượng lúa gạo luôn cao hơn sản lượng lúa mì."
+    ],
+    "correct": 2,
+    "explanation": "- A đúng vì dựa vào bảng số liệu ta có thể thấy rõ sản lượng lúa gạo và lúa mì tăng liên tục. - B đúng vì coi năm 2005 là 100% => tốc độ tăng sản lượng lúa gạo và lúa mì năm 2000 lần lượt là 117% và 138%. - C không đúng vì sản lượng lúa gạo tăng 31,5 triệu tấn; lúa mì tăng 36,9 triệu tấn => Sản lượng lúa mì tăng nhiều hơn sản lượng lúa gạo. - D đúng vì dựa vào bảng số liệu ta có thể thấy sản lượng lúa gạo luôn cao hơn sản lượng lúa mì.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Cho bảng số liệu lượng mưa các tháng năm 2023 tại trạm quan trắc Đà Lạt: Theo bảng số liệu và dựa vào kiến thức đã học, phát biểu nào sau đây đúng về lượng mưa ở Đà Lạt?",
+    "options": [
+      "Mùa khô kéo dài từ tháng 11 đến tháng 4 năm sau do Tín phong bán cầu Bắc.",
+      "Mùa khô vào thu đông do Tín phong bán cầu Nam và bức chắn địa hình.",
+      "Mùa mưa vào thu đông do gió mùa Tây Nam, gió mùa Đông Bắc, dải hội tụ.",
+      "Mùa mưa vào thu đông do các loại gió Tín phong, gió mùa Tây Nam, bão."
+    ],
+    "correct": 0,
+    "explanation": "- Dựa vào bảng số liệu, ta thấy mùa mưa ở Đà Lạt kéo dài từ tháng 5 đến tháng 10, mùa khô kéo dài từ tháng 11 đến tháng 4 năm sau. - Ở Đà Lạt, mưa nhiều (mùa mưa) do chịu ảnh hưởng của gió mùa Tây Nam, mưa ít (mùa khô) do chịu ảnh hưởng của gió Tín phong bán cầu Bắc. => Mùa khô kéo dài từ tháng 11 đến tháng 4 năm sau do Tín phong bán cầu Bắc là nhận xét đúng.",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Cho bảng số liệu lực lượng lao động từ 15 tuổi trở lên của một số tỉnh/ thành phố nước ta năm 2010 và năm 2021 (đơn vị: triệu người): Nhận xét nào sau đây đúng với bảng số liệu trên?",
+    "options": [
+      "Đà Nẵng có tốc độ tăng trưởng số lượng lao động từ 15 tuổi cao nhất.",
+      "Số lượng lao động từ 15 tuổi ở Hà Nội luôn thấp hơn Đồng Nai.",
+      "Số lượng lao động từ 15 tuổi ở Đồng Nai tăng nhanh hơn Đà Nẵng.",
+      "Năm 2021, số lượng lao động từ 15 tuổi ở Hà Nội cao gấp 8,8 lần so với Đà Nẵng."
+    ],
+    "correct": 0,
+    "explanation": "- Dựa vào công thức tính tốc độ tăng trưởng, ta có tốc độ tăng trưởng số lượng lao động từ 15 tuổi năm 2021 của Hà Nội, Đà Nẵng, Lâm Đồng, Đồng Nai lần lượt là 109,0%; 122,8%; 114,2%; 120,7% => Năm 2021, Đà Nẵng có tốc độ tăng trưởng số lượng lao động từ 15 tuổi cao nhất là nhận xét đúng. - B sai vì số lượng lao động từ 15 tuổi ở Hà Nội luôn cao hơn Đồng Nai. - C sai vì số lượng lao động từ 15 tuổi của Hà Nội, Đà Nẵng, Lâm Đồng, Đồng Nai lần lượt tăng 1,09 lần; 1,23 lần; 1,14 lần; 1,21 lần => Số lượng lao động từ 15 tuổi ở Đồng Nai tăng chậm hơn Đà Nẵng. - D sai vì năm 2021, số lượng lao động từ 15 tuổi ở Hà Nội cao gấp 3 939,9/579,5 = 6,8 lần so với Đà Nẵng.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Hà Nội và Thành phố Hồ Chí Minh có hoạt động nội thương rất phát triển chủ yếu do",
+    "options": [
+      "hoạt động quảng cáo, tiếp thị mạnh, dân cư đông đúc, vốn đầu tư rất lớn.",
+      "kinh tế phát triển, chất lượng cuộc sống cao, có nhiều chợ lớn, siêu thị.",
+      "có mật độ dân số cao, vốn đầu tư rất lớn, nhiều tài nguyên khoáng sản.",
+      "vốn đầu tư lớn, nhiều tài nguyên khoáng sản, xuất khẩu nhiều hàng hóa."
+    ],
+    "correct": 1,
+    "explanation": "Hà Nội và Thành phố Hồ Chí Minh có hoạt động nội thương rất phát triển chủ yếu do kinh tế phát triển, chất lượng cuộc sống cao, có nhiều chợ lớn, siêu thị. Đây là đáp án đủ cả 2 yếu tố cung (nhiều chợ lớn và siêu thị => nguồn cung lớn cho thị trường) và cầu (kinh tế phát triển, chất lượng cuộc sống người dân cao => nhu cầu hàng hóa và dịch vụ cao).",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Biểu đồ dưới đây thể hiện nội dung nào về vốn đăng kí và số dự án của nước ta giai đoạn 2017 - 2021?",
+    "options": [
+      "Số dự án, tổng số vốn đăng kí và tổng số vốn thực hiện của nước ta giai đoạn 2010 - 2021.",
+      "Tổng số vốn đăng kí, tổng số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 - 2021.",
+      "Quy mô số vốn đăng kí, số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 - 2021.",
+      "Sự chuyển dịch số vốn đăng kí, số vốn thực hiện và tốc độ tăng trưởng số dự án của nước ta giai đoạn 2010 - 2021."
+    ],
+    "correct": 1,
+    "explanation": "Dựa vào phần chú thích và đơn vị được thể hiện trên biểu đồ ta thấy: cột thể hiện tổng số vốn đăng kí và tổng số vốn thực hiện (có đơn vị: triệu USD); đường thể hiện số dự án (đơn vị: số dự án). => Biểu đồ thể hiện số dự án, tổng số vốn đăng kí và tổng số vốn thực hiện của nước ta giai đoạn 2010 - 2021.",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Hiện nay, Đồng bằng sông Hồng có nhiều ngành sản xuất công nghệ cao được phát triển chủ yếu do",
+    "options": [
+      "lao động nhiều kinh nghiệm, tập trung chủ yếu ở đô thị.",
+      "lao động có trình độ, thu hút nhiều đầu tư nước ngoài.",
+      "cơ sở hạ tầng rất hiện đại, nhiều đầu mối giao thông lớn.",
+      "cơ sở vật chất kĩ thuật tốt, gần các vùng giàu tài nguyên."
+    ],
+    "correct": 1,
+    "explanation": "Các ngành công nghệ cao đòi hỏi lao động có trình độ và tay nghề cao và cần nguồn vốn đầu tư lớn để hiện đại hóa cơ sở hạ tầng, phát triển khoa học - công nghệ. => Thế mạnh chủ yếu để phát triển các ngành công nghệ cao ở Đồng bằng sông Hồng là: lao động có trình độ, thu hút nhiều đầu tư nước ngoài.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Mức độ đô thị hóa ở Trung du và miền núi Bắc Bộ vào loại thấp nhất cả nước chủ yếu do",
+    "options": [
+      "quá trình công nghiệp hóa diễn ra muộn, số dân ít, trữ lượng khoáng sản nhỏ.",
+      "trình độ phát triển kinh tế - xã hội thấp, thưa dân, địa hình chủ yếu là đồi núi.",
+      "địa hình hiểm trở, nhiều thuận lợi phát triển nông nghiệp, mật độ dân số thấp.",
+      "chất lượng cuộc sống thấp, cơ sở hạ tầng hạn chế, khoáng sản phân bố phân tán."
+    ],
+    "correct": 1,
+    "explanation": "Mức độ đô thị hóa ở Trung du và miền núi Bắc Bộ vào loại thấp nhất cả nước chủ yếu do trình độ phát triển kinh tế - xã hội thấp, thưa dân, địa hình chủ yếu là đồi núi. - Trình độ phát triển kinh tế - xã hội thấp: ngành công nghiệp, dịch vụ kém phát triển => là nhân tố quyết định đến đặc điểm đô thị hóa của vùng còn thấp. - Thưa dân: Mật độ dân số thấp thứ hai cả nước, chủ yếu tập trung ở các vùng đồng bằng nhỏ hẹp, các thung lũng. - Địa hình chủ yếu là đồi núi: địa hình hiểm trở nhất cả nước, chia cắt mạnh, giao thông khó khăn, hạn chế sự phát triển của các đô thị và việc hình thành các khu vực tập trung đông dân cư.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Hiện nay, Đồng bằng sông Cửu Long đang gặp phải vấn đề nào do tình trạng hạn hán kéo dài vào mùa khô?",
+    "options": [
+      "Diện tích nuôi tôm bị ảnh hưởng, tình trạng cháy rừng và biến đổi khí hậu.",
+      "Biến đổi khí hậu, gia tăng xâm nhập mặn, thiếu nước sinh hoạt và sản xuất.",
+      "Thiếu nước sinh hoạt và sản xuất, xâm nhập mặn lấn sâu, sụt lún vùng ngọt.",
+      "Diện tích rừng ngập mặn và vùng sản xuất nông nghiệp bị thu hẹp nhanh."
+    ],
+    "correct": 2,
+    "explanation": "Gạch chân từ khóa: hạn hán vào mùa khô. => Thiếu nước sinh hoạt và sản xuất, xâm nhập mặn lấn sâu, sụt lún vùng ngọt là những hậu quả của tình hạn hán kéo dài vào mùa khô. Đây cũng là các hệ quả đầy đủ trên cả phương diện kinh tế và xã hội. - A, B sai vì biến đổi khí hậu gây ra hạn hán kéo dài vào mùa khô, cháy rừng không phải hậu quả. - D sai vì diện tích rừng ngập mặn và vùng sản xuất nông nghiệp bị thu hẹp là hậu quả của nhiều yếu tố, không chỉ riêng hạn hán.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: Một trong những định hướng phát triển của vùng kinh tế trọng điểm miền Trung là",
+    "options": [
+      "phát triển cảng biển, du lịch biển và du lịch sinh thái.",
+      "phát triển công nghệ giống, bảo quản nông sản và thủy sản.",
+      "phát triển các ngành công nghiệp sản xuất, lắp ráp điện tử.",
+      "xây dựng trung tâm đào tạo nhân lực chất lượng cao."
+    ],
+    "correct": 0,
+    "explanation": "Một trong những định hướng phát triển của vùng kinh tế trọng điểm miền Trung là phát triển cảng biển, du lịch biển và du lịch sinh thái. - B sai vì đây là định hướng phát triển của vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long. - C sai vì đây là định hướng phát triển của vùng kinh tế trọng điểm phía Nam. - D sai vì đây là định hướng phát triển của vùng kinh tế trọng điểm Bắc Bộ. Dựa vào bản đồ dưới đây và kiến thức đã học, trả lời các câu hỏi từ 515 đến 517: (Atlat Địa lí Việt Nam, Nxb Giáo dục Việt Nam, 2024)",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: Những vùng nào dưới đây có GDP bình quân tính theo đầu người cao nhất cả nước?",
+    "options": [
+      "Đông Nam Bộ và Đồng bằng sông Hồng.",
+      "Đồng bằng sông Cửu Long và Đông Nam Bộ.",
+      "Đồng bằng sông Hồng, Bắc Trung Bộ và duyên hải miền Trung.",
+      "Bắc Trung Bộ và duyên hải miền Trung, Đông Nam Bộ."
+    ],
+    "correct": 0,
+    "explanation": "Dựa vào bản đồ ta thấy, nền màu hồng và hồng đậm biểu thị cho các tỉnh có GDP bình quân đầu người cao nhất.. => Đông Nam Bộ và Đồng bằng sông Hồng là hai vùng có có GDP bình quân tính theo đầu người cao nhất cả nước.",
+    "passage": null
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: Đồng bằng sông Cửu Long có nhiều điều kiện tự nhiên thuận lợi nên",
+    "options": [
+      "ngành nông, lâm nghiệp và thủy sản còn chiếm tỉ trọng cao.",
+      "có nhiều khu kinh tế ven biển và cửa khẩu nhất cả nước.",
+      "GDP bình quân đầu người cao hơn so với Tây Nguyên.",
+      "quy mô GRDP và tốc độ tăng trưởng kinh tế cao nhất cả nước."
+    ],
+    "correct": 0,
+    "explanation": "Dựa vào bản đồ, ta thấy mỗi tỉnh/thành phố có 1 vòng tròn thể hiện quy mô và cơ cấu kinh tế phân theo ngành. Trong đó, các tỉnh ở Đồng bằng sông Cửu Long đều có ngành nông, lâm nghiệp và thủy sản (màu vàng) chiếm tỉ trọng cao. Hơn nữa, điều kiện tự nhiên tác động chủ yếu và mạnh mẽ đến nông nghiệp. => Đồng bằng sông Cửu Long có nhiều điều kiện tự nhiên thuận lợi nên ngành nông, lâm nghiệp và thủy sản còn chiếm tỉ trọng cao.",
+    "passage": null
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: Việc hình thành các khu kinh tế ven biển ở Bắc Trung Bộ và duyên hải miền Trung chủ yếu nhằm",
+    "options": [
+      "phát triển cơ cấu lãnh thổ, phân bố lại lao động, thay đổi bộ mặt vùng.",
+      "phát triển sản xuất hàng hóa, đẩy mạnh việc xuất khẩu, thu hút đầu tư.",
+      "phát triển công nghiệp, thay đổi phân bố sản xuất, tạo nhiều việc làm.",
+      "chuyển dịch cơ cấu sản xuất, đa dạng sản phẩm, hình thành đô thị mới."
+    ],
+    "correct": 1,
+    "explanation": "- Dựa vào bản đồ ta thấy, Bắc Trung Bộ và duyên hải miền Trung là hai vùng có nhiều khu kinh tế ven biển nhất cả nước. => Việc hình thành các khu kinh tế ven biển ở Bắc Trung Bộ và duyên hải miền Trung chủ yếu nhằm phát triển sản xuất hàng hóa, đẩy mạnh việc xuất khẩu, thu hút đầu tư. - Phát triển sản xuất hàng hóa: tăng cường sản xuất các sản phẩm có giá trị, đáp ứng nhu cầu thị trường trong nước và quốc tế. - Đẩy mạnh xuất khẩu: góp phần cải thiện cán cân thương mại và tăng thu nhập cho người dân trong vùng. - Thu hút đầu tư: tạo môi trường đầu tư hấp dẫn để thu hút các doanh nghiệp trong và ngoài nước, đặc biệt là các doanh nghiệp trong lĩnh vực công nghiệp, dịch vụ. -----------",
+    "passage": null
+  }
+];

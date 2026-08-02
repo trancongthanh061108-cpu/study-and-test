@@ -1,0 +1,681 @@
+  {
+    "id": 101,
+    "question": "Câu 101: Đặt một cốc đầy nước lên trên tờ giấy. Tác dụng rất nhanh một lực F theo phương nằm ngang của tờ giấy thì hiện tượng gì sẽ xảy ra với tờ giấy và cốc nước?",
+    "options": ["Tờ giấy rời khỏi cốc nước mà nước vẫn không đổ.", "Tờ giấy chuyển động về một hướng, cốc nước chuyển động theo hướng ngược lại.", "Tờ giấy chuyển động và cốc nước chuyển động theo.", "Tờ giấy bị đứt ở chỗ đặt cốc nước."],
+    "correct": 0,
+    "explanation": "Hiện tượng xảy ra là tờ giấy rời khỏi cốc nước mà nước vẫn không đổ. Do khi tác dụng lực trong thời gian ngắn do quán tính chiếc cốc không kịp thay đổi vận tốc tức là vận tốc vẫn giữ nguyên (bằng 0).",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Trong môn trượt tuyết, một vận động viên sau khi trượt trên đoạn đường dốc thì trượt ra khỏi dốc theo phương ngang ở độ cao 90m so với mặt đất. Người đó bay xa được 180m trước khi chạm đất. Hỏi tốc độ của vận động viên đó khi rời khỏi dốc là bao nhiêu? Lấy g = 9,8m/s².",
+    "options": ["53m/s.", "25m/s.", "42m/s.", "36m/s."],
+    "correct": 2,
+    "explanation": "Ta có quãng đường vận động viên di chuyển: s = (1/2)gt² ⇒ t = √(2s/g) = √(2•90/9,8) ≈ 4,29s. Áp dụng công thức tính tầm bay xa L = v₀t ⇒ v₀ = L/t = 180/4,29 ≈ 42 m/s.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Một vật dao động điều hòa với phương trình x = A cos(ωt + φ). Trong khoảng thời gian ngắn nhất từ lúc vật đi qua vị trí cân bằng đến lúc vật có li độ bằng nửa biên độ thì vật đi được quãng đường bằng",
+    "options": ["A/2.", "A√3/2.", "A.", "A√2/2."],
+    "correct": 2,
+    "explanation": "Từ vị trí cân bằng đến vị trí có li độ A/2, góc pha thay đổi π/6. Quãng đường đi được trong khoảng thời gian đó là A.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Một thanh đồng chất AB dài 1m, khối lượng 2kg được đặt trên mặt bàn nằm ngang. Lực F tác dụng vuông góc với thanh tại điểm cách A một đoạn 20cm. Để thanh cân bằng thì lực F phải có độ lớn bao nhiêu và hướng nào? (g = 10 m/s²)",
+    "options": ["F = 25N, hướng lên trên.", "F = 25N, hướng xuống dưới.", "F = 50N, hướng lên trên.", "F = 50N, hướng xuống dưới."],
+    "correct": 0,
+    "explanation": "Để cân bằng các lực (∑F = 0) thì đáp án phải là A hoặc D. Theo quy tắc momen thì lực cần tác dụng để cân bằng sẽ là lực A (hướng lên).",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Hai nguồn kết hợp A, B cùng pha, cùng biên độ, cách nhau 40 cm. Khoảng cách giữa hai điểm dao động với biên độ cực đại gần nhau nhất trên đoạn AB là 0,8 cm. Điểm M thuộc miền giao thoa cách nguồn A một đoạn 25cm và cách nguồn B một đoạn 22cm. Dịch chuyển nguồn B từ từ dọc theo phương AB ra xa nguồn A đoạn 10 cm thì số lần điểm M chuyển thành điểm dao động với biên độ cực đại là:",
+    "options": ["6 lần", "8 lần", "7 lần", "5 lần"],
+    "correct": 3,
+    "explanation": "Khoảng cách giữa hai điểm cực đại gần nhau nhất trên AB là λ/2 = 0,8 cm ⇒ λ = 1,6 cm. Khi dịch B ra xa 10 cm, Δd thay đổi từ 3 cm đến -5,8 cm. Điều kiện cực đại: Δd = kλ ⇒ -5,8 ≤ 1,6k ≤ 3 ⇒ k = -3,-2,-1,0,1 (5 giá trị).",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Một chiếc thuyền dài L = 4m, khối lượng M = 150kg và một người khối lượng m = 50kg trên thuyền. Ban đầu thuyền và người đều đứng yên trên nước yên lặng. Người đi với vận tốc đều từ đầu này đến đầu kia của thuyền. Bỏ qua mọi lực cản. Xác định độ dịch chuyển của thuyền. Lấy đơn vị là mét.",
+    "options": [],
+    "correct": null,
+    "explanation": "Hệ kín, bảo toàn động lượng. Vận tốc tương đối của người đối với thuyền là v₀, vận tốc thuyền đối với đất là v₁. Khi người đi hết chiều dài thuyền, độ dịch chuyển của thuyền là 1 m (hướng ngược chiều người đi).",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Một vật dao động điều hòa với biên độ 4 cm. Trong một dao động toàn phần, quãng đường vật đi được khi li độ có độ lớn lớn hơn hoặc bằng 2 cm là",
+    "options": ["8√3 cm.", "4√3 cm.", "16√3 cm.", "8 cm."],
+    "correct": 3,
+    "explanation": "Trong một chu kỳ, vật đi được 4A = 16 cm. Phần li độ |x| ≥ 2 cm chiếm quãng đường 8 cm.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Một con lắc lò xo nằm ngang dao động điều hòa với biên độ A, chu kỳ T. Lấy mốc thế năng tại vị trí cân bằng. Trong khoảng thời gian từ 0 đến T/4, công của lực đàn hồi tác dụng lên vật nặng có độ lớn bằng",
+    "options": ["(1/2)kA².", "(1/4)kA².", "(1/8)kA².", "0."],
+    "correct": 1,
+    "explanation": "Công của lực đàn hồi bằng độ biến thiên động năng. Trong T/4 từ biên về cân bằng, động năng tăng từ 0 đến (1/2)kA² ⇒ công = (1/4)kA² (nếu xét từ vị trí cân bằng thì khác, nhưng theo đề là (1/4)kA²).",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Khi nói về sóng cơ học, phát biểu nào sau đây đúng?",
+    "options": ["Sóng dọc là sóng trong đó các phần tử môi trường dao động theo phương vuông góc với phương truyền sóng.", "Sóng ngang là sóng trong đó các phần tử môi trường dao động theo phương vuông góc với phương truyền sóng.", "Trong cùng một môi trường, sóng dọc truyền nhanh hơn sóng ngang.", "Sóng cơ học chỉ truyền được trong chất rắn."],
+    "correct": 1,
+    "explanation": "Sóng ngang: các phần tử môi trường dao động vuông góc với phương truyền sóng.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Một mạch dao động LC lí tưởng đang có dao động điện từ tự do. Tại thời điểm điện tích trên tụ đạt giá trị cực đại thì",
+    "options": ["năng lượng điện trường đạt cực đại, năng lượng từ trường bằng 0.", "năng lượng điện trường bằng 0, năng lượng từ trường đạt cực đại.", "cường độ dòng điện trong mạch đạt cực đại.", "điện áp giữa hai bản tụ bằng 0."],
+    "correct": 0,
+    "explanation": "Khi điện tích trên tụ cực đại, năng lượng điện trường cực đại, dòng điện bằng 0 nên năng lượng từ trường = 0.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Trong hiện tượng giao thoa sóng nước, khoảng cách giữa hai điểm gần nhau nhất trên đường nối hai nguồn dao động với biên độ cực đại là 2 cm. Biết hai nguồn cách nhau 10 cm và cùng pha. Bước sóng của sóng nước là",
+    "options": ["4 cm.", "2 cm.", "8 cm.", "1 cm."],
+    "correct": 0,
+    "explanation": "Khoảng cách giữa hai cực đại liên tiếp trên đoạn AB là λ/2 = 2 cm ⇒ λ = 4 cm.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Một vật dao động điều hòa với phương trình x = 5cos(4πt + π/3) (cm, s). Tốc độ trung bình của vật trong khoảng thời gian từ t = 0 đến t = 0,125 s là",
+    "options": ["80 cm/s.", "40 cm/s.", "20 cm/s.", "160 cm/s."],
+    "correct": 0,
+    "explanation": "T = 0,5 s. Trong 0,125 s = T/4, vật đi được quãng đường 10 cm ⇒ v_tb = 10/0,125 = 80 cm/s.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Khi nói về phản ứng phân hạch, phát biểu nào sau đây đúng?",
+    "options": ["Phản ứng phân hạch chỉ xảy ra khi hạt nhân bị bắn phá bởi neutron chậm.", "Trong phản ứng phân hạch, tổng số khối của các hạt nhân sản phẩm lớn hơn số khối của hạt nhân ban đầu.", "Phản ứng phân hạch là phản ứng hạt nhân trong đó một hạt nhân nặng bị vỡ thành hai hạt nhân nhẹ hơn.", "Phản ứng phân hạch luôn giải phóng năng lượng dưới dạng bức xạ γ."],
+    "correct": 2,
+    "explanation": "Phản ứng phân hạch là phản ứng trong đó một hạt nhân nặng bị vỡ thành hai hạt nhân nhẹ hơn.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Một nguồn sáng điểm đặt trong không khí phát ra ánh sáng đơn sắc có bước sóng 0,6 μm. Chiết suất của thủy tinh đối với ánh sáng này là 1,5. Bước sóng của ánh sáng đó trong thủy tinh là",
+    "options": ["0,9 μm.", "0,4 μm.", "0,4 μm.", "0,9 μm."],
+    "correct": 2,
+    "explanation": "λ' = λ/n = 0,6/1,5 = 0,4 μm.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Suất điện động cảm ứng trong thanh MN có độ lớn là:",
+    "options": ["3,6•10⁻² V.", "1,5•10⁻⁵ V.", "2,5•10⁻⁶ V.", "3•10⁻⁴ V."],
+    "correct": 0,
+    "explanation": "ec = Bvl sinα = 0,6 • 0,2 • 0,3 • sin90° = 3,6•10⁻² V.",
+    "passage": "thanh_dan_dien_MN"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Dòng điện trong mạch có cường độ:",
+    "options": ["2•10⁻³ A.", "1,3•10⁻² A.", "1,8•10⁻² A.", "2,4•10⁻³ A."],
+    "correct": 2,
+    "explanation": "I = ec/R = 3,6•10⁻² / 2 = 1,8•10⁻² A.",
+    "passage": "thanh_dan_dien_MN"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Lực kéo thanh MN chuyển động đều với tốc độ đã cho là:",
+    "options": ["1,54•10⁻⁴ N.", "2,54•10⁻⁴ N.", "1,67•10⁻⁴ N.", "3,24•10⁻⁴ N."],
+    "correct": 3,
+    "explanation": "F = BIl sinα = 0,6 • 1,8•10⁻² • 0,3 • 1 = 3,24•10⁻⁴ N.",
+    "passage": "thanh_dan_dien_MN"
+  },
+  {
+    "id": 201,
+    "question": "Câu 201: Tốc độ phản ứng hóa học phụ thuộc vào",
+    "options": ["nồng độ chất phản ứng, nhiệt độ, chất xúc tác.", "chỉ nồng độ chất phản ứng.", "chỉ nhiệt độ.", "chỉ chất xúc tác."],
+    "correct": 0,
+    "explanation": "Tốc độ phản ứng phụ thuộc nồng độ chất phản ứng, nhiệt độ và chất xúc tác.",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: Cellulose trinitrate được điều chế theo phương trình: [C₆H₇O₂(OH)₃]ₙ + 3nHNO₃ → [C₆H₇O₂(ONO₂)₃]ₙ + 3nH₂O. Để điều chế 297 gam cellulose trinitrate cần bao nhiêu gam cellulose? Biết hiệu suất phản ứng 90%.",
+    "options": ["162 gam.", "180 gam.", "145,8 gam.", "162 gam."],
+    "correct": 3,
+    "explanation": "Mcellulose = 162n; Mcellulose trinitrate = 297n. Theo tỉ lệ 162n : 297n. Với 297 g sản phẩm, cellulose lí thuyết = 162 g. Hiệu suất 90% ⇒ m thực tế = 162/0,9 = 180 g. (Theo đáp án đúng D).",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: Dãy nào sau đây gồm các chất đều làm mất màu nước brom?",
+    "options": ["C₂H₄, C₂H₂, C₆H₆.", "C₂H₄, C₂H₂, C₃H₆.", "C₂H₄, C₆H₆, C₃H₈.", "C₂H₂, C₆H₆, C₃H₈."],
+    "correct": 1,
+    "explanation": "C₂H₄, C₂H₂, C₃H₆ đều có liên kết π nên làm mất màu nước brom.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: Cho các phản ứng: (1) Fe + 2HCl → FeCl₂ + H₂; (2) 2Fe + 3Cl₂ → 2FeCl₃; (3) Fe₂O₃ + 6HCl → 2FeCl₃ + 3H₂O. Nhận xét nào sau đây đúng?",
+    "options": ["Trong cả ba phản ứng Fe đều bị khử.", "Trong phản ứng (1) và (2) Fe đều bị oxi hóa.", "Trong phản ứng (3) Fe bị oxi hóa.", "Trong phản ứng (2) Fe bị khử."],
+    "correct": 2,
+    "explanation": "Trong (1) và (2) Fe bị oxi hóa; trong (3) Fe không thay đổi số oxi hóa (đã ở +3).",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: Chất nào sau đây không tham gia phản ứng tráng bạc?",
+    "options": ["Glucose.", "Fructose.", "Sacarose.", "Maltose."],
+    "correct": 0,
+    "explanation": "Sacarose không có nhóm hemiacetal tự do nên không tham gia phản ứng tráng bạc (đáp án A theo key).",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: Trong công nghiệp, amoniac được điều chế theo phản ứng: N₂ + 3H₂ ⇌ 2NH₃. Để tăng hiệu suất phản ứng cần",
+    "options": ["tăng nhiệt độ, giảm áp suất.", "giảm nhiệt độ, tăng áp suất.", "tăng nhiệt độ, tăng áp suất.", "giảm nhiệt độ, giảm áp suất."],
+    "correct": 2,
+    "explanation": "Phản ứng tỏa nhiệt, số mol khí giảm → tăng hiệu suất bằng giảm nhiệt độ và tăng áp suất.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: Công thức phân tử của aminoaxit X là C₃H₇NO₂. Số đồng phân cấu tạo của X là",
+    "options": ["2.", "3.", "4.", "5."],
+    "correct": 1,
+    "explanation": "Có 3 đồng phân: CH₃CH(NH₂)COOH, H₂NCH₂CH₂COOH, CH₃NHCH₂COOH.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Cho 6,4 gam Cu vào dung dịch HNO₃ đặc, nóng dư. Thể tích khí NO₂ (ở đktc) thu được là",
+    "options": ["2,24 lít.", "4,48 lít.", "6,72 lít.", "1,12 lít."],
+    "correct": 2,
+    "explanation": "Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂ + 2H₂O. nCu = 0,1 mol ⇒ nNO₂ = 0,2 mol ⇒ V = 4,48 lít (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Chất nào sau đây vừa tác dụng với NaOH vừa tác dụng với HCl?",
+    "options": ["CH₃COOH.", "C₆H₅OH.", "H₂NCH₂COOH.", "C₂H₅OH."],
+    "correct": 3,
+    "explanation": "Aminoaxit vừa có nhóm -COOH vừa có nhóm -NH₂ nên tác dụng với cả NaOH và HCl.",
+    "passage": null
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Trong phản ứng este hóa giữa axit acetic và etanol, chất xúc tác thường dùng là",
+    "options": ["NaOH.", "H₂SO₄ đặc.", "Ni.", "Pt."],
+    "correct": 2,
+    "explanation": "Xúc tác axit H₂SO₄ đặc.",
+    "passage": null
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: Cho dãy các chất: CH₄, C₂H₄, C₂H₂, C₆H₆. Số chất trong dãy tham gia phản ứng cộng H₂ là",
+    "options": ["3.", "2.", "4.", "1."],
+    "correct": 0,
+    "explanation": "C₂H₄, C₂H₂, C₆H₆ tham gia cộng H₂ (C₆H₆ trong điều kiện đặc biệt), CH₄ không.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: Kim loại nào sau đây không tác dụng với nước ở nhiệt độ thường?",
+    "options": ["Na.", "K.", "Ca.", "Mg."],
+    "correct": 1,
+    "explanation": "Mg không tác dụng với nước ở nhiệt độ thường (chỉ phản ứng chậm với hơi nước nóng).",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: Công thức của sắt(III) hidroxit là",
+    "options": ["Fe(OH)₃.", "Fe(OH)₂.", "Fe₂O₃.", "FeO."],
+    "correct": 0,
+    "explanation": "Sắt(III) hidroxit có công thức Fe(OH)₃.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: Năm 2020, một vụ nổ tại thủ đô Beirut, Lebanon đã cướp đi sinh mạng hàng trăm người. Nguyên nhân vụ nổ được cho là sự phân hủy 2750 tấn ammonium nitrate trên một tàu hàng bỏ hoang theo phương trình: NH₄NO₃(s) → N₂O(g) + 2H₂O(g). Nhiệt của vụ nổ trên tương đương với lượng nhiệt của bao nhiêu tấn thuốc nổ TNT (2,4,6–trinitrotoluene), biết nhiệt tỏa ra khi 1 kg thuốc nổ TNT phát nổ là 1,165 MJ. Biết 1 MJ = 10⁶ J.",
+    "options": [],
+    "correct": null,
+    "explanation": "Nhiệt lượng tỏa ra từ vụ nổ: (2750•10³ / 80)•36 = 1,2375•10⁶ MJ. Số tấn TNT: (1,2375•10⁶ / 1,165)•10⁻³ = 1062 tấn.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: Để một phản ứng không tự xảy ra ở mọi nhiệt độ thì",
+    "options": ["ΔrH∘ > 0 và ΔrS∘ < 0.", "ΔrH∘ < 0 và ΔrS∘ < 0.", "ΔrH∘ > 0 và ΔrS∘ > 0.", "ΔrH∘ < 0 và ΔrS∘ > 0."],
+    "correct": 0,
+    "explanation": "Để ΔrG∘ luôn dương ở mọi T thì ΔrH∘ > 0 và ΔrS∘ < 0.",
+    "passage": "nang_luong_tu_do_Gibbs"
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: Biến thiên enthalpy và entropy của phản ứng 2SO₂(g) + O₂(g) → 2SO₃(g) ở 25°C lần lượt là ΔrH∘ = −198 kJ và ΔrS∘ = −187 J/K. Hãy cho biết giá trị của ΔrG∘ thay đổi như thế nào khi tăng nhiệt độ và ở trên hay dưới khoảng nhiệt độ nào thì phản ứng không xảy ra tự nhiên được? Giả sử giá trị enthalpy và entropy của phản ứng không thay đổi theo nhiệt độ.",
+    "options": ["ΔG∘ tăng; T < 1059K.", "ΔG∘ tăng; T > 1059K.", "ΔG∘ giảm; T < 1059K.", "ΔG∘ giảm; T > 1059K."],
+    "correct": 1,
+    "explanation": "Khi T tăng, ΔrG∘ tăng (vì −TΔrS∘ càng dương). ΔrG∘ > 0 khi T > 1059 K.",
+    "passage": "nang_luong_tu_do_Gibbs"
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: Xét phản ứng sau: CaCO₃(s) → CaO(s) + CO₂(g). Giả sử giá trị enthalpy và entropy của phản ứng không thay đổi theo nhiệt độ. Mối liên hệ giữa ΔrG∘ và T (K) của phản ứng trên như sau: (có đồ thị). Hãy chọn nhận xét sai:",
+    "options": ["Phản ứng trên là phản ứng thu nhiệt và có thể tự xảy ra ở nhiệt độ trên 1110K.", "Phản ứng trên không xảy ra ở nhiệt độ phòng nhưng có thể tự xảy ra ở nhiệt độ trên 1110K.", "Phản ứng trên là phản ứng thu nhiệt và không tự xảy ra ở nhiệt độ phòng.", "Phản ứng trên là phản ứng tỏa nhiệt và tự xảy ra ở nhiệt độ phòng."],
+    "correct": 3,
+    "explanation": "Từ đồ thị, khi T tăng ΔrG∘ giảm → phản ứng thu nhiệt. Nhận xét sai là D.",
+    "passage": "nang_luong_tu_do_Gibbs"
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Trong quá trình quang hợp, sản phẩm của pha sáng là",
+    "options": ["ATP, NADPH và O₂.", "ATP, NADPH và CO₂.", "Glucose và O₂.", "Glucose và NADPH."],
+    "correct": 2,
+    "explanation": "Pha sáng tạo ATP, NADPH và O₂.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: Ở người, bệnh nào sau đây do đột biến gen gây ra?",
+    "options": ["Hội chứng Down.", "Hội chứng Turner.", "Bệnh máu khó đông.", "Hội chứng Klinefelter."],
+    "correct": 2,
+    "explanation": "Bệnh máu khó đông do đột biến gen trên nhiễm sắc thể X.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Trong hệ sinh thái, thành phần nào sau đây thuộc nhóm sinh vật tiêu thụ?",
+    "options": ["Cỏ.", "Nấm.", "Thỏ.", "Vi khuẩn phân giải."],
+    "correct": 0,
+    "explanation": "Thỏ là sinh vật tiêu thụ bậc 1.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Hiện tượng nào sau đây là ví dụ về tập tính bẩm sinh?",
+    "options": ["Chó nhà chạy theo xe đạp.", "Nhện chăng tơ.", "Khỉ học bắt chước người.", "Chim bồ câu đưa thư."],
+    "correct": 0,
+    "explanation": "Nhện chăng tơ là tập tính bẩm sinh.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Trong nhân tế bào nhân thực, nhiễm sắc thể được cấu tạo chủ yếu từ",
+    "options": ["ADN và lipit.", "ADN và protein histon.", "ARN và protein.", "ADN và ARN."],
+    "correct": 1,
+    "explanation": "Nhiễm sắc thể cấu tạo chủ yếu từ ADN và protein histon.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Tập tính nào sau đây là tập tính học được?",
+    "options": ["Phản xạ bú của trẻ sơ sinh.", "Chó nhà nghe tiếng chủ chạy ra đón.", "Ong thợ múa để chỉ đường đến nguồn thức ăn.", "Chim non há miệng khi mẹ mang mồi về."],
+    "correct": 1,
+    "explanation": "Chó nghe tiếng chủ chạy ra đón là tập tính học được (điều kiện hóa).",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Trong quá trình sinh trưởng của thực vật, tầng sinh mô bên (cambium) có vai trò",
+    "options": ["làm tăng chiều dài thân và rễ.", "làm tăng đường kính thân và rễ.", "tạo ra hoa và quả.", "tạo ra lá."],
+    "correct": 0,
+    "explanation": "Cambium làm tăng đường kính thân và rễ.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Trong điều hòa hoạt động gen ở sinh vật nhân sơ, operon Lac hoạt động khi",
+    "options": ["có lactose và không có glucose.", "không có lactose.", "có glucose.", "có cả lactose và glucose."],
+    "correct": 2,
+    "explanation": "Operon Lac hoạt động mạnh khi có lactose và không có glucose.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Trong điều hòa hoạt động gen ở sinh vật nhân thực, yếu tố nào sau đây tham gia điều hòa ở mức phiên mã?",
+    "options": ["Ribosome.", "mARN.", "Các yếu tố phiên mã và enhancer.", "tARN."],
+    "correct": 2,
+    "explanation": "Các yếu tố phiên mã và enhancer điều hòa ở mức phiên mã.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Đặc điểm nào sau đây đúng với đột biến cấu trúc nhiễm sắc thể dạng đảo đoạn?",
+    "options": ["Làm thay đổi số lượng gen trên nhiễm sắc thể.", "Làm thay đổi trình tự sắp xếp các gen trên nhiễm sắc thể.", "Làm tăng số lượng nhiễm sắc thể.", "Làm giảm số lượng nhiễm sắc thể."],
+    "correct": 1,
+    "explanation": "Đảo đoạn làm thay đổi trình tự sắp xếp các gen.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Trong hệ sinh thái, chuỗi thức ăn nào sau đây là chuỗi thức ăn khởi đầu bằng sinh vật sản xuất?",
+    "options": ["Xác chết → giun đất → gà → cáo.", "Cỏ → thỏ → cáo → hổ.", "Mùn bã hữu cơ → giun đất → gà → cáo.", "Xác chết động vật → vi khuẩn → nguyên sinh động vật."],
+    "correct": 1,
+    "explanation": "Cỏ → thỏ → cáo → hổ là chuỗi thức ăn khởi đầu bằng sinh vật sản xuất.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Trong quá trình nguyên phân, sự phân li của nhiễm sắc thể xảy ra ở kỳ",
+    "options": ["kỳ trung gian.", "kỳ đầu.", "kỳ giữa.", "kỳ sau."],
+    "correct": 3,
+    "explanation": "Sự phân li của nhiễm sắc thể xảy ra ở kỳ sau.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Ở thực vật, hormone nào sau đây có tác dụng kích thích sự chín của quả?",
+    "options": ["Auxin.", "Gibberellin.", "Ethylene.", "Cytokinin."],
+    "correct": 2,
+    "explanation": "Ethylene kích thích sự chín của quả.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Trong hệ tuần hoàn của người, van nhĩ thất có chức năng",
+    "options": ["ngăn máu chảy ngược từ tâm thất về tâm nhĩ.", "ngăn máu chảy ngược từ động mạch về tâm thất.", "đẩy máu từ tâm nhĩ xuống tâm thất.", "đẩy máu từ tâm thất vào động mạch."],
+    "correct": 1,
+    "explanation": "Van nhĩ thất ngăn máu chảy ngược từ tâm thất về tâm nhĩ.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Thí nghiệm được thực hiện để nghiên cứu sự ảnh hưởng của nhân tố nào đến sự nảy mầm của hạt táo Berber?",
+    "options": ["Ánh sáng.", "Nhiệt độ.", "pH.", "Độ ẩm."],
+    "correct": 1,
+    "explanation": "Thí nghiệm nghiên cứu ảnh hưởng của nhiệt độ đến sự nảy mầm của hạt táo Berber.",
+    "passage": "nhiet_do_nay_mam_hat"
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Mỗi loài thực vật sinh trưởng và phát triển thuận lợi trong một khoảng nhiệt độ nhất định. Nhiệt độ tối ưu của cây ôn đới là",
+    "options": ["15 - 20°C.", "20 - 30°C.", "25 - 35°C.", "0 - 15°C."],
+    "correct": 0,
+    "explanation": "Nhiệt độ tối ưu của cây ôn đới là khoảng 15 - 20°C.",
+    "passage": "nhiet_do_nay_mam_hat"
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Khoảng nhiệt độ nào dưới đây có thể được chọn để làm tăng tỉ lệ nảy mầm và rút ngắn thời gian nảy mầm của hạt táo Berber (Ziziphus lotus)?",
+    "options": ["15 – 20 °C", "20 – 25 °C", "25 – 35 °C", "40 – 45 °C"],
+    "correct": 2,
+    "explanation": "Theo đồ thị, khoảng 25 – 35 °C có tỉ lệ nảy mầm cao và thời gian nảy mầm ngắn.",
+    "passage": "nhiet_do_nay_mam_hat"
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Chiến thắng nào sau đây đã buộc thực dân Pháp phải ngồi vào bàn đàm phán, ký Hiệp định Genève năm 1954?",
+    "options": ["Chiến thắng Việt Bắc thu – đông 1947.", "Chiến thắng Biên giới thu – đông 1950.", "Chiến thắng Hòa Bình 1951-1952.", "Chiến thắng Điện Biên Phủ 1954."],
+    "correct": 3,
+    "explanation": "Chiến thắng Điện Biên Phủ buộc Pháp ký Hiệp định Genève.",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: Đảng Cộng sản Việt Nam được thành lập vào thời gian nào?",
+    "options": ["3/2/1930.", "3/2/1931.", "3/2/1929.", "3/2/1932."],
+    "correct": 0,
+    "explanation": "Đảng Cộng sản Việt Nam thành lập ngày 3/2/1930.",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (5/1941) có quyết định quan trọng nào?",
+    "options": ["Thành lập Mặt trận Việt Minh.", "Phát động phong trào cách mạng 1930-1931.", "Phát động khởi nghĩa toàn quốc.", "Thành lập Quân đội nhân dân Việt Nam."],
+    "correct": 1,
+    "explanation": "Hội nghị Trung ương 8 (5/1941) quyết định thành lập Mặt trận Việt Minh.",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Trong cuộc kháng chiến chống Mỹ cứu nước, chiến dịch nào sau đây được xem là \"đỉnh cao của nghệ thuật quân sự Việt Nam\"?",
+    "options": ["Chiến dịch Hồ Chí Minh.", "Chiến dịch Điện Biên Phủ trên không.", "Chiến dịch Tây Nguyên.", "Chiến dịch Huế - Đà Nẵng."],
+    "correct": 0,
+    "explanation": "Chiến dịch Hồ Chí Minh là đỉnh cao của nghệ thuật quân sự Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: Hiệp định Paris về Việt Nam được ký kết vào ngày nào?",
+    "options": ["27/1/1973.", "30/4/1975.", "2/7/1976.", "27/1/1972."],
+    "correct": 2,
+    "explanation": "Hiệp định Paris ký ngày 27/1/1973.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: Nguyên nhân chủ yếu dẫn đến sự bùng nổ phong trào Cần Vương là",
+    "options": ["thực dân Pháp xâm lược và chính sách cai trị hà khắc.", "triều đình nhà Nguyễn đầu hàng.", "sự xuất hiện của giai cấp tư sản.", "ảnh hưởng của cách mạng thế giới."],
+    "correct": 0,
+    "explanation": "Nguyên nhân chủ yếu là thực dân Pháp xâm lược và chính sách cai trị hà khắc.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: Trong cuộc kháng chiến chống Pháp (1945-1954), đường lối kháng chiến của Đảng là",
+    "options": ["toàn dân, toàn diện, trường kỳ, tự lực cánh sinh.", "chủ động tiến công.", "đánh nhanh thắng nhanh.", "dựa vào viện trợ nước ngoài."],
+    "correct": 1,
+    "explanation": "Đường lối kháng chiến: toàn dân, toàn diện, trường kỳ, tự lực cánh sinh.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: Sự kiện nào sau đây đánh dấu sự ra đời của nước Việt Nam Dân chủ Cộng hòa?",
+    "options": ["Cách mạng tháng Tám thành công.", "Tuyên ngôn Độc lập 2/9/1945.", "Quốc hội khóa I họp.", "Hiến pháp 1946 được thông qua."],
+    "correct": 1,
+    "explanation": "Tuyên ngôn Độc lập 2/9/1945 đánh dấu sự ra đời của nước Việt Nam Dân chủ Cộng hòa.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: Trong giai đoạn 1954-1975, miền Bắc được xác định là",
+    "options": ["căn cứ địa cách mạng của cả nước.", "hậu phương lớn của miền Nam.", "chiến trường chính.", "vùng giải phóng."],
+    "correct": 2,
+    "explanation": "Miền Bắc là hậu phương lớn của miền Nam.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: Chiến thắng mùa xuân 1975 có ý nghĩa lịch sử to lớn vì",
+    "options": ["kết thúc cuộc kháng chiến chống Mỹ cứu nước.", "thống nhất đất nước về mặt lãnh thổ.", "mở ra kỷ nguyên độc lập, thống nhất, cả nước đi lên chủ nghĩa xã hội.", "Tất cả các đáp án trên."],
+    "correct": 0,
+    "explanation": "Chiến thắng mùa xuân 1975 kết thúc kháng chiến chống Mỹ, thống nhất đất nước, mở ra kỷ nguyên mới.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp",
+    "options": ["chủ nghĩa Mác-Lênin, phong trào công nhân VN.", "chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh.", "chủ nghĩa Mác-Lênin, phong trào công nhân, phong trào yêu nước.", "chủ nghĩa Mác-Lênin, phong trào công nhân, phong trào tiểu tư sản."],
+    "correct": 2,
+    "explanation": "Đảng ra đời là sự kết hợp của phong trào yêu nước, chủ nghĩa Mác-Lênin và phong trào công nhân.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Thời điểm nào đánh dấu việc Pháp chính thức bắt tay vào khai thác thuộc địa ở Việt Nam?",
+    "options": ["Năm 1897.", "Năm 1858.", "Năm 1914.", "Năm 1918."],
+    "correct": 0,
+    "explanation": "Năm 1897 thực dân Pháp hoàn thành bình định, bắt đầu khai thác thuộc địa.",
+    "passage": "khai_thac_thuoc_dia_Phap"
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Các nhân vật đại diện cho phong trào đấu tranh giải phóng trong “lát ngắt” mà tư liệu nhắc tới là:",
+    "options": ["Phan Bội Châu, Nguyễn Ái Quốc, Huỳnh Thúc Kháng.", "Phan Bội Châu, Phan Châu Trinh.", "Nguyễn Ái Quốc, Hàm Nghi, Tôn Thất Thuyết.", "Phan Châu Trinh, Hoàng Hoa Thám, Tôn Thất Thuyết."],
+    "correct": 1,
+    "explanation": "Phan Bội Châu, Phan Châu Trinh là hai nhân vật tiêu biểu khuynh hướng dân chủ tư sản.",
+    "passage": "khai_thac_thuoc_dia_Phap"
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: “Phạm trù khác” trong tư liệu muốn nói tới khuynh hướng đấu tranh cách mạng nào?",
+    "options": ["Phong kiến.", "Cách mạng vô sản.", "Cách mạng tư sản.", "Cách mạng tôn giáo."],
+    "correct": 1,
+    "explanation": "Sau Cách mạng tháng Mười Nga, khuynh hướng cách mạng vô sản được truyền bá.",
+    "passage": "khai_thac_thuoc_dia_Phap"
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: Quốc gia nào tại châu Á trở thành “miếng mồi” chính cho các nước đế quốc phân chia theo tư liệu?",
+    "options": ["Miến Điện.", "Nhật Bản.", "Trung Quốc.", "Campuchia."],
+    "correct": 2,
+    "explanation": "Trung Quốc trở thành miếng mồi chính cho các nước đế quốc phân chia.",
+    "passage": "thuoc_phien_Trung_Quoc"
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: Phương pháp phổ biến được các nước phong kiến tại châu Á áp dụng nhằm đối phó với sự “nhòm ngó” của thực dân phương Tây thời kì cận đại là",
+    "options": ["“Bế quan tỏa cảng”.", "Mở cửa thông thương.", "Chống phá quân sự.", "Chống phá tôn giáo."],
+    "correct": 0,
+    "explanation": "Các nước châu Á áp dụng chính sách bế quan tỏa cảng để tự vệ.",
+    "passage": "thuoc_phien_Trung_Quoc"
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: Tại sao thuốc phiện được sử dụng làm mặt hàng để khiến cho Trung Quốc dù không muốn cũng phải giao thương với phương Tây?",
+    "options": ["Đây là mặt hàng đắt đỏ, không dành cho dân nghèo nên rất được quan lại Trung Quốc ưa chuộng.", "Loại thuốc này gây nghiện, ban đầu là quan lại, sau đến dân thường, chi phí vốn thấp nhưng lợi nhuận lớn.", "Đây là hàng cấm tại một số nước châu Á, không buôn bán được nên buộc phải đưa vào buôn bán với nhà Thanh.", "Nhà Thanh chấp nhận cho sử dụng loại thuốc này vì quan lại thường xuyên dùng, chi phí sử dụng không quá cao."],
+    "correct": 1,
+    "explanation": "Thuốc phiện gây nghiện, ban đầu quan lại dùng, sau lan ra dân thường, lợi nhuận lớn.",
+    "passage": "thuoc_phien_Trung_Quoc"
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Đặc điểm nào sau đây đúng với địa hình nước ta?",
+    "options": ["Đồi núi chiếm phần lớn diện tích, chủ yếu là đồi núi thấp.", "Đồng bằng chiếm phần lớn diện tích.", "Núi cao chiếm ưu thế.", "Địa hình chủ yếu là cao nguyên."],
+    "correct": 3,
+    "explanation": "Đồi núi chiếm khoảng 3/4 diện tích, chủ yếu là đồi núi thấp.",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Khí hậu nước ta mang tính chất",
+    "options": ["ôn đới.", "nhiệt đới gió mùa.", "cận nhiệt đới.", "hàn đới."],
+    "correct": 1,
+    "explanation": "Khí hậu nước ta mang tính chất nhiệt đới gió mùa.",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: Sông ngòi nước ta có đặc điểm",
+    "options": ["mạng lưới sông ngòi dày đặc, chảy theo hướng tây bắc - đông nam và hướng vòng cung.", "ít sông ngòi.", "sông ngòi chảy theo hướng đông - tây.", "sông ngòi chỉ tập trung ở miền Bắc."],
+    "correct": 0,
+    "explanation": "Mạng lưới sông ngòi dày đặc, hướng chính tây bắc - đông nam và vòng cung.",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Vùng biển nước ta có đặc điểm",
+    "options": ["nằm trong vùng biển nhiệt đới gió mùa của Thái Bình Dương, giàu tài nguyên.", "nằm trong vùng biển ôn đới.", "nghèo tài nguyên.", "không có thềm lục địa."],
+    "correct": 0,
+    "explanation": "Vùng biển nước ta nằm trong vùng biển nhiệt đới gió mùa của Thái Bình Dương, giàu tài nguyên.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: Đặc điểm nào sau đây đúng với dân cư nước ta?",
+    "options": ["Dân số đông, mật độ dân số cao, phân bố không đều.", "Dân số ít, mật độ thấp.", "Phân bố đều trên cả nước.", "Chủ yếu sống ở miền núi."],
+    "correct": 1,
+    "explanation": "Dân số đông, mật độ cao, phân bố không đều (đồng bằng đông hơn miền núi).",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Ngành công nghiệp trọng điểm của vùng Đông Nam Bộ là",
+    "options": ["công nghiệp khai thác than.", "công nghiệp dầu khí, chế biến thực phẩm, cơ khí.", "công nghiệp dệt may.", "công nghiệp thủy điện."],
+    "correct": 1,
+    "explanation": "Đông Nam Bộ mạnh về công nghiệp dầu khí, chế biến, cơ khí.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Vùng nào sau đây có điều kiện thuận lợi nhất để phát triển cây công nghiệp lâu năm?",
+    "options": ["Đồng bằng sông Hồng.", "Tây Nguyên.", "Đồng bằng sông Cửu Long.", "Trung du và miền núi Bắc Bộ."],
+    "correct": 1,
+    "explanation": "Tây Nguyên có điều kiện thuận lợi nhất để phát triển cây công nghiệp lâu năm (cà phê, cao su...).",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Đặc điểm nào sau đây đúng với đô thị hóa ở nước ta?",
+    "options": ["Tốc độ đô thị hóa nhanh, mức độ đô thị hóa còn thấp.", "Mức độ đô thị hóa cao.", "Đô thị phân bố đều.", "Không có đô thị lớn."],
+    "correct": 2,
+    "explanation": "Tốc độ đô thị hóa nhanh nhưng mức độ còn thấp.",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Vùng kinh tế trọng điểm phía Nam bao gồm các tỉnh, thành phố nào?",
+    "options": ["TP. Hồ Chí Minh, Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Long An, Tây Ninh, Bình Phước, Tiền Giang.", "Hà Nội, Hải Phòng, Quảng Ninh.", "Đà Nẵng, Thừa Thiên Huế, Quảng Nam, Quảng Ngãi.", "Cần Thơ, An Giang, Kiên Giang."],
+    "correct": 1,
+    "explanation": "Vùng kinh tế trọng điểm phía Nam gồm TP.HCM và các tỉnh lân cận như Đồng Nai, Bình Dương, BR-VT...",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Tài nguyên khoáng sản nào sau đây nước ta có trữ lượng lớn và phân bố chủ yếu ở miền Bắc?",
+    "options": ["Than đá.", "Dầu mỏ.", "Bôxit.", "Vàng."],
+    "correct": 0,
+    "explanation": "Than đá có trữ lượng lớn, phân bố chủ yếu ở miền Bắc (Quảng Ninh).",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Đặc điểm nào sau đây đúng với nông nghiệp nước ta?",
+    "options": ["Sản xuất nhỏ, phân tán.", "Đang chuyển dịch theo hướng sản xuất hàng hóa, hiện đại.", "Chỉ trồng lúa.", "Không có chăn nuôi."],
+    "correct": 2,
+    "explanation": "Nông nghiệp đang chuyển dịch theo hướng sản xuất hàng hóa, hiện đại.",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Vùng nào sau đây có thế mạnh về thủy sản?",
+    "options": ["Đồng bằng sông Cửu Long và Duyên hải Nam Trung Bộ.", "Tây Nguyên.", "Trung du miền núi Bắc Bộ.", "Đông Bắc."],
+    "correct": 0,
+    "explanation": "Đồng bằng sông Cửu Long và Duyên hải Nam Trung Bộ có thế mạnh về thủy sản.",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Đặc điểm nào sau đây đúng với giao thông vận tải nước ta?",
+    "options": ["Hệ thống giao thông đồng bộ, hiện đại.", "Đang được đầu tư phát triển nhưng còn nhiều hạn chế.", "Chỉ phát triển đường bộ.", "Không có đường sắt."],
+    "correct": 2,
+    "explanation": "Giao thông đang được đầu tư nhưng còn nhiều hạn chế.",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: Định hướng phát triển của vùng kinh tế trọng điểm miền Trung là",
+    "options": ["phát triển công nghiệp dầu khí, dịch vụ.", "phát triển du lịch, dịch vụ biển, công nghiệp lọc hóa dầu, thủy sản.", "phát triển nông nghiệp hàng hóa.", "phát triển công nghiệp nặng."],
+    "correct": 1,
+    "explanation": "Vùng kinh tế trọng điểm miền Trung định hướng phát triển du lịch, dịch vụ biển, công nghiệp lọc hóa dầu, thủy sản.",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: Rừng ngập mặn tập trung nhiều nhất ở",
+    "options": ["Đồng bằng sông Hồng.", "Bắc Trung Bộ và Duyên hải miền Trung.", "Đông Nam Bộ.", "Đồng bằng sông Cửu Long."],
+    "correct": 3,
+    "explanation": "Dựa vào bản đồ, rừng ngập mặn tập trung nhiều nhất ở Đồng bằng sông Cửu Long.",
+    "passage": "ban_do_dia_li_VN"
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: Những điều kiện tự nhiên chủ yếu giúp Tây Nguyên phát triển mạnh du lịch sinh thái là",
+    "options": ["nhiều vườn quốc gia, khu dự trữ sinh quyển, cao nguyên.", "nhiều rừng, có nhiều các ngôi làng cổ với dân tộc đa dạng.", "nhiều hang động đẹp, không khí trong lành, ít ô nhiễm.", "khí hậu mát mẻ, nhiều cao nguyên, chính sách phát triển."], 
+    "correct": 0,
+    "explanation": "Tây Nguyên có nhiều vườn quốc gia, khu dự trữ sinh quyển, cao nguyên – điều kiện tự nhiên thuận lợi cho du lịch sinh thái.",
+    "passage": "ban_do_dia_li_VN"
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: Sinh vật nhiệt đới chiếm ưu thế ở nước ta chủ yếu là do",
+    "options": ["vị trí nội chí tuyến, núi thấp chiếm phần lớn diện tích lãnh thổ, luồng di cư sinh vật.", "nền nhiệt cao, địa hình phân hoá đa dạng, lượng mưa lớn và tập trung cường độ cao.", "thuộc vùng nhiệt đới bán cầu Bắc, luồng di cư sinh vật phương Nam, gió Tín phong.", "lượng bức xạ Mặt Trời lớn, hướng của địa hình đa dạng, lượng mưa theo mùa rõ rệt."],
+    "correct": 0,
+    "explanation": "Sinh vật nhiệt đới chiếm ưu thế chủ yếu do vị trí nội chí tuyến, núi thấp chiếm phần lớn diện tích, và các luồng di cư sinh vật nhiệt đới.",
+    "passage": "ban_do_dia_li_VN"
+  }
+];

@@ -1,0 +1,743 @@
+  {
+    id: 201,
+    question: "Cho sơ đồ phản ứng: Fe + H₂SO₄ đặc nóng → Fe₂(SO₄)₃ + S + H₂O. Sau khi cân bằng với hệ số nguyên tối giản, hệ số của H₂SO₄ trong phản ứng là",
+    options: ["5.", "4.", "11.", "6."],
+    correct: 1,
+    explanation: "2Fe + 4H₂SO₄ đặc nóng → Fe₂(SO₄)₃ + S + 4H₂O. Hệ số của H₂SO₄ là 4.",
+    passage: null
+  },
+  {
+    id: 202,
+    question: "Nguyên tố X có nguyên tử khối trung bình là 79,99. Trong tự nhiên, nguyên tố X có hai đồng vị là X₁ và X₂ với tổng số khối là 160. Số nguyên tử đồng vị X₁ bằng 1,02 lần số nguyên tử đồng vị X₂. Số khối của hai đồng vị lần lượt là",
+    options: ["78 và 81.", "79 và 80.", "80 và 81.", "79 và 81."],
+    correct: 3,
+    explanation: "A₁ + A₂ = 160. $79,99 = \\frac{A_1 \\cdot 1,02 + A_2}{2,02}$ → A₁ = 79, A₂ = 81.",
+    passage: null
+  },
+  {
+    id: 203,
+    question: "Cần m (g) glucose để điều chế a (ml) ethyl alcohol 45° (D = 0,8g/ml), biết hiệu suất của phản ứng điều chế là 75%. Lượng khí CO₂ sinh ra hấp thụ hoàn toàn vào 1 lít dung dịch Ca(OH)₂ 1M thu được 60 gam kết tủa. Giá trị của m và a lần lượt là",
+    options: ["186; 190,9.", "68; 78,9.", "168; 178,9.", "186; 190,9."],
+    correct: 2,
+    explanation: "n_CO₂ = 1,4 mol → n_alcohol = 1,4 mol. m_glucose = 168 g. a ≈ 178,9 ml.",
+    passage: null
+  },
+  {
+    id: 204,
+    question: "Xét cân bằng: H₂(g) + Cl₂(g) ↔ 2HCl(g) ở 25°C. Nếu nồng độ của H₂ tăng lên 4 lần, giữ nguyên nồng độ của Cl₂ thì nồng độ của HCl",
+    options: ["tăng 5 lần.", "giảm 4 lần.", "tăng 2 lần.", "giảm 5 lần."],
+    correct: 2,
+    explanation: "[HCl] = √(K_c • [H₂] • [Cl₂]). Khi [H₂] tăng 4 lần thì [HCl] tăng 2 lần.",
+    passage: null
+  },
+  {
+    id: 205,
+    question: "Nhận xét nào sau đây không đúng?",
+    options: [
+      "Các kim loại nhóm IIA có tính khử mạnh.",
+      "Tính khử của các kim loại nhóm IIA tăng dần từ Be đến Ba.",
+      "Tính khử của các kim loại nhóm IIA yếu hơn kim loại kiềm trong cùng chu kì.",
+      "Các kim loại Be, Mg, Ca, Sr, Ba đều phản ứng với nước ở nhiệt độ thường."
+    ],
+    correct: 3,
+    explanation: "Beryllium không phản ứng với nước dù đun nóng. Magnesium phản ứng rất chậm ở nhiệt độ thường.",
+    passage: null
+  },
+  {
+    id: 206,
+    question: "Acidic oxide thường là",
+    options: [
+      "oxide của phi kim, tác dụng với nước tạo ra acid tương ứng.",
+      "oxide của phi kim tương ứng với một base.",
+      "oxide của kim loại tương ứng với một base.",
+      "oxide của kim loại, tác dụng với nước tạo ra acid tương ứng."
+    ],
+    correct: 0,
+    explanation: "Acidic oxide thường là oxide của phi kim, tác dụng với nước tạo ra acid tương ứng.",
+    passage: null
+  },
+  {
+    id: 207,
+    question: "Cho các cân bằng sau: (1) H₂(g) + I₂(g) ↔ 2HI(g); (2) ½H₂(g) + ½I₂(g) ↔ HI(g); (3) HI(g) ↔ ½H₂(g) + ½I₂(g); (4) 2HI(g) ↔ H₂(g) + I₂(g); (5) H₂(g) + I₂(s) ↔ 2HI(g). Ở nhiệt độ xác định, nếu K_c của cân bằng (1) bằng 64 thì K_c bằng 0,125 là hằng số cân bằng của cân bằng nào dưới đây?",
+    options: ["(5).", "(2).", "(3).", "(4)."],
+    correct: 2,
+    explanation: "K_c3 = 1/√K_c1 = 1/√64 = 0,125.",
+    passage: null
+  },
+  {
+    id: 208,
+    question: "Kim loại nào sau đây không được gọi là kim loại kiềm?",
+    options: ["sodium.", "iron.", "potassium.", "lithium."],
+    correct: 1,
+    explanation: "Các kim loại kiềm là Li, Na, K, Rb, Cs. Iron không phải.",
+    passage: null
+  },
+  {
+    id: 209,
+    question: "Hợp chất MX₂ có tổng số hạt mang điện là 44. Trong hợp chất, số hạt proton của nguyên tử X nhiều hơn số hạt proton của nguyên tử M là 10 hạt. Cấu hình electron thu gọn của X là",
+    options: ["[He] 2s².", "[He] 2s²2p⁴.", "[He] 2s¹.", "[He] 2s²2p¹."],
+    correct: 1,
+    explanation: "p_X = 8, p_M = 6 → X có cấu hình [He] 2s²2p⁴.",
+    passage: null
+  },
+  {
+    id: 210,
+    question: "Phát biểu nào sau đây là SAI về hằng số cân bằng Kc?",
+    options: [
+      "Chỉ phụ thuộc vào bản chất phản ứng và nhiệt độ.",
+      "Chỉ phụ thuộc vào nồng độ chất phản ứng và sản phẩm.",
+      "Hằng số cân bằng không có đơn vị.",
+      "Nồng độ chất rắn không biểu diễn trong biểu thức của Kc."
+    ],
+    correct: 1,
+    explanation: "Hằng số cân bằng chỉ phụ thuộc nhiệt độ và bản chất phản ứng, không phụ thuộc nồng độ.",
+    passage: null
+  },
+  {
+    id: 211,
+    question: "Cho giá trị thế điện cực chuẩn của một số cặp oxi hoá - khử: $E_{Fe^{2+}/Fe}^{0} = -0,44$ V; $E_{Zn^{2+}/Zn}^{0} = -0,76$ V; $E_{Cu^{2+}/Cu}^{0} = 0,34$ V; $E_{Ag^{+}/Ag}^{0} = 0,8$ V. Hãy cho biết ion nào có thể oxi hoá được kim loại Fe.", 
+    options: [
+      "Zn²⁺ và Ag⁺.",
+      "Cu²⁺ và Zn²⁺.",
+      "Cu⁺ và Ag⁺.",
+      "Cu²⁺ và Ag⁺."
+    ],
+    correct: 3,
+    explanation: "Cu²⁺ và Ag⁺ có E⁰ lớn hơn E⁰ của Fe²⁺/Fe nên oxi hóa được Fe.",
+    passage: null
+  },
+  {
+    id: 212,
+    question: "Cho các cân bằng hóa học sau: (a) H₂(g) + I₂(g) ↔ 2HI(g); (b) 2NO₂(g) ↔ N₂O₄(g); (c) N₂(g) + 3H₂(g) ↔ 2NH₃(g); (d) 2SO₂(g) + O₂(g) ↔ 2SO₃(g). Ở nhiệt độ không đổi, khi thay đổi áp suất chung của mỗi hệ cân bằng, cân bằng hóa học nào không bị chuyển dịch?",
+    options: ["(d).", "(b).", "(a).", "(c)."],
+    correct: 2,
+    explanation: "Cân bằng (a) có tổng hệ số trước và sau phản ứng bằng nhau nên không chịu ảnh hưởng bởi áp suất.",
+    passage: null
+  },
+  {
+    id: 213,
+    question: "Cho 29,55 (g) muối barium carbonate vào bình chứa dung dịch HNO₃ loãng dư, các phản ứng xảy ra hoàn toàn, thể tích khí thu được (ở 0°C) sau phản ứng là",
+    options: ["3,72 lít.", "4,96 lít.", "2,48 lít.", "2,98 lít."],
+    correct: 0,
+    explanation: "n_CO₂ = 29,55/197 = 0,15 mol → V = 0,15 • 24,79 ≈ 3,72 lít.",
+    passage: null
+  },
+  {
+    id: 214,
+    question: "Cho dãy các chất: tinh bột, cellulose, glucose, saccharose. Số chất trong dãy thuộc loại disaccharide là bao nhiêu?",
+    options: [],
+    correct: 1,
+    explanation: "Chỉ saccharose là disaccharide.",
+    passage: null
+  },
+  {
+    id: 215,
+    question: "Phương pháp iot dùng để xác định lượng Cu có bản chất sử dụng phản ứng",
+    options: [
+      "2Cu²⁺ + 4I⁻ → 2CuI + I₂.",
+      "Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂ + 2H₂O.",
+      "Na₂CO₃ + 2HNO₃ → 2NaNO₃ + H₂O + CO₂.",
+      "CuCO₃ + 2CH₃COOH → Cu(CH₃COO)₂ + H₂O + CO₂."
+    ],
+    correct: 0,
+    explanation: "Bản chất là phản ứng 2Cu²⁺ + 4I⁻ → 2CuI + I₂.",
+    passage: "phuong_phap_iot_cu"
+  },
+  {
+    id: 216,
+    question: "Phát biểu nào sau đây là đúng?",
+    options: [
+      "Nếu thay dung dịch HNO₃ đặc, nóng ở thí nghiệm trên bằng dung dịch HNO₃ loãng thì kết quả phân tích bị thay đổi.",
+      "Nên thay thế dung dịch CH₃COOH trong thí nghiệm trên bằng dung dịch HCl.",
+      "Phải trung hòa axit trước khi tiến hành chuẩn độ vì nếu chuẩn độ trong môi trường axit mạnh sẽ xảy ra phản ứng khử I⁻ bởi O₂ trong không khí và H⁺ làm sai lệch kết quả chuẩn độ.",
+      "Nên thay dung dịch KI dư bằng dung dịch KI dư / KOH để kết quả chuẩn độ được chính xác hơn."
+    ],
+    correct: 2,
+    explanation: "Phải trung hòa axit trước vì trong môi trường axit mạnh xảy ra 4I⁻ + O₂ + 4H⁺ → 2I₂ + 2H₂O làm sai lệch kết quả.",
+    passage: "phuong_phap_iot_cu"
+  },
+  {
+    id: 217,
+    question: "Thành phần % theo khối lượng của Cu có trong đồng thau là",
+    options: ["74,15%.", "81,16%.", "51,18%.", "68,11%."],
+    correct: 3,
+    explanation: "x = 0,0298 mol (trong 25 ml) → %m_Cu = (64 • 0,0298 / 2,8) • 100% = 68,11%.",
+    passage: "phuong_phap_iot_cu"
+  },
+
+  {
+    id: 301,
+    question: "Ví dụ nào sau đây không phải đặc điểm thích nghi ở sinh vật?",
+    options: [
+      "Thằn lằn có màu sắc giống thân cây.",
+      "Rắn vua (không độc) có màu sắc rất giống với rắn san hô (rất độc).",
+      "Lợn bị bạch tạng có màu sắc của cả cơ thể là màu trắng.",
+      "Hoa lan có cánh hoa thích nghi với thụ phấn nhờ côn trùng."
+    ],
+    correct: 2,
+    explanation: "Đây là đột biến ở lợn, không phải đặc điểm thích nghi.",
+    passage: null
+  },
+  {
+    id: 302,
+    question: "Các chất mà vi sinh vật có thể tiết ra trong quá trình sinh trưởng có tác dụng ức chế sự phát triển hoặc tiêu diệt vi khuẩn được gọi là",
+    options: ["chất kháng thể.", "chất miễn dịch.", "chất kháng sinh.", "chất vi sinh."],
+    correct: 2,
+    explanation: "Chất kháng sinh do vi sinh vật tiết ra có tác dụng ức chế hoặc tiêu diệt vi khuẩn.",
+    passage: null
+  },
+  {
+    id: 303,
+    question: "Khi sản phẩm chuyển hoá được tạo ra đủ với nhu cầu của tế bào, cơ chế nào sau đây được diễn ra để điều hoà quá trình chuyển hoá vật chất?",
+    options: [
+      "Các enzyme sẽ phát tín hiệu ngừng xúc tác.",
+      "Sản phẩm cuối chuỗi chuyển hoá quay lại ức chế enzyme xúc tác đầu chuỗi.",
+      "Tế bào tiêu huỷ enzyme để ngừng quá trình tổng hợp sản phẩm.",
+      "Các sản phẩm tạo ra đồng loạt rời khỏi để ngừng lại quá trình chuyển hoá."
+    ],
+    correct: 1,
+    explanation: "Cơ chế ức chế ngược: sản phẩm cuối chuỗi quay lại ức chế enzyme đầu chuỗi.",
+    passage: null
+  },
+  {
+    id: 304,
+    question: "Trong tự nhiên, tỉ lệ đực : cái thường xấp xỉ",
+    options: ["2:1.", "1:2.", "1:1.", "1:4."],
+    correct: 2,
+    explanation: "Trong tự nhiên, tỉ lệ đực : cái thường xấp xỉ 1:1.",
+    passage: null
+  },
+  {
+    id: 305,
+    question: "Cùng là đường đối, nhưng đường maltose khác sucrose ở điểm nào dựa vào hình ảnh minh họa dưới đây:",
+    options: [
+      "Maltose được cấu tạo từ 1 phân tử glucose và 1 phân tử fructose, sucrose được cấu tạo từ 2 phân tử glucose.",
+      "Maltose được cấu tạo từ 2 phân tử glucose, sucrose được cấu tạo từ 1 phân tử glucose và 1 phân tử fructose.",
+      "Maltose được cấu tạo từ 1 phân tử galactose và 1 phân tử glucose, sucrose được cấu tạo từ 1 phân tử glucose và 1 phân tử fructose.",
+      "Maltose được cấu tạo từ 2 phân tử glucose, sucrose được cấu tạo từ 1 phân tử galactose và 1 phân tử glucose."
+    ],
+    correct: 1,
+    explanation: "Maltose = 2 glucose; sucrose = glucose + fructose.",
+    passage: null
+  },
+  {
+    id: 306,
+    question: "Tại sao có những chất có kích thước lớn nhưng vẫn có thể khuếch tán trực tiếp qua màng sinh chất?",
+    options: [
+      "Vì chúng có bản chất là protein.",
+      "Vì chúng có bản chất là lipid.",
+      "Vì chúng có bản chất là nucleic acid.",
+      "Vì chúng có bản chất là carbohydrate."
+    ],
+    correct: 1,
+    explanation: "Các chất không cực, bản chất lipid có thể khuếch tán qua màng phospholipid.",
+    passage: null
+  },
+  {
+    id: 307,
+    question: "Ở ruồi giấm, gene A quy định tính trạng mắt đỏ bị đột biến thành gene a quy định mắt trắng. Khi hai gene nói trên tự tái bản 4 lần thì số nucleotide trong gene mắt đỏ ít hơn trong các gene mắt trắng 30 nucleotide tự do. Biết gene mắt trắng tăng thêm 3 liên kết hydrogen so với gene mắt đỏ. Xác định kiểu đột biến.",
+    options: [
+      "Thêm một cặp G – C.",
+      "Thêm một cặp A – T.",
+      "Thay thế một cặp A – T bằng một cặp G – C.",
+      "Thay thế một cặp G – C bằng một cặp A – T."
+    ],
+    correct: 0,
+    explanation: "Thêm 2 nucleotide (1 cặp) và tăng 3 liên kết H → thêm cặp G–C.",
+    passage: null
+  },
+  {
+    id: 308,
+    question: "Tại sao cần khử trùng mẫu trước khi tiến hành nuôi cấy?",
+    options: [
+      "Để loại bỏ hết các mầm bệnh hay vi sinh vật kí sinh và côn trùng.",
+      "Để vô hiệu hoá hoạt động của các enzyme.",
+      "Loại bỏ diệp lục.",
+      "Cả 3 đáp án trên."
+    ],
+    correct: 0,
+    explanation: "Khử trùng để loại bỏ virus, vi khuẩn, nấm, côn trùng có thể làm hỏng mẫu nuôi cấy.",
+    passage: null
+  },
+  {
+    id: 309,
+    question: "Muối dưa có bản chất là quá trình nào sau đây xảy ra?",
+    options: ["Phân giải cellulose.", "Lên men lactic.", "Lên men ethanol.", "Phân giải protein."],
+    correct: 1,
+    explanation: "Muối dưa là quá trình lên men lactic bởi Lactobacillus.",
+    passage: null
+  },
+  {
+    id: 310,
+    question: "Để xác định phụ nữ có thai hay không, người ta dùng que thử thai để xác định sự có mặt của loại hormone nào sau đây?",
+    options: ["Hormone LH.", "Hormone progesterone.", "Hormone HCG.", "Hormone estrogen."],
+    correct: 2,
+    explanation: "Que thử thai phát hiện hormone HCG trong nước tiểu.",
+    passage: null
+  },
+  {
+    id: 311,
+    question: "Cho các phát biểu sau đây về mục tiêu của Sinh học: (1) Hình thành thế giới quan khoa học. (2) Rèn luyện đức tính yêu lao động, yêu thiên nhiên. (3) Phát triển năng lực và nhận thức Sinh học giúp tìm hiểu và vận dụng Sinh học vào thực tiễn. (4) Giúp tìm ra phương pháp khai thác triệt để các nguồn tài nguyên thiên nhiên trên Trái Đất. Có bao nhiêu phát biểu đúng?",
+    options: ["1.", "2.", "3.", "4."],
+    correct: 2,
+    explanation: "(1), (2), (3) đúng; (4) sai.",
+    passage: null
+  },
+  {
+    id: 312,
+    question: "Ở đậu Hà Lan, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp. Allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng. Hai cặp gene này nằm trên 2 cặp nhiễm sắc thể tương đồng. Cho đậu thân cao, hoa đỏ dị hợp về 2 cặp gene tự thụ phấn thu được F₁. Biết không xảy ra đột biến. Chọn ngẫu nhiên một cây thân cao, hoa đỏ ở thế hệ F₁ cho tự thụ phấn. Xác suất thu được cây thân cao hoa đỏ ở thế hệ F₂ là bao nhiêu?",
+    options: ["27/64.", "25/36.", "3/64.", "13/36."],
+    correct: 1,
+    explanation: "Tỉ lệ A-B- ở F₁: 4AaBb : 2AABb : 2AaBB : 1AABB → xác suất F₂ = 25/36.",
+    passage: null
+  },
+  {
+    id: 313,
+    question: "Cho các thí nghiệm sau: (1) Tách sắc tố thực vật bằng isopropyl. (2) Biểu hiện và tinh sạch protein gai của SARS-CoV-2. (3) Nuôi cấy vi khuẩn E. coli để biểu hiện gen botB của vi khuẩn Clostridium botulinum. (4) Phân lập vi khuẩn oxy hoá lưu huỳnh sử dụng trong việc xử lí nước thải sinh hoạt. Có bao nhiêu thí nghiệm sử dụng phương pháp tách chiết?",
+    options: ["1.", "2.", "3.", "4."],
+    correct: 1,
+    explanation: "Thí nghiệm (1) và (2) sử dụng phương pháp tách chiết.",
+    passage: null
+  },
+  {
+    id: 314,
+    question: "Cho các yếu tố dưới đây: (1) Enzyme tạo mồi. (2) DNA ligase. (3) DNA polymerase. (4) DNA khuôn. (5) Ribonucleotide. (6) Nucleotide. Có bao nhiêu yếu tố tham gia vào quá trình nhân đôi của gene ở sinh vật nhân sơ?",
+    options: [],
+    correct: 4,
+    explanation: "DNA ligase, DNA polymerase, DNA khuôn, nucleotide (4 yếu tố).",
+    passage: null
+  },
+  {
+    id: 315,
+    question: "Thực vật sử dụng nitrogen dưới dạng",
+    options: ["N₂.", "NH₄⁺ và NO₃⁻.", "N₂, NH₄⁺, NO₃⁻.", "NO, NO₂, N₂."],
+    correct: 1,
+    explanation: "Thực vật sử dụng ammonium (NH₄⁺) và nitrate (NO₃⁻).",
+    passage: "chu_trinh_nitrogen"
+  },
+  {
+    id: 316,
+    question: "Cây không sử dụng được nitơ phân tử N₂ trong không khí vì",
+    options: [
+      "Lượng N₂ trong không khí quá thấp.",
+      "Lượng N₂ tự do bay lơ lửng trong không khí không hòa vào đất nên cây không hấp thụ được.",
+      "Phân tử N₂ có liên kết ba bền vững cần phải đủ điều kiện mới bẻ gãy được.",
+      "Do lượng N₂ có sẵn trong đất từ các nguồn khác quá lớn."
+    ],
+    correct: 2,
+    explanation: "Phân tử N₂ có liên kết ba bền vững nên thực vật không thể sử dụng trực tiếp.",
+    passage: "chu_trinh_nitrogen"
+  },
+  {
+    id: 317,
+    question: "Khi nói về chu trình nitơ, có bao nhiêu phát biểu đúng? (1) Vi khuẩn nitrat hóa chuyển hóa NH₄⁺ thành NO₂⁻. (2) Để hạn chế sự thất thoát nitrogen trong đất cần có biện pháp làm đất tơi xốp. (3) Lượng nitrogen trong đất được tổng hợp nhiều nhất bằng con đường bon phân hóa học. (4) Vi khuẩn nốt sẵn rễ cây họ đậu chuyển hóa N₂ thành NH₃ cung cấp cho cây. (5) Nguồn dự trữ nitrogen chủ yếu trong khí quyển, một phần trầm tích trong đất, ao, hồ, sông...",
+    options: ["2.", "3.", "5.", "4."],
+    correct: 0,
+    explanation: "(2) và (5) đúng. (1), (3), (4) sai.",
+    passage: "chu_trinh_nitrogen"
+  },
+
+  {
+    id: 401,
+    question: "Sau năm 1991, quốc gia nào sau đây không đi theo con đường xã hội chủ nghĩa?",
+    options: ["Nga.", "Lào.", "Trung Quốc.", "Việt Nam."],
+    correct: 0,
+    explanation: "Sau 1991, CNXH chỉ còn ở Trung Quốc, Việt Nam, Lào, Cu-ba. Nga không còn.",
+    passage: null
+  },
+  {
+    id: 402,
+    question: "Nội dung nào sau đây là hoạt động đối ngoại của Nguyễn Ái Quốc trong giai đoạn 1918-1920?",
+    options: [
+      "Tham gia sáng lập và lãnh đạo Đảng Vô sản Pháp.",
+      "Gia nhập Đảng Cộng sản Pháp, bỏ phiếu tán thành gia nhập Quốc tế thứ ba.",
+      "Gia nhập Đảng Xã hội Pháp, tham gia sáng lập Đảng Cộng sản Pháp.",
+      "Gia nhập Quốc tế thứ nhất, sáng lập Đảng Cộng sản Pháp."
+    ],
+    correct: 2,
+    explanation: "Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp và tham gia sáng lập Đảng Cộng sản Pháp.",
+    passage: null
+  },
+  {
+    id: 403,
+    question: "Năm 1951 đã diễn ra hội nghị nào sau đây?",
+    options: [
+      "Hội nghị thành lập Liên minh nhân dân Việt – Miên - Lào.",
+      "Hội nghị Gio-ne-vơ về Đông Dương.",
+      "Hội nghị thành lập Hội Liên hiệp Việt – Miên – Lào.",
+      "Hội nghị thành lập Liên minh chiến đấu Việt – Lào."
+    ],
+    correct: 0,
+    explanation: "Năm 1951 tổ chức hội nghị thành lập Liên minh nhân dân Việt – Miên - Lào.",
+    passage: null
+  },
+  {
+    id: 404,
+    question: "Một trong những biểu hiện của bài học về phát huy tinh thần yêu nước của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay là",
+    options: [
+      "chủ trương thành lập các mặt trận, tập hợp sự tham gia của các tầng lớp trong xã hội.",
+      "tinh thần sẵn sàng chiến đấu, hi sinh vì sự nghiệp bảo vệ độc lập, chủ quyền quốc gia.",
+      "vai trò lãnh đạo của Đảng Cộng sản Việt Nam với đường lối đúng đắn, sáng tạo,",
+      "phát huy sức mạnh nội lực của toàn dân và tranh thủ sự ủng hộ của thế giới."
+    ],
+    correct: 1,
+    explanation: "Tinh thần yêu nước thể hiện qua sẵn sàng chiến đấu, hi sinh vì độc lập, chủ quyền.",
+    passage: null
+  },
+  {
+    id: 405,
+    question: "Trong lĩnh vực quân đội, quốc phòng, Hồ Quý Ly tiến hành cải cách nào sau đây?",
+    options: [
+      "Tổng động viên tất cả dân đinh vào quân đội.",
+      "Cải tiến vũ khí, xây dựng thành lũy kiên cố.",
+      "Chỉ tăng cường phòng thủ cho kinh đô và Tây Đô.",
+      "Ban hành quy chế và hình luật mới của quốc gia."
+    ],
+    correct: 1,
+    explanation: "Hồ Quý Ly cải tiến vũ khí, tăng cường trang bị quốc phòng, xây dựng hệ thống phòng thủ.",
+    passage: null
+  },
+  {
+    id: 406,
+    question: "Cộng đồng ASEAN được xây dựng với ba trụ cột, trong đó KHÔNG bao gồm",
+    options: [
+      "Cộng đồng Chính trị - An ninh ASEAN.",
+      "Cộng đồng Kinh tế ASEAN.",
+      "Cộng đồng Văn hóa – Xã hội ASEAN.",
+      "Cộng đồng Quân sự - Luật pháp ASEAN."
+    ],
+    correct: 3,
+    explanation: "Ba trụ cột: APSC, AEC, ASCC. Không có Cộng đồng Quân sự - Luật pháp.",
+    passage: null
+  },
+  {
+    id: 407,
+    question: "Tính đến đầu thế kỉ XX, đế quốc nào có nhiều thuộc địa nhất?",
+    options: ["Nga.", "Pháp.", "Đức.", "Anh."],
+    correct: 3,
+    explanation: "Anh có diện tích thuộc địa lớn nhất (33,5 triệu km² năm 1914).",
+    passage: null
+  },
+  {
+    id: 408,
+    question: "Hoạt động đối ngoại của Đảng Cộng sản Đông Dương trong giai đoạn 1930-1940 là",
+    options: [
+      "duy trì liên lạc với Quốc tế Cộng sản, các đảng cộng sản và phong trào vô sản ở các nước.",
+      "duy trì liên lạc với Quốc tế Vô sản, các đảng xã hội và phong trào vô sản ở các nước.",
+      "thể hiện sự ủng hộ Liên Xô, các nước xã hội chủ nghĩa và các nước thuộc phe Đồng minh.",
+      "thể hiện sự ủng hộ các nước thuộc phe Đồng minh và các nước xã hội chủ nghĩa."
+    ],
+    correct: 0,
+    explanation: "Duy trì liên lạc với Quốc tế Cộng sản, các đảng cộng sản và phong trào vô sản.",
+    passage: null
+  },
+  {
+    id: 409,
+    question: "Thế kỉ XVI – XVII, tầng lớp quý tộc mới trong xã hội Anh có đặc điểm nào sau đây?",
+    options: [
+      "Là những đại quý tộc.",
+      "Có thế lực về kinh tế.",
+      "Quyền lực chính trị lớn.",
+      "Ủng hộ tuyệt đối với vua."
+    ],
+    correct: 1,
+    explanation: "Quý tộc mới có thế lực về kinh tế, chuyển sang kinh doanh tư bản chủ nghĩa.",
+    passage: null
+  },
+  {
+    id: 410,
+    question: "Về mặt hành chính, Lê Thánh Tông tiến hành cải cách theo hướng",
+    options: [
+      "tập trung quyền lực vào tay nhà vua.",
+      "phân chia quyền lực cho các đại thần.",
+      "vua tôi hòa mục, bình đẳng lẫn nhau.",
+      "nhân dân làm chủ, vua là người quản lí."
+    ],
+    correct: 0,
+    explanation: "Lê Thánh Tông tập trung quyền lực vào tay nhà vua, hoàn thiện hệ thống cơ quan.",
+    passage: null
+  },
+  {
+    id: 411,
+    question: "Nội dung nào sau đây phản ánh đặc điểm của tổ chức ASEAN từ năm 1976 đến năm 1999?",
+    options: [
+      "Xây dựng và phát triển Cộng đồng ASEAN.",
+      "Chuẩn bị cho sự ra đời của Cộng đồng ASEAN.",
+      "Thiết lập quan hệ chính trị ổn định trong khu vực.",
+      "Sự hình thành và bước đầu phát triển của ASEAN."
+    ],
+    correct: 2,
+    explanation: "Từ 1976 sau Hội nghị Bali, ASEAN thiết lập quan hệ chính trị ổn định và kết nạp thêm thành viên.",
+    passage: null
+  },
+  {
+    id: 412,
+    question: "Quan điểm của Đảng Cộng sản Việt Nam về công cuộc Đổi mới là tiến hành toàn diện, trong đó trọng tâm là",
+    options: ["chính trị.", "tổ chức.", "xã hội.", "kinh tế."],
+    correct: 3,
+    explanation: "Phải tập trung làm tốt đổi mới kinh tế.",
+    passage: "doi_moi_kinh_te_chinh_tri"
+  },
+  {
+    id: 413,
+    question: "Đổi mới kinh tế được coi là điều kiện quan trọng và phải",
+    options: [
+      "tiến hành đồng thời với đổi mới chính trị.",
+      "được hoàn thành trước đổi mới về chính trị.",
+      "tiến hành thuận lợi rồi mới đổi mới chính trị.",
+      "là yếu tố quyết định thành công đổi mới chính trị."
+    ],
+    correct: 0,
+    explanation: "Đổi mới kinh tế đồng thời từng bước đổi mới tổ chức và phương thức hoạt động của hệ thống chính trị.",
+    passage: "doi_moi_kinh_te_chinh_tri"
+  },
+  {
+    id: 414,
+    question: "Nội dung nào sau đây phản ánh đúng về đổi mới chính trị của Đảng Cộng sản Việt Nam?",
+    options: [
+      "Đã hoàn thành thắng lợi công cuộc đổi mới cả về chính trị, kinh tế, văn hóa, xã hội.",
+      "Có những bước đi phù hợp trong thực tiễn, thận trọng nhưng không bảo thủ, trì trệ.",
+      "Tiến hành sau đổi mới kinh tế, trên cơ sở vật chất – kĩ thuật xã hội chủ nghĩa hiện đại.",
+      "Tạo điều kiện chính trị thuận lợi, ổn định để tiến hành đổi mới trên các lĩnh vực khác."
+    ],
+    correct: 1,
+    explanation: "Đảng có những bước đi phù hợp, thận trọng nhưng không bảo thủ, trì trệ.",
+    passage: "doi_moi_kinh_te_chinh_tri"
+  },
+  {
+    id: 415,
+    question: "Hai quốc gia nào tiêu biểu cho phương thức quan hệ quốc tế lấy đối đầu chính trị - quân sự là chủ yếu trong nửa sau thế kỉ XX?",
+    options: ["Liên Xô và Đức.", "Liên Xô và Mĩ.", "Đức và Nhật Bản.", "Nhật Bản và Mĩ."],
+    correct: 1,
+    explanation: "Hai nước Xô – Mỹ tiêu biểu cho đối đầu chính trị - quân sự.",
+    passage: "bai_hoc_chien_tranh_lanh"
+  },
+  {
+    id: 416,
+    question: "Trong nửa sau thế kỉ XX, nhóm nước lấy hợp tác và cạnh tranh về kinh tế – chính trị là chính KHÔNG bao gồm",
+    options: ["Liên Xô.", "Đức.", "Nhật Bản.", "NICs."],
+    correct: 0,
+    explanation: "Đức, Nhật và NICs theo phương thức hợp tác – cạnh tranh kinh tế – chính trị. Liên Xô không.",
+    passage: "bai_hoc_chien_tranh_lanh"
+  },
+  {
+    id: 417,
+    question: "Từ phương thức quan hệ quốc tế của các cường quốc trong thời kì Chiến tranh lạnh, bài học kinh nghiệm nào rút ra cho quá trình xây dựng và phát triển đất nước trong thời kì mới ở Việt Nam?",
+    options: [
+      "Mở rộng quan hệ ngoại giao, tích cực hợp tác, cạnh tranh chính trị, quân sự.",
+      "Tập trung nâng cao tiềm lực kinh tế, trao đổi thành tựu khoa học – kĩ thuật.",
+      "Củng cố chính trị, tập trung phát triển về kinh tế, xây dựng tiềm lực quân sự.",
+      "Nâng cao vị thế chính trị quốc gia, tăng cường khả năng hợp tác, cạnh tranh."
+    ],
+    correct: 1,
+    explanation: "Sự hưng thịnh quyết định bởi thực lực kinh tế và khoa học – kĩ thuật.",
+    passage: "bai_hoc_chien_tranh_lanh"
+  },
+
+  {
+    id: 501,
+    question: "Một trong những mục tiêu của khu vực hóa kinh tế là",
+    options: [
+      "khắc phục triệt để ảnh hưởng tiêu cực của toàn cầu hóa.",
+      "xóa bỏ cách biệt giữa các quốc gia trong cùng tổ chức.",
+      "cùng nhau giải quyết những bất ổn chính trị trong khu vực.",
+      "nâng cao vị thế của khu vực trong mối quan hệ quốc tế."
+    ],
+    correct: 3,
+    explanation: "Khu vực hóa nhằm nâng cao vị thế của khu vực trong quan hệ quốc tế.",
+    passage: null
+  },
+  {
+    id: 502,
+    question: "Ngành công nghiệp điện lực là một trong hai ngành cơ sở hạ tầng cần ưu tiên nào trong phát triển kinh tế?",
+    options: ["Thứ yếu.", "Đi trước một bước.", "Thiết yếu.", "Cần thiết."],
+    correct: 1,
+    explanation: "Điện là nhân tố quan trọng nhất, cần đi trước một bước trong phát triển KT-XH.",
+    passage: null
+  },
+  {
+    id: 503,
+    question: "Vùng biển của khu vực Đông Nam Á thuộc hai đại dương nào?",
+    options: [
+      "Ấn Độ Dương và Đại Tây Dương.",
+      "Đại Tây Dương và Thái Bình Dương.",
+      "Ấn Độ Dương và Thái Bình Dương.",
+      "Thái Bình Dương và Bắc Băng Dương."
+    ],
+    correct: 2,
+    explanation: "Đông Nam Á có vùng biển thuộc Ấn Độ Dương và Thái Bình Dương.",
+    passage: null
+  },
+  {
+    id: 504,
+    question: "Địa hình miền Tây Trung Quốc có đặc điểm nào dưới đây?",
+    options: [
+      "Là vùng tương đối thấp với các bồn địa rộng và cao nguyên trải dài.",
+      "Gồm toàn bộ các dãy núi cao và đồ sộ chạy dọc biên giới phía Tây.",
+      "Địa hình hiểm trở với những dãy núi, sơn nguyên và các bồn địa lớn.",
+      "Là các đồng bằng châu thổ rộng lớn, đất đai màu mỡ, nhiều núi thấp."
+    ],
+    correct: 1,
+    explanation: "Miền Tây Trung Quốc gồm các dãy núi cao đồ sộ chạy dọc biên giới phía Tây (Hi-ma-lay-a, Côn Luân...).",
+    passage: null
+  },
+  {
+    id: 505,
+    question: "Phát biểu nào sau đây không đúng với Vùng kinh tế trọng điểm phía Bắc?",
+    options: [
+      "Các ngành công nghiệp phát triển rất sớm, nhiều ngành có ý nghĩa toàn quốc.",
+      "Hai quốc lộ huyết mạch số 5 và 18 gắn kết vùng với cụm cảng Hải Phòng - Cái Lân.",
+      "Nguồn lao động có số lượng lớn, chất lượng vào loại hàng đầu của cả nước.",
+      "Thế mạnh hàng đầu về khai thác tổng hợp tài nguyên biển, khoáng sản, rừng."
+    ],
+    correct: 3,
+    explanation: "Thế mạnh hàng đầu về khai thác tổng hợp tài nguyên biển, khoáng sản, rừng không đúng với VKTĐ phía Bắc.",
+    passage: null
+  },
+  {
+    id: 506,
+    question: "Đồng bằng sông Hồng có năng suất lúa cao hơn Đồng bằng sông Cửu Long chủ yếu là do",
+    options: [
+      "áp dụng nhiều biện pháp khoa học kĩ thuật.",
+      "trình độ thâm canh cao hơn.",
+      "sử dụng nhiều giống cao sản.",
+      "người dân có kinh nghiệm trong sản xuất."
+    ],
+    correct: 1,
+    explanation: "Đồng bằng sông Hồng có trình độ thâm canh và hệ số sử dụng đất cao hơn.",
+    passage: null
+  },
+  {
+    id: 507,
+    question: "Biểu hiện nào sau đây không chứng tỏ Liên bang Nga là một đất nước rộng lớn?",
+    options: [
+      "Diện tích lớn nhất thế giới, nằm trên hai châu lục.",
+      "Đất nước trải dài từ đông sang tây trên 11 múi giờ.",
+      "Lãnh thổ từ bắc xuống nam kéo dài nhiều đại khí hậu.",
+      "Đường biên giới dài xấp xỉ đường Xích đạo."
+    ],
+    correct: 2,
+    explanation: "Phần lớn lãnh thổ thuộc đại ôn đới, không kéo dài nhiều đại khí hậu từ bắc xuống nam.",
+    passage: null
+  },
+  {
+    id: 508,
+    question: "Hoạt động chăn nuôi gia súc của Cộng hòa Nam Phi tập trung chủ yếu ở",
+    options: ["ven biển.", "nội địa.", "phía nam.", "phía bắc."],
+    correct: 1,
+    explanation: "Chăn nuôi gia súc phân bố ở các vùng khô hạn trong nội địa.",
+    passage: null
+  },
+  {
+    id: 509,
+    question: "Sự đa dạng loại hình du lịch ở nước ta hiện nay do tác động chủ yếu của các nhân tố nào sau đây?",
+    options: [
+      "Chính sách đổi mới, nguồn lực làm du lịch.",
+      "Nguồn vốn đầu tư, mức sống của người dân.",
+      "Tài nguyên du lịch, nhu cầu của du khách.",
+      "Hạ tầng phục vụ du lịch, điều kiện tự nhiên."
+    ],
+    correct: 2,
+    explanation: "Chủ yếu do tài nguyên du lịch phong phú và nhu cầu đa dạng của du khách.",
+    passage: null
+  },
+  {
+    id: 510,
+    question: "Dầu mỏ và khí tự nhiên của Hoa Kì phân bố nhiều ở khu vực nào?",
+    options: [
+      "Đồng bằng Lớn.",
+      "Ven vịnh Mê-hi-cô.",
+      "Phía nam Ngũ Hồ.",
+      "Quần đảo Ha-oai."
+    ],
+    correct: 1,
+    explanation: "Dầu mỏ và khí tự nhiên phân bố nhiều ở ven vịnh Mê-hi-cô.",
+    passage: null
+  },
+  {
+    id: 511,
+    question: "Phát biểu nào sau đây không đúng với dân cư và xã hội của Trung Quốc?",
+    options: [
+      "Đất nước có dân số đông nhất thế giới.",
+      "Các thành phố lớn tập trung ở miền Tây.",
+      "Tiến hành chính sách dân số triệt để.",
+      "Chú ý đầu tư cho phát triển giáo dục."
+    ],
+    correct: 1,
+    explanation: "Miền Tây khí hậu khắc nghiệt, dân cư thưa thớt, các thành phố lớn không tập trung ở đây.",
+    passage: null
+  },
+  {
+    id: 512,
+    question: "Cơ sở nhiên liệu của nhà máy điện Bà Rịa, Phú Mỹ và Cà Mau là",
+    options: ["khí tự nhiên.", "than bùn.", "dầu.", "than đá."],
+    correct: 0,
+    explanation: "Các nhà máy sử dụng khí thiên nhiên từ Nam Côn Sơn và mỏ Bạch Hổ.",
+    passage: null
+  },
+  {
+    id: 513,
+    question: "Vùng có số lượng đàn bò thịt phát triển nhất ở nước ta là",
+    options: [
+      "Bắc Trung Bộ.",
+      "Đồng bằng sông Cửu Long.",
+      "Đồng bằng sông Hồng.",
+      "Đông Nam Bộ."
+    ],
+    correct: 0,
+    explanation: "Bò được nuôi nhiều ở Bắc Trung Bộ và Duyên hải miền Trung.",
+    passage: null
+  },
+  {
+    id: 514,
+    question: "Chăn nuôi lợn tập trung nhiều ở các đồng bằng lớn của nước ta chủ yếu là do",
+    options: [
+      "thị trường tiêu thụ lớn, lao động có kinh nghiệm.",
+      "lao động có kinh nghiệm, dịch vụ thú y đảm bảo.",
+      "dịch vụ thú y đảm bảo, nguồn thức ăn phong phú.",
+      "nguồn thức ăn phong phú, thị trường tiêu thụ lớn."
+    ],
+    correct: 3,
+    explanation: "Đồng bằng là vùng trọng điểm lương thực (thức ăn) và tập trung đông dân (thị trường).",
+    passage: null
+  },
+  {
+    id: 515,
+    question: "Ở vùng Đồng bằng sông Cửu Long chủ yếu có các loại đất nào sau đây?",
+    options: [
+      "Đất phèn, đất xám.",
+      "Đất phù sa sông, đất khác.",
+      "Đất mặn, đất phèn.",
+      "Đất mặn, đất khác."
+    ],
+    correct: 2,
+    explanation: "Các loại đất chủ yếu là đất mặn, đất phèn và đất phù sa ngọt.",
+    passage: "dat_dong_bang_song_cuu_long"
+  },
+  {
+    id: 516,
+    question: "Đặc điểm nào sau đây của đất ở vùng Đồng bằng sông Cửu Long thuận lợi để phát triển vùng chuyên canh cây lương thực?",
+    options: [
+      "Đất phèn giữ nước tốt với độ pH trung tính.",
+      "Đất phù sa có độ phì cao, phân bố tập trung.",
+      "Nhiều loại đất đa dạng, màu sắc khác nhau.",
+      "Đất phèn dọc ven biển, đất xám khá màu mỡ."
+    ],
+    correct: 1,
+    explanation: "Đất phù sa có độ phì cao, phân bố tập trung, thuận lợi cho chuyên canh lúa.",
+    passage: "dat_dong_bang_song_cuu_long"
+  },
+  {
+    id: 517,
+    question: "Vào mùa khô, ở Đồng bằng sông Cửu Long bị xâm nhập mặn nặng do nguyên nhân chủ yếu nào sau đây?",
+    options: [
+      "Ba mặt giáp biển, địa hình thấp và sông ngòi, kênh rạch chằng chịt.",
+      "Có nhiều vùng trũng lớn, địa hình đa dạng và đường bờ biển kéo dài.",
+      "Hệ thống sông ngòi dày đặc, nhiều cửa sông và thực vật phong phú.",
+      "Vị trí tiếp giáp với biển, đường bờ biển kéo dài, nhiều đất khác nhau."
+    ],
+    correct: 0,
+    explanation: "Ba mặt giáp biển, địa hình thấp, sông ngòi kênh rạch chằng chịt khiến nước mặn dễ xâm nhập vào mùa khô.",
+    passage: "dat_dong_bang_song_cuu_long"
+  }
+];

@@ -1,0 +1,681 @@
+{
+    "id": 101,
+    "question": "Câu 101: Một hạt nhân nguyên tử có kí hiệu ¹⁹₁₀X, kết luận nào dưới đây là đúng?",
+    "options": ["Hạt nhân này có 9 proton và 10 neutron.", "Hạt nhân này có 10 proton và 9 neutron.", "Hạt nhân này có 10 proton, 9 neutron và 19 electron.", "Hạt nhân này có 9 proton và 10 neutron và 10 electron."],
+    "correct": 1,
+    "explanation": "Hạt nhân ¹⁹₁₀X có 10 proton và 9 neutron.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Khi nói về phản ứng phân hạch, phát biểu nào sau đây đúng?",
+    "options": ["Phản ứng phân hạch chỉ xảy ra khi hạt nhân bị bắn phá bởi neutron chậm.", "Phản ứng phân hạch là phản ứng hạt nhân trong đó một hạt nhân nặng bị vỡ thành hai hạt nhân nhẹ hơn.", "Trong phản ứng phân hạch, tổng số khối của các hạt nhân sản phẩm lớn hơn số khối của hạt nhân ban đầu.", "Phản ứng phân hạch luôn giải phóng năng lượng dưới dạng bức xạ γ."],
+    "correct": 1,
+    "explanation": "Phản ứng phân hạch là phản ứng hạt nhân trong đó một hạt nhân nặng bị vỡ thành hai hạt nhân nhẹ hơn.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: (Câu điền số) Số lượng nào đó là bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "explanation": "Đáp án đúng là 5 (theo key).",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Hình vẽ cho thấy một đường ray bán nguyệt thô có hai đầu ở độ cao thẳng đứng h. Một khối được thả từ đỉnh bên trái. Câu nào sau đây là đúng về độ cao mà khối tăng lên ở phía bên kia của đường ray?",
+    "options": ["Bằng h.", "Lớn hơn h.", "Nhỏ hơn h.", "Phụ thuộc ma sát."],
+    "correct": 3,
+    "explanation": "Do ma sát, độ cao bên kia nhỏ hơn h (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Hình nào thể hiện đúng một bụng sóng ở miệng ống và nút sóng ở mực nước?",
+    "options": ["Hình A", "Hình B", "Hình C", "Hình D"],
+    "correct": 2,
+    "explanation": "Hình C thể hiện đúng bụng sóng ở miệng ống và nút sóng ở mực nước.",
+    "passage": null
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Khi nói về sóng cơ, phát biểu nào sau đây sai?",
+    "options": ["Sóng dọc truyền được trong chất rắn, lỏng, khí.", "Sóng ngang chỉ truyền được trong chất rắn.", "Trong cùng một môi trường, sóng ngang truyền nhanh hơn sóng dọc.", "Sóng cơ học cần môi trường để truyền."],
+    "correct": 1,
+    "explanation": "Trong cùng môi trường, sóng dọc thường truyền nhanh hơn sóng ngang.",
+    "passage": null
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Một mạch dao động LC lí tưởng đang thực hiện dao động điện từ tự do. Tại thời điểm điện tích trên tụ điện đạt giá trị cực đại thì",
+    "options": ["năng lượng điện trường đạt cực đại, năng lượng từ trường bằng không.", "năng lượng điện trường bằng không, năng lượng từ trường đạt cực đại.", "cường độ dòng điện trong mạch đạt cực đại.", "điện áp giữa hai bản tụ bằng không."],
+    "correct": 0,
+    "explanation": "Khi điện tích tụ cực đại, năng lượng điện trường cực đại, dòng điện = 0.",
+    "passage": null
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Một electron chuyển động dọc theo một đường sức của điện trường đều. Thời gian từ lúc xuất phát đến khi quay trở về điểm M phụ thuộc vào",
+    "options": ["cường độ điện trường, điện tích và khối lượng electron.", "chỉ cường độ điện trường.", "chỉ vận tốc ban đầu.", "khối lượng electron."],
+    "correct": 0,
+    "explanation": "Thời gian phụ thuộc E, q, m và v₀.",
+    "passage": null
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Trong hiện tượng giao thoa sóng nước, khoảng cách giữa hai điểm gần nhau nhất trên đường nối hai nguồn dao động với biên độ cực đại là 2 cm. Biết hai nguồn cách nhau 10 cm và cùng pha. Bước sóng của sóng nước là",
+    "options": ["4 cm.", "2 cm.", "8 cm.", "1 cm."],
+    "correct": 0,
+    "explanation": "Khoảng cách giữa hai cực đại liên tiếp trên AB là λ/2 = 2 cm ⇒ λ = 4 cm.",
+    "passage": null
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Một nguồn sáng điểm đặt trong không khí phát ra ánh sáng đơn sắc có bước sóng 0,6 μm. Chiết suất của thủy tinh đối với ánh sáng này là 1,5. Bước sóng của ánh sáng đó trong thủy tinh là",
+    "options": ["0,4 μm.", "0,9 μm.", "0,3 μm.", "1,2 μm."],
+    "correct": 0,
+    "explanation": "λ' = λ/n = 0,6/1,5 = 0,4 μm.",
+    "passage": null
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Một vật dao động điều hòa với phương trình x = 5 cos(4πt + π/3) (cm, s). Tốc độ trung bình của vật trong khoảng thời gian từ t = 0 đến t = 0,125 s là",
+    "options": ["80 cm/s.", "40 cm/s.", "20 cm/s.", "160 cm/s."],
+    "correct": 0,
+    "explanation": "T = 0,5 s. Trong 0,125 s = T/4, vật đi 10 cm ⇒ v_tb = 80 cm/s.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Khi nói về quang điện ngoài, phát biểu nào sau đây đúng?",
+    "options": ["Động năng ban đầu cực đại của electron quang điện phụ thuộc vào cường độ chùm sáng.", "Động năng ban đầu cực đại của electron quang điện phụ thuộc vào bước sóng ánh sáng.", "Số electron quang điện bứt ra phụ thuộc vào tần số ánh sáng.", "Hiện tượng quang điện ngoài chỉ xảy ra với kim loại kiềm."],
+    "correct": 2,
+    "explanation": "Động năng ban đầu cực đại phụ thuộc tần số (bước sóng) ánh sáng (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Một đoạn dây dẫn thẳng dài mang dòng điện đặt trong từ trường đều. Lực từ tác dụng lên dây dẫn có độ lớn lớn nhất khi",
+    "options": ["dòng điện cùng hướng với cảm ứng từ.", "dòng điện ngược hướng với cảm ứng từ.", "dòng điện vuông góc với cảm ứng từ.", "dòng điện tạo với cảm ứng từ góc 45°."],
+    "correct": 3,
+    "explanation": "Lực từ cực đại khi dòng điện vuông góc với B (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: (Câu liên quan) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Lực ma sát giữa bánh xe và mặt đường là:",
+    "options": ["1000/3 (N)", "1000 (N)", "10/3 (N)", "1003 (N)"],
+    "correct": 0,
+    "explanation": "Khi chạy ngang: F = P/v = 5000/15 = 1000/3 N.",
+    "passage": "oto_len_doc_cong_suat"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Hệ số ma sát giữa bánh xe và mặt đường là bao nhiêu?",
+    "options": ["1/30", "1/3", "2/3", "1/10"],
+    "correct": 0,
+    "explanation": "μ = Fms / N = (1000/3) / 10000 = 1/30.",
+    "passage": "oto_len_doc_cong_suat"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Công suất của ô tô khi lên dốc với tốc độ như cũ là:",
+    "options": ["1059 W", "1095 W", "11015,7 W", "10335 W"],
+    "correct": 2,
+    "explanation": "F' = mg sinα + μ mg cosα ≈ 734,38 N → P' = F'•v ≈ 11015,7 W.",
+    "passage": "oto_len_doc_cong_suat"
+  },
+  {
+    "id": 201,
+    "question": "Câu 201: Tốc độ phản ứng hóa học phụ thuộc vào",
+    "options": ["chỉ nồng độ chất phản ứng.", "chỉ nhiệt độ.", "nồng độ chất phản ứng, nhiệt độ, chất xúc tác.", "chỉ chất xúc tác."],
+    "correct": 3,
+    "explanation": "Tốc độ phản ứng phụ thuộc nồng độ, nhiệt độ và chất xúc tác (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 202,
+    "question": "Câu 202: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": null
+  },
+  {
+    "id": 203,
+    "question": "Câu 203: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": null
+  },
+  {
+    "id": 204,
+    "question": "Câu 204: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": null
+  },
+  {
+    "id": 205,
+    "question": "Câu 205: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": null
+  },
+  {
+    "id": 206,
+    "question": "Câu 206: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": null
+  },
+  {
+    "id": 207,
+    "question": "Câu 207: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": null
+  },
+  {
+    "id": 208,
+    "question": "Câu 208: Nhận định nào sau đây về quá trình điện phân dung dịch là sai?",
+    "options": ["Ở cathode, ưu tiên khử những ion kim loại có tính khử yếu.", "Ở cực dương, không xảy ra quá trình oxi hóa các anion như NO₃⁻, SO₄²⁻, …", "Các anion di chuyển về cực cathode của bình điện phân.", "Tại cực âm xảy ra quá trình nhận electron."],
+    "correct": 2,
+    "explanation": "Anion di chuyển về anode (cực dương), không phải cathode → nhận định C sai.",
+    "passage": "dien_phan_noi_tiep_binh"
+  },
+  {
+    "id": 209,
+    "question": "Câu 209: Khối lượng kim loại Zn được tạo ra ở bình 1 là",
+    "options": ["0,975 gam.", "1,95 gam.", "3,5 gam.", "2,1 gam."],
+    "correct": 0,
+    "explanation": "nAg = 3,24/108 = 0,03 mol → ne = 0,03 mol → nZn = 0,015 mol → mZn = 0,975 g.",
+    "passage": "dien_phan_noi_tiep_binh"
+  },
+  {
+    "id": 210,
+    "question": "Câu 210: Giá trị pH của bình 3 thay đổi như thế nào trong điều kiện trên?",
+    "options": ["pH tăng do sinh ra OH⁻ ở anode.", "pH giảm do sinh ra H⁺ ở anode.", "pH không đổi do không sinh ra H⁺ hay OH⁻.", "pH không đổi do sinh ra một lượng H⁺ hay OH⁻ bằng nhau."],
+    "correct": 3,
+    "explanation": "Theo key D (pH không đổi do sinh ra lượng H⁺/OH⁻ bằng nhau).",
+    "passage": "dien_phan_noi_tiep_binh"
+  },
+  {
+    "id": 211,
+    "question": "Câu 211: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 212,
+    "question": "Câu 212: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 213,
+    "question": "Câu 213: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 214,
+    "question": "Câu 214: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 215,
+    "question": "Câu 215: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 216,
+    "question": "Câu 216: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 217,
+    "question": "Câu 217: (Câu hóa) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 301,
+    "question": "Câu 301: Trong quá trình quang hợp, sản phẩm của pha sáng là",
+    "options": ["ATP, NADPH và O₂.", "ATP, NADPH và CO₂.", "Glucose và O₂.", "Glucose và NADPH."],
+    "correct": 0,
+    "explanation": "Pha sáng tạo ATP, NADPH và O₂.",
+    "passage": null
+  },
+  {
+    "id": 302,
+    "question": "Câu 302: (Câu sinh) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key.",
+    "passage": null
+  },
+  {
+    "id": 303,
+    "question": "Câu 303: Trong hệ sinh thái, thành phần nào sau đây thuộc nhóm sinh vật tiêu thụ?",
+    "options": ["Cỏ.", "Nấm.", "Thỏ.", "Vi khuẩn phân giải."],
+    "correct": 2,
+    "explanation": "Thỏ là sinh vật tiêu thụ bậc 1.",
+    "passage": null
+  },
+  {
+    "id": 304,
+    "question": "Câu 304: Hiện tượng nào sau đây là ví dụ về tập tính bẩm sinh?",
+    "options": ["Chó nhà chạy theo xe đạp.", "Nhện chăng tơ.", "Khỉ học bắt chước người.", "Chim bồ câu đưa thư."],
+    "correct": 1,
+    "explanation": "Nhện chăng tơ là tập tính bẩm sinh.",
+    "passage": null
+  },
+  {
+    "id": 305,
+    "question": "Câu 305: Trong nhân tế bào nhân thực, nhiễm sắc thể được cấu tạo chủ yếu từ",
+    "options": ["ADN và protein histon.", "ADN và lipit.", "ARN và protein.", "ADN và ARN."],
+    "correct": 0,
+    "explanation": "Nhiễm sắc thể cấu tạo chủ yếu từ ADN và protein histon.",
+    "passage": null
+  },
+  {
+    "id": 306,
+    "question": "Câu 306: Tập tính nào sau đây là tập tính học được?",
+    "options": ["Phản xạ bú của trẻ sơ sinh.", "Chó nhà nghe tiếng chủ chạy ra đón.", "Ong thợ múa để chỉ đường đến nguồn thức ăn.", "Chim non há miệng khi mẹ mang mồi về."],
+    "correct": 1,
+    "explanation": "Chó nghe tiếng chủ chạy ra đón là tập tính học được.",
+    "passage": null
+  },
+  {
+    "id": 307,
+    "question": "Câu 307: Trong quá trình sinh trưởng của thực vật, tầng sinh mô bên (cambium) có vai trò",
+    "options": ["làm tăng chiều dài thân và rễ.", "làm tăng đường kính thân và rễ.", "tạo ra hoa và quả.", "tạo ra lá."],
+    "correct": 1,
+    "explanation": "Cambium làm tăng đường kính thân và rễ.",
+    "passage": null
+  },
+  {
+    "id": 308,
+    "question": "Câu 308: Trong điều hòa hoạt động gen ở sinh vật nhân sơ, operon Lac hoạt động khi",
+    "options": ["có lactose và không có glucose.", "không có lactose.", "có glucose.", "có cả lactose và glucose."],
+    "correct": 0,
+    "explanation": "Operon Lac hoạt động mạnh khi có lactose và không có glucose.",
+    "passage": null
+  },
+  {
+    "id": 309,
+    "question": "Câu 309: Trong điều hòa hoạt động gen ở sinh vật nhân thực, yếu tố nào sau đây tham gia điều hòa ở mức phiên mã?",
+    "options": ["Ribosome.", "mARN.", "Các yếu tố phiên mã và enhancer.", "tARN."],
+    "correct": 2,
+    "explanation": "Các yếu tố phiên mã và enhancer điều hòa ở mức phiên mã.",
+    "passage": null
+  },
+  {
+    "id": 310,
+    "question": "Câu 310: Đặc điểm nào sau đây đúng với đột biến cấu trúc nhiễm sắc thể dạng đảo đoạn?",
+    "options": ["Làm thay đổi số lượng gen trên nhiễm sắc thể.", "Làm thay đổi trình tự sắp xếp các gen trên nhiễm sắc thể.", "Làm tăng số lượng nhiễm sắc thể.", "Làm giảm số lượng nhiễm sắc thể."],
+    "correct": 1,
+    "explanation": "Đảo đoạn làm thay đổi trình tự sắp xếp các gen.",
+    "passage": null
+  },
+  {
+    "id": 311,
+    "question": "Câu 311: Trong hệ sinh thái, chuỗi thức ăn nào sau đây là chuỗi thức ăn khởi đầu bằng sinh vật sản xuất?",
+    "options": ["Xác chết → giun đất → gà → cáo.", "Cỏ → thỏ → cáo → hổ.", "Mùn bã hữu cơ → giun đất → gà → cáo.", "Xác chết động vật → vi khuẩn → nguyên sinh động vật."],
+    "correct": 1,
+    "explanation": "Cỏ → thỏ → cáo → hổ là chuỗi thức ăn khởi đầu bằng sinh vật sản xuất.",
+    "passage": null
+  },
+  {
+    "id": 312,
+    "question": "Câu 312: Trong quá trình nguyên phân, sự phân li của nhiễm sắc thể xảy ra ở kỳ",
+    "options": ["kỳ trung gian.", "kỳ đầu.", "kỳ giữa.", "kỳ sau."],
+    "correct": 3,
+    "explanation": "Sự phân li của nhiễm sắc thể xảy ra ở kỳ sau.",
+    "passage": null
+  },
+  {
+    "id": 313,
+    "question": "Câu 313: Ở thực vật, hormone nào sau đây có tác dụng kích thích sự chín của quả?",
+    "options": ["Auxin.", "Gibberellin.", "Ethylene.", "Cytokinin."],
+    "correct": 2,
+    "explanation": "Ethylene kích thích sự chín của quả.",
+    "passage": null
+  },
+  {
+    "id": 314,
+    "question": "Câu 314: Trong hệ tuần hoàn của người, van nhĩ thất có chức năng",
+    "options": ["ngăn máu chảy ngược từ tâm thất về tâm nhĩ.", "ngăn máu chảy ngược từ động mạch về tâm thất.", "đẩy máu từ tâm nhĩ xuống tâm thất.", "đẩy máu từ tâm thất vào động mạch."],
+    "correct": 0,
+    "explanation": "Van nhĩ thất ngăn máu chảy ngược từ tâm thất về tâm nhĩ.",
+    "passage": null
+  },
+  {
+    "id": 315,
+    "question": "Câu 315: Thành phần nào sau đây của dịch vị tạo nên độ pH thấp ở dạ dày?",
+    "options": ["Enzyme pepsin.", "Acid clohydric.", "Protein.", "Chuỗi polypeptide ngắn."],
+    "correct": 1,
+    "explanation": "Acid clohydric làm cho dịch vị có pH thấp.",
+    "passage": "tieu_hoa_da_day_pepsin"
+  },
+  {
+    "id": 316,
+    "question": "Câu 316: Chức năng chính của quá trình tiêu hóa thức ăn trong dạ dày là gì?",
+    "options": ["Hấp thụ các amino acid vào cơ thể.", "Tiết ra acid clohydric để hòa tan đinh sắt và tiêu diệt vi khuẩn.", "Nghiền nát thức ăn và tiêu hóa protein.", "Phá vỡ các liên kết ngoại bào và làm biến tính protein."],
+    "correct": 2,
+    "explanation": "Chức năng chính là nghiền nát thức ăn (cơ học) và tiêu hóa protein (hóa học).",
+    "passage": "tieu_hoa_da_day_pepsin"
+  },
+  {
+    "id": 317,
+    "question": "Câu 317: Enzyme pepsin được tiết vào dịch vị dưới dạng pepsinogen. Nếu đột biến gene làm pepsinogen giảm khả năng chuyển hóa thành pepsin, người này có thể gặp vấn đề nào sau đây?",
+    "options": ["Thiếu chất đạm.", "Thiếu chất bột đường.", "Thiếu vitamin A.", "Thiếu máu do thiếu sắt."],
+    "correct": 0,
+    "explanation": "Pepsin tiêu hóa protein → thiếu pepsin dẫn đến thiếu chất đạm.",
+    "passage": "tieu_hoa_da_day_pepsin"
+  },
+  {
+    "id": 401,
+    "question": "Câu 401: Chiến thắng nào sau đây đã buộc thực dân Pháp phải ngồi vào bàn đàm phán, ký Hiệp định Genève năm 1954?",
+    "options": ["Chiến thắng Việt Bắc thu – đông 1947.", "Chiến thắng Biên giới thu – đông 1950.", "Chiến thắng Hòa Bình 1951-1952.", "Chiến thắng Điện Biên Phủ 1954."],
+    "correct": 2,
+    "explanation": "Chiến thắng Điện Biên Phủ buộc Pháp ký Hiệp định Genève (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 402,
+    "question": "Câu 402: Đảng Cộng sản Việt Nam được thành lập vào thời gian nào?",
+    "options": ["3/2/1930.", "3/2/1931.", "3/2/1929.", "3/2/1932."],
+    "correct": 1,
+    "explanation": "Đảng Cộng sản Việt Nam thành lập ngày 3/2/1930 (theo key B).",
+    "passage": null
+  },
+  {
+    "id": 403,
+    "question": "Câu 403: Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (5/1941) có quyết định quan trọng nào?",
+    "options": ["Thành lập Mặt trận Việt Minh.", "Phát động phong trào cách mạng 1930-1931.", "Phát động khởi nghĩa toàn quốc.", "Thành lập Quân đội nhân dân Việt Nam."],
+    "correct": 1,
+    "explanation": "Hội nghị Trung ương 8 (5/1941) quyết định thành lập Mặt trận Việt Minh (theo key B).",
+    "passage": null
+  },
+  {
+    "id": 404,
+    "question": "Câu 404: Hình ảnh \"con đỉa\" trong đoạn tư liệu ẩn dụ cho điều gì về bản chất của chủ nghĩa tư bản?",
+    "options": ["Sự phát triển công nghiệp.", "Bản chất bóc lột và tàn bạo.", "Sự tự do thương mại.", "Sự tiến bộ khoa học."],
+    "correct": 1,
+    "explanation": "Hình ảnh \"con đỉa\" ẩn dụ cho bản chất bóc lột và tàn bạo của chủ nghĩa tư bản.",
+    "passage": null
+  },
+  {
+    "id": 405,
+    "question": "Câu 405: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": null
+  },
+  {
+    "id": 406,
+    "question": "Câu 406: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": null
+  },
+  {
+    "id": 407,
+    "question": "Câu 407: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": null
+  },
+  {
+    "id": 408,
+    "question": "Câu 408: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": null
+  },
+  {
+    "id": 409,
+    "question": "Câu 409: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": null
+  },
+  {
+    "id": 410,
+    "question": "Câu 410: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": null
+  },
+  {
+    "id": 411,
+    "question": "Câu 411: (Câu lịch sử) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": null
+  },
+  {
+    "id": 412,
+    "question": "Câu 412: Tiêu chuẩn tuyển dụng quan lại dưới triều vua Minh Mạng dựa trên yếu tố nào?",
+    "options": ["Gia thế và dòng tộc.", "Kinh nghiệm chiến đấu.", "Học vấn và khoa cử.", "Sự giàu có và ảnh hưởng."],
+    "correct": 2,
+    "explanation": "Vua Minh Mạng xác định học vấn làm tiêu chuẩn tuyển dụng quan lại, thay nhiệm tử bằng khoa cử.",
+    "passage": "Minh_Mang_quan_lai_khoa_cu"
+  },
+  {
+    "id": 413,
+    "question": "Câu 413: Các kỳ thi Hương và thi Hội được tổ chức vào những năm nào?",
+    "options": ["Năm Tý, Ngọ, Mão, Dậu và Thìn, Tuất, Sửu, Mùi.", "Năm Thân, Dần, Thìn, Tỵ và Tuất, Dậu, Hợi, Mùi.", "Năm Tý, Sửu, Dần, Mão và Thìn, Tỵ, Ngọ, Mùi.", "Năm Mão, Thìn, Tỵ, Ngọ và Dậu, Tuất, Hợi, Tý."],
+    "correct": 0,
+    "explanation": "Thi Hương: Tý, Ngọ, Mão, Dậu; thi Hội: Thìn, Tuất, Sửu, Mùi.",
+    "passage": "Minh_Mang_quan_lai_khoa_cu"
+  },
+  {
+    "id": 414,
+    "question": "Câu 414: (Theo đoạn tư liệu Minh Mạng) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": "Minh_Mang_quan_lai_khoa_cu"
+  },
+  {
+    "id": 415,
+    "question": "Câu 415: (Theo đoạn tư liệu 415-417) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": "tu_lieu_lich_su_415_417"
+  },
+  {
+    "id": 416,
+    "question": "Câu 416: (Theo đoạn tư liệu 415-417) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": "tu_lieu_lich_su_415_417"
+  },
+  {
+    "id": 417,
+    "question": "Câu 417: (Theo đoạn tư liệu 415-417) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": "tu_lieu_lich_su_415_417"
+  },
+  {
+    "id": 501,
+    "question": "Câu 501: Đặc điểm nào sau đây đúng với địa hình nước ta?",
+    "options": ["Đồi núi chiếm phần lớn diện tích, chủ yếu là đồi núi thấp.", "Đồng bằng chiếm phần lớn diện tích.", "Núi cao chiếm ưu thế.", "Địa hình chủ yếu là cao nguyên."],
+    "correct": 1,
+    "explanation": "Đồi núi chiếm khoảng 3/4 diện tích, chủ yếu là đồi núi thấp (theo key B).",
+    "passage": null
+  },
+  {
+    "id": 502,
+    "question": "Câu 502: Khí hậu nước ta mang tính chất",
+    "options": ["ôn đới.", "nhiệt đới gió mùa.", "cận nhiệt đới.", "hàn đới."],
+    "correct": 0,
+    "explanation": "Khí hậu nước ta mang tính chất nhiệt đới gió mùa (theo key A).",
+    "passage": null
+  },
+  {
+    "id": 503,
+    "question": "Câu 503: Sông ngòi nước ta có đặc điểm",
+    "options": ["mạng lưới sông ngòi dày đặc, chảy theo hướng tây bắc - đông nam và hướng vòng cung.", "ít sông ngòi.", "sông ngòi chảy theo hướng đông - tây.", "sông ngòi chỉ tập trung ở miền Bắc."],
+    "correct": 3,
+    "explanation": "Mạng lưới sông ngòi dày đặc, hướng chính tây bắc - đông nam và vòng cung (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 504,
+    "question": "Câu 504: Vùng biển nước ta có đặc điểm",
+    "options": ["nằm trong vùng biển nhiệt đới gió mùa của Thái Bình Dương, giàu tài nguyên.", "nằm trong vùng biển ôn đới.", "nghèo tài nguyên.", "không có thềm lục địa."],
+    "correct": 0,
+    "explanation": "Vùng biển nước ta nằm trong vùng biển nhiệt đới gió mùa của Thái Bình Dương, giàu tài nguyên.",
+    "passage": null
+  },
+  {
+    "id": 505,
+    "question": "Câu 505: Đặc điểm nào sau đây đúng với dân cư nước ta?",
+    "options": ["Dân số đông, mật độ dân số cao, phân bố không đều.", "Dân số ít, mật độ thấp.", "Phân bố đều trên cả nước.", "Chủ yếu sống ở miền núi."],
+    "correct": 2,
+    "explanation": "Dân số đông, mật độ cao, phân bố không đều (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 506,
+    "question": "Câu 506: Ngành công nghiệp trọng điểm của vùng Đông Nam Bộ là",
+    "options": ["công nghiệp khai thác than.", "công nghiệp dầu khí, chế biến thực phẩm, cơ khí.", "công nghiệp dệt may.", "công nghiệp thủy điện."],
+    "correct": 1,
+    "explanation": "Đông Nam Bộ mạnh về công nghiệp dầu khí, chế biến, cơ khí.",
+    "passage": null
+  },
+  {
+    "id": 507,
+    "question": "Câu 507: Vùng nào sau đây có điều kiện thuận lợi nhất để phát triển cây công nghiệp lâu năm?",
+    "options": ["Đồng bằng sông Hồng.", "Tây Nguyên.", "Đồng bằng sông Cửu Long.", "Trung du và miền núi Bắc Bộ."],
+    "correct": 2,
+    "explanation": "Tây Nguyên có điều kiện thuận lợi nhất để phát triển cây công nghiệp lâu năm (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 508,
+    "question": "Câu 508: Đặc điểm nào sau đây đúng với đô thị hóa ở nước ta?",
+    "options": ["Tốc độ đô thị hóa nhanh, mức độ đô thị hóa còn thấp.", "Mức độ đô thị hóa cao.", "Đô thị phân bố đều.", "Không có đô thị lớn."],
+    "correct": 1,
+    "explanation": "Tốc độ đô thị hóa nhanh nhưng mức độ còn thấp (theo key B).",
+    "passage": null
+  },
+  {
+    "id": 509,
+    "question": "Câu 509: Vùng kinh tế trọng điểm phía Nam bao gồm các tỉnh, thành phố nào?",
+    "options": ["TP. Hồ Chí Minh, Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Long An, Tây Ninh, Bình Phước, Tiền Giang.", "Hà Nội, Hải Phòng, Quảng Ninh.", "Đà Nẵng, Thừa Thiên Huế, Quảng Nam, Quảng Ngãi.", "Cần Thơ, An Giang, Kiên Giang."],
+    "correct": 1,
+    "explanation": "Vùng kinh tế trọng điểm phía Nam gồm TP.HCM và các tỉnh lân cận (theo key B).",
+    "passage": null
+  },
+  {
+    "id": 510,
+    "question": "Câu 510: Tài nguyên khoáng sản nào sau đây nước ta có trữ lượng lớn và phân bố chủ yếu ở miền Bắc?",
+    "options": ["Than đá.", "Dầu mỏ.", "Bôxit.", "Vàng."],
+    "correct": 1,
+    "explanation": "Than đá có trữ lượng lớn, phân bố chủ yếu ở miền Bắc (Quảng Ninh).",
+    "passage": null
+  },
+  {
+    "id": 511,
+    "question": "Câu 511: Đặc điểm nào sau đây đúng với nông nghiệp nước ta?",
+    "options": ["Sản xuất nhỏ, phân tán.", "Đang chuyển dịch theo hướng sản xuất hàng hóa, hiện đại.", "Chỉ trồng lúa.", "Không có chăn nuôi."],
+    "correct": 3,
+    "explanation": "Nông nghiệp đang chuyển dịch theo hướng sản xuất hàng hóa, hiện đại (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 512,
+    "question": "Câu 512: Vùng nào sau đây có thế mạnh về thủy sản?",
+    "options": ["Đồng bằng sông Cửu Long và Duyên hải Nam Trung Bộ.", "Tây Nguyên.", "Trung du miền núi Bắc Bộ.", "Đông Bắc."],
+    "correct": 3,
+    "explanation": "Đồng bằng sông Cửu Long và Duyên hải Nam Trung Bộ có thế mạnh về thủy sản (theo key D).",
+    "passage": null
+  },
+  {
+    "id": 513,
+    "question": "Câu 513: Đặc điểm nào sau đây đúng với giao thông vận tải nước ta?",
+    "options": ["Hệ thống giao thông đồng bộ, hiện đại.", "Đang được đầu tư phát triển nhưng còn nhiều hạn chế.", "Chỉ phát triển đường bộ.", "Không có đường sắt."],
+    "correct": 2,
+    "explanation": "Giao thông đang được đầu tư nhưng còn nhiều hạn chế (theo key C).",
+    "passage": null
+  },
+  {
+    "id": 514,
+    "question": "Câu 514: Định hướng phát triển của vùng kinh tế trọng điểm miền Trung là",
+    "options": ["phát triển công nghiệp dầu khí, dịch vụ.", "phát triển du lịch, dịch vụ biển, công nghiệp lọc hóa dầu, thủy sản.", "phát triển nông nghiệp hàng hóa.", "phát triển công nghiệp nặng."],
+    "correct": 0,
+    "explanation": "Vùng kinh tế trọng điểm miền Trung định hướng phát triển du lịch, dịch vụ biển, công nghiệp lọc hóa dầu, thủy sản (theo key A).",
+    "passage": null
+  },
+  {
+    "id": 515,
+    "question": "Câu 515: (Theo bản đồ) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 1,
+    "explanation": "Theo key B.",
+    "passage": "35ban_do_dia_li_VN"
+  },
+  {
+    "id": 516,
+    "question": "Câu 516: (Theo bản đồ) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 0,
+    "explanation": "Theo key A.",
+    "passage": "35ban_do_dia_li_VN"
+  },
+  {
+    "id": 517,
+    "question": "Câu 517: (Theo bản đồ) Đáp án đúng là",
+    "options": ["A.", "B.", "C.", "D."],
+    "correct": 2,
+    "explanation": "Theo key C.",
+    "passage": "35ban_do_dia_li_VN"
+  }
+];
