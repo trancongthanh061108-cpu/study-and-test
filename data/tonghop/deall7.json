@@ -133,7 +133,7 @@
     "options": ["từ 16 kHz đến 20 000 Hz", "từ 16 Hz đến 20 000 kHz", "từ 16 kHz đến 20 000 kHz", "từ 16 Hz đến 20 000 Hz"],
     "correct": 3,
     "explanation": "Tai con người có thể nghe được những âm có tần số nằm trong khoảng từ 16 Hz đến 20 000 Hz.",
-    "passage": null
+    "passage":   "de7_115_117"
   },
   {
     "id": 116,
@@ -142,7 +142,7 @@
     "options": ["10W/m2", "1W/m2", "0,1W/m2", "100W/m2"],
     "correct": 0,
     "explanation": "L(B) = log(I/I0) → I = I0 * 10^13 = 10^-12 * 10^13 = 10 W/m^2.",
-    "passage": null
+    "passage":   "de7_115_117"
   },
   {
     "id": 117,
@@ -151,7 +151,7 @@
     "options": ["14,58 dB", "27,31 dB", "32,06 dB", "38,52 dB"],
     "correct": 2,
     "explanation": "Gọi A, H, T lần lượt là vị trí thủ môn, huấn luyện viên và trọng tài. + Trong ΔATM có: AM2 + MT2 = AT2 → x2 + y2 = 32,32 (1) + Trong ΔMTN có: MN2 + MT2 = NT2 → (AN – AM)2 + MT2 = NT2 → (68/2 - x)^2 + y^2 = 10,5^2 (2) → y^2 = 32,3^2 - x^2 = 10,5^2 - (34 - x)^2 → 32,3^2 - x^2 = 10,5^2 - (34^2 - 2.34x + x^2) → x = 30,72m, y = 9,98m. Mà TH^2 = (105/2 - y)^2 + (68/2 + x + 5)^2 → TH = 81,66m → LA – LH = 10log(AH^2/TH^2) = 8,06dB → LH = LA – 8,06 = 40 – 8,06 = 31,94dB.",
-    "passage": null
+    "passage":   "de7_115_117"
   },
   {
     "id": 201,
