@@ -151,7 +151,7 @@
     "options": ["Cu + 4H+ + 2NO3- → Cu2+ + 2NO2 + 2H2O", "CO3^2- + 2H+ → H2O + CO2", "2Cu2+ + 4I- → 2CuI + I2", "I2 + 2S2O3^2- → 2I- + S4O6^2-"],
     "correct": 2,
     "explanation": "Phương trình phản ứng xảy ra trong giai đoạn 2 là: 2Cu2+ + 4I- → 2CuI + I2.",
-    "passage": null
+    "passage":   "de8_201_203"
   },
   {
     "id": 202,
@@ -160,7 +160,7 @@
     "options": ["1,49.10^-3", "1,49.10^-2", "2,98.10^-2", "2,98.10^-3"],
     "correct": 0,
     "explanation": "nNa2S2O3 = 0,1.0,0298 = 0,00298mol. I2 + 2S2O3^2- → 2I- + S4O6^2-. → x = nI2 = 1,49.10^-3 mol.",
-    "passage": null
+    "passage":   "de8_201_203"
   },
   {
     "id": 203,
@@ -169,7 +169,7 @@
     "options": ["0,7415 g", "2,5429 g", "3,8144 g", "1,9072 g"],
     "correct": 3,
     "explanation": "Cu + 4H+ + 2NO3- → Cu2+ + 2NO2 + 2H2O. x → x mol. CO3^2- + 2H+ → H2O + CO2. 2Cu2+ + 4I- → 2CuI + I2. 0,1x → 0,05x mol. I2 + 2S2O3^2- → 2I- + S4O6^2-. 0,05x → 0,1x mol. → 0,1x = 0,1.0,0298 → x = 0,0298 mol → mCu = 64.0,0298 = 1,9072g.",
-    "passage": null
+    "passage":   "de8_201_203"
   },
   {
     "id": 204,
@@ -305,7 +305,7 @@
     "options": ["tỉ lệ thuận", "tỉ lệ nghịch", "không phụ thuộc vào nhau", "trùng nhau"],
     "correct": 1,
     "explanation": "Ta thấy vận tốc máu cao nhất ở động mạch → tĩnh mạch → mao mạch, ngược lại tổng tiết diện mạch lớn nhất ở mao mạch → tĩnh mạch → động mạch. Như vậy vận tốc máu tỉ lệ nghịch với tổng tiết diện mạch, vận tốc máu càng cao thì tổng tiết diện mạch càng nhỏ.",
-    "passage": null
+    "passage":   "de8_301_303"
   },
   {
     "id": 302,
@@ -314,7 +314,7 @@
     "options": ["tim co – tim dãn", "tim dãn – tim co", "tâm thất dãn – tâm nhĩ co", "tâm nhĩ co – tâm thất dãn"],
     "correct": 0,
     "explanation": "Huyết áp tâm thu ứng với lúc tim co, huyết áp tâm trương ứng với lúc tim dãn.",
-    "passage": null
+    "passage":   "de8_301_303"
   },
   {
     "id": 303,
@@ -323,7 +323,7 @@
     "options": ["Máu ở tĩnh mạch chủ là dòng máu đi từ mao mạch phổi về tim.", "Máu ở tĩnh mạch phổi là dòng máu đi từ các cơ quan về tim.", "Máu ở tĩnh mạch phổi là dòng máu đi từ mao mạch phổi về tim.", "Máu ở tĩnh mạch chủ là máu pha."],
     "correct": 2,
     "explanation": "Máu ở tĩnh mạch phổi có nồng độ O2 cao hơn so với máu ở tĩnh mạch chủ. Bởi vì tĩnh mạch phổi là dòng máu đi từ mao mạch phổi về tim, tại tĩnh mạch phổi, máu vừa được nhận khí O2 và thải khí CO2 nên dòng máu đang có nồng độ O2 cao hơn. Còn ở tĩnh mạch chủ là dòng máu đi từ các cơ quan về tim, tại đây, nồng độ O2 đã được các cơ quan sử dụng và thải khí CO2, nên ở tĩnh mạch chủ có nồng độ O2 thấp hơn.",
-    "passage": null
+    "passage":   "de8_301_303"
   },
   {
     "id": 304,
