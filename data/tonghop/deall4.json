@@ -203,7 +203,7 @@
     ],
     "correct": 2,
     "explanation": "p₃₀ = p₀ + ρgh = 10⁵ + 1000·9,8·30 = 394 kPa.",
-    "passage": null
+    "passage": "de4_115_117"
   },
   {
     "id": 116,
@@ -217,7 +217,7 @@
     ],
     "correct": 1,
     "explanation": "Δp = ρgh = 1000·9,8·50 = 490 kPa.",
-    "passage": null
+    "passage": "de4_115_117"
   },
   {
     "id": 117,
@@ -231,7 +231,7 @@
     ],
     "correct": 3,
     "explanation": "p₁V₁ = p₂V₂ ⇒ (p₀ + ρgh)/p₀ = (d₂/d₁)³ ⇒ d₂ ≈ 1,44 mm.",
-    "passage": null
+    "passage": "de4_115_117"
   },
   {
     "id": 201,
@@ -437,7 +437,7 @@
     ],
     "correct": 0,
     "explanation": "Bản chất phương pháp iot dựa trên phản ứng 2Cu²⁺ + 4I⁻ → 2CuI + I₂.",
-    "passage": null
+    "passage":   "de4_215_217"
   },
   {
     "id": 216,
@@ -451,7 +451,7 @@
     ],
     "correct": 2,
     "explanation": "Phải trung hòa axit vì trong môi trường axit mạnh xảy ra phản ứng 4I⁻ + O₂ + 4H⁺ → 2I₂ + 2H₂O làm sai lệch kết quả.",
-    "passage": null
+    "passage":   "de4_215_217"
   },
   {
     "id": 217,
@@ -465,7 +465,7 @@
     ],
     "correct": 3,
     "explanation": "Từ thể tích Na₂S₂O₃ tính được n_Cu = 0,0298 mol trong 0,28 g mẫu ⇒ %Cu = 68,11%.",
-    "passage": null
+    "passage":   "de4_215_217"
   },
   {
     "id": 301,
@@ -671,7 +671,7 @@
     ],
     "correct": 1,
     "explanation": "Thực vật sử dụng hai dạng nitrogen vô cơ: NH₄⁺ và NO₃⁻.",
-    "passage": null
+    "passage":   "de4_315_317"
   },
   {
     "id": 316,
@@ -685,7 +685,7 @@
     ],
     "correct": 2,
     "explanation": "Phân tử N₂ có liên kết ba rất bền vững, thực vật không tự bẻ gãy được.",
-    "passage": null
+    "passage":   "de4_315_317"
   },
   {
     "id": 317,
@@ -699,7 +699,7 @@
     ],
     "correct": 0,
     "explanation": "Chỉ (2) và (5) đúng.",
-    "passage": null
+    "passage":   "de4_315_317"
   },
   {
     "id": 401,
