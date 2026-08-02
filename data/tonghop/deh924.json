@@ -155,6 +155,7 @@
     "question": "Tiến hành điều chế phenol từ cumene qua hai giai đoạn. Từ 10,8 kg cumene có thể điều chế được bao nhiêu gam phenol (biết hiệu suất của cả quá trình là 90%)?",
     "options": [],
     "correct": null,
+    "answer": "7614",
     "explanation": "ncumene = (10,8.10^3)/120 = 90 mol. nphenol = 90.90% = 81 mol. Vậy khối lượng của phenol là: mphenol = 81.94 = 7614 gam. Số cần điền là 7 614.",
     "passage": null
   },
@@ -358,6 +359,7 @@
     "question": "Cho aniline tác dụng với dung dịch nước bromine 3% (khối lượng riêng là 1,3 g/mL). Thể tích nước bromine tối thiểu cần để điều chế 33 gam 2,4,6-tribromoaniline là bao nhiêu?",
     "options": [],
     "correct": null,
+    "answer": "1,23",
     "explanation": "C6H2Br3NH2 => nkết tủa = 33:330 = 0,1 mol. nBr2 = 3.0,1 = 0,3 mol. mBr2 = 0,3.160 = 48 gam. mdd Br2 3% = 48/0,03 = 1600 gam. V = 1600/1,3 = 1230 mL = 1,23 L.",
     "passage": null
   },
@@ -548,6 +550,7 @@
     "question": "Cho 20 gam hỗn hợp 3 amine: methylamine, ethylamine, allylamine tác dụng vừa đủ với V mL dung dịch HCl 1M. Sau phản ứng cô cạn dung dịch thu được 31,68 gam muối khan. Giá trị của V là bao nhiêu?",
     "options": [],
     "correct": null,
+    "answer": "320",
     "explanation": "Phương trình phản ứng: RNH2 + HCl → RNH3Cl. Áp dụng định luật bảo toàn khối lượng: mHCl = 31,68 - 20 = 11,68 gam → nHCl = 0,32 mol → VHCl = 0,32/1 = 0,32 L = 320 mL.",
     "passage": null
   },
@@ -1478,6 +1481,7 @@
     "question": "Cho 27,3 gam hỗn hợp A gồm hai ester no, đơn chức tác dụng vừa đủ với dung dịch KOH, thu được 30,8 gam hỗn hợp hai muối của 2 acid kế tiếp và 16,1 gam một alcohol. Khối lượng của ester có khối lượng phân tử nhỏ hơn trong hỗn hợp A là bao nhiêu gam? (Kết quả làm tròn đến chữ số thập phân thứ 1)",
     "options": [],
     "correct": null,
+    "answer": "18,5",
     "explanation": "mKOH = 30,8 + 16,1 - 27,3 = 19,6 gam → nKOH = 0,35 mol. Mester = 27,3/0,35 = 78 → HCOOC2H5: 0,25 mol và CH3COOC2H5: 0,1 mol. mHCOOC2H5 = 0,25.74 = 18,5 gam.",
     "passage": null
   },
@@ -1694,6 +1698,7 @@
     "question": "Trong các polymer sau: polybuta-1,3-diene, polyacrylonitrile, poly(vinyl chloride), poly(hexamethylene adipamide), polyethylene, polypropylene, poly(ethylene terephthalate), polybuta-1,3-diene, poly(buta-1,3-diene styrene), polychloroprene, cao su thiên nhiên. Số polymer là cao su thiên nhiên là bao nhiêu?",
     "options": [],
     "correct": null,
+    "answer": "1",
     "explanation": "Phân loại cao su: Cao su thiên nhiên và Cao su tổng hợp. Cao su thiên nhiên: có thành phần chính là polyisoprene. Cao su tổng hợp: Cao su buna (polybuta-1,3-diene), Cao su isoprene (polyisoprene), Cao su buna-S poly(buta-1,3-diene styrene), polychloroprene, Cao su buna-N poly(buta-1,3-diene acrylonitrile). → Số polymer là cao su thiên nhiên là 1.",
     "passage": null
   },
@@ -1910,6 +1915,7 @@
     "question": "Amino acid X có công thức (H2N)2C3H5COOH. Cho 0,02 mol X tác dụng với 200 ml dung dịch hỗn hợp H2SO4 0,1M và HCl 0,3M, thu được dung dịch Y. Cho Y phản ứng vừa đủ với 400 ml dung dịch NaOH 0,1M và KOH 0,2M, thu được dung dịch chứa m gam muối. Giá trị của m là bao nhiêu? (Làm tròn kết quả đến hàng phần nguyên)",
     "options": [],
     "correct": null,
+    "answer": "10",
     "explanation": "Sau cùng trong dung dịch có: Na+: 0,04 mol; K+: 0,08 mol; SO42-: 0,02 mol; Cl-: 0,06 mol; (H2N)2C3H5COO-: 0,02 mol. BTKL: m = 0,04.23 + 0,08.39 + 0,02.96 + 0,06.35,5 + 0,02.117 = 10 gam.",
     "passage": null
   },
@@ -1981,8 +1987,13 @@
   {
     "id": 156,
     "question": "Quần áo tẩy trắng bằng nước Javel thì sau khi giữ bằng nước vẫn còn lưu mùi chlorine. Để khử mùi này, người ta ngâm quần áo với nước có hòa tan một loại tính kiềm yếu và an toàn với da tay là",
-    "options": [],
-    "correct": null,
+    "options": [
+      "Nước cốt chanh",
+      "Xà phòng",
+      "Nước đường",
+      "Nước cất"
+    ],
+    "correct": 0,
     "explanation": "Để khử mùi chlorine còn lại trên quần áo sau khi tẩy trắng bằng nước Javel, người ta thường ngâm quần áo trong nước có hòa tan một ít giấm ăn hoặc nước cốt chanh (acid yếu) để trung hòa chlorine dư.",
     "passage": null
   },
@@ -1991,6 +2002,7 @@
     "question": "Biểu thức tính hằng số cân bằng của phản ứng: 2NO(g) + O2(g) ⇌ 2NO2(g) tại 40°C khi biết nồng độ các chất ở trạng thái cân bằng lần lượt là [NO] = 2,0 M, [O2] = 0,0156 M, [NO2] = 0,500 M là",
     "options": [],
     "correct": null,
+    "answer": "4,01",
     "explanation": "KC = [NO2]^2 / ([NO]^2.[O2]) = (0,500)^2 / ((2,0)^2.0,0156) ≈ 4,01.",
     "passage": null
   },
@@ -2025,6 +2037,7 @@
     "question": "Thực hiện phản ứng ester hóa giữa 2 mol acetic acid và 3 mol ethyl alcohol trong một bình cầu. Khi phản ứng đạt tới trạng thái cân bằng, tiến hành tách chiết thì thu được 1,2 mol ester. Hằng số cân bằng Kc của phản ứng ở điều kiện này là",
     "options": [],
     "correct": null,
+    "answer": "1",
     "explanation": "Kc = [CH3COOC2H5][H2O] / ([CH3COOH][C2H5OH]) = (1,2.1,2)/(0,8.1,8) = 1.",
     "passage": null
   },
@@ -2085,6 +2098,7 @@
     "question": "Chỉ số xà phòng hóa là số mg kali hydroxyde cần để trung hòa các acid tự do và để xà phòng hóa các ester chứa trong 1 g chất thử. Công thức tính chỉ số xà phòng hóa là: Chỉ số xà phòng hóa = ((V mẫu trắng - V mẫu thử) * 28,05) / m mẫu. Một thí nghiệm đã được thực hiện với kết quả: mẫu 1: m=2,0010g, V trắng=22,8ml, V thử=9,5ml; mẫu 2: m=2,0157g, V trắng=22,9ml, V thử=9,3ml. Giá trị trung bình của chỉ số xà phòng hóa là",
     "options": [],
     "correct": null,
+    "answer": "187,8",
     "explanation": "x1 = (22,8 - 9,5)*28,05/2,0010 = 186,439; x2 = (22,9 - 9,3)*28,05/2,0157 = 189,254; x trung bình = (186,439 + 189,254)/2 = 187,8.",
     "passage": "doan_xa_phong_hoa"
   },
@@ -2353,6 +2367,7 @@
     "question": "Để sản xuất 29,7 kg cellulose trinitrate cần dùng ít nhất V lít dung dịch HNO3 60% (D = 1,4 g/mL) phản ứng với cellulose dư. Biết hiệu suất quá trình phản ứng là 90%. Giá trị của V là bao nhiêu lít?",
     "options": [],
     "correct": null,
+    "answer": "25",
     "explanation": "Khối lượng cellulose trinitrate lý thuyết = 29,7/90% = 33 kg = 33000 g. nHNO3 = 3.ncellulose trinitrate = 3.33000/297 = 333,33 mol. mHNO3 = 333,33.63 = 21000 g. mdd HNO3 = 21000/60% = 35000 g. V = 35000/1,4 = 25000 mL = 25 L.",
     "passage": null
   },
@@ -2491,6 +2506,7 @@
     "question": "Tinh bột là nguồn cung cấp năng lượng chủ yếu cho con người. Biết 1 g tinh bột có thể cung cấp 16 kJ và năng lượng từ tinh bột chiếm khoảng 60% tổng năng lượng thức ăn. Mỗi ngày, một học sinh lớp 12 cần một lượng năng lượng khoảng 9 200 kJ thì cần ăn bao nhiêu gam tinh bột?",
     "options": [],
     "correct": null,
+    "answer": "345",
     "explanation": "Năng lượng từ tinh bột = 9200.60% = 5520 kJ. Khối lượng tinh bột = 5520/16 = 345 gam.",
     "passage": null
   },
@@ -2746,6 +2762,7 @@
     "question": "Cho hỗn hợp ethylmethylamine và ethylamine có số mol bằng nhau phản ứng với dung dịch HCl dư thu được 53,1 g muối. Mặt khác cho hỗn hợp trên phản ứng với nitrous acid dư thu được V cm3 khí nitrogen (ở đkc). Tính giá trị V.",
     "options": [],
     "correct": null,
+    "answer": "7437",
     "explanation": "Gọi số mol mỗi amine là x. Muối: C2H5NH3Cl (x mol) và C2H5NH(CH3)2Cl (x mol). Tổng khối lượng muối = 81,5x + 95,5x = 177x = 53,1 → x = 0,3. Chỉ ethylamine phản ứng với HNO2 tạo N2: nN2 = 0,3 mol. V = 0,3.24,79 = 7,437 L = 7437 cm3.",
     "passage": null
   },
@@ -2910,6 +2927,7 @@
     "question": "Licopen (C40H56, mạch hở) là chất màu đỏ có trong quả cà chua chín, phân tử chỉ chứa liên kết đơn và liên kết đôi. Hydrogen hóa hoàn toàn licopen thu được hợp chất có công thức phân tử là C40H82. Số liên kết C = C trong phân tử licopen là",
     "options": [],
     "correct": null,
+    "answer": "13",
     "explanation": "Số phân tử H2 cộng = (82-56)/2 = 13. Vậy số liên kết đôi C=C là 13.",
     "passage": null
   },
@@ -3139,6 +3157,7 @@
     "question": "Hiệu suất của phản ứng tổng hợp ethyl acetate từ ethanol và acetic acid có sulfuric acid đặc làm xúc tác là 65%. Để sản xuất 57200 tấn ethyl acetate, khối lượng ethanol cần dùng là bao nhiêu tấn?",
     "options": [],
     "correct": null,
+    "answer": "46000",
     "explanation": "m ethyl acetate lt = 57200/65% = 88000 tấn. n ethanol = n ethyl acetate = 88000.10^6/88 = 10^9 mol. m ethanol = 10^9.46 = 4,6.10^10 g = 46000 tấn.",
     "passage": null
   },
@@ -3368,6 +3387,7 @@
     "question": "Một nhà máy luyện kim sản xuất từ 40 tấn quặng blend (chứa 80% ZnS về khối lượng, còn lại là tạp chất không chứa kẽm) với hiệu suất cả quá trình đạt 90% theo sơ đồ: ZnS + O2 → ZnO + SO2; ZnO + C → Zn + CO. Toàn bộ lượng kẽm tạo ra được đúc thành a thanh kẽm hình hộp chữ nhật: chiều dài 120 cm, chiều rộng 20 cm và chiều cao 10 cm. Biết khối lượng riêng của kẽm là 7,14 g/cm3. Giá trị của a là?",
     "options": [],
     "correct": null,
+    "answer": "112",
     "explanation": "mZnS = 40.10^6.80% = 32.10^6 gam. nZnS = 32.10^6/97 mol. mZn thực tế = 32.10^6/97.65.90% = 19298969,07 gam. mỗi thanh = 120.20.10.7,14 = 171360 gam. a = 19298969,07/171360 ≈ 112,6 ≈ 112.",
     "passage": null
   },
