@@ -143,7 +143,7 @@
     "options": ["1000/3 (N)", "1000(N)", "10/3 (N)", "1003(N)"],
     "correct": 0,
     "explanation": "Khi vật chuyển động trên mặt đường nằm ngang: F = Fms = P/v = 5000/15 = 1000/3 (N). (v = 54km/h = 15m/s)",
-    "passage": null
+    "passage":   "de35_cau115_117"
   },
   {
     "id": 116,
@@ -152,7 +152,7 @@
     "options": ["1/30", "1/3", "2/3", "1/10"],
     "correct": 0,
     "explanation": "Hệ số ma sát giữa bánh xe và mặt đường: μ = Fms/N = (1000/3)/(1000.10) = 1/30.",
-    "passage": null
+    "passage":   "de35_cau115_117"
   },
   {
     "id": 117,
@@ -161,7 +161,7 @@
     "options": ["1059W", "1095W", "11015,7W", "10335W"],
     "correct": 2,
     "explanation": "Khi lên dốc: F' = mgsinα + μmgcosα = 1000.10.sin(2,3°) + (1/30).1000.10.cos(2,3°) = 734,38N. Công suất khi lên dốc: P' = F'.v = 734,38.15 = 11015,7W.",
-    "passage": null
+    "passage":   "de35_cau115_117"
   },
   {
     "id": 201,
@@ -253,7 +253,7 @@
     ],
     "correct": 2,
     "explanation": "Nhận định sai là C. Trong bình điện phân, các anion di chuyển về điện cực trái dấu là điện cực dương (anode), không phải cathode.",
-    "passage": null
+    "passage":   "de35_cau208_210"
   },
   {
     "id": 209,
@@ -262,7 +262,7 @@
     "options": ["0,975 gam", "1,95 gam", "3,5 gam", "2,1 gam"],
     "correct": 0,
     "explanation": "Tại bình 2, khối lượng cathode tăng 3,24g là khối lượng Ag: n_Ag = 0,03mol. Ag⁺ + 1e → Ag ⇒ n_e = 0,03mol. Vì số điện tử truyền qua các bình là giống nhau nên n_e ở bình 1 cũng là 0,03mol. Zn²⁺ + 2e → Zn ⇒ n_Zn = 0,015mol ⇒ m_Zn = 0,975g.",
-    "passage": null
+    "passage":   "de35_cau208_210"
   },
   {
     "id": 210,
@@ -276,7 +276,7 @@
     ],
     "correct": 3,
     "explanation": "Tại cathode bình 3 (Al(NO3)3): 2H2O + 2e → H2 + 2OH⁻ (0,03mol). Tại anode: 2H2O → O2 + 4H⁺ + 4e (0,03mol H⁺). Vậy pH của dung dịch không đổi vì sinh ra một lượng H⁺ hay OH⁻ bằng nhau.",
-    "passage": null
+    "passage":   "de35_cau208_210"
   },
   {
     "id": 211,
@@ -526,7 +526,7 @@
     "options": ["Enzyme pepsin", "Acid clohydric", "Protein", "Chuỗi polypeptide ngắn"],
     "correct": 1,
     "explanation": "Theo thông tin: Acid clohydric làm cho dịch vị có pH thấp đủ để hòa tan đinh sắt và tiêu diệt hầu hết vi khuẩn → đáp án chính xác là Acid clohydric.",
-    "passage": null
+    "passage":   "de35_cau315_317"
   },
   {
     "id": 316,
@@ -540,7 +540,7 @@
     ],
     "correct": 2,
     "explanation": "Tiêu hóa thức ăn ở dạ dày gồm tiêu hóa cơ học (nghiền nát thức ăn) và tiêu hóa hóa học nhờ dịch vị (acid clohydric phá vỡ liên kết, biến tính protein; pepsin tiêu hóa protein thành polypeptide ngắn) → Chức năng chính là nghiền nát thức ăn và tiêu hóa protein.",
-    "passage": null
+    "passage":  "de35_cau315_317"
   },
   {
     "id": 317,
@@ -549,7 +549,7 @@
     "options": ["Thiếu chất đạm", "Thiếu chất bột đường", "Thiếu vitamin A", "Thiếu máu do thiếu sắt"],
     "correct": 0,
     "explanation": "Pepsin có vai trò chính phân cắt protein thành các chuỗi peptide nhỏ hơn để cơ thể dễ hấp thụ amino acid. Nếu pepsinogen không chuyển hóa thành pepsin, quá trình tiêu hóa protein bị ảnh hưởng nghiêm trọng, khiến hấp thu chất đạm giảm hiệu quả → có thể gây thiếu chất đạm.",
-    "passage": null
+    "passage":   "de35_cau315_317"
   },
   {
     "id": 401,
@@ -687,7 +687,7 @@
     "options": ["Gia thế và dòng tộc", "Kinh nghiệm chiến đấu", "Học vấn và khoa cử", "Sự giàu có và ảnh hưởng"],
     "correct": 2,
     "explanation": "Dưới triều vua Minh Mạng, việc tuyển chọn quan lại được chú trọng vào năng lực thực sự thông qua hệ thống khoa cử. Học vấn được xác định là tiêu chuẩn để tuyển dụng quan lại cho bộ máy hành chính.",
-    "passage": null
+    "passage":   "de35_cau412_414"
   },
   {
     "id": 413,
@@ -701,7 +701,7 @@
     ],
     "correct": 0,
     "explanation": "Kỳ thi Hương được tổ chức vào các năm Tý, Ngọ, Mão, Dậu (cấp tỉnh, đỗ gọi là Cử nhân). Kỳ thi Hội được tổ chức vào các năm Thìn, Tuất, Sửu, Mùi (cấp quốc gia, đỗ gọi là Tiến sĩ).",
-    "passage": null
+    "passage":   "de35_cau412_414"
   },
   {
     "id": 414,
@@ -715,7 +715,7 @@
     ],
     "correct": 1,
     "explanation": "Vua Minh Mạng khuyến cáo quan lại về việc cải tiến chế độ và nội dung thi cử nhằm đảm bảo tính công bằng, đảm bảo tính thực chất và tuyển chọn được nhân tài thực sự để phục vụ đất nước.",
-    "passage": null
+    "passage":   "de35_cau412_414"
   },
   {
     "id": 415,
@@ -729,7 +729,7 @@
     ],
     "correct": 1,
     "explanation": "Ngay sau khi đến Quảng Châu (11/11/1924), Nguyễn Ái Quốc đã chọn những hạt nhân đầu tiên cho cách mạng Việt Nam là những thành viên trung kiên của nhóm Tâm tâm xã trên sự tin tưởng vào bầu nhiệt huyết yêu nước của thế hệ trẻ.",
-    "passage": null
+    "passage":   "de35_cau415_417"
   },
   {
     "id": 416,
@@ -738,7 +738,7 @@
     "options": ["Nhân Dân", "Thanh Niên", "Tiền Phong", "Việt Nam Độc Lập"],
     "correct": 1,
     "explanation": "Tờ báo \"Thanh Niên\" do Nguyễn Ái Quốc sáng lập ngày 21/6/1925 tại Quảng Châu (Trung Quốc) là tờ báo đầu tiên của cách mạng Việt Nam.",
-    "passage": null
+    "passage":  "de35_cau415_417"
   },
   {
     "id": 417,
@@ -747,7 +747,7 @@
     "options": ["Đại sứ tại Liên Xô.", "Chiến sĩ quốc tế do Quốc tế Cộng sản giao phó.", "Giáo viên tại một trường đại học ở Pháp.", "Nhà báo cho một tờ báo quốc tế."],
     "correct": 1,
     "explanation": "Trong giai đoạn 1924-1927, ngoài việc tổ chức và lãnh đạo phong trào cách mạng Việt Nam, Nguyễn Ái Quốc còn hoạt động tích cực trong vai trò là chiến sĩ quốc tế do Quốc tế Cộng sản giao phó.",
-    "passage": null
+    "passage":   "de35_cau415_417"
   },
   {
     "id": 501,
