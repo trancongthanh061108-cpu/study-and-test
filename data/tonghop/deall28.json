@@ -133,7 +133,7 @@
     "options": ["1,5.10^8m/s", "3,5.10^6m/s", "2,7.10^7m/s", "2,5.10^6m/s"],
     "correct": 2,
     "explanation": "Động năng ban đầu của electron là: Wd0 = 2.10^3eV = 2.10^3.1,6.10^-19 = 3,2.10^-16 J. Wd0 = 1/2.m.v0^2 ⇒ v0 = √(2.Wd0/m) = √(2.3,2.10^-16/9,1.10^-31) = 2,7.10^7 m/s.",
-    "passage": null
+    "passage":   "de28_cau115_117"
   },
   {
     "id": 116,
@@ -142,7 +142,7 @@
     "options": ["1,25.10^4V/m", "2,15.10^4V/m", "3,12.10^4V/m", "2,3.10^4V/m"],
     "correct": 0,
     "explanation": "Hướng của cường độ điện trường là hướng từ bản dương sang bản âm (từ trên xuống dưới). Độ lớn của điện trường là: E = U/d = 250/0,02 = 1,25.10^4 V/m.",
-    "passage": null
+    "passage":   "de28_cau115_117"
   },
   {
     "id": 117,
@@ -151,7 +151,7 @@
     "options": ["1,5.10^-15N", "2,5.10^-15N", "2.10^-15N", "2.10^-16N"],
     "correct": 2,
     "explanation": "Lực điện tác dụng lên electron là: F = |q|.E = 1,6.10^-19 . 1,25.10^4 = 2.10^-15 N.",
-    "passage": "Một electron ban đầu chuyển động theo phương ngang và có động năng là 2.10³eV khi nó ở vị trí như hình trên. Nó đi qua một điện trường đều giữa hai tấm nằm ngang tích điện trái dấu (vùng I) và một vùng không có điện trường (vùng II) trước khi cuối cùng đập vào một màn chắn ở khoảng cách 0,08m từ mép của các tấm. Các tấm dài 0,04m và cách nhau một khoảng cách 0,02m. Hiệu điện thế giữa hai tấm là 250V. Trọng lực không đáng kể."
+    "passage":   "de28_cau115_117"
   },
   {
     "id": 201,
@@ -287,7 +287,7 @@
     "options": ["Nhiệt độ thấp và áp suất cao.", "Nhiệt độ cao và áp suất thấp.", "Nhiệt độ cao và áp suất cao.", "Nhiệt độ thấp và áp suất thấp."],
     "correct": 0,
     "explanation": "Phương trình tổng hợp methanol từ hỗn hợp CO và H2 là: CO(k) + 2H2(k) → CH3OH(k) ΔH < 0. - Phản ứng tổng hợp methanol là phản ứng tỏa nhiệt. Vậy để làm tăng hiệu suất tổng hợp methanol, cần làm giảm nhiệt độ của môi trường để phản ứng chuyển dịch theo chiều tỏa nhiệt ra môi trường. - Số mol khí chất tham gia lớn hơn số mol khí sản phẩm. Vậy để phản ứng chuyển dịch theo chiều thuận là chiều làm giảm số mol khí cần thực hiện phản ứng ở điều kiện là áp suất cao. Chọn A.",
-    "passage": "Trong công nghiệp methanol (CH3-OH, nhiệt độ sôi 65ºC) được tổng hợp từ CO và H2 ở nhiệt độ và áp suất theo sơ đồ sau: Khi CO được tổng hợp từ khí thiên nhiên [dòng khí CH4 vào cổng (1) và hơi nước (cổng 2)] trong hỗn hợp phản ứng (A) ở nhiệt độ 200°C và 10 bar. Sau khi phản ứng được hỗn hợp B. Hạ nhiệt độ hỗn hợp (B) về 25°C thu được hỗn hợp khí C (chỉ có CO và H2). Methanol được tổng hợp trong bình phản ứng (C) ở nhiệt độ 250°C, áp suất 80 – 90 bar và chất xúc tác phù hợp."
+    "passage":   "de28_cau215_217"
   },
   {
     "id": 216,
@@ -296,7 +296,7 @@
     "options": ["Tế bào xương.", "Tế bào hồng cầu.", "Tế bào cơ tim.", "Tế bào biểu bì."],
     "correct": 2,
     "explanation": "Tế bào cơ tim là loại tế bào có nhu cầu năng lượng rất cao vì cơ tim cần hoạt động liên tục không ngừng để bơm máu đi khắp cơ thể. Để đáp ứng nhu cầu năng lượng lớn này, tế bào cơ tim có nhiều ti thể nhất trong các loại tế bào của cơ thể, giúp tạo ra năng lượng dưới dạng ATP.",
-    "passage": null
+    "passage":   "de28_cau215_217"
   },
   {
     "id": 217,
@@ -305,7 +305,7 @@
     "options": ["(I), (II), (III)", "(I), (II), (IV)", "(I), (III), (IV)", "(II), (III), (IV)"],
     "correct": 0,
     "explanation": "I đúng: Vì bình 1 không chứa tế bào nấm men A. cerevisiae ban đầu, nên không có sự sinh trưởng của nấm men, do đó dung dịch không đục. II đúng: Bình 2 và bình 3 đều có chứa tế bào nấm men A. cerevisiae ban đầu. Tuy nhiên, chỉ có bình 3 có thêm nguồn dinh dưỡng (đường sucrose), nên nấm men trong bình 3 sẽ sinh trưởng và phát triển mạnh hơn, dẫn đến nước trong cả hai bình bị đục sau hai ngày, nhưng bình 3 đục nhiều hơn. III đúng: Bình 2 không có nguồn dinh dưỡng cần thiết cho sự phát triển của nấm men, vì vậy số lượng tế bào S. cerevisiae sẽ giảm dần, và mức độ đục cũng giảm dần theo thời gian. IV sai: Bình 3 có thêm sucrose làm nguồn dinh dưỡng, giúp tế bào S. cerevisiae phát triển mạnh. Độ đục tăng là do sự phát triển và sinh sản của tế bào, chứ không phải do tế bào chết nhiều hơn.",
-    "passage": "Thí nghiệm đánh giá ảnh hưởng của nguồn dinh dưỡng (đường sucrose) đến sinh trưởng của nấm men rượu A. cereviside được bố trí thí nghiệm như bảng ở nhiệt độ phòng, và thu được kết quả (hình dưới)."
+    "passage":   "de28_cau215_217"
   },
   {
     "id": 301,
@@ -441,7 +441,7 @@
     "options": ["Căn cứ vào bối cảnh quốc tế để có đường lối đấu tranh ngoại giao phù hợp.", "Kiên trì dựa vào sự giúp đỡ của các nước lớn trong đấu tranh ngoại giao.", "Hòa bình ở Việt Nam cần được giải quyết ở một hội nghị quốc tế.", "Phát huy tối đa thắng lợi trên bàn đàm phán."],
     "correct": 3,
     "explanation": "Từ việc kí kết hiệp định Giơ-ne-vơ năm 1954 về Đông Dương, Chính phủ nước Việt Nam Dân chủ Cộng hòa đã phát huy tối đa thắng lợi trên bàn đàm phán và kí Hiệp định Pari về Việt Nam năm 1973.",
-    "passage": null
+    "passage":   "de28_cau315_317"
   },
   {
     "id": 316,
@@ -450,7 +450,7 @@
     "options": ["Đề ra những mục tiêu và hình thức đấu tranh mới và quyết liệt.", "Sử dụng hình thức đấu tranh phong phú.", "Để lại bài học kinh nghiệm về lãnh đạo quần chúng đấu tranh hợp pháp.", "Tổ chức các lực lượng yêu nước trong một mặt trận dân tộc thống nhất."],
     "correct": 1,
     "explanation": "Phong trào cách mạng 1930-1931 và phong trào dân chủ 1936-1939 ở Việt Nam có điểm tương đồng là sử dụng hình thức đấu tranh phong phú.",
-    "passage": null
+    "passage":   "de28_cau315_317"
   },
   {
     "id": 317,
@@ -459,7 +459,7 @@
     "options": ["Hình thức vận động.", "Kết cục quân sự.", "Quyết tâm giành thắng lợi.", "Sự huy động lực lượng đến mức cao nhất."],
     "correct": 0,
     "explanation": "Một trong những điểm khác nhau giữa chiến dịch Hồ Chí Minh năm 1975 với chiến dịch Điện Biên Phủ năm 1954 ở Việt Nam là về hình thức vận động.",
-    "passage": null
+    "passage":   "de28_cau315_317"
   },
   {
     "id": 401,
@@ -567,7 +567,7 @@
     "options": ["Giải quyết công ăn việc làm cho các binh lính Việt Nam hoàn lương.", "Trao trả các tù binh chiến tranh.", "Tăng cường giáo dục, đẩy mạnh tiễu phỉ.", "Trao trả các tù binh chính trị."],
     "correct": 2,
     "explanation": "Các đáp án A, B, D: Đều thể hiện rõ chính sách khoan hồng của Đảng và Chính phủ đối với những người đã từng tham gia chiến tranh hoặc có quan điểm chính trị khác biệt. Việc giải quyết công ăn việc làm, trao trả tù binh là những hành động cụ thể nhằm hòa giải, đoàn kết dân tộc. Đáp án C: 'Tăng cường giáo dục, đẩy mạnh tiễu phỉ' lại mang tính chất đấu tranh, trấn áp đối với những phần tử chống đối chính quyền. Hành động này nhằm mục tiêu ổn định tình hình xã hội nhưng không phải là một biểu hiện của chính sách khoan hồng.",
-    "passage": null
+    "passage":   "de28_cau412_414"
   },
   {
     "id": 413,
@@ -576,7 +576,7 @@
     "options": ["Mĩ muốn đưa miền Bắc Việt Nam thành 'con đê' ngăn cản 'làn sóng đỏ'.", "Mĩ muốn chiếm đoạt tài nguyên thiên nhiên ở Việt Nam.", "Mĩ muốn biến miền Nam Việt Nam thành một quốc gia quân chủ lập hiến.", "Mĩ Muốn biến miền Nam Việt Nam thành nơi ngăn chặn sự phát triển của chủ nghĩa cộng sản."],
     "correct": 3,
     "explanation": "Các đáp án A, B, C: Mặc dù các yếu tố này cũng có thể ảnh hưởng đến quyết định của Mỹ trong việc can thiệp vào Việt Nam, nhưng chúng không phải là động cơ chính và sâu xa nhất. Đáp án D: Đây mới là lý do cốt lõi khiến Mỹ quyết định tham chiến ở Việt Nam. Trong bối cảnh Chiến tranh Lạnh, Mỹ coi chủ nghĩa cộng sản là mối đe dọa lớn đối với hệ thống tư bản chủ nghĩa. Việc Việt Nam Dân chủ Cộng hòa giành thắng lợi ở miền Bắc và có xu hướng lan rộng ảnh hưởng sang miền Nam đã khiến Mỹ lo ngại về sự sụp đổ của 'đế chế thực dân' của mình ở Đông Dương và sự lan rộng của chủ nghĩa cộng sản ra khu vực Đông Nam Á.",
-    "passage": "Đồng thời, cũng trong thời gian này ta còn đấu tranh đòi Pháp thi hành điều 21 của Hiệp định Giơnevơ về việc trao trả tù binh và thường dân bị giam giữ trong chiến tranh. Ta đã trao trả cho Pháp 6800 tù binh Âu-Phi và 2360 tù binh thuộc quốc tịch Việt Nam. Pháp cũng trao trả cho ta 7350 tù binh, 18350 tù binh chính trị và tỉnh nghi, 37.900 thường dân bị giam giữ trong chiến tranh. Chính sách khoan hồng nhân đạo của Đảng và Chính phủ ta đã làm cho cuộc vận động binh lính địch thu được kết quả to lớn. Trên 60% binh lính ngụy đã bỏ trốn về với nhân dân. Ta còn giải quyết công ăn việc làm, đời sống cho hàng vạn binh lính ngụy và những nhân viên chính quyền cũ ở lại với miền Bắc. Thực hiện chỉ thị của Ban Bí thư trung ương Đảng ngày 16-4-1955 về phá âm mưu gây phỉ của đế quốc Mỹ và tay sai, các địa phương đã tăng cường giáo dục quần chúng, đẩy mạnh tiễu phỉ trừ gian kết hợp với sản xuất, ổn định đời sống. Hàng nghìn tên phi đã bị tiêu diệt, hàng ngàn người làm đường đã quay trở về với gia đình bản làng. (Đại cương Lịch sử Việt Nam tập 3, tr.137)"
+    "passage":   "de28_cau412_414"
   },
   {
     "id": 414,
@@ -585,7 +585,7 @@
     "options": ["khí hậu", "sinh vật", "đá mẹ", "địa hình"],
     "correct": 2,
     "explanation": "Nhân tố khởi đầu trong quá trình hình thành đất là đá mẹ. Các đặc tính của đá mẹ như màu sắc, cấu tạo, thành phần khoáng sẽ tác động đến tính chất lí, hóa của đất.",
-    "passage": null
+    "passage":   "de28_cau412_414"
   },
   {
     "id": 415,
@@ -594,7 +594,7 @@
     "options": ["nhu cầu tiêu thụ lớn.", "công nghệ đánh bắt hiện đại.", "tàu thuyền được đầu tư.", "diện tích mặt nước lớn."],
     "correct": 3,
     "explanation": "Gạch chân từ khóa: khai thác. Sản lượng khai thác thủy sản trên thế giới ngày càng tăng không phải do diện tích mặt nước lớn vì đây là điều kiện thuận lợi cho ngành nuôi trồng thủy sản phát triển.",
-    "passage": null
+    "passage":   "de28_cau415_417"
   },
   {
     "id": 416,
@@ -603,7 +603,7 @@
     "options": ["An ninh năng lượng", "An ninh nguồn nước", "An ninh mạng", "An ninh lương thực"],
     "correct": 0,
     "explanation": "An ninh năng lượng được coi là tiền đề quan trọng để phát triển kinh tế - xã hội.",
-    "passage": null
+    "passage": "de28_cau415_417"
   },
   {
     "id": 417,
@@ -612,7 +612,7 @@
     "options": ["mở rộng thêm nhiều đối tác thương mại.", "hoạt động sản xuất trong nước phát triển.", "sản phẩm mẫu mã đẹp, giá thành rẻ.", "sản phẩm đa dạng, chất lượng cao."],
     "correct": 0,
     "explanation": "Gạch chân từ khóa: ngoại thương. Ngoại thương gồm hai hoạt động: xuất khẩu và nhập khẩu. => Ngoại thương của Trung Quốc ngày càng phát triển chủ yếu do mở rộng thêm nhiều đối tác thương mại trên thế giới. Yếu tố này tác động cả hai phương diện xuất khẩu và nhập khẩu.",
-    "passage": null
+    "passage": "de28_cau415_417"
   },
   {
     "id": 501,
