@@ -21,7 +21,7 @@
       "2,98.10−2.",
       "2,98.10−3."
     ],
-    "correct": 1.49,
+    "correct": 0,
     "explanation": "82 n Na 2S2O3 = 0,1.0, 0298 = 0, 00298 mol I 2 + 2 S2O3 2− → 2I − + S4O6 2− → x = n I2 = 1, 49.10 −3 mol",
     "passage": "8phuong_phap_iot_cu"
   },
@@ -34,7 +34,7 @@
       "3,8144 g.",
       "1,9072 g."
     ],
-    "correct": 1.9072,
+    "correct": 3,
     "explanation": "Cu + 4H + + 2NO3− → Cu 2+ + 2NO2 + 2H 2O x → x mol CO32− + 2H + → H 2 O + CO2 2Cu 2+ + 4I − → 2CuI + I 2 0,1x→ 0,05x mol I 2 + 2 S2O32− → 2I − + S4O62− 0,05x→ 0,1x mol → 0,1x = 0,1.0,0298 → x = 0,0298 mol → mCu = 64.0,0298 = 1,9072g",
     "passage": "8phuong_phap_iot_cu"
   },
@@ -73,7 +73,7 @@
       "10,85 g.",
       "16,745 g."
     ],
-    "correct": 10.85,
+    "correct": 2,
     "explanation": "Số mol SO2 là 0,2 mol; số mol OH- là 0,25 mol → n OH : n SO = 1, 25 →Thu được hai muối là SO32− và HSO3− với số mol lần lượt là x và y − 2 SO2 + 2OH − → SO32− + H 2O x 2x x SO2 + OH − → HSO3− y y y Theo bài ta có: x + y = 0,2 2x + y = 0,25 → x = 0,05 và y = 0,15 Số mol Ba2+ là 0,075 mol và số mol SO32− là 0,05 mol → m = 10,85 gam.",
     "passage": null
   },
@@ -86,7 +86,7 @@
       "4,958 lít.",
       "14,874 lít."
     ],
-    "correct": 9.916,
+    "correct": 1,
     "explanation": "Ta có: nCH 4 = nC3H8 = a mol →  nCO 2 = a + 3a = 4a mol;  nH 2O = 2a + 4a = 6a mol mbình tăng = mCO + mH O = 56,8 gam 2 2  4a.44 + 6a.18 = 56,8 → a = 0, 2 → VX = 2a.24, 79 = 9, 916 lít.",
     "passage": null
   },
@@ -151,7 +151,7 @@
       "8 và 4.",
       "4 và 8."
     ],
-    "correct": 87,
+    "correct": 0,
     "explanation": "Siren có công thức phân tử C8H8 n = 8 n = 8    2n + 2 − 2 a = 8  a = 5",
     "passage": null
   },
@@ -177,7 +177,7 @@
       "301,275 lít và 2850,430 lít.",
       "150,638 lít và 2850,430 lít"
     ],
-    "correct": 301.275,
+    "correct": 0,
     "explanation": "m V.D 3.3,12 n Br2 = = = = 0, 0585 kmol = 58,5 mol M M 160 Phương trình phản ứng xảy ra: Cl 2 + 2NaBr → 2NaCl + Br2 88 58,5 117 ← 58,5 mol VCl2 = 58,5.24,79 = 1450,215 lít; mNaBr = 117.103 = 12051 gam. Thể tích dung dịch NaBr với hàm lượng 40g/l là: 12051 Vdd NaBr = = 301, 275 lít.",
     "passage": null
   },
@@ -190,7 +190,7 @@
       "6.",
       "10."
     ],
-    "correct": 8,
+    "correct": 1,
     "explanation": "−1 +1 R C H 2OH + K 2 Cr2O7 + H 2SO 4 → R C HO + K 2SO 4 + Cr2 (SO 4 )3 + H 2 O −1 +1 3 C → C + 2e 1  +6 +3 Cr 2 + 6e → Cr 2 3RCH 2OH + K 2 Cr2O 7 + 4H 2SO 4 → 3RCHO + K 2SO 4 + Cr2 (SO 4 )3 + 7H 2O → Tổng hệ số các chất tham gia của phản ứng là 8.",
     "passage": null
   },
@@ -289,7 +289,7 @@
       "1: 1.",
       "1: 4."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "93 Trong tự nhiên, tỉ lệ đực : cái thường xấp xỉ 1: 1. Tuy nhiên trong quá trình sống, tỉ lệ này có thể thay đổi theo loài, thời điểm và điều kiện sống.",
     "passage": null
   },
@@ -315,7 +315,7 @@
       "3.",
       "4."
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Ý (1), (2) đúng. Các nghiên cứu của Sinh học đóng góp vai trò lớn trong phát triển bền vững, như bảo vệ đa dạng sinh học, bảo vệ và khôi phục môi trường sống, tạo ra các giống vật nuôi, cây trồng có năng suất và chất lượng cao,… 94 Sinh học cung cấp kiến thức vận dụng để khai thác hợp lí nguồn tài nguyên thiên nhiên phục vụ phát triển kinh tế → (3) sai. Sinh học tạo ra những giống cây trồng và vật nuôi có năng suất và chất lượng cao → (4) sai.",
     "passage": null
   },
@@ -328,7 +328,7 @@
       "56,25%.",
       "30,25%."
     ],
-    "correct": 56.25,
+    "correct": 2,
     "explanation": "Tỉ lệ thân cao, hoa tím, quả đỏ, tròn (A-,B-,D-,E-) chiếm: 1 1 1 1 1 1 9  +   +   = = 56, 25%  2 2 2   2 2 2 ",
     "passage": null
   },
@@ -393,7 +393,7 @@
       "1/4.",
       "2/3."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Quy ước: gene A - thân cao; gene a - thân thấp Xét tỉ lệ F1: 900 thân cao/299 thân thấp ≈ 3 thân cao : 1 thân thấp → Kiểu gene của 2 cây thân cao giao phấn với nhau là Aa Ta có: Aa × Aa → 1AA : 2Aa : 1aa Cây F1 tự thụ cho F2 gồm toàn thân cao phải có kiểu gene AA Tỉ lệ cây có kiểu gene AA ở F1 so với tổng số cây F1 là: 1/4",
     "passage": null
   },
@@ -406,7 +406,7 @@
       "1 : 1.",
       "3 : 1."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Xét tỉ lệ F1: 6+3 Hoa kép/hoa đơn: = 9 : 7 → tính trạng do 2 gene phân li độc lập tương tác bổ sung. 6 +1 6+6 Hoa vàng/hoa tím: = 3:1 3 +1 → F1 dị hợp 3 cặp gene Tích tỉ lệ tính trạng: (9:7)(3:1) ≠ TLKH bài cho nên một trong hai gene quy định tính trạng cánh hoa 99 nằm trên cùng một nhiễm sắc thể với gene quy định tính trạng màu hoa. Quy ước: A-B-: hoa kép ; A-bb/aaB-/aabb: hoa đơn D - hoa vàng ; d - hoa tím F1 có 16 tổ hợp = 4 × 4 → không có hoán vị gene Giả sử gene A và gene D cùng nằm trên một cặp nhiễm sắc thể tương đồng: TH1: dị hợp tử đều AD AD P: Bb  Bb cho F1 có tỉ lệ kép vàng là 9/16 khác với tỉ lệ của bài (không thỏa mãn). ad ad TH2: dị hợp tử chéo Ad Ad  Ad Ad aD  Bb  Bb → (3B− :1bb) 1 :2 :1  cho tỉ lệ phân li kiểu hình giống bài ra (thỏa mãn). aD aD  Ad aD aD  Cho P lai phân tích Ad ad  Ad aD  Ad aD Ad aD Bb  bb → (1Bb :1bb) 1 :1  → 1Bb :1Bb :1bb :1bb aD ad  ad ad  ad ad ad ad Tỉ lệ kiểu hình: 1 kép, tím : 2 đơn, vàng : 1 đơn, tím",
     "passage": null
   },
