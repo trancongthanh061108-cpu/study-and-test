@@ -1,0 +1,417 @@
+[ 
+  {
+    "id": 1,
+    "question": "Một câu lạc bộ gồm 27 học sinh yêu thích thể thao, mỗi bạn đều chơi giỏi ít nhất một trong 3 môn thể thao là bóng đá, cầu lông và bóng chuyền. Có 14 học sinh giỏi bóng đá, 12 học sinh giỏi bóng chuyền, 10 học sinh giỏi cầu lông, 4 học sinh giỏi cả bóng đá và bóng chuyền, 3 học sinh giỏi cả bóng chuyền và cầu lông, 3 học sinh giỏi cả bóng đá và cầu lông. Hỏi có bao nhiêu học sinh chỉ chơi giỏi bóng đá (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "8",
+    "explanation": "n(A∪B∪C)=n(A)+n(B)+n(C)-n(A∩B)-n(B∩C)-n(C∩A)+n(A∩B∩C). 27=14+12+10-4-3-3+n(A∩B∩C) ⇒ n(A∩B∩C)=1. Số bạn vừa giỏi bóng đá vừa giỏi ít nhất môn khác = 4+3-1=6. Số bạn chỉ giỏi bóng đá = 14-6=8.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Miền nghiệm OABC trong hình vẽ dưới đây (kể cả bờ) là miền nghiệm của hệ bất phương trình nào?",
+    "options": ["x≥0, y≤0, x-y≥2, x+y≤6", "x≥0, y≥0, x-y≥2, x+y≤6", "x≥0, y≥0, x-y≤2, x+y≥6", "x≥0, y≥0, x-y≤2, x+y≤6"],
+    "correct": 3,
+    "explanation": "Bờ chứa OA là x=0, điểm C(2;0) thuộc miền nghiệm nên x≥0. Bờ chứa OC là y=0, điểm A(0;6) nên y≥0. Bờ chứa BC là x-y=2, điểm O(0;0) có 0-0≤2 nên x-y≤2. Bờ chứa AB là x+y=6, điểm O có 0+0≤6 nên x+y≤6.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Hai chiếc thuyền xuất phát cùng một lúc, tại cùng một vị trí ở ngoài khơi xa, chạy về hai hướng hợp với nhau một góc 60°. Tốc độ của mỗi chiếc thuyền lần lượt là 15 km/h và 24 km/h. Khoảng cách giữa hai chiếc thuyền sau khi di chuyển được 20 phút là",
+    "options": ["12 km", "10,5 km", "9 km", "7 km"],
+    "correct": 3,
+    "explanation": "20 phút = 1/3 giờ. Quãng đường mỗi thuyền: 15.1/3=5km và 24.1/3=8km. Khoảng cách = √(5²+8²-2.8.5.cos60°)=7km.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Trong mặt phẳng Oxy, cho tam giác ABC có trực tâm H(3;2) và trọng tâm G(5/3;8/3). Đường thẳng BC có phương trình là x+2y-2=0. Tính bán kính đường tròn ngoại tiếp tam giác ABC (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "HG=2GI với I là tâm ngoại tiếp. Giải được I(1;3). Tìm M trung điểm BC, IM⊥BC ⇒ M(0;1). GA=2MG tìm được A(5;6). Bán kính IA=√[(5-1)²+(6-3)²]=5.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Một mật khẩu mở cửa gồm có 3 ký tự là các chữ số tự nhiên từ 0 đến 9. Mật khẩu chính xác là một số tự nhiên có 3 chữ số sao cho chữ số hàng đơn vị lớn hơn chữ số hàng chục và chữ số hàng chục lớn hơn chữ số hàng trăm. Xác suất để một người nọ không biết mật khẩu, sau một lần bấm mở được cửa là:",
+    "options": ["1/250", "21/250", "27/250", "117/250"],
+    "correct": 1,
+    "explanation": "n(A)=C(9,3)=84 (chọn 3 số từ 1-9). n(Ω)=1000. P(A)=84/1000=21/250.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Cho tanα=2. Biết T=sinα/(sin³α+√3cos³α)=(a+b√3)/61, trong đó a,b là các số nguyên dương. Tính a-b (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "90",
+    "explanation": "1/cos²α=tan²α+1=5. T=tanα/(tan³α+√3)=2.5/(8+√3)=10/(8+√3)=(80-10√3)/61. a=80,b=-10. a-b=90.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Một hội trường có 20 dãy ghế, dãy đầu tiên có 12 ghế. Các dãy liền sau nhiều hơn dãy liền trước 2 ghế. Tính số ghế có trong hội trường (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "620",
+    "explanation": "Sn=(2u1+(n-1)d)/2.n = (2.12+19.2)/2.20 = 620 (ghế).",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Cho các cấp số cộng (un): u1=4, un+1=un+3 và (vn): v1=1, vn+1=vn+5. Có bao nhiêu số m bé hơn 2025 sao cho m vừa là số hạng của (un), vừa là số hạng của (vn)?",
+    "options": ["134", "326", "458", "215"],
+    "correct": 0,
+    "explanation": "un=3n+1, vn=5n-4. Tìm k,t sao cho uk=vt: 3k+1=5t-4 ⇒ 3k+5=5t ⇒ k chia hết 5. Đặt k=5x, 1≤x≤134. m=15x+1. Có 134 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Nồng độ oxygen trong hồ theo thời gian t được cho bởi công thức C(t)=(45t²-15t+5)/(9t²+1), trong đó C(t) được tính theo mg/l và t được tính theo giờ, t≥0. Khi thời gian đủ dài, nồng độ oxygen trong hồ đạt trạng thái bão hòa. Tính nồng độ bão hòa của oxygen trong hồ.",
+    "options": ["20 mg/l", "45 mg/l", "5 mg/l", "9 mg/l"],
+    "correct": 2,
+    "explanation": "lim t→+∞ C(t) = 45/9 = 5 mg/l.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Cho hàm số f(x)=(25^x-4)/(25^x+5). Giá trị của biểu thức S=f(1/2023)+f(2/2023)+...+f(2022/2023) là",
+    "options": ["2022/5", "1011/5", "1011", "2022"],
+    "correct": 1,
+    "explanation": "f(a)+f(1-a)=1/5. S được chia thành 1011 cặp, mỗi cặp bằng 1/5. S=1011/5.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Bất phương trình log₃[(x²-9)/125]≤log₅[(x²-9)/27] có bao nhiêu nghiệm có giá trị nguyên (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "110",
+    "explanation": "ĐKXĐ x>3 hoặc x<-3. Đặt t=log₅[(x²-9)/27], suy ra t≤3. Do đó (x²-9)/27≤3³ ⇒ x²≤3384 ⇒ -6√94≤x≤6√94. Kết hợp điều kiện có 110 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Biết x1,x2 là hai nghiệm của phương trình (3+√5)^x+(3-√5)^x=3.2^x. Tính giá trị của biểu thức T=x1²+x2². (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Đặt t=[(3+√5)/2]^x, phương trình thành t+1/t-3=0 ⇒ t²-3t+1=0. Giải được x=1 hoặc x=-1. T=1²+(-1)²=2.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Viết phương trình tiếp tuyến d của đồ thị hàm số y=x³-x²+2 tại điểm có hoành độ dương, biết d tạo với trục hoành một góc 45°.",
+    "options": ["y=x-2", "y=-x+2", "y=-x-1", "y=x+1"],
+    "correct": 3,
+    "explanation": "f'(x)=3x²-2x. Hệ số góc =1 hoặc -1. Giải được x0=1 (nhận). Tiếp tuyến: y=1.(x-1)+1-1+2=x+1.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Cho hình chóp S.ABCD có đáy là hình thang ABCD với AD//BC và AD=2BC. Gọi M là điểm trên cạnh SD thỏa mãn SM=(1/3)SD. Mặt phẳng (ABM) cắt cạnh bên SC tại điểm N. Tỉ số SN/SC là:",
+    "options": ["2/3", "1/2", "3/5", "3/4"],
+    "correct": 1,
+    "explanation": "Dùng định lý Menelaus trong tam giác SCD với M,N,I thẳng hàng (I là giao AB,CD): MS/MD.ID/IC.NC/NS=1. Tính được SN/SC=1/2.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Cho hình chóp tứ giác đều S.ABCD có tất cả các cạnh đều bằng a. Gọi M là trung điểm của SD và α là góc giữa đường thẳng BM và mặt phẳng (ABCD). Tính tan α (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "1/3",
+    "explanation": "MH//SO với H trung điểm OD. BH=3a√2/4, MH=a√2/4. tan(MBH)=MH/BH=1/3.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật ABCD, BC=2a và SA⊥(ABCD). Gọi G là trọng tâm tam giác ABC. Khoảng cách từ G đến mặt phẳng (SAB) là",
+    "options": ["2a", "a/3", "4a/3", "2a/3"],
+    "correct": 3,
+    "explanation": "BG=(1/3)BD. H là hình chiếu G trên AB, GH//AD: GH/AD=1/3 ⇒ GH=AD/3=2a/3.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A và D, AB=AD=2CD=2a. Góc giữa hai mặt phẳng (SBC) và (ABCD) bằng 60°. Gọi I là trung điểm AD. Biết hai mặt phẳng (SBI) và (SCI) cùng vuông góc với mặt phẳng (ABCD). Thể tích khối chóp S.ABCD là:",
+    "options": ["3a³√15/5", "9a³√15/5", "a³√15/15", "5a³√15/3"],
+    "correct": 0,
+    "explanation": "CB=a√5. S(ABCD)=3a². IH=3a√5/5. SI=IH.tan60°=3a√15/5. V=(1/3)SI.S(ABCD)=3a³√15/5.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Cho hình lăng trụ ABC.A'B'C', khoảng cách từ C đến đường thẳng BB' bằng 2, khoảng cách từ A đến các đường thẳng BB' và CC' lần lượt bằng 1 và √3, hình chiếu vuông góc của A lên mặt phẳng (A'B'C') là trung điểm M của B'C' và A'M=2√3/3. Thể tích của khối lăng trụ đã cho bằng:",
+    "options": ["2√3/3", "1", "√3", "2"],
+    "correct": 3,
+    "explanation": "AH=1 (đường cao tam giác AEF). AM=2 (từ hệ thức tam giác AMN vuông). S(ABC)=1. V=S(ABC).AM=1.2=2.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Bảng dưới đây thống kê cự li ném tạ của một vận động viên. Cự li (m): [19;19,5),[19,5;20),[20;20,5),[20,5;21),[21;21,5); Số lần: 13,48,22,11,6. Tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên là",
+    "options": ["19,225", "19,75", "19,625", "19,875"],
+    "correct": 2,
+    "explanation": "n=100, nhóm chứa Q1 là [19,5;20). Q1=19,5+(25-13)/48.(20-19,5)=19,625.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Một nhóm gồm có tổng cộng 20 học sinh, trong đó có 10 bạn giỏi Toán, 8 bạn giỏi Tiếng Anh, 4 bạn giỏi cả Toán và Tiếng Anh. Chọn ngẫu nhiên từ nhóm ra một bạn học sinh. Tính xác suất để học sinh được chọn không giỏi cả Toán lẫn Tiếng Anh.",
+    "options": ["0,2", "0,5", "0,3", "0,4"],
+    "correct": 2,
+    "explanation": "P(A)=0,5, P(B)=0,4, P(AB)=0,2. P(A∪B)=0,5+0,4-0,2=0,7. P(không giỏi cả 2)=1-0,7=0,3.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Một người bắn liên tiếp vào một mục tiêu cho đến khi viên đạn trúng mục tiêu thì ngừng bắn. Biết xác suất trúng mục tiêu của mỗi lần bắn là 0,6. Tính xác suất để người đó bắn đúng 4 viên đạn.",
+    "options": ["81/625", "8/125", "96/625", "24/625"],
+    "correct": 3,
+    "explanation": "P=(0,4)³.0,6=24/625.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Hàm số y=(x²+x+1)/(x+1) đồng biến trên khoảng nào trong các khoảng dưới đây?",
+    "options": ["(-∞;-3)", "(-∞;+∞)", "(-1;0)", "(-1;+∞)"],
+    "correct": 0,
+    "explanation": "y'=(x²+2x)/(x+1)². y'=0 tại x=-2,x=0. Hàm số đồng biến trên (-∞;-2) nên đồng biến trên (-∞;-3).",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Tìm số giá trị nguyên của tham số m thuộc đoạn [-10;10] để hàm số y=(m-sinx)/cos²x nghịch biến trên khoảng (0;π/6). (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "12",
+    "explanation": "Đặt t=sinx∈(0;1/2). Cần m≤(t²+1)/(2t) với mọi t. Hàm f(t)=(t²+1)/(2t) nghịch biến, min tại t=1/2 là 5/4. m≤5/4. Có 12 giá trị nguyên trong [-10;10].",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Cho hàm số y=f(x) có đạo hàm trên R và có bảng xét dấu của đạo hàm như sau: x: -∞,-2,1,2,4,+∞; f'(x): +,0,+,0,-,0,-,0,+. Số giá trị nguyên của tham số m thuộc khoảng (-2025;2025) để hàm số g(x)=f(x²-x+m) nghịch biến trên khoảng (-1;0) là",
+    "options": ["4045", "4043", "4047", "4046"],
+    "correct": 0,
+    "explanation": "g'(x)=(2x-1).f'(x²-x+m). Vì 2x-1<0 trên (-1;0), cần f'(x²-x+m)≥0 ⇔ m-1≤-x²+x hoặc m-4≥-x²+x với mọi x∈(-1;0). Hàm h(x)=-x²+x đồng biến trên (-1;0), từ -2 đến 0. Suy ra m-1≤-2 hoặc m-4≥0 ⇔ m≤-1 hoặc m≥4. Có 4045 giá trị nguyên trong (-2025;2025).",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Khoảng cách giữa hai điểm cực trị của đồ thị hàm số y=(x-2)²(x+1) là",
+    "options": ["2√5", "5√2", "4", "2"],
+    "correct": 0,
+    "explanation": "y=x³-3x²+4. Cực trị tại (0;4) và (2;0). Khoảng cách=√[(2-0)²+(0-4)²]=2√5.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Cho hàm số y=f(x) liên tục và có đạo hàm f'(x)=(x+1)²(x-m)³.(x+3)⁵, với mọi x∈R. Có bao nhiêu giá trị nguyên của tham số m thuộc đoạn [-5;5] để hàm số g(x)=f(|x|) có 3 điểm cực trị (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "Xét trường hợp m≤0: f(x) đồng biến trên (0;+∞), g(x) có đúng 1 cực trị (không thỏa). Trường hợp m>0: f'(x)=0 tại x=m>0, g(x) có đúng 3 cực trị (thỏa). Có 5 giá trị nguyên m trong [-5;5] thỏa (m=1,2,3,4,5).",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Biết chiều rộng tấm kính bằng chiều rộng lối đi và có giá trị thuộc đoạn [2;3]. Giá trị lớn nhất của thể tích không gian bên trong lối đi là:",
+    "options": ["45√3 m³", "15√3 m³", "20√3 m³", "60√3 m³"],
+    "correct": 0,
+    "explanation": "V(x)=5√3x² đồng biến trên [2;3]. Max V(x)=V(3)=45√3.",
+    "passage": "cau_27_29"
+  },
+  {
+    "id": 28,
+    "question": "Biết tổng diện tích kính sử dụng là 56√2 m². Xác định chiều rộng lối đi để thể tích không gian bên trong lối là lớn nhất.",
+    "options": ["2,2 m", "2,5 m", "2,8 m", "3m"],
+    "correct": 2,
+    "explanation": "Áp dụng AM-GM cho S(ABC), dấu bằng xảy ra khi x=2,8.",
+    "passage": "cau_27_29"
+  },
+  {
+    "id": 29,
+    "question": "Biết thể tích không gian bên trong lối đi là 60 m³. Giá lắp kính và lát sàn lối đi lần lượt là 600 nghìn đồng/m² và 280 nghìn đồng/m². Tìm giá trị nhỏ nhất của tổng chi phí lắp kính và lát sàn cho lối đi này.",
+    "options": ["80,2 triệu đồng", "64,2 triệu đồng", "76,8 triệu đồng", "74,6 triệu đồng"],
+    "correct": 2,
+    "explanation": "C(x)=12√(x⁴+144)/x+5,6x đạt min tại x=3 với giá trị 76,8. Tổng chi phí = 76,8 triệu đồng.",
+    "passage": "cau_27_29"
+  },
+  {
+    "id": 30,
+    "question": "Cho hàm số y=[mx²+(3-m)x+m²-2]/(x-1) có đồ thị (C). Tính tổng các bình phương các giá trị của tham số m để khoảng cách từ O đến tiệm cận xiên của (C) bằng √3. (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Tiệm cận xiên: y=mx+3, hay mx-y+3=0. Khoảng cách từ O: 3/√(m²+1)=√3 ⇒ m²+1=3 ⇒ m=√2 hoặc m=-√2. Tổng bình phương = 2+2=4.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Tổng các giá trị của tham số m để đồ thị hàm số y=(x-1)/[x²+2(m-1)x+m²-2] có đúng hai đường tiệm cận là:",
+    "options": ["1/2", "3/2", "-1/2", "-3/2"],
+    "correct": 2,
+    "explanation": "Luôn có 1 tiệm cận ngang y=0. Cần đúng 1 tiệm cận đứng: TH1 nghiệm kép m=3/2. TH2 hai nghiệm phân biệt với 1 nghiệm bằng 1: m=1 hoặc m=-3. Tổng = 3/2+1+(-3)=-1/2.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Cho hàm số y=f(x) có bảng biến thiên như sau (f giảm trên (-∞,0), tăng trên (0,1), giảm trên (1,2), tăng trên (2,+∞); f(0)=0,f(1)=3,f(2)=1). Số nghiệm của phương trình f(sinx+1)=2 trên đoạn [-π;2π] là:",
+    "options": ["5", "3", "6", "7"],
+    "correct": 2,
+    "explanation": "sinx+1∈[0;2]. Phương trình có 2 nhánh: sinx+1=b(0<b<1) có 4 nghiệm; sinx+1=c(1<c<2) có 2 nghiệm. Tổng 6 nghiệm.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Họ nguyên hàm của hàm số f(x)=sin5x.cos3x là:",
+    "options": ["-1/2 sin8x - 1/2 sin2x + C", "-1/16 sin8x - 1/4 sin2x + C", "1/16 cos8x + 1/4 cos2x + C", "-1/16 cos8x - 1/4 cos2x + C"],
+    "correct": 3,
+    "explanation": "sin5x.cos3x=(1/2)(sin8x+sin2x). ∫f(x)dx=-1/16cos8x-1/4cos2x+C.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Tích phân ∫[a,b] 5^x dx bằng:",
+    "options": ["5^b - 5^a", "(5^b-5^a)/ln5", "ln5.(5^b-5^a)", "5^(lna) - 5^(lnb)"],
+    "correct": 1,
+    "explanation": "∫5^x dx = 5^x/ln5, tính từ a đến b được (5^b-5^a)/ln5.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Cho hàm số y=f(x) có đạo hàm và liên tục trên R thỏa mãn f'(x)+2xf(x)=2xe^(-x²). Biết f(1)=2/e, tính f(0) (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Nhân e^(x²) cả 2 vế: [e^(x²)f(x)]'=2x ⇒ e^(x²)f(x)=x²+C. Từ f(1)=2/e tìm C=1. f(x)=(x²+1)/e^(x²). f(0)=1.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Nhiệt độ (tính bằng °C) tại thời điểm t giờ trong khoảng từ 6 giờ sáng đến 12 giờ trưa ở một địa phương nọ vào một ngày nào đó được cho bởi hàm số T(t)=20+1,5(t-6), 6≤t≤12. Nhiệt độ trung bình trong khoảng thời gian từ 6 giờ sáng đến 12 giờ trưa ngày hôm đó là:",
+    "options": ["24,5°C", "25°C", "26°C", "27,5°C"],
+    "correct": 0,
+    "explanation": "Nhiệt độ trung bình = (1/6)∫[6,12]T(t)dt = 24,5°C.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Bổ dọc một quả dưa hấu ta được thiết diện là hình elip có độ dài trục lớn 28 cm, trục nhỏ 25 cm. Biết cứ 1dm³ dưa hấu sẽ làm được một cốc sinh tố. Hỏi từ quả dưa hấu trên có thể làm ra được tối đa bao nhiêu cốc sinh tố (nhập đáp án vào ô trống, bỏ qua bề dày vỏ quả dưa hấu).",
+    "options": [],
+    "correct": null,
+    "answer": "9",
+    "explanation": "a=14, b=12,5. V=(4/3)πab²≈9163 cm³. Đổi 1dm³=1000cm³. 9163/1000 được thương 9. Vậy 9 cốc.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Trong không gian Oxyz, cho bốn điểm S,A,B,C như hình vẽ với S(1;2;3), A là hình chiếu trên Oz với tọa độ (3;2;3), B(1;5;3), C(1;2;6). Biết vectơ u=AC+BS có tọa độ là (a;b;c). Tính giá trị biểu thức T=a+2b+3c (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "A(3;2;3), B(1;5;3). AC=(-2;0;3), BS=(0;-3;0). u=AC+BS=(-2;-3;3). a=-2,b=-3,c=3. T=-2+2(-3)+3(3)=1.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Cho hình chóp S.ABC. Trên các tia SA,SB,SC lần lượt lấy các điểm A',B',C' tùy ý. Gọi G là trọng tâm tam giác ABC. Đặt SA/SA'=a; SB/SB'=b; SC/SC'=c. Biết G thuộc mặt phẳng (A'B'C'), tính giá trị của biểu thức T=a+b+c.",
+    "options": ["T=-3/2", "T=-1/2", "T=1", "T=3"],
+    "correct": 3,
+    "explanation": "SG=(1/3)(SA+SB+SC). Từ điều kiện đồng phẳng, suy ra a+b+c=3. T=3.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): x-3y-2z-6=0. Vectơ nào dưới đây không phải là vectơ pháp tuyến của (P)?",
+    "options": ["n1=(1;-3;-2)", "n2=(-1;3;2)", "n3=(-3;9;-6)", "n4=(-2;6;4)"],
+    "correct": 2,
+    "explanation": "n=(1;-3;-2) là vectơ pháp tuyến. n3=(-3;9;-6) không cùng phương vì -3/1=9/-3≠-6/-2.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Trong không gian Oxyz, cho điểm A(1;-6;1) và mặt phẳng (P):x+y+7=0. Gọi B là một điểm thay đổi trên trục Oz, C là một điểm thay đổi thuộc (P). Biết tam giác ABC có chu vi nhỏ nhất. Tọa độ điểm C là",
+    "options": ["(-4/9;-59/9;2)", "(-7/9;-56/9;1)", "(2/9;-65/9;-1)", "(4/9;-67/9;-2)"],
+    "correct": 1,
+    "explanation": "I(-1;-8;1) đối xứng A qua (P). H(0;0;1) là hình chiếu A trên Oz. C là giao điểm của IH với (P): (-7/9;-56/9;1).",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Trong không gian Oxyz, cho điểm A(1;2;3) và đường thẳng d:(x-3)/2=(y-1)/1=(z+7)/(-2). Đường thẳng đi qua A, vuông góc với d và cắt trục Ox có phương trình là",
+    "options": ["x=-1+2t, y=2t, z=3t", "x=1+t, y=2+2t, z=3+2t", "x=-1+2t, y=-2t, z=t", "x=1+t, y=2+2t, z=3+3t"],
+    "correct": 0,
+    "explanation": "B(-1;0;0) là giao điểm với Ox (từ điều kiện BA.ud=0). Δ qua B(-1;0;0) với vtcp BA=(2;2;3): x=-1+2t,y=2t,z=3t.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Trong không gian Oxyz, cho mặt cầu (S):x²+y²+z²-2x-2y-7=0 và điểm A(2;-1;2). Gọi d:(x-3)/(-4)=(y-m)/a=(z+n)/b là đường thẳng đi qua A, tiếp xúc với (S) và cách gốc tọa độ O một khoảng lớn nhất. Giá trị của biểu thức T=a+b+m+n là",
+    "options": ["15/2", "3", "7", "19/6"],
+    "correct": 0,
+    "explanation": "I(1;1;0), R=3. d⊥IA và d⊥OA để cách O max=3 khi d⊥OA. ud=[OA,IA]=(2;-2;-3). a=4,b=6. Từ điều kiện d qua A: m=-2,n=-1/2. T=4+6-2-1/2=15/2.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(-2;1;2) và đi qua điểm A(1;-2;-1). Xét các điểm B,C,D thuộc (S) sao cho AB,AC,AD đôi một vuông góc với nhau. Tính thể tích khối tứ diện ABCD có giá trị lớn nhất. (nhập đáp án vào ô trống).", 
+    "options": [],
+    "correct": null,
+    "answer": "36",
+    "explanation": "a²+b²+c²=4R²=108. V=abc/6. Áp dụng AM-GM: (108/3)³≥36V² ⇒ V≤36.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;1;-1) và tiếp xúc với mặt phẳng (P):2x-2y-z+3=0. Bán kính của mặt cầu (S) là",
+    "options": ["4/3", "4", "4/9", "2/3"],
+    "correct": 0,
+    "explanation": "R=d(I,(P))=|2.1-2.1+1+3|/√(4+4+1)=4/3.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Thống kê số thẻ vàng của mỗi đội bóng thuộc giải bóng đá ngoại hạng Anh mùa giải 2021-2022 theo bảng số liệu: 101,79,79,78,75,73,68,67,67,63,63,61,60,59,57,55,55,50,47,42. Tính khoảng biến thiên của mẫu số liệu ghép nhóm được hình thành từ mẫu số liệu gốc trên, biết các nhóm có độ dài bằng nhau và một trong số các nhóm đó là [70;80).",
+    "options": ["60", "70", "50", "80"],
+    "correct": 1,
+    "explanation": "Nhóm đầu [40;50), nhóm cuối [100;110). R=110-40=70.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Cho hai biến cố A và B, biết P(A)=0,6; P(B)=0,7; P(A∩B)=0,3. Tính P(Ā∩B)",
+    "options": ["4/7", "1/2", "2/5", "1/7"],
+    "correct": 2,
+    "explanation": "P(Ā|B)=1-P(A|B)=1-0,3/0,7=4/7. P(Ā∩B)=P(Ā|B).P(B)=4/7.0,7=0,4=2/5.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Trong quân sự, một máy bay chiến đấu của đối phương có thể xuất hiện ở vị trí X với xác suất 0,55. Nếu máy bay đó không xuất hiện ở vị trí X thì nó xuất hiện ở vị trí Y. Để phòng thủ, các bệ phóng tên lửa được bố trí tại các vị trí X và Y. Khi máy bay đối phương xuất hiện ở vị trí X hoặc Y thì tên lửa sẽ được phóng để hạ máy bay đó. Xét phương án tác chiến sau: nếu máy bay xuất hiện tại X thì bắn 2 quả tên lửa còn nếu máy bay xuất hiện tại Y thì bắn 1 quả tên lửa. Biết rằng, xác suất bắn trúng máy bay của mỗi quả tên lửa là 0,8 và các bệ phóng tên lửa hoạt động độc lập. Máy bay bị bắn hạ nếu nó trúng ít nhất 1 quả tên lửa. Tính xác suất để máy bay đối phương bị bắn hạ trong phương án tác chiến nêu trên?",
+    "options": ["0,888", "0,864", "0,846", "0,866"],
+    "correct": 0,
+    "explanation": "P(A)=0,55,P(Ā)=0,45. P(B|A)=1-(0,2)²=0,96. P(B|Ā)=0,8. P(B)=0,55.0,96+0,45.0,8=0,888.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Bánh xe của một chiếc ô tô đang chạy trên đường có chu vi là 2,5 m. Nếu tăng tốc để thời gian bánh xe quay một vòng giảm đi 1/12 giây thì tốc độ ô tô tăng thêm 18 km/h. Tính tốc độ ô tô lúc chưa tăng tốc.",
+    "options": ["10 km/h", "54 km/h", "36 km/h", "20 km/h"],
+    "correct": 2,
+    "explanation": "Giải phương trình 30ω/(12-ω)-2,5ω=5 được ω=4. Tốc độ ô tô = 2,5.4=10 m/s = 36 km/h.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Một bãi cỏ lớn lên từng ngày với tốc độ không đổi. Biết rằng, với 200 con cừu sẽ ăn hết bãi cỏ trong 100 ngày và với 150 con cừu sẽ ăn hết bãi cỏ trong 150 ngày. Tốc độ ăn của mỗi con cừu là như nhau. Hỏi với 100 con cừu thì sẽ ăn hết bãi cỏ đó trong bao nhiêu ngày (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "300",
+    "explanation": "S=100(200a-b)=150(150a-b) ⇒ b=50a. S=15000a. Với 100 cừu, giảm 50a mỗi ngày. Thời gian=15000a/50a=300 ngày.",
+    "passage": null
+  }
+]

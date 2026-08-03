@@ -1,0 +1,417 @@
+[ 
+  {
+    "id": 1,
+    "question": "Câu 1: Cho hàm số f(x) = log2(x²+1). Khi đó f'(1) bằng",
+    "options": ["f'(1) = 1/(2ln2).", "f'(1) = 1/ln2.", "f'(1) = 1/2.", "f'(1) = 1."],
+    "correct": 1,
+    "explanation": "f'(x) = 2x/((x²+1)ln2). Suy ra f'(1) = 2/(2ln2) = 1/ln2.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Cho hai biến cố A và B, với P(A)=0,6, P(B)=0,7, P(A∩B)=0,3. Tính P(B̅|A).",
+    "options": ["3/7", "1/2.", "6/7.", "1/7."],
+    "correct": 1,
+    "explanation": "P(B̅|A) = 1 - P(B|A) = 1 - P(A∩B)/P(A) = 1 - 0,3/0,6 = 1 - 1/2 = 1/2.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Trong một dãy số nguyên dương, biết rằng từ số thứ 3 trở đi, các số luôn bằng tích của hai số đứng ngay trước đó. Nếu số thứ 6 có giá trị là 4000 thì số đầu tiên là bao nhiêu?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 2,
+    "explanation": "Gọi số đầu là a, số thứ hai là b. Dãy số: a,b,ab,ab²,a²b³,a³b⁵,... Số thứ 6 bằng 4000 = a³b⁵ = 5³.2⁵. Suy ra a=5.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Cô giáo có 12 phần quà gồm 4 phần loại I và 8 phần loại II được đựng trong 12 hộp kín giống nhau. Cô chia đều cho 3 bạn, mỗi bạn 4 phần quà. Xác suất để mỗi bạn đều nhận được cả hai loại quà là (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "32/55",
+    "explanation": "Không gian mẫu: C(12,4).C(8,4).C(4,4). Mỗi bạn có cả 2 loại quà nên có một bạn có 2 phần quà loại I. Tính các trường hợp phân chia, P(A) = 3.C(4,1)C(8,3)C(3,1)C(5,3)C(2,2)C(2,2)/[C(12,4)C(8,4)C(4,4)] = 32/55.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Cho hàm số y = x³ + (1-2m)x² + 2(2-m)x + 4. Với giá trị nào của tham số m thì đồ thị hàm số có hai điểm cực trị nằm về hai phía của trục hoành?",
+    "options": ["m≥2 hoặc -5/2≠m≤-2.", "m>2 hoặc -5/2≠m<-2.", "-2<m<2.", "m>2 hoặc m<-2."],
+    "correct": 1,
+    "explanation": "Phương trình x³+(1-2m)x²+2(2-m)x+4=0 tương đương (x+1)(x²-2mx+4)=0. Cần g(x)=x²-2mx+4=0 có 2 nghiệm phân biệt khác -1: Δ'=m²-4>0 và g(-1)≠0, dẫn đến m>2 hoặc (-5/2≠m<-2).",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Cho hàm số y=f(x) liên tục trên R và có đồ thị như hình vẽ bên. Phương trình f(f(x)-1)=0 có tất cả bao nhiêu nghiệm thực phân biệt?",
+    "options": ["6.", "5", "7.", "4."],
+    "correct": 2,
+    "explanation": "f(x)=0 có 3 nghiệm x1∈(-2;-1), x2∈(-1;0), x3∈(1;2). Khi đó f(x)-1=x1,x2,x3 dẫn đến f(x)=1+x1∈(-1;0), f(x)=1+x2∈(0;1), f(x)=1+x3∈(2;3). Hai phương trình đầu mỗi cái có 3 nghiệm, phương trình sau có 1 nghiệm. Tổng: 7 nghiệm.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Trong không gian Oxyz, xét mặt cầu (S) có phương trình dạng x²+y²+z²-4x+2y-2az+10a=0. Tập hợp các giá trị thực của a để (S) có chu vi đường tròn lớn bằng 8π là:",
+    "options": ["{1;10}.", "{2;-10}.", "{-1;11}.", "{1;-11}."],
+    "correct": 2,
+    "explanation": "Tâm I(2;-1;a), R=√(a²-10a+5). Chu vi C=2πR=8π ⟹ R=4 ⟹ a²-10a+5=16 ⟹ a²-10a-11=0 ⟹ a=-1 hoặc a=11.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Thống kê tổng số giờ nắng trong tháng 9 tại một trạm quan trắc đặt ở Cà Mau trong các năm từ 2002 đến 2021 được thống kê như sau: Số giờ nắng: [80;98), [98;116), [116;134), [134;152), [152;170). Số năm: 3, 6, 3, 5, 3. Độ lệch chuẩn của mẫu số liệu ghép nhóm này là:",
+    "options": ["566,19", "23,795", "32,795", "665,19"],
+    "correct": 1,
+    "explanation": "Giá trị đại diện: 89,107,125,143,161. n=20. x̄=124,1. Phương sai s²=566,19. Độ lệch chuẩn s=√566,19≈23,79.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Kết quả bài kiểm tra giữa kì của các bạn học sinh lớp 10A được thống kê ở các biểu đồ dưới đây. Mốt của mẫu số liệu là bao nhiêu (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "7",
+    "explanation": "Dựa vào biểu đồ, điểm 7 có tần số lớn nhất (17) nên mốt của mẫu số liệu là 7.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Một kiến trúc sư muốn thiết kế một khung cửa sổ hình chữ nhật lắp vào một ô tròn trên tường có bán kính 4 mét. Kiến trúc sư muốn cửa sổ có kích thước lớn nhất để đón ánh sáng vào căn phòng. Hỏi diện tích lớn nhất của cửa sổ có thể đạt được là bao nhiêu?",
+    "options": ["30", "31", "32", "33"],
+    "correct": 2,
+    "explanation": "Phương trình đường tròn x²+y²=16. Diện tích cửa sổ S(x)=4x√(16-x²). S'(x)=0 tại x=2√2. S(2√2)=32.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Trong không gian Oxyz cho các điểm A(2;0;0), B(0;4;0), C(0;0;6), D(2;4;6). Gọi (P) là mặt phẳng song song với mặt phẳng (ABC), (P) cách đều D và mặt phẳng (ABC). Phương trình của mặt phẳng (P) là ax+by+2z+d=0 với a,b,d∈ℤ. Giá trị của d bằng bao nhiêu?",
+    "options": ["6", "-6", "24", "-24"],
+    "correct": 3,
+    "explanation": "Phương trình (ABC): 6x+3y+2z-12=0. (P): 6x+3y+2z+d=0. Điều kiện cách đều D và (ABC): |36+d|=|12+d| ⟹ d=-24.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Cho một hộp kín có 6 thẻ ATM của BIDV và 4 thẻ ATM của Vietcombank. Lấy ngẫu nhiên lần lượt 2 thẻ (lấy không hoàn lại). Tìm xác suất để lần thứ hai lấy được thẻ ATM của Vietcombank nếu biết lần thứ nhất đã lấy được thẻ ATM của BIDV.",
+    "options": ["5/9.", "2/3.", "7/9.", "4/9."],
+    "correct": 3,
+    "explanation": "Sau khi lấy lần 1 (BIDV), còn lại 9 thẻ (4 Vietcombank) nên P(A|B) = 4/9.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Cho hàm số f(x) = ax⁴+bx²+c với a≠0, có đồ thị là đường cong trong hình vẽ. Phương trình 2^x.f²(x) - (4^x+1)f(x) + 2^x = 0 có bao nhiêu nghiệm thực phân biệt?",
+    "options": ["7.", "5.", "6.", "8."],
+    "correct": 0,
+    "explanation": "Δ=(4^x-1)². Suy ra f(x)=2^x hoặc f(x)=2^(-x). Từ đồ thị, mỗi phương trình có nghiệm giao với đồ thị y=f(x), tổng cộng 7 nghiệm phân biệt.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Số đo ba kích thước của hình hộp chữ nhật lập thành một cấp số nhân. Biết thể tích của khối hộp là 125 cm³ và diện tích toàn phần là 175 cm². Tổng số đo ba kích thước của hình hộp chữ nhật đó là bao nhiêu (nhập đáp án vào ô trống, kết quả viết dưới dạng phân số)?",
+    "options": [],
+    "correct": null,
+    "answer": "35/2",
+    "explanation": "Gọi 3 kích thước u1,u2,u3 là cấp số nhân với công bội q. Giải hệ: u1q=5 và 2u1q(1+q+q²)=175/5... Tìm được các kích thước là 5/2, 5, 10. Tổng = 35/2.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Cho f(x) = mx² - 2(m-2)x + m-3. Có bao nhiêu giá trị nguyên của m để f(x)≤0 ∀x∈R",
+    "options": ["0", "1", "2", "3"],
+    "correct": 0,
+    "explanation": "Với m=0: f(x)=4x-3, không thỏa. Với m≠0: cần a<0 và Δ'≤0, giải ra m<0 và m≥4, vô nghiệm. Vậy không có giá trị m nào thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Một viên gạch hoa hình vuông cạnh 40 cm. Người thiết kế đã sử dụng bốn đường parabol có chung đỉnh tại tâm viên gạch để tạo ra bốn cánh hoa. Diện tích mỗi cánh hoa của viên gạch bằng S=a/b (cm²) với a,b∈ℕ; b≠0; a và b nguyên tố cùng nhau. Tính a+b?",
+    "options": ["800.", "803.", "403.", "250."],
+    "correct": 2,
+    "explanation": "Parabol y=-x²/20+20. Đường thẳng cắt cánh hoa y=-x+20. Diện tích 1 cánh hoa I=2∫₀²⁰(-x²/20+20+x-20)dx=400/3. a=400, b=3, a+b=403.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Cho hàm số f(x) là hàm bậc ba. Đồ thị y=f'(x) như hình dưới. Hàm số g(x)=f(x)-x nghịch biến trên khoảng (a;2). Tính a (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "0",
+    "explanation": "g'(x)=f'(x)-1=0 ⟺ f'(x)=1, có nghiệm x=0 và x=2. Bảng biến thiên cho thấy g(x) nghịch biến trên (0;2). Vậy a=0.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Một cái hồ chứa 600 lít nước ngọt. Người ta bơm nước biển có nồng độ muối 30 g/l vào hồ với tốc độ 15 (l/phút). Nồng độ muối trong hồ khi t dần về dương vô cùng (đơn vị g/l) là",
+    "options": ["28", "29", "30", "31"],
+    "correct": 2,
+    "explanation": "C(t)=30t/(40+t). Khi t→+∞, lim C(t) = 30 (g/l).",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Cho hàm số y=f(x). Đồ thị hàm số y=f'(x) như hình vẽ bên dưới. Biết rằng f(0)+f(1)-2f(2)=f(4)-f(3). Giá trị nào sau đây là giá trị nhỏ nhất của hàm số y=f(x) trên đoạn [0;4]?",
+    "options": ["f(1).", "f(0).", "f(3).", "f(4)."],
+    "correct": 3,
+    "explanation": "Từ bảng biến thiên, M=f(2) là max. f(2)>f(1) và f(2)>f(3). Từ giả thiết: f(0)-f(4)=f(2)-f(1)+f(2)-f(3)>0 ⟹ f(0)>f(4). Vậy m=f(4) là giá trị nhỏ nhất.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Trên mặt phẳng tọa độ Oxy, tiếp tuyến của đồ thị hàm số y=x³+3x²-6x+1 tại điểm có hoành độ bằng 1 và cắt hai trục tọa độ tại A, B. Tính diện tích tam giác OAB (nhập đáp án vào ô trống, kết quả nhập dưới dạng phân số)",
+    "options": [],
+    "correct": null,
+    "answer": "8/3",
+    "explanation": "y'=3x²+6x-6; y(1)=-1; y'(1)=3. Tiếp tuyến: y=3x-4. A(0;-4), B(4/3;0). OA=4, OB=4/3. S_OAB = (1/2).4.(4/3) = 8/3.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Cho hàm số f(x). Biết f(0)=4 và f'(x)=2cos²x+1, ∀x∈ℝ, khi đó ∫₀^(π/4) f(x)dx bằng bao nhiêu? (điền đáp án vào ô trống, kết quả làm tròn đến hàng đơn vị)",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "f(x)=(1/2)sin2x+2x+C. f(0)=4 ⟹ C=4. ∫₀^(π/4)f(x)dx = [-1/4cos2x+x²+4x] từ 0 đến π/4 = (π²+16π+4)/16 ≈ 4.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Trong hệ trục tọa độ Oxy, cho A(1;1), B(-1;3) và H(0;1). Biết C là điểm sao cho H là trực tâm. Tìm hoành độ điểm C (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "-1",
+    "explanation": "H là trực tâm ⟺ CH.AB=0 và AH.BC=0. Giải hệ: 2a+2(1-b)=0 và -(a+1)=0, ta được a=-1, b=0. Vậy C(-1;0).",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Cho hàm số y=f(x) có đạo hàm trên R. Đồ thị hàm số y=f'(x) như hình bên. Hỏi đồ thị hàm số y=f(x)-2x có bao nhiêu điểm cực trị?",
+    "options": ["3.", "2.", "1.", "4."],
+    "correct": 0,
+    "explanation": "y'=f'(x)-2=0 ⟺ f'(x)=2. Từ đồ thị, phương trình f'(x)=2 có 4 nghiệm nhưng tại x=2 không phải cực trị do f'(x) không đổi dấu qua đó. Vậy có 3 điểm cực trị.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Tính diện tích hình phẳng giới hạn bởi đồ thị của hai hàm số y=√(2x) và y=x²/2 (điền đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "4/3",
+    "explanation": "Giải phương trình hoành độ: x⁴-8x=0 ⟹ x=0 hoặc x=2. S=∫₀²|√(2x)-x²/2|dx = 4/3.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Một cửa hiệu nọ chuyên kinh doanh giày và dép. Dựa trên doanh số bán hàng trong một thời gian dài, xác suất để khách mua hàng tại cửa hiệu mua giày là 75%. Trong số những khách hàng mua giày, có 60% khách hàng cũng mua vớ và trong số những khách hàng mua dép, có 90% khách hàng không mua vớ. Một khách hàng đến cửa hiệu đó để mua hàng. Tính xác suất để khách hàng đó mua vớ.",
+    "options": ["41,5%.", "47,5%.", "56,5%.", "38,5%."],
+    "correct": 1,
+    "explanation": "P(B)=75%, P(B̅)=25%. P(A|B)=60%, P(A|B̅)=10%. P(A)=P(B)P(A|B)+P(B̅)P(A|B̅)=75%.60%+25%.10%=47,5%.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Cho hàm số f(x) thoả mãn ∫f(x)dx = e^(2x)+C. Khẳng định nào sau đây đúng?",
+    "options": ["f(x) = 2e^(2x).", "f(x) = (1/2)e^(2x).", "f(x) = 2e^x.", "f(x) = e^(2x)."],
+    "correct": 0,
+    "explanation": "∫f(x)dx = e^(2x)+C ⟹ f(x) = (e^(2x)+C)' = 2e^(2x).",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Một người quan sát đỉnh của một ngọn núi nhân tạo từ hai vị trí khác nhau của tòa nhà. Lần đầu tiên người đó quan sát đỉnh núi từ tầng trệt với phương nhìn tạo với phương nằm ngang 35° và lần thứ hai người này quan sát tại sân thượng của cùng tòa nhà đó với phương nằm ngang 15° (như hình vẽ). Tính chiều cao ngọn núi biết rằng tòa nhà cao 60(m).",
+    "options": ["169,65 m.", "97,193 m.", "179,65 m.", "99,65 m."],
+    "correct": 1,
+    "explanation": "Góc CBA=105°, góc BAC=55°, góc BCA=20°. Định lý sin: AC = AB.sin(CBA)/sin(BCA) = 60.sin105°/sin20° ≈169,45m. CD=AC.sin(CAD)≈97,193m.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Trong không gian tọa độ Oxyz, cho điểm A(2;1;1), mặt phẳng (P): x-z-1=0 và đường thẳng (d): x=1-t, y=2, z=-2+t. Gọi d1;d2 là các đường thẳng đi qua A, nằm trong (P) và đều có khoảng cách đến đường thẳng d bằng √6. Côsin của góc giữa d1 và d2 bằng",
+    "options": ["2/3.", "1/3.", "√3/3.", "√2/3."],
+    "correct": 1,
+    "explanation": "n_P=(1;0;-1), u_d=(-1;0;1) nên d⊥(P), giao điểm M(0;2;-1). MA=(2;-1;2), MA=3. sin(MAK)=sin(MAH)=HM/AM=√6/3. cos(d1;d2)=|1-2sin²(MAH)|=|1-4/3|=1/3.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Có bao nhiêu giá trị nguyên của k để tam thức y=x²-2(4k-1)x+15k²-2k-7 luôn dương trên R (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Cần a>0 và Δ'<0: 1>0 và (4k-1)²-15k²+2k+7<0 ⟺ k²-6k+8<0 ⟺ 2<k<4. Vì k∈ℤ nên k=3.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Trong không gian với hệ trục tọa độ vuông góc Oxyz, cho đường thẳng d: x/1 = (y+1)/2 = (z-2)/(-1) và mặt phẳng (P): x+y+z-3=0. Phương trình đường thẳng d' đối xứng với d qua (P) là",
+    "options": ["(x-1)/2=(y-1)/(-1)=(z-1)/1", "(x-1)/1=(y-1)/(-2)=(z-1)/7", "(x+1)/1=(y-1)/1=(z-1)/(-1)", "x/2=(y-1)/(-1)=z/1"],
+    "correct": 1,
+    "explanation": "B(0;-1;2) thuộc d. A là giao của d và (P): A(1;1;1). H là hình chiếu của B lên (P), H(2/3;-1/3;8/3), B'(4/3;1/3;10/3). Vecto AB'=(1/3;-2/3;7/3). Phương trình d': (x-1)/1=(y-1)/(-2)=(z-1)/7.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Một ô tô bắt đầu chuyển động nhanh dần đều với vận tốc v1(t)=7t (m/s). Đi được 5s, người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc a=-70(m/s²). Tính quãng đường S đi được của ô tô từ lúc bắt đầu chuyển bánh cho đến khi dừng hẳn (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "385/4",
+    "explanation": "v(5)=35(m/s). Sau khi phanh, v(t)=35-70(t-5). Ô tô dừng tại t=5,5s. S=∫₀⁵7t dt+∫₅^5,5[35-70(t-5)]dt=385/4 (m).",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Một chiếc máy bay chuyển động trên đường băng với vận tốc v(t)=t²+10t (m/s), với t là thời gian được tính theo đơn vị giây kể từ khi máy bay bắt đầu chuyển động. Biết khi máy bay đạt vận tốc 200(m/s) thì nó rời đường băng. Quãng đường máy bay đã di chuyển trên đường băng là:",
+    "options": ["2500/3 m.", "2000 m.", "500 m.", "4000/3 m."],
+    "correct": 0,
+    "explanation": "v(t)=200 ⟹ t²+10t-200=0 ⟹ t=10. s=∫₀¹⁰(t²+10t)dt = 2500/3 (m).",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Cho hình chóp S.ABCD có ABCD là hình bình hành. Gọi M là trung điểm SC; N là giao điểm của AM và (SBD). Tính tỉ số NM/NA.",
+    "options": ["2", "0,5", "1", "1,5"],
+    "correct": 1,
+    "explanation": "Gọi O là giao AC và BD. N là giao AM và SO. Trong tam giác SAC, SO và AM là hai trung tuyến cắt nhau tại trọng tâm N nên NM/NA=0,5.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Tiệm cận xiên của đồ thị hàm số: y = x³/(x²-1) là?",
+    "options": ["y=2x", "y=2x+1", "y=x", "y=-x"],
+    "correct": 2,
+    "explanation": "a = lim f(x)/x = lim x³/[x(x²-1)] = 1. b = lim[f(x)-x] = 0. Vậy tiệm cận xiên: y=x.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Cho hàm số y=f(x) có bảng biến thiên như sau. Số giá trị nguyên của tham số m để phương trình 3f(x²-4x)=m+5 có ít nhất 5 nghiệm thực phân biệt thuộc khoảng (0;+∞) là:",
+    "options": ["12", "14", "11", "13"],
+    "correct": 1,
+    "explanation": "Đặt t=x²-4x, x∈(0;+∞). f(t)=(m+5)/3. Từ BBT, cần 2 nghiệm t∈(-4;0) và 1 nghiệm t∈[0;+∞)∪{-4}. Giải ra -11<m≤0 và -14≤m≠-11 ⟹ m∈[-14;0]\\{-11}. Có 14 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Một quả bóng golf kể từ lúc được đánh đến lúc chạm đất đã di chuyển được một khoảng cách d(m) theo phương nằm ngang. Biết rằng d = v0²sin2α/g trong đó v0(m/s) là vận tốc ban đầu của quả bóng, g(m/s²) là gia tốc trọng trường và α là góc đánh quả bóng so với phương nằm ngang. Khoảng cách d là bao nhiêu centimet, biết rằng v0=15(m/s); g=10(m/s²) và cosα=3/5 với (0≤α≤45°) (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "108/5",
+    "explanation": "sin²α=1-cos²α=16/25 ⟹ sinα=4/5. sin2α=2.(3/5)(4/5)=24/25. d=v0²sin2α/g=15².(24/25)/10=108/5.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Trong không gian Oxyz, cho mặt cầu (S): x²+(y-1)²+z²=2. Trong các điểm cho dưới đây, điểm nào nằm ngoài mặt cầu (S)?",
+    "options": ["M(1;1;1)", "N(0;1;0)", "P(1;0;1)", "Q(1;1;0)"],
+    "correct": 2,
+    "explanation": "(S) có tâm I(0;1;0), R=√2. MI=√2=R; NI=0<R; PI=√3>R; QI=1<R. Vậy điểm P nằm ngoài mặt cầu.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Cho hai điểm P(1;6), Q(-3;-4) và đường thẳng Δ:2x-y-1=0. Gọi M∈Δ là điểm sao cho MP+MQ đạt giá trị nhỏ nhất. Tìm tung độ của điểm M (nhập đáp án vào ô trống).",
+    "options": [],
+    "correct": null,
+    "answer": "-1",
+    "explanation": "Gọi P' đối xứng P qua Δ. Tìm P'(5;4). Đường thẳng QP': x-y-1=0. Giao với Δ: giải hệ x-y-1=0 và 2x-y-1=0, được M(0;-1).",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Bạn Nam chơi trò xếp tháp bằng các que diêm theo quy tắc thể hiện như hình vẽ. Bạn Nam có 212 que diêm thì có thể xếp được tháp cao nhất bao nhiêu tầng (nhập đáp án vào ô trống?",
+    "options": [],
+    "correct": null,
+    "answer": "10",
+    "explanation": "un = 3+4(2+3+...+n)-1(n-1) = 4-n+4.(2+n)(n-1)/2 = 212 ⟹ n≈10,05. Với 212 que diêm, xếp được tối đa 10 tầng.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2z-3=0 và điểm A(2;2;2). Biết rằng từ A có thể kẻ được các tiếp tuyến đến mặt cầu (S), đồng thời các tiếp điểm luôn thuộc mặt phẳng (α) có phương trình ax+by+cz-5=0. Mặt phẳng (α) đi qua điểm nào dưới đây?",
+    "options": ["M(1;-2;0).", "N(0;2;-1).", "P(2;2;-1).", "Q(1;1;1)."],
+    "correct": 3,
+    "explanation": "(S) có tâm I(0;0;1), R=2. IA=3. Mặt phẳng (α) vuông góc với AI, nhận IA=(2;2;1) làm vtpt. Tìm H(8/9;8/9;13/9) là chân đường cao. Phương trình (α): 2x+2y+z-5=0. Kiểm tra Q(1;1;1) thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Cho hình chóp tam giác đều S.ABC có cạnh đáy bằng 3a, cạnh bên bằng 2a. Gọi G là trọng tâm của tam giác ABC, M là trung điểm của SC. Khoảng cách từ M đến mặt phẳng (SAG).",
+    "options": ["3a/2", "3a/4", "a/4", "a/2"],
+    "correct": 1,
+    "explanation": "d(M,(SAG))=(1/2)d(C,(SAG)). Gọi I trung điểm BC, CB⊥(SAG). d(C,(SAG))=CI=(1/2)BC=3a/2. Vậy d(M,(SAG))=3a/4.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Thời gian truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau: Thời gian (phút): [9,5;12,5), [12,5;15,5), [15,5;18,5), [18,5;21,5), [21,5;24,5). Số học sinh: 3, 12, 15, 24, 2. Tứ phân vị thứ nhất của mẫu số liệu ghép nhóm này là:",
+    "options": ["15,25", "12,25", "10,25", "11,25"],
+    "correct": 0,
+    "explanation": "n=56. Q1 thuộc nhóm [12,5;15,5). p=2, a2=12,5, m2=12, m1=3, a3-a2=3. Q1=12,5+(56/4-3)/12.3=15,25.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Cho hàm số y=f(x) liên tục trên R và có đạo hàm f'(x)=(x+1)^2024(x-1)^2025(2-x). Hỏi hàm số y=f(x) đồng biến trên khoảng nào dưới đây?",
+    "options": ["(-1;2).", "(2;+∞).", "(1;2).", "(-1;+∞)."],
+    "correct": 2,
+    "explanation": "f'(x)=0 tại x=-1,1,2. Bảng biến thiên: hàm số đồng biến trên (1;2).",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Cho ∫[π/6,π/4](2tanx+cotx)²dx = a+b√3+cπ (*). Biết rằng, tồn tại duy nhất bộ ba số hữu tỉ a,b,c thỏa mãn (*). Tổng a+3b+12c có giá trị bằng bao nhiêu (nhập đáp án vào ô trống)?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "∫(2tanx+cotx)²dx=∫(4/cos²x+1/sin²x-1)dx=(4tanx-cotx-x). Tính từ π/6 đến π/4 = 3-(1/3)√3-(1/12)π. Vậy a=3,b=-1/3,c=-1/12. a+3b+12c=3-1-1=1.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một hộp bút bi Thiên Long có 15 chiếc bút trong đó có 9 chiếc bút mới. Người ta lấy ngẫu nhiên 1 chiếc bút để sử dụng sau đó trả lại vào hộp. Lần thứ hai lấy ngẫu nhiên 2 chiếc bút, tính xác suất cả hai chiếc bút lấy ra đều là chiếc mới.",
+    "options": ["52/175.", "52/177.", "53/175.", "25/175."],
+    "correct": 0,
+    "explanation": "P(B0)=2/5, P(B1)=3/5. P(A|B0)=C(9,2)/C(15,2)=12/35, P(A|B1)=C(8,2)/C(15,2)=4/15. P(A)=12/35.2/5+4/15.3/5=52/175.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Trong một đợt kiểm tra sức khoẻ, có một loại bệnh X mà tỉ lệ người mắc bệnh là 0,2% và một loại xét nghiệm Y mà ai mắc bệnh X khi xét nghiệm Y cũng có phản ứng dương tính. Tuy nhiên, có 6% những người không bị bệnh X lại có phản ứng dương tính với xét nghiệm Y. Chọn ngẫu nhiên 1 người trong đợt kiểm tra sức khoẻ đó. Giả sử người đó có phản ứng dương tính với xét nghiệm Y. Xác suất người đó bị mắc bệnh X là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?",
+    "options": ["0,3.", "0,03.", "0,04.", "0,4."],
+    "correct": 1,
+    "explanation": "P(A)=0,002, P(A̅)=0,998. P(B|A)=1, P(B|A̅)=0,06. P(A|B)=0,002.1/(0,002.1+0,998.0,06)≈0,03.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Trong mặt phẳng tọa độ Oxy, đường tròn (C) đi qua 3 điểm M(2;-2), N(3;-1), P(-1;-3) có bán kính bằng bao nhiêu (nhập đáp án vào ô trống)",
+    "options": [],
+    "correct": null,
+    "answer": "5",
+    "explanation": "Giải hệ phương trình đường tròn từ 3 điểm: a=2, b=-4, c=-20. Tâm I(-1;2), bán kính R=IM=√(3²+4²)=5.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Tỉ lệ tăng trưởng của vi khuẩn X gần nhất với kết quả nào sau đây?",
+    "options": ["0,35", "0,36", "0,37", "0,38"],
+    "correct": 2,
+    "explanation": "Chọn 6 giờ là mốc, A=150. Sau 3 giờ, S(3)=450. 150e^(3r)=450 ⟹ e^(3r)=3 ⟹ r=ln3/3≈0,37.",
+    "passage": "cau48-50"
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Thời điểm số lượng vi khuẩn X gấp 9 lần số lượng vi khuẩn ban đầu là:",
+    "options": ["3 giờ", "9 giờ", "12 giờ", "15 giờ"],
+    "correct": 2,
+    "explanation": "S(t1)=1350. 150.e^(ln3/3.t1)=1350 ⟹ e^(ln3/3.t1)=9 ⟹ t1=6. Vậy 6 giờ sau mốc 6h là 12 giờ.",
+    "passage": "cau48-50"
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Cùng thời điểm lúc 6 giờ, người ta đo được số lượng vi khuẩn Y là 300 con. Biết rằng số lượng vi khuẩn Y tăng 5% mỗi giờ. Hỏi vào lúc mấy giờ, số lượng vi khuẩn X bằng số lượng vi khuẩn Y",
+    "options": ["7 giờ", "8 giờ", "9 giờ", "10 giờ"],
+    "correct": 1,
+    "explanation": "S_X=150e^(ln3/3.x), S_Y=300(1+5%)^x. Giải phương trình 150e^(ln3/3.x)=300(1+5%)^x ⟹ x≈2,18 giờ. Vậy vào lúc khoảng 8 giờ 11 phút (gần nhất 8 giờ).",
+    "passage": "cau48-50"
+  }
+]

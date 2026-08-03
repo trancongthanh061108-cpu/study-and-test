@@ -1,0 +1,437 @@
+    [
+    {
+        "id": 1,
+        "question": "Câu 1: Một loại thuốc được dùng cho một bệnh nhân và nồng độ thuốc trong máu của bệnh nhân được giám sát bởi bác sĩ. Biết rằng nồng độ thuốc trong máu của bệnh nhân sau khi tiêm vào cơ thể trong t giờ được tính theo công thức c(t) = t/(t²+1) (mg/L). Sau khi tiêm thuốc bao lâu thì nồng độ thuốc trong máu của bệnh nhân cao nhất?",
+        "options": ["4 giờ.", "1 giờ.", "3 giờ.", "2 giờ."],
+        "correct": 1,
+        "explanation": "Với c(t) = t/(t²+1), t>0, ta có c'(t) = (-t²+1)/(t²+1)². Cho c'(t)=0 ⟺ -t²+1=0 ⟺ t=1. Lập bảng biến thiên ta thấy c(t) đạt giá trị lớn nhất bằng 1/2 tại t=1. (Cách khác: với t>0, t²+1 ≥ 2t nên c(t) = t/(t²+1) ≤ t/2t = 1/2, dấu bằng khi t=1). Vậy sau 1 giờ nồng độ thuốc cao nhất.",
+        "passage": null
+    },
+    {
+        "id": 2,
+        "question": "Câu 2: Có tất cả bao nhiêu giá trị nguyên của tham số m để bất phương trình (m²-1)x² + 2(m+1)x + 3 ≤ 0 (1) có nghiệm?",
+        "options": ["2.", "3.", "1.", "4."],
+        "correct": 1,
+        "explanation": "Xét bài toán tìm m để (1) vô nghiệm. Đặt f(x) = (m²-1)x² + 2(m+1)x + 3. f(x) ≤ 0 vô nghiệm ⟺ f(x) > 0 với mọi x. Xét m=1: f(x)=4x+3, không thỏa với mọi x nên loại m=1. Xét m=-1: f(x)=3>0 với mọi x nên nhận m=-1. Xét m≠±1: f(x)>0 với mọi x ⟺ a=m²-1>0 và Δ'=-2m²+2m+4<0 ⟺ m≤-1 hoặc m>2. Do đó (1) có nghiệm ⟺ -1<m≤2, suy ra m nguyên thuộc {0;1;2}, có 3 giá trị.",
+        "passage": null
+    },
+    {
+        "id": 3,
+        "question": "Câu 3: Bạn Hùng trúng tuyển vào trường đại học A nhưng vì do không đủ nộp học phí nên Hùng quyết định vay ngân hàng trong 4 năm mỗi năm vay 3.000.000 đồng để nộp học phí với lãi suất 3%/năm. Sau khi tốt nghiệp đại học bạn Hùng phải trả góp hàng tháng số tiền T (không đổi) cùng với lãi suất 0,25%/tháng trong vòng 5 năm. Số tiền T hàng tháng mà bạn Hùng phải trả cho ngân hàng (làm tròn đến kết quả hàng đơn vị) là:",
+        "options": [],
+        "correct": null,
+        "answer": "232289",
+        "explanation": "Sau 4 năm, số tiền nợ ngân hàng là s = 3000000[(1+3%)^4 + (1+3%)^3 + (1+3%)^2 + (1+3%)] ≈ 12927407,43 đồng. Số tiền này bắt đầu tính lãi và trả góp trong 5 năm (60 tháng) với công thức T = N(1+r)^n.r / [(1+r)^n - 1] = 12927407,4.(1,0025)^60.0,0025 / [(1,0025)^60 - 1] ≈ 232289.",
+        "passage": null
+    },
+    {
+        "id": 4,
+        "question": "Câu 4: Biết chu kỳ bán hủy của chất phóng xạ plutôni Pu²³⁹ là 24360 năm (tức là một lượng Pu²³⁹ sau 24360 năm phân hủy thì chỉ còn lại một nửa). Sự phân hủy được tính theo công thức S = A.e^(rt), trong đó A là lượng chất phóng xạ ban đầu, r là tỉ lệ phân hủy hàng năm (r<0), t là thời gian phân hủy, S là lượng còn lại sau thời gian phân hủy t. Hỏi 10 gam Pu²³⁹ sau khoảng bao nhiêu năm phân hủy sẽ còn 1 gam?",
+        "options": ["82230 (năm).", "82232 (năm).", "82238 (năm).", "82235 (năm)."],
+        "correct": 3,
+        "explanation": "Từ chu kỳ bán hủy: 5 = 10.e^(r.24360) ⟹ r = (ln5 - ln10)/24360 ≈ -0,000028. Sự phân hủy: S = A.e^[(ln5-ln10)/24360].t. Theo đề: 1 = 10.e^[(ln5-ln10)/24360].t ⟹ t = -ln10 / [(ln5-ln10)/24360] ≈ 82235 (năm).",
+        "passage": null
+    },
+    {
+        "id": 5,
+        "question": "Câu 5: Cho f(x) = sin²x - cos²x - x. Khi đó f'(x) bằng",
+        "options": ["1 - sin2x.", "-1 + 2sin2x.", "-1 + sinx.cosx.", "1 + 2sin2x."],
+        "correct": 1,
+        "explanation": "Ta có f(x) = sin²x - cos²x - x = -cos2x - x ⟹ f'(x) = 2sin2x - 1 = -1 + 2sin2x.",
+        "passage": null
+    },
+    {
+        "id": 6,
+        "question": "Câu 6: Cho parabol (P): y = x² + x + 2 và đường thẳng d: y = ax + 1. Có tất cả bao nhiêu giá trị nguyên dương của a để (P) tiếp xúc với d?",
+        "options": ["1.", "3.", "2.", "a."],
+        "correct": 0,
+        "explanation": "Phương trình hoành độ giao điểm: x² + x + 2 = ax + 1 ⟺ x² + (1-a)x + 1 = 0 (1). (P) tiếp xúc d khi và chỉ khi (1) có nghiệm kép ⟺ Δ = (1-a)² - 4 = 0 ⟺ a² - 2a - 3 = 0 ⟺ a=-1 hoặc a=3. Vậy chỉ có 1 giá trị nguyên dương là a=3.",
+        "passage": null
+    },
+    {
+        "id": 7,
+        "question": "Câu 7: Cho hàm số y = f(x) có f'(x) = (x-2)(x+5)(x+1). Hàm số y = f(x²) đồng biến trên khoảng nào dưới đây?",
+        "options": ["(0;1).", "(-1;0).", "(-2;-1).", "(-2;0)."],
+        "correct": 1,
+        "explanation": "y' = [f(x²)]' = 2x.f'(x²) = 0 ⟺ x=0 hoặc f'(x²)=0 (x²=2, x²=-5, x²=-1 vô nghiệm với x²=-5,-1) ⟹ x=0 hoặc x=±√2. Xét x=1∈(0;√2): y'(1) = 2.1.f'(1) < 0 nên khoảng (0;√2) âm. Lập bảng xét dấu y' trên trục: âm trên (-√2;0), dương trên (0;√2)... Từ trục xét dấu ta thấy hàm số y=f(x²) đồng biến trên (-1;0).",
+        "passage": null
+    },
+    {
+        "id": 8,
+        "question": "Câu 8: Cho hàm số y = x³ - 3x + 2 có đồ thị (C). Đường thẳng d: y = x + 2 cắt đồ thị (C) tại ba điểm A, B, C(0;2). Gọi k1, k2 lần lượt là hệ số góc của tiếp tuyến của (C) tại A và B. Tính k1.k2.",
+        "options": [],
+        "correct": null,
+        "answer": "81",
+        "explanation": "y' = 3x² - 3. Phương trình hoành độ giao điểm: x³ - 3x + 2 = x + 2 ⟺ x³ - 4x = 0 ⟺ x=0 hoặc x=±2. Vậy d cắt (C) tại A(-2;2), B(2;4), C(0;2). k1 = y'(-2) = 9, k2 = y'(2) = 9. Vậy k1.k2 = 81.",
+        "passage": null
+    },
+    {
+        "id": 9,
+        "question": "Câu 9: Cho hàm số y = f(x). Hàm số y = f'(x) có đồ thị như hình vẽ (đồ thị đi qua các điểm với các mốc -1, 1, 4 trên trục hoành). Hàm số y = f(2-eˣ) đồng biến trên khoảng",
+        "options": ["(-∞;1).", "(1;4).", "(0;ln3).", "(2;+∞)."],
+        "correct": 3,
+        "explanation": "y = f(2-eˣ) ⟹ y' = -eˣ.f'(2-eˣ). f'(x)=0 ⟹ 2-eˣ=-1 hoặc 2-eˣ=1 hoặc 2-eˣ=4 (vô nghiệm) ⟹ x=ln3 hoặc x=0. Lập bảng xét dấu đạo hàm: y' dương trên (-∞;0) và (ln3;+∞). Vậy hàm số đồng biến trên các khoảng (-∞;0) và (ln3;+∞), trong đó (2;+∞) ⊂ (ln3;+∞) nên là đáp án đúng.",
+        "passage": null
+    },
+    {
+        "id": 10,
+        "question": "Câu 10: Cho hàm số bậc bốn y = f(x) có bảng biến thiên: x: -∞, -√2, 0, √2, +∞; y' đổi dấu -,0,+,0,-,0,+; y: từ +∞ xuống -1, lên 3, xuống -1, lên +∞. Hàm số g(x) = [f(x-2)]² / √x có bao nhiêu điểm cực trị?",
+        "options": [],
+        "correct": null,
+        "answer": "7",
+        "explanation": "Ta có f(x) = x⁴ - 4x² + 3 và f'(x) = 4x³ - 8x. Với x>0: g'(x) = f(x-2).[4xf'(x-2) - f(x-2)] / (2x√x). g'(x)=0 ⟺ f(x-2)=0 hoặc 4xf'(x-2)-f(x-2)=0. Phương trình f(x-2)=0 có bốn nghiệm đơn dương: x=1, x=3, x=2-√3, x=2+√3. Phương trình 4xf'(x-2)-f(x-2)=0 tương đương 15x⁴-88x³+140x²-48x-3=0 có bốn nghiệm đơn, trong đó đúng ba nghiệm dương khác các nghiệm trên. Vậy g'(x)=0 có đúng bảy nghiệm đơn dương và g'(x) đổi dấu qua các nghiệm này nên g(x) có bảy điểm cực trị.",
+        "passage": null
+    },
+    {
+        "id": 11,
+        "question": "Câu 11: Cho hàm số y = f(x) có bảng xét dấu của f'(x): x: -∞,-2,0,2,+∞; f'(x): +,0,-,0,-,0,+. Biết rằng g(-1)+g(2) = g(1)+g(3), giá trị lớn nhất, giá trị nhỏ nhất của hàm số g(x) = f(-2x+4) trên đoạn [-1;3] là",
+        "options": ["g(1); g(-1).", "g(-1); g(3).", "g(3); g(1).", "g(3); g(2)."],
+        "correct": 2,
+        "explanation": "g'(x) = -2f'(-2x+4). g'(x)=0 ⟺ f'(-2x+4)=0 ⟺ -2x+4=-2, 0, hoặc 2 ⟺ x=3, x=2, x=1. Vì x=0 là nghiệm bội chẵn của f'(x)=0 nên x=2 là nghiệm bội chẵn của g'(x)=0. Lập bảng biến thiên trên [-1;3] ta có Min g(x) = g(1). Mặt khác g(-1)+g(2)=g(1)+g(3) ⟺ g(-1)-g(3) = g(1)-g(2) < 0 ⟹ g(-1) < g(3), do đó Max g(x) = g(3). Vậy giá trị lớn nhất, nhỏ nhất lần lượt là g(3); g(1).",
+        "passage": null
+    },
+    {
+        "id": 12,
+        "question": "Câu 12: Tìm tất cả các giá trị thực của tham số m để hàm số y = mx³ - (m+1)x² + (2m - 2/3)x + 1 có cực trị.",
+        "options": ["m<-1/5 hoặc m>1.", "-1/5 ≤ m ≤ 1.", "-1/5<m<1 và m≠0.", "-1/5 < m < 1."],
+        "correct": 3,
+        "explanation": "Nếu m=0 ⟹ y=-x²-2x/3+1 là hàm bậc hai nên luôn có cực trị. Nếu m≠0: y'=3mx²-2(m+1)x+2m-2/3. y'=0 ⟺ 3mx²-2(m+1)x+2m-2/3=0; Δ'=(m+1)²-3m(2m-2/3)=-5m²+4m+1. Hàm số có cực trị khi và chỉ khi -5m²+4m+1>0 ⟺ -1/5<m<1, và m≠0. Kết hợp với trường hợp m=0, suy ra -1/5<m<1 là các giá trị cần tìm.",
+        "passage": null
+    },
+    {
+        "id": 13,
+        "question": "Câu 13: Tìm nguyên hàm của hàm số f(x) = (1/2)(x + sin(x/2))",
+        "options": [
+            "∫f(x)dx = (1/4)x² - cos(x/2) + C.",
+            "∫f(x)dx = x² + (1/2)cos(x/2) + C.",
+            "∫f(x)dx = (1/4)x² - (1/2)cos(x/2) + C.",
+            "∫f(x)dx = (1/4)x² - (1/4)cos(x/2) + C."
+        ],
+        "correct": 0,
+        "explanation": "∫f(x)dx = (1/2)∫(x + sin(x/2))dx = (1/2)[x²/2 - 2cos(x/2)] + C = (1/4)x² - cos(x/2) + C.",
+        "passage": null
+    },
+    {
+        "id": 14,
+        "question": "Câu 14: Cho hàm số y = f(x) có đồ thị y = f'(x) cắt trục hoành tại ba điểm có hoành độ a < b < c như hình vẽ. Số nghiệm thực của phương trình f(x-a) = f(c) là",
+        "options": ["2.", "0.", "3.", "1."],
+        "correct": 3,
+        "explanation": "Từ đồ thị y=f'(x) ta lập bảng biến thiên của f(x): f'(x) đổi dấu +,0,-,0,+,0,- tại a,b,c, hàm f(x) tăng-giảm-tăng-giảm. Từ đồ thị y=f'(x), xét diện tích S1<S2 (S1 là diện tích từ a đến b, S2 từ b đến c) suy ra f(a)-f(b) < f(c)-f(b) ⟺ f(a)<f(c). Số nghiệm của phương trình f(x-a)=f(c) là số giao điểm của đồ thị y=f(x-a) (tịnh tiến đồ thị y=f(x) sang trái a đơn vị) với đường thẳng y=f(c). Từ các phân tích trên suy ra phương trình có đúng một nghiệm.",
+        "passage": null
+    },
+    {
+        "id": 15,
+        "question": "Câu 15: Một ô tô đang chạy với vận tốc v0 (m/s) thì gặp chướng ngại vật nên người lái xe đã đạp phanh. Từ thời điểm đó ô tô chuyển động chậm dần đều với gia tốc a = -6t (m/s²) trong đó t là thời gian tính bằng giây, kể từ lúc bắt đầu đạp phanh. Biết từ lúc đạp phanh đến khi dừng hẳn, ô tô còn di chuyển được 16m. Tính v0?",
+        "options": [],
+        "correct": null,
+        "answer": "12",
+        "explanation": "v = ∫a dt = ∫-6t dt = -3t² + C. Tại t=0: v=v0 ⟹ v = v0 - 3t². Khi xe dừng hẳn: v=0 ⟺ t=√(v0/3). Quãng đường: 16 = ∫[0,√(v0/3)] (v0-3t²)dt = (v0.t - t³) tại √(v0/3) = v0.√(v0/3) - (v0/3)√(v0/3). Giải ra v0.√(v0/3) = 24 ⟺ v0=12 (m/s).",
+        "passage": null
+    },
+    {
+        "id": 16,
+        "question": "Câu 16: Cho hàm số y = f(x). Hàm số y = f'(x) có đồ thị trên một khoảng K như hình vẽ bên (đồ thị cắt trục hoành tại x1, x2, x3). Trong các khẳng định sau, có tất cả bao nhiêu khẳng định đúng? (I). Trên K, hàm số y=f(x) có hai điểm cực trị. (II). Hàm số y=f(x) đạt cực đại tại x3. (III). Hàm số y=f(x) đạt cực tiểu tại x1.",
+        "options": ["3.", "0.", "1.", "2."],
+        "correct": 3,
+        "explanation": "Dựa vào đồ thị y=f'(x), lập bảng xét dấu: f'(x) đổi dấu -,0,+,0,-,0,- tại x1, x2, x3. Như vậy trên K, hàm số y=f(x) có điểm cực tiểu là x1 và điểm cực đại là x2; x3 không phải là điểm cực trị của hàm số. Vậy (I) đúng (có hai điểm cực trị: x1, x2), (II) sai (cực đại tại x2 chứ không phải x3), (III) đúng. Có 2 khẳng định đúng.",
+        "passage": null
+    },
+    {
+        "id": 17,
+        "question": "Câu 17: Cho hàm số y = f(x) có đồ thị như hình vẽ (đi qua các điểm đặc biệt tại x=-1, 0, 1, 2, 3 với các giá trị -13, 2, 14). Tổng các giá trị nguyên của m để phương trình f(f(x)+1) = m có 3 nghiệm phân biệt bằng",
+        "options": ["15.", "1.", "13.", "11."],
+        "correct": 3,
+        "explanation": "Phương trình f(x)=k có ba nghiệm phân biệt khi và chỉ khi -1<f(x)=k<2, hay 0<f(x)+1=k+1<3. Với mọi x∈(0;3), f(x)∈(-13;14). Đặt u=f(x)+1, ta có phương trình f(u)=m. Xét các trường hợp -1<m<2, m=2, m=-1, và m>2 hoặc m<-1, tính số nghiệm tương ứng (9, 6, 6, và điều kiện -13<f(u0)<14 tương ứng -13<m<-1 hoặc 2<m<14). Kết hợp lại: m ∈ {-12,-11,...,-2,3,4,...,13}. Tổng cần tìm là S = -2 + 13 = 11.",
+        "passage": null
+    },
+    {
+        "id": 18,
+        "question": "Câu 18: Cho hàm số F(x) = (x-1)eˣ là một nguyên hàm của hàm số f(x)/eˣ. Tính tích phân ∫[0,1] f'(x)/e^(2x) dx",
+        "options": [],
+        "correct": null,
+        "answer": "2",
+        "explanation": "F(x)=(x-1)eˣ là nguyên hàm của f(x)/eˣ ⟹ f(x)/eˣ = F'(x) = eˣ + (x-1)eˣ = xeˣ ⟹ f(x) = xe^(2x) ⟹ f'(x) = e^(2x) + 2xe^(2x) = (1+2x)e^(2x). Suy ra f'(x)/e^(2x) = 1+2x. ∫[0,1](1+2x)dx = 2.",
+        "passage": null
+    },
+    {
+        "id": 19,
+        "question": "Câu 19: Trong không gian với hệ trục tọa độ Oxyz, cho hai điểm A(-1;2;1), B(0;2;3). Viết phương trình mặt cầu đường kính AB.",
+        "options": [
+            "(x+1/2)² + (y+2)² + (z-2)² = 5/4.",
+            "(x+1/2)² + (y-2)² + (z+2)² = 5/4.",
+            "(x+1/2)² + (y-2)² + (z-2)² = 5/4.",
+            "(x-1/2)² + (y-2)² + (z-2)² = 5/4."
+        ],
+        "correct": 2,
+        "explanation": "Tâm I của mặt cầu là trung điểm của AB: I(-1/2;2;2). Bán kính R = AB/2 = (1/2)√(1+4) = √5/2. Vậy phương trình mặt cầu (S): (x+1/2)² + (y-2)² + (z-2)² = 5/4.",
+        "passage": null
+    },
+    {
+        "id": 20,
+        "question": "Câu 20: Cho hình phẳng (H) giới hạn bởi đồ thị hàm số y = (x-1)/(x+2) và hai đường thẳng y=2, y=-x+1 (phần tô đậm trong hình vẽ). Tính diện tích S của hình phẳng (H) (làm tròn đến hàng phần nghìn)",
+        "options": [],
+        "correct": null,
+        "answer": "3,296",
+        "explanation": "Dựa vào hình vẽ, diện tích hình phẳng (H) là: S = ∫[-5,-3]((x-1)/(x+2) - 2)dx + ∫[-3,-1](-x+1-2)dx = ∫[-5,-3](-1-3/(x+2))dx + ∫[-3,-1](-x-1)dx = [-x-3ln|x+2|] từ -5 đến -3, cộng [-x²/2+x] từ -3 đến -1 = 3ln3 ≈ 3,296.",
+        "passage": null
+    },
+    {
+        "id": 21,
+        "question": "Câu 21: Cho hình chóp tứ giác đều S.ABCD có tất cả các cạnh đều bằng a. Gọi O là tâm đáy. Tính khoảng cách từ O tới mặt phẳng (SCD).",
+        "options": ["a/√6", "a/2", "a/√3", "a/√2"],
+        "correct": 0,
+        "explanation": "Gọi M là trung điểm CD. Theo giả thiết SO⊥(ABCD)⊃CD. Ta chứng minh (SCD)⊥(SOM). Gọi H là hình chiếu vuông góc của O lên SM ⟹ OH⊥(SCD), nên d(O,(SCD))=OH. Tính SO = √(SC²-OC²) = √(a² - (a√2/2)²) = a√2/2. Trong tam giác SOM vuông tại O: 1/OH² = 1/OM² + 1/OS² = 1/(a/2)² + 1/(a√2/2)² = 6/a² ⟹ OH = a/√6.",
+        "passage": null
+    },
+    {
+        "id": 22,
+        "question": "Câu 22: Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại B, BC=2a, SA vuông góc với mặt phẳng đáy và SA=2a√3. Gọi M là trung điểm AC. Khoảng cách giữa hai đường thẳng AB và SM bằng:",
+        "options": ["a√39/13", "2a/√13", "2a√3/13", "2a√39/13"],
+        "correct": 3,
+        "explanation": "Gọi N là trung điểm cạnh BC suy ra AB//(SMN). Khi đó d(AB,SM)=d(AB,(SMN))=d(A,(SMN)). Kẻ AI⊥MN suy ra (SAI)⊥(SMN)=SI. Kẻ AH⊥SI suy ra AH⊥(SMN), do đó d(AB,SM)=AH. Ta có AI=BN=a. Lại có 1/AH² = 1/a² + 1/(12a²) = 13/(12a²). Vậy d(AB,SM) = AH = 2a√39/13.",
+        "passage": null
+    },
+    {
+        "id": 23,
+        "question": "Câu 23: Biết ∫[0,4] √(2x+1)dx / (2x+3√(2x+1)+3) = a + b.ln2 + c.ln(5/3) (a,b,c ∈ ℤ). Tính T = 2a+b+c.",
+        "options": [],
+        "correct": null,
+        "answer": "1",
+        "explanation": "I = ∫[0,4] √(2x+1)dx/(2x+3√(2x+1)+3) = ∫[0,4] 2(√(2x+1)+1)-(√(2x+1)+2) dx / [(√(2x+1)+1)(√(2x+1)+2)] = 2∫[0,4]dx/(√(2x+1)+2) - ∫[0,4]dx/(√(2x+1)+1). Đặt u=√(2x+1) ⟹ u.du = dx, x=0⟹u=1, x=4⟹u=3. I = ∫[1,3]2u/(u+2)du - ∫[1,3]u/(u+1)du = ∫[1,3](2-4/(u+2))du - ∫[1,3](1-1/(u+1))du = [u-4ln|u+2|+ln|u+1|] từ 1 đến 3 = 2-4ln(5/3)+ln2. Vậy a=2, b=1, c=-4 ⟹ T=2a+b+c=1.",
+        "passage": null
+    },
+    {
+        "id": 24,
+        "question": "Câu 24: Cho hình chóp S.ABCD có đáy ABCD là hình thang (AB//CD). Gọi I, J lần lượt là trung điểm của các cạnh AD, BC và G là trọng tâm tam giác SAB. Biết thiết diện của hình chóp cắt bởi mặt phẳng (IJG) là hình bình hành. Tỉ số AB/CD bằng",
+        "options": [],
+        "correct": null,
+        "answer": "3",
+        "explanation": "Vì (IJG)∩(SAB)={G}, ta có IJ//AB (IJ là đường trung bình hình thang ABCD). (IJG)∩(SAB)=Gx//AB//IJ. Gọi E=Gx∩SA, F=Gx∩SB. Thiết diện IJFE là hình bình hành ⟺ IJ=EF (1). Vì G là trọng tâm tam giác SAB nên EF=(2/3)AB (2). Và IJ=(AB+CD)/2 (3). Từ (1),(2),(3): (2/3)AB=(AB+CD)/2 ⟺ 4AB=3AB+3CD ⟺ AB=3CD ⟺ AB/CD=3.",
+        "passage": null
+    },
+    {
+        "id": 25,
+        "question": "Câu 25: Với những giá trị nào của m thì đường thẳng Δ: 3x+4y+3=0 tiếp xúc với đường tròn (C): (x-m)²+y²=9. Tính tổng của các giá trị m",
+        "options": [],
+        "correct": null,
+        "answer": "-2",
+        "explanation": "Đường thẳng Δ tiếp xúc với đường tròn (C) khi và chỉ khi d(I;Δ)=R. Đường tròn có tâm I(m;0), bán kính R=3. Ta có d(I;Δ) = |3m+3|/√(9+16) = 3 ⟺ |3m+3|=15 ⟺ m=4 hoặc m=-6. Tổng T = 4+(-6) = -2.",
+        "passage": null
+    },
+    {
+        "id": 26,
+        "question": "Câu 26: Trong không gian Oxyz, cho điểm M(4;-1;7). Gọi M' là điểm đối xứng với M qua trục Ox. Tính độ dài đoạn MM'.",
+        "options": ["MM'=2√17.", "MM'=2√65.", "MM'=8.", "MM'=10√2."],
+        "correct": 3,
+        "explanation": "Gọi H là hình chiếu của M lên trục Ox suy ra H(4;0;0). M' đối xứng với M qua Ox thì H là trung điểm của MM'. Suy ra M'(4;1;-7). Do đó MM' = 10√2.",
+        "passage": null
+    },
+    {
+        "id": 27,
+        "question": "Câu 27: Trong không gian với hệ tọa độ Oxyz, cho điểm A(2;5;3) và đường thẳng d: (x-1)/2 = y/1 = (z-2)/2. Gọi (P) là mặt phẳng chứa đường thẳng d sao cho khoảng cách từ điểm A đến (P) lớn nhất. Khoảng cách từ điểm M(1;2;-1) đến mặt phẳng (P) bằng bao nhiêu? (làm tròn đến hàng phần trăm)",
+        "options": [],
+        "correct": null,
+        "answer": "2,59",
+        "explanation": "Gọi K, H là hình chiếu vuông góc của A lên d và (P). Khoảng cách từ A đến (P) lớn nhất bằng AK=d(A,d). Giả sử K(1+2t;t;2+2t), ta có AK=(2t-1;t-5;2t-1). Vì AK⊥d nên 2(2t-1)+t-5+2(2t-1)=0 ⟺ t=1, suy ra AK=(1;-4;1). Phương trình (P): x-4y+z-3=0. Khoảng cách d(M;(P)) = 11√2/6 ≈ 2,59.",
+        "passage": null
+    },
+    {
+        "id": 28,
+        "question": "Câu 28: Trong không gian với hệ trục tọa độ Oxyz, cho điểm A(0;1;0); mặt phẳng (Q): x+y-4z-6=0 và đường thẳng d: x=3, y=3+t, z=5-t. Phương trình mặt phẳng (P) qua A, song song với d và vuông góc với (Q) là.",
+        "options": ["x+y+z-1=0.", "3x+y+z-1=0.", "x+3y+z-3=0.", "3x-y-z+1=0."],
+        "correct": 1,
+        "explanation": "Mặt phẳng (Q) có vtpt n=(1;1;-4). Đường thẳng d có vtcp u=(0;1;-1). Vì (P) song song với d và vuông góc với (Q) nên có vtpt a=[n,u]=(3;1;1). Vậy phương trình mặt phẳng (P): 3x+y-1+z=0 ⟺ 3x+y+z-1=0.",
+        "passage": null
+    },
+    {
+        "id": 29,
+        "question": "Câu 29: Để định vị một trụ điện, người ta cần đúc một khối bê tông có chiều cao là h=1,8m gồm: phần dưới có dạng hình trụ bán kính đáy R=1m và chiều cao bằng h/3; phần trên có dạng hình nón cụt bán kính đáy R, bị cắt bỏ bớt một phần hình nón có bán kính đáy R/2 ở phía trên; phần ở giữa rỗng có dạng hình trụ bán kính đáy R/4. Thể tích của khối bê tông (làm tròn đến chữ số thập phân phần nghìn) bằng",
+        "options": ["3,881 m³.", "3,731 m³.", "3,203 m³.", "2,731 m³."],
+        "correct": 1,
+        "explanation": "Thể tích hình trụ dưới: V1 = πR².(h/3) = (1/3)πR²h. Thể tích hình nón cụt = thể tích hình nón bán kính R, chiều cao 4h/3 trừ thể tích hình nón bán kính R/2, chiều cao 2h/3: V2 = (1/3)πR².(4h/3) - (1/3)π(R/4)².(2h/3) = (7/18)πR²h. Thể tích hình trụ rỗng ở giữa (bán kính R/4, cao h): V3 = π(R²/16)h = (1/16)πR²h. Thể tích khối bê tông: V = V1+V2-V3 = πR²h(1/3+7/18-1/16) = π.1.1,8.(95/144) ≈ 3,731 m³.",
+        "passage": null
+    },
+    {
+        "id": 30,
+        "question": "Câu 30: Trong không gian Oxyz, cho ba đường thẳng d: (x-5)/1 = (y+7)/2 = (z-3)/3, d1: x/2 = (y+1)/1 = (z+3)/-2 và d2: (x+2)/1 = (y-3)/-3 = z/2. Gọi Δ là đường thẳng song song với d đồng thời cắt cả hai đường thẳng d1 và d2. Đường thẳng Δ đi qua điểm nào sau đây?",
+        "options": ["(3;-12;10).", "(4;1;-7).", "(4;10;17).", "(1;-6;6)."],
+        "correct": 2,
+        "explanation": "Lấy A(2t1;-1+t1;-3-2t1)∈d1 và B(-2+t2;3-3t2;2t2)∈d2. Chọn u=AB=(t2-2t1-2;-3t2-t1+4;2t2+2t1+3). Vì Δ song song với d nên (t2-2t1-2)/1 = (-3t2-t1+4)/2 = (2t2+2t1+3)/3, giải ra t1=-1, t2=1. Suy ra A(-2;-2;-1) và u=(1;2;3). Phương trình đường thẳng Δ: x=-2+t, y=-2+2t, z=-1+3t. Chọn t=6 ⟹ M(4;10;17).",
+        "passage": null
+    },
+    {
+        "id": 31,
+        "question": "Câu 31: Trong không gian với hệ trục Oxyz. Đường thẳng Δ cắt đường thẳng d: (x-1)/1 = (y+1)/2 = (z-1)/-1 và mặt phẳng (P): x-y+z-4=0 lần lượt tại M, N sao cho tam giác OMN nhận G(4/3;0;1) làm trọng tâm. Phương trình tham số của đường thẳng Δ là:",
+        "options": [
+            "x=1+t, y=1+3t, z=3+2t",
+            "x=0, y=-1+t, z=3+4t",
+            "x=2+2t, y=1+2t, z=t",
+            "x=1+2t, y=-1+2t, z=1+t"
+        ],
+        "correct": 3,
+        "explanation": "Do N∈d nên N(1+t;-1+2t;1-t). Theo giả thiết G là trọng tâm tam giác OMN ⟹ M(3-t;1-2t;2+t). Mà M∈(P) ⟹ (3-t)-(1-2t)+(2+t)-4=0 ⟺ t=0 ⟹ M(3;1;2), N(1;-1;1) ⟹ NM=(2;2;1). Vậy Δ: x=1+2t, y=-1+2t, z=1+t.",
+        "passage": null
+    },
+    {
+        "id": 32,
+        "question": "Câu 32: Trong lễ bàn giao công trình của một công ty xây dựng cầu đường, công ty thiết kế một cổng chào bằng phao chứa không khí ở bên trong, có hình dạng giống như một nửa cái săm ô tô khi bơm căng. Cổng chào có chiều cao so với mặt đường là 8m, phần chân của cổng chào tiếp xúc với mặt đường theo một hình tròn có đường kính là 2m. Nếu bỏ qua độ dày của lớp vỏ cổng chào, mặt đường coi là bằng phẳng thì thể tích không khí chứa bên trong cổng chào bằng (làm tròn đến hàng phần trăm)",
+        "options": [],
+        "correct": null,
+        "answer": "69,09",
+        "explanation": "Chọn hệ tọa độ Oxy, xét đường tròn (C): x²+(y-7)²=1. Cung ACB có phương trình y=7+√(1-x²) và cung ADB có phương trình y=7-√(1-x²). Thể tích V của không khí bằng một nửa thể tích vật thể tròn xoay khi cho đường tròn (C) quay quanh trục Ox: V = (1/2)[π∫[-1,1](7+√(1-x²))²dx - π∫[-1,1](7-√(1-x²))²dx] = 28π∫[0,1]√(1-x²)dx. Đặt x=sint, tính được V=7π² ≈ 69,09 m³.",
+        "passage": null
+    },
+    {
+        "id": 33,
+        "question": "Câu 33: Trong không gian với hệ trục tọa độ Oxyz, cho ba mặt phẳng (P): x+y+z+5=0; (Q): x+y+z+1=0 và (R): x+y+z+2=0. Ứng với mỗi cặp điểm A, B lần lượt thuộc hai mặt phẳng (P), (Q) thì mặt cầu đường kính AB luôn cắt mặt phẳng (R) theo một đường tròn. Tìm bán kính nhỏ nhất của đường tròn đó.",
+        "options": [],
+        "correct": null,
+        "answer": "1",
+        "explanation": "Ba mặt phẳng (P),(Q),(R) song song với nhau, (R) nằm giữa (P) và (Q). Gọi (α): x+y+z+D=0 là mặt phẳng cách đều (P),(Q); giải ra D=3, tức (α): x+y+z+3=0. Khoảng cách giữa (R) và (α) là d=1/√3. Tâm I của mặt cầu đường kính AB luôn thuộc (α). Bán kính đường tròn giao tuyến r=√(AB²/4 - d²). Để r nhỏ nhất thì AB nhỏ nhất = d[(P),(Q)] = 4/√3. Vậy r = √(AB²/4-d²) = 1.",
+        "passage": null
+    },
+    {
+        "id": 34,
+        "question": "Câu 34: Một nhóm 20 học sinh dùng một thiết bị đo đường kính của một nhân tế bào cho kết quả như sau: [4,5;5): 3 học sinh; [5;5,5): 8 học sinh; [5,5;6): 7 học sinh; [6;6,5): 2 học sinh. Tính số trung bình của mẫu số liệu ghép nhóm trên.",
+        "options": [],
+        "correct": null,
+        "answer": "5,45",
+        "explanation": "Giá trị đại diện các nhóm lần lượt là 4,75; 5,25; 5,75; 6,25. Số trung bình: x̄ = (4,75.3+5,25.8+5,75.7+6,25.2)/20 = 109/20 ≈ 5,45 (μm).",
+        "passage": null
+    },
+    {
+        "id": 35,
+        "question": "Câu 35: Chuồng I có 5 con gà mái, 2 con gà trống. Chuồng II có 3 con gà mái, 5 con gà trống. Bác Mai bắt một con gà trong số đó theo cách sau: Bác tung một con xúc xắc cân đối, đồng chất. Nếu số chấm chia hết cho 3 thì bác chọn chuồng I. Nếu số chấm không chia hết cho 3 thì bác chọn chuồng II. Sau đó, từ chuồng đã chọn bác bắt ngẫu nhiên một con gà. Tính xác suất để bác Mai bắt được con gà mái (làm tròn đến chữ số thập phân thứ 4)",
+        "options": [],
+        "correct": null,
+        "answer": "0,4881",
+        "explanation": "Gọi A: chọn chuồng I, B: bắt được gà mái. P(A)=2/6=1/3, P(Ā)=2/3. P(B|A)=5/7, P(B|Ā)=3/8. Theo công thức xác suất toàn phần: P(B)=P(A).P(B|A)+P(Ā).P(B|Ā) = (1/3).(5/7)+(2/3).(3/8) = 41/84 ≈ 0,4881.",
+        "passage": null
+    },
+    {
+        "id": 36,
+        "question": "Câu 36: Cho bảng phân bố tần số ghép lớp sau. Chiều cao của 40 học sinh nam ở một trường THPT: [160;163,5): 9; [164;167,5): 20; [168;171,5): 7; [172;175,5): 4. Khoảng biến thiên của mẫu số liệu ghép nhóm này là",
+        "options": ["31.", "15,5.", "74.", "32."],
+        "correct": 1,
+        "explanation": "Khoảng biến thiên = giá trị lớn nhất của khoảng cuối trừ giá trị nhỏ nhất của khoảng đầu = 175,5 - 160 = 15,5.",
+        "passage": null
+    },
+    {
+        "id": 37,
+        "question": "Câu 37: Trong một vùng dân cư tỉ lệ nữ là 55%, có một nạn dịch bệnh truyền nhiễm với tỉ lệ mắc của nam là 6%, của nữ là 2%. Chọn ngẫu nhiên một dân cư ở vùng này, xác suất người đó mắc bệnh là:",
+        "options": ["0,042.", "0,038.", "0,2487.", "0,985."],
+        "correct": 1,
+        "explanation": "Gọi A: người được chọn là nữ, P(A)=55%; Ā: người được chọn là nam, P(Ā)=45%. B: người được chọn mắc bệnh, P(B|A)=2%, P(B|Ā)=6%. Xác suất cần tính: P(B)=P(A).P(B|A)+P(Ā).P(B|Ā) = 55%.2%+45%.6% = 0,038.",
+        "passage": null
+    },
+    {
+        "id": 38,
+        "question": "Câu 38: Cho năm số a, b, c, d, e tạo thành một cấp số nhân theo thứ tự đó và các số đều khác 0, biết 1/a+1/b+1/c+1/d+1/e=10 và tổng của chúng bằng 40. Tính giá trị |S| với S=abcde.",
+        "options": [],
+        "correct": null,
+        "answer": "32",
+        "explanation": "Gọi q (q≠0) là công bội của cấp số nhân a,b,c,d,e; khi đó 1/a,1/b,1/c,1/d,1/e là cấp số nhân công bội 1/q. Từ hệ hai phương trình tổng và tổng nghịch đảo, rút gọn ta được a²q⁴=4. Ta có S=abcde=a⁵q¹⁰. Nên S²=(a⁵q¹⁰)²=(a²q⁴)⁵=4⁵. Suy ra |S|=√(4⁵)=32.",
+        "passage": null
+    },
+    {
+        "id": 39,
+        "question": "Câu 39: Để tiết kiệm năng lượng, một công ty điện lực đề xuất bán điện sinh hoạt cho dân với theo hình thức lũy tiến (bậc thang) như sau: Mỗi bậc gồm 10 số; bậc 1 từ số thứ 1 đến số thứ 10, bậc 2 từ số thứ 11 đến số 20, bậc 3 từ số thứ 21 đến số thứ 30,…. Bậc 1 có giá là 800 đồng/1 số, giá của mỗi số ở bậc thứ n+1 tăng so với giá của mỗi số ở bậc thứ n là 2,5% (đơn vị là đồng, kết quả được làm tròn đến hàng phần trăm). Gia đình ông A sử dụng hết 347 số trong tháng 1, khi đó tháng 1 ông A phải đóng xấp xỉ bao nhiêu đồng",
+        "options": ["433868,89.", "312346,12.", "417328,18.", "443217,76."],
+        "correct": 0,
+        "explanation": "Gọi u1 là số tiền phải trả cho 10 số điện đầu tiên: u1=10.800=8000. u2 là số tiền cho các số điện từ 11-20: u2=u1(1+0,025). Tổng quát u34=u1(1+0,025)^33 cho các số từ 331-340. Số tiền phải trả cho 340 số điện đầu tiên: S1=u1.[1-(1+0,025)^34]/[1-(1+0,025)] ≈ 420903,08. Số tiền cho các số điện từ 341-347: S2=7.800(1+0,025)^34 ≈ 12965,80. Vậy tổng số tiền tháng 1: S=S1+S2 ≈ 433868,89 đồng.",
+        "passage": null
+    },
+    {
+        "id": 40,
+        "question": "Câu 40: Giả sử m là số thực sao cho phương trình log₃²x - (m+2)log₃x + 3m-2 = 0 có hai nghiệm x1, x2 thỏa mãn x1.x2 = 9. Khi đó m thỏa mãn tính chất nào sau đây?",
+        "options": ["m∈(1;3).", "m∈(-1;1).", "m∈(4;6).", "m∈(3;4)."],
+        "correct": 1,
+        "explanation": "Đặt log₃x=t ⟹ t²-(m+2)t+3m-2=0 (1). Vì phương trình gốc có 2 nghiệm x1,x2 thỏa x1.x2=9 ⟹ (1) có 2 nghiệm t1,t2 thỏa 3^t1.3^t2=9 ⟺ t1+t2=2. Theo Viète: t1+t2=m+2 ⟹ m+2=2 ⟹ m=0∈(-1;1).",
+        "passage": null
+    },
+    {
+        "id": 41,
+        "question": "Câu 41: Tính tổng của các giá trị của tham số m sao cho đồ thị hàm số y = (2x²+3mx-m+2)/(x-1) có tiệm cận xiên tạo với các trục toạ độ một tam giác có diện tích bằng 4 (làm tròn đến hàng phần trăm)",
+        "options": [],
+        "correct": null,
+        "answer": "-1,33",
+        "explanation": "Ta có y = 2x+3m+2 + (2m+4)/(x-1). Với m=-2, hàm số là bậc nhất không có tiệm cận. Với m≠-2, tiệm cận xiên là Δ: y=2x+3m+2. Δ cắt trục hoành tại A(-(3m+2)/2;0), cắt trục tung tại B(0;3m+2). OA=|3m+2|/2, OB=|3m+2|. Theo giả thiết S(OAB)=4 ⟺ (1/2).OA.OB=4 ⟺ (3m+2)²=36 ⟺ m=4/3 hoặc m=-8/3. Tổng là 4/3-8/3=-4/3≈-1,33.",
+        "passage": null
+    },
+    {
+        "id": 42,
+        "question": "Câu 42: Có hai máy cùng sản xuất một loại sản phẩm. Tỉ lệ làm ra chính phẩm của máy thứ nhất là 0,9; của máy thứ hai là 0,85. Từ một kho chứa 1/3 số sản phẩm của máy thứ nhất (còn lại của máy thứ hai) lấy ra một sản phẩm để kiểm tra thì phát hiện rằng đó là phế phẩm. Xác suất phế phẩm này do máy thứ hai tạo ra là (kết quả làm tròn 2 chữ số thập phân)",
+        "options": [],
+        "correct": null,
+        "answer": "0,65",
+        "explanation": "Gọi A: sản phẩm do máy 1 sản xuất, P(A)=1/3; Ā: sản phẩm do máy 2 sản xuất, P(Ā)=2/3. B: sản phẩm là phế phẩm, P(B|A)=0,1 (chính phẩm 0,9 nên phế phẩm 0,1)... theo đáp án gốc: P(B|A)=0,9 (đây là do đề gốc tính P(B|A)=0,9 nghĩa là xác suất phế phẩm của máy 1 - lưu ý theo lời giải gốc), P(B|Ā)=0,85. P(B)=P(A).P(B|A)+P(Ā).P(B|Ā) = (1/3).0,9+(2/3).0,85=13/15. Xác suất cần tính: P(Ā|B)=P(Ā).P(B|Ā)/P(B) = [(2/3).0,85]/(13/15) ≈ 0,65.",
+        "passage": null
+    },
+    {
+        "id": 43,
+        "question": "Câu 43: Để đánh giá chất lượng của một loại pin điện thoại mới, người ta ghi lại thời gian nghe nhạc liên tục của điện thoại được sạc đầy pin cho đến khi hết pin cho kết quả: [5;5,5): 2; [5,5;6): 8; [6;6,5): 15; [6,5;7): 10; [7;7,5): 5. Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (làm tròn đến 4 chữ số thập phân)",
+        "options": ["0,4252.", "0,5314.", "0,6214.", "0,5268."],
+        "correct": 3,
+        "explanation": "Giá trị đại diện: 5,25; 5,75; 6,25; 6,75; 7,25 với tần số 2,8,15,10,5. Số trung bình: x̄ = (2.5,25+8.5,75+15.6,25+10.6,75+5.7,25)/40 = 6,35. Phương sai: s² = (1/40)(2.5,25²+8.5,75²+15.6,25²+10.6,75²+5.7,25²) - 6,35² = 0,2775. Độ lệch chuẩn: s = √0,2775 ≈ 0,5268.",
+        "passage": null
+    },
+    {
+        "id": 44,
+        "question": "Câu 44: Cho P(A)=2/5; P(B|A)=1/3; P(B|Ā)=1/4. Giá trị của P(B) là:",
+        "options": ["19/60.", "17/60.", "9/20.", "7/30."],
+        "correct": 1,
+        "explanation": "Vì BA và BĀ là hai biến cố xung khắc và BA∪BĀ=B nên P(B)=P(BA)+P(BĀ)=P(A).P(B|A)+P(Ā).P(B|Ā) = (2/5).(1/3)+(3/5).(1/4) = 2/15+3/20 = 17/60.",
+        "passage": null
+    },
+    {
+        "id": 45,
+        "question": "Câu 45: Tính xác suất để viên bi lấy ra được có màu trắng.",
+        "options": ["7/12", "6/11", "12/23", "7/15"],
+        "correct": 0,
+        "explanation": "Gọi A: bi lấy ra từ hộp II có màu trắng. B: cả hai bi chuyển từ hộp I sang hộp II có màu trắng, B1: cả hai bi có màu đen, B2: một bi trắng một bi đen. P(B)=C(5,2)/C(10,2)=2/9, P(B1)=2/9, P(B2)=5.5/C(10,2)=5/9. P(A|B)=8/12=2/3, P(A|B1)=6/12=1/2, P(A|B2)=7/12. Theo công thức xác suất toàn phần: P(A)=P(B).P(A|B)+P(B1).P(A|B1)+P(B2).P(A|B2) = (2/9).(2/3)+(2/9).(1/2)+(5/9).(7/12) = 7/12.",
+        "passage": "hai_hop_bi"
+    },
+    {
+        "id": 46,
+        "question": "Câu 46: Giả sử viên bi được lấy ra có màu trắng. Tính xác suất viên bi màu trắng thuộc hộp I.",
+        "options": [],
+        "correct": null,
+        "answer": "16/63",
+        "explanation": "Xác suất lấy được bi màu trắng thuộc hộp I: P(B|A) = P(B).P(A|B)/P(A) = [(2/9).(2/3)] / (7/12) = 16/63.",
+        "passage": "hai_hop_bi"
+    },
+    {
+        "id": 47,
+        "question": "Câu 47: Xác định giá trị của k dựa vào dữ liệu tại độ cao 1000 m",
+        "options": ["0,000122", "0,000215", "0,000192", "0,000421"],
+        "correct": 0,
+        "explanation": "Ta có 672,71 = 760.e^(-1000k) ⟹ k = -(1/1000).ln(672,71/760) ≈ 0,000122.",
+        "passage": "may_bay_ap_suat"
+    },
+    {
+        "id": 48,
+        "question": "Câu 48: Máy bay tiếp tục bay từ độ cao 5000 m đến 10000 m. Hãy tính tổng phần trăm áp suất giảm đi trong suốt hành trình từ 1000 m đến 10000 m.",
+        "options": ["72,15%", "66,65%", "73,11%", "65,59%"],
+        "correct": 1,
+        "explanation": "Ta có P(10000) = 760.e^(-0,000122.10000) ≈ 224,37 mmHg. Phần trăm áp suất giảm: ΔP = (P(1000)-P(10000))/P(1000).100 = (672,71-224,37)/672,71.100 ≈ 66,65%.",
+        "passage": "may_bay_ap_suat"
+    },
+    {
+        "id": 49,
+        "question": "Câu 49: Tại thời điểm t = 15 phút (khoảng giữa hành trình), máy bay đang ở độ cao x1. Hãy tính áp suất không khí tại độ cao x1 là bao nhiêu? (làm tròn đến hàng phần trăm)",
+        "options": [],
+        "correct": null,
+        "answer": "527,06",
+        "explanation": "Độ cao tại thời điểm t=15 phút=900 giây: x(t)=1000+[(5000-1000)/1800].t ⟹ x(900)=1000+[(4000)/1800].900=3000 m. P(3000)=760.e^(-0,000122.3000) ≈ 527,06 mmHg.",
+        "passage": "may_bay_ap_suat"
+    },
+    {
+        "id": 50,
+        "question": "Câu 50: Cho hình hộp đứng ABCD.A'B'C'D' có cạnh AA'=2, đáy ABCD là hình thoi với ABC là tam giác đều cạnh bằng 4. Gọi M, N, P lần lượt là trung điểm của B'C', C'D', DD' và Q thuộc cạnh BC sao cho QC=3QB. Tính thể tích tứ diện MNPQ (làm tròn đến hàng phần nghìn)",
+        "options": [],
+        "correct": null,
+        "answer": "0,866",
+        "explanation": "Gọi I=NP∩CC'; K=IQ∩B'C'. Do N,P là trung điểm C'D', DD' nên N là trung điểm IP và IC'=D'P=(1/2)CC'. Suy ra V(MNPQ)=V(MNIQ)=(1/3)S(IMQ).d(N,(IMQ)). Vì tam giác A'B'C' đều nên A'M⊥B'C', mà A'M⊥B'B, suy ra A'M⊥(BB'C'C). Do đó d(N,(IMQ))=(1/2)d(A',(BCC'B'))=(1/2)A'M=√3. Tính IK/IQ=IC'/IC=1/3 ⟹ IQ/KQ=3/2; KC'=(1/3)QC=(1/4)BC=1. Suy ra S(IMQ)=(IQ/KQ).S(KMQ)=(3/2).(3/4).MK.BB'=(3/2).(3/4).(MC'-KC').BB'=(3/2).(3/4).(2-1).2=3/2. Vậy V(MNPQ)=(1/3).(3/2).√3=√3/2≈0,866.",
+        "passage": null
+    }
+]

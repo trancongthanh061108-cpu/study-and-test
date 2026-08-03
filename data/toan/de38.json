@@ -1,0 +1,417 @@
+[ 
+  {
+    "id": 1,
+    "question": "Cho hàm số y = f(x). Hàm số y = f'(x) có đồ thị như hình vẽ bên dưới. Hàm số g(x) = f(1-2x) + x^2 - x nghịch biến trên khoảng nào?",
+    "options": ["(-1;1)", "(1/2;3/2)", "(0;3)", "(-1;1/2)"],
+    "correct": 1,
+    "explanation": "Xét g(x) = f(1-2x)+x^2-x, D=R. g'(x) = -2f'(1-2x)+2x-1. Để g(x) nghịch biến: g'(x) ≤ 0 ⇔ f'(1-2x) ≥ -1/2(1-2x). Đặt t=1-2x, từ đồ thị: f'(t) ≥ -t/2 ⇔ -2≤t≤0 hoặc t≥4. Do đó -2≤1-2x≤0 hoặc 1-2x≥4 ⇔ 1/2≤x≤3/2 hoặc x≤-3/2. Vậy hàm số nghịch biến trên (1/2;3/2) và (-∞;-3/2).",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Cho hàm số y = f(x) liên tục trên R và có đạo hàm f'(x) thoả mãn f'(x) = (1-x^2)(x-5). Tìm các khoảng nghịch biến của hàm số g(x) = 3f(x+3) - x^3 + 12x.",
+    "options": ["(-∞;-3)", "(-4;-2)", "(1;2)", "(0;+∞)"],
+    "correct": 1,
+    "explanation": "g(x)=3f(x+3)-x^3+12x. g'(x)=3f'(x+3)-3x^2 = 3[1-(x+3)^2](x+3-5) = 3(-x^2-6x-8)(x-2). g'(x)=0 ⇒ x=2, x=-2, x=-4. Bảng biến thiên cho thấy g(x) nghịch biến trên (-4;-2) và (2;+∞).",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Tìm tất cả các giá trị của tham số m để hàm số: y = (sinx - 2)/(sinx - m) đồng biến trên khoảng (0; π/6)?",
+    "options": ["m∈(-∞;0)", "m∈(-∞;2)", "m∈[1/2;2)", "m∈(-∞;0]∪[1/2;2)"],
+    "correct": 3,
+    "explanation": "Đặt t=sinx, t∈(0;1/2). Xét f(t)=(t-2)/(t-m). Để đồng biến trên (0;1/2) cần f'(t)>0 và m∉(0;1/2). f'(t)>0 ⇔ -m+2>0 ⇔ m<2. Kết hợp m≤0 hoặc m≥1/2, ta được m∈(-∞;0]∪[1/2;2).",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Có bao nhiêu giá trị nguyên của tham số m không lớn hơn 10 để hàm số: y = |x^3 - 3x^2 + m - 4| đồng biến trên khoảng (3;+∞)?",
+    "options": [],
+    "correct": null,
+    "answer": "7",
+    "explanation": "Xét f(x)=x^3-3x^2+m-4, f'(x)=3x^2-6x=0 ⇔ x=0 hoặc x=2. Hàm y=|f(x)| đồng biến trên (3;+∞) ⇔ f(3)≥0 ⇔ m-4≥0 ⇔ m≥4. Kết hợp m≤10, m nguyên: m∈{4;5;6;7;8;9;10}, có 7 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Cho đồ thị hàm số: y = ax^3 + bx^2 + c có hai điểm cực trị là A(0;1) và B(-1;2). Tính tổng a+b+c?",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "y'=3ax^2+2bx. Hai điểm cực trị tại x=0 và x=-1 nên 3a-2b=0. A,B thuộc đồ thị: c=1, -a+b+c=2. Giải hệ được a=2,b=3,c=1. Vậy a+b+c=6.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Có bao nhiêu giá trị nguyên của tham số m để đồ thị hàm số y = mx^3 - (2m-1)x^2 + 2mx - m - 1 có hai điểm cực trị nằm về hai phía của trục hoành?",
+    "options": ["2", "3", "0", "5"],
+    "correct": 1,
+    "explanation": "Trường hợp m=0 không thỏa. Với m≠0, phương trình mx^3-(2m-1)x^2+2mx-m-1=0 phân tích thành (x-1)[mx^2-(m-1)x+m+1]=0. Cần phương trình bậc hai có hai nghiệm phân biệt khác 1: Δ>0 và điều kiện khác 0, giải ra -3-2√3)/3 < m < (-3+2√3)/3, m nguyên ⇒ m∈{-2;-1;0}, có 3 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Tập nghiệm của bất phương trình (16^x - 65.4^x + 64)√(2 - log₃(x+3)) ≤ 0 có tất cả bao nhiêu số nguyên dương?",
+    "options": ["5", "3", "4", "2"],
+    "correct": 1,
+    "explanation": "Điều kiện: -3<x≤6. Bất phương trình tương đương [0≤x≤3 hoặc x=6] kết hợp điều kiện xác định được 0≤x≤3. Vậy có 3 số nguyên dương thoả mãn.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Cho hàm số: y = x^3 - 3x^2 + 3(1-m^2)x + 1. Có bao nhiêu số nguyên m∈[1;2024] để hàm số có hai điểm cực trị?",
+    "options": [],
+    "correct": null,
+    "answer": "2024",
+    "explanation": "y'=3x^2-6x+3(1-m^2). Để có hai cực trị cần Δ'>0 ⇔ 9m^2>0 ⇔ m≠0. Kết hợp m∈[1;2024], có 2024 giá trị thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Cho hàm số y = f(x) có bảng biến thiên như hình vẽ sau. Có bao nhiêu cặp số nguyên (m;n) để phương trình |f(x) - m| = 2n có đúng 5 nghiệm?",
+    "options": [],
+    "correct": null,
+    "answer": "6",
+    "explanation": "Nếu n≤0 loại. Với n>0: phương trình tương đương f(x)=m+2n hoặc f(x)=m-2n. Cần một phương trình có 2 nghiệm, phương trình kia có 3 nghiệm. Giải hệ điều kiện từ bảng biến thiên (giá trị 11 và -5) được các cặp (m;n)=(9;1);(7;2);(5;3);(-3;1);(-1;2);(1;3). Vậy có 6 cặp.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Cho x^2; 1/2; y^2 theo thứ tự lập thành một cấp số cộng. Gọi M, m lần lượt là giá trị lớn nhất, giá trị nhỏ nhất của biểu thức P = √3xy + y^2. Tính S = M + m",
+    "options": ["1", "3", "√3/2 - 1/2", "2"],
+    "correct": 0,
+    "explanation": "Từ cấp số cộng: x^2+y^2=1. Đặt x=sint, y=cost. P=√3sint.cost+cos^2t = sin(2t+π/3)/... = sin(2t+π/3)/2 + 1/2. Suy ra -1/2≤P≤3/2. M=3/2, m=-1/2, S=M+m=1.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Cho hàm số: y = f(x) = x^3 - 3x + 1. Có bao nhiêu giá trị nguyên của m để phương trình f(sinx + 1) = m có đúng 5 nghiệm phân biệt thuộc [-π; 3π/2]?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Xét g(x)=f(sinx+1)=sin^3x+3sin^2x-1. g'(x)=3sinx.cosx(sinx+2). Trên [-π;3π/2], lập bảng biến thiên được để phương trình có đúng 5 nghiệm cần -1<m<1, m nguyên ⇒ m=0, có 1 giá trị.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Gọi S là tập hợp tất cả các giá trị thực của tham số m sao cho giá trị lớn nhất của hàm số y = |x^3 - 3x + m| trên đoạn [0;2] bằng 3. Tập hợp S có bao nhiêu phần tử?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Xét f(x)=x^3-3x+m trên [0;2]: f(0)=m, f(1)=m-2, f(2)=m+2. Max = max{|m+2|;|m|;|m-2|}=3 giải ra được m=1 hoặc m=-1. Vậy S có 2 phần tử.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Cho hàm số y = (2x-1)/(x-1) có đồ thị (C). Tiếp tuyến tại điểm M(a;b)∈(C), a>0 tạo với hai tiệm cận của (C) một tam giác có bán kính đường tròn ngoại tiếp bằng √2. Giá trị của a + 2b bằng?",
+    "options": ["2", "4", "8", "5"],
+    "correct": 2,
+    "explanation": "Tam giác IAB vuông tại I, bán kính ngoại tiếp R=AB/2=√2 ⇒ AB=2√2. Dấu bằng IA=IB xảy ra khi hệ số góc tiếp tuyến k=±1. Do y'(a)=-1/(a-1)^2<0 nên k=-1. Giải được a=2 (do a>0), b=3. Vậy a+2b=8.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Một sợi dây có chiều dài là 6m, được chia thành 2 phần. Phần thứ nhất được uốn thành hình tam giác đều, phần thứ hai uốn thành hình vuông. Hỏi độ dài của cạnh hình tam giác đều bằng bao nhiêu để diện tích 2 hình thu được là nhỏ nhất?",
+    "options": ["18/(9+4√3) (m)", "36√3/(4+√3) (m)", "12/(4+√3) (m)", "18√3/(4+√3) (m)"],
+    "correct": 0,
+    "explanation": "Gọi cạnh tam giác đều là x, cạnh hình vuông là (6-3x)/4. Tổng diện tích S = (1/16)[(9+4√3)x^2-36x+36]. Đây là hàm bậc 2 có hệ số a>0 nên đạt nhỏ nhất tại x=-b/2a=18/(9+4√3).",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Một công ty bất động sản có 70 căn hộ cho thuê. Biết rằng nếu cho thuê mỗi căn hộ giá 2500000 đồng một tháng thì mọi căn hộ đều có người thuê và cứ mỗi lần tăng giá cho thuê mỗi căn hộ thêm 100000 đồng một tháng thì có thêm một căn hộ bị bỏ trống. Công ty đã tìm ra phương án cho thuê đạt lợi nhuận lớn nhất. Hỏi thu nhập cao nhất công ty có thể đạt được trong 1 tháng là bao nhiêu (triệu đồng, làm tròn)?",
+    "options": [],
+    "correct": null,
+    "answer": "226",
+    "explanation": "Gọi x là giá cho thuê mới. Số căn bỏ trống = x/100000. T(x)=(2500000+x)(70-x/100000). T'(x)=45-x/50000=0 ⇒ x=2250000. Max T=225625000 đồng ≈ 226 triệu đồng.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Trong không gian hệ trục tọa độ Oxyz, cho hai điểm M(1;-2;1), A(1;2;-3) và đường thẳng d: (x+1)/2 = (y-5)/2 = z/(-1). Tìm vecto chỉ phương của đường thẳng Δ đi qua M, vuông góc với đường thẳng d, đồng thời cách điểm A một khoảng bé nhất.",
+    "options": ["u=(2;-1;2)", "u=(2;-1;-2)", "u=(-2;-1;2)", "u=(2;1;2)"],
+    "correct": 0,
+    "explanation": "Gọi (P) là mặt phẳng qua M vuông góc d, n(P)=u_d=(2;2;-1). Δ⊂(P) thỏa d(A,d) min ⇔ u_Δ=[n(P),[AM,n(P)]]. AM=(0;4;-4). Tính được u_Δ=-12(2;-1;2), suy ra vecto chỉ phương là (2;-1;2).",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Trong hệ trục tọa độ Oxyz, cho đường thẳng: d: (x+2)/(-1) = (y-1)/1 = (z-2)/2 và điểm M(-2;3;1). Xác định phương trình mặt phẳng (P) chứa đường thẳng d sao cho khoảng cách từ M đến (P) đạt giá trị lớn nhất?",
+    "options": ["(P): 2x - z - 4 = 0", "(P): 2y - z - 4 = 0", "(P): 2y + z - 4 = 0", "(P): -2y + z - 4 = 0"],
+    "correct": 1,
+    "explanation": "Gọi H,K là hình chiếu của M trên (P),(d). d(M;(P))=MH≤MK nên max khi (P) chứa d và vuông góc MK. n(P)=[u_d,[u_d,MA]] với A(-2;1;2)∈d. Tính u_d=(-1;1;2), MA=(0;-2;1), n(P)=6(0;2;-1). Phương trình mặt phẳng: 2y-z-4=0.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Tìm tất cả các giá trị thực của tham số m sao cho hàm số y = x^3 - 6x^2 + mx + 1 đồng biến trên khoảng (0;+∞)",
+    "options": ["m∈(3;+∞)", "m∈[3;+∞)", "m∈(-∞;3)", "m∈(-∞;3]"],
+    "correct": 1,
+    "explanation": "y'=3x^2-6x+m≥0 ∀x∈(0;+∞) ⇔ m≥-3x^2+6x ∀x∈(0;+∞). Đặt f(x)=-3x^2+6x, max f(x) trên [0;+∞) tại x=1 là f(1)=3. Vậy m≥3.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Gọi F(t) là số lượng vi khuẩn phát triển sau t giờ. Biết F(t) thỏa mãn F'(t) = 10000/(1+2t) với t≥0 và ban đầu có 1000 con vi khuẩn. Hỏi sau 2h số lượng vi khuẩn là bao nhiêu (làm tròn đến hàng đơn vị)?",
+    "options": [],
+    "correct": null,
+    "answer": "9047",
+    "explanation": "F(t)=∫F'(t)dt=5000ln|1+2t|+C. F(0)=1000 ⇒ C=1000. F(2)=5000ln(5)+1000≈9047.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Cho hình chóp S.ABC có SA=a, SB=b, SC=c. Một mặt phẳng (α) luôn đi qua trọng tâm của tam giác ABC, cắt các cạnh SA, SB, SC lần lượt tại A', B', C'. Tìm giá trị nhỏ nhất của 1/SA'^2 + 1/SB'^2 + 1/SC'^2.",
+    "options": ["3/(a^2+b^2+c^2)", "√2/(a^2+b^2+c^2)", "2/(a^2+b^2+c^2)", "9/(a^2+b^2+c^2)"],
+    "correct": 3,
+    "explanation": "Do G,A',B',C' đồng phẳng: a/SA'+b/SB'+c/SC'=3. Áp dụng Cauchy: (1/SA'^2+1/SB'^2+1/SC'^2)(a^2+b^2+c^2) ≥ (a/SA'+b/SB'+c/SC')^2=9. Vậy GTNN là 9/(a^2+b^2+c^2).",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Người ta trồng một vườn hoa theo hình giới hạn bởi một đường Parabol và nửa đường tròn có bán kính √2m (phần tô trong hình). Biết rằng: để trồng mỗi m^2 hoa cần ít nhất 250000 đồng, số tiền tối thiểu để trồng xong vườn hoa gần bằng?",
+    "options": ["809365", "805936", "808935", "803695"],
+    "correct": 0,
+    "explanation": "Nửa đường tròn y=√(2-x^2), parabol y=2x^2-1. Diện tích S=∫[-1,1](√(2-x^2)-2x^2+1)dx = 5/3 + π/2. Số tiền tối thiểu = 250000(5/3+π/2) ≈ 809365 đồng.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Cho hình lăng trụ ABC.A'B'C' có đáy ABC là tam giác đều cạnh a, tam giác A'BC đều nằm trong mặt phẳng vuông góc với (ABC), M là trung điểm cạnh CC'. Tính cosα, với α là góc giữa hai đường thẳng AA' và BM",
+    "options": ["cosα = 2√22/11", "cosα = √33/11", "cosα = √11/11", "cosα = √22/11"],
+    "correct": 1,
+    "explanation": "AH=A'H=a√3/2, BC⊥(AA'H) nên BCC'B' là hình chữ nhật. CC'=AA'=a√6/2, BM=a√22/4. AA'.BM = 3a^2/4. cos(AA',BM)= (3a^2/4)/[(a√6/2)(a√22/4)] = √33/11.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Trong không gian Oxyz, cho các điểm M(m;0;0), N(0;n;0), P(0;0;p) không trùng với gốc tọa độ và thỏa mãn m^2+n^2+p^2 = 3. Giá trị lớn nhất của khoảng cách từ O đến mặt phẳng (MNP) bằng?",
+    "options": ["1/3", "√3", "1/27", "1/√3"],
+    "correct": 3,
+    "explanation": "d(O,(MNP)) = 1/√(1/m^2+1/n^2+1/p^2). Áp dụng Cauchy: (m^2+n^2+p^2)(1/m^2+1/n^2+1/p^2)≥9 ⇒ 1/m^2+1/n^2+1/p^2≥3 ⇒ d≤1/√3. Dấu bằng khi m^2=n^2=p^2=1.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Trong không gian Oxyz, cho hai đường thẳng d1: x/(-1)=y-3=(z+4)/2 và d2: (x-3)/(-2)=(y-2)/3=(z-4)/(-1) và mặt phẳng (α): -x+3y-4z-7=0. Xác định phương trình đường thẳng vuông góc với mặt phẳng (α), cắt d1 và d2 có phương trình là?",
+    "options": ["(x-27)/37 = (y+34)/(-111) = (z-16)/148", "(x-27)/(-37) = (y+34)/(-111) = (z-16)/148", "(x-27)/37 = (y+34)/(-111) = (z-16)/(-148)", "(x-27)/37 = (y+34)/111 = (z-16)/148"],
+    "correct": 0,
+    "explanation": "Giả sử đường thẳng cắt d1 tại A, d2 tại B với A(-t1;3;-4+2t1), B(3-2t2;2+3t2;4-t2). Vecto AB cùng phương với n(α)=(-1;3;-4). Giải hệ tìm t1=-44/3, t2=-12 được A(44/3;3;-100/3), B(27;-34;16). Phương trình đường thẳng qua B với VTCP (37;-111;148): (x-27)/37=(y+34)/(-111)=(z-16)/148.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Trong không gian Oxyz, cho điểm M(-2;1;3). Mặt phẳng (α) đi qua M và cắt các trục Ox, Oy, Oz tại A, B, C sao cho M là trực tâm tam giác ABC. Viết phương trình mặt cầu tâm O và tiếp xúc với mặt phẳng (α).",
+    "options": ["(S): x^2+y^2+z^2 = 14", "(S): x^2+y^2+z^2 = 9", "(S): x^2+y^2+z^2 = 11", "(S): x^2+y^2+z^2 = 16"],
+    "correct": 0,
+    "explanation": "M là trực tâm tam giác ABC nên OM⊥(ABC). Mặt cầu tâm O tiếp xúc (ABC) có bán kính R=OM=√(4+1+9)=√14. Vậy (S): x^2+y^2+z^2=14.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Cho một mạch điện kín gồm nguồn điện có suất điện động E(V) và điện trở trong r(Ω) không thay đổi; mạch ngoài có biến trở R(Ω). Khi đó, công suất tiêu thụ ở mạch ngoài là P = E^2R/(R+r)^2. Tìm giá trị lớn nhất của công suất tiêu thụ mạch ngoài P.",
+    "options": ["E^2/(4r) (W)", "E^2/(2r) (W)", "2E^2/r (W)", "E^2/(8r) (W)"],
+    "correct": 0,
+    "explanation": "Xét P(R)=E^2R/(R+r)^2 trên (0;+∞). P'(R)=0 ⇒ R=r. Bảng biến thiên cho max P(R)=E^2/(4r) tại R=r.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Cho phương trình (cosx+1)(4cos2x - mcosx) = msin^2x. Tập hợp giá trị thực của tham số m để phương trình có đúng 1 nghiệm thuộc đoạn [π/2;π]?",
+    "options": ["(-4;4)", "(-∞;-4)∪(4;+∞)", "[-4;4]", "(-∞;-4]∪[4;+∞)"],
+    "correct": 1,
+    "explanation": "Phương trình tương đương (1+cosx)(4cos2x-m)=0 ⇒ cosx=-1 hoặc cos2x=m/4. Với x∈[π/2;π], cosx=-1 có nghiệm x=π. Để phương trình có đúng 1 nghiệm, cần cos2x=m/4 vô nghiệm trên [π/2;π], tức 2x∈[π;2π]. Từ đường tròn lượng giác, vô nghiệm khi m/4>1 hoặc m/4<-1, tức m>4 hoặc m<-4.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Một hội trường có hàng ghế đầu kí hiệu là dãy A là 30 ghế, sau dãy A là dãy B là 32 ghế, và như thế hàng sau sẽ nhiều hơn hàng trước 2 ghế. Biết hàng cuối cùng có 62 ghế. Gọi m là tổng số dãy ghế, p là tổng số ghế. Tính m + p?",
+    "options": [],
+    "correct": null,
+    "answer": "799",
+    "explanation": "Gọi n là số dãy ghế. S=(30+62)/2.n=46n và S=(29+n)n. Giải 46n=(29+n)n ⇒ n=17. Tổng ghế = 17.46=782. Vậy m+p=17+782=799.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Giả sử 1 quần thể động vật này có tỉ lệ sinh là 12% một năm, xuất cư 2% một năm, tử vong 8% một năm, tỉ lệ nhập cư là 3%. Sau một năm số cá thể của quần thể là 11220 cá thể. Hỏi thời điểm ban đầu quần thể có bao nhiêu cá thể? Làm tròn đến hàng đơn vị.",
+    "options": [],
+    "correct": null,
+    "answer": "10095",
+    "explanation": "Gọi n là số cá thể ban đầu. n(1+(12%+3%-8%-2%))=11220 ⇒ n=10095.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Cho lim(x→2) [√(2ax^2+30) - bx - 5]/(x^3-5x^2+8x-4) = c với a,b,c∈R. Tính giá trị P = a+b+c.",
+    "options": [],
+    "correct": null,
+    "answer": "65/48",
+    "explanation": "x^3-5x^2+8x-4=(x-2)^2(x-1). Cần 2ax^2+30-(bx+5)^2 có nghiệm kép x=2, giải được a=3/4, b=1/2. Tính giới hạn được c=5/48. Vậy a+b+c=1/2+3/4+5/48=65/48.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Tập nghiệm của bất phương trình 3^(x^2-13) < 27 là:",
+    "options": ["(-4;4)", "(-5;-3)", "[-4;4]", "(-2;2)"],
+    "correct": 0,
+    "explanation": "3^(x^2-13)<27=3^3 ⇔ x^2-13<3 ⇔ x^2<16 ⇔ -4<x<4. Vậy tập nghiệm S=(-4;4).",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Một vận động viên điền kinh chạy với gia tốc a(t) = (-1/24)t^3 + (5/48)t^2 (m/s^2) trong đó t là khoảng thời gian tính từ lúc xuất phát. Hỏi vào thời điểm 5s sau khi xuất phát thì vận tốc của vận động viên là bao nhiêu? Biết rằng tại thời điểm ban đầu vận động viên ở tại vị trí xuất phát",
+    "options": ["v = 5,61 m/s", "v = 6,51 m/s", "v = 7,61 m/s", "v = 7,51 m/s"],
+    "correct": 1,
+    "explanation": "v(t)=∫a(t)dt = (-1/96)t^4+(5/48)t^3+C. Tại t=0, v=0 nên C=0. v(5)=6,51 m/s.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Cho bảng biểu diễn mẫu số liệu ghép nhóm về chiều cao của 50 mẫu cây ở một vườn thực vật (đơn vị cm). Tính độ lệch chuẩn của mẫu số liệu trên? Làm tròn kết quả đến hàng phần trăm.",
+    "options": ["6,72", "8,63", "7,59", "6,98"],
+    "correct": 2,
+    "explanation": "Trung bình cộng x̄=53,7. Phương sai s^2 = (1/50)(7.42,5^2+12.47,5^2+9.52,5^2+10.57,5^2+8.62,5^2+4.67,5^2)-53,7^2=57,56. Độ lệch chuẩn s=√57,56≈7,59.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Cho hàm số: f(x) = 2025^x - 1/2025^x. Giá trị nguyên lớn nhất của tham số m để phương trình f(log₃3x - m) + f(log₃³3x) = 0 có nghiệm x∈(1;9)?",
+    "options": [],
+    "correct": null,
+    "answer": "29",
+    "explanation": "f(x) đồng biến và lẻ trên R. Đặt t=log₃3x, t∈(1;3). Phương trình trở thành t^3+t=m. Xét g(t)=t^3+t đồng biến, g(1)=2, g(3)=30 nên 1<g(t)<30... thực tế 1<m<30. Giá trị nguyên lớn nhất của m là 29.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Có bao nhiêu giá trị nguyên dương của m để bất phương trình 9^(x^2-2) - (m-1).3^(x^2) - m + 4 ≥ 0 nghiệm đúng với mọi x?",
+    "options": ["1", "3", "5", "7"],
+    "correct": 0,
+    "explanation": "Đặt t=3^(x^2-2), t≥1. Bất phương trình trở thành t^2+9t+4≥m(9t+1) ⇔ m≤(t^2+9t+4)/(9t+1). Xét f(t) trên [1;+∞), tìm min f(t) = (4√61+79)/81 ≈ 1,xx. Vì m nguyên dương nên m=1.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Cho phương trình log₉x^2 - log₃(3x-1) = -log₃m (m là tham số thực). Có tất cả bao nhiêu giá trị nguyên của m để phương trình đã cho có nghiệm?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Điều kiện x>1/3. Phương trình tương đương m=(3x-1)/x=f(x). f(x) đồng biến trên (1/3;+∞), f(1/3+)=0, giới hạn khi x→+∞ là 3. Để có nghiệm: m∈(0;3), có 2 giá trị nguyên (1 và 2).",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Chị Hoa có 500 triệu đồng. Chị chia số tiền thành 3 phần và gửi ở các ngân hàng Vietcombank, Agribank và Viettinbank theo phương thức lãi kép với các lãi suất và thời gian khác nhau. Tổng số tiền lãi ở hai ngân hàng Vietcombank và Agribank là 34,8386842 triệu đồng. Tổng số tiền lãi ở hai ngân hàng Agribank và Viettinbank là 35,78307674 triệu đồng. Hỏi số tiền chị Hoa gửi ở mỗi ngân hàng là bao nhiêu?",
+    "options": ["Vietcombank: 150 triệu, Agribank: 300 triệu, Viettinbank: 50 triệu", "Vietcombank: 170 triệu, Agribank: 130 triệu, Viettinbank: 200 triệu", "Vietcombank: 130 triệu, Agribank: 200 triệu, Viettinbank: 170 triệu", "Vietcombank: 130 triệu, Agribank: 170 triệu, Viettinbank: 200 triệu"],
+    "correct": 3,
+    "explanation": "Giải hệ phương trình lãi kép với x+y+z=500, x(1,019)^6-x+y(1,009)^12-y=34,8386842, y(1,009)^12-y+z(1,02)^4-z=35,78307674 ta được x=130, y=170, z=200.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Cho hình tứ diện S.ABC có đáy ABC là tam giác đều có độ dài cạnh AB bằng a, SA⊥(ABC), SA=a√2. Điểm M trên cạnh SC sao cho MC = (1/2)MS, mặt phẳng (α) đi qua M và vuông góc với AB. Tính diện tích thiết diện của khối chóp tạo bởi mặt phẳng (α)?",
+    "options": ["S = a^2√3/9", "S = 2a^2√6/9", "S = a^2√6/3", "S = a^2√6/9"],
+    "correct": 3,
+    "explanation": "Thiết diện là hình thang vuông MNPQ với MN=a√2/3, PQ=a√2/3, NP=a√3/3. Diện tích S=(MN+PQ)/2.NP = a^2√6/9.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh 2a, hình chiếu vuông góc của S lên đáy là trung điểm cạnh AB, góc ASB = 90°. Khoảng cách từ C đến mặt phẳng (SBD) bằng?",
+    "options": ["2a√3/3", "a√3/3", "4a√3/3", "3a√3/2"],
+    "correct": 0,
+    "explanation": "SH=a. d(C;(SBD))=2d(H;(SBD)). Trong (SHP) hạ HQ⊥SP, HQ=HS.HP/√(HS^2+HP^2)=a√3/3. Vậy d(C;(SBD))=2HQ=2√3a/3.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Xác định độ dài tiêu cự của elip (E) có phương trình: x^2/16 - y^2/7 = 1?",
+    "options": ["8", "4", "6", "10"],
+    "correct": 2,
+    "explanation": "Tiêu cự: 2c=2√(a^2-b^2)=2√(16-7)=2.3=6.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Cho khối chóp S.ABCD có đáy ABCD là hình vuông, SA vuông góc với mặt phẳng đáy và SA = a√2. Biết góc giữa đường thẳng SD và mặt phẳng (SAC) bằng 30°. Thể tích khối chóp đã cho bằng?",
+    "options": ["3a^2√2/2", "2a^3√2/3", "4a^3√2/3", "a^3√2/3"],
+    "correct": 1,
+    "explanation": "Đặt BC=x, tính được x=a√2 từ điều kiện góc 30°. Diện tích đáy = 2a^2. Thể tích = (1/3).SA.S_ABCD = (1/3).a√2.2a^2 = 2a^3√2/3.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Cho tanx = √2. Xác định giá trị của biểu thức P = (√2sinx - cosx)/(cos^3x + √2sinx.cos^2x + sin^2x.cosx)",
+    "options": [],
+    "correct": null,
+    "answer": "3/5",
+    "explanation": "Chia tử mẫu cho cos^3x: P = [√2tanx(1+tan^2x)-(1+tan^2x)]/[1+√2tanx+tan^2x]. Thay tanx=√2: P=[√2.√2.3-3]/[1+√2.√2+2]=3/5.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Cho một đa giác đều có n đỉnh, với n lẻ. Chọn ngẫu nhiên 3 đỉnh của đa giác đều đó. Gọi P là xác suất sao cho 3 đỉnh đó tạo thành 1 tam giác tù. Biết P = 45/62. Số các ước nguyên dương của n là?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1,
+    "explanation": "Đặt n=2k+1. Giải phương trình P(A)=C(k,2)(2k+1)/C(2k+1,3)=45/62 được k=16, n=33. Các ước nguyên dương của 33 là {1;3;11;33}, có 4 ước.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Tổng của ba số nguyên tố bằng 1012. Tìm số nhỏ nhất trong ba số nguyên tố đó.",
+    "options": ["3", "2", "5", "7"],
+    "correct": 1,
+    "explanation": "Tổng 3 số nguyên tố bằng 1012 (số chẵn), nên trong 3 số phải có một số nguyên tố chẵn duy nhất là 2. Vậy số nhỏ nhất là 2.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AC, BD. Gọi I là trung điểm của MN, P là 1 điểm bất kì. Tìm giá trị thực của k thỏa mãn đẳng thức: PI = k(PA + PB + PC + PD).",
+    "options": [],
+    "correct": null,
+    "answer": "1/4",
+    "explanation": "I là trung điểm MN nên I là trọng tâm tứ diện ABCD. Ta có PI = (1/4)(PA+PB+PC+PD). Vậy k=1/4.",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Có hai lô sản phẩm. Mỗi lô đều có 30 sản phẩm. Lô thứ nhất có 20 sản phẩm tốt, 10 sản phẩm lỗi. Lô thứ hai có 15 sản phẩm tốt, 15 sản phẩm lỗi. Lấy ngẫu nhiên 1 lô và từ lô này lấy ra một sản phẩm. Tính xác suất để sản phẩm lấy ra là sản phẩm tốt?",
+    "options": ["7/12", "1/4", "1/12", "5/12"],
+    "correct": 0,
+    "explanation": "P(A)=P(B1).P(A|B1)+P(B2).P(A|B2) = 1/2.2/3 + 1/2.1/2 = 7/12.",
+    "passage": "lo_san_pham"
+  },
+  {
+    "id": 47,
+    "question": "Giả sử sản phẩm lấy ra là sản phẩm tốt. Xác suất để sản phẩm lấy được đó là của lô thứ hai?",
+    "options": ["6/7", "3/5", "4/7", "3/7"],
+    "correct": 3,
+    "explanation": "P(B2|A) = P(B2).P(A|B2)/P(A) = (1/2.1/2)/(7/12) = 3/7.",
+    "passage": "lo_san_pham"
+  },
+  {
+    "id": 48,
+    "question": "Giả sử sản phẩm lấy ra là phế phẩm. Xác suất để sản phẩm đó của lô I là bao nhiêu?",
+    "options": ["5/7", "5/6", "4/5", "2/5"],
+    "correct": 3,
+    "explanation": "P(Ā)=1-7/12=5/12. P(B1)=1/2, P(Ā|B1)=1/3. P(B1|Ā)=(1/2.1/3)/(5/12)=2/5.",
+    "passage": "lo_san_pham"
+  },
+  {
+    "id": 49,
+    "question": "Hàm số F(x) là nguyên hàm của f(x). Khi đó hàm số kF(2x+2025) là nguyên hàm của hàm số f(2x+2025). Xác định k.",
+    "options": [],
+    "correct": null,
+    "answer": "1/2",
+    "explanation": "[kF(2x+2025)]' = 2k.f(2x+2025) = f(2x+2025) ⇒ 2k=1 ⇒ k=1/2.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Bốn học sinh A, B, C, D thi kéo co xem ai khỏe nhất, thứ hai, thứ 3 và yếu nhất. Bạn hãy xác định điều đó qua kết quả 3 lần kéo co: Lần 1: Dù khó khăn nhưng B vẫn thắng A và C gộp lại. Lần 2: Khi một đầu là A và B, đầu kia là C và D thì kết quả không phân thắng bại. Lần 3: Từ lần hai nếu A và C đổi chỗ cho nhau thì cặp D-A thắng 1 cách dễ dàng. Hỏi ai là người khỏe nhất?",
+    "options": ["Bạn A", "Bạn B", "Bạn C", "Bạn D"],
+    "correct": 1,
+    "explanation": "Từ lần 1: B>A+C. Từ lần 2: A+B=C+D ⇒ B=C+D-A. Từ lần 3: D+A>B+C, thay B vào giải được A>C và D>2A. Suy ra D>A>C, và B>A+C nên B là người khỏe nhất.",
+    "passage": null
+  }
+]

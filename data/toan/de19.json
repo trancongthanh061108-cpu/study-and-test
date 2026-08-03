@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "question": "Câu 1: Số giao điểm tối đa của 5 đường tròn phân biệt là",
+    "options": ["10", "20", "18", "22"],
+    "correct": 1,
+    "explanation": "Hai đường tròn cho tối đa hai giao điểm. Số giao điểm tối đa của 5 đường tròn phân biệt là 2.C(5,2) = 20.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Cho hình lăng trụ đứng ABCD.A'B'C'D' có đáy là hình thoi, biết AA' = 4a, AC = 2a, BD = a. Thể tích của khối lăng trụ là",
+    "options": ["2a³", "8a³", "8a³/3", "4a³"],
+    "correct": 3,
+    "explanation": "S = (1/2).AC.BD = a². V = S.AA' = a².4a = 4a³.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Một nhóm học sinh có 5 bạn nữ, 4 bạn nam. Hỏi có bao nhiêu cách chọn một học sinh tham gia cuộc thi tìm hiểu môi trường?",
+    "options": ["2880", "20", "144", "9"],
+    "correct": 3,
+    "explanation": "Theo quy tắc cộng ta có: 5+4=9 cách.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Cho hình chóp S.ABC có SA ⊥ (ABC), ΔABC vuông cân tại A, SA = BC = a. Tính theo a thể tích V của khối chóp S.ABC",
+    "options": ["V = a³/12", "V = a³/4", "V = 2a³", "V = a³/2"],
+    "correct": 0,
+    "explanation": "AB = BC/√2 = a/√2 nên S(ABC) = a²/4. Thể tích khối chóp S.ABC là V = (1/3).SA.S(ABC) = a³/12.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Giá trị của lim(x→0⁻) sin3x/(1−cosx) bằng",
+    "options": ["-1/2", "0", "−∞", "+∞"],
+    "correct": 2,
+    "explanation": "Biến đổi biểu thức về dạng lim cot(x/2)(3−4sin²x) = −∞ khi x→0⁻.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Một công ty chuyên bán buôn rau, củ, quả sạch có doanh thu một loại rau được ước tính bởi hàm số f(x) = x² − 29000x + 1000100000 (đồng) và tiền lãi thu được là g(x) = 1000x + 100000 (đồng) với x là giá bán cho mỗi kg rau tươi. Biết doanh thu bằng tổng tiền lãi và tiền vốn. Công ty nên bán loại rau đó với giá bao nhiêu đồng để vốn bỏ ra là ít nhất?",
+    "options": ["x = 15000", "x = 30000", "x = 10000", "x = 20000"],
+    "correct": 0,
+    "explanation": "h(x) = f(x) − g(x) = x² − 30000x + 10⁹. h'(x) = 2x − 30000 = 0 ⇒ x = 15000, đây là điểm cực tiểu của h(x).",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Tìm hệ số của x⁷ trong khai triển (ax² − 2a/x)⁵ với x ≠ 0, biết hệ số của đơn thức thứ ba trong khai triển bằng -9720.",
+    "options": ["−2430", "2430", "−810", "810"],
+    "correct": 1,
+    "explanation": "Khai triển tìm được hệ số đơn thức thứ 3 là 40a⁵ = −9720 ⇒ a⁵ = −243. Hệ số của x⁷ là −10a⁵ = 2430.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Mệnh đề nào sau đây là đúng?",
+    "options": [
+      "Hai đường thẳng cùng vuông góc với một đường thẳng thì song song với nhau.",
+      "Hai đường thẳng cùng vuông góc với một đường thẳng thì vuông góc với nhau.",
+      "Một đường thẳng vuông góc với một trong hai đường thẳng vuông góc với nhau thì song song với đường thẳng còn lại.",
+      "Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng còn lại."
+    ],
+    "correct": 3,
+    "explanation": "a⊥b mà b//c ⇒ a⊥c.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Cho hình chóp S.ABCD có tất cả các cạnh bên và cạnh đáy đều bằng nhau và ABCD là hình vuông. Khẳng định nào sau đây đúng?",
+    "options": ["SA ⊥ (ABCD)", "AC ⊥ (SBC)", "AC ⊥ (SBD)", "AC ⊥ (SCD)"],
+    "correct": 2,
+    "explanation": "Do SA=SC nên ΔSAC cân ⇒ AC⊥SO. Tứ giác ABCD là hình vuông nên AC⊥BD ⇒ AC⊥(SBD).",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Một hộp chứa 4 quả bóng được đánh số từ 1 đến 4. An lấy ngẫu nhiên một quả bóng, bỏ ra ngoài, rồi lấy tiếp một quả bóng nữa. Xét các biến cố: A: \"Quả bóng lấy ra lần đầu ghi số chẵn\"; B: \"Quả bóng lấy ra lần hai ghi số lẻ\". Xác suất để quả bóng lấy ra lần hai ghi số lẻ biết quả bóng lấy ra lần đầu ghi số chẵn là",
+    "options": ["1/3", "1/2", "2/3", "3/4"],
+    "correct": 2,
+    "explanation": "P(A)=6/12=1/2, P(A∩B)=4/12=1/3. P(B|A) = P(A∩B)/P(A) = (1/3)/(1/2) = 2/3.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Cho hàm số y = (2x−1)/(x−1) có đồ thị là (C). Lập phương trình tiếp tuyến của đồ thị (C) sao cho tiếp tuyến này cắt các trục Ox, Oy lần lượt tại các điểm A, B thoả mãn OA = 4OB.",
+    "options": [
+      "[y = −(1/4)x + 5/4; y = −(1/4)x + 13/4]",
+      "[y = −(1/4)x − 5/4; y = −(1/4)x + 13/4]",
+      "[y = −(1/4)x + 5/4; y = −(1/4)x − 13/4]",
+      "[y = −(1/4)x − 5/4; y = −(1/4)x − 13/4]"
+    ],
+    "correct": 0,
+    "explanation": "Hệ số góc tiếp tuyến là ±1/4. Giải y'(x0) = −1/4 tìm được x0 = −1 hoặc x0 = 3, dẫn tới hai tiếp tuyến: y = −(1/4)x + 5/4 và y = −(1/4)x + 13/4.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Cho hàm số y = f(x) = log₂(1+2^x). Tính giá trị S = f'(0) + f'(1).",
+    "options": ["S = 6/5", "S = 7/8", "S = 7/6", "S = 7/5"],
+    "correct": 2,
+    "explanation": "f'(x) = 2^x/[(1+2^x).ln2]... thực chất f'(x)=2^x/(1+2^x). S = f'(0)+f'(1) = 1/2+2/3 = 7/6.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Phương trình (sin³x + cos³x)/(2cosx − sinx) = cos2x tương đương với",
+    "options": [
+      "cosx(cosxsinx − 3cos²x + 2) = 0",
+      "sinx(sinx − 3cos²x + 1) = 0",
+      "cosx(sin2x − 3cos²x + 1) = 0",
+      "cosx(sin2x − 3cos²x + 1) = 0"
+    ],
+    "correct": 0,
+    "explanation": "Biến đổi phương trình dẫn tới cosx(cosxsinx − 3cos²x + 2) = 0.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Tổng các nghiệm phương trình cos³x − sin³x = sinx − cosx trong khoảng (−10;200) là",
+    "options": ["8059π/4", "7063π/4", "4035π/2", "8107π/4"],
+    "correct": 3,
+    "explanation": "Phương trình dẫn tới x = π/4 + kπ. Có 67 giá trị k thỏa mãn trong khoảng, tổng nghiệm bằng 8107π/4.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Tổng các nghiệm của phương trình √3sin2x + cos2x = 2cosx − 1 trong khoảng (0;π) là",
+    "options": ["5π/6", "3π/4", "π", "7π/6"],
+    "correct": 3,
+    "explanation": "Phương trình dẫn tới cosx=0 hoặc sinx+π/6 dạng đặc biệt, có x=π/2, x=2π/3 là nghiệm thuộc (0;π). Tổng = 7π/6.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Tìm số nguyên dương n thỏa mãn C(2n+1,1) + C(2n+1,3) + ... + C(2n+1,2n+1) = 1024.",
+    "options": ["n = 4", "n = 9", "n = 10", "n = 5"],
+    "correct": 3,
+    "explanation": "Từ khai triển nhị thức, cộng hai đẳng thức với x=1 và x=−1 ta được 2^(2n+1) = 2.1024 ⇔ n=5.",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Cho hàm số f(x) = (x³−8)/(x−2) khi x≠2, f(x) = 2m+1 khi x=2. Tìm m để hàm số liên tục tại điểm x0 = 2.",
+    "options": ["m = 3/2", "m = 13/2", "m = 11/2", "m = -1/2"],
+    "correct": 2,
+    "explanation": "lim f(x) khi x→2 = 12. Hàm số liên tục tại x0=2 ⇔ 2m+1=12 ⇔ m=11/2.",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Số các giá trị nguyên của m để phương trình sin(x+π/4) + mcosx = √2m có nghiệm",
+    "options": ["1", "2", "3", "4"],
+    "correct": 2,
+    "explanation": "Phương trình tương đương sinx + (m+1)cosx = √2m. Điều kiện có nghiệm: 1+(m+1)² ≥ 2m² ⇔ 1−√3 ≤ m ≤ 1+√3. Có 3 giá trị nguyên m thỏa mãn.",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Cho khối lập phương ABCD.A'B'C'D' có thể tích V=1. Tính thể tích V1 của khối lăng trụ ABC.A'B'C'.",
+    "options": ["V1 = 1/3", "V1 = 1/2", "V1 = 1/6", "V1 = 2/3"],
+    "correct": 1,
+    "explanation": "Khối lập phương và khối lăng trụ ABC.A'B'C' có cùng chiều cao mà S(ABC) = (1/2)S(ABCD) nên V1 = (1/2)V = 1/2.",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Trong trận đấu bóng đá giữa 2 đội Real Madrid và Barcelona, trọng tài cho đội Barcelona được hưởng một quả Penalty. Cầu thủ sút phạt ngẫu nhiên vào 1 trong bốn vị trí 1,2,3,4 và thủ môn bay người cản phá ngẫu nhiên đến 1 trong 4 vị trí 1,2,3,4 với xác suất như nhau. Biết nếu cầu thủ sút và thủ môn bay người cùng vào vị trí 1 hoặc 2 thì thủ môn cản phá được cú sút đó, nếu cùng vào vị trí 3 hoặc 4 thì xác suất cản phá thành công là 50%. Tính xác suất của biến cố \"cú sút đó không vào lưới\"?",
+    "options": ["5/16", "3/16", "1/8", "1/4"],
+    "correct": 1,
+    "explanation": "P(cú sút vào lưới) = P(C) = (1/4)² + (1/4)² + (1/2)(1/4)² + (1/2)(1/4)² = 13/16. Vậy P(không vào lưới) = 3/16.",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Một tòa nhà cao tầng dùng một cây tre giả để tạo hình trang trí bên ngoài tòa nhà. Do giông bão thổi mạnh, cây tre này gãy gập xuống làm ngọn cây chạm đất và tạo với mặt đất một góc bằng 30°. Người ta đo được khoảng cách từ chỗ ngọn cây chạm đất đến gốc tre là 8,5 m. Giả sử cây tre mọc tạo với mặt đất nằm ngang một góc bằng 75°. Hãy tính chiều cao của cây tre đó (làm tròn đến chữ số thập phân thứ hai).",
+    "options": ["13,43 m", "17,62 m", "15,34 m", "7,41 m"],
+    "correct": 1,
+    "explanation": "Áp dụng định lí sin trong tam giác ABC với góc ACB=105°, góc B=30°, góc A=45°: AB≈11,61m, AC≈6,01m. Chiều dài cây tre = AB+AC ≈ 17,62 m.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Một người làm một cái cổng cổ xưa có dạng Parabol như hình vẽ. Hãy tính diện tích của cái cổng?",
+    "options": ["28/3", "16/3", "16", "32/3"],
+    "correct": 3,
+    "explanation": "Parabol (P): y = −x²+4. Diện tích S = ∫[−2,2] |−x²+4| dx = 32/3.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Tính khoảng cách giữa hai đường thẳng BC' và CD'.",
+    "options": ["a√2", "a√3/3", "2a", "a√2/3"],
+    "correct": 1,
+    "explanation": "d(BC';CD') = d(B';(BA'C')) = B'H = (BB'.B'O)/BO = a√3/3.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Trong đợt bão Noru đổ bộ vào miền Trung năm 2022, có hai tàu đánh cá thuộc hai tỉnh cùng neo đậu tại một khu tránh trú bão. Sau khi bão tan, hai tàu cùng xuất phát về cảng cá quê nhà, đi thẳng theo hai hướng tạo với nhau một góc 60°. Tàu thứ nhất chạy với tốc độ 28 km/h, tàu thứ hai chạy với tốc độ 25 km/h. Sau 6 giờ, cả hai tàu cùng cập cảng của mình. Hỏi hai cảng cá cách nhau bao nhiêu km? (kết quả làm tròn đến chữ số thập phân thứ nhất)",
+    "options": ["159,8 km", "195,7 km", "150 km", "168 km"],
+    "correct": 0,
+    "explanation": "AB=168km, AC=150km. BC = √(AB²+AC²−2.AB.AC.cos60°) = 6√709 ≈ 159,8 km.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Anh An đang xem xét mua một mảnh đất để xây nhà. Nhân viên nhà đất cung cấp cho anh An bản vẽ chi tiết (như hình vẽ). Diện tích mảnh đất (tính theo đơn vị mét vuông) này là",
+    "options": [
+      "3000√3 + 450√62 (m²)",
+      "3000√2 + 45√63 (m²)",
+      "3000√2 + 450√63 (m²)",
+      "300√3 + 45√62 (m²)"
+    ],
+    "correct": 0,
+    "explanation": "S(ABC) = (1/2).120.100.sin60° = 3000√3. S(ADC) = (1/2).20√31.90.sin45° = 450√62. Diện tích mảnh đất = tổng hai diện tích = 3000√3 + 450√62 (m²).",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Cho hình lập phương ABCD.A'B'C'D'. Gọi M, N lần lượt là hai điểm nằm trên hai cạnh BC và CD sao cho BM = (2/3)BC, CN = (2/3)CD. Góc giữa hai đường thẳng AM và BN là",
+    "options": ["90°", "60°", "45°", "30°"],
+    "correct": 0,
+    "explanation": "Tính tích vô hướng AM.BN = 0 ⇒ AM⊥BN, góc giữa hai đường thẳng bằng 90°.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Cho (1+sin2x+cos2x)/(1+cot²x) = √2sinxsin2x. Khi đó nếu đặt A=|sinx+cosx| thì giá trị A có thể bằng",
+    "options": ["2", "√2", "(1+√3)/2", "(√3−1)/2"],
+    "correct": 1,
+    "explanation": "Phương trình dẫn tới cosx=0 (A=1) hoặc sinx+cosx=√2 (A=√2). A có thể bằng √2.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Cho hình chóp tứ giác S.ABCD có đáy là hình vuông cạnh bằng √2a. Tam giác SAD cân tại S và mặt bên (SAD) vuông góc với mặt phẳng đáy. Biết thể tích khối chóp S.ABCD bằng (4/3)a³. Tính khoảng cách h từ B đến mặt phẳng (SCD).",
+    "options": ["h = (2/3)a", "h = (4/3)a", "h = (8/3)a", "h = (3/4)a"],
+    "correct": 1,
+    "explanation": "SH=2a. Đặt hệ trục tọa độ, tính được d(H,(SCD))=4/3, do đó h = (4/3)a.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Tìm tất cả các giá trị thực của m sao cho hai tập hợp sau đây bằng nhau: M = {x∈ℝ | x² − 2(m−1)x + m² − 2m = 0}; N = {x∈ℝ | x² = 1}.",
+    "options": ["m = −1", "m = 2", "m = 1", "m = −2"],
+    "correct": 2,
+    "explanation": "M = {m; m−2}, N = {−1;1}. Để M=N cần m=1 và m−2=−1, giải ra m=1.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Hệ phương trình x − 1/x³ = y − 1/y³ và (x−4y)(2x−y+4) = −36 có bao nhiêu nghiệm?",
+    "options": ["0", "Vô số", "2", "3"],
+    "correct": 2,
+    "explanation": "Phương trình đầu dẫn tới x=y hoặc xy<0. TH1: x=y, giải phương trình thứ hai được x=−6 hoặc x=2. TH2 vô nghiệm. Tập nghiệm S={(2;2);(−6;−6)}, có 2 nghiệm.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Cho các số thực dương a, b thoả mãn log₂²a − 2log₂a + 2 + 2(log₂a − 1).sin(log₂a + b) = 0. Giá trị nhỏ nhất của biểu thức T = 2a + 3b bằng.",
+    "options": ["π − 1", "π", "9π/2 − 2", "3π/2 − 1"],
+    "correct": 3,
+    "explanation": "Phương trình dẫn tới a=1, b≥π/2−1 hoặc a=4, b≥3π/2−2. So sánh hai trường hợp, T_min = 3π/2 − 1.",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Cho phương trình (sinx+1)(sin2x − msinx) = mcos²x. Tập hợp tất cả các giá trị thực của tham số m để phương trình có nghiệm trên khoảng (0;π/6) là S, khi đó S = ?",
+    "options": ["S = (0;1/2)", "S = (−1;√3/2)", "S = (0;√3/2)", "S = (0;1)"],
+    "correct": 2,
+    "explanation": "Phương trình dẫn tới sinx=−1 hoặc sin2x=m. Để có nghiệm trên (0;π/6): 0<m<√3/2.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Cho đa giác đều (H) có 30 đỉnh. Lấy tùy ý 3 đỉnh của (H). Xác suất để 3 đỉnh lấy được tạo thành một tam giác tù bằng",
+    "options": ["39/140", "39/58", "45/58", "39/280"],
+    "correct": 1,
+    "explanation": "n(Ω)=C(30,3)=4060. Số tam giác tù có các đỉnh là đỉnh của đa giác đều là 2730. Xác suất = 2730/4060 = 39/58.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Hai nhân viên bán bảo hiểm đang cạnh tranh nhau giải thưởng \"Nhân viên bán hàng có phong độ ổn định nhất năm\". Số hợp đồng kí được mỗi tháng của hai người được ghi nhận trong bảng. Biết rằng trong tháng cuối, nhân viên A đã hài lòng với kết quả của mình còn nhân viên B vẫn tiếp tục đi tìm thêm khách hàng nên chưa có số liệu. Hỏi trong tháng cuối cùng nhân viên B cần bán được bao nhiêu hợp đồng để giành được giải thưởng trên?",
+    "options": ["5", "18", "16", "17"],
+    "correct": 2,
+    "explanation": "Phương sai nhân viên A là 12,6875. Để nhân viên B ổn định hơn cần phương sai B nhỏ hơn, giải ra 5,79<x<16,57, kết hợp điều kiện x nguyên từ 6 đến 16, x=16 là đáp án phù hợp nhất trong các lựa chọn.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Cho tứ diện ABCD có AB=a, CD=b. Gọi I, J lần lượt là trung điểm của AB và CD, giả sử AB⊥CD. Mặt phẳng (α) qua M nằm trên đoạn IJ và song song với AB và CD. Tính diện tích thiết diện của tứ diện ABCD với mặt phẳng (α) biết IM = (1/3)IJ.",
+    "options": ["ab", "ab/9", "2ab", "2ab/9"],
+    "correct": 3,
+    "explanation": "Thiết diện EFGH là hình chữ nhật với LN=b/3, PQ=2a/3. S(EFGH) = PQ.LN = 2ab/9.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Khối lượng (gam) tăng trưởng của 200 con cá rô phi sau 1 tháng sử dụng cám viên X được các nhà nghiên cứu ghi lại. Khoảng tứ phân vị của mẫu số liệu ghép nhóm trên bằng bao nhiêu? Kết quả làm tròn đến chữ số thập phân thứ ba.",
+    "options": [],
+    "correct": null,
+    "answer": "17,433",
+    "explanation": "Q1 = 80 + (50−(14+25))/53.(90−80) = 4350/53. Q3 = 90 + (150−(14+25+53))/61.(100−90) = 6070/61. Δ = Q3−Q1 ≈ 17,433.",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: Một đa giác đều có số đường chéo gấp đôi số cạnh. Đa giác đó có bao nhiêu cạnh?",
+    "options": [],
+    "correct": null,
+    "answer": "7",
+    "explanation": "C(n,2) − n = 2n ⇔ n(n−1) = 6n ⇔ n = 7.",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: Biết ∫[0,8] f(x)dx = 4, giá trị ∫[0,4] f(2x)dx bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "∫[0,4] f(2x)dx = (1/2)∫[0,8] f(t)dt = (1/2).4 = 2.",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: Người quản lí của một khu chung cư có 100 căn hộ cho thuê nhận thấy rằng tất cả các căn hộ sẽ có người thuê nếu giá thuê một căn hộ là 8 triệu đồng một tháng. Một cuộc khảo sát thị trường cho thấy rằng, trung bình cứ mỗi lần tăng giá thuê căn hộ thêm 100 nghìn đồng thì sẽ có thêm một căn hộ bị bỏ trống. Người quản lí nên đặt giá thuê mỗi căn hộ là bao nhiêu (đơn vị: triệu đồng) để doanh thu là lớn nhất?",
+    "options": [],
+    "correct": null,
+    "answer": "9",
+    "explanation": "Doanh thu = 100000(100−x)(80+x) đạt max khi x=10. Giá thuê = 8000000+100000.10 = 9000000 đồng = 9 triệu.",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: Cho dãy số (un) với u1 = −2, un = 3un−1 − 1, ∀n≥2. Cho biết lim(un/3^n) = k/6. Giá trị của k bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "-5",
+    "explanation": "Đặt vn = un − 1/2, ta được cấp số nhân vn = −(5/2).3^(n−1). Từ đó lim(un/3^n) = −5/6 ⇒ k=−5.",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Hình phẳng (H) được giới hạn bởi đồ thị (C) của hàm số đa thức bậc ba và parabol (P) có trục đối xứng vuông góc với trục hoành. Phần tô đậm như hình vẽ có diện tích bằng a/b (a,b∈ℤ;(a,b)=1). Giá trị của biểu thức a−3b bằng bao nhiêu?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "(C): y=x³−3x²+2, (P): y=−x²+x. S = ∫[−1,2]|x³−2x²−x+2|dx = 37/12. a=37, b=12, a−3b=1.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Một loại thuốc được dùng cho một bệnh nhân và nồng độ thuốc trong máu của bệnh nhân được giám sát bởi bác sĩ. Biết rằng nồng độ thuốc trong máu của bệnh nhân sau khi tiêm vào cơ thể trong t giờ được tính theo công thức g(t) = t/(t²+4). Sau khi tiêm thuốc bao lâu thì nồng độ thuốc trong máu của bệnh nhân cao nhất?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "g'(t) = (−t²+4)/(t²+4)². g'(t)=0 ⇔ t=2. Max g(t) = 1/8 khi t=2.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Một cây cầu dành cho người đi bộ có mặt sàn cầu cách mặt đường 3,5 m, khoảng cách từ đường thẳng a nằm trên tay vịn của cầu đến mặt sàn cầu là 0,9 m. Gọi b là đường kẻ chia làn đường. Tính khoảng cách giữa hai đường thẳng a và b theo mét.",
+    "options": [],
+    "correct": null,
+    "answer": "4,4",
+    "explanation": "Khoảng cách giữa hai đường thẳng a và b bằng: 3,5+0,9 = 4,4 (m).",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Cho hàm số y=f(x) có đạo hàm liên tục trên ℝ và có bảng biến thiên như hình vẽ. Đồ thị hàm số y = 1/[(f(x+1)−4)√(x²−4)] có bao nhiêu đường tiệm cận?",
+    "options": [],
+    "correct": null,
+    "answer": "4",
+    "explanation": "Có 3 tiệm cận đứng (x=−2, x=2, x=β−1) và 1 tiệm cận ngang (y=0). Tổng có 4 đường tiệm cận.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một bể chứa nước có dạng hình cầu có phương trình là x²+y²+z²−1=0 trong không gian Oxyz (đơn vị trên trục: m). Bề mặt nước trong bể cách thành bể một khoảng lớn nhất là 50 cm. Khi đó bề mặt nước là hình tròn có đường kính là bao nhiêu mét? (Kết quả làm tròn đến chữ số thập phân thứ nhất)",
+    "options": [],
+    "correct": null,
+    "answer": "1,7",
+    "explanation": "Bán kính bể R=1. Tam giác ODB đều cạnh 1, BI=√3/2, AB=2BI=√3≈1,7(m).",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Một hình chóp cụt đều ABC.A'B'C' có cạnh đáy lớn bằng 4, cạnh đáy nhỏ bằng 2 và chiều cao của nó bằng 3/2. Thể tích của khối chóp cụt đều đó bằng bao nhiêu? (Kết quả làm tròn đến hàng phần mười)",
+    "options": [],
+    "correct": null,
+    "answer": "6,1",
+    "explanation": "S1=4√3, S2=√3, h=3/2. V=(1/3)h(S1+√(S1S2)+S2) = 7√3/2 ≈ 6,1.",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Cho hàm số f(x) = (ax−6)/(bx−c) (a,b,c∈ℝ) có bảng biến thiên như sau. Trong các số a, b, c có bao nhiêu số âm?",
+    "options": [],
+    "correct": null,
+    "answer": "2",
+    "explanation": "Từ tiệm cận đứng x=−2 và tiệm cận ngang y=1, kết hợp hàm số nghịch biến, xác định được có hai số âm trong a, b, c.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Có bao nhiêu số nguyên m để phương trình 4^x − m.2^(x+1) + 2m = 0 có hai nghiệm x1, x2 thỏa mãn x1+x2 = 3?",
+    "options": [],
+    "correct": null,
+    "answer": "1",
+    "explanation": "Đặt t=2^x, phương trình t²−2mt+2m=0 cần có hai nghiệm dương thỏa t1.t2=2^(x1+x2)=8, suy ra 2m=8 ⇔ m=4. Có 1 giá trị nguyên.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Một hộp quà hình lập phương chứa một mô hình đồ chơi đặc ruột có dạng hình chóp tứ giác đều mà đỉnh của hình chóp đó trùng với tâm của một mặt chiếc hộp, giả sử hình vuông đáy của hình chóp trùng với một mặt của chiếc hộp (mặt này cùng với mặt chứa đỉnh hình chóp là hai mặt đối nhau). Biết cạnh của chiếc hộp bằng 30 cm. Thể tích phần không gian bên trong chiếc hộp không bị chiếm bởi mô hình đồ chơi dạng hình chóp bằng bao nhiêu cm³?",
+    "options": [],
+    "correct": null,
+    "answer": "18000",
+    "explanation": "V1 = 30³ = 27000 cm³. V2 = (1/3).900.30 = 9000 cm³. V = V1−V2 = 18000 cm³.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Một phòng trưng bày trong bảo tàng nghệ thuật sử dụng bộ gồm bốn đèn cảm biến được lắp đặt tại các vị trí A(1;3;4), B(3;4;5), C(2;2;2) và D(4;3;d). Biết rằng bộ đèn chỉ hoạt động tốt nếu cả bốn đèn cùng nằm trên một mặt phẳng. Muốn bộ đèn hoạt động tốt thì cần điều chỉnh lắp đặt sao cho d bằng bao nhiêu? (Kết quả viết dưới dạng số thập phân)",
+    "options": [],
+    "correct": null,
+    "answer": "3",
+    "explanation": "[AB,AC].AD = 0 ⇒ 3.(−1)+0.5+(d−4).(−3)=0 ⇒ d=3.",
+    "passage": null
+  }
+]
