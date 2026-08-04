@@ -1703,7 +1703,7 @@ if (question.options && question.options.length > 0) {
   const inputEl = document.createElement('input');
   inputEl.type = "text";
   inputEl.className = "text-answer-input";
-  inputEl.placeholder = "Nhập đáp án (ví dụ: 0,41)...";
+  inputEl.placeholder = "Nhập đáp án (ví dụ: 0,00 hoặc 15/3(nếu không yêu cầu làm tròn) )...";
   inputEl.value = userAnswers[question.id] !== undefined ? userAnswers[question.id] : "";
   if (!isReviewMode) {
     inputEl.oninput = (e) => {
