@@ -681,7 +681,7 @@ function _renderExamList(type) {
   }
 filtered.forEach(e => {
   const freeIds = [
-    'hsa_kh_1','hsa_kh_2','hsa_kh_3',
+    'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
     'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
     'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
     'hsa_anh_1', 'hsa_anh_2', 'hsa_anh_3'
