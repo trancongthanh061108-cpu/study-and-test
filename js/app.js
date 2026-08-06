@@ -16,7 +16,6 @@ let lastTabBeforeExam = 'thithu';
 
 // ========== HỆ THỐNG ĐĂNG NHẬP ==========
 const ACCOUNTS = {
-"quocanha1": {password: "12345", fullname: :"Quốc Anh"},
 "thanhtran": { password: "123456", fullname: "Trần Công Thành" },
 "admin":     { password: "admin123", fullname: "Quản trị viên" },
 "hocsinh1":   { password: "123456", fullname: "Học sinh Demo" },
