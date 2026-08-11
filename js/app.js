@@ -607,7 +607,7 @@ function switchTab(tab) {
   if (tab === "admin" && isAdmin()) renderAdminPanel();
 }
 
-let currentKyThi = "dgnl","vact";
+let currentKyThi = "dgnl";
 const KY_THI_META = {
   dgnl: { title: "HSA", subjects: ["Toán học", "Ngữ văn", "Tiếng anh", "Khoa học"] },
   tnthpt: { title: "TN THPT", subjects: ["Toán", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
@@ -667,7 +667,7 @@ function _renderExamList(type) {
   const tbody = document.getElementById("exam-list-body");
   if (!tbody) return;
   tbody.innerHTML = "";
-if (currentKyThi !== "dgnl","vact") {
+if (currentKyThi !== "dgnl") {
   tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
     Đề thi <b>${(KY_THI_META[currentKyThi]||{}).title || currentKyThi}</b> đang được cập nhật. Vui lòng quay lại sau.
   </td></tr>`;
