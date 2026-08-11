@@ -672,7 +672,6 @@ function _renderExamList(type) {
   if (!tbody) return;
   tbody.innerHTML = "";
 
-  // Lọc theo kỳ thi hiện tại trước
   let pool = sampleExams.filter(e => (e.kythi || "dgnl") === currentKyThi);
 
   if (pool.length === 0) {
@@ -687,8 +686,27 @@ function _renderExamList(type) {
     tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">Chưa có đề cho môn này.</td></tr>`;
     return;
   }
-  filtered.forEach(e => { ... });
-  ...
+
+  filtered.forEach(e => {
+    const freeIds = [
+      'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
+      'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
+      'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
+      'hsa_anh_1', 'hsa_anh_2', 'hsa_anh_3'
+    ];
+    const freeBadge = freeIds.includes(e.id)
+      ? ' <span style="font-size:11px;color:#34d399;font-weight:600;">(Trải nghiệm)</span>'
+      : '';
+
+    tbody.innerHTML += `<tr>
+      <td><b>${e.name}</b>${freeBadge}</td>
+      <td>${e.questions || 50} câu</td>
+      <td>${e.time} phút</td>
+      <td>
+        <button class="btn btn-primary" onclick="clickStartExam('${e.id}')">Vào thi</button>
+      </td>
+    </tr>`;
+  });
 }
   // Map subject names for filter (current sampleExams use Toán học / Ngữ văn / Tiếng anh / Khoa học)
  const filtered = type === "all" ? sampleExams : sampleExams.filter(e => e.type === type);
