@@ -4,856 +4,856 @@
     "type": "Toán học",
     "name": "V-ACT ĐỀ 1",
     "time": 150,
-    "questions": 120
+    "questions": 120, "kythi": "vact"
   },
   {
     "id": "hsa_kh_1",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 1",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_2",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 2",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_3",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 3",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_4",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 4",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_5",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 5",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_6",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 6",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_7",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 7",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_8",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 8",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_25",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 25",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_27",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 27",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_28",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 28",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_29",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 29",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_30",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 30",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_31",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 31",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_32",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 32",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_33",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 33",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_34",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 34",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_35",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 35",
     "time": 100,
-    "questions": 85
+    "questions": 85, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_h",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (HÓA)",
     "time": 300,
-    "questions": 272
+    "questions": 272, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_d",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (ĐỊA)",
     "time": 300,
-    "questions": 272
+    "questions": 272, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_sh",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (SINH)",
     "time": 300,
-    "questions": 272
+    "questions": 272, "kythi": "dgnl"
   },
   {
     "id": "hsa_kh_s",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (SỬ)",
     "time": 300,
-    "questions": 272
+    "questions": 272, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_1",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 1",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_2",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 2",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_3",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 3",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_4",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 4",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_5",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 5",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_6",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 6",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_7",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 7",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_8",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 8",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_9",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 9",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_10",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 10",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_11",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 11",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_12",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 12",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_13",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 13",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_14",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 14",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_15",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 15",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_16",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 16",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_17",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 17",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_18",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 18",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_19",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 19",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_20",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 20",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_21",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 21",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_22",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 22",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_23",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 23",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_24",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 24",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_25",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 25",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_26",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 26",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_27",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 27",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_28",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 28",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_29",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 29",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_30",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 30",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_31",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 31",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_32",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 32",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_33",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 33",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_34",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 34",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_anh_35",
     "type": "Tiếng anh",
     "name": "HSA TIẾNG ANH - ĐỀ 35",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_1",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 1",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_2",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 2",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_3",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 3",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_4",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 4",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_5",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 5",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_6",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 6",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_7",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 7",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_8",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 8",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_9",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 9",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_10",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 10",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_11",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 11",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_12",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 12",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_13",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 13",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_14",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 14",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_15",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 15",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_17",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 17",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_18",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 18",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_19",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 19",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_20",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 20",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_21",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 21",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_22",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 22",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_23",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 23",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_24",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 24",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_25",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 25",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_26",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 26",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_27",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 27",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_28",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 28",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_29",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 29",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_30",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 30",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_31",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 31",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_32",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 32",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_33",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 33",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_34",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 34",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_35",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 35",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_36",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 36",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_37",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 37",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_38",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 38",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_39",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 39",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_40",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 40",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_41",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 41",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_42",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 42",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_toan_43",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 43",
-    "time": 75
+    "time": 75, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_1",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 1",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_2",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 2",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_3",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 3",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_4",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 4",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_5",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 5",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_6",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 6",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_7",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 7",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_8",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 8",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_9",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 9",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_10",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 10",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_11",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 11",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_12",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 12",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_13",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 13",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_14",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 14",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_15",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 15",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_16",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 16",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_17",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 17",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_18",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 18",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_19",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 19",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_20",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 20",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_21",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 21",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_22",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 22",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_23",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 23",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_24",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 24",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_25",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 25",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_26",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 26",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_27",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 27",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_28",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 28",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_29",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 29",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_30",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 30",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_31",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 31",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_32",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 32",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_33",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 33",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_34",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 34",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_35",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 35",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_36",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 36",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_37",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 37",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_38",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 38",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   },
   {
     "id": "hsa_van_39",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 39",
-    "time": 60
+    "time": 60, "kythi": "dgnl"
   }
 ]
