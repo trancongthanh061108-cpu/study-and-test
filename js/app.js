@@ -667,11 +667,28 @@ function _renderExamList(type) {
   const tbody = document.getElementById("exam-list-body");
   if (!tbody) return;
   tbody.innerHTML = "";
-if (currentKyThi !== "dgnl") {
-  tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
-    Đề thi <b>${(KY_THI_META[currentKyThi]||{}).title || currentKyThi}</b> đang được cập nhật. Vui lòng quay lại sau.
-  </td></tr>`;
-  return;
+function _renderExamList(type) {
+  const tbody = document.getElementById("exam-list-body");
+  if (!tbody) return;
+  tbody.innerHTML = "";
+
+  // Lọc theo kỳ thi hiện tại trước
+  let pool = sampleExams.filter(e => (e.kythi || "dgnl") === currentKyThi);
+
+  if (pool.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
+      Đề thi <b>${(KY_THI_META[currentKyThi]||{}).title || currentKyThi}</b> đang được cập nhật. Vui lòng quay lại sau.
+    </td></tr>`;
+    return;
+  }
+
+  const filtered = type === "all" ? pool : pool.filter(e => e.type === type);
+  if (filtered.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">Chưa có đề cho môn này.</td></tr>`;
+    return;
+  }
+  filtered.forEach(e => { ... });
+  ...
 }
   // Map subject names for filter (current sampleExams use Toán học / Ngữ văn / Tiếng anh / Khoa học)
  const filtered = type === "all" ? sampleExams : sampleExams.filter(e => e.type === type);
