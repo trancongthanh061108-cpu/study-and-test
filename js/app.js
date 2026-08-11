@@ -667,14 +667,26 @@ function _renderExamList(type) {
   const tbody = document.getElementById("exam-list-body");
   if (!tbody) return;
   tbody.innerHTML = "";
-  if (currentKyThi !== "dgnl") {
-    tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
-      Đề thi <b>${(KY_THI_META[currentKyThi]||{}).title || currentKyThi}</b> đang được cập nhật. Vui lòng quay lại sau.
-    </td></tr>`;
-    return;
-  }
+
   // Map subject names for filter (current sampleExams use Toán học / Ngữ văn / Tiếng anh / Khoa học)
-  const filtered = type === "all" ? sampleExams : sampleExams.filter(e => e.type === type);
+ const filtered = sampleExams.filter(e => {
+  let examKyThi = e.kythi;
+
+  // Giữ nguyên logic cũ: các đề hsa_* mặc định là HSA
+  if (!examKyThi && e.id && e.id.startsWith("hsa_")) {
+    examKyThi = "dgnl";
+  }
+
+  // Các đề vact_* là V-ACT
+  if (!examKyThi && e.id && e.id.startsWith("vact_")) {
+    examKyThi = "vact";
+  }
+
+  const matchKyThi = examKyThi === currentKyThi;
+  const matchType = type === "all" || e.type === type;
+
+  return matchKyThi && matchType;
+});
   if (filtered.length === 0) {
     tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">Chưa có đề cho môn này.</td></tr>`;
     return;
