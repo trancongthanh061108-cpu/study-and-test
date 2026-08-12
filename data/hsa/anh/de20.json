@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: Choose A, B, C or D to complete each sentence\nI have never heard of the singer _________ became famous overnight.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "what"
+    ],
+    "correct": 1,
+    "explanation": "Đại từ quan hệ. who: thay thế cho danh từ chỉ người, đóng vai trò chủ ngữ. => I have never heard of the singer who became famous overnight. Tạm dịch: Tôi chưa bao giờ nghe nói đến ca sĩ nào trở nên nổi tiếng chỉ sau một đêm.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: Choose A, B, C or D to complete each sentence\nI really regret _________ your feeling when I asked you such a silly question.",
+    "options": [
+      "hurting",
+      "driving",
+      "touching",
+      "respecting"
+    ],
+    "correct": 0,
+    "explanation": "Từ vựng. regret + Ving: hối hận đã làm gì. A. hurting (v) làm tổn thương. => I really regret hurting your feeling when I asked you such a silly question. Tạm dịch: Tôi thực sự hối hận vì đã làm tổn thương bạn khi hỏi bạn một câu hỏi ngớ ngẩn như vậy.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: Choose A, B, C or D to complete each sentence\nShe ________ visit her grandparents every weekend when she was a child.",
+    "options": [
+      "should",
+      "would",
+      "might",
+      "must"
+    ],
+    "correct": 1,
+    "explanation": "Động từ khuyết thiếu. Dùng would + Vinf để diễn tả hành động, thói quen đã từng xảy ra trong quá khứ (tương đương với cấu trúc used to V). => She would visit her grandparents every weekend when she was a child. Tạm dịch: Khi còn nhỏ, cô thường đến thăm ông bà vào mỗi cuối tuần.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: Choose A, B, C or D to complete each sentence\nIf you understand a matter thoroughly, that means you understand it________.",
+    "options": [
+      "hardly",
+      "hard",
+      "completely",
+      "complete"
+    ],
+    "correct": 2,
+    "explanation": "Từ vựng – Từ loại. Vị trí cần điền là một trạng từ bổ nghĩa cho động từ “understand”. C. completely (adv) hoàn toàn. => If you understand a matter thoroughly, that means you understand it completely. Tạm dịch: Nếu bạn hiểu rõ một vấn đề nào đó, điều đó có nghĩa là bạn hiểu nó một cách trọn vẹn.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: I ________ about a holiday in Greece! I couldn't believe it when my husband booked one as a surprise!",
+    "options": [
+      "had been dreamt",
+      "dreamt",
+      "had been dreaming",
+      "would have dreamt"
+    ],
+    "correct": 2,
+    "explanation": "Thì động từ. Dùng thì QKHTTD để nhấn mạnh sự liên tiếp của hành động trong quá khứ. => I had been dreaming about a holiday in Greece! I couldn't believe it when my husband booked one as a surprise! Tạm dịch: Tôi đã mơ về một kỳ nghỉ ở Hy Lạp! Tôi không thể tin được khi chồng tôi đặt một chuyến đi như một bất ngờ!",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: Spectators had great ______ for the amazing results that Vietnam's sports delegation gained.",
+    "options": [
+      "admire",
+      "admirable",
+      "admirer",
+      "admiration"
+    ],
+    "correct": 3,
+    "explanation": "Từ loại. Vị trí cần điền là một danh từ đứng sau tính từ 'great'. D. admiration (n) sự ngưỡng mộ. => Spectators had great admiration for the amazing results that Vietnam's sports delegation gained. Tạm dịch: Khán giả vô cùng ngưỡng mộ thành tích đáng kinh ngạc mà đoàn thể thao Việt Nam đạt được.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: Choose A, B, C or D to complete each sentence\nWe ________ that problem by now if we'd known about it earlier.",
+    "options": [
+      "fixed",
+      "will fix",
+      "would have fixed",
+      "would fix"
+    ],
+    "correct": 2,
+    "explanation": "Câu điều kiện loại 3. Cấu trúc: If + S + had + Vp.p, S + would have Vp.p. => We would have fixed that problem by now if we'd known about it earlier. Tạm dịch: Nếu biết về vấn đề này sớm hơn thì chúng tôi đã có thể giải quyết được rồi.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: Choose A, B, C or D to complete each sentence\nMany children are under such a high ______ of learning that they do not feel happy at school.",
+    "options": [
+      "pressure",
+      "interview",
+      "recommendation",
+      "concentration"
+    ],
+    "correct": 0,
+    "explanation": "Cụm từ cố định. be under pressure: chịu áp lực. => Many children are under such a high pressure of learning that they do not feel happy at school. Tạm dịch: Nhiều trẻ em phải chịu áp lực học tập quá cao đến nỗi không cảm thấy vui vẻ khi đến trường.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: Choose A, B, C or D to complete each sentence\nThey always try ________ ________ the bridge as they promised before.",
+    "options": [
+      "to postpone/ to build",
+      "postpone/ build",
+      "to postpone/ building",
+      "postponing/ built"
+    ],
+    "correct": 2,
+    "explanation": "try + to V: cố làm gì; postpone + Ving: trì hoãn việc gì. => They always try to postpone building the bridge as they promised before. Tạm dịch: Họ luôn cố gắng trì hoãn việc xây dựng cây cầu như họ đã hứa trước đó.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: Choose A, B, C or D to complete each sentence\nA council has been asked to ________ ________ the development in return for money for recreational facilities.",
+    "options": [
+      "come under fire",
+      "have hair a mind",
+      "give permission for",
+      "make room for"
+    ],
+    "correct": 2,
+    "explanation": "Cụm từ cố định. give permission for: cho phép làm gì. => A council has been asked to give permission for the development in return for money for recreational facilities. Tạm dịch: Một hội đồng đã được yêu cầu cấp phép phát triển dự án để đổi lấy tiền xây dựng các cơ sở giải trí.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/ phrase in each question.\nBetter healthcare and agriculture have led to rapid population growth.",
+    "options": [
+      "extension",
+      "expansion",
+      "enlargement",
+      "surplus"
+    ],
+    "correct": 1,
+    "explanation": "Từ vựng. growth (n) sự phát triển = expansion. Tạm dịch: Việc chăm sóc sức khỏe tốt hơn và nền nông nghiệp dẫn đến sự gia tăng dân số nhanh chóng.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/ phrase in each question.\nHis idleness and lack of concentration were the main causes for his dismissal.",
+    "options": [
+      "indolence",
+      "diligence",
+      "negligence",
+      "conscience"
+    ],
+    "correct": 0,
+    "explanation": "Từ vựng. idleness = indolence (sự lười biếng). Tạm dịch: Sự lười biếng và mất tập trung của anh ta là nguyên nhân chính cho việc anh ta bị sa thải.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/ phrase in each question.\nMrs. Pike is a feminist who advocates that women should be offered the same job opportunities as men.",
+    "options": [
+      "supports",
+      "believes",
+      "opposes",
+      "agrees"
+    ],
+    "correct": 2,
+    "explanation": "Từ vựng. advocate (ủng hộ) >< opposes (phản đối). Tạm dịch: Bà Pike là một nhà nữ quyền, người ủng hộ việc phụ nữ nên được hưởng những cơ hội việc làm giống như nam giới.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/ phrase in each question.\nDomestic chores will no longer be a burden thanks to the inventions of labor-saving devices.",
+    "options": [
+      "pressure",
+      "comfort",
+      "happiness",
+      "tackle"
+    ],
+    "correct": 1,
+    "explanation": "Từ vựng. burden (gánh nặng) >< comfort (sự an nhàn, tiện nghi). Tạm dịch: Công việc nhà sẽ không còn là gánh nặng nhờ những phát minh về thiết bị tiết kiệm sức lao động.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Choose A, B, C or D to complete each dialogue.\nAmy: \"Would you mind sending those flowers to Mrs. Brown?\"\nMark: “________”",
+    "options": [
+      "He wouldn't mind.",
+      "I would if I were you.",
+      "No, I can handle it myself.",
+      "Sure, I'll do it now."
+    ],
+    "correct": 3,
+    "explanation": "Hội thoại giao tiếp. Câu trả lời D là hợp lý nhất vì Mark đồng ý một cách lịch sự và sẵn sàng thực hiện yêu cầu của Amy ngay lập tức.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: Choose A, B, C or D to complete each dialogue.\nSarah: \"Did you enjoy the movie?\"\nNick: “_____________”",
+    "options": [
+      "I haven't watched it yet.",
+      "The popcorn was great.",
+      "It starts in an hour.",
+      "You should watch it tomorrow."
+    ],
+    "correct": 0,
+    "explanation": "Hội thoại giao tiếp. Câu trả lời A là hợp lý nhất vì câu hỏi giả định Nick đã xem phim, và câu trả lời này cho thấy Nick chưa xem.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Choose A, B, C or D to complete each dialogue.\nKevin: \"Are you ready to start the presentation?\"\nAlex: \"Yeah, I'm all set, _________\"",
+    "options": [
+      "I'll give it a spin.",
+      "I'll give it a thought.",
+      "I'll give it a miss.",
+      "I'll give it a break."
+    ],
+    "correct": 1,
+    "explanation": "Hội thoại giao tiếp. Câu trả lời B là hợp lý nhất vì Alex đã sẵn sàng bắt đầu bài thuyết trình và câu trả lời này thể hiện sự quyết tâm bắt đầu ngay lập tức.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Choose A, B, C or D to complete each dialogue.\nJack: \"Do you want help with the project, or do you think you've got it covered?\"\nMia: “_________”",
+    "options": [
+      "I'd be grateful for some help, if you're available.",
+      "I'm confident I can manage it on my own, thanks.",
+      "I'm still working out how to tackle it effectively.",
+      "It's challenging, but I'd prefer to not complete it."
+    ],
+    "correct": 0,
+    "explanation": "Hội thoại giao tiếp. Câu trả lời A là hợp lý nhất vì Mia thể hiện sự cảm kích và mong muốn nhận sự giúp đỡ nếu Jack có thể giúp đỡ.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Choose A, B, C or D to make a complete dialogue for each question.\na. I'm sorry, I don't have any cash on me.\nb. Would you like to pay by card or cash?\nc. I'd like to buy a book, please.\nd. I'm afraid we only accept cash for purchases under $10.",
+    "options": [
+      "c-d-b-a",
+      "d-c-b-a",
+      "c-b-a-d",
+      "d-b-a-c"
+    ],
+    "correct": 2,
+    "explanation": "Sắp xếp hội thoại. Thứ tự đúng: c-b-a-d. Hội thoại hoàn chỉnh: khách nêu nhu cầu → hỏi phương thức thanh toán → không có tiền mặt → chính sách chỉ nhận tiền mặt.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Choose A, B, C or D to make a complete dialogue for each question.\na. I'm so sorry to hear that. Would you like me to help you clean up?\nb. That's terrible! Tell me if you need any help.\nc. My dog knocked over my vase and broke it.\nd. Don't worry, it's not a big deal. I can do it myself.",
+    "options": [
+      "a-b-c-d",
+      "c-d-a-b",
+      "b-c-a-d",
+      "c-a-d-b"
+    ],
+    "correct": 3,
+    "explanation": "Sắp xếp hội thoại. Thứ tự đúng: c-a-d-b. Hội thoại hoàn chỉnh: nêu vấn đề → cảm thông + đề nghị giúp → từ chối lịch sự → sẵn sàng hỗ trợ nếu cần.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Choose A, B, C or D to make a complete dialogue for each question.\na. I'm thinking of going to the beach this weekend.\nb. Oh no, I was hoping for a sunny weekend.\nc. No, I haven't. Is it supposed to rain?\nd. What are you planning for the summer holiday?\ne. Sounds like a good plan. Have you checked the weather forecast?\nf. I think it might rain on Sunday, but Saturday should be fine.",
+    "options": [
+      "d-f-e-c-b-a",
+      "d-a-e-c-f-b",
+      "e-c-f-b-d-a",
+      "d-a-f-b-e-c"
+    ],
+    "correct": 1,
+    "explanation": "Sắp xếp hội thoại. Thứ tự đúng: d-a-e-c-f-b. Hội thoại hoàn chỉnh: hỏi kế hoạch → trả lời → hỏi thời tiết → chưa kiểm tra → dự báo → thất vọng.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Choose A, B, C or D to make a complete dialogue for each question.\na. I make a point of avoiding plastic bags whenever I go shopping.\nb. Have you considered using reusable bags instead?\nc. I agree with you. Plastic pollution is a serious environmental issue.\nd. That's a great suggestion! I haven't started using reusable bags yet, but I've been thinking about it.\ne. I've been using reusable bags for some time now, and it feels rewarding to help the environment.\nf. Are you concerned about the amount of plastic we use in our daily lives?",
+    "options": [
+      "f-a-d-e-b-c",
+      "f-c-b-a-e-d",
+      "f-a-b-d-e-c",
+      "f-c-a-b-e-d"
+    ],
+    "correct": 2,
+    "explanation": "Sắp xếp hội thoại. Thứ tự đúng: f-a-b-d-e-c. Hội thoại hoàn chỉnh: hỏi mối quan tâm → nêu giải pháp cá nhân → đề xuất túi tái sử dụng → phản hồi tích cực → chia sẻ kinh nghiệm → đồng thuận.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Choose A, B, C or D that has the CLOSEST meaning to the given sentence in each question.\nEating a diet rich in fruits and vegetables is often better for overall health than a diet high in sugary snacks.",
+    "options": [
+      "A diet high in sugary snacks is probably healthier than a diet rich in fruits and vegetables.",
+      "A diet high in sugary snacks is definitely more beneficial for health compared to one rich in fruits and vegetables.",
+      "A diet rich in fruits and vegetables is generally better for overall health than one high in sugary snacks.",
+      "Eating a diet high in sugary snacks is certainly worse for overall health than eating one rich in fruits and vegetables."
+    ],
+    "correct": 2,
+    "explanation": "Phỏng đoán. often ≈ generally. Đáp án C sát nghĩa nhất với câu gốc.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: Choose A, B, C or D that has the CLOSEST meaning to the given sentence in each question.\nThe book was so captivating that I completed it in a single continuous reading session.",
+    "options": [
+      "The book was too captivating to permit any interruptions until I had finished it.",
+      "I found the captivating book so absorbing that I read it without any breaks.",
+      "It was such a captivating book that I completed it in a single continuous reading session.",
+      "The captivating nature of the book caused me to take multiple breaks before finishing."
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc so/such...that. Đáp án C sát nghĩa câu gốc nhất.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: Choose A, B, C or D that has the CLOSEST meaning to the given sentence in each question.\nThe sight of the colorful autumn leaves filled her with a sense of peace.",
+    "options": [
+      "The colorful autumn leaves were calming to her.",
+      "She was disappointed by the sight of the colorful autumn leaves.",
+      "The colorful autumn leaves made her feel anxious.",
+      "She was indifferent to the sight of the colorful autumn leaves."
+    ],
+    "correct": 0,
+    "explanation": "Từ vựng – Dịch nghĩa. a sense of peace = calming. Đáp án A sát nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Choose A, B, C or D that has the CLOSEST meaning to the given sentence in each question.\nAs the sun dipped below the horizon, the travelers hurriedly made their way to the shelter before nightfall.",
+    "options": [
+      "The travelers rushed to the shelter as darkness began to descend, hastened by the setting sun.",
+      "Hardly had the sun disappeared when the travelers began to search for shelter, anticipating the coming night.",
+      "As soon as the last rays of sunlight vanished, the travelers took their time to head toward the shelter for the night.",
+      "After the sun vanished completely, the travelers gradually moved to their shelter, hoping to reach it by nightfall."
+    ],
+    "correct": 0,
+    "explanation": "Từ vựng – Dịch nghĩa. hurriedly = rushed; sát nghĩa câu gốc nhất là A.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentence in each question.\nThe concert tickets sold out within minutes, showing how popular the band is.",
+    "options": [
+      "The band's popularity was evident when concert tickets sold out almost immediately.",
+      "The tickets for the concert were not popular, as they sold out after a long period.",
+      "The concert was unsuccessful because the tickets sold out quickly.",
+      "Selling out tickets slowly is a sign that the band's popularity is growing."
+    ],
+    "correct": 0,
+    "explanation": "Từ vựng – dịch nghĩa câu. Đáp án A sát nghĩa nhất.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentence in each question.\nShe was unable to attend the conference. This affected her ability to network with industry professionals.",
+    "options": [
+      "If she had attended the conference, she would have been able to network with industry professionals.",
+      "Attending the conference would have had no impact on her ability to network with industry professionals.",
+      "Her ability to network with industry professionals was not affected by her absence from the conference.",
+      "The lack of attendance at the conference limited her opportunities to connect with industry professionals."
+    ],
+    "correct": 3,
+    "explanation": "Dịch nghĩa câu – Từ vựng. Đáp án D đúng nghĩa nhất.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentence in each question.\nHe finally achieved his goal of becoming a published author. It required years of dedication and hard work.",
+    "options": [
+      "His dedication and hard work over the years restrained him from becoming a published author.",
+      "It took him years of dedication and hard work to achieve his goal of being a published author.",
+      "After many years of effort, he was able to fulfill his goal of becoming a published author.",
+      "Through persistent effort, he spent years working towards his goal of becoming a published author."
+    ],
+    "correct": 1,
+    "explanation": "Dịch nghĩa câu – Từ vựng. Đáp án B đúng nghĩa nhất.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentence in each question.\nI was tempted by the new phone. However, I chose to save my money for a future investment.",
+    "options": [
+      "Despite being tempted by the new phone, I chose to save my money for a future investment.",
+      "If I had chosen the new phone, I would have saved money for a future investment instead.",
+      "I was tempted by the new phone, but saving money for a future investment seemed like the better choice.",
+      "I would rather save money for a future investment than to be tempted by the new phone."
+    ],
+    "correct": 0,
+    "explanation": "Dịch nghĩa câu. Đáp án A sát nghĩa câu gốc nhất.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Twenty years ago, few people had (631) ______ to a computer while today most people use them at work, home or school and use of e-mail and the Internet is an everyday event.",
+    "options": [
+      "permission",
+      "access",
+      "assistance",
+      "chance"
+    ],
+    "correct": 1,
+    "explanation": "Từ vựng. had access to: có quyền truy cập. => Twenty years ago, few people had access to a computer...",
+    "passage": "passage_it"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: Clearly, for many people this has (632) ______ and more convenient.",
+    "options": [
+      "make much easier life",
+      "made life much easier",
+      "to make life much easier",
+      "to make much easier life"
+    ],
+    "correct": 1,
+    "explanation": "Thì Hiện tại hoàn thành. has + VpII. => this has made life much easier and more convenient.",
+    "passage": "passage_it"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: However, not all the effects of the new technology have been (633) ______.",
+    "options": [
+      "helpless",
+      "valuable",
+      "important",
+      "beneficial"
+    ],
+    "correct": 3,
+    "explanation": "Từ vựng. beneficial (adj) có ích. => not all the effects ... have been beneficial.",
+    "passage": "passage_it"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: This has led to (634) ______.",
+    "options": [
+      "many concerns that children accessing unsuitable websites",
+      "regarding many concerns children accessing unsuitable websites",
+      "many concerns regarding children accessing unsuitable websites",
+      "accessing unsuitable websites of many concerns regarding children"
+    ],
+    "correct": 2,
+    "explanation": "Rút gọn MĐQH. Đáp án C đúng cấu trúc: many concerns regarding children accessing unsuitable websites.",
+    "passage": "passage_it"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: In conclusion, developments in IT have brought many benefits, yet I believe (635) ______ in the future are likely to produce many negative effects that will need to be addressed very carefully.",
+    "options": [
+      "the new technology development",
+      "relating to new technological developments",
+      "to new technological developments",
+      "developments relating to new technology"
+    ],
+    "correct": 3,
+    "explanation": "Mệnh đề quan hệ. Đáp án D là cụm danh từ phù hợp làm chủ ngữ số nhiều.",
+    "passage": "passage_it"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What does the word them in paragraph 1 refer to?",
+    "options": [
+      "parents",
+      "children",
+      "games",
+      "teachers"
+    ],
+    "correct": 1,
+    "explanation": "Thông tin: ... the possible effects that computer games might have on them. them = children.",
+    "passage": "passage_internet"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: How do students commit plagiarism?",
+    "options": [
+      "Reference others' work",
+      "Have their homework done by some sites",
+      "Copy someone's essays",
+      "Pretend to master at writing"
+    ],
+    "correct": 2,
+    "explanation": "Thông tin đoạn 2: plagiarism – taking other people’s words and ideas and pretending that they are your own. ... students can simply copy extracts from websites- while really desperate students sometimes copy whole essays!",
+    "passage": "passage_internet"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: What is mentioned about teachers in paragraph 3?",
+    "options": [
+      "They can limit students to assess harmful websites.",
+      "They probably trace the sources that students make copied.",
+      "They can't realize cheating without using software",
+      "They ask students to explain the word above their students' levels."
+    ],
+    "correct": 1,
+    "explanation": "Thông tin: new software helps teachers to detect copied work immediately. Many ... are already able to recognize when someone is cheating!",
+    "passage": "passage_internet"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: What is the word “detect” in paragraph 3 closest in meaning to?",
+    "options": [
+      "ignore",
+      "notice",
+      "admire",
+      "confide"
+    ],
+    "correct": 1,
+    "explanation": "Từ vựng. detect = notice (phát hiện).",
+    "passage": "passage_internet"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: Which of the following would the author most likely support?",
+    "options": [
+      "How to apply blended learning is a new challenge for teachers.",
+      "Teachers should not allow students to take advantage of copied work.",
+      "The Internet can be used positively in education.",
+      "The role of teachers becomes less important as more modern devices appear in class."
+    ],
+    "correct": 2,
+    "explanation": "Suy luận toàn bài. Tác giả ủng hộ việc khai thác Web tích cực để giúp học sinh học tập và phát triển kỹ năng.",
+    "passage": "passage_internet"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: Which of the following can we infer from paragraph 1?",
+    "options": [
+      "Some people can understand their feelings better than others.",
+      "People who can manage their emotions will be controlled by them.",
+      "If people pay attention to their feelings, they will not be able to manage them.",
+      "If people pay attention to their feelings, they can control their emotions better."
+    ],
+    "correct": 3,
+    "explanation": "Thông tin: People who are able to monitor their feelings as they arise are less likely to be ruled by them and are thus better able to manage their emotions.",
+    "passage": "passage_eq"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: According to the second paragraph, which of the following is NOT true about emotions?",
+    "options": [
+      "We can manage our emotions.",
+      "We should ignore some feelings.",
+      "Every feeling is important.",
+      "Emotions are part of a satisfying life."
+    ],
+    "correct": 1,
+    "explanation": "Thông tin: every feeling has value and significance. ... A life without passion would be a dull wasteland... → Không nên bỏ qua cảm xúc.",
+    "passage": "passage_eq"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: What does the word “them” in paragraph 3 refer to?",
+    "options": [
+      "intense emotions",
+      "psychologists",
+      "individuals",
+      "individual differences"
+    ],
+    "correct": 0,
+    "explanation": "Thông tin: ... predict differences in the ability to manage them. them = intense emotions / those feelings.",
+    "passage": "passage_eq"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: Which of the following best paraphrases this sentence: “Self-motivation refers to strong emotional self-control, which enables a person to get moving and pursue worthy goals.”?",
+    "options": [
+      "Self-motivation is having the emotional discipline needed to initiate action and chase important objectives.",
+      "Self-motivation is when a person follows their instincts and pursues any goals that come their way.",
+      "Self-motivation means relying on external encouragement to achieve desired goals.",
+      "Self-motivation is about acting impulsively to achieve goals without worrying about emotional control."
+    ],
+    "correct": 0,
+    "explanation": "Paraphrase. Đáp án A sát nghĩa nhất.",
+    "passage": "passage_eq"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: According to paragraph 5, children might be more successful in school if they can resist impulses because _______________.",
+    "options": [
+      "They can have more friends at school.",
+      "They can easily understand new information.",
+      "They can focus on their work and not get distracted.",
+      "They can be more popular with their teachers."
+    ],
+    "correct": 2,
+    "explanation": "Thông tin: children who can delay instant gratification ... will be “far superior as students” ... → tập trung vào mục tiêu dài hạn, không bị phân tâm bởi thôi thúc tức thời.",
+    "passage": "passage_eq"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You're at a local art class where a group of people is working on a collaborative painting. You've been observing for a while but would love to contribute. What could you say to politely ask to join the painting?",
+    "options": [
+      "I've been admiring your work; would you mind if I added a small section to the mural?",
+      "Wow, the colors you're using are fantastic! Could I try adding some too?",
+      "Maybe I could help by contributing something to the painting.",
+      "This painting looks like it's coming along great! Shouldn't more people help to finish it faster?"
+    ],
+    "correct": 0,
+    "explanation": "Tình huống giao tiếp. Đáp án A lịch sự, thể hiện sự tôn trọng và đánh giá cao công việc của nhóm.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: Mr. Thompson, a senior executive, is asking Rachel, a junior analyst, to finalize a financial report before an important board meeting. What would be the most appropriate and professional response for Rachel in this situation?\nMr. Thompson: Can you have the financial report completed and submitted by Thursday morning for the board meeting?\nRachel: _________",
+    "options": [
+      "Absolutely, I'll prioritize it and ensure it's finalized by Thursday morning.",
+      "I'll do my best, but I might need more time due to the complexity of the data.",
+      "That's quite urgent, but I'll see what I can manage by then.",
+      "It's a tight deadline, but I'm confident I can meet it as requested."
+    ],
+    "correct": 0,
+    "explanation": "Tình huống chuyên nghiệp. Đáp án A thể hiện thái độ chủ động, cam kết và sẵn sàng ưu tiên nhiệm vụ.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: Which of the following statements about a historical event could be considered a fact?",
+    "options": [
+      "The event marked the beginning of a new era in global politics.",
+      "The event resulted in a significant shift in public opinion.",
+      "The event was officially recognized in the year 1776.",
+      "The event is often regarded as one of the most influential moments in history."
+    ],
+    "correct": 2,
+    "explanation": "Sự thật khách quan vs ý kiến. Đáp án C là thông tin cụ thể, có thể xác minh được.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: The office manager has received complaints about distractions in the workplace affecting productivity. To address this, she has asked the team leads to observe and report any behaviors causing disruptions. Which situation should the team leads report to the office manager?",
+    "options": [
+      "An employee is wearing headphones and working quietly at their desk.",
+      "Two employees are engaged in a loud personal conversation in the break room.",
+      "A group of employees is brainstorming ideas in a meeting room.",
+      "An employee is eating lunch at their desk while answering emails."
+    ],
+    "correct": 1,
+    "explanation": "Tình huống xử lý. Hành vi B có thể gây mất tập trung cho người khác và cần được báo cáo.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: You light a candle and place a glass jar over it. After a short time, the flame goes out. What is the most likely explanation for this reaction?",
+    "options": [
+      "The wax of the candle evaporates and fills the jar, extinguishing the flame.",
+      "The heat from the candle causes the air in the jar to expand, putting out the flame.",
+      "The flame uses up the oxygen in the jar, and without oxygen, it cannot continue to burn.",
+      "The glass jar traps heat, causing the flame to overheat and extinguish itself."
+    ],
+    "correct": 2,
+    "explanation": "Kiến thức khoa học cơ bản. Ngọn lửa cần oxy để cháy; khi oxy trong bình cạn kiệt, ngọn lửa tắt.",
+    "passage": null
+  }
+]

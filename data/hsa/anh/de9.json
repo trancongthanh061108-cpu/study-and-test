@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: The scientist ______ discovered the new element was awarded the Nobel Prize.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 0,
+    "explanation": "Who thay thế cho danh từ chỉ người đứng trước nó, dùng làm chủ ngữ. Danh từ “the scientist” đóng vai trò chủ ngữ trong mệnh đề quan hệ nên phải dùng đại từ “who”.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: The manager suggested ______ the project deadline to ensure higher quality work.",
+    "options": [
+      "extending",
+      "expanding",
+      "delaying",
+      "postponing"
+    ],
+    "correct": 0,
+    "explanation": "extending (v): kéo dài. The manager suggested extending the project deadline to ensure higher quality work.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: To ensure the project's success, the team members ______ collaborate effectively.",
+    "options": [
+      "are looking forward to",
+      "could",
+      "must",
+      "expect to"
+    ],
+    "correct": 2,
+    "explanation": "must: phải. To ensure the project's success, the team members must collaborate effectively.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: The new policy aims to make the workplace more ______ by introducing flexible working hours.",
+    "options": [
+      "efficient",
+      "enjoyable",
+      "complicated",
+      "accommodating"
+    ],
+    "correct": 3,
+    "explanation": "accommodating (adj): dễ thích nghi / thuận tiện. The new policy aims to make the workplace more accommodating by introducing flexible working hours.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: John ______ pursuing further education after completing his undergraduate degree next year.",
+    "options": [
+      "is considering",
+      "has considered",
+      "was considering",
+      "will be considered"
+    ],
+    "correct": 0,
+    "explanation": "Thì hiện tại tiếp diễn dùng diễn tả sự sắp xếp hay kế hoạch trong tương lai. John is considering pursuing further education...",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: The motivational speaker's words were ______ to all the attendees at the conference.",
+    "options": [
+      "encouragement",
+      "encouraging",
+      "encouraged",
+      "encouragements"
+    ],
+    "correct": 1,
+    "explanation": "Sau động từ “were” cần tính từ. encouraging (tính từ) diễn tả lời nói có tính khích lệ.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: If Sarah ______ more experience, she would have been selected for the managerial position.",
+    "options": [
+      "has",
+      "had had",
+      "had",
+      "will have"
+    ],
+    "correct": 1,
+    "explanation": "Câu điều kiện loại 3: If + S + had VpII, S + would have + VpII. If Sarah had had more experience...",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: To conserve energy, companies are urged to switch to more ______ heating systems.",
+    "options": [
+      "reliable",
+      "compatible",
+      "economic",
+      "advanced"
+    ],
+    "correct": 1,
+    "explanation": "compatible (adj): tương thích. To conserve energy, companies are urged to switch to more compatible heating systems.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: The environmental agency aims to ______ businesses in reducing their waste output by 30%.",
+    "options": [
+      "assisting",
+      "promoting",
+      "encouraging",
+      "requiring"
+    ],
+    "correct": 2,
+    "explanation": "encouraging (v): khuyến khích. The environmental agency aims to encouraging businesses...",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: Professionals should ______ the impact of technological advancements on their industry when planning their careers.",
+    "options": [
+      "take into consideration",
+      "make the most of",
+      "be cautious about",
+      "seek advice on"
+    ],
+    "correct": 0,
+    "explanation": "take into consideration: xem xét / cân nhắc.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: The teacher praised the student for his diligent efforts throughout the semester.",
+    "options": [
+      "hardworking",
+      "intelligent",
+      "punctual",
+      "organized"
+    ],
+    "correct": 0,
+    "explanation": "diligent = hardworking (siêng năng, chăm chỉ).",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: The manager asked the team to come up with new ideas for the project.",
+    "options": [
+      "submit",
+      "withdraw",
+      "delay",
+      "reject"
+    ],
+    "correct": 0,
+    "explanation": "come up with = submit (đưa ra / đề xuất ý tưởng).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: The scientist's findings were comprehensive and covered all aspects of the study.",
+    "options": [
+      "detailed",
+      "incomplete",
+      "extensive",
+      "precise"
+    ],
+    "correct": 1,
+    "explanation": "comprehensive (toàn diện) trái nghĩa với incomplete.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: I'm afraid physics will always be a closed book to me.",
+    "options": [
+      "a subject that I can't understand",
+      "a chance that I miss",
+      "a book that can't open",
+      "a deep-understanding"
+    ],
+    "correct": 3,
+    "explanation": "a closed book: chủ đề khó hiểu, không thể nắm bắt. Đáp án D là trái nghĩa nên được chọn theo ngữ cảnh của đề (theo key).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Alex: I've been feeling so overwhelmed with all the deadlines. Morgan: __________",
+    "options": [
+      "Maybe you need to prioritize your tasks.",
+      "You should have asked for more help earlier.",
+      "Deadlines are always so daunting, aren't they?",
+      "Why don't you just forget about them?"
+    ],
+    "correct": 0,
+    "explanation": "Đáp án phù hợp nhất là gợi ý ưu tiên công việc.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: Lisa: Could you proofread my report before I submit it? John: __________",
+    "options": [
+      "I'm really busy right now.",
+      "I'd be glad to help you with that.",
+      "Proofreading isn't part of my job.",
+      "I haven't finished my own report yet."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án phù hợp nhất là sẵn sàng giúp đỡ.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Emily: I've been working on this presentation for days, and I'm still not satisfied. Jack: __________",
+    "options": [
+      "You must be putting in a lot of effort.",
+      "You should have started earlier.",
+      "You're overthinking it.",
+      "You're making progress, but it might be too much for one person."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án phù hợp nhất là ghi nhận nỗ lực của đối phương.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Julia: I'm gonna have an important exam tomorrow. Rachel: __________",
+    "options": [
+      "Break a leg.",
+      "Let your hair down.",
+      "Don't worry! It's easy as a pie.",
+      "You're on the next level."
+    ],
+    "correct": 0,
+    "explanation": "Break a leg = chúc may mắn.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: a. I'm planning to start a new exercise routine next week. b. I'm going to focus on weight training and cardio. c. That's awesome! What kind of exercises are you thinking of doing? d. Do you need any help setting up a workout plan?",
+    "options": [
+      "a-b-c-d",
+      "a-c-b-d",
+      "a-b-d-c",
+      "a-d-b-c"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự logic: a → c → b → d.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: a. I've been working on the presentation all day. b. Thanks, I'd appreciate that. Could you look it over before the meeting? c. I'm almost done, just adding the final touches. d. Do you want me to review it for you?",
+    "options": [
+      "b-c-d-a",
+      "b-d-c-a",
+      "a-d-b-c",
+      "a-c-b-d"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự logic: a → c → b → d.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: a. Yes, I've been using an AI assistant to organize my schedule. It's incredibly efficient. b. Absolutely! AI can generate ideas, edit content, and even write full articles. c. Have you tried using AI tools for your daily tasks? d. AI is really changing the way we work and live, isn't it? e. That's interesting! Can it also help with creative tasks like writing? f. True. I think it's a great tool, but it also raises questions about job security.",
+    "options": [
+      "b – d – a - c – f – e",
+      "f - b – e - d – c – a",
+      "c - a - e - b - d - f",
+      "c – b - e – f – a - d"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự logic: c → a → e → b → d → f.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: a. That sounds amazing! Are you booking everything yourself? b. I'm thinking about visiting Italy. I've always wanted to see Rome and Venice. c. No, I'm using a travel app to find deals and plan my itinerary. It makes things so easy. d. Where are you planning to travel this summer? e. Yes, it's so much more convenient than traditional methods of planning. f. Wow. Technology really simplifies travel these days.",
+    "options": [
+      "d – a – e – b - f – c",
+      "d – b – a – c - f – e",
+      "f - d – c – b – e – a",
+      "d – b – c – a – f - e"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự logic: d → b → a → c → f → e.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: I did not understand what the lecturer was saying because I had not read his book.",
+    "options": [
+      "What the lecturer wrote and said was too difficult for me to understand.",
+      "The lecturer's book which I had not read was difficult to understand.",
+      "I found it very difficult to understand what the lecturer said in his book.",
+      "I would have understood what the lecturer was saying if I had read his book."
+    ],
+    "correct": 3,
+    "explanation": "Câu điều kiện loại 3 diễn tả giả định trái với quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: He was sentenced to six months in prison for his part in the robbery.",
+    "options": [
+      "He received six months in prison for his part in the robbery.",
+      "He received a six-month sentence for his part in the robbery.",
+      "For his participation in the robbery, he had been in prison for six months.",
+      "For his participation in the robbery, a prison had been given to him for six months."
+    ],
+    "correct": 1,
+    "explanation": "a six-month sentence là cách diễn đạt chuẩn.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: When the unemployment rate is high, the crime rate is usually also high.",
+    "options": [
+      "The unemployment rate and the crime rate are both higher.",
+      "The higher the unemployment rate is, the higher the crime rate is.",
+      "The unemployment rate is as high as the crime rate.",
+      "The high rate of unemployment depends on the high rate of crime."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc so sánh càng…càng: The higher… the higher…",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: They did not let me in because I was not a member of the club.",
+    "options": [
+      "They invited me although I was not a member of the club.",
+      "They did not allow me to enter because I was not a member of the club.",
+      "They invited me to the clubs as if I had been a member.",
+      "They asked me to get out of the club because I was not a member."
+    ],
+    "correct": 1,
+    "explanation": "let sb do = allow sb to V.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Guests are not allowed to bring food into the theater. No exceptions are made.",
+    "options": [
+      "By no means are guests permitted to bring food into the theater.",
+      "Under no circumstances are guests allowed to bring food into the theater.",
+      "On no occasion are guests allowed to eat in the theater.",
+      "At no time are guests allowed to consume food inside the theater."
+    ],
+    "correct": 1,
+    "explanation": "Under no circumstances + đảo ngữ nhấn mạnh sự nghiêm cấm tuyệt đối.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Tom missed the deadline for the scholarship application. He regrets it now.",
+    "options": [
+      "Provided that Tom hadn't met the deadline, he would have applied for the scholarship.",
+      "Tom wishes he had met the deadline for the scholarship application.",
+      "Tom regrets that he didn't meet the deadline for the scholarship.",
+      "If only Tom had met the deadline, he would have missed the chance for the scholarship."
+    ],
+    "correct": 1,
+    "explanation": "wish + had VpII diễn tả ước trái với quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: The young girl has great experience of nursing. She has worked as a hospital volunteer for years.",
+    "options": [
+      "Before she worked as a hospital volunteer for years, the young girl has great experience of nursing.",
+      "Much as she has worked as a hospital volunteer for years, the young girl has great experience of nursing.",
+      "Having worked as a hospital volunteer for years, the young girl has great experience of nursing.",
+      "With great experience of nursing, the young girl has worked as a hospital volunteer for years."
+    ],
+    "correct": 2,
+    "explanation": "Having VpII diễn tả hành động hoàn thành trước hành động chính.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: The project was delayed due to unforeseen circumstances. However, it was eventually completed on time.",
+    "options": [
+      "Although the project faced delays due to unforeseen circumstances, it was completed on time.",
+      "Unless the project faced unforeseen delays, it was not completed within the scheduled time.",
+      "Due to unforeseen circumstances, the project was delayed, however it was completed on time.",
+      "Despite the delay was caused by unforeseen circumstances, the project was finished on time."
+    ],
+    "correct": 0,
+    "explanation": "Although nối hai ý trái ngược một cách ngữ pháp đúng.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: In fact, childhood has been a very ____ time.",
+    "options": [
+      "receptive",
+      "sensitive",
+      "susceptible",
+      "fragile"
+    ],
+    "correct": 2,
+    "explanation": "susceptible (adj): dễ bị tổn thương / dễ bị ốm.",
+    "passage": "passage9_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: ____, and people know very little how to cure them once they struck.",
+    "options": [
+      "Many diseases attack children in particular",
+      "Most diseases attacking children detected",
+      "Children being infected with fatal diseases",
+      "Being vulnerable with incurable diseases"
+    ],
+    "correct": 0,
+    "explanation": "Many diseases attack children in particular phù hợp ngữ cảnh.",
+    "passage": "passage9_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: ____.",
+    "options": [
+      "Many people got over the diseases no longer survived",
+      "That means children need caring",
+      "People should be provided with advanced healthcare service",
+      "The result was that many children died"
+    ],
+    "correct": 3,
+    "explanation": "The result was that many children died phù hợp logic của đoạn.",
+    "passage": "passage9_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: The reason of many diseases was found, and ____ which were developed.",
+    "options": [
+      "cures",
+      "causes",
+      "strategies",
+      "cases"
+    ],
+    "correct": 0,
+    "explanation": "cures (n): các phương pháp chữa trị.",
+    "passage": "passage9_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: Undoubtedly, medical science will continue ____.",
+    "options": [
+      "advance",
+      "to be advanced",
+      "advanced",
+      "advancing"
+    ],
+    "correct": 3,
+    "explanation": "continue + V-ing. advancing: tiến bộ.",
+    "passage": "passage9_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: The word it in paragraph 2 refers to ________.",
+    "options": [
+      "outer space",
+      "waiting time",
+      "earth",
+      "telemedicine"
+    ],
+    "correct": 3,
+    "explanation": "it thay thế cho telemedicine.",
+    "passage": "passage9_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: All the following are mentioned as benefits of telemedicine EXCEPT ______.",
+    "options": [
+      "Reducing queues and waiting times in hospitals",
+      "Improving treatment for the elderly",
+      "Lowering the cost of medical treatment",
+      "Enhancing medical education"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn văn không đề cập đến việc giảm chi phí điều trị.",
+    "passage": "passage9_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: What does the passage suggest is a significant advantage of telemedicine for people in developing countries?",
+    "options": [
+      "It reduces the need for medical professionals.",
+      "It eliminates the need for medical equipment.",
+      "It provides direct access to hospital specialists.",
+      "It makes traditional textbooks obsolete."
+    ],
+    "correct": 2,
+    "explanation": "Satellite phone + computer có thể thiết lập liên kết trực tiếp với chuyên gia bệnh viện.",
+    "passage": "passage9_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: How did telemedicine help the oil-rig worker mentioned in the passage?",
+    "options": [
+      "It allowed him to receive medication remotely.",
+      "It enabled a doctor on land to assess his condition.",
+      "It provided real-time weather updates.",
+      "It transported him to the mainland during a storm."
+    ],
+    "correct": 1,
+    "explanation": "Video discussion and examination by a doctor on land.",
+    "passage": "passage9_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: Which of the following is TRUE according to the passage?",
+    "options": [
+      "Telemedicine first became possible thanks to video technology and high-speed communications.",
+      "People using telemedicine will need to go to hospitals more for follow-up treatment.",
+      "People in developed countries still have great difficulty getting access to medical check.",
+      "Telemedicine can connect leading medical specialists with students around the world."
+    ],
+    "correct": 3,
+    "explanation": "Telemedicine could also change medical education by bringing the expert skills of the world’s leading specialists to students throughout the world.",
+    "passage": "passage9_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the term “stifling” in paragraph 2 mean?",
+    "options": [
+      "discovering",
+      "strengthening",
+      "limiting",
+      "charging"
+    ],
+    "correct": 2,
+    "explanation": "stifling = limiting (kìm hãm, hạn chế).",
+    "passage": "passage9_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: The word “which” in paragraph 3 refers to ______.",
+    "options": [
+      "ability",
+      "process",
+      "groundwork",
+      "school"
+    ],
+    "correct": 1,
+    "explanation": "which thay thế cho a continuous process of restrictions.",
+    "passage": "passage9_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: What does the passage suggest as one of the main obstacles to creativity?",
+    "options": [
+      "A lack of formal education",
+      "The desire to bring order to the world",
+      "The natural absence of creative talent",
+      "The encouragement of freedom from rules"
+    ],
+    "correct": 1,
+    "explanation": "the obsessive desire to give order to the world is a case in point.",
+    "passage": "passage9_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: What does the author suggest as a strategy to encourage creativity?",
+    "options": [
+      "Following well-trodden paths to find solutions",
+      "Strictly adhering to rules and regulations",
+      "Erecting artificial barriers to explore new solutions",
+      "Avoiding the fear associated with madness"
+    ],
+    "correct": 2,
+    "explanation": "One strategy is to erect artificial barriers or hurdles in solving a problem.",
+    "passage": "passage9_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following best paraphrases this sentence: “Setting off on the creative path is also partly about using rules and regulations.”?",
+    "options": [
+      "Starting on a creative journey involves both following and breaking rules.",
+      "Creativity requires strict adherence to rules and regulations.",
+      "The creative process is about ignoring existing rules entirely.",
+      "Creativity can only be achieved by avoiding all regulations."
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng quy tắc rồi phá vỡ chúng là một phần của con đường sáng tạo.",
+    "passage": "passage9_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: A manufacturing company is experiencing a high rate of defective products. The production manager believes it's due to outdated machinery, while the quality control team thinks it's a training issue. What should the company do first to determine the root cause?",
+    "options": [
+      "Replace the machinery with new models.",
+      "Conduct a thorough analysis of the production process.",
+      "Provide additional training to all employees.",
+      "Hire an external consultant to review the situation."
+    ],
+    "correct": 1,
+    "explanation": "Cần phân tích kỹ lưỡng quy trình để xác định nguyên nhân gốc rễ trước khi hành động.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: A team is brainstorming solutions to reduce company expenses. They have the following options: • Outsource non-essential tasks. • Reduce the workforce by 10%. • Implement energy-saving measures. • Negotiate better deals with suppliers. Which option is most likely to reduce costs without negatively affecting employee morale?",
+    "options": [
+      "Outsource non-essential tasks.",
+      "Reduce the workforce by 10%.",
+      "Implement energy-saving measures.",
+      "Negotiate better deals with suppliers."
+    ],
+    "correct": 2,
+    "explanation": "Tiết kiệm năng lượng giảm chi phí mà không ảnh hưởng tinh thần nhân viên.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: At the airport, your luggage is scanned by a machine. What is the most likely explanation for how the machine examines your belongings?",
+    "options": [
+      "The machine uses X-rays to create images of the contents of your luggage by detecting how different materials absorb the rays.",
+      "The machine emits ultraviolet light that reacts with specific items in your luggage to identify their presence.",
+      "Infrared waves are sent through your luggage to measure heat signatures of the items inside.",
+      "The machine uses sound waves to create a map of the contents of your luggage, similar to an ultrasound."
+    ],
+    "correct": 0,
+    "explanation": "Máy quét sân bay sử dụng tia X.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "options": [
+      "North-East",
+      "South-West",
+      "North-West",
+      "South-East"
+    ],
+    "correct": 1,
+    "explanation": "Đi 5km Nam → rẽ phải (Tây) 3km → rẽ trái (Nam) 5km → tổng 10km Nam + 3km Tây = Tây Nam.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Jake is planning a weekend getaway for his friends. He wants the trip to be fun and relaxed, but his friends prefer outdoor activities and enjoy a laid-back atmosphere. Which destination below should Jake choose?",
+    "options": [
+      "The Grand Mountain Resort offers a luxurious spa, private villas, and guided meditation sessions in a serene, remote location.",
+      "Lakeside Campground has a beautiful natural setting with hiking trails, fishing spots, and campfire gatherings perfect for a weekend of outdoor adventure.",
+      "Oceanview Luxury Retreat is an upscale beach resort with private pools, fine dining, and water sports activities for a lavish weekend.",
+      "City Center Hotel is located in the heart of a bustling city, offering cultural tours, shopping, and gourmet dining experiences for an urban getaway."
+    ],
+    "correct": 1,
+    "explanation": "Lakeside Campground phù hợp với sở thích hoạt động ngoài trời và bầu không khí thoải mái.",
+    "passage": null
+  }
+]

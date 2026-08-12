@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: The book about Marie Curie, _________ explores her groundbreaking research, is a fascinating read.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "whom"
+    ],
+    "correct": 1,
+    "explanation": "which thay thế cho the book (chỉ vật) trong mệnh đề quan hệ không xác định.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: The neighbors were involved in a _________ over the boundary line between their properties.",
+    "options": [
+      "debate",
+      "quarrel",
+      "row",
+      "dispute"
+    ],
+    "correct": 3,
+    "explanation": "dispute: cuộc tranh chấp (thường về pháp lý/ranh giới).",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: The stories of mythical creatures like dragons and unicorns are purely ________.",
+    "options": [
+      "imaginary",
+      "imaginative",
+      "imagining",
+      "imaginable"
+    ],
+    "correct": 0,
+    "explanation": "imaginary: không có thật, trong tưởng tượng.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: At the conference, every ________ was given a booklet containing the schedule and speaker information.",
+    "options": [
+      "attendance",
+      "attentive",
+      "attendee",
+      "attend"
+    ],
+    "correct": 2,
+    "explanation": "every + N số ít chỉ người: attendee (người tham dự).",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: The students were delighted to hear their teacher ________ such an inspiring story about perseverance.",
+    "options": [
+      "telling",
+      "to tell",
+      "tell",
+      "told"
+    ],
+    "correct": 2,
+    "explanation": "hear sb Vinf: nghe ai đó làm gì (toàn bộ hành động).",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: You ________ bring some water with you on the hike, as the weather is expected to be extremely hot.",
+    "options": [
+      "could",
+      "must",
+      "might",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "must: phải (sự cần thiết mạnh).",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: She called me last night to confirm the meeting, but I ________ no time to respond.",
+    "options": [
+      "had",
+      "will have",
+      "had had",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "Quá khứ đơn: had (hành động tiếp nối trong quá khứ).",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: She regretted ________ to the party because she felt out of place and uncomfortable.",
+    "options": [
+      "to go",
+      "go",
+      "going",
+      "gone"
+    ],
+    "correct": 2,
+    "explanation": "regret + V-ing: hối hận vì đã làm gì.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: If they ________ earlier, they will have enough time to visit all the landmarks during their trip.",
+    "options": [
+      "arrive",
+      "arrived",
+      "will arrive",
+      "had arrived"
+    ],
+    "correct": 0,
+    "explanation": "Câu điều kiện loại 1: If + V(s/es), will + V.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: To improve the quality of the product, the company must ________ the production process to reduce errors.",
+    "options": [
+      "disregard feedback from",
+      "conduct an evaluation of",
+      "make decisions about",
+      "implement changes to"
+    ],
+    "correct": 3,
+    "explanation": "implement changes to: thực hiện các thay đổi đối với.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: The expansion of the railway system has greatly improved transportation across the region.",
+    "options": [
+      "contraction",
+      "enlargement",
+      "restriction",
+      "limitation"
+    ],
+    "correct": 1,
+    "explanation": "expansion = enlargement (sự mở rộng).",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: The cuisine of this region is celebrated for its fusion of flavors, combining traditional recipes with contemporary cooking techniques to create a unique dining experience.",
+    "options": [
+      "distinct elements",
+      "contrasting approaches",
+      "innovative results",
+      "harmonious blends"
+    ],
+    "correct": 3,
+    "explanation": "fusion = harmonious blends (sự hòa trộn hài hòa).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: The employee was commended for his outstanding performance during the quarterly review.",
+    "options": [
+      "praised",
+      "criticized",
+      "appreciated",
+      "acknowledged"
+    ],
+    "correct": 1,
+    "explanation": "commended (khen ngợi) >< criticized (chỉ trích).",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: The company's exponential growth over the past decade has surpassed all expectations.",
+    "options": [
+      "rapid",
+      "gradual",
+      "dramatic",
+      "substantial"
+    ],
+    "correct": 1,
+    "explanation": "exponential (tăng nhanh theo cấp số nhân) >< gradual (dần dần).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Anna: \"Would you like to join us for dinner tonight?\" James: \"______\"",
+    "options": [
+      "Sure, let me know the time and place.",
+      "I'm too busy; I don't think I'll come.",
+      "Dinner? Why should I join you?",
+      "Sorry, but I don't eat dinner at all."
+    ],
+    "correct": 0,
+    "explanation": "Sure, let me know the time and place là phản hồi lịch sự, tích cực.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: Mark: \"I can't believe how cold it is today!\" Sophie: \"______\"",
+    "options": [
+      "Cold weather is better than hot weather.",
+      "It's not that cold; you're just complaining.",
+      "Maybe you should move to a warmer place.",
+      "I know, it's freezing! Make sure to wear a coat."
+    ],
+    "correct": 3,
+    "explanation": "I know, it's freezing! Make sure to wear a coat thể hiện sự đồng cảm và lời khuyên.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Emma: \"I'm really nervous about the presentation tomorrow.\" Oliver: \"____\"",
+    "options": [
+      "It's only a presentation; don't overthink it.",
+      "Why? Presentations are easy.",
+      "You'll do great! Just remember to stay confident.",
+      "Maybe you should let someone else do it."
+    ],
+    "correct": 2,
+    "explanation": "You'll do great! Just remember to stay confident là lời động viên phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Liam: \"Do you think we should change the meeting time to earlier in the day?\" Sophia: \"____\"",
+    "options": [
+      "I don't think changing the time makes any difference.",
+      "That might work better for everyone, especially morning people.",
+      "Why not cancel the meeting altogether?",
+      "It's your decision; I don't care."
+    ],
+    "correct": 1,
+    "explanation": "That might work better for everyone... là phản hồi xây dựng, tích cực.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: a. Yes, and it also helps improve cardiovascular health. b. What are the benefits of regular exercise? c. It can reduce stress and boost energy levels. d. Exercise has numerous physical and mental health benefits.",
+    "options": [
+      "b-d-a-c",
+      "d-b-c-a",
+      "b-a-d-c",
+      "c-d-b-a"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự logic: d → b → c → a.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: a. That sounds like a great option for busy schedules. b. Do you know any easy-to-make healthy meals? c. Smoothies and salads are quick and nutritious. d. They don't require much preparation time, either.",
+    "options": [
+      "d-b-c-a",
+      "b-a-c-d",
+      "d-c-b-a",
+      "b-c-a-d"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự logic: b → c → a → d.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: a. I think we should address the issue directly in the next meeting. b. How are we planning to resolve the customer complaints? c. That's a practical approach. d. We could start by acknowledging their feedback. e. Yes, showing we value their input is important. f. Then we can propose clear solutions to their concerns.",
+    "options": [
+      "b-d-a-f-e-c",
+      "b-f-d-e-a-c",
+      "b-d-e-f-a-c",
+      "b-e-d-f-a-c"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự đúng: b-d-e-f-a-c.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: a. Flash sales are a great way to boost short-term sales, but they can also harm brand value if overused. b. What's your take on using flash sales as a marketing strategy? c. I think they're effective, but we need to ensure we don't rely on them too much. d. True, consistent discounts might lead customers to expect lower prices all the time. e. Exactly, and it's crucial to use them strategically to create urgency without devaluing our products. f. Perhaps we could combine them with loyalty rewards to balance short-term gains and long-term customer relationships.",
+    "options": [
+      "b-c-d-e-f-a",
+      "b-d-a-c-f-e",
+      "b-c-a-d-e-f",
+      "b-a-d-c-f-e"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự đúng: b-c-a-d-e-f.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Taking on additional responsibilities at work can lead to career growth, but it might also increase stress levels.",
+    "options": [
+      "Taking on additional responsibilities at work will definitely lead to career growth without causing stress.",
+      "Taking on additional responsibilities at work may lead to career growth but is unlikely to cause any stress.",
+      "Taking on additional responsibilities at work can lead to career growth, but it might also increase stress levels.",
+      "Taking on additional responsibilities at work will definitely lead to career growth and reduce stress."
+    ],
+    "correct": 2,
+    "explanation": "Câu C sát nghĩa nhất với câu gốc (can / might).",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: The adoption of digital money has made transactions more convenient, but concerns about security risks are increasing.",
+    "options": [
+      "Digital money has made transactions easier, but security concerns have remained unchanged.",
+      "The rise of digital money has made transactions more convenient, raising concerns about security risks.",
+      "The easier digital money has made transactions, the more security risk they will bring along.",
+      "The use of digital money has reduced security risks while making transactions more convenient."
+    ],
+    "correct": 1,
+    "explanation": "Câu B sát nghĩa nhất (raising concerns about security risks).",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: The workload was too heavy for the employee to handle without asking for assistance.",
+    "options": [
+      "The workload was light enough for the employee to complete without any help.",
+      "The employee found the workload too heavy to manage without assistance.",
+      "The employee completed the workload independently because it was too heavy.",
+      "The workload was manageable enough for the employee to handle alone without help."
+    ],
+    "correct": 1,
+    "explanation": "Câu B sát nghĩa nhất (too heavy to manage without assistance).",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: The moment the teacher announced a surprise quiz, the students began to panic.",
+    "options": [
+      "As soon as the surprise quiz was announced, the students stayed calm and focused.",
+      "Regardless of when the teacher announced a quiz, the students remained indifferent.",
+      "The students only panicked after the teacher revealed the surprise quiz.",
+      "No sooner had the teacher announced the quiz than the students started panicking."
+    ],
+    "correct": 3,
+    "explanation": "No sooner ... than = The moment ...",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: She bought an expensive camera and took photography classes. She wanted to develop her skills.",
+    "options": [
+      "She wanted to develop her skills, so she bought an expensive camera and took photography classes.",
+      "She bought an expensive camera and took photography classes because she was passionate about photography.",
+      "To improve her skills, she bought an expensive camera and took photography classes.",
+      "In order to take up photography, she bought an expensive camera and took classes to develop her skills."
+    ],
+    "correct": 0,
+    "explanation": "Câu A thể hiện đúng quan hệ mục đích – hành động.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Many construction workers on the site are unable to leave for lunch. They don't have time to check in with their supervisors.",
+    "options": [
+      "Many construction workers on the site have time neither to leave for lunch nor check in with their supervisors.",
+      "Many construction workers on the site have time either to leave for lunch or check in with their supervisors.",
+      "Many construction workers on the site have time not only to leave for lunch but also to check in with their supervisors.",
+      "Many construction workers on the site have time neither to leave for lunch or check in with their supervisors."
+    ],
+    "correct": 0,
+    "explanation": "neither ... nor: không ... cũng không.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: David saved a significant amount of money by cooking at home. He didn't rely on eating out at restaurants.",
+    "options": [
+      "It was his habit of cooking at home, not eating out, that helped him save money.",
+      "In addition to cooking at home, dining out was also a major factor in his savings.",
+      "His savings were due to eating out, not cooking at home.",
+      "His habit of cooking at home made him successful in saving money and enjoying meals out."
+    ],
+    "correct": 0,
+    "explanation": "Câu A sát nghĩa nhất (cooking at home, not eating out).",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: Even though the gym offers a variety of fitness classes, the membership fees can be quite expensive. Many people still sign up.",
+    "options": [
+      "The variety of fitness classes at the gym discourages many people from joining, even though the membership fees are expensive.",
+      "The gym's expensive membership fees encourage many people from joining, even though it offers many fitness classes.",
+      "Many people are afraid of joining the gym due to the expensive membership fees, despite the variety of fitness classes.",
+      "Despite the expensive membership fees, many people join the gym because of the variety of fitness classes."
+    ],
+    "correct": 3,
+    "explanation": "Despite ... many people join ... because of the variety.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Urbanisation refers to the increasing number of people ________.",
+    "options": [
+      "live in urban areas",
+      "that living in urban areas",
+      "lived in urban areas",
+      "that live in urban areas"
+    ],
+    "correct": 3,
+    "explanation": "that live in urban areas (mệnh đề quan hệ).",
+    "passage": "passage13_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: The United Nations estimates that by 2050, ________ will live in cities.",
+    "options": [
+      "the world's two-thirds of population",
+      "two-thirds of the world's population",
+      "the two world's thirds population",
+      "the second- three of world's population"
+    ],
+    "correct": 1,
+    "explanation": "two-thirds of the world's population (quy tắc phân số).",
+    "passage": "passage13_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: urban areas offer better employment opportunities, better access to healthcare and education, and ________ compared to rural areas.",
+    "options": [
+      "a high standard of living",
+      "the highest standard of living",
+      "a higher standard of living",
+      "higher and higher standard of living"
+    ],
+    "correct": 2,
+    "explanation": "a higher standard of living (so sánh hơn).",
+    "passage": "passage13_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: ________, governments need to invest in urban planning, affordable housing, efficient public transportation, and sustainable infrastructure.",
+    "options": [
+      "Addressing the challenges of urbanisation",
+      "Address the challenges of urbanisation",
+      "To address the challenges of urbanisation",
+      "Addressed the challenges of urbanisation"
+    ],
+    "correct": 2,
+    "explanation": "To address... (mệnh đề chỉ mục đích).",
+    "passage": "passage13_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: Additionally, ________, reduce pollution, and protect the environment.",
+    "options": [
+      "efforts should be made to promote green spaces",
+      "promoting green spaces has been made by many efforts",
+      "the promotion of green spaces has affected",
+      "such efforts making people promote green spaces"
+    ],
+    "correct": 0,
+    "explanation": "efforts should be made to promote green spaces (song song với reduce, protect).",
+    "passage": "passage13_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What does the word “they” in paragraph 1 refer to?",
+    "options": [
+      "ecosystems",
+      "humans",
+      "activities",
+      "centuries"
+    ],
+    "correct": 1,
+    "explanation": "they = humans.",
+    "passage": "passage13_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: Why does the author mention the extinction of the dinosaurs in the 2nd paragraph?",
+    "options": [
+      "To explain why the dinosaurs' extinction is unknown.",
+      "To give an example of the actions by humans that could not stop the irreversible process of a species' extinction.",
+      "To emphasize that not all mass extinctions have been caused by human activity.",
+      "To describe how significantly Earth's climate has changed since the dinosaurs' extinction."
+    ],
+    "correct": 2,
+    "explanation": "Để nhấn mạnh không phải tất cả tuyệt chủng hàng loạt đều do con người.",
+    "passage": "passage13_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: Which of the following is NOT an example of the effect of humans on the world's ecosystems?",
+    "options": [
+      "The habitat destruction in wetlands",
+      "The introduction of new varieties of plant species",
+      "The damage to marine ecosystems",
+      "The destruction of the tropical rain forests"
+    ],
+    "correct": 1,
+    "explanation": "The introduction of new varieties of plant species không được đề cập như tác động tiêu cực.",
+    "passage": "passage13_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: What is the word “inflicting” in paragraph 3 closest in meaning to?",
+    "options": [
+      "exhausting",
+      "addressing",
+      "experiencing",
+      "pressing"
+    ],
+    "correct": 3,
+    "explanation": "inflicting ≈ pressing (gây ra, ép buộc).",
+    "passage": "passage13_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: With which of the following statements would the author be most likely to agree?",
+    "options": [
+      "Human influence on ecosystems should not be a factor in determining public policy.",
+      "Humans should be more conscious of the influence they have on ecosystems.",
+      "The extinction of a few species is an acceptable consequence of human progress.",
+      "Technology will provide solutions to problems caused by the destruction of ecosystems."
+    ],
+    "correct": 1,
+    "explanation": "Tác giả kêu gọi nhận thức về tầm quan trọng và sự mong manh của đa dạng sinh học.",
+    "passage": "passage13_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What topic does the passage mainly focus on?",
+    "options": [
+      "The differences between the old robots and the new ones.",
+      "The reasons for the appearance of the snakebots.",
+      "The composition and abilities of the snakebots.",
+      "The physical appearance and problems of the snakebots."
+    ],
+    "correct": 2,
+    "explanation": "Bài đọc tập trung vào cấu tạo và khả năng của snakebots.",
+    "passage": "passage13_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: Which of the following is NOT the disadvantages of the common robots on Mars?",
+    "options": [
+      "Their uselessness",
+      "Their high manufacturing cost",
+      "Their fragility",
+      "Their difficulty in moving"
+    ],
+    "correct": 0,
+    "explanation": "Robots are useful (không phải useless).",
+    "passage": "passage13_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: Why does the author mention “a snake” in paragraph 2?",
+    "options": [
+      "To compare between snakebots and regular robots",
+      "To give an example of a creature in the space",
+      "To illustrate how snakebots move and do their tasks",
+      "To explain why snakebots can replace regular robots"
+    ],
+    "correct": 2,
+    "explanation": "Để minh họa cách di chuyển và khả năng của snakebots.",
+    "passage": "passage13_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: According to paragraph 4, when does a snakebot only completely stop working?",
+    "options": [
+      "The head of the snake has something wrong.",
+      "All the modules cannot reconnect with each other.",
+      "The whole parts of the snake are broken down.",
+      "The energy battery in the snakebot runs out of."
+    ],
+    "correct": 2,
+    "explanation": "Chỉ khi toàn bộ modules bị hỏng thì mới ngừng hoàn toàn.",
+    "passage": "passage13_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following best paraphrases this sentence: “With their versatility and affordability, snakebots seem to be the wave of the future, at least as far as space robots are concerned.”?",
+    "options": [
+      "Space robots of the future will be entirely replaced by snakebots, regardless of their limitations.",
+      "Snakebots are likely to dominate the future of space robots due to their flexibility and cost-effectiveness.",
+      "Snakebots are the most advanced and expensive robots designed for space exploration.",
+      "There is a possibility that snakebots can be a top-priority option for some space missions."
+    ],
+    "correct": 1,
+    "explanation": "Snakebots likely to dominate ... due to flexibility and cost-effectiveness.",
+    "passage": "passage13_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You’re at a new yoga class with people you don’t know. The instructor asks if anyone would like to demonstrate a difficult pose. You’re interested but feel a bit nervous. What can you say?",
+    "options": [
+      "I think I can do this pose, but I’m not sure it will look perfect.",
+      "I’m confident I can do it better than anyone else here.",
+      "I don’t think I’m ready for this yet; can someone else go first?",
+      "I’d love to try, but I’m not completely comfortable with this pose yet."
+    ],
+    "correct": 0,
+    "explanation": "I think I can do this pose, but I’m not sure... thể hiện sẵn lòng nhưng trung thực.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: You're at a book club meeting, and everyone is discussing the latest best-selling novel. You didn't enjoy the book as much as others, but you want to share your opinion. What can you say to contribute?",
+    "options": [
+      "I didn't finish the book, so I don't have much to say about it.",
+      "I can't believe everyone loves this book; I think it's terrible.",
+      "I have a different opinion on the book, but I'd love to hear more about what others like.",
+      "I don't really enjoy reading, so I'm not sure I can add much to this discussion."
+    ],
+    "correct": 2,
+    "explanation": "I have a different opinion... but I'd love to hear more... là cách đóng góp lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: You leave a metal spoon in a hot bowl of soup, and after a few minutes, the spoon feels warm to the touch. What is the most likely cause of this phenomenon?",
+    "options": [
+      "The spoon is absorbing heat from the soup.",
+      "The spoon is generating heat from the soup.",
+      "The heat from the soup is transferring to the spoon.",
+      "The spoon is emitting heat into the soup."
+    ],
+    "correct": 2,
+    "explanation": "Nhiệt truyền từ súp (nóng) sang thìa (lạnh).",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: If the letters of the word “ELEVATION” are arranged alphabetically, then which letter would be farthest from the first letter of the word?",
+    "options": [
+      "E",
+      "V",
+      "T",
+      "L"
+    ],
+    "correct": 1,
+    "explanation": "Sắp xếp: A,E,E,I,L,N,O,T,V → chữ xa nhất so với E là V.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: The teacher has noticed that students are not following safety protocols during science experiments. She wants to ensure the students are safe and has asked the lab assistants to monitor closely. Which situation should the lab assistants report to the teacher?",
+    "options": [
+      "A student is sitting at their desk quietly and reading the experiment instructions.",
+      "Two students are working together on the experiment and are carefully following the procedure.",
+      "One student is holding a beaker too close to their face while heating it.",
+      "A group of students is discussing which experiment to try next, but they are not yet starting."
+    ],
+    "correct": 2,
+    "explanation": "Holding a beaker too close to the face while heating is unsafe.",
+    "passage": null
+  }
+]

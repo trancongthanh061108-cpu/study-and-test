@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: Recently, a large number of older worker tend to ______ early retirement, then they will have more time to travel.",
+    "options": [
+      "take",
+      "make",
+      "do",
+      "get"
+    ],
+    "correct": 0,
+    "explanation": "take early retirement: nghỉ hưu sớm.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: It is important that you ______ your colleagues.",
+    "options": [
+      "get rid of",
+      "look up to",
+      "look down on",
+      "get on with"
+    ],
+    "correct": 3,
+    "explanation": "get on with: hòa thuận, có mối quan hệ tốt với.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: The boy told me he hated ________ doctors.",
+    "options": [
+      "the",
+      "some",
+      "x",
+      "a"
+    ],
+    "correct": 2,
+    "explanation": "doctors (danh từ số nhiều chưa xác định) → không dùng mạo từ.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: Before we leave, let’s have Shelley ________ a map for us so we won’t get lost.",
+    "options": [
+      "draw",
+      "to draw",
+      "drawing",
+      "draws"
+    ],
+    "correct": 0,
+    "explanation": "have sb + V: nhờ ai làm gì.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: “When ______?” – “In 1928.”",
+    "options": [
+      "did penicillin invented",
+      "penicillin was invented",
+      "did penicillin invent",
+      "was penicillin invented"
+    ],
+    "correct": 3,
+    "explanation": "Câu hỏi bị động quá khứ đơn: When was penicillin invented?",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: An eyewitness described how ten people ______ in the fire.",
+    "options": [
+      "was killed",
+      "was being killed",
+      "had killed",
+      "had been killed"
+    ],
+    "correct": 3,
+    "explanation": "had been killed (quá khứ hoàn thành bị động – hành động xảy ra trước).",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: Although they are important, these visible expressions of culture, which are taught deliberately and learned consciously, are only the ______ of the iceberg of culture.",
+    "options": [
+      "ship",
+      "rid",
+      "tone",
+      "tip"
+    ],
+    "correct": 3,
+    "explanation": "the tip of the iceberg: phần nhìn thấy được.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: In the USA, the twenty largest newspaper chains ______ for almost half of the circulation, reflecting a trend that ______ in the 1970s.",
+    "options": [
+      "accounts/ has started",
+      "has accounted/ was starting",
+      "accounted/ is starting",
+      "account/ started"
+    ],
+    "correct": 3,
+    "explanation": "account (hiện tại đơn – sự thật) / started (quá khứ đơn – xu hướng bắt đầu từ 1970s).",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: Mr. Brown comes to the store ______ for cheese and bread.",
+    "options": [
+      "regular",
+      "regulation",
+      "regulating",
+      "regularly"
+    ],
+    "correct": 3,
+    "explanation": "regularly (trạng từ bổ nghĩa cho động từ comes).",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: Andrew asked them what they ______ for lunch 2 days ______.",
+    "options": [
+      "had had – before",
+      "have had – ago",
+      "had – before",
+      "had – ago"
+    ],
+    "correct": 0,
+    "explanation": "Câu gián tiếp: had had … before.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: The opportunity may prove too alluring for Potter to resite and the speed of Chelsea's move to appoint him, which was made within hours of Thomas Tuchel's sacking, suggests they have identified how he will fit within Todd Boehly.",
+    "options": [
+      "alluring for",
+      "to resite",
+      "suggests",
+      "within"
+    ],
+    "correct": 1,
+    "explanation": "to resite → to resist (lỗi chính tả/từ vựng).",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: The light's too bright. Could you switch it off.",
+    "options": [
+      "turn off",
+      "turn on",
+      "turn up",
+      "turn down"
+    ],
+    "correct": 1,
+    "explanation": "switch off >< turn on.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: TRANSLATE provides a convenient, accurate and quick ______ of comprehending vocabulary and texts in other languages.",
+    "options": [
+      "means",
+      "method",
+      "way",
+      "measure"
+    ],
+    "correct": 2,
+    "explanation": "a way of + V-ing: một cách để...",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: Drastic measures should be taken to tackle the problems ________ child abuse.",
+    "options": [
+      "involved",
+      "to involve",
+      "involving",
+      "are involving"
+    ],
+    "correct": 2,
+    "explanation": "involving (rút gọn mệnh đề quan hệ chủ động).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: “How have you been recently?” – “________.”",
+    "options": [
+      "It's too late now",
+      "Pretty busy, I think",
+      "By bus, I think",
+      "No, I'll not be busy"
+    ],
+    "correct": 1,
+    "explanation": "Pretty busy, I think là câu trả lời phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: Jackie: “__________, Sue. How’s everything?” Sue: “Pretty good.”",
+    "options": [
+      "Have a good time!",
+      "Good night!",
+      "Long time no see!",
+      "Good morning!"
+    ],
+    "correct": 2,
+    "explanation": "Long time no see! phù hợp với ngữ cảnh gặp lại.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Jenifer: “I believe that supermarkets are much better than traditional markets.” Kathy: “__________. Each has its own features.”",
+    "options": [
+      "I couldn’t agree with you more",
+      "That’s completely true",
+      "I disagree with you",
+      "I can’t help thinking the same"
+    ],
+    "correct": 2,
+    "explanation": "I disagree with you (thể hiện quan điểm đối lập, phù hợp với câu tiếp theo).",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: “Have a nice weekend !” – “______.”",
+    "options": [
+      "Ok. Yes, please",
+      "Thank you. The same to you",
+      "It’s not very long now",
+      "No, thanks"
+    ],
+    "correct": 1,
+    "explanation": "Thank you. The same to you là đáp lại lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: a. Why don’t you move to the downtown area? b. I guess I have no choice. c. Yeah. That's quite a lot of money. d. Because of the cost. You know, 2000 dollars for renting a house. e. I am really fed up with commuting such a long distance every day.",
+    "options": [
+      "a-e-d-b-c",
+      "a-e-d-c-b",
+      "e-a-d-b-c",
+      "e-a-d-c-b"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự đúng: e-a-d-c-b.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: a. How far is it from here? b. Sure! Go straight down this road and take the second left. c. It's about a five-minute walk. You'll see it on your right. d. Can you help me find the nearest pharmacy?",
+    "options": [
+      "a - c - d - b",
+      "a - b - d - c",
+      "d - c - a - b",
+      "d - b - a - c"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự đúng: d-b-a-c.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: a. That's a great idea! We could also bring some board games to play. b. Yes, and maybe we can make some hot chocolate and popcorn to enjoy. c. How about having a cozy movie night at home this weekend? d. I think that would be a fun and relaxing way to spend the evening.",
+    "options": [
+      "c-b-a-d",
+      "c-d-b-a",
+      "d-c-a-b",
+      "d-c-b-a"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự đúng: c-d-b-a.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: a. Don't worry, we'll find it. Let's check the garden first. b. Oh no, that's terrible! I hope we find it soon. c. My bird flew away! I can't find it anywhere. d. I'm so sorry to hear that. Would you like me to help you look?",
+    "options": [
+      "c-d-a-b",
+      "b-c-a-d",
+      "a-b-c-d",
+      "c-a-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự đúng: c-d-a-b.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: If a student takes a course on Computer Science, it will take him four years doing the course.",
+    "options": [
+      "If",
+      "takes a course",
+      "take",
+      "doing"
+    ],
+    "correct": 3,
+    "explanation": "it takes … to V → doing → to do.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: The Apollo 11 astronauts ______ of the Earth's inhabitants witnessed on the famous first moonwalk on July 20, 1969 were Neil Armstrong and Buzz Aldrin.",
+    "options": [
+      "whom",
+      "whom millions",
+      "were some",
+      "whom some were"
+    ],
+    "correct": 1,
+    "explanation": "whom millions (mệnh đề quan hệ).",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: It was a mistake for her to marry Peter.",
+    "options": [
+      "She shouldn't have married Peter.",
+      "She and Peter weren't married in the right way.",
+      "Peter didn't want to get married, so it was his mistake.",
+      "She ought to think again before she marries Peter."
+    ],
+    "correct": 0,
+    "explanation": "shouldn't have + Vp2: lẽ ra không nên làm trong quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Mary wanted to know what John ______ to tackle the environmental pollution if he ______ an environmentalist.",
+    "options": [
+      "had done – would have been",
+      "would do – were",
+      "will do – is",
+      "would have done – were"
+    ],
+    "correct": 1,
+    "explanation": "Câu điều kiện loại 2 giữ nguyên trong lời nói gián tiếp: would do – were.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Visitors come to the museum to admire the relics. They were excavated from the ancient tombs.",
+    "options": [
+      "Visitors come to the museum to be admired with the relics that were excavated from the ancient tombs.",
+      "Having been excavated from the ancient tombs, the relics attract attention from the public a lot.",
+      "Visitors come to the museum to admire the relics excavated from the ancient tombs.",
+      "Excavated from the ancient tombs, visitors come to the museum to admire the relics."
+    ],
+    "correct": 2,
+    "explanation": "relics excavated (rút gọn mệnh đề quan hệ bị động).",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Peter told us about his leaving the school. He did it on his arrival at the meeting.",
+    "options": [
+      "Only after his leaving the school did Peter inform us of his arrival at the meeting.",
+      "Not until Peter told us that he would leave the school did he arrive at the meeting.",
+      "Hardly had Peter informed us about his leaving the school when he arrived at the meeting.",
+      "No sooner had Peter arrived at the meeting than he told us about his leaving the school."
+    ],
+    "correct": 3,
+    "explanation": "No sooner … than: ngay khi … thì …",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: The essay is too short. It can't be given a high grade.",
+    "options": [
+      "It is too short an essay to earn a high grade.",
+      "The essay needs to be shorter to receive a high grade.",
+      "Even if it were longer, the essay wouldn't get a high grade.",
+      "The essay is so short that it can be given a high grade."
+    ],
+    "correct": 0,
+    "explanation": "too + adj + a/an + N + to V.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: She heard the news of the death of her mother. She fainted.",
+    "options": [
+      "On hearing the news of her dead mother, she fainted.",
+      "On hearing the news of her mother's death, she fainted.",
+      "She fainted so she heard the news of the death of her mother.",
+      "She fainted and then she heard the news of the death of her mother."
+    ],
+    "correct": 1,
+    "explanation": "On hearing the news of her mother's death…",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: This colorless and odorless gas ______ at warming the earth.",
+    "options": [
+      "is more much powerful than CO2.",
+      "is much more powerful than CO2.",
+      "is much powerful than CO2.",
+      "is much powerful more than CO2."
+    ],
+    "correct": 1,
+    "explanation": "much more + adj + than.",
+    "passage": "passage14_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: Farmers and companies are developing solutions for ______.",
+    "options": [
+      "decreasing cows' methane emissions.",
+      "to be decreasing cows' methane emissions.",
+      "to decrease cows' methane emissions",
+      "decrease cows' methane emissions."
+    ],
+    "correct": 0,
+    "explanation": "for + V-ing.",
+    "passage": "passage14_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: a UK company has designed face masks to catch the gas ______.",
+    "options": [
+      "before it being released.",
+      "before being released it.",
+      "before they are released.",
+      "before it is released."
+    ],
+    "correct": 3,
+    "explanation": "before it is released.",
+    "passage": "passage14_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: Sensors … provide the percentage of the gas ______.",
+    "options": [
+      "who can cut methane emissions.",
+      "what can cut methane emissions.",
+      "which can cut methane emissions.",
+      "which can be cut methane emissions."
+    ],
+    "correct": 2,
+    "explanation": "which can cut methane emissions (mệnh đề quan hệ).",
+    "passage": "passage14_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: This information can also be useful for farmers who can use it to ______ the early signs of disease.",
+    "options": [
+      "identify",
+      "deliver",
+      "tolerate",
+      "generat"
+    ],
+    "correct": 0,
+    "explanation": "identify: xác định.",
+    "passage": "passage14_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What is the passage mainly about?",
+    "options": [
+      "History of cities all over the world",
+      "Types of cities in the world",
+      "Contributions of cities to the world",
+      "The not-to-distant future of cities"
+    ],
+    "correct": 2,
+    "explanation": "Bài đọc chủ yếu về đóng góp của các thành phố cho thế giới.",
+    "passage": "passage14_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: Which of the following is NOT true according to the writer?",
+    "options": [
+      "Humanity transitioned from a rural to a primarily urban species at breathtaking speed.",
+      "Cities are the dominant form of human civilization in the 21st century.",
+      "There is a tendency for cities to connect to form large urban regions.",
+      "People should not be too optimistic about the future of cities."
+    ],
+    "correct": 3,
+    "explanation": "Tác giả bày tỏ sự lạc quan về tương lai của thành phố.",
+    "passage": "passage14_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: The phrase \"flex their muscles\" in paragraph 2 is closest in meaning to ____.",
+    "options": [
+      "show their strength",
+      "change their attitudes",
+      "leave their side",
+      "find their ways"
+    ],
+    "correct": 0,
+    "explanation": "flex their muscles = show their strength.",
+    "passage": "passage14_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: Would the following sentence best be placed at the end of which paragraph? - “This is neither fair nor rational.”",
+    "options": [
+      "Paragraph 1",
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4"
+    ],
+    "correct": 0,
+    "explanation": "Phù hợp nhất ở cuối đoạn 1.",
+    "passage": "passage14_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: The word \"they\" in paragraph 4 refers to ________.",
+    "options": [
+      "plans",
+      "partnerships",
+      "cities",
+      "residents"
+    ],
+    "correct": 2,
+    "explanation": "they = cities.",
+    "passage": "passage14_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What is the paragraph mainly about?",
+    "options": [
+      "How to use social media.",
+      "Social media are too fast.",
+      "The benefits of using social media.",
+      "People are taking a break from social media."
+    ],
+    "correct": 3,
+    "explanation": "Bài đọc nói về việc mọi người tạm nghỉ dùng mạng xã hội.",
+    "passage": "passage14_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: According to paragraph 1, what is the word “addicting” closest in meaning to?",
+    "options": [
+      "obsessing.",
+      "unaccustoming.",
+      "loving.",
+      "unwilling."
+    ],
+    "correct": 0,
+    "explanation": "addicting ≈ obsessing.",
+    "passage": "passage14_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: In paragraph 1, what does the word “which” refer to?",
+    "options": [
+      "Pictures of what they eat.",
+      "Pictures of themselves.",
+      "Taking pictures of what they eat.",
+      "Taking pictures of themselves."
+    ],
+    "correct": 3,
+    "explanation": "which = taking pictures of themselves (selfies).",
+    "passage": "passage14_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: According to research, what is the amount of time per day that people spend on social media?",
+    "options": [
+      "30 hours.",
+      "24 hours.",
+      "4 hours.",
+      "3 hours."
+    ],
+    "correct": 2,
+    "explanation": "almost 4 hours a day.",
+    "passage": "passage14_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following are NOT the reason why people decide to take a break from social media?",
+    "options": [
+      "To directly meet their families and friends.",
+      "To spend more time playing video games.",
+      "To work with higher productivity.",
+      "To avoid being anxious by the use of social media."
+    ],
+    "correct": 1,
+    "explanation": "Không đề cập đến việc chơi game.",
+    "passage": "passage14_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: Mary: Can you give me three more days to complete the report? The manager: ____.",
+    "options": [
+      "That's a good idea! Let's do it.",
+      "The report is not informative enough for the meeting.",
+      "Well, I think you used to be a good employee in this company.",
+      "I understand, Mary. Let's set a new deadline of December 22."
+    ],
+    "correct": 3,
+    "explanation": "I understand, Mary. Let's set a new deadline… là phản hồi hợp lý.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: A study was done on the weights of different types of fish in a pond. A random sample of fish were caught and marked… The sample contained 150 largemouth bass, of which 30% weighed more than 2 pounds. Which of the following conclusions is best supported by the sample data?",
+    "options": [
+      "The majority of all fish in the pond weigh less than 2 pounds.",
+      "The average weight of all fish in the pond is approximately 2 pounds.",
+      "Approximately 30% of all fish in the pond weigh more than 2 pounds.",
+      "Approximately 30% of all largemouth bass in the pond weigh more than 2 pounds."
+    ],
+    "correct": 3,
+    "explanation": "Dữ liệu chỉ áp dụng cho largemouth bass trong mẫu.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: The members of a city council wanted to assess the opinions of all city residents about converting an open field into a dog park. The council surveyed a sample of 500 city residents who own dogs… Which of the following is true about the city council's survey?",
+    "options": [
+      "It shows that the majority of city residents are in favor of the dog park.",
+      "The survey sample should have included more residents who are dog owners.",
+      "The survey sample should have consisted entirely of residents who do not own dogs.",
+      "The survey sample is biased because it is not representative of all city residents."
+    ],
+    "correct": 3,
+    "explanation": "Mẫu chỉ gồm người nuôi chó → thiên vị, không đại diện toàn bộ cư dân.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: You've noticed that every time someone walks past a particular table, the glasses on the table shake slightly. What is the likely cause?",
+    "options": [
+      "The glasses are not positioned properly.",
+      "The table is wobbly and needs adjustment.",
+      "The floor is slippery near the table.",
+      "The restaurant is too crowded."
+    ],
+    "correct": 1,
+    "explanation": "The table is wobbly and needs adjustment.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Which of the following situations best exemplifies “profit”?",
+    "options": [
+      "Alex bought vintage furniture for 50 dollars and resold it for 150 dollars, earning 100 dollars above the original purchase price.",
+      "In order to thank Jamie for her hard work, Sarah, the manager, rewarded her with 1000 dollars as a bonus…",
+      "Lisa spent 200 dollars on supplies to make jewelry, which she sold for 200 dollars, covering her costs but earning no extra money.",
+      "Tom ordered a new camera online. When he received it, it turned out to be an old one. He asked for a refund…"
+    ],
+    "correct": 0,
+    "explanation": "Alex kiếm được 100 đô la lợi nhuận từ việc mua bán lại.",
+    "passage": null
+  }
+]

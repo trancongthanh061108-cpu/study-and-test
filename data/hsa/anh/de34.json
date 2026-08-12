@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: You'd better go to bed early, ______ ?",
+    "options": [
+      "wouldn't you",
+      "didn't you",
+      "hadn't you",
+      "may you"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc had better + V → hỏi đuôi dùng hadn't + S.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: To calm his angry girlfriend, John offered an apology ______ Jane did not accept.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "when"
+    ],
+    "correct": 0,
+    "explanation": "which thay thế danh từ chỉ vật (apology) làm tân ngữ.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: Life in my new town is quite different from the ______ pace of Ha Noi with ______ streets and traffic jams.",
+    "options": [
+      "fast – crowded",
+      "rapid – twinkling",
+      "urgent - bustling",
+      "hectic - bustling"
+    ],
+    "correct": 3,
+    "explanation": "hectic pace + bustling streets là collocation đúng.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: He saw them watching him and bared his ______ in the manner of an angry dog.",
+    "options": [
+      "mouth",
+      "tooth",
+      "teeth",
+      "nose"
+    ],
+    "correct": 2,
+    "explanation": "bare one's teeth = nhe răng.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: He was the only person to ______ there at the time.",
+    "options": [
+      "have been living",
+      "live",
+      "be lived",
+      "living"
+    ],
+    "correct": 1,
+    "explanation": "the only + N + to V.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: If you are not busy ______ the moment, can we go over the minutes ______ yesterday's meeting?",
+    "options": [
+      "in – after",
+      "at – from",
+      "on – in",
+      "for -at"
+    ],
+    "correct": 1,
+    "explanation": "at the moment; from yesterday's meeting.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: I spent two hours ______ my heels in the waiting room while the CFO was busy in a meeting.",
+    "options": [
+      "cooling",
+      "doing",
+      "making",
+      "warming"
+    ],
+    "correct": 0,
+    "explanation": "cool one's heels = chờ đợi lâu.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: There is just too much work to be done. We'll have to ______ some new employees.",
+    "options": [
+      "get on",
+      "take on",
+      "take off",
+      "get off"
+    ],
+    "correct": 1,
+    "explanation": "take on = tuyển dụng.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: He wanted to know whose car I had borrowed ______.",
+    "options": [
+      "the last evening",
+      "last night",
+      "yesterday evening",
+      "the previous night"
+    ],
+    "correct": 3,
+    "explanation": "Trong câu tường thuật dùng the previous night.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: I have been ______ all day trying to get this work finished.",
+    "options": [
+      "slaving away",
+      "lying about",
+      "consisting in",
+      "blowing up"
+    ],
+    "correct": 0,
+    "explanation": "slave away = làm việc cực nhọc.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/phrase. He replenished his glass and then continued with the story.",
+    "options": [
+      "repeated",
+      "renewed",
+      "refilled",
+      "restored"
+    ],
+    "correct": 2,
+    "explanation": "replenish = refill.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/phrase. The old theatre has to be pulled down for safety reasons.",
+    "options": [
+      "harmed",
+      "demolished",
+      "spoiled",
+      "ruined"
+    ],
+    "correct": 1,
+    "explanation": "pulled down = demolished.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/phrase. Sarah deliberately placed all the books in the box before giving them away.",
+    "options": [
+      "intentionally",
+      "carelessly",
+      "slowly",
+      "accidentally"
+    ],
+    "correct": 1,
+    "explanation": "deliberately <> carelessly.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/phrase. A firm's future prosperity depends largely on its employee's commitment.",
+    "options": [
+      "state of being affluent",
+      "feeling of insecurity",
+      "absence of innovation",
+      "lack of success"
+    ],
+    "correct": 3,
+    "explanation": "prosperity <> lack of success.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: John: \"I want to buy a dress for Daisy for her birthday. Who should I get advice from?\" Terry: \"You should ask Jane. She ______.\"",
+    "options": [
+      "has an eye for clothes.",
+      "knows what to do with dresses.",
+      "knows her way.",
+      "gives some good judgements."
+    ],
+    "correct": 0,
+    "explanation": "has an eye for clothes = có con mắt thẩm mỹ về quần áo.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: \"How have you been recently?\" - \"______.\"",
+    "options": [
+      "It's too late now",
+      "Pretty busy, I think",
+      "By bus, I think",
+      "No, I will not be busy"
+    ],
+    "correct": 1,
+    "explanation": "Pretty busy, I think là câu trả lời phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Sam: \"Would you like another coffee?\" William: \"______.\"",
+    "options": [
+      "I'd love one",
+      "Willingly",
+      "Very kind of your part",
+      "It's a pleasure"
+    ],
+    "correct": 0,
+    "explanation": "I'd love one là cách đồng ý lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Ash: \"I'm thinking of going to the Hotdog Festival.\" Ben: \"______.\"",
+    "options": [
+      "Yeah, once a year, only in summer.",
+      "You must be kidding. It's 120 dollars a day.",
+      "Not that expensive. But I don't prefer.",
+      "What on Earth is that."
+    ],
+    "correct": 0,
+    "explanation": "Xác nhận thông tin về lễ hội.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Choose A, B, C or D to make a complete dialogue. a. You're right. I feel quite curious now. b. How delicious! c. Take a bite. d. I guess you have never tried this food before.",
+    "options": [
+      "d-a-c-b",
+      "b-c-a-d",
+      "a-c-b-d",
+      "a-c-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: đoán chưa ăn → đồng ý tò mò → mời thử → khen ngon.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Choose A, B, C or D to make a complete dialogue. a. I must have somehow missed that update. b. Is the monthly meeting still on this Tuesday? c. I'm sorry. I forgot that. d. No. It was rescheduled. e. You didn't read the latest notification. f. We discussed that at the meeting on Monday.",
+    "options": [
+      "a-f-b-d-e-c",
+      "a-f-d-b-e-c",
+      "b-d-a-f-e-c",
+      "b-d-f-a-e-c"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự: hỏi họp → trả lời dời lịch → giải thích → thừa nhận bỏ lỡ → nhắc nhở → xin lỗi.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Choose A, B, C or D to make a complete dialogue. a. I get your worry about nature, but we must finish this project on schedule. b. I agree. I don't like how this project will hurt local animals. c. Glad to hear that! Looking forward to what's next. d. It's important to build things in a way that doesn't harm the environment, and this project fits that idea. e. Don't you think we're hurting nature to make progress? f. I'm thankful for your thoughts. We'll consider your suggestions and explore alternative options.",
+    "options": [
+      "b-a-e-d-c-f",
+      "e-b-a-d-f-c",
+      "b-e-a-d-f-c",
+      "e-b-d-a-c-f"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự: lo về thiên nhiên → đồng ý → thừa nhận lo lắng nhưng cần tiến độ → bảo vệ dự án → cảm ơn & xem xét → vui vẻ.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Choose A, B, C or D to make a complete dialogue. a. Is it Heaven Café? Their Bạc Sĩu is excellent. b. Yeah. See you there this Saturday afternoon. c. Let's meet for a coffee this weekend. d. That sounds great. I know a great café nearby.",
+    "options": [
+      "c-d-a-b",
+      "c-d-b-a",
+      "c-a-d-b",
+      "c-d-a-b"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự: đề xuất gặp → đồng ý + gợi ý quán → hỏi tên quán → xác nhận + hẹn giờ.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. As soon as the rain started, people rushed to find shelter.",
+    "options": [
+      "Hardly had the rain begun than people hurried to seek shelter.",
+      "The moment the rain poured down did people waste no time finding cover.",
+      "No sooner had the rain started than people hurried to take refuge from it.",
+      "Once the rain started, people slowly moved to find the nearest shelter."
+    ],
+    "correct": 2,
+    "explanation": "No sooner had + V3 than = As soon as.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. The movie was so captivating that no one wanted it to end.",
+    "options": [
+      "It was such a captivating movie that no one wanted it to end.",
+      "The movie was too captivating for no one to want it to end.",
+      "Everyone was disappointed when the captivating movie ended.",
+      "No one wanted to watch the movie again because it was so captivating."
+    ],
+    "correct": 0,
+    "explanation": "so adj that = such a/an adj N that.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. Digital learning tools might be more effective for students than traditional textbooks.",
+    "options": [
+      "Traditional textbooks are probably not as effective for students as digital learning tools.",
+      "Traditional textbooks are definitely better for students than digital learning tools.",
+      "Traditional textbooks are certainly more effective for students than digital learning tools.",
+      "Traditional textbooks are definitely less effective for students than digital learning tools."
+    ],
+    "correct": 0,
+    "explanation": "might = probably; so sánh ngược lại.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. The feedback on his project gave Mark a real sense of accomplishment.",
+    "options": [
+      "Mark felt a strong sense of achievement from the feedback on his project.",
+      "Mark accomplished his project, which gave him useful feedback.",
+      "The feedback on his project had a clear impact on Mark's achievement.",
+      "Mark's project was very satisfactory according to the feedback."
+    ],
+    "correct": 0,
+    "explanation": "sense of accomplishment = sense of achievement.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. Most scientists know him well. However, very few ordinary people have heard of him.",
+    "options": [
+      "He is the only scientist that is not known to the general public.",
+      "Not only scientists but also the general public know him as a big name.",
+      "Although he is well known to scientists, he is little known to the general public.",
+      "Many ordinary people know him better than most scientists do."
+    ],
+    "correct": 2,
+    "explanation": "Although diễn đạt nhượng bộ đúng nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. The lights are flickering. A power outage might be imminent.",
+    "options": [
+      "A power outage is likely since the lights are flickering.",
+      "The lights might flicker, but it doesn't necessarily mean a power outage is coming.",
+      "Flickering lights always indicate a power outage is about to occur.",
+      "It's possible the lights are flickering due to a minor issue, not a power outage."
+    ],
+    "correct": 0,
+    "explanation": "might be imminent = is likely.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: She heard the news of the death of her mother. She fainted.",
+    "options": [
+      "On hearing the news of her dead mother, she fainted.",
+      "On hearing the news of her mother's death, she fainted.",
+      "She fainted so she heard the news of the death of her mother.",
+      "She fainted and then she heard the news of the death of her mother."
+    ],
+    "correct": 1,
+    "explanation": "On + V-ing diễn tả hành động xảy ra ngay trước.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. You may be very intelligent. You should be careful about what you are going to do.",
+    "options": [
+      "No matter why intelligent you may be, you should be careful about what you are going to do.",
+      "No matter what intelligent you may be, you should be careful about what you are going to do.",
+      "No matter how intelligent you may be, you should be careful about what you are going to do.",
+      "No matter whatever intelligent you may be, you should be careful about what you are going to do."
+    ],
+    "correct": 2,
+    "explanation": "No matter how + adj.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Some cities are trying not just to electrify cars, but to replace as many of them as possible with cleaner (631) ________ of transportation, like bicycles.",
+    "options": [
+      "channels",
+      "means",
+      "methods",
+      "routes"
+    ],
+    "correct": 1,
+    "explanation": "means of transportation = phương tiện giao thông.",
+    "passage": "passage34_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: Paris was already on a yearlong journey to (632) ________ away with cars in the city centre, or at least to reduce their numbers.",
+    "options": [
+      "keep",
+      "take",
+      "move",
+      "do"
+    ],
+    "correct": 3,
+    "explanation": "do away with = loại bỏ.",
+    "passage": "passage34_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: Cycling has boomed even more in recent years, (633) ________ set up during the coronavirus pandemic, nicknamed “coronapistes,” or “corona lanes.”",
+    "options": [
+      "spurred in part by new bike lanes",
+      "to be spurred in part by new bike lanes",
+      "been spurred in part by new bike lanes",
+      "having been spurred in part by new bike lanes"
+    ],
+    "correct": 0,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động bằng V3.",
+    "passage": "passage34_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: The percentage of trips taken by bicycle within Paris more than (634) ________ between 2020 and 2024, from 5 to 11 percent.",
+    "options": [
+      "had been doubled",
+      "doubled",
+      "doubling",
+      "were doubled"
+    ],
+    "correct": 1,
+    "explanation": "doubled = tăng gấp đôi (chủ động).",
+    "passage": "passage34_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: Paris currently has more than 1,000 kilometres of bike lanes, and will get 180 more under the current plan, along with tens of thousands of bicycle parking spots and new traffic light patterns (635) ________.",
+    "options": [
+      "where cyclists and public transit are prioritised",
+      "that prioritise cyclists and public transit",
+      "which have prioritised cyclists and public transit",
+      "whose cyclists and public transit will be prioritised"
+    ],
+    "correct": 1,
+    "explanation": "that + V (chủ ngữ) thay cho danh từ chỉ vật.",
+    "passage": "passage34_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: The word that in paragraph 1 refers to ______?",
+    "options": [
+      "global climate change",
+      "techniques and modifications",
+      "the natural processes",
+      "ecological factors"
+    ],
+    "correct": 2,
+    "explanation": "that thay thế the natural processes.",
+    "passage": "passage34_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: What is the main topic of paragraph 2?",
+    "options": [
+      "The special role of irrigation in agriculture",
+      "The negative effects of irrigation on the environment",
+      "The consequences of large-scale water depletion",
+      "The impacts of poisonous soil conditions on freshwater"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn 2 tập trung vào hậu quả tiêu cực của tưới tiêu.",
+    "passage": "passage34_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: Which of the following is mentioned in paragraph 2?",
+    "options": [
+      "Human water consumption makes up 70 percent of agriculture.",
+      "There will be an increase of 15 percent of water consumption by 2050.",
+      "Irrigation can cause some areas to become flooded.",
+      "Ground water will run out as a result of water diversion of any kind."
+    ],
+    "correct": 2,
+    "explanation": "areas drenched by irrigation can become waterlogged.",
+    "passage": "passage34_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: What do synthetic fertilisers NOT do?",
+    "options": [
+      "They increase reactive nitrogen levels.",
+      "They help increase crop yields.",
+      "They turn nutrients into pollutants.",
+      "They make modern agriculture less productive."
+    ],
+    "correct": 3,
+    "explanation": "Phân bón giúp tăng năng suất, không làm giảm.",
+    "passage": "passage34_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: Which of the following would the author most likely support?",
+    "options": [
+      "Without changes to current farming methods, it is difficult to strike a balance between feeding the population and preserving the environment.",
+      "There is a growing conflict between the need for increased agricultural productivity and the radical changes to the existing agricultural practices.",
+      "Humans are mainly responsible for taking care of soil health, so they need to adopt better agriculture practices.",
+      "Food demand is expected to grow exponentially, so preserving ecological health should be atop priority."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả nhấn mạnh sự căng thẳng giữa tăng trưởng nông nghiệp và sức khỏe sinh thái nếu không thay đổi.",
+    "passage": "passage34_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the word it in paragraph 1 refer to?",
+    "options": [
+      "a mental-health crisis",
+      "her controversial book",
+      "an adapted excerpt",
+      "a generation"
+    ],
+    "correct": 0,
+    "explanation": "it = a mental-health crisis.",
+    "passage": "passage34_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: What does paragraph 3 mainly discuss?",
+    "options": [
+      "Twenge's concern about teens' excessive use of phones",
+      "Twenge's awareness about screen time and well-being",
+      "A clear link between screen time and happiness levels",
+      "The limitations and criticisms of Jean Twenge's study"
+    ],
+    "correct": 3,
+    "explanation": "Đoạn 3 nói về hạn chế và chỉ trích nghiên cứu của Twenge.",
+    "passage": "passage34_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: The word navigate in paragraph 4 is closest in meaning to ______.",
+    "options": [
+      "transform",
+      "overcome",
+      "struggle",
+      "reject"
+    ],
+    "correct": 1,
+    "explanation": "navigate = overcome (vượt qua).",
+    "passage": "passage_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: Which of the following best paraphrases this sentence: “Some have accused her work of oversimplifying or overlooking data that may tell a slightly different story.”",
+    "options": [
+      "Some critics have argued that her research fails to focus on important data that may suggest otherwise.",
+      "Her work has been criticised for simplifying or disregarding small details that might offer a different narrative.",
+      "Her study has been claimed by critics to simplify or ignore data that could present a somewhat different perspective.",
+      "Some researchers have blamed her for not taking relevant data into account, which prevents it from fully reflecting the complete picture."
+    ],
+    "correct": 2,
+    "explanation": "Đúng nhất với ý oversimplifying or overlooking data.",
+    "passage": "passage34_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following would the author most likely support?",
+    "options": [
+      "Recent research might unfairly focus on technology as the primary cause of a drop in teenagers' mental well-being.",
+      "Amanda Lenhart acknowledges that excessive use of electronic devices can have an adverse impact on teenagers' mental health.",
+      "The frequent use of technology is to blame for a decline in the quality of teenagers' mental health.",
+      "The effects of electronic devices on adults and teenagers should not be studied separately."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả dẫn lời Lenhart cho rằng nghiên cứu đang biến công nghệ thành kẻ gánh tội.",
+    "passage": "passage34_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You are in a new class where students are working together on a group project, but you haven't been assigned to a group yet. You don't know any of the students, but you want to contribute. What should you say to join a group?",
+    "options": [
+      "Can anyone tell me what the project is about?",
+      "This class project looks exciting, but I haven't been assigned to a group.",
+      "The class project seems important, and I'd like to help out.",
+      "I'd like to be part of a group. Could anyone use an extra team member?"
+    ],
+    "correct": 3,
+    "explanation": "Nói rõ muốn tham gia và hỏi ai cần thành viên.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: Emily, the team coordinator, asks Mark, a team member, for the draft of a marketing proposal by the end of today. Mark is confused about the deadline. How should he respond?",
+    "options": [
+      "Okay, but I thought the draft was due next week, not today.",
+      "I need more details about the proposal to complete it.",
+      "I'll send you the draft by the end of the week instead.",
+      "Sure, I'll have it ready for you by the end of today."
+    ],
+    "correct": 0,
+    "explanation": "Thể hiện sự bối rối về thời hạn và xác nhận lại.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: Following are statements about a popular restaurant. Which statement expresses an opinion?",
+    "options": [
+      "The restaurant has the best pizza in town.",
+      "The restaurant's menu includes a variety of international cuisines.",
+      "The restaurant is located on Main Street.",
+      "The restaurant is known for its exceptional customer service."
+    ],
+    "correct": 0,
+    "explanation": "“the best pizza” là ý kiến chủ quan.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: You've noticed that the office printer often jams when printing large documents. What is the most likely cause?",
+    "options": [
+      "The printer is outdated and needs to be replaced.",
+      "The printer is not set up correctly for large document printing.",
+      "The printer is low on ink and needs to be refilled.",
+      "The paper being used is not suitable for the printer."
+    ],
+    "correct": 1,
+    "explanation": "Cài đặt không đúng cho tài liệu lớn là nguyên nhân phổ biến nhất.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Which of the following situations best exemplifies being “reimbursed” where someone is paid back what they have spent or lost?",
+    "options": [
+      "Alex is upgraded to a better seat after his original reservation was overbooked.",
+      "Alex's travel expenses are covered by the company after he submits the receipts.",
+      "Alex receives his money back for a movie ticket he bought but didn't use.",
+      "Alex is given a voucher for future purchases after returning a defective product."
+    ],
+    "correct": 1,
+    "explanation": "Công ty hoàn trả chi phí đã bỏ ra = reimbursed.",
+    "passage": null
+  }
+]

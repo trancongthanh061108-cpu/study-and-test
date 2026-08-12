@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "A (An) _________ conference invites participants from several countries to discuss global issues.",
+    "options": [
+      "national",
+      "international",
+      "multinational",
+      "nationwide"
+    ],
+    "correct": 1,
+    "explanation": "'international' có nghĩa là quốc tế, phù hợp mô tả hội nghị có sự tham gia của nhiều quốc gia.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Travel agents usually advise ______________ flight bookings three days before departure.",
+    "options": [
+      "reconfirming",
+      "to reconfirm",
+      "her to reconfirm",
+      "her reconfirming"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc cố định: advise sb to V (khuyên ai làm gì).",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "I wouldn't go to school by bus if I ____________ a driving licence.",
+    "options": [
+      "had",
+      "had had",
+      "would have",
+      "would have had"
+    ],
+    "correct": 0,
+    "explanation": "Câu điều kiện loại 2: If + S + Vqkđ, S + would + Vnt, diễn tả điều không có thật ở hiện tại.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Immigrants ___________ learn the local language if they want to communicate efficiently.",
+    "options": [
+      "might",
+      "have to",
+      "would",
+      "had better"
+    ],
+    "correct": 1,
+    "explanation": "'have to' diễn tả nghĩa vụ bắt buộc phải làm gì.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "The debate centered around the issue of _________ behavior in the context of business practices.",
+    "options": [
+      "immoral",
+      "moral",
+      "morality",
+      "morale"
+    ],
+    "correct": 1,
+    "explanation": "Cần tính từ bổ nghĩa cho danh từ 'behavior'; 'moral behavior' là cụm từ cố định chỉ hành vi có đạo đức.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "After much discussion, the team was finally able to _________ on the best approach to the project.",
+    "options": [
+      "reach a decision",
+      "throw a party",
+      "come to mind",
+      "put into practice"
+    ],
+    "correct": 0,
+    "explanation": "'reach a decision' có nghĩa là đưa ra quyết định sau khi thảo luận.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "I can’t believe that you _____ all the three exercises! You just started five minutes ago.",
+    "options": [
+      "finished",
+      "have been finishing",
+      "are finishing",
+      "have finished"
+    ],
+    "correct": 3,
+    "explanation": "Dùng thì hiện tại hoàn thành nhấn mạnh hành động vừa hoàn thành và có kết quả rõ ràng ở hiện tại.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "In that year he met Rachel, ___________he was later to marry.",
+    "options": [
+      "whom",
+      "which",
+      "that",
+      "who"
+    ],
+    "correct": 0,
+    "explanation": "'whom' là đại từ quan hệ làm tân ngữ, thay thế cho 'Rachel' trong mệnh đề quan hệ không xác định.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Taking part in traditional festivals helps to foster a sense of national _______.",
+    "options": [
+      "trend",
+      "identity",
+      "festivity",
+      "origin"
+    ],
+    "correct": 1,
+    "explanation": "'national identity' là cụm từ cố định chỉ bản sắc dân tộc.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "When the issue was finally _______, everyone was surprised by how serious it was.",
+    "options": [
+      "take up",
+      "put up",
+      "call up",
+      "come up"
+    ],
+    "correct": 3,
+    "explanation": "'come up' có nghĩa là được nêu ra, xuất hiện.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Find the word with the CLOSEST meaning to the underlined word: Solving the complex task requires a high level of expertise in the field.",
+    "options": [
+      "competence",
+      "compost",
+      "comprise",
+      "competition"
+    ],
+    "correct": 0,
+    "explanation": "'expertise' và 'competence' đều có nghĩa là năng lực, trình độ chuyên môn.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Find the word with the CLOSEST meaning to the underlined word: Our school has just presented the football team with a gold medal for their exceptional performance in the sports contest.",
+    "options": [
+      "downwarded",
+      "forwarded",
+      "awarded",
+      "rewarded"
+    ],
+    "correct": 2,
+    "explanation": "'presented' trong ngữ cảnh trao giải đồng nghĩa với 'awarded' (trao giải thưởng chính thức).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Find the word with the OPPOSITE meaning to the underlined word: The young entrepreneur is known for his innovative ideas that have revolutionized the tech industry.",
+    "options": [
+      "conventional",
+      "advanced",
+      "revolutionary",
+      "inventive"
+    ],
+    "correct": 0,
+    "explanation": "'innovative' (sáng tạo, đổi mới) trái nghĩa với 'conventional' (theo truyền thống, cũ kỹ).",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Find the word with the OPPOSITE meaning to the underlined word: This program highlights the significance of advancement through education and skill development.",
+    "options": [
+      "improvement in status",
+      "decline in growth",
+      "progress and success",
+      "reduction in knowledge"
+    ],
+    "correct": 1,
+    "explanation": "'advancement' (sự tiến bộ, phát triển) trái nghĩa với 'decline in growth' (sự suy giảm phát triển).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Complete the dialogue: Emma: Did you enjoy the movie? Ben: ______",
+    "options": [
+      "I didn't remember.",
+      "It was awesome!",
+      "I’m not sure.",
+      "Not much."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án thể hiện sự đánh giá cao, trực tiếp và phù hợp nhất với câu hỏi.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Complete the dialogue: Alice: Would you like to join us for dinner tomorrow? John: ______",
+    "options": [
+      "I’m not sure if I can make it.",
+      "I don’t need any invitation.",
+      "That sounds great, I’d love to!",
+      "I’ll think about it."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án thể hiện sự đồng ý nhiệt tình và lịch sự nhất.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Complete the dialogue: Jack: Would you like to help me with the project? Lily: Yeah, sure, ___________",
+    "options": [
+      "I’ll give it a try.",
+      "I’ll bite the bullet.",
+      "I’ll take the plunge.",
+      "I’ll hit the nail on the head."
+    ],
+    "correct": 0,
+    "explanation": "'I’ll give it a try' thể hiện sự sẵn lòng giúp đỡ một cách tự nhiên, phù hợp nhất.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Complete the dialogue: Martin: I heard you managed to secure that huge client, even with all the competition. Well done! Rachel: ___________",
+    "options": [
+      "It was a tough battle, but I’m proud of how it turned out, thanks.",
+      "I just got lucky, but I’ll take it!",
+      "It wasn’t just me—everyone involved played a crucial role.",
+      "I’ve been working toward this for months, so it feels like a huge win."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án thể hiện sự khiêm tốn và ghi nhận đóng góp của tập thể, phù hợp nhất.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Arrange the sentences: a. To save your time, I’ll send you the notes I took in class. b. If you have time after school, we can go over it together. c. Do you know how to solve the math homework? d. I have to turn it in soon and need help quickly.",
+    "options": [
+      "c-b-d-a",
+      "c-a-d-b",
+      "d-b-c-a",
+      "d-c-a-b"
+    ],
+    "correct": 0,
+    "explanation": "Trình tự: hỏi bài → đề nghị giúp → nêu lý do cần gấp → gửi tài liệu hỗ trợ.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Arrange the sentences: a. Yes, I’ve started turning off lights when I’m not in the room and unplugging devices. b. If you want to save even more, you could try using energy-efficient appliances. c. That’s a great idea. Have you considered switching to LED bulbs? d. I’ve been trying to use less electricity at home to lower my bills.",
+    "options": [
+      "b-c-a-d",
+      "d-c-a-b",
+      "a-c-d-b",
+      "c-a-d-b"
+    ],
+    "correct": 1,
+    "explanation": "Trình tự: nêu mục đích tiết kiệm → gợi ý giải pháp → nêu hành động đã thực hiện → gợi ý thêm giải pháp.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Arrange the sentences: a. Maybe you should attend a few meetings first to see if it’s a good fit for you. b. I think it’s a great opportunity to meet new people and learn new skills. c. What made you decide to join a new club? d. I’m a bit nervous about meeting new people, but I’m excited to try it. e. Definitely not. I’ve just come up with the idea. So I’m wavering a lot. f. Did you consider how much time it will take up with your current schedule?",
+    "options": [
+      "d-f-e-c-b-a",
+      "b-f-d-c-e-a",
+      "c-b-f-e-a-d",
+      "a-d-b-f-e-c"
+    ],
+    "correct": 2,
+    "explanation": "Trình tự: hỏi lý do tham gia → nêu lợi ích → hỏi về thời gian → thể hiện do dự → khuyên thử trước → nêu cảm xúc.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Arrange the sentences: a. I think electric vehicles can significantly reduce our dependence on fossil fuels. b. What made you decide to switch to an electric car instead of a traditional one? c. Government incentives and expanding charging networks could help make electric cars more accessible. d. Although electric cars have many advantages, it's important to consider the initial costs and charging infrastructure. e. Are you finding it challenging to adjust to charging instead of filling up with fuel? f. If you’re new to electric cars, starting with a hybrid model could be a good middle ground.",
+    "options": [
+      "b-a-d-c-e-f",
+      "d-b-a-e-f-c",
+      "a-b-d-f-c-e",
+      "b-c-d-a-f-e"
+    ],
+    "correct": 0,
+    "explanation": "Trình tự: hỏi lý do chuyển xe điện → nêu lợi ích → nêu điểm cần cân nhắc → nêu yếu tố hỗ trợ → hỏi về sự thích nghi → đưa ra lời khuyên.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Choose the sentence with the CLOSEST meaning: Richard only took over the family business because his father decided to retire early.",
+    "options": [
+      "But for his father’s early retirement Richard would not have taken over the family business.",
+      "Only after Richard took over the family business, did his father decide to retire early.",
+      "If only Richard would have taken over the family business when his father decided to retire early.",
+      "Regardless of his father's early retirement, Richard would not have taken over the family business."
+    ],
+    "correct": 0,
+    "explanation": "'But for' (nếu không có) diễn đạt chính xác mối quan hệ nguyên nhân - kết quả của câu gốc.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Choose the sentence with the CLOSEST meaning: Alice lost all her hope so she decided to stop her business.",
+    "options": [
+      "The loss of hope was too insignificant for Alice to consider stopping her business.",
+      "Such was her hopelessness that Alice made a decision to stop her business.",
+      "Alice decided to stop her business because she found it too difficult to remain hopeful.",
+      "Alice’s loss of hope was not enough to motivate her continue the business."
+    ],
+    "correct": 1,
+    "explanation": "Cấu trúc 'Such was + danh từ + that' diễn đạt mức độ tuyệt vọng dẫn đến quyết định dừng kinh doanh, sát nghĩa nhất.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Choose the sentence with the CLOSEST meaning: Eating a balanced diet is important for maintaining good health, regardless of your age.",
+    "options": [
+      "A healthy diet is essential for good health, no matter how old you are.",
+      "Only older individuals need to focus on eating a balanced diet.",
+      "Eating a balanced diet is mostly important for younger people who are still growing.",
+      "A healthy diet is only necessary for people with certain health conditions."
+    ],
+    "correct": 0,
+    "explanation": "'regardless of' đồng nghĩa với 'no matter how', diễn đạt ý bất kể độ tuổi nào cũng cần ăn uống cân bằng.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Choose the sentence with the CLOSEST meaning: He kept concealing his affection for Helen until his friend made a proposal to her.",
+    "options": [
+      "Not until his friend proposed to Helen did he reveal his true feelings for her.",
+      "It was until his friend made a proposal to Helen that he decided to express his affection.",
+      "Hardly had his friend made a proposal to Helen when his affection for her remained hidden.",
+      "He had concealed his feelings for Helen until his friend made a proposal to her."
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc đảo ngữ 'Not until...did' diễn đạt chính xác ý nghĩa: chỉ khi bạn cầu hôn thì anh ấy mới bộc lộ tình cảm.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Choose the sentence with the CLOSEST meaning: The manager concluded the meeting ahead of schedule. She turned off the projector and announced that everyone was free to go.",
+    "options": [
+      "The manager finished the meeting and then turned off the projector, announcing that everyone was free to go.",
+      "The manager turned off the projector and ended the meeting by announcing that everyone could leave freely.",
+      "Having been ending the meeting earlier, the manager turned off the projector and let everyone know they were free to go.",
+      "The manager concluded the meeting earlier than planned, turning off the projector and informing everyone to leave."
+    ],
+    "correct": 3,
+    "explanation": "Đáp án giữ nguyên đầy đủ thông tin 'ahead of schedule' và diễn đạt mạch lạc các hành động liên tiếp.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Choose the sentence with the CLOSEST meaning: She is an influential figure in the community. She donates generously to several local charities.",
+    "options": [
+      "Her generous donations to several local charities have impeded her an influential figure in the community.",
+      "Her substantial charitable contributions have earned her a position of influence in the community.",
+      "Influential as she is in the community, her donations to local charities are significant.",
+      "Given generous donations by several local charities, she is an influential figure in the community."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án diễn đạt chính xác mối quan hệ: sự đóng góp từ thiện giúp bà có được vị trí có ảnh hưởng.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Choose the sentence with the CLOSEST meaning: He was rumored to have cheated on the exam. The school administration has been reviewing his test papers for days.",
+    "options": [
+      "Accused of cheating on the exam, his test papers have been under scrutiny by the school administration for days.",
+      "The school administration has been investigating his test papers for days due to his rumors of cheating on the exam.",
+      "That he had cheated on the exam made the school administration review his test paper for days.",
+      "Having rumored to have cheated on the exam, he has been reviewed for days by the school administration."
+    ],
+    "correct": 1,
+    "explanation": "Đáp án diễn đạt đầy đủ nguyên nhân (tin đồn gian lận) và kết quả (ban giám hiệu kiểm tra bài).",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Choose the sentence with the CLOSEST meaning: The goal of any technology is to improve efficiency. However, it achieves this depends on how we implement it.",
+    "options": [
+      "To improve efficiency, the goal of any technology relates to how we implement it.",
+      "Whether technology improves efficiency depends on how we use it because of the effectiveness of the goal of technology.",
+      "The purpose of any technology, whether effective or not, is to enhance efficiency, which depends on how it is applied.",
+      "Whether effective or not, the primary purpose of all technology is to improve efficiency."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án giữ nguyên đầy đủ hai ý: mục tiêu công nghệ là nâng cao hiệu quả, nhưng hiệu quả đó phụ thuộc vào cách áp dụng.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "___________, we must first turn to the types of consumers.",
+    "options": [
+      "Since the question can be answered",
+      "This answers the question",
+      "Having answered the question",
+      "In order to answer the question"
+    ],
+    "correct": 3,
+    "explanation": "'In order to answer the question' diễn tả mục đích, phù hợp ngữ pháp và ngữ nghĩa.",
+    "passage": "doc28_631_635"
+  },
+  {
+    "id": 632,
+    "question": "There is also ___________evidence that texting has affected literacy skills.",
+    "options": [
+      "indisputable",
+      "arguable",
+      "doubtless",
+      "unhesitating"
+    ],
+    "correct": 1,
+    "explanation": "'arguable' có nghĩa là gây tranh cãi, phù hợp với ngữ cảnh chưa có kết luận cuối cùng.",
+    "passage": "doc28_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Apparently, only 18% of us, according to a survey, are willing to switch off our mobile phones ____________",
+    "options": [
+      "once we've left the office",
+      "when left the office",
+      "which we've left the office",
+      "for us to leave the office"
+    ],
+    "correct": 0,
+    "explanation": "'once we've left the office' là mệnh đề trạng ngữ chỉ thời gian có cấu trúc đúng.",
+    "passage": "doc28_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Personally speaking, they are invaluable when it comes to __________ social or business arrangements at short notice.",
+    "options": [
+      "made",
+      "make",
+      "making",
+      "be made"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc cố định 'when it comes to + V-ing'.",
+    "passage": "doc28631_635"
+  },
+  {
+    "id": 635,
+    "question": "In conclusion, mobile phones do have their drawbacks, but these are ____________ by the benefits.",
+    "options": [
+      "outweighed",
+      "outlooked",
+      "outdated",
+      "outlined"
+    ],
+    "correct": 0,
+    "explanation": "'outweighed' có nghĩa là vượt trội hơn, lợi ích nhiều hơn nhược điểm.",
+    "passage": "doc28_631_635"
+  },
+  {
+    "id": 636,
+    "question": "What is mentioned about climate change in the UK?",
+    "options": [
+      "The hottest five days in the UK since 1910 have all occurred within the past five years.",
+      "The UK has experienced the hottest five days in history within the last year.",
+      "The 2024 summer in the UK was hotter than June 2023, breaking all previous records.",
+      "The UK consistently reaches 40°C each summer due to climate change."
+    ],
+    "correct": 0,
+    "explanation": "Thông tin được nêu trực tiếp trong đoạn 1: Năm ngày nóng nhất kể từ 1910 đều xảy ra trong 5 năm qua.",
+    "passage": "doc28_636_640"
+  },
+  {
+    "id": 637,
+    "question": "What does “it” in paragraph 2 refer to?",
+    "options": [
+      "climate change",
+      "the UK",
+      "temperature",
+      "election campaign"
+    ],
+    "correct": 1,
+    "explanation": "'it' thay thế cho 'the UK' được nêu ngay trước đó.",
+    "passage": "doc28_636_640"
+  },
+  {
+    "id": 638,
+    "question": "What is the main topic of paragraph 3?",
+    "options": [
+      "People forget past climates as the environment degrades.",
+      "Generational changes hinder recognition of climate effects.",
+      "Shifting baseline syndrome alters climate concepts.",
+      "Normalizing heat reduces motivation to address climate change."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn 3 tập trung nói về việc bình thường hóa nhiệt độ cao làm giảm ý chí hành động chống biến đổi khí hậu.",
+    "passage": "doc28_636_640"
+  },
+  {
+    "id": 639,
+    "question": "What is the phrase “fun in the sun” in the fourth paragraph closest in meaning to?",
+    "options": [
+      "enjoyable outdoor activities in the sunshine",
+      "make fun about the sun",
+      "protect oneself from the sun",
+      "play with the sun"
+    ],
+    "correct": 0,
+    "explanation": "'fun in the sun' chỉ các hoạt động vui chơi ngoài trời dưới ánh nắng.",
+    "passage": "doc28_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Which of the following would the author most likely support?",
+    "options": [
+      "Public education on the consequences of climate change is essential.",
+      "Hotter summers are unlikely to increase in the future.",
+      "Humans are major factors contributing to climate change.",
+      "The normalization of extreme weather impacts long-term climate trends."
+    ],
+    "correct": 0,
+    "explanation": "Tác giả nhấn mạnh các nhà khoa học có trách nhiệm thông báo cho công chúng về biến đổi khí hậu.",
+    "passage": "doc28636_640"
+  },
+  {
+    "id": 641,
+    "question": "What can be inferred from the first paragraph according to the new survey?",
+    "options": [
+      "More than half of teens form close friendships online, but rarely meet in person.",
+      "Text messaging is the preferred method of communication for 23% of teens.",
+      "More than 10% of teens chat through video every day.",
+      "Only 20% of teens use digital platforms to stay in touch with friends."
+    ],
+    "correct": 0,
+    "explanation": "57% thanh thiếu niên kết bạn trực tuyến nhưng chỉ 20% gặp mặt trực tiếp → hơn nửa kết bạn online nhưng hiếm gặp.",
+    "passage": "doc28_641_645"
+  },
+  {
+    "id": 642,
+    "question": "What does the word \"they\" in paragraph 3 refer to?",
+    "options": [
+      "friends",
+      "teenage users",
+      "their teammates",
+      "online-only friends"
+    ],
+    "correct": 1,
+    "explanation": "'they' thay thế cho 'teenage users' được nêu trước đó.",
+    "passage": "doc28_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Which of the following best paraphrases this sentence: “Whether they're close with their teammates or not, online gamers say that playing makes them feel \"more connected\" to friends they know or gamers they've never met.”?",
+    "options": [
+      "Online gamers feel more connected to both friends and strangers through gaming, regardless of their relationship.",
+      "Playing online games makes gamers feel more connected to both their teammates and other players, even if they don't know them.",
+      "Gamers feel a stronger connection with their teammates and other players they meet online, who they might know.",
+      "Online gaming is most beneficial when gamers have close relationships with their teammates."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án diễn đạt đầy đủ ý: bất kể mối quan hệ, chơi game giúp kết nối cả bạn bè và người lạ.",
+    "passage": "doc28_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Which of the following can be inferred from the passage?",
+    "options": [
+      "A larger number of teens are reluctant to give others their online usernames.",
+      "Most teenage users agree that social media has negative consequences in their lives.",
+      "More than two-thirds of teens is helped online when facing challenges in their lives.",
+      "It is less likely that boys are going to make new relationships faster than girls."
+    ],
+    "correct": 2,
+    "explanation": "68% thanh thiếu niên nhận được sự hỗ trợ qua mạng xã hội khi gặp khó khăn → hơn 2/3 được giúp đỡ.",
+    "passage": "doc28_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Which of the following can be a real situation according to the last paragraph?",
+    "options": [
+      "Teenage users upload fake images to discredit other’s honor.",
+      "Teenagers privately chat with a friend to criticize her behaviours.",
+      "A group of teenagers agree to block all their friends on social media to avoid drama.",
+      "A teenage girl posts a public status to unfriend a friend after an argument."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn cuối nêu cô gái có xu hướng chặn/hủy kết bạn công khai sau cãi vã, phù hợp với đáp án D.",
+    "passage": "doc28_641_645"
+  },
+  {
+    "id": 646,
+    "question": "You forgot to prepare the materials for a team meeting, and your manager, Jordan, is disappointed. Which of the following is the most appropriate response?",
+    "options": [
+      "That’s not true—I’m sure I sent the materials on time.",
+      "I’m sorry I didn’t prepare the materials. I had too many other things to handle.",
+      "I'm sorry for my carelessness. I will never let it happen again.",
+      "I’m really sorry. I forgot to prepare the materials because I wasn’t sure how to start."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án thừa nhận lỗi, xin lỗi chân thành và cam kết sửa chữa, không bào chữa.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "You walk into the wrong room full of strangers during a meeting. What is the most appropriate thing to say?",
+    "options": [
+      "Oh no, this isn’t where I’m supposed to be. Can anyone tell me where the correct room is?",
+      "I’m sorry for interrupting; I seem to have entered the wrong room.",
+      "Is this where I’m supposed to be for my meeting?",
+      "Well, this is awkward. Does anyone know where I should be?"
+    ],
+    "correct": 1,
+    "explanation": "Đáp án lịch sự, xin lỗi vì làm gián đoạn và thừa nhận nhầm phòng một cách tế nhị.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "You drop a piece of Mentos candy into a sealed bottle of soda, and the bottle starts to bulge outward. What is the most likely explanation for this reaction?",
+    "options": [
+      "The Mentos dissolves, causing the release of heat that expands the air in the bottle.",
+      "The Mentos absorbs the soda, creating a vacuum that makes the bottle bulge outward.",
+      "The surface of the Mentos causes a rapid release of carbon dioxide gas from the soda, building pressure inside the bottle.",
+      "The reaction between the Mentos and soda creates a solid that takes up more space, pushing outward on the bottle."
+    ],
+    "correct": 2,
+    "explanation": "Bề mặt Mentos giúp giải phóng nhanh CO2 hòa tan trong nước ngọt, tạo áp suất làm chai phồng lên.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "“Reentry” occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?",
+    "options": [
+      "When he is offered a better-paying position, Javed leaves the hotel he manages to manage another one in a neighboring city.",
+      "Charan is spending her final year of college studying abroad in China.",
+      "Manan is readjusting to civilian life after 2 years of overseas merchant navy service.",
+      "After 5 miserable months, Sneha decides that she can no longer share her room with roommate Hital."
+    ],
+    "correct": 2,
+    "explanation": "Manan rời hệ thống xã hội (quân sự) rồi quay trở lại và thích nghi lại với đời sống dân sự, phù hợp định nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Mrs. Carson took a taxi to meet her three friends for lunch. She left her tote bag in the taxi. The four women agree the plate starts with J; three agree ends with 12L; three think second letter X, three other think third letter K. Which plate is most likely correct?",
+    "options": [
+      "JXK 12L",
+      "JYK 12L",
+      "JXK 12I",
+      "JXX 12L"
+    ],
+    "correct": 0,
+    "explanation": "JXK 12L thỏa mãn tất cả các yếu tố đồng thuận: bắt đầu J, kết thúc 12L, chữ thứ hai X, chữ thứ ba K.",
+    "passage": null
+  }
+]

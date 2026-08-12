@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: He spent the entire night thinking and in the end ______ a brilliant idea.",
+    "options": [
+      "received with",
+      "got up",
+      "came up with",
+      "came out"
+    ],
+    "correct": 2,
+    "explanation": "came up with: nảy ra ý tưởng. Căn cứ vào ngữ cảnh chọn came up with.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: As far as I know, the body ______ by a child who ______ his bike through the park.",
+    "options": [
+      "had discovered – was ridden",
+      "was discovered – was riding",
+      "has discovered – is riding",
+      "was being discovered – rides"
+    ],
+    "correct": 1,
+    "explanation": "Câu bị động thì quá khứ đơn: was discovered – was riding.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: There are so many types here, and I really don't know which one I ______ choose.",
+    "options": [
+      "should",
+      "can",
+      "may",
+      "must"
+    ],
+    "correct": 0,
+    "explanation": "should + V(bare): nên làm gì đó.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: There is a (n) _________ basin.",
+    "options": [
+      "sugar antique silver",
+      "antique silver sugar",
+      "sugar silver antique",
+      "antique sugar silver"
+    ],
+    "correct": 1,
+    "explanation": "Trật tự tính từ OSASCOMP: antique (A) – silver (M) – sugar (N).",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: The girl _________ design had been chosen stepped to the platform to receive the award.",
+    "options": [
+      "whose",
+      "whom",
+      "that",
+      "which"
+    ],
+    "correct": 0,
+    "explanation": "Đại từ quan hệ sở hữu whose để nói về mối quan hệ giữa the girl và design.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: Were there many people ______ board of the train when it derailed?",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "off"
+    ],
+    "correct": 0,
+    "explanation": "on board: trên tàu.",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: My computer, ______ mouse doesn't work, cannot be used now.",
+    "options": [
+      "while",
+      "because",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "whose chỉ sự sở hữu (mouse của computer).",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: Yesterday, my husband gave me a(n) ___________ painting he bought when he went on a business trip.",
+    "options": [
+      "French old interesting",
+      "interesting old French",
+      "old interesting French",
+      "French interesting old"
+    ],
+    "correct": 1,
+    "explanation": "Trật tự tính từ: interesting (Opinion) – old (Age) – French (Origin).",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: We have to suffer a lot of floods due to our serious ________ of forests.",
+    "options": [
+      "destroy",
+      "destructive",
+      "destruction",
+      "destructor"
+    ],
+    "correct": 2,
+    "explanation": "Sau tính từ sở hữu our + tính từ → danh từ destruction.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: It ___ without saying that Ms Nga is a very enthusiastic teacher. I love her so much.",
+    "options": [
+      "goes",
+      "comes",
+      "appears",
+      "gets"
+    ],
+    "correct": 0,
+    "explanation": "It goes without saying: chắc chắn, hiển nhiên, khỏi phải nói.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: The article gives us a real ______ into the problems associated with the Internet and online social networking.",
+    "options": [
+      "intuition",
+      "insight",
+      "instinct",
+      "indecision"
+    ],
+    "correct": 1,
+    "explanation": "give an insight into: hiểu biết sâu sắc về cái gì.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: Tourism can be a great source of income for the host nation. According to the latest report on national revenue, almost 41% of Thailand's GDP come from this lucrative industry.",
+    "options": [
+      "essential",
+      "costly",
+      "profitable",
+      "exceptional"
+    ],
+    "correct": 2,
+    "explanation": "lucrative = profitable (sinh lợi).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: The International Red Cross and Red Crescent ________ occurs once every four years.",
+    "options": [
+      "Globe",
+      "Society",
+      "Conference",
+      "Nations"
+    ],
+    "correct": 2,
+    "explanation": "Conference: hội nghị.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: The champion won the boxing match by a ________ in the fourth round.",
+    "options": [
+      "put out",
+      "knock out",
+      "hit out",
+      "black out"
+    ],
+    "correct": 1,
+    "explanation": "knock out: hạ đo ván, nốc ao.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: “_________” - “Yes, about ten cigarettes a day.”",
+    "options": [
+      "Do you smoke?",
+      "What's the matter?",
+      "Anything else?",
+      "Well, you should stop smoking."
+    ],
+    "correct": 0,
+    "explanation": "Câu hỏi phù hợp với câu trả lời về số lượng thuốc lá.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: “What's your birthday, Ann?” “It's ____.”",
+    "options": [
+      "on the thirty-one of July",
+      "on July the thirty-one",
+      "on the thirty-first of July",
+      "in July the thirty-first"
+    ],
+    "correct": 2,
+    "explanation": "Cách nói ngày đúng: on the thirty-first of July.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Patient: \"Can I make an appointment to see the doctor, please?\" Receptionist: “_________”",
+    "options": [
+      "Not at the moment. He can't be disturbed.",
+      "OK, you will need to check my diary.",
+      "OK, let me just check the diary.",
+      "Have a seat and I'll be with you in an hour."
+    ],
+    "correct": 2,
+    "explanation": "Phản hồi lịch sự và phù hợp của lễ tân.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Tom: “I read somewhere recently that about 137 species of animals and plants become extinct every day.” Mary: “_________.”",
+    "options": [
+      "Well, maybe all is not lost yet.",
+      "What's point?",
+      "What a pity!",
+      "It can't have happened like that."
+    ],
+    "correct": 2,
+    "explanation": "What a pity! thể hiện sự tiếc nuối phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: a. Is it usually quiet there? b. Do you know where I can find a quiet place to study? c. The library has a study room on the third floor. d. Yes, it's pretty peaceful. Just make sure to get there early to grab a spot.",
+    "options": [
+      "b – d – a – c",
+      "b – c – a – d",
+      "a – d – b – c",
+      "a – c – b – d"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự logic: b → c → a → d.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: a. Can I have you, sir? b. What about getting another book, called “Pure love” by Josh Vance? c. Thank you. But I think I will go to another store. d. I am looking for a new book by James Park, called “The wise man”. e. Oh. I need the book now. I hope to buy it as a present for my friend. f. Sorry. That book has already sold out, but we have more on order already. They should be here next week.",
+    "options": [
+      "a-d-b-e-f-c",
+      "a-d-f-e-b-c",
+      "a-d-f-b-e-c",
+      "a-d-b-f-e-c"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự đúng: a-d-f-e-b-c.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: a. Don't worry, we'll find it. Let's check the garden first. b. Oh no, that's terrible! I hope we find it soon. c. My bird flew away! I can't find it anywhere. d. I'm so sorry to hear that. Would you like me to help you look?",
+    "options": [
+      "c-d-a-b",
+      "b-c-a-d",
+      "a-b-c-d",
+      "c-a-b-d"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: c → d → a → b.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: a. I'll go ahead and make a reservation for 7 PM. Does that work for you? b. Yes, I'd like to book a table for two at your restaurant for tomorrow evening. c. I'm sorry, we're fully booked at 8 PM. Would you prefer an earlier time? d. That sounds perfect. Thanks for accommodating me.",
+    "options": [
+      "b-c-a-d",
+      "c-b-a-d",
+      "b-a-c-d",
+      "d-c-a-b"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: b → c → a → d.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Anna wanted to know how many cakes ______ by the time she ______ in Nha Trang the day after.",
+    "options": [
+      "would have been made - arrived",
+      "will have been made - arrives",
+      "will have made - will arrive",
+      "would have made - arrived"
+    ],
+    "correct": 0,
+    "explanation": "Câu gián tiếp + thì hoàn thành trong tương lai trong quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: Never before have the leaders of those two countries meet in an earnest attempt to resolve their differences.",
+    "options": [
+      "have",
+      "those",
+      "meet",
+      "earnest attempt"
+    ],
+    "correct": 2,
+    "explanation": "Sửa meet → met (thì hiện tại hoàn thành).",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: Selecting the best type of grass for a lawn ______ critical factor than climate, soil type, and availability of water.",
+    "options": [
+      "more",
+      "is more",
+      "more than",
+      "are more"
+    ],
+    "correct": 1,
+    "explanation": "Chủ ngữ gerund số ít → is more.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: A quick look has revealed that France has ______ computers since 1960.",
+    "options": [
+      "as many televisions as",
+      "more televisions than",
+      "as many as televisions",
+      "many as televisions as"
+    ],
+    "correct": 0,
+    "explanation": "Cấu trúc so sánh bằng: as many + N + as.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Why did Danny decide to enter the marathon? Danny's totally unfit.",
+    "options": [
+      "Why did Danny, whose total unfit, decide to enter the marathon?",
+      "Why did Danny decide to enter the marathon, who's totally unfit?",
+      "Why did Danny, who's totally unfit, decide to enter the marathon?",
+      "Why did Danny decide to enter the marathon who's totally unfit?"
+    ],
+    "correct": 2,
+    "explanation": "Mệnh đề quan hệ who đứng sau Danny.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: The student next to me kept chewing gum. That bothered me a lot.",
+    "options": [
+      "The students next to me kept chewing gum, that bothered me a lot.",
+      "The students next to me kept chewing gum, which bothered me a lot.",
+      "The students next to me kept chewing gum, bothering me a lot.",
+      "The students next to me kept chewing gum bothered me a lot."
+    ],
+    "correct": 1,
+    "explanation": "Mệnh đề quan hệ không xác định dùng which sau dấu phẩy.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: Her living conditions were not good. She studied very well.",
+    "options": [
+      "Difficult as her living conditions were, she studied very well.",
+      "She studied very well just because she lived in difficult conditions.",
+      "Living in difficult conditions forced she to study very well.",
+      "Living in difficult conditions, she had no choice but to study well."
+    ],
+    "correct": 0,
+    "explanation": "Adj + as = although.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: They have lived near a chemical plant for many years. Some villagers have now developed cancer.",
+    "options": [
+      "Because of the fact having lived near a chemical plant for, some villagers have now developed cancer.",
+      "Because they have lived near a chemical plant for many years so some villagers have now developed cancer.",
+      "Living near a chemical plant for many years, some villagers have now developed cancer.",
+      "Having lived near a chemical plant for many years, some villagers have now developed cancer."
+    ],
+    "correct": 3,
+    "explanation": "Having + VpII diễn tả hành động hoàn thành trước.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: The Red Cross is a global humanitarian organization committed to ____ emergency assistance, disaster relief, and education worldwide.",
+    "options": [
+      "providing",
+      "provide",
+      "provided",
+      "provides"
+    ],
+    "correct": 0,
+    "explanation": "commit to V-ing.",
+    "passage": "passage10_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: ____, the organization began as a movement to care for wounded soldiers on the battlefield.",
+    "options": [
+      "Founded in 1863 by Swiss businessman Henry Dunant",
+      "It was established in 1863 by Henry Dunant, a Swiss businessman",
+      "Which was founded in 1863 by Swiss business Henry Dunant",
+      "Having founded in 1863 by Swiss businessman Henry Dunant"
+    ],
+    "correct": 0,
+    "explanation": "Quá khứ phân từ rút gọn mệnh đề bị động.",
+    "passage": "passage10_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: Over time, it has grown into a vast network that ____ a wide range of human needs, supporting people during crises across the globe.",
+    "options": [
+      "transforms",
+      "suggests",
+      "determines",
+      "addresses"
+    ],
+    "correct": 3,
+    "explanation": "addresses: đáp ứng / giải quyết.",
+    "passage": "passage10_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: This commitment ensures that their aid reaches ____.",
+    "options": [
+      "people need it most",
+      "those who need it most",
+      "someone living in poor conditions.",
+      "individuals who are injured."
+    ],
+    "correct": 1,
+    "explanation": "those who need it most là tân ngữ phù hợp.",
+    "passage": "passage10_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: Besides, it focuses on long-term health initiatives, blood donation drives, and training in first aid and disaster response, fostering ____ within communities.",
+    "options": [
+      "collaboration",
+      "assistance",
+      "resilience",
+      "exchange"
+    ],
+    "correct": 2,
+    "explanation": "resilience: sự phục hồi / kiên cường.",
+    "passage": "passage10_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What is the main idea of this reading?",
+    "options": [
+      "Birds bring bad luck.",
+      "Don't look a crow in the eye.",
+      "There are many superstitions surrounding birds.",
+      "Birds are important to English people."
+    ],
+    "correct": 2,
+    "explanation": "Bài đọc nói về nhiều sự mê tín xoay quanh các loài chim.",
+    "passage": "passage10_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: The word \"portent\" in the first paragraph is closest in meaning to ________.",
+    "options": [
+      "sign",
+      "coming",
+      "symbol",
+      "destruction"
+    ],
+    "correct": 0,
+    "explanation": "portent = sign (dấu hiệu).",
+    "passage": "passage10_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: Which is NOT true, according to the reading?",
+    "options": [
+      "Some superstitions are based on reality.",
+      "Seeing a swallow is a sign of war and death in the future.",
+      "Ravens bring good luck for the country of England.",
+      "Crows eat dead animals."
+    ],
+    "correct": 1,
+    "explanation": "Swallow có thể là điềm tốt hoặc xấu, không phải dấu hiệu chiến tranh.",
+    "passage": "passage10_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: The word \"old wives’ tales\" in paragraph 4 is closest in meaning to ________.",
+    "options": [
+      "stories told by housewives in the past.",
+      "old beliefs which have been proved to be scientifically true.",
+      "folk beliefs passed down from generation to generation without any reason of science.",
+      "folk tales about wives that were passed on to people in a spoken form."
+    ],
+    "correct": 2,
+    "explanation": "old wives’ tales: niềm tin dân gian không có cơ sở khoa học.",
+    "passage": "passage10_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: How might a farmer attempt to prevent bad luck?",
+    "options": [
+      "Catch a raven.",
+      "Keep his windows open.",
+      "Follow a crow.",
+      "Avoid harming a swallow."
+    ],
+    "correct": 3,
+    "explanation": "Farmers also have to beware of killing a swallow.",
+    "passage": "passage10_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the passage mainly about?",
+    "options": [
+      "The history of badminton and how it is played and organized.",
+      "The badminton Olympics throughout the year.",
+      "How to play badminton.",
+      "The popularity of badminton in daily life and in international games."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn nói về lịch sử và cách chơi môn cầu lông.",
+    "passage": "passage10_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: According to paragraph 1, what is the word “synthetic” closest in meaning to?",
+    "options": [
+      "elementary.",
+      "authentic.",
+      "man-made.",
+      "natural."
+    ],
+    "correct": 2,
+    "explanation": "synthetic = man-made (nhân tạo).",
+    "passage": "passage10_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: In paragraph 5, what does the word “which” refer to?",
+    "options": [
+      "the “rally scoring” system",
+      "the BWF.",
+      "the serving side.",
+      "score."
+    ],
+    "correct": 0,
+    "explanation": "which thay thế cho the “rally scoring” system.",
+    "passage": "passage10_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: According to the passage, what is the most popular badminton tournament?",
+    "options": [
+      "The Olympics.",
+      "The All – England.",
+      "The Thomas Cup.",
+      "The Uber Cup."
+    ],
+    "correct": 1,
+    "explanation": "The best-known of these is the All-England Championships.",
+    "passage": "passage10_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: “In an international badminton match, player A scores 27 points and player B scores 26 points.” According to the fifth paragraph, what is the fastest way for player B to win the match?",
+    "options": [
+      "Wins another point.",
+      "Scores up to point 28.",
+      "Reaches point 30 before team A.",
+      "Wins 3 points in a row."
+    ],
+    "correct": 3,
+    "explanation": "Cần hơn đối thủ 2 điểm → thắng 3 điểm liên tiếp để đạt 29.",
+    "passage": "passage10_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You’ve noticed that every time someone walks past a particular table, the glasses on the table shake slightly. What is the likely cause?",
+    "options": [
+      "The glasses are not positioned properly.",
+      "The table is wobbly and needs adjustment.",
+      "The floor is slippery near the table.",
+      "The restaurant is too crowded."
+    ],
+    "correct": 1,
+    "explanation": "Bàn lỏng gây rung khi có người đi qua.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: A study was done on the weights of different types of fish in a pond. A random sample of fish were caught and marked in order to ensure that none were weighed more than once. The sample contained 150 largemouth bass, of which 30% weighed more than 2 pounds. Which of the following conclusions is best supported by the sample data?",
+    "options": [
+      "The majority of all fish in the pond weigh less than 2 pounds.",
+      "The average weight of all fish in the pond is approximately 2 pounds.",
+      "Approximately 30% of all fish in the pond weigh more than 2 pounds.",
+      "Approximately 30% of all largemouth bass in the pond weigh more than 2 pounds."
+    ],
+    "correct": 3,
+    "explanation": "Dữ liệu chỉ áp dụng cho largemouth bass trong mẫu.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: Which of the following situations best exemplifies “caution” where someone takes care in order to avoid danger or mistakes?",
+    "options": [
+      "James misses the deadlines which he is assigned to complete in 2 days. He apologizes and assures me that he will fulfill the task as soon as possible.",
+      "James takes on the role of team leader in a new project. He makes a plan, conducts thorough research, and assigns tasks to team members before running the project.",
+      "James refuses to undertake new tasks because he will take a holiday.",
+      "James joins a new project team to work with many experts from other companies. He tries his best to cooperate with them but nobody cares about him."
+    ],
+    "correct": 1,
+    "explanation": "Lập kế hoạch và nghiên cứu kỹ lưỡng thể hiện sự thận trọng.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: The members of a city council wanted to assess the opinions of all city residents about converting an open field into a dog park. The council surveyed a sample of 500 city residents who own dogs. The survey showed that the majority of those sampled were in favor of the dog park. Which of the following is true about the city council's survey?",
+    "options": [
+      "It shows that the majority of city residents are in favor of the dog park.",
+      "The survey sample should have included more residents who are dog owners.",
+      "The survey sample should have consisted entirely of residents who do not own dogs.",
+      "The survey sample is biased because it is not representative of all city residents."
+    ],
+    "correct": 3,
+    "explanation": "Mẫu chỉ gồm người nuôi chó → không đại diện cho toàn bộ cư dân.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: You're at a community garden and notice that the leaves of the tomato plants are wilting in the afternoon, even though you watered them in the morning. What is the likely cause?",
+    "options": [
+      "The plants need more sunlight.",
+      "The soil isn't retaining moisture well enough.",
+      "The plants have a disease that causes wilting.",
+      "The tomatoes need less water than you're giving them."
+    ],
+    "correct": 1,
+    "explanation": "Đất không giữ đủ độ ẩm nên cây héo buổi chiều.",
+    "passage": null
+  }
+]

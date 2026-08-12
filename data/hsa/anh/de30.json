@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: The manager recommended ______ the staff training program to improve efficiency.",
+    "options": [
+      "update",
+      "updating",
+      "to update",
+      "updated"
+    ],
+    "correct": 1,
+    "explanation": "recommend + V-ing: gợi ý làm việc gì.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: The spokesperson ______ the rumors about the company's financial troubles, assuring the public of its stability.",
+    "options": [
+      "refuted",
+      "criticized",
+      "emphasized",
+      "speculated"
+    ],
+    "correct": 0,
+    "explanation": "refuted = bác bỏ (tin đồn).",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: She consistently ________ her assignments until the last possible moment, despite knowing the workload would be overwhelming.",
+    "options": [
+      "puts aside",
+      "puts off",
+      "puts on",
+      "puts up"
+    ],
+    "correct": 1,
+    "explanation": "puts off = trì hoãn.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: The artist, ________ created the mural on the city's main street, will be giving a talk tomorrow.",
+    "options": [
+      "which",
+      "that",
+      "who",
+      "whom"
+    ],
+    "correct": 2,
+    "explanation": "who thay thế cho the artist (chủ ngữ người).",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: Experts predict that in the coming years, the global market will face a period of ______ recession.",
+    "options": [
+      "economics",
+      "economic",
+      "economical",
+      "economy"
+    ],
+    "correct": 1,
+    "explanation": "economic recession = suy thoái kinh tế.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: You ________ your homework thoroughly because there are still so many mistakes.",
+    "options": [
+      "shouldn't do",
+      "could do",
+      "must have done",
+      "can't have done"
+    ],
+    "correct": 3,
+    "explanation": "can't have done = chắc chắn đã không làm (suy đoán phủ định trong quá khứ).",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: If they _________ the project by next week, they will be able to present it at the conference.",
+    "options": [
+      "is completing",
+      "will complete",
+      "completed",
+      "have completed"
+    ],
+    "correct": 3,
+    "explanation": "If + present perfect (have completed) + will + V.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: The company's long-term _________ focuses on expanding its market reach globally.",
+    "options": [
+      "provision",
+      "vision",
+      "envision",
+      "division"
+    ],
+    "correct": 1,
+    "explanation": "vision = tầm nhìn.",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: I ______ the doorbell twice when she finally opened the door.",
+    "options": [
+      "had rung",
+      "rang",
+      "would ring",
+      "was ringing"
+    ],
+    "correct": 0,
+    "explanation": "Quá khứ hoàn thành (had rung) diễn tả hành động xảy ra trước một hành động khác trong quá khứ.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: The HR department will ______ the new policies to ensure they are properly implemented.",
+    "options": [
+      "catch hold of",
+      "pay attention to",
+      "turn a blind eye to",
+      "go off track"
+    ],
+    "correct": 1,
+    "explanation": "pay attention to = chú ý đến.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/phrase. Did anyone come forward to perceive responsibility for the damage caused by the fire?",
+    "options": [
+      "inquire",
+      "accept",
+      "report",
+      "find out"
+    ],
+    "correct": 1,
+    "explanation": "perceive responsibility ≈ accept responsibility.",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: Choose A, B, C or D that has the CLOSEST meaning to the underlined word/phrase. She expressed her gratitude for the privilege of collaborating with such a talented team.",
+    "options": [
+      "honor",
+      "chance",
+      "favor",
+      "right"
+    ],
+    "correct": 0,
+    "explanation": "privilege ≈ honor (vinh dự).",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/phrase. By the early 1950s, television sets were common in most homes, and by the late 1960s, televisions had even been embraced as family entertainment.",
+    "options": [
+      "rejected",
+      "ignored",
+      "celebrated",
+      "avoided"
+    ],
+    "correct": 0,
+    "explanation": "embraced (chấp nhận, hoan nghênh) << rejected.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: Choose A, B, C or D that has the OPPOSITE meaning to the underlined word/phrase. My friend and his soccer coach are incompatible, as they constantly argue over everything related to the game.",
+    "options": [
+      "too different to work together",
+      "almost exactly the same type",
+      "really disliking each other",
+      "getting on very well"
+    ],
+    "correct": 3,
+    "explanation": "incompatible << getting on very well.",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: Choose A, B, C or D to complete each dialogue. Tom accidentally bumped into Lisa while walking. Tom: “Oops! Sorry about that, Lisa.” Lisa: _________",
+    "options": [
+      "You shouldn't do that.",
+      "It's alright.",
+      "You are welcome.",
+      "It's nonsense."
+    ],
+    "correct": 1,
+    "explanation": "It's alright = Không sao đâu (phản hồi lịch sự với lời xin lỗi).",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: Choose A, B, C or D to complete each dialogue. Tom: \"Did you manage to contact Emma?\" Jake: \"___________\"",
+    "options": [
+      "There's no approval.",
+      "Not much.",
+      "Yes, I've known her for years.",
+      "No, the line is busy."
+    ],
+    "correct": 3,
+    "explanation": "Giải thích lý do chưa liên lạc được.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Choose A, B, C or D to complete each dialogue. Ben: \"Would you like to make a presentation at the conference next week?\" Emily: \"Why not. ___________\"",
+    "options": [
+      "I'll make an effort.",
+      "I'll make a decision.",
+      "I'll make a point.",
+      "I'll make a change."
+    ],
+    "correct": 0,
+    "explanation": "I'll make an effort = Tôi sẽ cố gắng (thể hiện sự sẵn sàng).",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Choose A, B, C or D to complete each dialogue. Emma: \"Would it be possible for me to join your group for the project? I believe I could offer some valuable input.\" Tom: \"______\"",
+    "options": [
+      "Unfortunately, we've already streamlined the team, and the group is already full.",
+      "We'd appreciate having you on board; there aren't any slots left.",
+      "It could be tricky to accommodate another person at this stage, but we really want to have you.",
+      "I'm not sure everyone in my group will agree to invite you. I'm afraid."
+    ],
+    "correct": 0,
+    "explanation": "Từ chối lịch sự và rõ ràng.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: Choose A, B, C or D to make a complete dialogue. a. Do I need to bring along something as a present? b. Sure, but I'm in the middle of something right now. c. Oh no, you shouldn't. Make yourself at home. d. I'm just finishing up some work; is it okay if I come by in 30 minutes?",
+    "options": [
+      "c-b-d-a",
+      "c-a-d-b",
+      "d-b-a-c",
+      "d-c-b-a"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự logic: đề xuất thời gian → đồng ý nhưng đang bận → hỏi về quà → trả lời không cần.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: Choose A, B, C or D to make a complete dialogue. a. I'm so sorry to hear that. Have you talked to anyone about it? b. I just found out that I didn't get the internship I applied for. c. \"I have, and they've been really supportive.\" d. \"That's tough, but maybe there's another opportunity waiting for you.\"",
+    "options": [
+      "b-d-a-c",
+      "a-b-d-c",
+      "a-c-b-d",
+      "b-a-c-d"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự: chia sẻ tin buồn → chia buồn + hỏi → trả lời đã chia sẻ → an ủi.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: Choose A, B, C or D to make a complete dialogue. a. I've been trying to read more books lately, but I find it hard to make time for it. b. How much time do you think you need each day to really get into a book? c. I thought it would help me relax, but sometimes, I feel like I'm rushing through the chapters. d. Maybe you're setting yourself up with too high expectations. It could help to make a more manageable reading goal. e. Just 20 minutes before bed would make a huge difference. f. That sounds challenging! Trying to fit in a new habit can really mess with your daily routine.",
+    "options": [
+      "b-c-d-f-a-e",
+      "a-d-b-e-c-f",
+      "b-e-f-c-a-d",
+      "a-f-c-e-d-b"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự logic theo đáp án đề.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: Choose A, B, C or D to make a complete dialogue. a. I see. I've been planning trips to explore some lesser-known destinations recently. b. That's amazing! Traveling to new places can also open your eyes to different ways of life. c. Have you noticed how traveling can help people connect with others and gain fresh perspectives? d. Absolutely, it encourages meaningful interactions and promotes understanding across cultures. e. I've read that visiting unfamiliar places can boost creativity and personal growth. f. We should definitely organize a trip together! It could be such a rewarding experience.",
+    "options": [
+      "c-d-a-b-e-f",
+      "a-e-b-c-d-f",
+      "c-b-e-a-d-f",
+      "a-c-d-e-f-b"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic theo đáp án đề.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. Although I can't be completely sure, it seems that approximately one hundred people will be attending the conference.",
+    "options": [
+      "I can't confirm the exact number, but I suppose one hundred people will attend the conference.",
+      "It's likely that around one hundred people will be at the conference, though I'm not certain.",
+      "I am certain that approximately one hundred people will be attending the conference.",
+      "There are about one hundred people confirming to attend the conference, though I'm not entirely sure."
+    ],
+    "correct": 1,
+    "explanation": "Sát nghĩa nhất với mức độ phỏng đoán của câu gốc.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. Because the documents had not been thoroughly reviewed by the committee, several errors were identified during the final inspection.",
+    "options": [
+      "Since the committee failed to review the documents thoroughly, several errors were discovered during the final inspection.",
+      "Several errors were ignored by the committee during the final inspection because there was no thorough review of the documents.",
+      "The committee's thorough review of the documents caused several errors to be unnoticed until the final inspection.",
+      "Despite the committee's thorough review of the documents, many errors were found until the final inspection."
+    ],
+    "correct": 0,
+    "explanation": "Since = Because, failed to review = had not been thoroughly reviewed.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. It's important for all residents to participate in recycling efforts every month.",
+    "options": [
+      "All residents are required to join the recycling efforts every month.",
+      "Participating in recycling efforts every month is essential for all residents.",
+      "It's crucial that every resident joins the recycling efforts monthly on purpose.",
+      "Almost residents must participate in recycling efforts monthly."
+    ],
+    "correct": 1,
+    "explanation": "important = essential.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: Choose A, B, C or D that has the CLOSEST meaning to the given sentence. She has such a kind and caring personality that everyone enjoys being around her.",
+    "options": [
+      "People are put off by her excessive kindness and care.",
+      "She is too kind and caring for people to enjoy her company.",
+      "Her kindness and care make her a delightful person to be around.",
+      "She is so kind and caring that people can't stand spending time with her."
+    ],
+    "correct": 2,
+    "explanation": "Sát nghĩa với cấu trúc such ... that.",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. The company faced a financial crisis. They started looking for new investment opportunities immediately.",
+    "options": [
+      "The company was still dealing with a financial crisis, but they were already thinking about new investments.",
+      "No sooner had the company encountered the financial crisis than they began searching for new investment opportunities.",
+      "Upon experiencing a financial crisis, the company gradually initiated a search for new investment opportunities.",
+      "No matter how serious the financial crisis was, the company instantly sought new investment opportunities."
+    ],
+    "correct": 1,
+    "explanation": "No sooner ... than = ngay khi ... thì (diễn tả immediately).",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. She moved to a new job six months ago. Gradually, she adjusted to the new work environment and different cultures.",
+    "options": [
+      "After six months in the new job, she used to adapt to the work environment and new culture.",
+      "Starting a new job within 6 months, she had to adjust to the work environment and culture before becoming fully accustomed.",
+      "Although she started her job six months ago, she immediately got used to the work environment, despite the new culture.",
+      "It took her six months to become familiar with the work environment and culture of the new job."
+    ],
+    "correct": 3,
+    "explanation": "It took ... to become familiar = gradually adjusted.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. Mark worked hard to save money for a new car. However, he decided to invest in his education instead of buying the car.",
+    "options": [
+      "Mark worked hard to save money for a new car, so he chose to invest in his education instead of buying the car.",
+      "If Mark saved enough money, he would buy a new car, but he invested in his education instead.",
+      "Although Mark saved money for a new car, he opted to invest in his education instead.",
+      "Mark's decision to save money for a new car helped him invest in his education."
+    ],
+    "correct": 2,
+    "explanation": "Although = However (mối quan hệ tương phản).",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: Choose A, B, C or D that has the CLOSEST meaning to the given pair of sentences. She became a successful KOL because of her engagement with followers. She didn't rely on paid promotions.",
+    "options": [
+      "It was her engagement with followers, especially paid promotions, that successfully made her a KOL.",
+      "In addition to her engagement with followers, her paid promotions significantly contributed to her success as a KOL.",
+      "Her success as a KOL was mainly due to her paid promotions, not engagement with followers.",
+      "Her engagement with followers helped her become a successful KOL, without using paid promotions."
+    ],
+    "correct": 3,
+    "explanation": "Sát nghĩa với câu gốc (nhờ engagement, không dựa vào paid promotions).",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Experts agree that (631) ___________ when open green spaces are replaced with asphalt roads and tall brick or concrete buildings.",
+    "options": [
+      "this cause urban development",
+      "this is due to urban development",
+      "the results from urban development",
+      "because urban development is it"
+    ],
+    "correct": 1,
+    "explanation": "this is due to urban development (mệnh đề đầy đủ sau that).",
+    "passage": "passage30_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: These materials retain heat (632) ___________ by the Sun and release it through the night.",
+    "options": [
+      "generated",
+      "generating",
+      "to generate",
+      "generate"
+    ],
+    "correct": 0,
+    "explanation": "generated by the Sun (rút gọn mệnh đề quan hệ bị động).",
+    "passage": "passage30_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: In Singapore, the government has (633) ___________ to transform it into a \"city within a garden\".",
+    "options": [
+      "pledged",
+      "committed",
+      "confessed",
+      "required"
+    ],
+    "correct": 0,
+    "explanation": "pledged to = cam kết.",
+    "passage": "passage30_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: ... they held an international competition calling for (634) ___________ to develop a master plan to help bring this about.",
+    "options": [
+      "entrances",
+      "entries",
+      "exits",
+      "escapes"
+    ],
+    "correct": 1,
+    "explanation": "entries = bài dự thi.",
+    "passage": "passage30_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: They also carry solar panels used to light the trees at night and (635) __________, making them truly self-sufficient.",
+    "options": [
+      "to contain and collect rainwater",
+      "rainwater be collected in containers",
+      "to collect rainwater in containers",
+      "containers to collect rainwater"
+    ],
+    "correct": 3,
+    "explanation": "containers to collect rainwater (cùng loại danh từ với solar panels).",
+    "passage": "passage30_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: Which of the following can be the best title for the passage?",
+    "options": [
+      "Computer Games Stunt Teen Brains",
+      "Violent Behaviours Harm Teen Brains",
+      "Violent Behaviours Increase in Teenagers",
+      "Computer Games Absorb Teenagers"
+    ],
+    "correct": 0,
+    "explanation": "Toàn bài nói về tác hại của game máy tính đối với sự phát triển não bộ thanh thiếu niên.",
+    "passage": "passage30_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: What is the word \"they\" in the paragraph 3 refer to?",
+    "options": [
+      "computer games",
+      "anti-social elements",
+      "bad things",
+      "these students"
+    ],
+    "correct": 3,
+    "explanation": "they = these students.",
+    "passage": "passage30_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: What does the research reveal about brain activity during arithmetic exercises compared to Nintendo gaming?",
+    "options": [
+      "Arithmetic exercises and Nintendo gaming activate completely different parts of the brain with no overlapping functions.",
+      "Arithmetic exercises reduce brain activity in the frontal lobe, while Nintendo gaming enhances overall brain function.",
+      "Both arithmetic exercises and Nintendo gaming equally stimulate the left and right hemispheres of the brain.",
+      "Arithmetic exercises stimulate the frontal lobe, associated with learning, memory, and self-control, while Nintendo gaming mainly activates areas linked to vision and movement."
+    ],
+    "correct": 3,
+    "explanation": "Theo thông tin đoạn 2.",
+    "passage": "passage30_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: Which of the following is TRUE about computer games?",
+    "options": [
+      "Computer games damage the brain directly.",
+      "Computer games damage the development of the brain.",
+      "Computer games make children quick-minded.",
+      "Computer games make children's vision better."
+    ],
+    "correct": 1,
+    "explanation": "halting the process of brain development.",
+    "passage": "passage30_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: What can be inferred about the writer?",
+    "options": [
+      "The writer had no ideas about computer games.",
+      "The writer was in favour of computer games.",
+      "The writer was against computer games.",
+      "The writer used to be addicted to computer games."
+    ],
+    "correct": 2,
+    "explanation": "Tác giả nhấn mạnh hệ lụy nghiêm trọng của việc chơi game.",
+    "passage": "passage30_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: The word “prospects” in the first paragraph is closest in meaning to ______.",
+    "options": [
+      "chances",
+      "disadvantages",
+      "incomes",
+      "benefits"
+    ],
+    "correct": 0,
+    "explanation": "prospects = triển vọng / chances.",
+    "passage": "passage30_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: According to paragraph 2, which of the following is NOT provided by traineeships?",
+    "options": [
+      "degrees",
+      "practical skills",
+      "work preparation",
+      "work experience"
+    ],
+    "correct": 0,
+    "explanation": "Traineeships cung cấp work preparation, practical skills và experience, không cung cấp degrees.",
+    "passage": "passage30_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: According to paragraph 3, what benefit do people receive from school leaver programmes?",
+    "options": [
+      "They are capable of doing many different kinds of jobs at the same time.",
+      "They are able to learn the knowledge about their job while working to get their salary.",
+      "They can learn about the most common industries when being a student at school.",
+      "They can receive the training directly from the company they work for."
+    ],
+    "correct": 1,
+    "explanation": "earn a qualification whilst working ... (and earning a wage).",
+    "passage": "passage30_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: Which of the following best paraphrases the sentence: “School leaver programmes are becoming a popular choice for A-level students who aren't interested in university, but still want the learning and training that's involved with further education.”?",
+    "options": [
+      "A-level students are choosing school leaver programmes because they provide an easier path than attending university or pursuing additional education.",
+      "A-level students who prefer hands-on experience over further education are now opting for school leaver programmes instead of university.",
+      "School leaver programmes are designed for A-level students who want to avoid university and enter the workforce directly without further training.",
+      "School leaver programmes are increasingly appealing to A-level students seeking an alternative to university that still provides education and training."
+    ],
+    "correct": 3,
+    "explanation": "Sát nghĩa nhất với câu gốc.",
+    "passage": "passage30_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: Which of the following can be inferred from the passage?",
+    "options": [
+      "School leavers may have to spend from three to seven years on training before being employed.",
+      "Internships bring more benefits to people than traineeships.",
+      "New employees may make a progress in their job thanks to the training when being recruited.",
+      "You have to prepare quite carefully before running the business by yourself."
+    ],
+    "correct": 2,
+    "explanation": "employers providing on-the-job training ... help you progress within the industry.",
+    "passage": "passage30_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: You want to leave a group chat but don't want to interrupt or offend the others. What is the most polite way to exit the group chat?",
+    "options": [
+      "I'm going to leave the group now, but I hope you all understand. Thanks for the conversations!",
+      "I think I should leave the group chat. I don't want to see any messages that don't relate to me anymore.",
+      "I need to step out of the group for a while. I hope you all have a great time!",
+      "I've decided to leave the group, but I hope we can still be friends. Thanks, everyone!"
+    ],
+    "correct": 0,
+    "explanation": "Cách rời nhóm lịch sự nhất, bày tỏ lòng biết ơn và hiểu biết.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: The manager has received complaints from customers about long wait times at the checkout counter. He wants to resolve this issue quickly, so he has asked the staff to observe the situation closely. Which situation should the staff report to the manager?",
+    "options": [
+      "A customer is browsing through several aisles, looking for a specific product.",
+      "A cashier is helping a customer with a large purchase, taking longer than usual to process the items.",
+      "A customer is waiting in line while the cashier quickly processes a few small items.",
+      "A shopper is using the self-checkout lane for a simple transaction with no issues."
+    ],
+    "correct": 1,
+    "explanation": "Tình huống trực tiếp gây ra thời gian chờ lâu tại quầy thanh toán.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: You find it difficult to remove wet socks and gloves. What is the most likely reason for this?",
+    "options": [
+      "The wet fabric contracts as it dries, making it more tightly bound to your skin.",
+      "The moisture causes the fabric to cling to your skin, creating extra friction that makes removal harder.",
+      "The water in the fabric forms a chemical bond with your skin, making the socks and gloves stick.",
+      "The wet socks and gloves are heavier, causing more pressure against your skin, which makes them harder to remove."
+    ],
+    "correct": 1,
+    "explanation": "Độ ẩm tăng ma sát khiến vải bám da chặt hơn.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: A Guarantee is a promise or assurance that attests to the quality of a product that is either given in writing by the manufacturer or given verbally by the person selling the product. Which situation below is the best example of a Guarantee?",
+    "options": [
+      "Melissa purchases a DVD player with the highest consumer ratings in its category.",
+      "The salesperson advises Curt to be sure that he buys an air conditioner with a guarantee.",
+      "The local auto body shop specializes in refurbishing and selling used cars.",
+      "Lori buys a used digital camera from her coworker who says that she will refund Lori's money if the camera's performance is not of the highest quality."
+    ],
+    "correct": 3,
+    "explanation": "Lời hứa hoàn tiền nếu chất lượng không đạt (cam kết bằng lời nói).",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: Here's a set of statements about space exploration. Which statement can be an assumption?",
+    "options": [
+      "The Moon is the largest natural satellite in our solar system.",
+      "The Voyager spacecraft has traveled farther than any other human-made object.",
+      "Mars is the most likely planet to support human life.",
+      "Jupiter has the strongest magnetic field of any planet in our solar system."
+    ],
+    "correct": 2,
+    "explanation": "Đây là giả định (assumption) chứ không phải sự thật đã được chứng minh chắc chắn.",
+    "passage": null
+  }
+]

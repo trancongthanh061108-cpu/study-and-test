@@ -1,0 +1,652 @@
+[
+  {
+    "id": 601,
+    "question": "Câu 601: I can't stand him. He always talks as though he ______ everything.",
+    "options": [
+      "knew",
+      "knows",
+      "has known",
+      "had known"
+    ],
+    "correct": 0,
+    "explanation": "As though + simple past: giả định không có thật ở hiện tại.",
+    "passage": null
+  },
+  {
+    "id": 602,
+    "question": "Câu 602: When his parents are away, his oldest brother ______.",
+    "options": [
+      "knocks it off",
+      "calls the shots",
+      "draws the line",
+      "is in the same boat"
+    ],
+    "correct": 1,
+    "explanation": "call the shots: chỉ huy, quyết định mọi việc.",
+    "passage": null
+  },
+  {
+    "id": 603,
+    "question": "Câu 603: The news of his acceptance knocked everybody ______.",
+    "options": [
+      "out",
+      "over",
+      "by",
+      "up"
+    ],
+    "correct": 0,
+    "explanation": "knock out: gây ấn tượng mạnh, làm ai đó kinh ngạc/hào hứng.",
+    "passage": null
+  },
+  {
+    "id": 604,
+    "question": "Câu 604: We ______ at six in the morning on our drive to the Grand Canyon.",
+    "options": [
+      "set off / out",
+      "take off",
+      "go off",
+      "run off"
+    ],
+    "correct": 0,
+    "explanation": "set off / set out: khởi hành.",
+    "passage": null
+  },
+  {
+    "id": 605,
+    "question": "Câu 605: Inexpensive air fares ______ about by the “Visit ASEAN Pass” have facilitated traveling in ASEAN countries.",
+    "options": [
+      "brought",
+      "taken",
+      "taking",
+      "bringing"
+    ],
+    "correct": 0,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động: brought about.",
+    "passage": null
+  },
+  {
+    "id": 606,
+    "question": "Câu 606: It is necessary for people ______ work or travel abroad to understand the rules of etiquette in other cultures as well.",
+    "options": [
+      "who",
+      "where",
+      "which",
+      "whose"
+    ],
+    "correct": 0,
+    "explanation": "who thay thế cho people (chỉ người).",
+    "passage": null
+  },
+  {
+    "id": 607,
+    "question": "Câu 607: If you had saved some money, you ______ so hard up now.",
+    "options": [
+      "aren't",
+      "won't",
+      "wouldn't be",
+      "wouldn't have been"
+    ],
+    "correct": 2,
+    "explanation": "Câu điều kiện hỗn hợp loại 3+2: If + quá khứ hoàn thành, S + would + V hiện tại.",
+    "passage": null
+  },
+  {
+    "id": 608,
+    "question": "Câu 608: I used to be a video game ______ because I literally spent all my free time playing games.",
+    "options": [
+      "addiction",
+      "addictive",
+      "addicted",
+      "addict"
+    ],
+    "correct": 3,
+    "explanation": "a + danh từ chỉ người: addict (người nghiện).",
+    "passage": null
+  },
+  {
+    "id": 609,
+    "question": "Câu 609: After _________ lunch, we went for a walk by _________ sea.",
+    "options": [
+      "the/the",
+      "x/x",
+      "x/the",
+      "a/the"
+    ],
+    "correct": 2,
+    "explanation": "Không dùng mạo từ trước bữa ăn; by the sea.",
+    "passage": null
+  },
+  {
+    "id": 610,
+    "question": "Câu 610: It's true that the cost of the house is very expensive, but we can _________ if we tighten our budget a little.",
+    "options": [
+      "get round",
+      "get by",
+      "get over",
+      "get across"
+    ],
+    "correct": 1,
+    "explanation": "get by: xoay xở, vượt qua khó khăn.",
+    "passage": null
+  },
+  {
+    "id": 611,
+    "question": "Câu 611: Private sponsors have experts in different areas of technology ranging from nutrition to the treatment of injuries.",
+    "options": [
+      "patrons",
+      "innovators",
+      "founders",
+      "corporations"
+    ],
+    "correct": 0,
+    "explanation": "sponsor = patron (nhà tài trợ).",
+    "passage": null
+  },
+  {
+    "id": 612,
+    "question": "Câu 612: A ______ is a type of bazaar that rents or provides space to people who want to sell or barter merchandise.",
+    "options": [
+      "flea market",
+      "love market",
+      "scheduled trading session",
+      "labor market"
+    ],
+    "correct": 0,
+    "explanation": "flea market: chợ trời.",
+    "passage": null
+  },
+  {
+    "id": 613,
+    "question": "Câu 613: The only structure to remain intact is the Flag Tower of Hanoi built in 1812 during the Nguyen ________.",
+    "options": [
+      "Feudalism",
+      "Royal",
+      "Empire",
+      "Dynasty"
+    ],
+    "correct": 3,
+    "explanation": "Dynasty: triều đại.",
+    "passage": null
+  },
+  {
+    "id": 614,
+    "question": "Câu 614: St. Catherine's Monastery Library in Egypt is the first in the world ________ in the sixth century.",
+    "options": [
+      "to be built",
+      "built",
+      "to built",
+      "to have built"
+    ],
+    "correct": 0,
+    "explanation": "the first + to be Vp2 (bị động).",
+    "passage": null
+  },
+  {
+    "id": 615,
+    "question": "Câu 615: “Did you enjoy your visit to the art museum ?” – “________.”",
+    "options": [
+      "Really not",
+      "No really",
+      "Not really",
+      "Of course I do"
+    ],
+    "correct": 2,
+    "explanation": "Not really: không hẳn, cũng bình thường.",
+    "passage": null
+  },
+  {
+    "id": 616,
+    "question": "Câu 616: “I have a terrible headache.” - “________.”",
+    "options": [
+      "Maybe I'm not going to the doctor's.",
+      "Not very well. Thanks.",
+      "Maybe you should take a rest.",
+      "Not bad. I'm not going to the doctor's."
+    ],
+    "correct": 2,
+    "explanation": "Maybe you should take a rest là lời khuyên phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 617,
+    "question": "Câu 617: Lan: “What can government do to punish factories that violate environmental law?” Nam: “_________.”",
+    "options": [
+      "So many of them are polluting the environment.",
+      "Yes, I think a big fine would be relevant.",
+      "They may force those factories to close down.",
+      "There are no factories in this region."
+    ],
+    "correct": 2,
+    "explanation": "They may force those factories to close down là câu trả lời trực tiếp.",
+    "passage": null
+  },
+  {
+    "id": 618,
+    "question": "Câu 618: Jennifer: “I’m giving a presentation on global warming on Friday and I’m so nervous.” Mary: “_________.”",
+    "options": [
+      "You should think more about how to present the subject matter effectively",
+      "There are a lot of things you can do to make you feel more confident",
+      "It is easier to convince the audience and to hold their attention with actual data",
+      "In order for you to succeed, you need to keep the audience interested and involved"
+    ],
+    "correct": 1,
+    "explanation": "There are a lot of things you can do to make you feel more confident là phản hồi khuyến khích phù hợp.",
+    "passage": null
+  },
+  {
+    "id": 619,
+    "question": "Câu 619: a. Right, tour guides often explain this unique tradition during the city tours. b. Why do people light lanterns along the riverbank every evening? c. Oh, the lantern festival takes place here, doesn't it? d. By doing so, they honour their ancestors in a peaceful way.",
+    "options": [
+      "b - d - c - a",
+      "b - a - c - d",
+      "c - a - b - d",
+      "c - d - b - a"
+    ],
+    "correct": 0,
+    "explanation": "Thứ tự logic: b → d → c → a.",
+    "passage": null
+  },
+  {
+    "id": 620,
+    "question": "Câu 620: a. Yes, I am on the fourth floor now. b. Oh. Let's meet in my office at 10. c. What's the matter, James? d. Marta, are you at the office today? e. There is a contract I want to discuss with you. f. The price is not correct.",
+    "options": [
+      "d-a-c-e-b-f",
+      "d-a-e-c-f-b",
+      "d-c-e-b-a-f",
+      "d-c-b-e-a-f"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự đúng: d-a-e-c-f-b.",
+    "passage": null
+  },
+  {
+    "id": 621,
+    "question": "Câu 621: d. In my opinion, the ban on smoking is really essential. a. I completely agree. It helps protect non-smokers from secondhand smoke. g. Exactly. Plus, it creates a healthier environment overall. b. And it might even encourage smokers to quit, which would improve their health in the long run. f. True, and it also sets a positive example for younger generations. c. Absolutely. It's about prioritizing public health and ensuring a safer future for everyone. e. Couldn't have said it better—it's a step toward a more positive society.",
+    "options": [
+      "d-a-g-b-f-c-e",
+      "d-a-g-f-b-c-e",
+      "d-a-b-g-f-c-e",
+      "d-a-b-f-g-c-e"
+    ],
+    "correct": 2,
+    "explanation": "Thứ tự đúng: d-a-b-g-f-c-e.",
+    "passage": null
+  },
+  {
+    "id": 622,
+    "question": "Câu 622: a. Don't forget to take out the trash before going to bed. b. It's on the first floor, next to the sink. c. Oh, Daddy already took it out. d. Don't worry, Mom. I'll do it right away. e. I know, but I thought you might forget. f. I've got it, Mom. You told me twice.",
+    "options": [
+      "a-d-e-b-f-c",
+      "a-d-b-e-f-c",
+      "a-f-b-e-d-c",
+      "a-f-e-d-b-c"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự đúng: a-d-b-e-f-c.",
+    "passage": null
+  },
+  {
+    "id": 623,
+    "question": "Câu 623: Paul likes reading comic books more than watching cartoons.",
+    "options": [
+      "Paul doesn't like watching cartoons as much as reading comic books.",
+      "Paul likes watching cartoons as much as reading comic books.",
+      "Paul likes watching cartoons more than reading comic books.",
+      "Paul doesn't like reading comic books as much as watching cartoons."
+    ],
+    "correct": 0,
+    "explanation": "Câu gần nghĩa: không thích xem cartoons bằng đọc comic books.",
+    "passage": null
+  },
+  {
+    "id": 624,
+    "question": "Câu 624: More than a mile of roadway has been blocked with trees, stones and other debris ________ the explosion.",
+    "options": [
+      "causing",
+      "caused by",
+      "which caused by",
+      "which caused"
+    ],
+    "correct": 1,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động: caused by.",
+    "passage": null
+  },
+  {
+    "id": 625,
+    "question": "Câu 625: Small companies may take their goods abroad for trade shows without paying foreign value-added taxes by acquiring ______ an ATA carnet.",
+    "options": [
+      "a document calls",
+      "a document called",
+      "calls a document",
+      "called a document"
+    ],
+    "correct": 1,
+    "explanation": "a document called: rút gọn mệnh đề quan hệ bị động.",
+    "passage": null
+  },
+  {
+    "id": 626,
+    "question": "Câu 626: When we think of the exam, we get ______ excited.",
+    "options": [
+      "most and most",
+      "more and more",
+      "the more",
+      "much"
+    ],
+    "correct": 1,
+    "explanation": "more and more + adj: ngày càng...",
+    "passage": null
+  },
+  {
+    "id": 627,
+    "question": "Câu 627: Kate immediately phoned her boyfriend and told him the unexpected news. She was surprised at it.",
+    "options": [
+      "Kate immediately phoned her boyfriend and told him the unexpected news, which she was surprised.",
+      "Kate immediately phoned her boyfriend and told him, surprising by the unexpected news.",
+      "Surprised to hear the unexpected news, Kate phoned her boyfriend and told him immediately.",
+      "Surprised as she was to hear the news, Kate phoned her boyfriend and told him immediately."
+    ],
+    "correct": 2,
+    "explanation": "Surprised to hear... rút gọn mệnh đề trạng ngữ.",
+    "passage": null
+  },
+  {
+    "id": 628,
+    "question": "Câu 628: Why did Danny decide to enter the marathon? Danny's totally unfit.",
+    "options": [
+      "Why did Danny, whose total unfit, decide to enter the marathon?",
+      "Why did Danny decide to enter the marathon, who's totally unfit?",
+      "Why did Danny, who's totally unfit, decide to enter the marathon?",
+      "Why did Danny decide to enter the marathon who's totally unfit?"
+    ],
+    "correct": 2,
+    "explanation": "who đứng ngay sau Danny.",
+    "passage": null
+  },
+  {
+    "id": 629,
+    "question": "Câu 629: Genghis Khan was very interested in art and literature. This is not what many people think.",
+    "options": [
+      "No people knows Genghis Khan thought that art and literature were very interesting.",
+      "It is thought that Genghis Khan was very interested in art and literature.",
+      "Contrary to what many people think, Genghis Khan was very interested in art and literature.",
+      "Genghis Khan was very interested in art and literature, as many people think."
+    ],
+    "correct": 2,
+    "explanation": "Contrary to what many people think: trái ngược với suy nghĩ của nhiều người.",
+    "passage": null
+  },
+  {
+    "id": 630,
+    "question": "Câu 630: William Clark was not granted the rank of captain. Captain Lewis more or less ignored this and treated Clark as his equal in authority and rank.",
+    "options": [
+      "William Clark was not granted the rank of captain because Captain Lewis more or less ignored this and treated Clark as his equal in authority and rank.",
+      "William Clark was not granted the rank of captain, thus Captain Lewis more or less ignored this and treated Clark as his equal in authority and rank.",
+      "Although William Clark was not granted the rank of captain, Captain Lewis more or less ignored this and treated Clark as his equal in authority and rank.",
+      "As William Clark was not granted the rank of captain, Captain Lewis more or less ignored this and treated Clark as his equal in authority and rank."
+    ],
+    "correct": 2,
+    "explanation": "Although: mặc dù.",
+    "passage": null
+  },
+  {
+    "id": 631,
+    "question": "Câu 631: Environmentalists believe this will reduce the amount of CO2 ______ into the atmosphere.",
+    "options": [
+      "come",
+      "go",
+      "release",
+      "put"
+    ],
+    "correct": 3,
+    "explanation": "put into the atmosphere (rút gọn mệnh đề quan hệ bị động).",
+    "passage": "passage12_631_635"
+  },
+  {
+    "id": 632,
+    "question": "Câu 632: Some batteries in today's electric cars can take up to 12 hours to charge fully. ______, a company in Israel says it has created a lithium-ion battery that people can charge in just five minutes.",
+    "options": [
+      "Thus",
+      "However",
+      "Therefore",
+      "Although"
+    ],
+    "correct": 1,
+    "explanation": "However: tuy nhiên (quan hệ đối lập).",
+    "passage": "passage12_631_635"
+  },
+  {
+    "id": 633,
+    "question": "Câu 633: The new lithium-ion batteries ______ were developed by the Israeli company StoreDot are being manufactured by a Chinese company called Eve Energy.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "correct": 0,
+    "explanation": "which thay thế cho batteries (chỉ vật).",
+    "passage": "passage12_631_635"
+  },
+  {
+    "id": 634,
+    "question": "Câu 634: ______ people with electric cars today suffer from \"range anxiety\".",
+    "options": [
+      "Few",
+      "Every",
+      "Many",
+      "No"
+    ],
+    "correct": 2,
+    "explanation": "Many + N số nhiều: nhiều.",
+    "passage": "passage12_631_635"
+  },
+  {
+    "id": 635,
+    "question": "Câu 635: We're at the point of ______ a revolution in the electric vehicle charging experience.",
+    "options": [
+      "achieving",
+      "creating",
+      "making",
+      "taking"
+    ],
+    "correct": 0,
+    "explanation": "achieving a revolution: đạt được một cuộc cách mạng / sự thay đổi lớn.",
+    "passage": "passage12_631_635"
+  },
+  {
+    "id": 636,
+    "question": "Câu 636: What is the first paragraph mainly about?",
+    "options": [
+      "How the Stonehenge was built.",
+      "The origin of Stonehenge's name.",
+      "Geographic position of the Stonehenge.",
+      "Speculations about the purpose of Stonehenge."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn 1 chủ yếu nêu các suy đoán về mục đích của Stonehenge.",
+    "passage": "passage12_636_640"
+  },
+  {
+    "id": 637,
+    "question": "Câu 637: According to paragraph 2, what is the word “derive from” closest in meaning to?",
+    "options": [
+      "follow.",
+      "decrease.",
+      "originate.",
+      "begin."
+    ],
+    "correct": 2,
+    "explanation": "derive from = originate (xuất phát từ).",
+    "passage": "passage12_636_640"
+  },
+  {
+    "id": 638,
+    "question": "Câu 638: In paragraph 1, what does the word “it” refer to?",
+    "options": [
+      "The Sun.",
+      "Stonehenge.",
+      "World of the Ancestors.",
+      "Healing centre."
+    ],
+    "correct": 1,
+    "explanation": "it = Stonehenge (the site).",
+    "passage": "passage12_636_640"
+  },
+  {
+    "id": 639,
+    "question": "Câu 639: According to paragraph 1, what is NOT one of the assumed purposes of the Stonehenge?",
+    "options": [
+      "It might be used to make calendar.",
+      "It was probably a religious site.",
+      "It was doubtfully used as a healing centre.",
+      "It was an archaeological site."
+    ],
+    "correct": 3,
+    "explanation": "Archaeological site là bản chất của nó, không phải mục đích suy đoán.",
+    "passage": "passage12_636_640"
+  },
+  {
+    "id": 640,
+    "question": "Câu 640: According to the second paragraph, what can be inferred about the Stonehenge?",
+    "options": [
+      "The name “Stonehenge” originates from the Saxon language.",
+      "The stones used to build the Stonehenge had a natural shape.",
+      "It was completed in 1520 B.C.",
+      "The bluestones can be found from anywhere near the site."
+    ],
+    "correct": 0,
+    "explanation": "The name ... derives from the Saxon stan-hengen.",
+    "passage": "passage12_636_640"
+  },
+  {
+    "id": 641,
+    "question": "Câu 641: What does the passage mainly about?",
+    "options": [
+      "The origin and rituals of Passover.",
+      "How ancient Jews escaped from Egypt.",
+      "The origin of the Bible.",
+      "How the Jews arrived in Egypt."
+    ],
+    "correct": 0,
+    "explanation": "Bài đọc nói về nguồn gốc và các nghi thức của lễ Passover.",
+    "passage": "passage12_641_645"
+  },
+  {
+    "id": 642,
+    "question": "Câu 642: According to paragraph 3, what is the word “exodus” closest in meaning to?",
+    "options": [
+      "movement.",
+      "migration.",
+      "arrival.",
+      "departure."
+    ],
+    "correct": 1,
+    "explanation": "exodus = migration (cuộc di cư).",
+    "passage": "passage12_641_645"
+  },
+  {
+    "id": 643,
+    "question": "Câu 643: In paragraph 2, what does the phrase “these houses” refer to?",
+    "options": [
+      "Houses with first born male.",
+      "Normal houses.",
+      "Houses with lamb blood on the door.",
+      "Houses with plague."
+    ],
+    "correct": 2,
+    "explanation": "these houses = houses marked with lamb's blood.",
+    "passage": "passage12_641_645"
+  },
+  {
+    "id": 644,
+    "question": "Câu 644: According to the passage, what is the origin of the name “Passover”?",
+    "options": [
+      "God passed over the Jews’ houses.",
+      "The Pharaoh passed over the houses of the Jews.",
+      "Only the Jews were affected by the plague.",
+      "God passed over the Pharaoh’s house."
+    ],
+    "correct": 0,
+    "explanation": "God would know to pass over these houses...",
+    "passage": "passage12_641_645"
+  },
+  {
+    "id": 645,
+    "question": "Câu 645: According to the last paragraph, what can be inferred about the Haggadah?",
+    "options": [
+      "It holds the prayers of the Passover.",
+      "It is the book that covers the 10 plagues of Egypt.",
+      "It is a special dish in the Seder.",
+      "It is a very important religious text of the Jewish people."
+    ],
+    "correct": 3,
+    "explanation": "Haggadah chứa các nghi thức và câu chuyện xuất hành – văn bản tôn giáo quan trọng.",
+    "passage": "passage12_641_645"
+  },
+  {
+    "id": 646,
+    "question": "Câu 646: Janes: Would you like to come over my place, and stay here for one week? Tom: ____.",
+    "options": [
+      "I'm sorry Janes. I don't think we are that close.",
+      "Thanks. That sounds like a lot of fun. What is the plan?",
+      "Oh, Janes. I don't think you should invite a man to come over your place.",
+      "No, Janes. Mary is better than you, so I will come to Mary's place."
+    ],
+    "correct": 1,
+    "explanation": "Thanks. That sounds like a lot of fun... là phản hồi tích cực, lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 647,
+    "question": "Câu 647: Following are statements about a popular restaurant. Which statement expresses an opinion?",
+    "options": [
+      "The restaurant has the best pizza in town.",
+      "The restaurant's menu includes a variety of international cuisines.",
+      "The restaurant is located on Main Street.",
+      "The restaurant is known for its exceptional customer service."
+    ],
+    "correct": 0,
+    "explanation": "“the best pizza” là ý kiến chủ quan.",
+    "passage": null
+  },
+  {
+    "id": 648,
+    "question": "Câu 648: You are at the box office to buy a pair of tickets for the movie called “New Stars”. When the employee gives you the tickets, you notice that they are for a different movie. What is your polite way to respond to this situation?",
+    "options": [
+      "Excuse me, I think there's been a mix-up. Please take a look at my tickets again.",
+      "You are so negligent. I want to see your supervisor.",
+      "That's unacceptable. The movie I want to see is “New Stars”, are you clear?",
+      "How stupid! Can't you read the name on the tickets?"
+    ],
+    "correct": 0,
+    "explanation": "Cách phản hồi lịch sự nhất.",
+    "passage": null
+  },
+  {
+    "id": 649,
+    "question": "Câu 649: You are at a family gathering and a lively discussion about politics is taking place. You have different opinions but want to share your perspective. What can you say to join the conversation?",
+    "options": [
+      "I have a different point of view on that.",
+      "You're all wrong. Politics shouldn't be discussed here.",
+      "That seems boring. I don't know much about politics.",
+      "Let's change the topic. I have no idea about politics."
+    ],
+    "correct": 0,
+    "explanation": "I have a different point of view on that là cách tham gia lịch sự.",
+    "passage": null
+  },
+  {
+    "id": 650,
+    "question": "Câu 650: You notice that traffic flow slows down significantly as you approach a particular highway exit, even though the road is clear ahead. What is the most likely cause?",
+    "options": [
+      "Drivers are slowing down to prepare for the exit.",
+      "The highway exit has a sharp turn or narrow lanes that cause delays.",
+      "There is a malfunctioning traffic signal near the exit.",
+      "The exit leads to a popular destination with high traffic volume."
+    ],
+    "correct": 0,
+    "explanation": "Tài xế giảm tốc để chuẩn bị rẽ vào lối ra.",
+    "passage": null
+  }
+]
