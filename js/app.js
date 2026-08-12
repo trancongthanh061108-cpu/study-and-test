@@ -686,8 +686,6 @@ function _renderExamList(type) {
   }
   filtered.forEach(e => {
     const freeIds = [
-      'vact_de_1',
-      
       'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
       'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
       'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
@@ -1663,8 +1661,6 @@ function clickStartExam(id) {
   const exam = sampleExams.find(e => e.id === id);
 
   const freeIds = [
-    'vact_de_1'
-    
     'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
     'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
     'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
