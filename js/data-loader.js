@@ -7,7 +7,7 @@ let sampleExams = [];
 const _questionCache = {};
 
 const EXAM_FILES = {
-"v-act_de_1": "data/vact/de/de1.json",
+"vact_de_1": "data/vact/de/de1.json",
   
   "hsa_anh_1": "data/hsa/anh/de1.json",
   "hsa_anh_10": "data/hsa/anh/de10.json",
