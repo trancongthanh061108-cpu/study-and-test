@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Tiêu đề",
+      "Đầu đề",
+      "Nhan đề",
+      "Đề bài"
+    ],
+    "correct": 3,
+    "explanation": "Tiêu đề, đầu đề, nhan đề đều chỉ phần mở đầu hoặc tên gọi của một bài viết, câu chuyện, hoặc bài báo. Riêng từ đề bài lại chỉ nội dung của một bài tập, hoặc yêu cầu cụ thể trong học tập hoặc thi cử.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Chóng vánh",
+      "Mau chóng",
+      "Nhanh chóng",
+      "Nhanh nhạy"
+    ],
+    "correct": 3,
+    "explanation": "Các từ chóng vánh, mau chóng, nhanh chóng đều mang nghĩa liên quan đến sự nhanh lẹ, chỉ tốc độ thực hiện hành động hoặc sự việc diễn ra trong thời gian ngắn. Riêng từ nhanh nhạy lại chỉ sự tinh ý, nhạy bén trong việc nắm bắt thông tin hoặc phản ứng với tình huống.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà từ loại của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Ngật ngưỡng",
+      "Lảo đảo",
+      "Chếnh choáng",
+      "Khật khưỡng"
+    ],
+    "correct": 1,
+    "explanation": "Ngật ngưỡng, chếnh choáng, khật khưỡng đều là các tính từ. Riêng từ lảo đảo lại là động từ diễn tả hành động ngả nghiêng, muốn ngã, muốn đổ, do mất thăng bằng.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà loại từ của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Long lanh",
+      "Mong muốn",
+      "Bát ngát",
+      "Lao xao"
+    ],
+    "correct": 1,
+    "explanation": "Các từ long lanh, bát ngát, lao xao đều là từ láy. Riêng từ mong muốn lại là từ ghép vì tiếng \"mong\" và \"muốn\" trong từ đều có nghĩa chỉ sự mong muốn.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà từ loại của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Diễn tập",
+      "Diễn xuất",
+      "Diễn xướng",
+      "Diễn giả"
+    ],
+    "correct": 3,
+    "explanation": "Diễn tập, diễn xuất, diễn xướng đều là các động từ. Riêng từ diễn giả là danh từ chỉ người diễn thuyết hoặc nói chuyện về một chuyên đề trước đông người.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nChế độ ăn ít _____ và nhịn ăn gián đoạn được chứng minh là mang lại nhiều lợi ích to lớn cho sức khỏe: chúng có thể làm chậm sự tiến triển của một số bệnh liên quan đến tuổi tác, giúp kéo dài tuổi thọ, không chỉ ở người mà còn ở những sinh vật sống khác. _____, hiện tượng này ẩn chứa nhiều cơ chế phức tạp.",
+    "options": [
+      "rau xanh/ Nếu",
+      "chất xơ/ Vì vậy",
+      "protein/ Và",
+      "calo/ Tuy nhiên"
+    ],
+    "correct": 3,
+    "explanation": "Câu trước nêu lợi ích của việc nhịn ăn gián đoạn, câu sau nêu mặt trái (ẩn chứa nhiều cơ chế phức tạp) mang tính chất đối lập, nên từ phù hợp là \"Tuy nhiên\". Từ \"calo\" cũng phù hợp vì lượng ăn ít calo chính là kiểu nhịn ăn gián đoạn.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nCuộc kháng chiến chống thực dân Pháp xâm lược của Việt Nam _____ là một cuộc đấu tranh vũ trang đơn thuần, mà còn là một quá trình đấu tranh toàn diện trên các mặt trận chính trị, kinh tế và _____.",
+    "options": [
+      "vừa/ nghệ thuật",
+      "không những/ quân sự",
+      "không chỉ/ văn hóa",
+      "dù/ tài chính"
+    ],
+    "correct": 2,
+    "explanation": "Vị trí thứ nhất cần từ hô ứng với \"mà còn\" -> \"không những\" hoặc \"không chỉ\". Vị trí thứ hai không phù hợp với \"quân sự\" vì \"vũ trang\" đã được nhắc trước đó; \"văn hóa\" phù hợp khi điền vào dãy liệt kê ở trên. Vậy đáp án là: không chỉ/ văn hóa.",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nTrong lĩnh vực chống phổ biến vũ khí hủy diệt hàng loạt và giải trừ quân bị, Liên hợp quốc đã thúc đẩy xây dựng khuôn khổ pháp lý thông qua hệ thống điều ước quốc tế quan trọng nhằm _____ việc phổ biến vũ khí hủy diệt hàng loạt, hướng tới mục tiêu _____ hoàn toàn những vũ khí nguy hiểm này.",
+    "options": [
+      "tiêu diệt/ tước bỏ",
+      "ngăn chặn/ xóa bỏ",
+      "cấm vận/ giải trừ",
+      "khuyến khích/ xóa sổ"
+    ],
+    "correct": 1,
+    "explanation": "\"Ngăn chặn\" có nghĩa là cản trở việc xảy ra, phù hợp với mục tiêu của Liên hợp quốc. Từ \"xóa bỏ\" thể hiện ý định loại bỏ hoàn toàn các vũ khí hủy diệt hàng loạt, phù hợp với ngữ cảnh.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nCác nhà _____ cho rằng, nguồn ô nhiễm có thể chủ yếu từ hoạt động _____, sinh hoạt và một phần đáng kể của nuôi trồng, đánh bắt thủy sản.",
+    "options": [
+      "khoa học/ du lịch",
+      "chuyên gia/ sản xuất",
+      "kinh tế/ khai thác",
+      "vật lý/ giải trí"
+    ],
+    "correct": 0,
+    "explanation": "\"Nhà khoa học\" là khái niệm bao quát chỉ người nghiên cứu mọi lĩnh vực trong đời sống, trong đó có môi trường; \"du lịch\" cũng là một hoạt động có phần ảnh hưởng môi trường vì lượng rác thải của khách du lịch thải ra.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nCác di sản văn hóa là các sản phẩm vật chất và _____ không chỉ mang giá trị về lịch sử, văn hóa, khoa học, đạo đức, thẩm mỹ, nghệ thuật, thể hiện bản sắc văn hóa của _____, mà còn có giá trị cao về kinh tế, đóng góp quan trọng cho sự phát triển kinh tế - xã hội.",
+    "options": [
+      "ý thức/ dân tộc",
+      "tâm linh/ xã hội",
+      "tinh thần/ cộng đồng",
+      "phi vật chất/ con người"
+    ],
+    "correct": 2,
+    "explanation": "\"Vật chất\" và \"tinh thần\" là cặp từ phổ biến và chính xác để chỉ hai loại di sản văn hóa chính trong lĩnh vực văn hóa. Từ \"cộng đồng\" phù hợp để điền ở chỗ trống phía sau vì các di sản văn hóa thường mang bản sắc của một cộng đồng cụ thể.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nBảo hiểm y tế là một cơ chế tài chính y tế, đồng thời là chính sách an sinh xã hội, thực hiện theo mục tiêu công bằng, hiệu quả trong chăm sóc đời sống nhân dân.",
+    "options": [
+      "y tế",
+      "an sinh",
+      "hiệu quả",
+      "đời sống"
+    ],
+    "correct": 3,
+    "explanation": "Câu văn đề cập đến hiệu quả của bảo hiểm y tế, lĩnh vực này thường hướng đến chăm sóc sức khỏe nhân dân chứ không phải đời sống nhân dân, từ \"đời sống\" là khái niệm rộng và chưa phản ánh đúng lĩnh vực mà bảo hiểm y tế hướng đến. Sửa lại: chăm sóc sức khỏe nhân dân.",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nCập nhật và ứng dụng các thành tựu y học trên thế giới vào trong thực hành lâm sàng để giúp chuẩn đoán bệnh chính xác và điều trị kịp thời là nhiệm vụ phải đặt ra cho ngành y tế nói chung và cho các thầy thuốc thuộc chuyên ngành tiêu hóa nói riêng.",
+    "options": [
+      "tiêu hóa",
+      "chuẩn đoán",
+      "lâm sàng",
+      "thành tựu"
+    ],
+    "correct": 1,
+    "explanation": "Từ \"chuẩn đoán\" là một từ không có trong từ điển tiếng Việt. Đáp án đúng phải là \"chẩn đoán\" (chẩn đoán bản thân là một từ Hán Việt được ghép lại từ \"chẩn\" và từ \"đoán\").",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nNgười dân Tây Nguyên thường trồng sắn nên sắn ít rủi ro hơn cây trồng khác.",
+    "options": [
+      "Người dân",
+      "trồng",
+      "cây trồng",
+      "nên"
+    ],
+    "correct": 3,
+    "explanation": "Từ \"nên\" không hợp với logic của câu vì \"nên\" được hiểu là kết quả suy ra, trong khi việc người dân trồng sắn không thể suy ra việc cây sắn ít rủi ro được. Cần thay từ \"nên\" bằng từ \"do\" để chỉ nguyên nhân.",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nDi sản văn hóa phi vật thể bao gồm: tiếng nói, nghệ thuật, thắng cảnh, diễn xướng dân gian, lối sống, nếp sống, lễ hội, bí quyết về nghề thủ công truyền thống, tri thức về y học cổ truyền,…",
+    "options": [
+      "truyền thống",
+      "thắng cảnh",
+      "nghệ thuật",
+      "bao gồm"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn liệt kê các di sản phi vật thể, trong đó \"thắng cảnh\" không phải là một di sản phi vật thể, nó là di sản vật thể (di sản văn hóa hữu hình, có hình khối, tồn tại dưới dạng vật chất). Bỏ từ \"thắng cảnh\" để phần liệt kê hợp lý hơn.",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nMặc dù nước Nga chịu tổn thất nặng nề về người và của trong Chiến tranh thế giới thứ hai nên những đóng góp quan trọng của Nga trong việc duy trì, bảo đảm hòa bình, an ninh thế giới chính là sự khẳng định vị thế của Nga trên trường quốc tế.",
+    "options": [
+      "quốc tế",
+      "vị thế",
+      "nên",
+      "chiến tranh"
+    ],
+    "correct": 2,
+    "explanation": "\"Nên\" thường được dùng để diễn tả kết quả của một nguyên nhân nào đó. Tuy nhiên, câu trên đang sử dụng từ \"mặc dù\" ở đầu, vốn mang nghĩa nhượng bộ. Cần một từ nối khác như \"nhưng\" hoặc \"song\".",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Yếu tố nào đã giúp vùng Bắc Bộ trở thành nơi phát triển văn hóa bác học?",
+    "options": [
+      "Vị trí địa lý thuận lợi và có nhiều tài nguyên thiên nhiên.",
+      "Có sự quan tâm, đầu tư cho giáo dục.",
+      "Có nền kinh tế phát triển và dân cư đông đúc.",
+      "Có nhiều nhân tài."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: Sự phát triển của giáo dục, truyền thống trọng người có chữ trở thành nhân tố tác động tạo ra một tầng lớp trí thức ở Bắc Bộ. Việc \"phát triển giáo dục\" và \"trọng người có chữ\" thể hiện sự quan tâm và đầu tư của xã hội Bắc Bộ đối với giáo dục. Đáp án D không phải là yếu tố nguyên nhân mà là hệ quả.",
+    "passage": "passage_vung_bac_bo"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Bài đọc đã đề cập đến đặc điểm nào của chữ Nôm và chữ Quốc ngữ?",
+    "options": [
+      "Phục vụ đắc lực cho việc ghi chép và truyền tải thông tin.",
+      "Thể hiện quá trình tiếp biến và sáng tạo văn hóa.",
+      "Là công cụ để phiên dịch văn học nước ngoài.",
+      "Thể hiện lòng tự tôn của dân tộc Việt."
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích có đề cập: Đội ngũ này, tiếp nhận vốn văn hoá dân gian, vốn văn hóa bác học Trung Quốc, Ấn Độ, phương Tây, tạo ra dòng văn hoá bác học. Chữ Nôm, chữ Quốc ngữ chính là sản phẩm được tạo ra từ quá trình sáng tạo của trí thức, thể hiện rõ đặc điểm tiếp biến và sáng tạo văn hóa bác học.",
+    "passage": "passage_vung_bac_bo"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Trong thời kỳ Đại Việt, số lượng trạng nguyên ở vùng đồng bằng Bắc Bộ chiếm bao nhiêu phần trăm so với cả nước?",
+    "options": [
+      "Khoảng 57%",
+      "Khoảng 80%",
+      "Khoảng 93%",
+      "Khoảng 64%"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích đề cập: khoa cử dưới các triều cả nước có 56 trạng nguyên thì 52 người là ở vùng đồng bằng miền Bắc. Tỉ lệ 52/56 xấp xỉ bằng 93%.",
+    "passage": "passage_vung_bac_bo"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Đoạn trích trên nói lên điều gì về vai trò của trí thức?",
+    "options": [
+      "Đội ngũ trí thức có đóng góp quan trọng vào việc phát triển kinh tế Bắc Bộ.",
+      "Đội ngũ trí thức góp phần nâng cao nhận thức của xã hội Bắc Bộ.",
+      "Đội ngũ trí thức có vai trò chủ chốt trong quá trình hình thành đất nước.",
+      "Đội ngũ trí thức góp phần xây dựng nền văn hóa đặc trưng cho vùng Bắc Bộ."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích nhấn mạnh vai trò của đội ngũ trí thức trong việc phát triển nền văn hóa bác học tại vùng Bắc Bộ. Nhờ có sự đầu tư vào giáo dục và truyền thống trọng người có chữ, đội ngũ trí thức đã hình thành và góp phần xây dựng một nền văn hóa đặc trưng cho vùng này, thể hiện qua việc sáng tạo ra chữ Nôm, chữ Quốc ngữ.",
+    "passage": "passage_vung_bac_bo"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Các tác giả nào dưới đây trưởng thành và gắn bó với nền văn hóa Bắc Bộ?",
+    "options": [
+      "Nguyễn Trãi, Nguyễn Du, Hồ Xuân Hương",
+      "Nam Cao, Hồ Chí Minh, Nguyễn Đình Chiểu",
+      "Phan Bội Châu, Lê Lợi, Hồ Xuân Hương",
+      "Nguyễn Trãi, Quang Trung, Nguyễn Bính"
+    ],
+    "correct": 0,
+    "explanation": "Nguyễn Trãi, Nguyễn Du, Hồ Xuân Hương đều là các tác giả trưởng thành và gắn bó sâu sắc với nền văn hóa Bắc Bộ. Nguyễn Đình Chiểu chủ yếu gắn bó với văn hóa Nam Bộ. Lê Lợi và Quang Trung nổi bật trong lĩnh vực chính trị và quân sự hơn là văn học.",
+    "passage": "passage_vung_bac_bo"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Nội dung chính của đoạn trích trên là gì?",
+    "options": [
+      "Giới thiệu về công nghệ in 3D và ứng dụng",
+      "Giới thiệu về các phương pháp in 3D",
+      "Giới thiệu về quy trình công nghệ in 3D",
+      "Giới thiệu về phương pháp quét 3D"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn chủ yếu tập trung vào việc mô tả công nghệ in 3D, cách thức hoạt động của nó, lợi ích bền vững, và các lĩnh vực ứng dụng trong thực tế. Đây là nội dung chính bao quát toàn đoạn.",
+    "passage": "passage_in_3d"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Đoạn trích được viết theo phong cách ngôn ngữ nào?",
+    "options": [
+      "Báo chí",
+      "Khoa học",
+      "Nghệ thuật",
+      "Chính luận"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích sử dụng phong cách ngôn ngữ khoa học: chủ đề chuyên môn về công nghệ in 3D, sử dụng nhiều thuật ngữ kỹ thuật, cấu trúc logic trình bày có hệ thống, và mục đích cung cấp thông tin, nâng cao kiến thức cho người đọc.",
+    "passage": "passage_in_3d"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Công nghệ in 3D tạo ra vật thể bằng cách nào?",
+    "options": [
+      "Cắt gọt vật liệu nguyên khối",
+      "Đắp dần vật liệu theo từng lớp",
+      "Đốt cháy vật liệu",
+      "Nén vật liệu lại với nhau"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích đề cập rất rõ ràng: Công nghệ in 3D là một chuỗi kết hợp các công đoạn khác nhau để tạo ra một vật thể ba chiều từ vật mẫu thật được quét 3D hoặc từ mô hình kỹ thuật số, bằng cách đắp dần vật liệu theo từng lớp.",
+    "passage": "passage_in_3d"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Trong số các công nghệ in 3D, công nghệ nào sử dụng ánh sáng để hóa cứng nhựa?",
+    "options": [
+      "Đùn vật liệu",
+      "Kết hợp bột",
+      "Quang trùng hợp",
+      "Thiêu kết nóng chảy chọn lọc bằng laser"
+    ],
+    "correct": 2,
+    "explanation": "Bài đọc đề cập các công nghệ in 3D như đùn vật liệu, quang trùng hợp (VAT photopolymerization), kết hợp bột, thiêu kết nóng chảy chọn lọc bằng laser. Công nghệ sử dụng ánh sáng để hóa cứng nhựa là quang trùng hợp.",
+    "passage": "passage_in_3d"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của đoạn trích?",
+    "options": [
+      "Sử dụng công nghệ in 3D giúp tiết kiệm nguyên vật liệu và năng lượng.",
+      "Công nghệ in 3D được sử dụng rộng rãi trong cả nông nghiệp và công nghiệp.",
+      "Công nghệ in 3D có nhiều ưu thế vượt trội hơn so với các công nghệ sản xuất truyền thống.",
+      "Công nghệ in 3D giúp hạn chế lượng rác thải dư thừa trong quá trình sản xuất."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án C KHÔNG THỂ suy ra từ nội dung của đoạn trích vì mặc dù công nghệ in 3D có nhiều ưu điểm, đoạn văn không khẳng định rằng nó có \"nhiều ưu thế vượt trội hơn\" so với công nghệ sản xuất truyền thống, mà chỉ nói rằng công nghệ này chưa hoàn thiện để thay thế hoàn toàn các công nghệ truyền thống.",
+    "passage": "passage_in_3d"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn trích và trả lời câu hỏi dưới đây. Đoạn trích trên giải thích sự khác nhau trong tư tưởng con người do yếu tố nào quyết định?",
+    "options": [
+      "Hoàn cảnh sống",
+      "Gia đình",
+      "Tính cách",
+      "Nền giáo dục"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn văn nhấn mạnh rằng sự ưa thích đối với các hệ thống tư tưởng khác nhau của mỗi người không phải vì tính đúng đắn của chúng mà chủ yếu do tính cách (hay tánh khí) của từng người.",
+    "passage": "passage_dong_pha_tay_phuong"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích và trả lời câu hỏi dưới đây. Phương thức miêu tả trong đoạn trích trên làm nổi bật trạng thái nào của viên tướng?",
+    "options": [
+      "Tức giận và vội vã",
+      "Nóng giận và mất bình tĩnh",
+      "Căng thẳng và lo lắng",
+      "Mệt mỏi và lo sợ"
+    ],
+    "correct": 2,
+    "explanation": "Các yếu tố miêu tả trong đoạn trích cho thấy sự căng thẳng và lo lắng của viên tướng: cau mày, hai môi mím chặt và rung rung; rút ra một cuốn sổ tay, xé ra một tờ, bước mau đến cửa sổ; âm thanh rất lạ và việc tắc giọng khi cố gắng nói.",
+    "passage": "passage_chien_tranh_hoa_binh"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn thơ và trả lời câu hỏi dưới đây. Tráng sĩ được nhắc đến trong đoạn thơ trên là nhân vật nào dưới đây?",
+    "options": [
+      "Lạc Long Quân",
+      "An Dương Vương",
+      "Thánh Gióng",
+      "Sơn Tinh"
+    ],
+    "correct": 2,
+    "explanation": "Thánh Gióng là nhân vật nổi tiếng trong truyền thuyết Việt Nam, được biết đến với câu chuyện về việc đánh đuổi giặc Ân. Đoạn thơ miêu tả \"cậu bé vươn vai bỗng biến thành tráng sĩ\" và \"cưỡi ngựa sắt đuổi giặc Ân\" chính là nói về câu chuyện của Thánh Gióng.",
+    "passage": "passage_trong_bai_giang_cua_co"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây. Biện pháp tu từ nào được sử dụng trong câu văn: \"Phải tạo sức đề kháng văn hóa với những bộ lọc, vách ngăn cần thiết để đẩy lùi và chống lại sự xâm lấn của những trào lưu phản văn hóa, các luồng tư tưởng có nội dung xấu độc.\"?",
+    "options": [
+      "Hoán dụ",
+      "Ẩn dụ",
+      "Nói mỉa",
+      "Nói quá"
+    ],
+    "correct": 1,
+    "explanation": "Câu văn nổi bật với biện pháp ẩn dụ: các từ \"sức đề kháng\", \"bộ lọc\", \"vách ngăn\" được dùng với tầng nghĩa ẩn dụ nhằm mô tả cách thức bảo vệ và duy trì bản sắc văn hóa trước những tác động bên ngoài.",
+    "passage": "passage_ban_sac_van_hoa"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn trích và trả lời câu hỏi dưới đây. Đối tượng chính được miêu tả trong đoạn trích là?",
+    "options": [
+      "Khuôn mặt của người đàn ông",
+      "Đôi mắt của người đàn ông",
+      "Cử chỉ, hành động của người đàn ông",
+      "Người đàn ông"
+    ],
+    "correct": 3,
+    "explanation": "Trong đoạn trích, đối tượng được miêu tả chủ yếu là người đàn ông. Tác giả đã đề cập đến toàn bộ hình ảnh của nhân vật từ khuôn mặt, đôi mắt, cử chỉ và tư thế ngồi.",
+    "passage": "passage_khuon_mat_quen"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn trích và trả lời câu hỏi dưới đây. Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của đoạn trích?",
+    "options": [
+      "Chùa Thiên Mụ được xây dựng vào thế kỉ XVI.",
+      "Cái tên \"Thiên Mụ\" được đặt theo một câu chuyện dân gian.",
+      "Chùa Thiên Mụ có hướng nhìn ra dòng sông lớn nhất cố đô.",
+      "Người cho xây dựng chùa Thiên Mụ là vị chúa Nguyễn đầu tiên."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A KHÔNG THỂ suy ra từ nội dung của đoạn trích vì chùa được xây dựng năm 1601 (tức thế kỉ XVII, không phải thế kỉ XVI).",
+    "passage": "passage_chua_thien_mu"
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn thơ và trả lời câu hỏi dưới đây. Hình tượng \"em\" trong đoạn thơ trên chỉ đối tượng nào?",
+    "options": [
+      "Hà Nội",
+      "Người yêu",
+      "Sự cô đơn",
+      "Tuổi trẻ"
+    ],
+    "correct": 0,
+    "explanation": "Trong đoạn thơ của Phan Vũ, hình tượng \"em\" không chỉ nhắc đến một người cụ thể mà là hình ảnh tượng trưng cho Hà Nội với những đặc trưng như \"mùi hoàng lan\", \"mùi hoa sữa\" và những chi tiết quen thuộc về âm thanh, cảnh vật của thành phố này.",
+    "passage": "passage_ta_con_em"
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn thơ và trả lời câu hỏi dưới đây. Tác giả có dụng ý gì khi nhắc đến điển cố Bá Nha – Tử Kì trong đoạn thơ?",
+    "options": [
+      "Khẳng định sự sáng tạo của người chơi đàn và người hát.",
+      "Khẳng định giọng điệu buồn thương của tiếng đàn.",
+      "Khẳng định sự tri âm, tri kỉ giữa người chơi đàn và người hát.",
+      "Khẳng định sức sống mạnh mẽ của tiếng đàn."
+    ],
+    "correct": 2,
+    "explanation": "Điển cố Bá Nha - Tử Kỳ là một biểu tượng cho sự đồng điệu, thấu hiểu sâu sắc giữa hai tâm hồn. Tác giả Văn Cao nhắc đến điển cố này để nhấn mạnh mối quan hệ tri âm, tri kỷ giữa người chơi đàn và người nghe trong đoạn thơ.",
+    "passage": "passage_dem_dan_lanh"
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây. Cái tên Cu Cậu trong đoạn trích trên chỉ con vật nào?",
+    "options": [
+      "Tắc kè",
+      "Cóc",
+      "Chim",
+      "Dế"
+    ],
+    "correct": 1,
+    "explanation": "Chú ý các đặc điểm sinh học của con vật được nhắc đến: thức ăn là ruồi, muỗi và sâu bọ; hoạt động nghiến răng ken két dưới gầm giường báo hiệu mưa; nhảy khỏi gầm giường đi đớp mồi. Các đặc điểm trên chỉ con cóc.",
+    "passage": "passage_toi_thay_hoa_vang"
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn thơ và trả lời câu hỏi dưới đây. Hiện tượng phá vỡ quy tắc ngôn ngữ thông thường nào được sử dụng trong dòng thơ \"Và cay đắng trong lòng, con biết mẹ\"?",
+    "options": [
+      "Sử dụng hình thức đảo ngữ",
+      "Tạo kết hợp từ trái logic",
+      "Cung cấp nét nghĩa mới cho từ",
+      "Bổ sung chức năng mới cho dấu câu"
+    ],
+    "correct": 0,
+    "explanation": "Trong câu thơ \"Và cay đắng trong lòng, con biết mẹ\", tác giả sử dụng biện pháp đảo ngữ. Thông thường, câu sẽ được cấu trúc theo thứ tự chủ ngữ - vị ngữ: Con biết mẹ cay đắng trong lòng. Tuy nhiên, ở đây, cụm từ \"cay đắng trong lòng\" được đặt lên trước, tạo hiệu ứng nhấn mạnh.",
+    "passage": "passage_tho_tinh_nuoc_nga"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Đoạn trích trên nói đến quan điểm của Steven Jobs về vấn đề gì?",
+    "options": [
+      "Thiết kế sản phẩm dựa trên những nghiên cứu thị trường.",
+      "Cách lựa chọn và sử dụng người tài.",
+      "Cách thức tạo ra những sản phẩm vĩ đại.",
+      "Vai trò của khách hàng trong quá trình phát triển sản phẩm."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nói về quan điểm của Steve Jobs về cách tạo ra những sản phẩm vĩ đại. Ông cho rằng những sản phẩm này không dựa vào các nghiên cứu thị trường mà phải xuất phát từ thị hiếu, sự học hỏi, quan sát, và đắm mình trong văn hóa.",
+    "passage": "passage_suc_manh_khac_biet"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Theo quan điểm của Jobs, thiết kế sản phẩm KHÔNG cần dựa vào yếu tố nào?",
+    "options": [
+      "Nghiên cứu thị trường và khảo sát khách hàng.",
+      "Sự kiên nhẫn và kiên trì trong công việc.",
+      "Bản năng và niềm tin của người lãnh đạo.",
+      "Khả năng lãnh đạo và tư duy sáng tạo của nhóm phát triển."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích có đề cập: \"không phải là một triết lý thiết kế sản phẩm được sáng tạo bởi một Hội đồng hay được quyết định bởi những nghiên cứu thị trường\" -> Thiết kế sản phẩm KHÔNG cần dựa vào yếu tố nghiên cứu thị trường và khảo sát khách hàng.",
+    "passage": "passage_suc_manh_khac_biet"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Sự can thiệp sâu sắc vào công việc của Jobs cho thấy quan điểm gì về người lãnh đạo?",
+    "options": [
+      "Người lãnh đạo cần có tầm nhìn xa và định hướng rõ ràng.",
+      "Người lãnh đạo cần biết đánh giá tình hình và ra quyết định nhanh chóng.",
+      "Người lãnh đạo cần biết cách xây dựng môi trường làm việc tích cực.",
+      "Người lãnh đạo cần có sự chủ động, quyết đoán và trách nhiệm trong công việc."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích có đề cập: \"Ông tham gia rất sâu vào những lựa chọn thiết kế cả phần cứng lẫn phần mềm, tất cả đều phải chờ đợi một cái gật đầu hay sự phủ quyết của ông\" -> Quan điểm của Jobs về người lãnh đạo thể hiện rằng người lãnh đạo cần có sự chủ động, quyết đoán và trách nhiệm trong công việc.",
+    "passage": "passage_suc_manh_khac_biet"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Tiêu chí tuyển chọn nhân sự của Jobs là gì?",
+    "options": [
+      "Ông chỉ chọn những người có khả năng làm việc nhóm tốt và có trách nhiệm cao.",
+      "Ông chỉ chọn những người có khả năng nắm bắt xu hướng thị trường tốt nhất.",
+      "Ông chỉ chọn những người có khả năng xuất sắc nổi bật.",
+      "Ông chọn những người có nhiều kinh nghiệm trong công việc."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích đề cập: \"Trong khi lựa chọn những thành viên chủ chốt của nhóm, ông luôn tìm kiếm những yếu tố siêu vượt trội\" -> Ông chỉ chọn những người có khả năng xuất sắc nổi bật (siêu vượt trội).",
+    "passage": "passage_suc_manh_khac_biet"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Theo đoạn văn, thế nào là một sản phẩm \"AHA\"?",
+    "options": [
+      "Là sản phẩm mang tính đột phá, kích thích tư duy của người dùng.",
+      "Là sản phẩm được phát triển từ các nghiên cứu thị trường và nhu cầu của khách hàng.",
+      "Là sản phẩm có giá thành rẻ, phù hợp với nhiều phân khúc khách hàng.",
+      "Là sản phẩm được tạo ra bởi một nhóm thiết kế sáng tạo và đam mê công nghệ."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn văn có đề cập: \"Đóng góp của họ chính là những nguyên liệu thô để tạo ra một sản phẩm 'AHA', thứ sản phẩm khiến người sử dụng phải tư duy lại những quan niệm của họ về máy nghe nhạc hay điện thoại cầm tay\" -> Là sản phẩm mang tính đột phá, kích thích tư duy của người dùng.",
+    "passage": "passage_suc_manh_khac_biet"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Xác định ngôi kể và điểm nhìn trong đoạn trích?",
+    "options": [
+      "Ngôi kể thứ nhất, điểm nhìn toàn tri",
+      "Ngôi kể thứ nhất, điểm nhìn hạn tri",
+      "Ngôi kể thứ ba, điểm nhìn toàn tri",
+      "Ngôi kể thứ ba, điểm nhìn hạn tri"
+    ],
+    "correct": 1,
+    "explanation": "Trong đoạn trích, ngôi kể là ngôi thứ nhất, và điểm nhìn hạn tri. Điều này thể hiện qua việc nhân vật chính tự thuật về những trải nghiệm và cảm xúc của mình, đồng thời chỉ giới hạn trong hiểu biết và cảm nhận của nhân vật về các sự kiện và nhân vật khác.",
+    "passage": "passage_dong_nho"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Theo đoạn trích, nhân vật \"người ta\" trong câu \"người ta vẫn còn nhớ, vẫn còn cắm sào trước bến nhớ ba tôi\" là ai?",
+    "options": [
+      "Một người buôn bông trong xóm",
+      "Người tình cũ của cha",
+      "Người mẹ",
+      "Bà nội"
+    ],
+    "correct": 1,
+    "explanation": "Trước đó, nhân vật \"tôi\" có kể lại chuyện của ba và người tình cũ, về mối tình bị ngăn cấm và đứa con bất hạnh của họ -> Nhân vật \"người ta\" được nhắc đến chính là người tình cũ của cha.",
+    "passage": "passage_dong_nho"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Đâu là nhận xét đúng về gia đình của nhân vật \"tôi\"?",
+    "options": [
+      "Luôn cãi vã, bất đồng",
+      "Hạnh phúc nhưng không vui",
+      "Tràn ngập tình yêu thương",
+      "Lạnh nhạt, bế tắc"
+    ],
+    "correct": 1,
+    "explanation": "Gia đình của nhân vật \"tôi\" khá phức tạp: họ hạnh phúc trong sự yêu thương, thấu hiểu của các thành viên dành cho nhau nhưng cũng không vui mặc dù hạnh phúc vì người cha luôn ám ảnh bởi câu chuyện đau lòng trong quá khứ.",
+    "passage": "passage_dong_nho"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Thái độ của người kể chuyện đối với nhân vật người cha là gì?",
+    "options": [
+      "Lạnh lùng, nghiêm khắc",
+      "Tôn trọng, ngưỡng mộ",
+      "Thất vọng, buồn bã",
+      "Cảm thông, thấu hiểu"
+    ],
+    "correct": 3,
+    "explanation": "Người kể chuyện thể hiện sự cảm thông đối với nỗi đau trong quá khứ và những hy sinh của người cha, đồng thời thể hiện sự thấu hiểu về những lựa chọn và cảm xúc của ông.",
+    "passage": "passage_dong_nho"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Từ thương hồ (in đậm, gạch chân) trong đoạn trích trên được hiểu là gì?",
+    "options": [
+      "Cuộc sống đầu đường xó chợ, không nhà cửa, không nghề nghiệp, không nơi ở, không mục đích sống.",
+      "Một hình thức làm việc theo mùa vụ, không cố định công việc, không có nghề nghiệp rõ ràng.",
+      "Cuộc sống vất vả, lang bạt của những người không có chỗ ở ổn định, thường di chuyển từ nơi này đến nơi khác để kiếm sống ở trên sông nước.",
+      "Một phong cách sống tự do, phóng túng, không ràng buộc bởi các mối quan hệ gia đình, xã hội."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích mô tả cuộc sống \"thương hồ\" của người cha: \"Hai người trải qua biết bao nhiêu cơ cực... Mỗi lần đi ghe đi ngang qua nhà, ba tôi khắc khoải ngó lên\" -> Cuộc sống vất vả, lang bạt của những người không có chỗ ở ổn định, thường di chuyển từ nơi này đến nơi khác để kiếm sống ở trên sông nước.",
+    "passage": "passage_dong_nho"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đâu là nhận xét đúng về kết cấu của bài thơ?",
+    "options": [
+      "Bài thơ được kết cấu theo một câu chuyện kể.",
+      "Bài thơ có kết cấu theo trình tự thời gian từ quá khứ đến hiện tại.",
+      "Bài thơ có kết cấu theo dòng cảm xúc của nhân vật trữ tình.",
+      "Bài thơ có kết cấu của một cuộc trò chuyện."
+    ],
+    "correct": 3,
+    "explanation": "Những dấu gạch đầu dòng cho thấy bài thơ có kết cấu của một cuộc đối thoại (trò chuyện).",
+    "passage": "passage_tro_chuyen_vong_phu"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Nhân vật xưng \"ta\" trong văn bản trên là ai?",
+    "options": [
+      "Tác giả",
+      "Người chiến sĩ ra trận",
+      "Nàng Vọng Phu",
+      "Vương Trọng"
+    ],
+    "correct": 2,
+    "explanation": "Trong bài thơ trên, nhân vật nàng Vọng Phu là người bày tỏ những tâm tư, tình cảm và xưng \"ta\" khi nghe những câu hỏi về mình.",
+    "passage": "passage_tro_chuyen_vong_phu"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Biện pháp điệp từ trong khổ thơ dưới đây đem lại tác dụng gì?\n- Người đời biết thân ta hoá đá\nNhưng hay đâu ta hoá đá niềm tin\nHoá đá nỗi cô đơn\nVà thời gian chờ đợi!",
+    "options": [
+      "Thể hiện sự mong nhớ cồn cào và khát khao hạnh phúc của nàng Vọng Phu.",
+      "Nhấn mạnh sự bất tử những nỗi đau và vẻ đẹp tinh thần của nàng Vọng Phu.",
+      "Cho thấy nỗi khắc khoải của những người phụ nữ chờ chồng trong chiến tranh.",
+      "Biểu hiện cho niềm tin bất diệt của những người phụ nữ trong tình yêu."
+    ],
+    "correct": 1,
+    "explanation": "Biện pháp điệp từ \"hoá đá\" được lặp lại liên tiếp nhằm nhấn mạnh sự trường tồn, bất biến của nỗi đau, sự cô đơn và thời gian chờ đợi của nàng Vọng Phu, làm nổi bật sự bất tử của những nỗi đau đó.",
+    "passage": "passage_tro_chuyen_vong_phu"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Đâu là cách hiểu đúng về hai câu thơ: \"Ta hoá đá đợi triệu lần nỗi đợi/ Để những người vợ muôn đời thoát khỏi cảnh chờ mong!\"?",
+    "options": [
+      "Nàng Vọng Phu hóa đá để nhắn nhủ người đời sau không đợi chờ vô vọng như nàng.",
+      "Nàng Vọng Phu hóa đá để nàng không phải gánh chịu khổ đau của người trần mắt thịt.",
+      "Nàng Vọng Phu hóa đá để cuộc sống không còn những nỗi đợi chờ trong mòn mỏi và vô vọng.",
+      "Nàng Vọng Phu hóa đá để thế giới bớt lầm than."
+    ],
+    "correct": 2,
+    "explanation": "Ý nghĩa thơ thể hiện rõ rệt trên bề mặt câu chữ: nàng Vọng Phu hóa đá để \"những người vợ muôn đời thoát khỏi cảnh chờ mong!\" nghĩa là để cuộc sống này không còn những nỗi đợi chờ trong mòn mỏi và vô vọng.",
+    "passage": "passage_tro_chuyen_vong_phu"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Thông tin nào sau đây KHÔNG THỂ suy ra từ nội dung của bài thơ?",
+    "options": [
+      "Bài thơ phản ánh số phận nhỏ bé, bị áp bức của người phụ nữ trong xã hội cũ.",
+      "Bài thơ cho thấy vẻ đẹp thủy chung, son sắt của người phụ nữ Việt Nam.",
+      "Bài thơ làm nổi bật nỗi đau của người vợ trong hoàn cảnh chiến chinh.",
+      "Bài thơ cho thấy khát vọng đẹp đẽ của con người về hòa bình."
+    ],
+    "correct": 0,
+    "explanation": "Đáp án A không thể suy ra từ nội dung của bài thơ vì bài thơ không đề cập đến yếu tố bị áp bức của người phụ nữ. Bài thơ chủ yếu nói về nỗi đau và sự thủy chung của người vợ chờ chồng trong hoàn cảnh chiến tranh, chứ không phải về sự bất hạnh của người phụ nữ dưới áp bức xã hội.",
+    "passage": "passage_tro_chuyen_vong_phu"
+  }
+]

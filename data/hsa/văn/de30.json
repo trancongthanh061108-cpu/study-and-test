@@ -1,0 +1,652 @@
+[
+  {
+    "id": 51,
+    "question": "Câu 51: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Gián điệp",
+      "Do thám",
+      "Điệp báo",
+      "Thám tử"
+    ],
+    "correct": 3,
+    "explanation": "Gián điệp, do thám, điệp báo đều liên quan đến hoạt động thu thập thông tin một cách bí mật hoặc lén lút, thường liên quan đến mục đích quân sự hoặc chính trị. Riêng \"thám tử\" thường chỉ người điều tra hoặc tìm kiếm sự thật trong các vụ án hoặc vấn đề xã hội, không nhất thiết phải liên quan đến hoạt động gián điệp hay do thám.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Hợp đồng",
+      "Quy định",
+      "Giao kèo",
+      "Hiệp đồng"
+    ],
+    "correct": 1,
+    "explanation": "Hợp đồng, giao kèo, hiệp đồng đều liên quan đến các thỏa thuận giữa các bên, thường mang tính pháp lý và cam kết thực hiện nghĩa vụ. Riêng từ \"quy định\" không phải là một thỏa thuận giữa các bên mà là những nguyên tắc, luật lệ được đặt ra để hướng dẫn hành vi hoặc hành động.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Sung túc",
+      "Ấm no",
+      "Phú quý",
+      "Phong túc"
+    ],
+    "correct": 2,
+    "explanation": "Sung túc, ấm no, phong túc đều chỉ sự đầy đủ về vật chất. Riêng từ \"phú quý\" không chỉ đề cập đến sự đầy đủ về vật chất mà còn mang nghĩa về sự sang trọng, địa vị trong xã hội.",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Từa tựa",
+      "Na ná",
+      "Y sì",
+      "Hao hao"
+    ],
+    "correct": 2,
+    "explanation": "Từa tựa, na ná, hao hao đều diễn tả sự giống nhau hoặc tương đồng ở mức hơi giống. Riêng từ \"y sì\" được hiểu là \"y như\" hoặc \"giống hệt\", không hoàn toàn tương đồng với ba từ còn lại vì thường dùng trong ngữ cảnh so sánh cụ thể hơn.",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Chọn một từ/ cụm từ mà nghĩa của nó KHÔNG cùng nhóm với các từ/ cụm từ còn lại.",
+    "options": [
+      "Giới hạn",
+      "Khuôn khổ",
+      "Phạm vi",
+      "Phép tắc"
+    ],
+    "correct": 3,
+    "explanation": "Giới hạn, khuôn khổ, phạm vi đều liên quan đến các khái niệm về sự hạn chế, quy định hoặc không gian nhất định. Riêng từ \"phép tắc\" liên quan đến quy tắc, luật lệ hoặc nguyên tắc ứng xử, không trực tiếp liên quan đến khái niệm giới hạn hay khuôn khổ.",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNgười Việt _____ nhớ ơn cha mẹ, ông bà, Tổ tiên gia tộc, _____ tròn \"hiếu đạo\" với những người có công với cộng đồng trong việc khai làng, lập ấp.",
+    "options": [
+      "nhờ – mà",
+      "nếu – thì",
+      "tuy – nhưng",
+      "không chỉ – mà còn"
+    ],
+    "correct": 3,
+    "explanation": "Hai vế câu có mối quan hệ tăng tiến (vừa hiếu đạo với tổ tiên trong gia đình, vừa biết ơn với người có công với cộng đồng) nên cặp quan hệ từ phù hợp nhất là \"không chỉ – mà còn\". Các cặp từ khác biểu thị quan hệ nguyên nhân-kết quả, giả thiết-kết quả hoặc tương phản, không phù hợp ngữ cảnh.",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nNghề báo là một nghề thực sự _____, đặc biệt là đối với các phóng viên chiến trường, những người phải lăn lộn ở những nơi có tiếng súng, tiếng bom nhằm cung cấp đến cho _____ những dòng tin, hình ảnh về những gì đang xảy ra ở vùng chiến sự ác liệt.",
+    "options": [
+      "khó khăn/ khán giả",
+      "tuyệt vời/ công chúng",
+      "nguy hiểm/ độc giả",
+      "mạo hiểm/ khách hàng"
+    ],
+    "correct": 2,
+    "explanation": "Câu văn nhấn mạnh nơi phóng viên chiến trường phải lăn lộn có tiếng súng, tiếng bom nên từ phù hợp là \"nguy hiểm\"; đối tượng hướng đến của báo chí là \"độc giả\" chứ không phải \"khách hàng\".",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nLà một bác sĩ đầu ngành về kí sinh trùng, Đặng Văn Ngữ đã _____ thành công và sản xuất thuốc kháng sinh penicillin, góp phần rất lớn trong điều trị chống nhiễm khuẩn cho _____ và nhân dân trong kháng chiến chống Pháp và chống Mỹ.",
+    "options": [
+      "phát minh/ bộ đội",
+      "nghiên cứu/ thương binh",
+      "sử dụng/ bệnh binh",
+      "bào chế/ liệt sĩ"
+    ],
+    "correct": 1,
+    "explanation": "Đặng Văn Ngữ không phải là người phát minh ra penicillin mà là người nghiên cứu để sản xuất thuốc; \"thương binh\" hợp lí vì chỉ quân nhân bị thương do chiến đấu còn cần điều trị, \"liệt sĩ\" đã hi sinh nên không hợp lý.",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\n_____ có lẽ không gì hạnh phúc hơn khi được cả 3 đối tượng Bạn đọc, Nhà phê bình, và Bạn văn đánh giá cao, dành tình cảm tốt đẹp cho các _____ của mình.",
+    "options": [
+      "Nhà văn/ tác phẩm",
+      "Cuộc đời/ sáng tác",
+      "Con người/ phát minh",
+      "Nhà thơ/ thi phẩm"
+    ],
+    "correct": 0,
+    "explanation": "Ba đối tượng Bạn đọc, Nhà phê bình, Bạn văn liên quan mật thiết đến nhà văn (sáng tác văn học hướng tới bạn đọc, được nhà phê bình và bạn văn đánh giá) và tác phẩm là kết quả sáng tác của họ.",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Chọn cặp từ/ cụm từ thích hợp nhất điền vào chỗ trống.\nMột _____ về an ninh mạng giải thích bảo hiểm rủi ro an ninh mạng là một loại hình bảo hiểm được thiết kế để bảo vệ khách hàng trước các rủi ro và tổn thất phát sinh từ các hình thức lừa đảo, rủi ro trên không gian _____.",
+    "options": [
+      "cảnh sát/ xã hội",
+      "nhân viên/ ảo",
+      "chuyên gia/ mạng",
+      "nghiên cứu/ chung"
+    ],
+    "correct": 2,
+    "explanation": "\"Chuyên gia\" phù hợp nhất vì cảnh sát chuyên bảo vệ trật tự xã hội chứ không chuyên về an ninh mạng; \"mạng\" phù hợp hơn \"chung\" vì mang tính xác định cụ thể không gian và logic với vế trước của câu.",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nChúng ta hoàn toàn có thể tự làm chủ sức khỏe của mình mỗi ngày bằng những chế độ ăn uống lành mạnh, sử dụng những sản phẩm có nguồn gốc thiên nhiên tốt cho sức khỏe, và một lối sống hòa hợp giữa thân - tâm - trí.",
+    "options": [
+      "thiên nhiên",
+      "làm chủ",
+      "hòa hợp",
+      "lành mạnh"
+    ],
+    "correct": 2,
+    "explanation": "\"Hòa hợp\" dùng sai vì từ này thường dùng chỉ sự hợp lại thành một thể thống nhất (vợ chồng hòa hợp, hòa hợp dân tộc). Với mối quan hệ thân-tâm-trí thì phải dùng \"hài hòa\" để chỉ sự cân đối giữa ba yếu tố này.",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nTrong thời gian cho con bú, nhiều bà mẹ thường được khuyên nên ăn nhiều cà rốt hầm với chân giò, 2 – 3 bát cơm gạo trắng mỗi bữa để đủ sức khỏe cho con bú.",
+    "options": [
+      "sức khỏe",
+      "thời gian",
+      "bà mẹ",
+      "gạo trắng"
+    ],
+    "correct": 0,
+    "explanation": "Để cho con bú thì các bà mẹ phải cần nhiều \"sữa\" chứ không phải \"sức khỏe\". Cần thay từ \"sức khỏe\" thành \"sữa\" để hợp logic.",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nThông qua những hình minh họa tuyệt đẹp cùng nội dung ngắn gọn, súc tích, bộ sách sẽ giúp các bạn đọc trẻ tuổi hiểu thêm nhiều điều thế giới mình đang sống, hiểu được những thách thức và nắm bắt được những cơ hội đã qua.",
+    "options": [
+      "bộ sách",
+      "thách thức",
+      "thế giới",
+      "đã qua"
+    ],
+    "correct": 3,
+    "explanation": "\"Đã qua\" dùng sai vì quá khứ qua rồi thì những cơ hội trong quá khứ không còn ý nghĩa nữa. Phải thay bằng \"trong tương lai\" hoặc \"sắp tới\".",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nTừ những bước chân đầu tiên lên Mặt Trăng, đến nay con người đã thực hiện được nhiều nghiên cứu hơn trong lĩnh vực cơ khí.",
+    "options": [
+      "Từ",
+      "cơ khí",
+      "thực hiện",
+      "nghiên cứu"
+    ],
+    "correct": 1,
+    "explanation": "Sự kiện những bước chân đầu tiên lên Mặt Trăng liên quan đến lĩnh vực vũ trụ chứ không liên quan đến lĩnh vực cơ khí. Cần thay \"cơ khí\" bằng \"vũ trụ\".",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Xác định một từ/ cụm từ SAI về ngữ pháp hoặc ngữ nghĩa, logic, phong cách.\nĐiện ảnh ra đời từ lâu và nhanh chóng xuất hiện trở thành một trong những đổi mới vĩ đại về kĩ thuật và nghệ thuật.",
+    "options": [
+      "xuất hiện",
+      "đổi mới",
+      "nghệ thuật",
+      "kĩ thuật"
+    ],
+    "correct": 0,
+    "explanation": "Điện ảnh đã \"ra đời\" trước đó rồi, nên nói nó \"xuất hiện\" để trở thành một trong những đổi mới vĩ đại là không hợp lý về mặt logic. Cần thay bằng từ \"phát triển\".",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Ý chính của đoạn trích trên là gì?",
+    "options": [
+      "Khoa học thời Trung Cổ.",
+      "Sự nghiệp của nhà bác học Roger Bacon.",
+      "Cuộc chiến giữa khoa học hiện đại và giáo hội.",
+      "Chính sách giáo dục của giáo hội."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích trình bày về khoa học thời Trung Cổ, mở đầu bằng thời đại này chỉ có một nhà bác học thiên tài là Roger Bacon nhưng đóng góp của ông không được công nhận do giáo hội cấm đoán - đây là đáp án bao quát nội dung toàn đoạn trích.",
+    "passage": "passage_66_70"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Theo đoạn trích trên, Roger Bacon đã có đóng góp về lĩnh vực nào dưới đây?",
+    "options": [
+      "Khoa học tự nhiên",
+      "Triết học",
+      "Ngôn ngữ",
+      "Khoa học"
+    ],
+    "correct": 3,
+    "explanation": "Roger Bacon có đóng góp về khoa học tự nhiên (nghiên cứu thiên văn học, sinh học) và triết học (tư duy phê phán đối với tri thức truyền thống). Cả hai lĩnh vực này đều thuộc khoa học nghiên cứu nên \"khoa học\" là đáp án hợp lý và bao trùm nhất.",
+    "passage": "passage_66_70"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Câu nói của Roger Bacon phản ánh quan điểm gì?",
+    "options": [
+      "Nhấn mạnh tầm quan trọng của sách đối với khoa học.",
+      "Học tập qua thực nghiệm có giá trị hơn lý thuyết.",
+      "Xem tài liệu cổ như bước đệm cho những phát minh hiện đại.",
+      "Đề cao tư duy phản biện trong nghiên cứu khoa học."
+    ],
+    "correct": 1,
+    "explanation": "Câu nói \"Nhận xét một giờ còn hơn là đọc sách cổ mười năm\" nhấn mạnh việc quan sát, thực nghiệm thực tế có giá trị hơn học lý thuyết từ sách cổ, phản ánh quan điểm trải nghiệm thực tiễn có sức mạnh vượt trội hơn kiến thức lý thuyết trong sách vở.",
+    "passage": "passage_66_70"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Theo đoạn trích, lý do giáo hội cấm người dân tiếp cận kiến thức mới mẻ là gì?",
+    "options": [
+      "Người dân không đủ khả năng để chọn lọc thông tin.",
+      "Giáo hội muốn bảo vệ tổ chức tôn giáo của mình.",
+      "Giáo hội muốn bảo vệ quyền lực của mình.",
+      "Giáo hội không muốn dân mở mang kiến thức."
+    ],
+    "correct": 1,
+    "explanation": "Giáo hội sợ rằng lòng tin của dân sẽ lung lay nếu biết nhiều quá, khi lòng tin lung lay thì các tổ chức tôn giáo của giáo hội có thể sẽ bị ảnh hưởng nên lí do chính là giáo hội muốn bảo vệ tổ chức tôn giáo của mình.",
+    "passage": "passage_66_70"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Theo quan điểm của giáo hội thời Trung Cổ, dân chúng được xem như:",
+    "options": [
+      "Những người trẻ dễ lung lay, cần phải nghiêm khắc",
+      "Những học giả tiềm năng",
+      "Những đối tượng non nớt, cần được bảo vệ",
+      "Những con dân ngây thơ, cần được dạy dỗ"
+    ],
+    "correct": 2,
+    "explanation": "Giáo hội coi dân chúng như \"em bé\" và không dám cho họ \"chơi với thứ lửa tư tưởng\", thể hiện quan điểm rằng dân chúng là những đối tượng non nớt, dễ bị tổn thương và cần được bảo vệ khỏi những tư tưởng mới.",
+    "passage": "passage_66_70"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Đoạn trích nghiên cứu về lĩnh vực nào?",
+    "options": [
+      "Triết học",
+      "Tâm lý học",
+      "Xã hội học",
+      "Hành vi học"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích chủ yếu đề cập đến cách suy nghĩ, nhận thức và cảm xúc ảnh hưởng đến hành vi và sự phát triển của con người, đây là các chủ đề chính trong tâm lý học, đặc biệt là tâm lý học nhận thức.",
+    "passage": "passage_71_75"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Theo đoạn trích, điều gì xảy ra khi một lời nói dối được nhắc đi nhắc lại nhiều lần?",
+    "options": [
+      "Nó sẽ gây ra cảm giác khó chịu",
+      "Nó sẽ trở nên uy tín",
+      "Nó sẽ tạo ra tranh cãi",
+      "Nó gây ra sự hoài nghi trong tâm trí"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nêu: \"nếu cứ nhắc đi nhắc lại một điều gì đó, ta sẽ tin vào nó mà không cần biết rằng điều đó đúng hay sai\" - lời nói dối khi được nhắc đi nhắc lại sẽ khiến người ta tin tưởng và nó trở nên uy tín.",
+    "passage": "passage_71_75"
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Nguyên tắc nào được đề cập trong đoạn trích để khắc phục điểm yếu thiếu tự tin?",
+    "options": [
+      "Luôn tin tưởng vào bản thân mình để hình thành thói quen trong tâm lý về việc tin tưởng vào bản thân.",
+      "Luôn nghĩ đến những điều tích cực để cuộc sống đầy năng lượng và xua đi cảm giác thiếu tự tin.",
+      "Dùng lời nói hoặc cử chỉ để tác động đến tâm lí, làm cho thụ động nghĩ theo hoặc làm theo ý của mình.",
+      "Sống với thái độ chan hòa, yêu thương với tất cả mọi người xung quanh."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích đề cập nguyên tắc \"tự ám thị\" để khắc phục điểm yếu thiếu tự tin, được hiểu là việc dùng lời nói hoặc cử chỉ để tác động đến tâm lí, làm cho thụ động nghĩ theo hoặc làm theo ý của mình.",
+    "passage": "passage_71_75"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Tác giả khuyến khích người đọc làm gì để xây dựng cuộc sống theo cách riêng của họ?",
+    "options": [
+      "Học hỏi từ người khác",
+      "Tập trung cao độ vào công việc",
+      "Tiếp thu những góp ý tích cực từ mọi người",
+      "Sống tích cực và khoa học"
+    ],
+    "correct": 3,
+    "explanation": "Việc \"vạch kế hoạch cho cuộc đời\" cho thấy lời khuyên về một cuộc sống khoa học, và \"loại bỏ ảnh hưởng từ môi trường không lành mạnh\" cho thấy lời khuyên về một lối sống tích cực.",
+    "passage": "passage_71_75"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Điều gì KHÔNG thể suy ra từ nội dung đoạn trích?",
+    "options": [
+      "Lời nói có ảnh hưởng mạnh mẽ đến nhận thức.",
+      "Điểm yếu lớn nhất của bản thân là sự tự ti.",
+      "Tư duy thống trị giúp con người trở thành chính mình.",
+      "Lối sống khoa học giúp truyền đi những năng lượng tích cực."
+    ],
+    "correct": 3,
+    "explanation": "Đoạn trích chủ yếu tập trung vào sức mạnh của lời nói, tư duy và sự tự ám thị trong việc hình thành nhận thức và hành vi, không đề cập trực tiếp đến việc truyền đi những năng lượng tích cực cho cuộc sống.",
+    "passage": "passage_71_75"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nTrời xanh một màu xanh mênh mông\nChiều thu lúa gặt phẳng phiu đồng\nPhương tây ánh nắng vừa chia biệt\nĐã thấy trăng chào sáng phía đông.\n(Tế Hanh, Chiều thu, In trong Khúc ca mới, NXB Văn học, Hà Nội, 1966)\nĐâu là nhận xét đúng về chủ đề của bài thơ?",
+    "options": [
+      "Mùa thu được cảm nhận qua những hình ảnh quen thuộc, gắn liền với đồng quê.",
+      "Chủ thể trữ tình xuất hiện ở dạng ẩn, kín đáo thể hiện cảm xúc trước thiên nhiên.",
+      "Bài thơ khắc họa vẻ đẹp của mùa thu, qua đó thể hiện tình yêu thiên nhiên của tác giả.",
+      "Các từ láy tượng hình và phép nhân hóa góp phần thể hiện chiều sâu cho bức tranh thu."
+    ],
+    "correct": 2,
+    "explanation": "Đáp án A, D đề cập đến nghệ thuật của bài thơ (hình ảnh, ngôn từ, biện pháp tu từ); đáp án B cung cấp thông tin về nhân vật trữ tình; đáp án C phản ánh chính xác chủ đề bài thơ và bao quát nội dung bài thơ.",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nCó nhiều lúc, những người quen sống ở làng quê đi tới thành phố, bỗng nhiên sẽ không thích ứng được. Bởi vì người với người trên con phố kinh doanh buôn bán phồn hoa gần như đi sát vào nhau, đây cũng không phải trạng thái thoải mái. Sau một khoảng thời gian, con người dường như quen với trạng thái chen chúc này, liền có thể điềm nhiên như không. Nhưng trong thực tế, không gian cá nhân quá chật hẹp, khiến tâm tình của con người càng lúc càng lo âu, vì thế dân cư các thành phố lớn có đủ các loại bệnh tâm lý kỳ quái. Do đó không phải việc họ thích ứng tình trạng người chen chúc người tương đương với việc họ đã ở trong trạng thái thoải mái, mà là bởi họ đã đặt trạng thái lo lắng vào trong tiềm thức.\n(Trần Lộ, Tâm lý học – Nghệ thuật giải mã hành vi, NXB Thanh niên, Hà Nội, 2022)\nNguyên nhân chính dẫn đến tình trạng lo lắng của con người trong thành phố lớn là gì?",
+    "options": [
+      "Họ không có đủ thời gian để thư giãn",
+      "Môi trường sống quá đông đúc",
+      "Không khí ô nhiễm nặng nề",
+      "Mức sống cao nhưng chi phí đắt đỏ"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích nhấn mạnh rằng môi trường sống ở thành phố lớn rất chật chội và con người thường phải chen chúc nhau, dẫn đến cảm giác không gian cá nhân bị hạn chế, tạo ra trạng thái lo âu.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nSinh ra ở đâu, mà ai cũng anh hùng?\nTất cả trả lời: Sinh bên một dòng sông…\nChẳng phải sông Đà, sông Mã, sông Hồng đôi bờ cát mênh mông,\nThì cũng sông Trà, sông Hương, sông Cửu Long uốn chín đầu rồng\nChẳng phải rộng xa một tầm cò vỗ cánh,\nCũng xinh xinh vài sải chèo quẫy mạnh …\nQuê hương Việt Nam mườn mượt những cánh đồng\nMỗi con người gắn bó một dòng sông.\n(Bế Kiến Quốc, Những dòng sông, In trong Thơ Việt Nam 1945 - 1975, NXB Văn học, Hà Nội, 1985)\nCâu thơ nào cho thấy sự kết nối giữa con người và quê hương?",
+    "options": [
+      "Tất cả trả lời: Sinh bên một dòng sông…",
+      "Chẳng phải rộng xa một tầm cò vỗ cánh…",
+      "Mỗi con người gắn bó một dòng sông",
+      "Quê hương Việt Nam mườn mượt những cánh đồng"
+    ],
+    "correct": 2,
+    "explanation": "Từ \"gắn bó\" thể hiện sự kết nối giữa con người với quê hương. Câu thơ chỉ ra rằng mỗi người đều có mối liên hệ sâu sắc với quê hương của mình thông qua hình ảnh dòng sông, biểu trưng cho bản sắc và nguồn cội.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nNghiên cứu của các nhà khoa học tại Trung tâm Khoa học địa chất Đức cho thấy ô nhiễm ánh sáng hiện đang khiến bầu trời đêm sáng lên với tốc độ 10% mỗi năm. Điều này sẽ xóa sổ tầm nhìn về hầu hết các ngôi sao trong vòng một thế hệ. Vài thế hệ trước đây, mọi người thường xuyên được chiêm ngưỡng hình ảnh lấp lánh của vũ trụ. Còn lúc này, sao trời đã trở nên hiếm thấy. Hiện chỉ những người giàu nhất và một số người nghèo nhất thế giới mới có thể thấy sao, còn những người khác thì gần như không có cơ hội này.\n(Phương Anh dịch, 20 năm nữa, trời sao đêm sẽ biến mất do ô nhiễm ánh sáng, Theo Tạp chí Tia sáng, ngày 09/06/2023)\nTại sao \"chỉ những người giàu nhất và một số người nghèo nhất thế giới mới có thể thấy sao\"?",
+    "options": [
+      "Họ có cách để quan sát được những vì sao trên bầu trời.",
+      "Họ có thể sống ở những nơi trong lành, cách xa đô thị.",
+      "Họ có thời gian để quan sát bầu trời đêm.",
+      "Họ có tinh thần thoải mái, ít vướng bận về cuộc sống."
+    ],
+    "correct": 1,
+    "explanation": "Người giàu nhất có khả năng tài chính để sống ở khu vực xa xôi ít ô nhiễm ánh sáng; một số người nghèo nhất sống ở vùng nông thôn xa thành phố lớn nơi ô nhiễm ánh sáng thấp hơn. Cả hai nhóm đều có thể sống ở những nơi trong lành, cách xa đô thị.",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nAnh không thấy thời gian trôi\nchỉ thấy những đám mây di chuyển\nvà những chiếc lá vàng không muốn lìa cây\ngió rung, lá rơi còn vẫy vẫy.\n(Trương Đăng Dung, Anh không thấy thời gian trôi, In trong Những kỉ niệm tưởng tượng, NXB Thế giới, Hà Nội, 2011)\nTác giả đã sử dụng biện pháp tu từ nào khi khắc họa hình ảnh \"lá vàng\"?",
+    "options": [
+      "Liệt kê",
+      "So sánh",
+      "Nhân hóa",
+      "Điệp từ"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả đã sử dụng biện pháp nhân hóa qua các hình ảnh: \"lá vàng không muốn lìa cây\"; \"lá rơi còn vẫy vẫy\".",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Đọc đoạn thơ và trả lời câu hỏi dưới đây.\nDòng sông lặng ngắt như tờ,\nSao đưa thuyền chạy, thuyền chờ trăng theo.\nBốn bề phong cảnh vắng teo,\nChỉ nghe cót két tiếng chèo thuyền nan.\nLòng riêng riêng những bàn hoàn,\nLo sao khôi phục giang san Tiên Rồng.\nThuyền về, trời đã rạng đông,\nBao la nhuốm một màu hồng đẹp tươi.\n(Hồ Chí Minh, Đi thuyền trên sông Đáy, In trong Hồ Chí Minh - Thơ, NXB Văn học, Hà Nội, 1970)\nĐâu là cách hiểu đúng về từ \"bàn hoàn\" trong bài thơ trên?",
+    "options": [
+      "Quấn quýt, không rời",
+      "Băn khoăn, trăn trở",
+      "Choáng váng, sững sờ",
+      "Giấu kín, không thể hiện ra bên ngoài"
+    ],
+    "correct": 1,
+    "explanation": "Từ \"bàn hoàn\" trong bài thơ sát nghĩa nhất với cách hiểu \"nghĩ quanh quẩn không dứt\", điều này cho thấy sự băn khoăn, trăn trở của nhà thơ về vận mệnh đất nước.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nTrẻ con không bao giờ than như thế, vì bọn tôi cả đời chỉ cần đủ tiền mua bánh kẹo, cà rem, xi-rô, ổi xoài (tất nhiên cuộc đời trẻ con chỉ kéo dài đến chừng nào trở thành người lớn). Đang đói bụng mà có tiền mua một ổ bánh mì là cuộc sống bọn tôi lập tức biến thành màu hồng dù trước đó nó được vẽ bằng gam màu nhem nhuốc gì đi nữa. Tóm lại, trẻ con chẳng có mơ ước gì cao xa. Nhờ vậy bọn trẻ không có nhiều khổ não, thất vọng hay bất đắc chí như người lớn.\n(Nguyễn Nhật Ánh, Cảm ơn người lớn, NXB Trẻ, Hồ Chí Minh, 2018)\nCâu nói nào dưới đây phù hợp với thông điệp của đoạn trích trên?",
+    "options": [
+      "Chính trong những khoảnh khắc đen tối nhất, chúng ta phải tập trung để nhìn thấy ánh sáng (Aristotle).",
+      "Trong họa có phúc, trong phúc có họa, họa phúc đan xen (Lão Tử).",
+      "Biết đủ thì ắt thấy đủ còn đợi cho đủ thì chẳng bao giờ thấy đủ (Nguyễn Công Trứ).",
+      "Hạnh phúc không phải là đích đến, mà là cách bạn đi trên con đường đó (Margaret Lee Runbeck)."
+    ],
+    "correct": 2,
+    "explanation": "Thông điệp của đoạn trích nói về việc trẻ con không có nhiều nhu cầu và mong muốn như người lớn nên dễ cảm thấy hạnh phúc, phù hợp nhất với câu nói của Nguyễn Công Trứ về việc biết đủ thì ắt thấy đủ.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nNhiều người hay nói với tôi, rằng một ngày kia thư nhàn, tiền bạc dư dả đôi chút, họ sẽ làm điều mình thích... Tất nhiên là mỗi người có một hoàn cảnh. Nhưng có thật chúng ta cần nhiều thời gian như thế để kiếm tiền, để hoàn thành các trách nhiệm, các nghĩa vụ, đến nỗi không có chỗ cho những niềm vui nho nhỏ, những giây phút sống với bản thân?... Và để đón nhận niềm vui, có cần quá nhiều tiền không? Không đâu, niềm vui chân thật sâu sắc cần một thứ khác, không mất tiền mua nhưng lại vô cùng hiếm. Đó là thời gian. Thời gian ngừng lại mọi lo toan, suy nghĩ.\n(Đinh Hoàng Anh, Tiếng chim nào thủ thỉ dưới mái hiên, NXB Phụ Nữ, Hà Nội, 2018)\nNhan đề nào phù hợp nhất với đoạn trích trên?",
+    "options": [
+      "Đừng bắt thời gian phải đợi",
+      "Khi nào mới đến ngày thư nhàn?",
+      "Hạnh phúc từ những điều nhỏ bé",
+      "Tiền bạc và thời gian"
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích khuyến khích chúng ta không nên trì hoãn việc sống với niềm vui và bản thân, thay vì đợi chờ một tương lai \"thư nhàn\" nào đó, nên trân trọng và tạo ra những khoảnh khắc sống trọn vẹn ngay từ bây giờ.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nCậu lấy làm sung sướng vì có người lắng nghe chuyện mình.\n\"Anh học đọc sách như thế nào?\" cô muốn biết.\n\"Trong trường học, như mọi người khác, cậu đáp.\n\"Nhưng nếu anh đọc sách được thì sao anh chỉ thành một người chăn cừu bình thường thôi?\"\nCậu bối rối vì tin chắc rằng cô sẽ không hiểu nổi cậu... Cậu thấy một cảm giác khác lạ chưa từng biết đến: đó là mơ ước được sống ổn định một nơi. Có cô gái này bên cạnh thì sẽ chẳng còn ngày nào là nhàm chán nữa.\n(Paulo Coelho, Nhà giả kim, NXB Hội Nhà văn, Hà Nội, 2020)\nMơ ước của nhân vật chính thể hiện khát vọng gì?",
+    "options": [
+      "Khát vọng tự do",
+      "Khát vọng bình yên",
+      "Khát vọng giàu có",
+      "Khát vọng thành đạt"
+    ],
+    "correct": 1,
+    "explanation": "Nhân vật mơ ước có thể sống ổn định một nơi cùng cô gái, thể hiện khát vọng tìm kiếm sự ổn định và bình yên trong cuộc sống, hơn là tự do, giàu có hay thành đạt.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Đọc đoạn trích và trả lời câu hỏi dưới đây.\nHôm ấy, một hôm về cuối mùa đông, cách đây độ hơn mười năm, trời xế chiều, tôi mới đến nhà cụ Thượng Lão Việt. Cái nhà mới lạ làm sao! Nó là một túp lều tranh lụp xụp, đầy cảnh thê thảm, nhưng lại có vẻ vui vẻ. Ở gian bên này khách khứa tấp nập. Người ta cười cười nói nói sốt sắng đợi hơi thở cuối cùng của ông lão già. Cụ Thượng nằm to vo trên chiếc giường tre trong gian bên kia. Mặt cụ ngoảnh vào bức vách. Lưng cụ uốn gù con tôm. Bức chăn dạ đỏ phủ trên mình đã hóa ra mầu gạch non vừa vặn đậy kín từ vai đến gối. Cái đầu trắng xóa và đôi bít tất thủng gót đeo ở cổ chân đều bị để lộ ra ngoài.\n(Ngô Tất Tố, Lớp người bị bỏ sót, in trong Việc làng, NXB Văn học, Hà Nội, 2018)\nTác giả đã dùng nghệ thuật nào để khắc họa không gian bên ngoài và tình trạng bên trong của nhân vật ông cụ?",
+    "options": [
+      "Miêu tả",
+      "Liên tưởng",
+      "Liệt kê",
+      "Tương phản"
+    ],
+    "correct": 3,
+    "explanation": "Tác giả tạo ra sự tương phản giữa không gian bên ngoài (khách khứa tấp nập, cười nói) và tình trạng bên trong của ông cụ (nằm sắp qua đời, gầy gò, uốn gù), làm nổi bật tính chất bi thảm và thê lương.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nội dung chính của đoạn trích là gì?",
+    "options": [
+      "Lý giải nguyên nhân dẫn đến ô nhiễm môi trường và gây hại đối với trẻ em.",
+      "Đề xuất khôi phục môi trường bảo vệ trẻ em.",
+      "Phân tích những rủi ro của ô nhiễm đối với trẻ em.",
+      "Giới thiệu mô hình cải tạo môi trường."
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích chủ yếu tập trung vào việc nêu rõ các tác động tiêu cực của ô nhiễm không khí đến sức khỏe và sự phát triển của trẻ em, từ sức khỏe thể chất đến sức khỏe tâm lý.",
+    "passage": "passage_86_90"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Tại sao trẻ em lại được coi là nhóm có nguy cơ cao hơn trong việc tiếp xúc với ô nhiễm không khí?",
+    "options": [
+      "Trẻ em thường xuyên chơi ở ngoài trời",
+      "Trẻ em có tần suất hít thở cao hơn",
+      "Trẻ em có sức đề kháng yếu hơn",
+      "Trẻ em thường xuyên sống trong các khu vực ô nhiễm"
+    ],
+    "correct": 1,
+    "explanation": "Đoạn trích đề cập trẻ em \"thở nhanh hơn\" và hấp thụ nhiều chất ô nhiễm hơn - chi tiết này cho thấy trẻ em có tần suất hít thở cao hơn, là nguyên nhân trẻ em thuộc nhóm nguy cơ cao.",
+    "passage": "passage_86_90"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Trong đoạn trích, tác giả KHÔNG sử dụng phương pháp gì để nhấn mạnh mối liên hệ giữa ô nhiễm không khí và sự phát triển não bộ của trẻ em?",
+    "options": [
+      "Dẫn chứng cụ thể từ nghiên cứu khoa học",
+      "Nêu ra những triệu chứng mà trẻ em có thể gặp",
+      "Liên tưởng đến các hình ảnh ví von",
+      "Mô tả ảnh hưởng của không khí lên sức khỏe"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả sử dụng dẫn chứng khoa học, nêu triệu chứng, mô tả ảnh hưởng của không khí lên sức khỏe nhưng không sử dụng những hình ảnh để ví von khi nhấn mạnh mối liên hệ giữa ô nhiễm không khí và sự phát triển não bộ.",
+    "passage": "passage_86_90"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Việc tiếp xúc với ô nhiễm không khí trong thời thơ ấu có thể để lại hậu quả gì cho trẻ?",
+    "options": [
+      "Tác động lâu dài đến sức khỏe thể chất và tinh thần.",
+      "Tác động nghiêm trọng lên các cơ quan nội tạng.",
+      "Ảnh hưởng tiêu cực đến trạng thái tinh thần của trẻ.",
+      "Chỉ ảnh hưởng đến tinh thần và khả năng học tập."
+    ],
+    "correct": 0,
+    "explanation": "Đoạn trích đề cập việc tiếp xúc với ô nhiễm không khí trong thời thơ ấu gây ảnh hưởng đến sức khỏe thể chất (hen suyễn, tim mạch) và tinh thần (trầm cảm, lo lắng) của trẻ.",
+    "passage": "passage_86_90"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Nội dung nào KHÔNG thể suy ra từ đoạn trích?",
+    "options": [
+      "Ô nhiễm không khí có thể cản trở tương lai phát triển của trẻ em.",
+      "PM2,5, PM10, NO2, NO là toàn bộ các chất độc hại được nêu ra trong đoạn trích.",
+      "Trẻ em không có quyền quyết định môi trường sống cho mình.",
+      "Vì chiều cao hạn chế nên trẻ em phải hít nhiều không khí độc hại hơn người lớn."
+    ],
+    "correct": 1,
+    "explanation": "Ngoài PM2,5, PM10, NO2, NO, đoạn trích còn đề cập đến hợp chất hydrocarbon thơm đa vòng (PAH) như một chất ô nhiễm khác, nên đáp án B không thể suy ra từ đoạn trích vì liệt kê không đầy đủ.",
+    "passage": "passage_86_90"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Bài thơ được tổ chức theo cách thức nào?",
+    "options": [
+      "Tự sự",
+      "Tương phản",
+      "Sóng đôi",
+      "Tuần hoàn"
+    ],
+    "correct": 3,
+    "explanation": "Bài thơ mở đầu và kết thúc bằng hai câu thơ giống nhau: \"Tôi không được sinh ra và lớn lên trong Hà Nội/ Hà Nội tự sinh và lớn lên trong tôi\", tạo thành một cấu trúc tuần hoàn.",
+    "passage": "passage_91_95"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Các từ \"du mục\" và \"di cư\" trong bài thơ có tác dụng gì?",
+    "options": [
+      "Thể hiện tình yêu nồng nàn của tác giả đối với thủ đô.",
+      "Cho thấy sức mạnh văn hóa của Hà Nội.",
+      "Nhấn mạnh sự phồn hoa của mảnh đất nghìn năm văn hiến.",
+      "Khẳng định sự bất biến của các giá trị tinh thần."
+    ],
+    "correct": 1,
+    "explanation": "Các từ \"du mục\" và \"di cư\" diễn tả những giá trị vật chất của Hà Nội chuyển hóa, bồi đắp dần thành những giá trị tinh thần, cho thấy sức mạnh văn hóa của Hà Nội.",
+    "passage": "passage_91_95"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Hình ảnh nào là biểu tượng cho sự lớn lên của Hà Nội \"trong tôi\"?",
+    "options": [
+      "Hà Nội",
+      "Các loài hoa",
+      "Cây yêu thương",
+      "Ba mươi sáu phố phường"
+    ],
+    "correct": 2,
+    "explanation": "Tác giả ba lần nhắc đến \"cây yêu thương\" để chỉ sự lớn lên của Hà Nội trong lòng tác giả, đại diện cho sự phát triển và gắn bó sâu sắc của tình cảm tác giả dành cho Hà Nội.",
+    "passage": "passage_91_95"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Phép điệp cấu trúc trong các dòng thơ \"Rất xa/ Rất gần/ Rất thương/ Rất lạ…\" nhấn mạnh điều gì?",
+    "options": [
+      "Vẻ đẹp đa dạng và muôn màu của Hà Nội.",
+      "Sự đối lập giữa các phương diện đang tồn tại trong lòng Hà Nội.",
+      "Tình cảm yêu mến, tự hào của tác giả dành cho thành phố thân yêu.",
+      "Tình cảm gắn bó trộn lẫn với cảm giác mới mẻ của tác giả với Hà Nội."
+    ],
+    "correct": 3,
+    "explanation": "Phép điệp cấu trúc nhấn mạnh tình cảm gắn bó (\"Rất thương\") trộn lẫn với cảm giác mới mẻ (\"Rất xa\", \"Rất gần\", \"Rất lạ\") của tác giả với Hà Nội, thể hiện sự đa dạng phức tạp trong mối quan hệ giữa tác giả và thành phố.",
+    "passage": "passage_91_95"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Con người trong câu thơ \"Dáng người gồng gánh vơi mỏng triền đê\" hiện lên với đặc điểm nào?",
+    "options": [
+      "Vất vả, lam lũ",
+      "Thanh lịch, tao nhã",
+      "Gần gũi, thân thiện",
+      "Tinh tế, sâu sắc"
+    ],
+    "correct": 0,
+    "explanation": "Hình ảnh \"dáng người gồng gánh\" gợi lên sự nỗ lực và vất vả của người dân lao động, cụm từ \"vơi mỏng\" thể hiện sự khó khăn trong cuộc sống, gợi lên hình ảnh những mảnh đời vất vả, lam lũ.",
+    "passage": "passage_91_95"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Đâu là giọng điệu nổi bật trong đoạn trích trên?",
+    "options": [
+      "Lên án, phê phán",
+      "Dửng dưng, giễu cợt",
+      "Châm biếm, mỉa mai",
+      "Hài hước, chỉ trích"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích nổi bật với giọng điệu châm biếm, mỉa mai qua cách mô tả bữa ăn phản ánh sự ích kỷ, thiếu gắn kết trong gia đình và lời nói mỉa mai của ông con trai.",
+    "passage": "passage_96_100"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Đoạn trích trên thuộc kiểu văn bản nào?",
+    "options": [
+      "Văn bản báo chí",
+      "Văn bản thông tin",
+      "Văn bản nghệ thuật",
+      "Văn bản khoa học"
+    ],
+    "correct": 2,
+    "explanation": "Đoạn trích thuộc kiểu văn bản nghệ thuật vì đây là sáng tác văn chương của nhà văn Vũ Trọng Phụng (trích từ phóng sự Cơm thầy cơm cô), sử dụng ngôn ngữ giàu hình ảnh, biểu cảm, sáng tạo để truyền đạt cảm xúc và phản ánh hiện thực đời sống.",
+    "passage": "passage_96_100"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Biện pháp tu từ được sử dụng trong câu văn \"Người ta tuy cùng ngồi ăn một mâm chung, nếu ai bị sự cám dỗ mà đưa đũa xâm phạm đến món ăn của người khác thì tức khắc sẽ có cái lườm đến nổ trời.\" là gì?",
+    "options": [
+      "Ẩn dụ",
+      "Nói quá",
+      "Nhân hóa",
+      "Tương phản"
+    ],
+    "correct": 1,
+    "explanation": "Cụm từ \"cái lườm đến nổ trời\" là hình ảnh phóng đại, nói quá nhằm nhấn mạnh mức độ nghiêm khắc và sự tức giận của các thành viên trong gia đình.",
+    "passage": "passage_96_100"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Chi tiết nào KHÔNG thể hiện sự châm biếm trong đoạn văn?",
+    "options": [
+      "Sự phân chia món ăn riêng biệt giữa các thành viên.",
+      "Cách ông bố giải thích về việc ăn nhầm món.",
+      "Cách người con trai phản ứng với sự việc.",
+      "Tình huống mọi người ngồi ăn chung một mâm."
+    ],
+    "correct": 3,
+    "explanation": "Việc mọi người ngồi ăn chung một mâm là tình huống bình thường trong các gia đình, không mang tính chất châm biếm, trong khi các chi tiết khác đều phản ánh sự ích kỷ, thiếu gắn kết mang tính châm biếm.",
+    "passage": "passage_96_100"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Con người thành thị Việt Nam thời kì trước năm 1945 hiện lên như thế nào trong đoạn trích trên?",
+    "options": [
+      "Lố lăng, đồi bại",
+      "Dối trá, lật lọng",
+      "Dửng dưng, vô nhân tính",
+      "Ích kỉ, vô đạo đức"
+    ],
+    "correct": 3,
+    "explanation": "Với cảm hứng hiện thực phê phán, tác giả Vũ Trọng Phụng đã phê phán sâu cay lớp người thành thị với đặc điểm ích kỷ (mỗi người có món ăn riêng, không muốn chia sẻ) và vô đạo đức (thiếu tôn trọng, cảm thông lẫn nhau trong gia đình).",
+    "passage": "passage_96_100"
+  }
+]
