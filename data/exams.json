@@ -601,7 +601,7 @@
     "id": "hsa_toan_41",
     "type": "Toán học",
     "name": "HSA TOÁN - ĐỀ 41",
-    "time": 75
+    "time": 75, "kyThi": "dgnl"
   },
   {
     "id": "hsa_toan_42",
@@ -829,7 +829,7 @@
     "id": "hsa_van_36",
     "type": "Ngữ văn",
     "name": "HSA VĂN - ĐỀ 36",
-    "time": 60
+    "time": 60, "kyThi": "dgnl"
   },
   {
     "id": "hsa_van_37",
