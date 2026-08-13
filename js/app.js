@@ -128,6 +128,7 @@ function startPresenceListener() {
 // ========== HỆ THỐNG ĐĂNG NHẬP ==========
 
 const ACCOUNTS = {
+"Thiennhan": {password: "Nhan2710@", fullname: "Đỗ Nguyễn Thiện Nhân"},
 "quocanha1": {password: "12345", fullname: "Quốc Anh"},
 "thanhtran": { password: "123456", fullname: "Trần Công Thành"},
 "admin": { password: "admin123", fullname: "Quản trị viên"},
