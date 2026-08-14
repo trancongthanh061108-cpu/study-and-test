@@ -8,6 +8,9 @@ const _questionCache = {};
 
 const EXAM_FILES = {
   "vact_de_1": "data/vact/đề/de1.json",
+  "vact_de_2": "data/vact/đề/de2.json",
+  "vact_de_3": "data/vact/đề/de3.json",
+  "vact_de_4": "data/vact/đề/de4.json",
   "vact_de_5": "data/vact/đề/de5.json",
   "vact_de_6": "data/vact/đề/de6.json",
   "vact_de_7": "data/vact/đề/de7.json",
