@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "question": "Câu 1: Phần gạch chân trong câu văn: “Đối với kỳ thi này, em cần nỗ lực hết sức mình để đạt được kết quả cao nhất.”, là thành phần nào của câu?",
+    "image": null,
+    "options": ["A. Thành phần chủ ngữ.", "B. Thành phần khởi ngữ.", "C. Thành phần trạng ngữ.", "D. Thành phần vị ngữ."],
+    "correct": 1,
+    "explanation": "Cụm từ “Đối với kỳ thi này” đứng trước chủ ngữ để nêu lên đề tài được nói đến trong câu, nó còn chứa từ “đối với” nên nó là thành phần khởi ngữ của câu.",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Tác phẩm nào KHÔNG cùng thể loại với các tác phẩm còn lại?",
+    "image": null,
+    "options": ["A. Sự tích bánh chưng, bánh giày.", "B. Em bé thông minh.", "C. So Dừa.", "D. Tám Cám."],
+    "correct": 0,
+    "explanation": "Sự tích bánh chưng, bánh giày là văn bản truyền thuyết.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Từ được gạch chân trong câu văn: “Hôm nay nó ăn những hai bát cơm.” thuộc từ loại nào?",
+    "image": null,
+    "options": ["A. Lương từ.", "B. Trợ từ.", "C. Số từ.", "D. Tình thái từ."],
+    "correct": 1,
+    "explanation": "Từ “những” này không nhằm để chỉ số lượng hay bộc lộ sắc thái tình cảm của người nói, mà để nhấn mạnh vào sự việc trong câu, đó là việc nó ăn hai bát cơm (nhiều hơn mọi khi) nên “những” là một trợ từ.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Thủ pháp nghệ thuật nào đã được sử dụng trong hai câu thơ in đậm của đoạn trích sau:\nNhà nước ba năm mở một khoa,\nTrường Nam thi lẫn với trường Hà.\nLôi thôi sĩ tử vai đeo lọ,\nÂm ợe quan trường miệng thét loa.\nLọng cắm rợp trời quan sứ đến,\nVáy lẻ quét đất mụ đầm ra.\n(Trần Tế Xương, Vịnh khoa thi Hương)",
+    "image": null,
+    "options": ["A. Tả cảnh ngụ tình, nói quá.", "B. Đối, đảo ngữ.", "C. Đảo ngữ, đòn bẩy.", "D. Đòn bẩy, đối."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Trong các câu thơ được in đậm thuộc đoạn trích dưới đây, Thúy Kiều đã thể hiện nỗi nhớ ai?\nBẽ bàng mây sớm đèn khuya,\nNửa tình nửa cảnh như chia tấm lòng.\nTưởng người dưới nguyệt chén đồng,\nTin sương luống những rày trong mai chờ.\nBên trời góc bể bơ vơ,\nTấm son gột rửa bao giờ cho phai.\nXót người tựa cửa hôm mai,\nQuạt nồng ấp lạnh những ai đó giờ?\nSân Lai cách mấy nắng mưa,\nCó khi gốc tử đã vừa người ôm.\n(Nguyễn Du, trích Truyện Kiều)",
+    "image": null,
+    "options": ["A. Cha me.", "B. Kim Trong.", "C. Ong ba.", "D. Tur Hai."],
+    "correct": 0,
+    "explanation": "Trong câu thơ này, Kiều thể hiện nỗi nhớ cha mẹ. Những điển tích, điển cố như “quạt nồng ấp lạnh”, “Sân Lai”, “gốc tử” là những điển tích, điển cố về cha mẹ, sự hiếu thảo của con cái.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Câu thành ngữ “Nói nhăng nói cuội” liên quan đến phương châm hội thoại nào?",
+    "image": null,
+    "options": ["A. Phương châm về lượng.", "B. Phương châm về chất.", "C. Phương châm quan hệ.", "D. Phương châm cách thức."],
+    "correct": 1,
+    "explanation": "Câu thành ngữ nói về tính nói khoác, nói không chuẩn xác, không đúng sự thật nên nó liên quan đến",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Chọn từ thích hợp để điền vào chỗ trống trong câu sau:\n“Tôi nghe ... rằng cô ấy sắp nghỉ việc.”",
+    "image": null,
+    "options": ["A. Mong manh.", "B. Phong thanh.", "C. Phong phanh.", "D. Thong manh."],
+    "correct": 1,
+    "explanation": "- Phong phanh: Chỉ tình trạng quần áo mặc sơ sài, không đủ ấm lúc tiết trời đang lạnh giá.\n- Phong thanh: Phong thanh là một từ ghép Hán – Việt (phong là gió + thanh là tiếng): nghĩa hẹp là nghe tiếng gió thổi, nghĩa rộng là nghe tin đồn.\n=> Từ phong thanh thường được dùng với nghĩa là loáng thoáng nghe được, biết được nhưng chưa thực sự chính xác, để chỉ thông tin chưa được kiểm chứng.\n- Mong manh: Nhỏ nhoi, không bền chắc, khó có thể tồn tại được.\n- Thong manh: Tật của mắt nhìn không rõ hoặc mù hẳn do thể thủy tinh đục hay mờ.\n=> Chọn Phong thanh.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Chọn từ đồng nghĩa với từ được in đậm trong đoạn thơ sau:\nĐầu óc linh tinh toàn nghĩ về chợ búa\nNhững quả cà, mớ tép, rau dưa\nĐối với Nít và Kăng, những siêu nhân nay và xưa\nXin thú thực: chúng tôi thờ ơ hạng nhất...\n(Xuân Quỳnh, Thơ vui về phái yếu)",
+    "image": null,
+    "options": ["A. Hào hứng.", "B. Hờ hững.", "C. Bơ phờ.", "D. Âu ơ."],
+    "correct": 1,
+    "explanation": "- Thờ ơ: Lãnh đạm, không quan tâm đến những sự việc, vấn đề xảy ra xung quanh mình.\n- Hờ hững: Chềnh mảng, không tha thiết, không chú ý.\n- Âu ơ: Tiếng mơ đầu câu hát ru.\n- Bơ phờ: Có vẻ ngoài lộ rõ trạng thái rất mệt mỏi.\n- Hào hứng: Cảm thấy có hứng thú mạnh mẽ.\n=> Chọn Hờ hững.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Biện pháp tu từ được sử dụng trong câu thơ sau là gì?\nÔi thân dừa đã hai lần máu chảy\nBiết bao đau thương, biết mấy oán hờn.\n(Lê Anh Xuân, Dừa ơi)",
+    "image": null,
+    "options": ["A. So sánh.", "B. Chơi chữ.", "C. Nhân hóa.", "D. Điệp cấu trúc."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Trong các từ sau, từ nào là từ láy?",
+    "image": null,
+    "options": ["A. Rải rác.", "B. Máu mủ.", "C. Dẻo dai.", "D. Chùa chiền."],
+    "correct": 0,
+    "explanation": "- “Rải rác” là từ láy, các từ còn lại là từ ghép tổng hợp, chúng tuy được tạo thành bởi các tiếng có âm đầu giống nhau nhưng đó chỉ là ngẫu nhiên, về bản chất hai tiếng này đều có nghĩa.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Chọn từ viết đúng chính tả.",
+    "image": null,
+    "options": ["A. Chau chuốt.", "B. Truân chuyên.", "C. Bắt trước.", "D. Chéo ngoe."],
+    "correct": 1,
+    "explanation": "- Chéo ngoe => Tréo ngoe\n- Chau chuốt => Trau chuốt\n- Bắt trước => Bắt chước",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Phép liên kết nào đã được sử dụng trong hai câu văn sau:\nNói chung, chưa bao giờ tôi từ chối bạn bè, nhất là với Cường và Phú. Chẳng những thế, tôi luôn luôn biết ơn tụi nó.",
+    "image": null,
+    "options": ["A. Phép nối, phép thế.", "B. Phép thế, phép liên tưởng.", "C. Phép lặp, phép liên tưởng.", "D. Phép liên tưởng, phép nối."],
+    "correct": 0,
+    "explanation": "- Phép nối: Sử dụng cụm từ “Chẳng những thế”.\n- Phép thế: “Cường và Phú” được thế bằng “tụi nó”.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Qua tác phẩm “Vợ nhặt”, nhà văn Kim Lân đã thể hiện rõ điều nào sau đây?",
+    "image": null,
+    "options": ["A. Lòng yêu nước tha thiết của nhân dân vùng Tây Nam Bộ.", "B. Ngợi ca vẻ đẹp của người phụ nữ Việt Nam thời phong kiến.", "C. Khát vọng, sức mạnh hướng tới cuộc sống, tổ ấm, niềm tin của con người trong cảnh khốn cùng.", "D. Khát vọng sống mạnh mẽ của nhân dân ta trong kháng chiến chống Mỹ."],
+    "correct": 2,
+    "explanation": "- Qua nhân vật thị (theo không một người đàn ông về nhà làm vợ; chăm lo, quán xuyến nhà cửa), tác giả thể hiện khát vọng, sức mạnh hướng tới cuộc sống, tổ ấm của con người.\n- Qua nhân vật bà cụ Tứ, tác giả thể hiện niềm tin của con người trong cảnh khốn cùng, luôn tin vào ngày mai, vào tương lai (động viên các con).",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Những câu văn nào mắc lỗi dùng từ?\nI. Ngày mai, chúng em sẽ đi tham quan Viện bảo tàng của tỉnh.\nII. Vùng này còn khá nhiều thủ tục như: ma chay, cưới xin đều bàn linh đình; ốm không đi bệnh viện mà ở nhà cúng bái, …\nIII. Mỗi khi trái gió trở trời, tôi lại đau đầu như đinh đóng cột.\nIV. Cô ấy vẫn còn nhớ mãi lời hẹn ước năm xưa.",
+    "image": null,
+    "options": ["A. II và III.", "B. III và IV.", "C. I và II.", "D. II và IV."],
+    "correct": 0,
+    "explanation": "- Câu II sai ở từ “thủ tục”, cần sửa thành “hủ tục”.\n- Câu III sai ở thành ngữ “…như đinh đóng cột” (chỉ sự chắc chắn, không sử dụng để biểu đạt con đau), cần sửa thành “đầu đau như búa bổ”.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Đoạn văn sau sử dụng phương thức biểu đạt chính là gì?\n…Trên mảnh đất mà chỉ mới đây thôi còn ngợp lên một rừng cây chó đẻ, dây thép gai, mìn, vỏ đạn đại bác , nhừ nát vì những hố bom, những giao thông hào , những đoạn xương người nằm rải rác ... giờ là cả một bãi trồng lạc trải mênh mông từ chân khu nhà ở ... cho mãi tới giáp rừng.\n(Nguyễn Khải, Mùa lạc)",
+    "image": null,
+    "options": ["A. Thuyết minh.", "B. Tự sự.", "C. Nghị luận.", "D. Miêu tả."],
+    "correct": 3,
+    "explanation": "Đoạn văn sử dụng PTBĐ chính là miêu tả vì đã tái hiện lại khung cảnh của mảnh đất sau khi có sự cải tạo của con người.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Phong cách ngôn ngữ của đoạn trích trên là gì?",
+    "image": null,
+    "options": ["A. Sinh hoạt.", "B. Chính luận.", "C. Nghệ thuật.", "D. Báo chí."],
+    "correct": 2,
+    "explanation": "PCNN của đoạn trích trên là nghệ thuật vì nó được sử dụng trong một tác phẩm văn chương.",
+    "passage": "v-act_de2_cau16-20"
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Vì sao Hoà rất sợ xuống hầm buổi tối?",
+    "image": null,
+    "options": ["A. Vì Hoà cho rằng sống chết có số, không cần xuống hầm để trú ẩn.", "B. Vì hầm rất sơ sài, chỉ được phủ bằng rơm trộn với bùn, không đảm bảo an toàn.", "C. Vì Hoà sợ dẫm phải cóc hoặc sờ phải nhái bén, ễnh ương và thỉnh thoảng gặp cả rắn.", "D. Vì từng có người bị chết vì rắn độc cắn trong hầm."],
+    "correct": 2,
+    "explanation": "…Nó rất ngại xuống hầm buổi tối. Ở đời sống chết có số, nếu như bom rơi trúng cái hầm chữ A, được gác chéo bởi mấy cây tre, trên phủ sơ sài rơm trộn với bùn thì có tránh đằng trời. Nó sợ nhất đêm tối xuống hầm, dẫm phải bọn cóc, hoặc sờ phải nhái bén, ễnh ương, thi thoảng gặp cả rắn nữa.",
+    "passage": "v-act_de2_cau16-20"
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Câu văn: Tiếng đạn pháo, tiếng bom nổ, tiếng gầm rú của máy bay như một bản giao hưởng hỗn loạn trên bầu trời. sử dụng những biện pháp nghệ thuật nào?",
+    "image": null,
+    "options": ["A. Liệt kê, nói quá.", "B. So sánh, ẩn dụ.", "C. Hoán dụ, điệp từ.", "D. Liệt kê, so sánh."],
+    "correct": 3,
+    "explanation": "- Tiếng đạn pháo, tiếng bom nổ, tiếng gầm rú của máy bay: Liệt kê.\n- Tiếng đạn pháo, tiếng bom nổ, tiếng gầm rú của máy bay như một bản giao hưởng hỗn loạn trên bầu trời. : So sánh (So sánh các âm thanh với một bản giao hưởng hỗ loạn).",
+    "passage": "v-act_de2_cau16-20"
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Những lời tự an ủi của Hoà có ý nghĩa gì?",
+    "image": null,
+    "options": ["A. Động viên, an ủi bố mẹ Hoà bình tĩnh vượt qua nguy hiểm.", "B. Trấn an bản thân rằng sẽ không có điều không may xảy đến với bố mẹ.", "C. Thể hiện sự hoài nghi, không tin tưởng vào việc bố mẹ ở Hà Nội sẽ được an toàn.", "D. Bộc lộ sự lo lắng, sợ hãi và tuyệt vọng tột độ khi nghe thấy tiếng bom nổ."],
+    "correct": 1,
+    "explanation": "Hoà không thể ngay lập tức liên lạc với bố mẹ để nắm tình hình cũng như không thể trực tiếp theo dõi, bảo vệ bố mẹ trong tình cảnh rất nguy hiểm nên cậu chỉ có thể liên tục tự an ủi bản thân mình để trấn an rằng sẽ không có điều không may xảy đến với bố mẹ.",
+    "passage": "v-act_de2_cau16-20"
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Nội dung của đoạn trích là gì?",
+    "image": null,
+    "options": ["A. Những điều Hoà trải qua khi đi sơ tán trong những năm tháng chiến tranh.", "B. Sự dữ dội và ác liệt của chiến trường trong những năm kháng chiến chống Pháp.", "C. Nỗi mất mát, đau thương mà nhân dân Thủ đô phải gánh chịu thời chiến.", "D. Sự quyết đoán, tỉnh táo và thông minh của Hoà khi đi sơ tán."],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de2_cau16-20"
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Choose the suitable word or phrase to fill in each blank.\nEveryone in the class is expected to participate ______ in the debate.",
+    "image": null,
+    "options": ["A. action", "B. active", "C. actively", "D. activate"],
+    "correct": 2,
+    "explanation": "Chọn trạng từ “actively” để bổ nghĩa cho động từ “participate”.",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Choose the suitable word or phrase to fill in each blank.\nThe pandemic had an enormous impact ______ the tourism industry.",
+    "image": null,
+    "options": ["A. in", "B. for", "C. on", "D. with"],
+    "correct": 2,
+    "explanation": "Cấu trúc cố định: impact on something.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Choose the suitable word or phrase to fill in each blank.\nVery ______ students signed up for the course, so it might be canceled.",
+    "image": null,
+    "options": ["A. little", "B. many", "C. a few", "D. few"],
+    "correct": 3,
+    "explanation": "Danh từ “students” là danh từ đếm được số nhiều, loại đáp án “little”. Dựa vào nghĩa của câu, chọn “few”.",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Choose the suitable word or phrase to fill in each blank.\nThe city ________ rapid growth since it adopted the new policy.",
+    "image": null,
+    "options": ["A. is experiencing", "B. experienced", "C. has experienced", "D. was experiencing"],
+    "correct": 2,
+    "explanation": "Dấu hiệu “since it adopted the new policy”, câu diễn tả sự việc bắt đầu trong quá khứ và còn tiếp diễn đến hiện tại/tương lai, cần sử dụng thì hiện tại hoàn thành.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Choose the suitable word or phrase to fill in each blank.\nThe dolphin and trainer communicated much ________ we expected.",
+    "image": null,
+    "options": ["A. the best", "B. more well", "C. so well as", "D. better than"],
+    "correct": 3,
+    "explanation": "Câu thể hiện ý so sánh hơn, lại có “much” phía trước được sử dụng để nhấn mạnh so sánh hơn. Dạng so sánh hơn của trạng từ “well” là better. Chú ý dùng “than” trong cấu trúc so sánh.",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Find and choose the underlined part that indicates the mistake in each of the following sentences.\nIt took her an entire year to learn enough the German to do the shopping.",
+    "image": null,
+    "options": ["A. took", "B. an entire", "C. to learn", "D. the German"],
+    "correct": 3,
+    "explanation": "Không sử dụng mạo từ trước danh từ riêng chỉ ngôn ngữ. Đáp án: bỏ “the” trước danh từ “German”.",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Find and choose the underlined part that indicates the mistake in each of the following sentences.\nWe didn't catch any fish, so everyone enjoyed the fishing trip.",
+    "image": null,
+    "options": ["A. didn't", "B. any", "C. so", "D. the"],
+    "correct": 2,
+    "explanation": "Mệnh đề phía sau mang nghĩa đối lập, tương phản với mệnh đề phía trước, cần sử dụng từ nối “but”. Đáp án: so → but.",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Find and choose the underlined part that indicates the mistake in each of the following sentences.\nShe's been put in charge of children' activities at the summer camp in Singapore.",
+    "image": null,
+    "options": ["A. put", "B. children'", "C. at the", "D. in"],
+    "correct": 1,
+    "explanation": "Dạng sở hữu của “children” là “children's”. Đáp án: children' → children's.",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Find and choose the underlined part that indicates the mistake in each of the following sentences.\nCan you pass me the teacups over there? I'm going to wash it.",
+    "image": null,
+    "options": ["A. Can", "B. pass me", "C. I'm going to", "D. it"],
+    "correct": 3,
+    "explanation": "Sử dụng tân ngữ “them” đề cập đến “the teacups” nhắc đến trước đó. Đáp án: it → them.",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Find and choose the underlined part that indicates the mistake in each of the following sentences.\nThey said they were going to have twins, that surprised all of us.",
+    "image": null,
+    "options": ["A. said", "B. were going", "C. that", "D. all of us"],
+    "correct": 2,
+    "explanation": "Sử dụng đại từ quan hệ “which” để cập đến cả mệnh đề phía trước. Đáp án: that → which.",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Which of the following best restates each of the given sentences?\nFour of five undersea cables are broken. Internet speeds across Vietnam slow to a snail's pace.",
+    "image": null,
+    "options": ["A. After four of five undersea cables are broken, internet speeds across Vietnam slow to a crawl.", "B. After having been broken four of five underwater cables, Internet speeds across Vietnam are lagging.", "C. After breaking four of five undersea cables, causing internet speeds across Vietnam slow to a snail's pace.", "D. Internet speeds across Vietnam are lagging after something was destroyed four of five undersea cables."],
+    "correct": 0,
+    "explanation": "Mệnh đề trạng ngữ: After four of five undersea cables are broken, internet speeds across Vietnam slow to a crawl.\n- After breaking four of five undersea cables, causing internet speeds across Vietnam slow to a snail's pace. - SAI (Sai cấu trúc và nghĩa)\n- Internet speeds across Vietnam are lagging after something was destroyed four of five undersea cables. - SAI (Sai nghĩa)\n- After having been broken four of five underwater cables, Internet speeds across Vietnam are lagging. - SAI (sai cấu trúc, câu không dùng bị động sau mệnh đề trạng ngữ)",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Which of the following best restates each of the given sentences?\nIf you add more redundant details into the powerpoint, the main content will be less significant.",
+    "image": null,
+    "options": ["A. The more redundant details you add for your presentation, the more significant the main content is.", "B. The less redundancy details you add into the powerpoint, the more significance the main content is.", "C. The least redundant details you put into the powerpoint, the least significant the main content is.", "D. The less redundant details you put into the powerpoint, the more significant the main content is."],
+    "correct": 3,
+    "explanation": "So sánh tăng tiến: The + so sánh hơn + S + V, the + so sánh hơn + S + V.\n- The least redundant details you put into the powerpoint, the least outstanding the main content is. - SAI (Sai cấu trúc)\n- The more redundant details you add for your presentation, the more significant the main content is. - SAI (Đúng cấu trúc, Sai nghĩa)\n- The less redundancy details you add into the powerpoint, the more significance the main content is. - SAI (Sai cấu trúc)",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Which of the following best restates each of the given sentences?\nAccording to Vietnamese law, anyone who drives with alcohol present in their body faces fines.",
+    "image": null,
+    "options": ["A. According to Vietnamese legislation, people drive while intoxicated is subjected to fines.", "B. Vietnamese legislation specifies that people driven with alcohol in the body threaten fines.", "C. Anyone catching operating a vehicle in Vietnam while under the influence of alcohol faces fines.", "D. According to Vietnamese law, anyone caught behind the wheel while intoxicated is subject to fines."],
+    "correct": 3,
+    "explanation": "Rút gọn mệnh đề quan hệ\n- Anyone catching operating a vehicle in Vietnam while under the influence of alcohol faces fines. - SAI (catching → caught, vì chủ ngữ ở đây đang bị tác động bởi hành động, cần rút gọn ở dạng quá khứ phân từ)\n- According to Vietnamese legislation, people drive while intoxicated threatens fines. - SAI (drive → driving, câu cần rút gọn động từ ở dạng V-ing)\n- Vietnamese legislation specifies that people driven with alcohol in the body threaten fines. - SAI (driven → driving, câu cần rút gọn động từ ở dạng V-ing)",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Which of the following best restates each of the given sentences?\nGreg said, \"Sorry, I can't go to your housewarming party next Friday evening, Jasmine.\"",
+    "image": null,
+    "options": ["A. Greg apologized to Jasmine to not go to his housewarming party the previous Friday evening.", "B. Greg apologized to Jasmine for not going to her housewarming party the following Friday evening.", "C. Greg apologized for Jasmine to not going to her housewarming party the previous Friday evening.", "D. Greg apologized Jasmine for not going to his housewarming party the following Friday evening."],
+    "correct": 1,
+    "explanation": "Đổi từ câu trực tiếp sang câu gián tiếp cần đổi đại từ, từ chỉ thời gian: next Friday evening → the following Friday evening. apologize to somebody for doing something.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Which of the following best restates each of the given sentences?\nThanks to the driver's quick reaction, none of the passengers was injured.",
+    "image": null,
+    "options": ["A. If the driver did not react quickly, none of the passengers would have been injured.", "B. Had the driver not reacted quickly, some of the passengers would be injured.", "C. If the driver had not reacted quickly, some of the passengers would have been injured.", "D. If the driver had not reacted quickly, none of the passengers would have been injured."],
+    "correct": 2,
+    "explanation": "Câu gốc đang ở thì quá khứ đơn → dùng câu điều kiện loại 3 để diễn tả việc không có thật trong quá khứ. Cấu trúc: If + S + V(Quá khứ hoàn thành), S + would/could/might + have + V(quá khứ phân từ).\n- If the driver did not react quickly, none of the passengers would have been injured. - SAI (mệnh đề if dùng câu điều kiện loại 2)\n- Had the driver reacted quickly, some of the passengers would be injured. - SAI (Đúng cấu trúc, sai nghĩa)\n- If the driver had not reacted quickly, none of the passengers would have been injured. - SAI (Đúng cấu trúc, sai nghĩa)",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: What is the passage mainly about?",
+    "image": null,
+    "options": ["A. Collaborating in culturing and growing sturgeon.", "B. Providing safe places for sturgeon to spawn.", "C. Making efforts to conserve sturgeon's habitats.", "D. Assisting ancient fish survive in modern times."],
+    "correct": 3,
+    "explanation": "Nội dung chính của bài là gì? Đoạn 1: Giới thiệu về cá tầm 'sturgeon' đã có từ rất lâu. Đoạn 2: Nguyên nhân và số lượng cá tầm giảm. Đoạn 3 + 4: Hợp tác hỗ trợ cá tầm phát triển hiện tại.\n- Providing safe places for sturgeon to spawn. - Cung cấp nơi an toàn cho cá tầm để đẻ trứng. Trong bài chỉ nhắc đến hỗ trợ cá tầm để đẻ trứng (a fish elevator and sorting tank to choose the best adult sturgeon to transport upstream to spawn.), không cung cấp nơi ở.\n- Collaborating in culturing and growing sturgeon. - Hợp tác nuôi và phát triển cá tầm. Trong bài không có thông tin nuôi cá tầm, chỉ có thông tin vận chuyển và chọn lọc giống cá (a fish elevator and sorting tank).\n- Making efforts to conserve sturgeon's habitats. - Nỗ lực bảo tồn môi trường sống của cá tầm. Trong bài chỉ ra việc hỗ trợ mở rộng môi trường sinh sản (add an additional 20 miles of spawning habitat for these fish).",
+    "passage": "v-act_de2_cau36-40"
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: According to paragraph 2, what is TRUE about sturgeon?",
+    "image": null,
+    "options": ["A. The central United States is a popular region for these ancient fish.", "B. Such ancient fish are certainly the most successful survivors.", "C. Most states in the US have listed sturgeon on the brink of extinction.", "D. Modern issues have led to a sharp decline in sturgeon populations."],
+    "correct": 3,
+    "explanation": "Theo đoạn 2, điều gì ĐÚNG về cá tầm? Thông tin: ‘Still, modern challenges, including overfishing, poor water quality, and barriers to movement, have led to dramatic declines in the abundance of lake sturgeon.' - Tuy nhiên, những thách thức hiện đại, bao gồm đánh bắt quá mức, chất lượng nước kém và các rào cản đối với việc di chuyển, đã dẫn đến sự suy giảm nghiêm trọng về số lượng cá tầm trong hồ.\n- Such ancient fish are certainly the most successful survivors. - Những loài cá cổ xưa như vậy chắc chắn là những loài sống sót thành công nhất. Trong bài: ‘Such ancient fish may seem like the ultimate survivors.' - Những loài cá cổ xưa như vậy có vẻ như là những kẻ sống sót cuối cùng. → Đây là câu đưa ra suy nghĩ, không phải câu khẳng định cá tầm là loài sống lâu. → SAI\n- The central United States is a popular region for these ancient fish. - Miền trung Hoa Kỳ là một khu vực phổ biến cho những con cá cổ đại này. → SAI. Trong bài: ‘Once common throughout the central United States' - Từng phổ biến khắp miền trung Hoa Kỳ → Việc loài cá này phổ biến là trong quá khứ, không phải hiện tại.\n- Most states in the US have listed sturgeon on the brink of extinction. - Hầu hết các bang ở Mỹ đã liệt cá tầm vào bờ vực tuyệt chủng. Trong bài: ‘these fish are now listed as either threatened or endangered by 19 of the 20 states within their original U.S. range.' - những con cá này hiện được liệt kê là bị đe dọa hoặc có nguy cơ tuyệt chủng bởi 19 trong số 20 tiểu bang trong phạm vi ban đầu của Hoa Kỳ. → Mỹ có 50 bang, 19 bang liệt kê vào loài nguy cơ tuyệt chủng → SAI",
+    "passage": "v-act_de2_cau36-40"
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: In paragraph 3, what is the word ‘surged' closest in meaning to?",
+    "image": null,
+    "options": ["A. increased", "B. approved", "C. estimated", "D. accumulated"],
+    "correct": 0,
+    "explanation": "surge (v) = increase - tăng nhanh chóng. approve (v) ủng hộ. estimate (v) đánh giá. accumulate (v) tích trữ.",
+    "passage": "v-act_de2_cau36-40"
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: In paragraph 4, what does the word ‘they' refer to?",
+    "image": null,
+    "options": ["A. sturgeon", "B. miles", "C. agencies", "D. upstream"],
+    "correct": 0,
+    "explanation": "Trong đoạn 4, từ “they” đề cập đến điều gì? Thông tin: ‘Sturgeon have a home river. If the Menominee is the home river, then biologically, that's where they have to go to spawn.' - “Cá tầm có dòng sông quê hương. Nếu Menominee là dòng sông quê hương, thì về mặt sinh học, đó là nơi chúng phải đến đẻ trứng.”",
+    "passage": "v-act_de2_cau36-40"
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: What can be inferred from paragraph 4?",
+    "image": null,
+    "options": ["A. There have been changes made to increase sturgeon consumption.", "B. The project seeks to assist sturgeon during their reproductive process.", "C. Spawning habitats of sturgeon have been narrowed due to dams.", "D. The project has been made to create suitable habitats for sturgeon."],
+    "correct": 1,
+    "explanation": "Điều gì có thể được suy ra từ đoạn 4?\n- Spawning habitats of sturgeon have been narrowed due to dams. - Nơi đẻ trứng của cá tầm bị thu hẹp do các đập thủy điện. Trong bài nhắc đến giúp cá tầm bơi lên cao hơn để đẻ trứng, không có thông tin đập thủy điện đe dọa nơi đẻ trứng.\n- There have been changes made to increase sturgeon consumption. - Đã có những thay đổi được thực hiện để tăng tiêu thụ cá tầm. Có nhiều thay đổi để giúp tăng số lượng cá hồi, nhưng không nhắc đến tiêu thụ cá hồi.\n- The project has been made to create suitable habitats for sturgeon. - Dự án đã được thực hiện để tạo môi trường sống thích hợp cho cá tầm. Trong bài nhắc đến giúp cá tầm bơi lên cao hơn để đẻ trứng và chọn giống, nhưng không nhắc đến môi trường sinh sống của cá hồi.\nĐáp án: The project seeks to assist sturgeon during their reproductive process. - Dự án tìm cách hỗ trợ cá tầm trong quá trình sinh sản của chúng. Dựa vào thông tin: ‘add an additional 20 miles of spawning habitat for these fish.' - thêm 20 dặm môi trường sinh sản cho những con cá này, ‘The project includes a fish elevator and sorting tank to choose the best adult sturgeon to transport upstream to spawn' - Công trình bao gồm thang máy chở cá và bể phân loại để chọn cá tầm trưởng thành tốt nhất vận chuyển lên thượng nguồn đẻ trứng.",
+    "passage": "v-act_de2_cau36-40"
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Tìm tất cả các giá trị của tham số m để phương trình −x4 + 2x2 −m = 0 có bốn nghiệm phân biệt.",
+    "image": null,
+    "options": ["A. m < 1.", "B. m > 0.", "C. 0 ≤ m ≤ 1.", "D. 0 < m < 1."],
+    "correct": 3,
+    "explanation": "Đặt t = x^2 ≥ 0 thì phương trình (1) trở thành: -t^2 + 2t - m = 0. Để phương trình (1) có bốn nghiệm phân biệt thì phương trình (2) có hai nghiệm dương t1, t2 phân biệt: Δ' > 0 => 1 - m > 0 => m < 1; S = 2 > 0; P = m > 0. Vậy 0 < m < 1.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Cho log 45 = a + log 2 5 + b với a,b,c là các số nguyên. Tổng a + b + c bằng log 3 + c",
+    "image": null,
+    "options": ["A. 0 .", "B. 1 .", "C. 3 .", "D. 2 ."],
+    "correct": 1,
+    "explanation": "log 45 = log 2 (5.9) = log 2 5 + 2log 2 3. log 6 = log 2 (3.2) = log 2 3 + 1. Vậy log 45 / log 6 = (log 2 5 + 2log 2 3) / (log 2 3 + 1) = (log 2 5 - 2 + 2(log 2 3 + 1)) / (log 2 3 + 1) = (log 2 5 - 2) / (log 2 3 + 1) + 2. Suy ra a = 1, b = -2, c = 1. Tổng a + b + c = 0.",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Ông và bà Đô cùng có 6 người con đang lên máy bay theo một hàng dọc. Có bao nhiêu cách xếp hàng khác nhau nếu ông Đô hoặc bà Đô đứng ở đầu hoặc cuối hàng?",
+    "image": null,
+    "options": ["A. 18720 cách.", "B. 40320 cách.", "C. 1440 cách.", "D. 720 cách."],
+    "correct": 0,
+    "explanation": "Ta dùng phần bù. Xếp 8 người vào 8 vị trí theo hàng dọc có 8! cách sắp xếp. Xếp ông và bà Đô vào 2 trong 6 vị trí (trừ vị trí đầu và cuối hàng) có A6^2 cách. Xếp 6 người con vào 6 vị trí còn lại có 6! cách. Vậy có 8! – 6!. A6^2 = 18720 cách sắp xếp.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Có 30 câu hỏi khác nhau gồm 5 câu khó, 10 câu trung bình, 15 câu dễ. Từ 30 câu đó có thể lập được bao nhiêu đề kiểm tra, mỗi đề gồm 5 câu khác nhau, sao cho mỗi đề phải có 3 loại câu hỏi (khó, trung bình, dễ) và số câu dễ không ít hơn 40% số câu?",
+    "image": null,
+    "options": ["A. 46375 cách.", "B. 28000 cách.", "C. 6750 cách.", "D. 56875 cách."],
+    "correct": 3,
+    "explanation": "Xét các trường hợp: TH1: 2 câu dễ, 2 câu khó, 1 câu trung bình thì có C15^2.C5^2.C10^1 đề. TH2: 2 câu dễ, 1 câu khó và 2 câu trung bình thì có C15^2.C5^1.C10^2 đề. TH3: 3 câu dễ, 1 câu khó và 1 câu trung bình thì có C15^3.C5^1.C10^1 đề. Theo quy tắc cộng thì có 56875 đề.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Cho I = ∫ x^3 / sqrt(x^4 - 1) dx . Đặt x^4 - 1 = t ta được",
+    "image": null,
+    "options": ["A. I = 1/2 ∫ t dt .", "B. I = 1/2 ∫ t^2 dt .", "C. I = 1/2 ∫ t dt .", "D. I = 1/2 ∫ t^2 dt ."],
+    "correct": 3,
+    "explanation": "Đặt x^4 - 1 = t => 4x^3 dx = dt => x^3 dx = 1/4 dt. Đổi cận: x = 1 => t = 0, x = 2 => t = 15. Suy ra I = 1/2 ∫ t^2 dt .",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Điểm A trong hình trên biểu diễn số phức nào sau đây?",
+    "image": null,
+    "options": ["A. −3−i.", "B. 3−i.", "C. 3+i.", "D. −3+i."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Cho lăng trụ đứng ABC.A′B′C′ có đáy ABC là tam giác vuông tại A và AB=AC=1. Cạnh B′A tạo với mặt đáy (ABC) góc 60∘. Thể tích khối lăng trụ đã cho là",
+    "image": null,
+    "options": ["A. √3", "B. 2√3", "C. 3√3/2", "D. √3/2"],
+    "correct": 3,
+    "explanation": "Do BB' vuông góc với (ABC) nên góc (B'A, (ABC)) = góc B'AB = 60°. Xét tam giác vuông B'BA có: BB' = BA.tan 60° = √3. S(ABC) = 1/2 . AB . AC = 1/2. Vậy V = S(ABC).BB' = √3/2.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Trong không gian Oxyz , cho điểm I(−2;1;3) và mặt phẳng (P): 2x − y + 2z − 10 = 0. Biết rằng (S) có tâm I và cắt (P) theo một đường tròn (C) có chu vi bằng 20π. Khi đó bán kính r của mặt cầu (S) bằng",
+    "image": null,
+    "options": ["A. 10 .", "B. √10 .", "C. 109 .", "D. √109 ."],
+    "correct": 3,
+    "explanation": "Đường tròn (C) có bán kính R = 10. d(I,(P)) = |-4 - 1 + 6 - 10| / √(4+1+4) = 9/3 = 3. Mặt cầu (S) cắt mặt phẳng (P) theo một đường tròn (C) nên có bán kính: r = √(R^2 + d(I,(P))^2) = √(100 + 9) = √109.",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Một cửa hàng buôn giày nhập một đôi với giá là 40 đô la. Cửa hàng ước tính rằng nếu đôi giày được bán với giá x đô la thì mỗi tháng khách hàng sẽ mua (120−x) đôi. Cửa hàng bán một đôi giày giá bao nhiêu thì thu được lãi nhiều nhất?",
+    "image": null,
+    "options": ["A. 40 đô la.", "B. 240 đô la.", "C. 160 đô la.", "D. 80 đô la."],
+    "correct": 3,
+    "explanation": "Gọi y là số tiền lãi của cửa hàng bán giày. Ta có y = (120 - x)(x - 40) = -x^2 + 160x - 4800 = -(x - 80)^2 + 1600 ≤ 1600. Dấu \"=\" xảy ra ⇔ x = 80. Vậy cửa hàng lãi nhiều nhất khi bán đôi giày với giá 80 đô la.",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Bác Đô rào một mảnh vườn hình chữ nhật có độ dài đường chéo là 100 m. Biết bác Đô dùng hết 280 m hàng rào. Diện tích của mảnh vườn đó bằng",
+    "image": null,
+    "options": ["A. 640 m2.", "B. 4800 m2.", "C. 9600 m2.", "D. 480 m2."],
+    "correct": 1,
+    "explanation": "Gọi độ dài một cạnh của mảnh vườn là x mét, (0 < x < 100) thì độ dài cạnh còn lại là √(100^2 - x^2). Theo đề bài ta có phương trình: 2(x + √(100^2 - x^2)) = 280. Rút gọn và chuyển vế ta có: √(100^2 - x^2) = 140 - x. Bình phương hai vế rồi rút gọn, ta thu được: x^2 - 280x + 9600 = 0. Từ đó tìm được x = 80 và x = 60. Thay vào phương trình ban đầu, cả hai giá trị này của x đều thoả mãn. Vậy x = 80 hoặc x = 60. Với cả hai giá trị trên của x thì diện tích mảnh vườn của bác Đô luôn là 80.60 = 4800 m2.",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "question": "Câu 51: An, Bình, Cường là ba anh em ruột. Nếu cả ba câu sau là đúng thì ai là người ít tuổi nhất?\n\"An lớn tuổi nhất\".\n\"Bình không lớn tuổi nhất\".\n\"Cường không ít tuổi nhất\".",
+    "image": null,
+    "options": ["A. Cường.", "B. An.", "C. Cường và Bình.", "D. Bình."],
+    "correct": 3,
+    "explanation": "Từ dữ kiện đề bài suy ra tuổi An > tuổi Cường > tuổi Bình.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Nam, Uyên, Thìn, Hiệp chơi cờ cá ngựa (hai cặp ngồi đối diện nhau). Hiệp ngồi bên phải Uyên, Uyên ngồi bên phải Nam. Hỏi bạn nào ngồi bên phải Hiệp?",
+    "image": null,
+    "options": ["A. Thìn.", "B. Uyên.", "C. Nam hoặc Uyên.", "D. Thìn hoặc Nam."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Thành phố nào có lượng mưa nhiều nhất?",
+    "image": null,
+    "options": ["A. C.", "B. E.", "C. B.", "D. D."],
+    "correct": 2,
+    "explanation": "D có lượng mưa 1100 mm. B có lượng mưa nhiều hơn, vì vậy nó có lượng mưa 1625 mm, là nhiều nhất.",
+    "passage": "v-act_de2_cau53-56"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Lượng mưa của thành phố C là bao nhiêu?",
+    "image": null,
+    "options": ["A. 800 mm.", "B. 1100 mm.", "C. 675 mm.", "D. 300 mm."],
+    "correct": 2,
+    "explanation": "D có lượng mưa là 1100 mm, B có lượng mưa là 1625 mm và A có lượng mưa là 300 mm. E ở vùng núi và thành phố ở vùng núi có lượng mưa là 800 mm. Do đó, C có 675 mm.",
+    "passage": "v-act_de2_cau53-56"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Thành phố nào nằm ở sa mạc?",
+    "image": null,
+    "options": ["A. E.", "B. C.", "C. A.", "D. D."],
+    "correct": 2,
+    "explanation": "Thành phố có ít mưa nhất là ở sa mạc. E nằm trên núi. B có nhiều mưa hơn D, vì vậy nó không thể là thành phố có ít mưa nhất. Ngoài ra, C không thể là thành phố có ít mưa nhất. D có lượng mưa 1100 mm. Do đó, A đang ở trong sa mạc và có lượng mưa 300 mm.",
+    "passage": "v-act_de2_cau53-56"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Thành phố D nằm ở đâu?",
+    "image": null,
+    "options": ["A. Núi.", "B. Thung lũng.", "C. Rừng.", "D. Ven biển."],
+    "correct": 1,
+    "explanation": "D có lượng mưa 1100 mm, vì vậy nó không nằm ở sa mạc hay trong rừng. Thành phố trên núi có lượng mưa 800 mm; bờ biển 675 mm. Do đó, D nằm trong một thung lũng.",
+    "passage": "v-act_de2_cau53-56"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Nếu màu đỏ được dùng trong bản đồ xe buýt thì màu nào sau đây phải được dùng trong bản đồ xe điện ngầm?",
+    "image": null,
+    "options": ["A. Lục.", "B. Chàm .", "C. Tím .", "D. Cam."],
+    "correct": 3,
+    "explanation": "Từ điều kiện cần tuân thủ thứ hai suy ra màu đỏ và màu cam phải ở hai bản đồ khác nhau. Do đó màu cam phải được dùng trong bản đồ xe điện ngầm.",
+    "passage": "v-act_de2_cau57-60"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Nếu màu lục được dùng trong bản đồ xe điện ngầm thì khẳng định nào sau đây đúng?",
+    "image": null,
+    "options": ["A. Màu cam được dùng trong bản đồ xe điện ngầm.", "B. Màu đỏ được dùng trong bản đồ xe buýt.", "C. Màu tím được dùng trong bản đồ xe buýt.", "D. Màu vàng được dùng trong bản đồ xe điện ngầm."],
+    "correct": 2,
+    "explanation": "Nếu màu lục được dùng trong bản đồ xe điện ngầm thì theo điều kiện cần tuân thủ thứ nhất màu tím phải được dùng trong bản đồ xe buýt.",
+    "passage": "v-act_de2_cau57-60"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Nếu màu vàng và tím được dùng trong bản đồ xe điện ngầm thì màu thứ ba được dùng trong bản đồ xe điện ngầm là màu gì?",
+    "image": null,
+    "options": ["A. Lam.", "B. Cam.", "C. Lục.", "D. Đỏ."],
+    "correct": 3,
+    "explanation": "Từ điều kiện cần tuân thủ thứ hai suy ra màu vàng và màu đỏ ở cùng một bản đồ. Từ đó suy ra màu thứ ba được dùng trong bản đồ xe điện ngầm là màu đỏ.",
+    "passage": "v-act_de2_cau57-60"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Nếu màu lam không được dùng trong cùng một bản đồ với màu lục cũng như màu vàng thì khẳng định nào sau đây đúng?",
+    "image": null,
+    "options": ["A. Màu lục được dùng trong bản đồ xe điện ngầm.", "B. Màu tím được dùng trong cùng bản đồ với màu cam.", "C. Màu lam được dùng trong cùng bản đồ với màu đỏ.", "D. Màu lục được dùng trong bản đồ xe buýt."],
+    "correct": 1,
+    "explanation": "Nếu màu lam không được dùng trong cùng một bản đồ với màu lục cũng như màu vàng thì màu lục và màu vàng sẽ cùng một bản đồ. Màu lam không được dùng chung với màu vàng nên từ điều kiện thứ hai, màu lam dùng chung với màu cam. Màu lam không được dùng chung với màu lục nên từ điều kiện thứ nhất, màu lam dùng chung với màu tím. Khi đó, theo các điều kiện cần tuân thủ 1, 2, các màu lục, vàng, đỏ cùng 1 bản đồ, các màu lam, tím, cam cùng 1 bản đồ.",
+    "passage": "v-act_de2_cau57-60"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Nếu trong cả năm 2022, gia đình chi tiêu 250 triệu thì số tiền chi tiêu cho ăn uống là",
+    "image": null,
+    "options": ["A. 122,5 triệu.", "B. 132,5 triệu.", "C. 112,5 triệu.", "D. 102,5 triệu."],
+    "correct": 2,
+    "explanation": "250 × 45% = 112,5 (triệu)",
+    "passage": "v-act_de2_cau61-63"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Tỉ lệ chi tiêu cho giáo dục và nhà cửa với chi tiêu cho giải trí và trang phục là",
+    "image": null,
+    "options": ["A. ≈ 2,03.", "B. ≈ 3,12.", "C. ≈ 3,02.", "D. ≈ 2,13."],
+    "correct": 3,
+    "explanation": "(18 + 14) : (10 + 5) ≈ 2,13",
+    "passage": "v-act_de2_cau61-63"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Vào năm 2021, chi cho giải trí và giáo dục cùng giảm 5% so với năm 2022, các khoản chi khác không đổi. Hỏi tỉ lệ chi cho giáo dục năm 2021 là bao nhiêu? (làm tròn tới 2 chữ số thập phân sau dấu phẩy)",
+    "image": null,
+    "options": ["A. 17,43%.", "B. 13,74%.", "C. 17,34%.", "D. 13,47%."],
+    "correct": 2,
+    "explanation": "Gọi tổng chi 2022 là A. Chi cho giáo dục và giải trí lần lượt là 0,18A và 0,1A. Chi 2021 giảm: Giáo dục: 0,18A.5% = 0,009A; Giải trí: 0,1A.5% = 0,005A Tổng chi: A - 0,009A - 0,005A = 0,986A % giáo dục (2021): 0,18A.95% : 0,986A × 100% = 17,34%",
+    "passage": "v-act_de2_cau61-63"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Có thể thấy rằng, tỷ trọng trẻ em thuộc nhóm tuổi 0 - 4 giảm rất mạnh theo thời gian. Trong 30 năm, từ 1979 đến 2009, tỉ trọng trẻ em thuộc nhóm tuổi này đã giảm bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 6,1%.", "B. 4,9%.", "C. 6,4%.", "D. 6,8%."],
+    "correct": 2,
+    "explanation": "Năm 1979: 14,6%. Năm 2009: 8,2%. Tỉ trọng giảm: 14,6% - 8,2% = 6,4%",
+    "passage": "v-act_de2_cau64-66"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Trong thời kỳ 1979 - 2009, tỷ trọng trẻ em thuộc nhóm tuổi nào giảm nhanh nhất?",
+    "image": null,
+    "options": ["A. Các nhóm tuổi giảm như nhau.", "B. 0 - 4 tuổi.", "C. 10 - 14 tuổi.", "D. 5 - 9 tuổi."],
+    "correct": 3,
+    "explanation": "Nhóm 0 - 4 tuổi: Giảm 6,4%. Nhóm 5 - 9 tuổi: Giảm 14,6% - 7,8% = 6,8%. Nhóm 10 - 14 tuổi: Giảm 13,3% - 8,4% = 4,9%.",
+    "passage": "v-act_de2_cau64-66"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Từ năm 2009 - 2014, tỉ trọng trẻ em trong nhóm tuổi 0 - 4 tuổi có tăng lên (từ 8,2 % năm 2009 lên 8,3% năm 2014). Nếu dân số cả nước năm 2009 là 85,847 triệu người và năm 2014 là 90,5 triệu người thì số lượng trẻ em trong nhóm này đã tăng lên bao nhiêu?",
+    "image": null,
+    "options": ["A. ≈ 0,472 triệu trẻ.", "B. ≈ 0,462 triệu trẻ.", "C. ≈ 0,482 triệu trẻ.", "D. ≈ 0,492 triệu trẻ."],
+    "correct": 0,
+    "explanation": "Số lượng trẻ từ 0 - 4 tuổi tăng thêm là: 90,5 × 8,3% - 85,85 × 8,2% ≈ 0,472 (triệu trẻ)",
+    "passage": "v-act_de2_cau64-66"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Vào năm 2009, tỉ lệ hộ độc thân cao nhất ở vùng nào?",
+    "image": null,
+    "options": ["A. Đồng bằng sông Cửu Long.", "B. Đồng bằng sông Hồng.", "C. Bắc Trung Bộ và duyên hải miền Trung.", "D. Đông Nam Bộ."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de2_cau67-70"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Sau 10 năm, tốc độ tăng tỉ lệ hộ từ 2 - 4 người ở nông thôn là",
+    "image": null,
+    "options": ["A. 1,42%.", "B. 2,24%.", "C. 1,4%.", "D. 2,42%."],
+    "correct": 1,
+    "explanation": "(64 - 62,6) : 62,6 × 100% = 2,24%",
+    "passage": "v-act_de2_cau67-70"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Trung bình tỉ lệ hộ 5 người trở lên ở trung du và miền núi phía Bắc và Tây Nguyên nhiều hơn trung bình ở Đông Nam Bộ và Đồng Bằng sông Hồng là bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 9,2%.", "B. 9,3%.", "C. 9,1%.", "D. 9,4%."],
+    "correct": 0,
+    "explanation": "Trung bình tỉ lệ hộ 5 người trở lên ở trung du và miền núi phía Bắc và Tây Nguyên: (32,2 + 29,4) : 2 = 30,8 (%). Trung bình tỉ lệ hộ 5 người trở lên ở Đông Nam Bộ và Đồng Bằng sông Hồng: (20,9 + 22,3) : 2 = 21,6 (%). Chênh lệch: 30,8% - 21,6% = 9,2%",
+    "passage": "v-act_de2_cau67-70"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Vào năm 2019, số lượng hộ độc thân ở thành thị nhiều hơn ở nông thôn là bao nhiêu nếu cùng điều tra 100000 hộ?",
+    "image": null,
+    "options": ["A. 3900 hộ.", "B. 9400 hộ.", "C. 12300 hộ.", "D. 2900 hộ."],
+    "correct": 3,
+    "explanation": "Tỉ lệ số lượng hộ độc thân ở thành thị nhiều hơn ở nông thôn là: 12,3% - 9,4% = 2,9%. Số hộ chênh lệch trên 100000 hộ điều tra: 100000 × 2,9% = 2900 (hộ)",
+    "passage": "v-act_de2_cau67-70"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Nguyên tử nguyên tố X có cấu hình electron lớp ngoài cùng là 4s²4p⁵. Phát biểu nào sau đây là sai?",
+    "image": null,
+    "options": ["A. X là nguyên tố nhóm halogen.", "B. Ở trạng thái tự do, 2 nguyên tử X góp chung một đôi electron để hình thành phân tử X₂.", "C. Nguyên tố X và K (Z = 19) thuộc cùng một chu kì trong bảng tuần hoàn.", "D. X có thể tạo thành ion bền có dạng X⁺."],
+    "correct": 3,
+    "explanation": "(1) X là nguyên tố nhóm halogen. Đúng. X là nguyên tố p, có 7 electron hoá trị → X nằm ở nhóm VIIA trong bảng tuần hoàn – nhóm halogen.\n(2) Ở trạng thái tự do, 2 nguyên tử X góp chung một đôi electron để hình thành phân tử X₂. Đúng. X có 7 electron hóa trị nên có xu hướng góp chung 1 electron với nguyên tử khác để đạt được cấu hình bền vững của khí hiếm.\n(3) X có thể tạo thành ion bền có dạng X⁺. Sai. X có xu hướng nhận thêm 1 electron để đạt được cấu hình bền của khí hiếm (4s²4p⁶) tạo thành ion X⁻.\n(4) Nguyên tố X và K (Z = 19) thuộc cùng một chu kì trong bảng tuần hoàn. Đúng. Nguyên tử K có cấu hình electron [Ar]4s¹ → Nguyên tố K nằm ở chu kì 4 của bảng tuần hoàn, cùng chu kì với nguyên tố X.",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Trong số các hợp chất sau: propan, axetilen, benzen, alanin, phenol, axit crylic, metyl fomat, glucozơ, số chất có khả năng phản ứng với nước brom ở điều kiện thường là",
+    "image": null,
+    "options": ["A. 7.", "B. 6.", "C. 5.", "D. 4."],
+    "correct": 2,
+    "explanation": "Các chất có thể phản ứng với nước brom ở điều kiện thường là: axetilen (C≡C) và axit acrylic (CH₂=CH-COOH): do phân tử chứa liên kết π C=C kém bền; phenol: phản ứng thế brom vào vòng thơm; metyl fomat (HCOO-CH₃) và glucozơ: phản ứng với nhóm -CHO. Vậy có tổng cộng 5 chất có khả năng phản ứng với nước brom ở điều kiện thường.",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Các phản ứng khác nhau xảy ra với tốc độ khác nhau, có phản ứng xảy ra nhanh, có phản ứng xảy ra chậm. Ta cũng có thể điều chỉnh tốc độ của một phản ứng hóa học bằng cách thay đổi các yếu tố ảnh hưởng đến phản ứng đó. Khi thực hiện điều chế hiđro từ kim loại kẽm và dung dịch axit clohiđric, một học sinh đã đề xuất những cách điều chỉnh tốc độ phản ứng như sau:\n(1) Đun nóng bình phản ứng ở nhiệt độ cao hơn nhiệt độ phòng.\n(2) Tăng lượng axit và lượng kẽm lên gấp đôi.\n(3) Sử dụng dung dịch axit clohiđric có nồng độ cao hơn.\n(4) Sử dụng kẽm dạng bột thay cho kẽm viên.\nTrong số các cách trên, những cách nào có thể sử dụng để làm tăng tốc độ phản ứng điều chế khí hiđro?",
+    "image": null,
+    "options": ["A. (1), (3), (4).", "B. (1), (2), (3).", "C. (2), (3), (4).", "D. (1), (2), (3), (4)."],
+    "correct": 0,
+    "explanation": "(1) Khi tăng nhiệt độ bình phản ứng, các phân tử chuyển động nhanh hơn → Xác suất va chạm giữa các phân tử tham gia phản ứng tăng → Tốc độ phản ứng tăng.\n(2) Khối lượng thanh kẽm lớn hơn không làm gia tăng sự tiếp xúc của các phân tử chất tham gia → Tốc độ phản ứng không thay đổi.\n(3) Khi nồng độ tăng, các phân tử ở gần nhau hơn → Tăng số va chạm giữa các phân tử tham gia phản ứng → Tốc độ phản ứng tăng.\n(4) Kẽm ở dạng bột có diện tích tiếp xúc với dung dịch axit lớn hơn so với kẽm viên → Tốc độ phản ứng tăng.",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Caffeine thường là một chất kích thích tự nhiên thường được tìm thấy trong cây trà, cà phê hoặc ca cao. Chất này hoạt động bằng cách kích thích não và hệ thần kinh trung ương, giúp chúng ta tỉnh táo và ngăn ngừa mệt mỏi. Hiện nay, caffeine có trong hàng triệu đồ uống, thực phẩm trên thế giới. Khi phân tích thành phần nguyên tố của hợp chất này, người ta thu được kết quả về phần trăm khối lượng các nguyên tố như sau:\nC: 49,48%, H: 5,15%, N: 28,87%, O: 16,50%. Biết rằng khi hoá hơi 1 gam caffeine thì thu được thể tích bằng với thể tích của 0,165 gam khí oxi ở cùng điều kiện nhiệt độ, áp suất. Công thức phân tử của caffeine là",
+    "image": null,
+    "options": ["A. C₄H₅N₂O.", "B. C₈H₁₀N₄O₂.", "C. C₅H₉NO₄.", "D. C₁₂H₁₅N₃O₃."],
+    "correct": 1,
+    "explanation": "Gọi CTPT của caffeine là CxHyNzOt. Dựa vào phần trăm khối lượng của các nguyên tố trong phân tử caffeine: x:y:z:t = (49,48/12) : (5,15/1) : (28,87/14) : (16,5/16) ≈ 4:5:2:1. CTPT của caffeine có dạng (C₄H₅N₂O)n. n(O₂) = 0,165/32 ≈ 5,516 x 10^-3 mol → M(caffeine) = 1 / (5,516 x 10^-3) ≈ 194 g/mol. n = 194 / (12*4 + 1*5 + 14*2 + 16*1) = 2. Vậy CTPT của caffeine là C₈H₁₀N₄O₂.",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Một âm “la” phát ra từ đàn piano và một âm “la” phát ra từ đàn violin không thể giống nhau về",
+    "image": null,
+    "options": ["A. độ cao.", "B. âm sắc.", "C. độ to.", "D. cường độ âm."],
+    "correct": 1,
+    "explanation": "Âm do các nhạc cụ khác nhau phát ra có âm sắc khác nhau.",
+    "passage": null
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: VINASAT-1 là vệ tinh viễn thông địa tĩnh đầu tiên của Việt Nam được phóng vào vũ trụ năm 2008. Biết quỹ đạo địa tĩnh là quỹ đạo tròn ngay phía trên xích đạo Trái Đất. Bất kỳ điểm nào trên mặt phẳng xích đạo đều quay tròn xung quanh Trái Đất với vận tốc góc bằng vận tốc góc của sự tự quay của Trái Đất. Cho bán kính Trái Đất bằng 6378 km, chu kì tự quay của Trái Đất là 24 giờ, vận tốc dài của vệ tinh trên quỹ đạo là 3,07 km/s. Sóng điện từ truyền thẳng từ vệ tinh đến điểm xa nhất trên Trái Đất mất thời gian",
+    "image": null,
+    "options": ["A. 0,139 s.", "B. 0,119s.", "C. 0,280 s.", "D. 0,162 s."],
+    "correct": 0,
+    "explanation": "Chu kì quay của Trái Đất là: T = 24h = 86400 s. Tốc độ góc của Trái Đất là: ωT = 2π / 86400 = π / 43200 (rad/s). Tốc độ góc của vệ tinh bằng tốc độ góc của Trái Đất => ωv = π/43200 (rad/s). Tốc độ dài của vệ tinh là: v = ωv.Rv = 3070(m/s) ⇒ Rv = 42215,53(km). Quãng đường sóng điện từ truyền đến điểm xa nhất trên Trái Đất là: S = √(Rv² − Rr²) = 41731(km). Thời gian sóng truyền đi là: t = S / c = 41731 / (3.10^5) = 0,139(s).",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Những cây dây leo quấn quanh cây gỗ lớn để vươn cao lên là kết quả của",
+    "image": null,
+    "options": ["A. hướng hóa.", "B. hướng trọng lực.", "C. hướng sáng.", "D. hướng tiếp xúc."],
+    "correct": 3,
+    "explanation": "Hướng tiếp xúc là phản ứng sinh trưởng đối với sự tiếp xúc. Tua cuốn thực chất là một lá bị biến dạng vươn thẳng đến khi tiếp xúc với giá thể. Sự tiếp xúc đã kích thích sự sinh trưởng kéo dài của các tế bào tại phía ngược lại của tua làm cho nó quấn quanh giá thể.",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Một tế bào sinh dục ở loài ruồi giấm có bộ nhiễm sắc thể 2n = 8, tiến hành nguyên phân hai lần, các tế bào con được tạo ra tiếp tục đi vào quá trình giảm phân. Một trong số các giao tử tạo ra được thụ tinh để tạo thành hợp tử. Sơ đồ nào sau đây biểu thị sự thay đổi về số lượng nhiễm sắc thể trong tế bào nói trên?",
+    "image": null,
+    "options": ["A. Hình 1.", "B. Hình 2.", "C. Hình 4.", "D. Hình 3."],
+    "correct": 3,
+    "explanation": "- Bộ NST được giữ nguyên qua hai lần nguyên phân.\n- Bộ NST sẽ bị giảm đi một nửa qua quá trình giảm phân.\n- Hợp tử có bộ NST lưỡng bội 2n = 8.",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Sơ đồ về quá trình quang hợp dưới đây chưa chính xác ở vị trí nào?",
+    "image": null,
+    "options": ["A. (1) và (4).", "B. (2) và (4).", "C. (1) và (2).", "D. (2) và (3)."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Hình ảnh dưới đây mô tả kiểu sinh sản nào ở thực vật?",
+    "image": null,
+    "options": ["A. Sinh sản sinh dưỡng.", "B. Nhân giống vô tính.", "C. Sinh sản hữu tính.", "D. Sinh sản bào tử."],
+    "correct": 3,
+    "explanation": "Sinh sản bào tử có ở thực vật bào tử (là những cơ thể luôn biểu hiện rõ sự xen kẽ của hai thế hệ như rêu, dương xỉ). Trong hình thức sinh sản bào tử, cơ thể mới được phát triển từ bào tử, bào tử lại hình thành trong túi bào tử từ thể bào tử.",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Nếu cho rằng chuối nhà 3n có nguồn gốc từ chuối rừng 2n thì cơ chế hình thành chuối nhà được giải thích bằng chuỗi sự kiện nào trong các sự kiện dưới đây:\n1. Hợp tử 3n phát triển thành thể tam bội.\n2. Tế bào 2n nguyên phân bất thường cho cá thể 3n.\n3. Cơ thể 2n giảm phân bất thường cho giao tử 2n.\n4. Thu tinh giữa giao tử n và 2n.\n5. Cơ thể 3n giảm phân bình thường cho giao tử 2n.",
+    "image": null,
+    "options": ["A. 2 → 5 → 4.", "B. 5 → 4 → 1.", "C. 3 → 5 → 4.", "D. 3 → 4 → 1."],
+    "correct": 3,
+    "explanation": "Thể tam bội (3n) có thể được tạo nên do sự kết hợp các giao tử đơn bội (n) với giao tử lưỡng bội (2n).",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Phêninkêto niệu (PKU) là một bệnh di truyền do thiếu enzim chuyển hóa axit amin phêninalanin. Dưới đây là sơ đồ phả hệ của một gia đình bị bệnh này:\n\nPhả hệ trên cho thấy bệnh được quy định bởi",
+    "image": null,
+    "options": ["A. gen trôi trên nhiễm sắc thể thường.", "B. gen trôi trên nhiễm sắc thể giới tính X.", "C. gen lặn trên nhiễm sắc thể giới tính X.", "D. gen lặn trên nhiễm sắc thể thường."],
+    "correct": 3,
+    "explanation": "Cặp vợ chồng thứ nhất đều bình thường sinh 2 con bị bệnh → Bệnh này có thể do gene lặn nằm trên NST thường hoặc gene lặn nằm trên vùng không tương đồng của NST X.\nNếu nằm trên NST X thì cặp vợ chồng đầu của thế hệ II thì vợ XaXa và chồng XAY sẽ không thể sinh ra con XaXa.\n→ Bệnh này do gene lặn nằm trên NST thường.",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Dạng thông tin di truyền nào được trực tiếp sử dụng trong việc tổng hợp protein?",
+    "image": null,
+    "options": ["A. tRN.", "B. DNA.", "C. mRNA.", "D. rRNA."],
+    "correct": 2,
+    "explanation": "Dịch mã là quá trình tổng hợp prôtêin, trong đó các tARN mang các axit amin tương ứng đặt đúng vị trí trên mARN trong ribôxôm để tổng hợp nên chuỗi pôlipeptit.",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Chăn nuôi gia súc là thế mạnh của Trung du và miền núi Bắc Bộ vì",
+    "image": null,
+    "options": ["A. nhu cầu sức kéo nông nghiệp của khu vực lớn.", "B. người dân có kinh nghiệm chăn nuôi lâu đời.", "C. có nhiều đồng cỏ, khí hậu thích hợp.", "D. giáp ranh đồng bằng Sông Hồng nên nhu cầu tiêu thụ lớn."],
+    "correct": 2,
+    "explanation": "Trung du và miền núi Bắc Bộ có nhiều đồng cỏ, chủ yếu trên các cao nguyên ở độ cao 600 - 700m. Các đồng cỏ tuy không lớn, nhưng ở đây có thể phát triển chăn nuôi trâu, bò (lấy thịt và lấy sữa), ngựa, dê. Bò sữa được nuôi tập trung ở cao nguyên Mộc Châu (Sơn La). Trâu, bò thịt được nuôi rộng rãi, nhất là trâu. Trâu khoẻ hơn, ưa ẩm, chịu rét giỏi hơn bò thích nghi với điều kiện chăn thả trong rừng…",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Vịnh Cam Ranh được xem là vịnh biển có ý nghĩa quan trọng về chiến lược quân sự do",
+    "image": null,
+    "options": ["A. vị trí vịnh Cam Ranh nằm ở trung tâm Duyên hải Nam Trung Bộ.", "B. vị trí vịnh gần sân bay Nha Trang thuận lợi vận chuyển vũ khí.", "C. cảng nước sâu, nằm giữa các tuyến đường biển quan trọng.", "D. bờ biển dài với nhiều bãi biển có ý nghĩa về kinh tế, chính trị."],
+    "correct": 2,
+    "explanation": "Sở dĩ Cam Ranh mang tính chiến lược quân sự bởi lẽ đây được cho là cảng nước sâu nhất khu vực Ấn Độ - Thái Bình Dương, nằm giữa các tuyến đường biển quan trọng hàng đầu thế giới đi qua Biển Đông.\nDo đó, kể từ năm 2004, Vịnh Cam Ranh đã được Việt Nam thu hồi và chuyển dần sang mục đích quân sự thay vì cho người nước ngoài thuê như trước đó. Đến tháng 9/2014, bộ Quốc phòng phê duyệt dự án đầu tư xây dựng khu dịch vụ hàng hải và cung ứng tàu biển. Và ngày 8/3/2016, tại căn cứ quân sự Cam Ranh, Quân chủng Hải quân Việt Nam tổ chức lễ khai trương cảng quốc tế Cam Ranh, là một trong những cảng biển lớn nhất tại Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Điều kiện cơ bản nhất để phát triển ngành thủy sản nước ta là",
+    "image": null,
+    "options": ["A. nhân dân có kinh nghiệm trong việc đánh bắt thủy sản.", "B. nhiều ngư trường rộng lớn thuận lợi cho đánh bắt thủy sản.", "C. có nhiều hệ thống kênh rạch thuận lợi cho nuôi trồng thủy sản.", "D. có đường bờ biển dài và vùng đặc quyền kinh tế rộng lớn."],
+    "correct": 3,
+    "explanation": "Ngành thủy sản ở nước ta phát triển chủ yếu là do giáp biển, đường bờ biển dài và vùng đặc quyền kinh tế rộng lớn, tổng trữ lượng hải sản khoảng 3,9 đến 4 triệu tấn. Biển nước ta có khoảng 2000 loài cá, 1647 loài giáp xác, 100 loài tôm….",
+    "passage": null
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Nguyên nhân đầu tiên dẫn đến dân số ở Hoa Kỳ có nguồn gốc chủ yếu là người da trắng là",
+    "image": null,
+    "options": ["A. người bản địa là người da trắng.", "B. cuộc xâm chiếm thuộc địa.", "C. lịch sử nhập cư lâu dài.", "D. do các cuộc phát kiến địa lý."],
+    "correct": 3,
+    "explanation": "Nguyên nhân đầu tiên làm cho dân số Hoa Kỳ có nguồn gốc chủ yếu là người da trắng là do các cuộc phát kiến địa lý bởi vì phải có các cuộc phát kiến thì mới có quá trình nhập cư.\nSau năm 1492, nhiều chuyến thám hiểm đến châu Mỹ được tài trợ bởi Tây Ban Nha, Bồ Đào Nha, Anh, Pháp, Đan Mạch, Hà Lan,.. đã thúc đẩy dòng di cư lớn từ châu Âu vào Bắc Mỹ.\nTừ thế kỉ XVI đến thế kỉ XIX, người châu Phi bị cưỡng bức di cư đến Bắc Mỹ làm việc trong các đồn điền, hầm mỏ, công trình xây dựng. Sau Chiến tranh thế giới thứ hai, Bắc Mỹ thu hút người nhập cư từ khắp nơi trên thế giới. Những thập niên gần đây, người nhập cư vào Bắc Mỹ chủ yếu đến từ khu vực Trung và Nam Mỹ, châu Á, Hoa Kỳ là quốc gia nhận người nhập cư lớn nhất thế giới.",
+    "passage": null
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Quốc gia đi đầu trong cuộc “cách mạng xanh” trong nông nghiệp là",
+    "image": null,
+    "options": ["A. Liên Xô.", "B. Trung Quốc.", "C. Mĩ.", "D. Ấn Độ."],
+    "correct": 2,
+    "explanation": "Mĩ là quốc gia đi đầu trong cuộc \"cách mạng xanh\" trong nông nghiệp.",
+    "passage": null
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Việc kí kết Hiệp định Giơ-ne-vơ năm 1954 để lại bài học kinh nghiệm nào sau đây cho cuộc đấu tranh ngoại giao của nhân dân Việt Nam thời kì 1954 – 1975?",
+    "image": null,
+    "options": ["A. Cần phát huy tối đa thắng lợi quân sự để tạo thế mạnh trên bàn đàm phán.", "B. Giữ vững nguyên tắc không nhân nhượng trong mọi tình huống.", "C. Hòa bình chỉ có thể được thiết lập trở lại thông qua các hội nghị quốc tế.", "D. Cần giữ cân bằng về lợi ích giữa các nước lớn trong đấu tranh ngoại giao."],
+    "correct": 0,
+    "explanation": "Chiến thắng lịch sử Điện Biên Phủ (năm 1954) đã đập tan hoàn toàn kế hoạch Nava, giáng một đòn quyết định vào ý chí xâm lược Việt Nam của Pháp, làm xoay chuyển cục diện chiến tranh, tạo điều kiện cho cuộc đấu tranh ngoại giao (việc kí kết Hiệp định Giơ-ne-vơ) giành thắng lợi.\n=> Như vậy, bài học kinh nghiệm được rút ra từ Hiệp định Giơ-ne-vơ là: chiến thắng quân sự đã tạo thế mạnh trên bàn đàm phán.",
+    "passage": null
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Nội dung nào sau đây là kết quả đạt được từ cuộc tấn công áp đảo của quân dân Việt Nam trong Chiến dịch Hồ Chí Minh (30/4/1975)?",
+    "image": null,
+    "options": ["A. Làm cho Mĩ phải rút quân viễn chinh ra khỏi miền Nam Việt Nam.", "B. Buộc chính quyền Sài Gòn phải tuyên bố đầu hàng vô điều kiện.", "C. Nhanh chóng tiến tới thống nhất đất nước đi lên xã hội chủ nghĩa.", "D. Làm cho đối phương phải chấp nhận kí kết các Hiệp định hòa bình."],
+    "correct": 1,
+    "explanation": "Kết quả đạt được từ cuộc tấn công áp đảo của quân dân Việt Nam trong Chiến dịch Hồ Chí Minh (30/4/1975) là: buộc chính quyền Sài Gòn phải tuyên bố đầu hàng vô điều kiện.",
+    "passage": null
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Phong trào cách mạng 1930 - 1931 ở Việt Nam bùng nổ trong bối cảnh lịch sử nào?",
+    "image": null,
+    "options": ["A. Phong trào giải phóng dân tộc bắt đầu bùng nổ ở Trung Quốc.", "B. Có sự chỉ đạo kịp thời của Đảng Cộng sản Đông Dương.", "C. Chính quyền thực dân tăng cường đàn áp cách mạng.", "D. Chịu ảnh hưởng trực tiếp từ Hội nghị Véc-xai Oa-sinh-tơn."],
+    "correct": 2,
+    "explanation": "Phong trào cách mạng 1930 - 1931 ở Việt Nam bùng nổ từ tháng 2/1930.\n- Đảng Cộng sản Đông Dương chỉ đạo cách mạng (10/1930) => không phù hợp.\n- Ảnh hưởng trực tiếp từ Hội nghị Véc-xai Oa-sinh-tơn => không phù hợp. Hội nghị Véc-xai (1919 - 1920) và Hội nghị Oa-sinh-tơn (1921 - 1922) diễn ra từ sau khi Chiến tranh thế giới thứ hai kết thúc.\n- Phong trào giải phóng dân tộc bắt đầu bùng nổ ở Trung Quốc => trước giai đoạn này đã bùng nổ.\n=> Phong trào cách mạng 1930 - 1931 ở Việt Nam bùng nổ trong bối cảnh lịch sử: chính quyền thực dân tăng cường đàn áp cách mạng.",
+    "passage": null
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Điểm khác biệt cơ bản của phong trào đấu tranh giải phóng dân tộc ở khu vực Mĩ Latinh so với châu Á và châu Phi sau Chiến tranh thế giới thứ hai là gì?",
+    "image": null,
+    "options": ["A. Đối tượng chủ yếu.", "B. Hình thức đấu tranh.", "C. Lực lượng tham gia.", "D. Kết quả đấu tranh."],
+    "correct": 0,
+    "explanation": "Từ sau chiến tranh thế giới thứ hai:\n- Phong trào giải phóng dân tộc khu vực Mĩ Latinh: chống chế độ độc tài (chủ nghĩa thực dân mới).\n- Phong trào giải phóng dân tộc khu vực châu Á, châu Phi: chủ nghĩa thực dân cũ.\n=> Khác về đối tượng đấu tranh chủ yếu.",
+    "passage": null
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Khi để dung dịch muối Mohr trong không khí một thời gian thu được dung dịch X. Trong đó, một phần ion Fe2+ sẽ bị oxi hoá để tạo thành ion Fe3+. Phát biểu nào sau đây là sai?",
+    "image": null,
+    "options": ["A. Có thể nhận biết sự có mặt của ion Fe2+ trong dung dịch X bằng cách nhỏ thêm dung dịch KI chứa vài giọt hồ tinh bột.", "B. Dung dịch X khi phản ứng với dung dịch kali hiđroxit có thể tạo ra cả kết tủa và khí.", "C. Cho một ít bột sắt vào dung dịch X thấy một phần bột sắt bị tan ra.", "D. Nhỏ từ từ đến dư dung dịch X vào dung dịch chứa hỗn hợp kali đicromat và axit sunfuric thấy dung dịch bị mất màu cam."],
+    "correct": 0,
+    "explanation": "(1) Có thể nhận biết sự có mặt của ion Fe2+ trong dung dịch X bằng cách nhỏ thêm dung dịch KI chứa vài giọt hồ tinh bột. Sai. Dung dịch KI/hồ tinh bột dùng để nhận biết sự có mặt của ion Fe3+. 2Fe3+ + 2I- → 2Fe2+ + I2 (I2 sinh ra được nhận biết bằng hồ tinh bột).\n(2) Cho một ít bột sắt vào dung dịch X thấy một phần bột sắt bị tan ra. Đúng. Fe + 2Fe3+ → 3Fe2+\n(3) Dung dịch X khi phản ứng với dung dịch kali hiđroxit có thể tạo ra cả kết tủa và khí. Đúng. Kết tủa Fe(OH)2, Fe(OH)3 và khí NH3.\n(4) Nhỏ từ từ đến dư dung dịch X vào dung dịch chứa hỗn hợp kali đicromat và axit sunfuric thấy dung dịch bị mất màu cam. Đúng. 6Fe2+ + Cr2O7^2- + 14H+ → 6Fe3+ + 2Cr3+ + 7H2O.",
+    "passage": "v-act_de2_cau93-95"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Độ tinh khiết của mẫu muối Mohr trên là",
+    "image": null,
+    "options": ["A. 95%.", "B. 97%.", "C. 98%.", "D. 96%."],
+    "correct": 2,
+    "explanation": "n(KMnO4) = 0,01 * 10 = 0,1 mmol. 5Fe2+ + MnO4^- + 8H+ → 5Fe3+ + Mn2+ + 4H2O. 0,5 mmol ← 0,1 mmol. n(Fe2+) = n((NH4)2Fe(SO4)2.6H2O) = 0,5 mmol. Độ tinh khiết của mẫu: (0,5 × 10^-3 × 392) / 0,2 × 100 = 98%.",
+    "passage": "v-act_de2_cau93-95"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Phát biểu nào sau đây là đúng khi nói về thí nghiệm được sử dụng trong phần trên?",
+    "image": null,
+    "options": ["A. Màu hồng nhạt thu được khi kết thúc thí nghiệm là màu của ion Mn2+.", "B. Có thể thay dung dịch H2SO4 bằng dung dịch HCl với tỉ lệ tương đương.", "C. Dung dịch H2SO4 được thêm vào để tạo môi trường axit, giúp phản ứng xảy ra theo hướng tạo ra ion Mn2+.", "D. Thí nghiệm này được sử dụng để xác định nồng độ của ion Fe3+ có trong dung dịch A."],
+    "correct": 2,
+    "explanation": "(1) Thí nghiệm này được sử dụng để xác định nồng độ của ion Fe3+ có trong dung dịch A. Sai. Thí nghiệm được dùng để xác định nồng độ của ion Fe2+ có trong dung dịch.\n(2) Dung dịch H2SO4 được thêm vào để tạo môi trường axit, giúp phản ứng xảy ra theo hướng tạo ra ion Mn2+. Đúng. Trong môi trường axit, ion MnO4- (màu tím) bị khử về ion Mn2+ (không màu), giúp dễ dàng quan sát điểm kết thúc phản ứng.\n(3) Có thể thay dung dịch H2SO4 bằng dung dịch HCl với tỉ lệ tương đương. Sai. Không thể thay thế được bằng dung dịch HCl, do ion Cl- có thể bị oxi hoá bởi MnO4- gây ra sai số thí nghiệm.\n(4) Màu hồng nhạt thu được khi kết thúc thí nghiệm là màu của ion Mn2+. Sai. Màu hồng nhạt khi kết thúc phản ứng là màu của ion MnO4- dư.",
+    "passage": "v-act_de2_cau93-95"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Khi ăn một bát cơm có khối lượng 100,0 gam (chứa khoảng 28,2% tinh bột về khối lượng) thì có thể cung cấp được cho cơ thể bao nhiêu năng lượng?",
+    "image": null,
+    "options": ["A. 1024,4 kJ.", "B. 488,0 kJ.", "C. 1420,5 kJ.", "D. 510,3 kJ."],
+    "correct": 1,
+    "explanation": "(C6H10O5)n + nH2O → nC6H12O6. Oxi hoá 1 mol glucozơ toả ra 2804,0 kJ. → Oxi hoá 0,174 mol glucozơ toả ra 488,0 kJ.",
+    "passage": "v-act_de2_cau96-98"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Một người thợ xây trong buổi sáng kéo được 500 kg vật liệu xây dựng lên tầng cao 10 m. Để bù vào năng lượng đã tiêu hao, người đó cần uống cốc nước hoà tan m gam glucozơ. Giá trị của m là",
+    "image": null,
+    "options": ["A. 5,92.", "B. 4,52.", "C. 2,78.", "D. 3,15."],
+    "correct": 3,
+    "explanation": "Năng lượng người thợ đã tiêu hao: 500 × 9,8 × 10 = 49000 J = 49 kJ. Khối lượng glucozơ cần nạp: (49 × 180) / 2804,8 = 3,15 gam.",
+    "passage": "v-act_de2_cau96-98"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Cho các phát biểu sau về glucozơ:\n(1) Trong công nghiệp dược phẩm, glucozơ là được dùng để làm thuốc tăng lực cho người già và trẻ em.\n(2) Glucozơ là sản phẩm trung gian để điều chế ancol etylic từ tinh bột hoặc xenlulozơ.\n(3) Sự thiếu hụt glucozơ trong máu có thể dẫn đến bệnh tiểu đường.\n(4) Glucozơ có nhiều trong củ cải đường, nên được gọi là đường mía.\n(5) Người hiến máu thường được uống nước đường để bù lại lượng glucozơ bị mất đi trong quá trình hiến máu.\nSố phát biểu đúng là",
+    "image": null,
+    "options": ["A. 3.", "B. 2.", "C. 5.", "D. 4."],
+    "correct": 0,
+    "explanation": "(1) Đúng.\n(2) Đúng.\n(3) Sai. Sự thiếu hụt glucozơ trong máu có thể dẫn đến hạ đường huyết.\n(4) Sai. Glucozơ có nhiều trong quả nho chín, nên được gọi là đường nho.\n(5) Đúng.",
+    "passage": "v-act_de2_cau96-98"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Hiện tượng cộng hưởng cơ học xảy ra khi nào?",
+    "image": null,
+    "options": ["A. Biên độ của lực cưỡng bức bằng biên độ dao động riêng.", "B. Tần số của lực cưỡng bức bằng tần số riêng của hệ.", "C. Lực cưỡng bức lớn hơn một giá trị nào đó.", "D. Tần số của lực cưỡng bức lớn hơn nhiều tần số riêng của hệ."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de2_cau99-101"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Phát biểu nào sau đây không đúng về hiện tượng cộng hưởng?",
+    "image": null,
+    "options": ["A. Một vật đang dao động cơ thì xảy ra cộng hưởng, vật sẽ tiếp tục dao động với tần số bằng tần số riêng của hệ.", "B. Khi xây dựng một toà nhà phải đảm bảo toà nhà ấy không chịu tác dụng của lực cưỡng bức có tần số bằng tần số dao động riêng của toà nhà.", "C. Bộ đội không đi đều bước khi qua cầu để tránh tạo ra lực quá lớn làm sập cầu.", "D. Các cây cầu cần có tần số dao động riêng khác với tần số mà gió bão có thể tạo ra trên cầu để tránh hiện tượng cộng hưởng xảy ra."],
+    "correct": 2,
+    "explanation": "Theo đoạn thông tin đầu tiên, một cây cầu được thiết kế và xây dựng đủ vững chắc cho 300 người đồng thời đứng trên cầu nhưng chỉ một trung đội bộ binh (36 người) đi đều bước qua chiếc cầu đã làm cho chiếc cầu bị sập. Nguyên nhân là do hiện tượng cộng hưởng, không phải do lực tác động gây ra quá lớn.",
+    "passage": "v-act_de2_cau99-101"
+  },
+  {
+    "id": 101,
+    "question": "Câu 101: Một người đi xe đạp chở một thùng nước đi trên đường, cứ 5 m lại có một rãnh nhỏ. Khi người đó đi với vận tốc 14,4 km/h thì nước bị sóng sánh mạnh nhất và văng tung toé. Chu kì dao động riêng của nước trong thùng là",
+    "image": null,
+    "options": ["A. 1,25 s.", "B. 4 s.", "C. 1 s.", "D. 5 s."],
+    "correct": 0,
+    "explanation": "Ở 14,4 km/h = 4 m/s. Khi có hiện tượng cộng hưởng xảy ra thì nước bị văng mạnh nhất. T = T0 ⇒ s/v = T0 ⇒ T0 = 5/4 = 1,25 (s).",
+    "passage": "v-act_de2_cau99-101"
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Khi tăng hiệu điện thế nơi truyền đi lên 50 lần thì công suất hao phí trên đường dây",
+    "image": null,
+    "options": ["A. tăng 2500 lần.", "B. giảm 2500 lần.", "C. tăng 50 lần.", "D. giảm 50 lần."],
+    "correct": 1,
+    "explanation": "Công suất hao phí trên đường dây được tính theo công thức: P_hp = I².R = (P²/U²).R. Do đó khi hiệu điện thế tăng 50 lần thì công suất hao phí giảm 50² = 2500 lần.",
+    "passage": "v-act_de2_cau102-103"
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Người ta truyền tải dòng điện xoay chiều một pha từ nhà máy đến nơi tiêu thụ. Khi điện áp ở nhà máy điện là 12 kV thì hiệu suất truyền tải là 68%. Để hiệu suất truyền tải là 92% thì điện áp ở nhà máy điện là",
+    "image": null,
+    "options": ["A. 32 kV.", "B. 48 kV.", "C. 24 kV.", "D. 16 kV."],
+    "correct": 2,
+    "explanation": "Ta có: H1 = (P - ΔP)/P = 1 - (P.R)/(U1².cos²φ) = 0,68 ⇒ (P.R)/(U1².cos²φ) = 0,32. Tương tự: H2 = 1 - (P.R)/(U2².cos²φ) = 0,92 ⇒ (P.R)/(U2².cos²φ) = 0,08. Do đó U2/U1 = 2 ⇒ U2 = 24(kV).",
+    "passage": "v-act_de2_cau102-103"
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Tia nào sau đây không phải tia phóng xạ?",
+    "image": null,
+    "options": ["A. Tia γ.", "B. Tia α.", "C. Tia X.", "D. Tia β+."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de2_cau104-106"
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Chất phóng xạ ¹³¹I có chu kì phóng xạ là 8 ngày. Lúc đầu có 200 g chất này, sau 24 ngày, lượng ¹³¹I đã phóng xạ thành chất khác là",
+    "image": null,
+    "options": ["A. 150 g.", "B. 175 g.", "C. 25 g.", "D. 50 g."],
+    "correct": 1,
+    "explanation": "Khối lượng chất phóng xạ còn lại sau 24 ngày là: m = m0 / 2^(t/T) = 25 (g). Khối lượng chất phóng xạ đã thành chất khác là: Δm = m0 - m = 175 (g).",
+    "passage": "v-act_de2_cau104-106"
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Một bệnh nhân được chiếu xạ với một liều xác định nào đó từ một nguồn phóng xạ. Khi nguồn được sử dụng lần đầu thì thời gian cho một lần chiếu xạ là 15 phút. Biết nguồn phóng xạ có chu kì bán rã là 5,25 năm. Hỏi sau 2 năm thì thời gian cho một lần chiếu xạ là bao nhiêu?",
+    "image": null,
+    "options": ["A. 12,5 phút.", "B. 24 phút.", "C. 30 phút.", "D. 19,5 phút."],
+    "correct": 3,
+    "explanation": "Ta có: T = 5,25 năm, t = 2 năm, t1 = 15. Số hạt phóng xạ phân rã sau thời gian t là: ΔN = N0(1 - 2^(-t/T)). Số hạt phóng xạ còn lại sau 2 năm là: N = N0.2^(-t/T). Mà ΔN1/ΔN2 = t1/t2. Thay số được t2 = 19,5 phút.",
+    "passage": "v-act_de2_cau104-106"
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Quần thể nào có sự thích nghi tốt nhất ở nhiệt độ 23°C?",
+    "image": null,
+    "options": ["A. Quần thể I.", "B. Quần thể II.", "C. Quần thể III.", "D. Quần thể IV."],
+    "correct": 1,
+    "explanation": "Ở nhiệt độ 23°C, quần thể II có tốc độ sinh trưởng cao nhất. → Quần thể II thích nghi tốt nhất ở nhiệt độ 23°C.",
+    "passage": "v-act_de2_cau107-109"
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Tốc độ sinh trưởng của quần thể nào phụ thuộc nhiều nhất đối với nhiệt độ trong khoảng giới hạn nhiệt từ 35°C đến 40°C?",
+    "image": null,
+    "options": ["A. Quần thể I.", "B. Quần thể II.", "C. Quần thể III.", "D. Quần thể IV."],
+    "correct": 3,
+    "explanation": "Trong khoảng giới hạn nhiệt từ 35°C đến 40°C, quần thể IV dao động nhiều nhất nên quần thể này phụ thuộc vào nhiệt độ nhất.",
+    "passage": "v-act_de2_cau107-109"
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Nếu bốn quần thể vi khuẩn trên được trộn lẫn vào nhau và nuôi ở 10°C, điều gì sau đây có khả năng xảy ra nhất?",
+    "image": null,
+    "options": ["A. Chỉ có vi khuẩn của quần thể I có thể sống sót.", "B. Chỉ có vi khuẩn của quần thể IV bị chết.", "C. Vi khuẩn của quần thể I và II có thể sống sót.", "D. Toàn bộ vi khuẩn của bốn quần thể đều bị chết."],
+    "correct": 0,
+    "explanation": "10°C nằm ngoài giới hạn nhiệt của các vi khuẩn thuộc quần thể II, III và IV, trong khi đó lại là nhiệt độ mà các vi khuẩn ở quần thể I có thể tồn tại được.",
+    "passage": "v-act_de2_cau107-109"
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Nguyên nhân chính gây ra biến đổi khí hậu ở thế kỷ 21 là",
+    "image": null,
+    "options": ["A. sự phát triển của công nghiệp, giao thông vận tải.", "B. do trái đất ngày càng di chuyển lại gần mặt trời chịu tác động của từ trường.", "C. do các cuộc cháy rừng tạo ra nhiều khí CO2.", "D. các nhà máy, xí nghiệp xả thải các chất khí độc hại ra môi trường."],
+    "correct": 0,
+    "explanation": "Nguyên nhân chính gây ra biến đổi khí hậu là do hiệu ứng nhà kính. Trong quá trình phát triển công nghiệp, hoạt động giao thông vận tải... con người đã liên tục xả khói bụi, khí SO2, NO2, CO, CO2,…ra môi trường. Những loại khí này có tác dụng giữ nhiệt, gây ra hiện tượng hiệu ứng nhà kính, khiến nhiệt độ Trái Đất ngày một tăng cao.",
+    "passage": "v-act_de2_cau110-112"
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Tại sao nhiều tổ chức quốc tế đánh giá khu vực duyên hải miền Trung là một trong những điểm nóng về thiên tai?",
+    "image": null,
+    "options": ["A. Chịu tác động của gió phơn Tây Nam, hiện tượng El Nino và La Nina.", "B. Chịu tác động của gió mùa mùa hạ, hiện tượng El Nino và La Nina.", "C. Chịu tác động của gió biển, hiện tượng El Nino và La Nina.", "D. Chịu tác động của gió mùa đông bắc, hiện tượng El Nino và La Nina."],
+    "correct": 0,
+    "explanation": "Bão chỉ có thể hình thành khi có đủ 3 điều kiện: Nhiệt, ẩm và động lực để tạo xoáy. Thời gian hoạt động chính trong năm của bão, áp thấp nhiệt đới là vào mùa Hè và mùa Thu: Từ tháng 6 đến tháng 11 (ở Bắc Bán Cầu) và tháng 12 đến tháng 3 năm sau (ở Nam Bán Cầu), bão xuất hiện nhiều nhất vào mùa Hè và mùa Thu, vì vào thời gian này có đầy đủ các điều kiện thuận lợi nhất cho sự hình thành và phát triển của bão: Nhiệt độ nước biển cao (ít nhất là từ 26°C trở lên), khí quyển vùng nhiệt đới khá thuận lợi cho sự phát triển đối lưu và chuyển động xoáy qui mô lớn xảy ra khá mạnh mẽ. Bão hình thành ở các vùng nhiệt đới vì hiện tượng thiên nhiên này cần một dòng nước rất nóng, tối thiểu là 26 độ ở độ sâu ít nhất là 50m. Bão thường hình thành gần đường xích đạo và có khuynh hướng đi về 2 cực của trái đất, càng đi xa vận tốc càng lớn nên ở vùng gần đường xích đạo thường ít chịu ảnh hưởng từ những cơn bão. Thực chất bão là một cách \"xả nhiệt\" cho đại dương. Hầu hết bão thường đi men theo rìa các áp cao và chịu lực hút từ các vùng áp thấp. Ở nước ta, những tháng mặt nước biển chứa nhiều năng lượng nhất (tháng 7,8,9) rãnh thấp thường nằm vắt ngang miền Trung nên bão cũng thường theo đường đó mà đi. Miền Trung là nơi có thời tiết khắc nghiệt khi phải hứng chịu gió phơn Tây Nam. Gió này mang hơi ẩm nhiều (do đi qua biển Ấn Độ Dương), nên thường gây ra mưa. Do bị gió phơn ảnh hưởng, nên khi bão hình thành ở biển Đông, sẽ bị gió đẩy lên trên phía bắc. Càng về các tháng sau gió càng yếu nên bão có xu hướng dịch chuyển dần về miền Trung. Hàng năm những trận bão biển và gió mùa Đông Bắc thường gây nên những trận mưa lớn ở miền Trung. Hơn thế nữa, những biến đổi thời tiết trên toàn thế giới như dòng nước El Nino và La Nina cũng khiến những trận bão biển, mưa lớn xảy ra khốc liệt hơn.",
+    "passage": "v-act_de2_cau110-112"
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Tại sao trong thế kỉ 21 biến đổi khí hậu lại là một trong những thách thức lớn nhất của nhân loại?",
+    "image": null,
+    "options": ["A. Gây ra hiện tượng băng tan, tác động trực tiếp đến lãnh thổ một số quốc gia.", "B. Biến đổi khí hậu làm thay đổi thời tiết giữa các vùng.", "C. Ảnh hưởng đến đời sống, sản xuất và môi trường ở quy mô toàn cầu.", "D. Biến đổi khí hậu làm trái đất nóng lên nguy cơ thủng tầng ô-dôn."],
+    "correct": 2,
+    "explanation": "Dựa vào câu 2 trong bài báo: biến đổi khí hậu (BĐKH) sẽ ảnh hưởng đến đời sống, sản xuất và môi trường ở quy mô toàn cầu. Nó cũng dẫn đến sự tăng nhiệt độ và một trong những hậu quả là làm nước biển dâng cao, góp phần làm giảm diện tích đất nông nghiệp ở những vùng đất ven biển.",
+    "passage": "v-act_de2_cau110-112"
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Các hướng gió chủ yếu có thể tận dụng để phát triển điện gió ngoài khơi bao gồm",
+    "image": null,
+    "options": ["A. Đông Bắc và Tây Nam.", "B. Đông Nam và Đông Bắc.", "C. Tây Bắc và Tây Nam.", "D. Tây Bắc và Đông Nam."],
+    "correct": 0,
+    "explanation": "Hướng gió mùa ở nước ta là gió mùa mùa hạ có hướng tây nam (hướng đông nam ở khu vực đồng bằng Bắc Bộ), còn gió mùa mùa đông có hướng đông bắc.",
+    "passage": "v-act_de2_cau113-115"
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Dựa vào hiểu biết của anh/chị quốc gia nào ở Đông Nam Á lục địa không có tiềm năng điện gió ngoài khơi?",
+    "image": null,
+    "options": ["A. Lào.", "B. Việt Nam.", "C. Thái Lan.", "D. Ma-lai-xi-a."],
+    "correct": 0,
+    "explanation": "Điện gió ngoài khơi là điện năng được sinh ra từ gió biển, để phát triển điện gió điều kiện đầu tiên là phải giáp biển tuy nhiên, do vị trí địa lý Lào không tiếp giáp biển nên Lào là quốc gia không có tiềm năng điện gió ngoài khơi.",
+    "passage": "v-act_de2_cau113-115"
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Tại sao Việt Nam lại có tiềm năng điện gió ngoài khơi lớn ở khu vực Đông Nam Á?",
+    "image": null,
+    "options": ["A. Có đường bờ biển dài và gió thổi quanh năm.", "B. Chịu tác động của gió phơn Tây Nam, hiện tượng El Nino và La Nina.", "C. Có đường bờ biển dài và tốc độ gió thổi mạnh.", "D. Chịu ảnh hưởng áp thấp nhiệt đới hàng năm nên tốc độ gió mạnh."],
+    "correct": 2,
+    "explanation": "Với hơn 3.000 km bờ biển và một số khu vực có tiềm năng điện gió lớn ở Đông Nam Á, Việt Nam được coi là thị trường triển vọng cho điện gió ngoài khơi. Ở vùng biển Nam Trung Bộ và phía Bắc, tốc độ gió trung bình hàng năm ở độ cao 100 m là 9-10 m/s, hệ số công suất lớn hơn 50% và mật độ năng lượng hàng năm lớn hơn 50 GWh/km².",
+    "passage": "v-act_de2_cau113-115"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Nguyên nhân chủ yếu dẫn đến sự thất bại của cuộc kháng chiến chống Pháp cuối thế kỉ XIX là gì?",
+    "image": null,
+    "options": ["A. Quần chúng nhân dân và triều đình chưa đủ tinh thần và sức mạnh để kháng chiến chống Pháp.", "B. Pháp đã liên quân với Tây Ban Nha cùng tấn công xâm lược Việt Nam.", "C. Thiếu đi một lực lượng xã hội tiên tiến, có đủ năng lực để lãnh đạo cuộc kháng chiến.", "D. Triều đình nhà Nguyễn nhu nhược, chấp nhận đầu hàng hoàn toàn Pháp."],
+    "correct": 2,
+    "explanation": "Nguyên nhân cơ bản nhất dẫn đến thất bại của cuộc kháng chiến chống Pháp cuối thế kỉ XIX là: thiếu một lực lượng xã hội tiên tiến và có đủ năng lực để lãnh đạo phong trào, đây cũng là hạn chế chung cho tất cả các phong trào đấu tranh thời kì này. => Điều này thể hiện sự khủng hoảng về đường lối và giai cấp lãnh đạo cuộc kháng chiến chống Pháp.",
+    "passage": "v-act_de2_cau116-118"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Cuộc đánh chiếm Bắc Kì lần thứ hai của Pháp (1882 – 1883) có điểm khác biệt cơ bản nào so với cuộc đánh đánh chiếm Bắc Kì lần thứ nhất (1873)?",
+    "image": null,
+    "options": ["A. Gặp phải những tổn thất nặng nề, đặc biệt là trận phục kích quân Pháp của quân dân ta ở Cầu Giấy.", "B. Pháp ép triều đình nhà Nguyễn phải kí các hiệp ước đầu hàng để nhanh chóng chiếm được Bắc Kì.", "C. Pháp lợi dụng sự nhu nhược của triều đình nhà Nguyễn, sử dụng các thủ đoạn về chính trị - kinh tế để thực hiện âm mưu quân sự.", "D. Pháp âm mưu thôn tính toàn bộ Việt Nam, vơ vét cạn kiệt nguồn tài nguyên."],
+    "correct": 1,
+    "explanation": "- Điểm khác biệt của cuộc đánh chiếm Bắc Kì lần thứ hai của Pháp (1882 – 1883) so với cuộc đánh đánh chiếm Bắc Kì lần thứ nhất (1873) là: Pháp ép triều đình nhà Nguyễn phải kí các hiệp ước đầu hàng để nhanh chóng chiếm được Bắc Kì. => Với âm mưu xâm lược toàn bộ Việt Nam, Pháp đã ráo riết tiến hành tấn công Bắc Kì lần thứ hai. Pháp và triều đình Nguyễn đã kí hai bản Hiệp ước Hắc-măng (1883) và Pa-tơ-nốt (1884) với những điều khoản \"trắng trợn\" nhằm đạt được mục đích biến Việt Nam trở thành thuộc địa của Pháp.\n- Các phương án khác đều đúng với cả cuộc đánh chiếm Bắc kì lần thứ nhất và lần thứ hai.",
+    "passage": "v-act_de2_cau116-118"
+  },
+  {
+    "id": 118,
+    "question": "Câu 118: Thực dân Pháp quyết định tấn công vào Kinh thành Huế (năm 1883) nhằm mục đích gì?",
+    "image": null,
+    "options": ["A. Buộc triều đình Nguyễn mở thêm cửa biển Thuận An cho Pháp vào buôn bán.", "B. Buộc triều đình Nguyễn phải đầu hàng, kết thúc chiến tranh xâm lược.", "C. Tạo bàn đạp để Pháp xâm chiếm nốt ba tỉnh miền Đông Nam Kì.", "D. Buộc triều đình Nguyễn cắt thành Hà Nội cho Pháp."],
+    "correct": 1,
+    "explanation": "Thực dân Pháp quyết định tấn công vào Kinh thành Huế (năm 1883) nhằm buộc triều đình Nguyễn phải đầu hàng, kết thúc chiến tranh xâm lược.",
+    "passage": "v-act_de2_cau116-118"
+  },
+  {
+    "id": 119,
+    "question": "Câu 119: Chiến tranh lạnh chấm dứt đã có tác động tích cực như thế nào đến tình hình thế giới?",
+    "image": null,
+    "options": ["A. Khiến các tổ chức chính trị - quân sự trên thế giới đều bị giải thể.", "B. Hình thành trật tự thế giới mới theo xu hướng “đa cực, nhiều trung tâm”.", "C. Làm cho phạm vi ảnh hưởng của Mĩ và Liên Xô trên thế giới đều bị thu hẹp.", "D. Mở ra xu hướng giải quyết hòa bình đối với các vụ tranh chấp, xung đột."],
+    "correct": 3,
+    "explanation": "Tháng 12-1989, hai nhà lãnh đạo Liên Xô và Mĩ đã chính thức cùng tuyên bố chấm dứt Chiến tranh lạnh Chiến tranh lạnh chấm dứt đã mở ra chiều hướng và điều kiện giải quyết hòa bình các vụ tranh chấp xung đột diễn ra ở nhiều khu vực thế giới như Apganistan, Campuchia, Namibia, ... => Mở ra xu hướng giải quyết hòa bình với các vụ tranh chấp, xung đột.",
+    "passage": "v-act_de2_cau119-120"
+  },
+  {
+    "id": 120,
+    "question": "Câu 120: Nội dung nào sau đây đã phản ánh đúng về “mảng tối” từ tác động của cuộc chiến tranh lạnh đến tình hình thế giới?",
+    "image": null,
+    "options": ["A. Mâu thuẫn giữa hai phe tư bản chủ nghĩa và xã hội chủ nghĩa do hai siêu cường Mĩ, Liên Xô đứng đầu tiếp tục phát triển.", "B. Các cuộc xung đột do những mâu thuẫn về sắc tộc, tôn giáo và tranh chấp lãnh thổ vẫn diễn ra ở nhiều khu vực trên thế giới.", "C. Mâu thuẫn giữa Mĩ - Liên Xô tiếp tục phát triển dẫn đến các cuộc chiến tranh thương mại kéo dài.", "D. Nền kinh tế của nhiều quốc gia, dân tộc trên thế giới vẫn còn chịu ảnh hưởng nặng nề do hậu quả của cuộc chiến tranh lạnh."],
+    "correct": 1,
+    "explanation": "Sau chiến tranh lạnh, hòa bình trên thế giới đã được củng cố nhưng ở nhiều khu vực tình hình lại không ổn định với những cuộc nội chiến, xung đột quân sự đẫm máu kéo dài => Đây chính là \"mảng tối\" từ tác động của Chiến tranh tranh lạnh.",
+    "passage": "v-act_de2_cau119-120"
+  }
+]
