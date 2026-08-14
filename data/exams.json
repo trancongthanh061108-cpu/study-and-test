@@ -5,6 +5,25 @@
     "name": "V-ACT - ĐỀ 1",
     "time": 150,
     "questions": 120, "kyThi": "vact"
+  },{
+    "id": "vact_de_5",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 5",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },{
+    "id": "vact_de_6",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 6",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_7",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 7",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
   },
   {
     "id": "hsa_kh_1",
