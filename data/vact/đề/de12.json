@@ -1,0 +1,1083 @@
+
+[
+  {
+    "id": 1,
+    "question": "Câu 1: Phần gạch chân trong câu văn: “Nhưng còn cái này nữa mà ông sợ, có lẽ còn ghê rợn hơn cả những tiếng kia nhiều”, là thành phần nào của câu?",
+    "image": null,
+    "options": ["A. Thành phần tình thái", "B. Thành phần gọi – đáp", "C. Thành phần cảm thán", "D. Thành phần phụ chú."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Truyện Tam đại con gà thuộc thể loại truyện dân gian nào?",
+    "image": null,
+    "options": ["A. Truyền thuyết", "B. Truyện cười", "C. Truyện cổ tích", "D. Sử thi"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Chọn từ đúng dưới đây để điền vào chỗ trống: “No cơm ấm....”",
+    "image": null,
+    "options": ["A. Lòng", "B. Bụng", "C. Dạ", "D. Cật"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: “Ngoài song thở thể oanh vàng/Nách tường bông liễu bay sang láng giềng.” (Truyện Kiều – Nguyễn Du). Từ nào trong câu thơ trên được dùng với nghĩa chuyển?",
+    "image": null,
+    "options": ["A. Bông liễu.", "B. Nách tường.", "C. Láng giềng.", "D. Oanh vàng."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Điền vào chỗ trống trong câu thơ: “Nhà em có một giàn giầu, / Nhà anh có một ... liên phòng” (Tương tư – Nguyễn Bính)",
+    "image": null,
+    "options": ["A. Hàng tre", "B. Hàng chuối", "C. Hàng mơ", "D. Hàng cau"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: “Anh dắt em qua cầu/ Cởi áo đưa cho nhau/ Nhớ về nhà dối mẹ/ Gió bay rồi còn đâu.” (Làng quan họ, Nguyễn Phan Hách). Đoạn thơ trên thuộc dòng thơ:",
+    "image": null,
+    "options": ["A. Dân gian.", "B. Trung đại.", "C. Thơ Mới.", "D. Thơ hiện đại."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: “Từ ấy trong tôi bừng nắng hạ/ Mặt trời chân lí chói qua tim” (Từ ấy, Tố Hữu) thuộc dòng thơ:",
+    "image": null,
+    "options": ["A. Dân gian.", "B. Trung đại.", "C. Thơ Mới.", "D. Cách mạng."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Dòng nào sau đây nêu chính xác các từ láy?",
+    "image": null,
+    "options": ["A. Xinh xinh, thấp thoáng, buôn bán, bạn bè.", "B. Tươi tắn, đẹp đẽ, xa xôi, tươi tốt.", "C. Đỏ đen, lom khom, ầm ầm, xanh xanh.", "D. Lấp lánh, lung linh, lao xao, xào xạc."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Chọn từ viết sai chính tả trong các từ sau:",
+    "image": null,
+    "options": ["A. Lãng mạn", "B. Sáng lạng", "C. Xuất sắc", "D. Trau chuốt"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Từ nào bị sử dụng sai trong câu sau: “Mặc cho bom rơi đạn lạc, người chiến sĩ vẫn ngang nhiên cầm súng xông ra chiến trường.”",
+    "image": null,
+    "options": ["A. xông ra.", "B. người chiến sĩ.", "C. ngang nhiên.", "D. đạn lạc."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Phát hiện lỗi sai trong câu sau: Năm 1945, với sự thành công của Cách mạng tháng Tám, đã được đổi tên thành cầu Long Biên.",
+    "image": null,
+    "options": ["A. Sai về nghĩa", "B. Thiếu chủ ngữ", "C. Thiếu cả vị ngữ và chủ ngữ", "D. Thiếu vị ngữ"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: “Thạch Lam (1910 – 1942) tên khai sinh là Nguyễn Tường Vĩnh (sau đổi thành Nguyễn Tường Lân), sinh tại Hà Nội, trong một gia đình công chức gốc quan lại... Thạch Lam là một người đôn hậu và rất đối tinh tế. Ông có quan niệm văn chương lành mạnh, tiến bộ và có biệt tài về truyện ngắn. Ông thường viết những truyện không có chuyện, chủ yếu khai thác thế giới nội tâm của nhân vật với những cảm xúc mong manh, mơ hồ trong cuộc sống hàng ngày.” (SGK Ngữ văn 11, tập hai, NXB Giáo dục, tr.94). Đặt trong ngữ cảnh của cả đoạn, chữ “tinh tế” có nghĩa là:",
+    "image": null,
+    "options": ["A. Nhạy cảm, tế nhị, có khả năng đi sâu vào những chi tiết rất nhỏ, rất sâu sắc.", "B. Tư chất nghệ sĩ.", "C. Sự không chuyên, thiếu cố gắng.", "D. Thấu hiểu sự đời."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: “Rõ ràng là bằng mắt phải anh vẫn thấy hiện lên một cánh chim én chao đi chao lại. Mùa xuân đã đến rồi.” (Trên quê hương những anh hùng Điện Ngọc, Nguyễn Trung Thành). Nhận xét về phép liên kết của hai câu văn trên.",
+    "image": null,
+    "options": ["A. Hai câu trên sử dụng phép liên tưởng.", "B. Hai câu trên không sử dụng phép liên kết.", "C. Hai câu trên sử dụng phép liên kết đối.", "D. Hai câu trên sử dụng phép liên kết lập."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: “Nhân dịp ông đi công tác ở các tỉnh miền Trung và Tây Nguyên để chuẩn bị cho việc xây dựng một số tuyến đường giao thông theo dự án.” Đây là câu:",
+    "image": null,
+    "options": ["A. thiếu chủ ngữ.", "B. thiếu vị ngữ.", "C. thiếu chủ ngữ và vị ngữ.", "D. sai logic."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Trong các câu sau:\nI. Trong ba ngày, lượng mưa kéo dài gây ra hiện tượng ngập úng ở nhiều khu vực.\nII. Chí Phèo là hình tượng điển hình cho người nông dân bị tha hóa do nhà văn Nam Cao xây dựng trong tác phẩm cùng tên.\nIII. Ông lão nhìn con chó, đuôi vẫy lia lịa.\nIV. Tối hôm ấy, theo đúng hẹn, tôi đến nhà anh ấy chơi.\nNhững câu nào mắc lỗi?",
+    "image": null,
+    "options": ["A. I và II.", "B. III và IV.", "C. I và III.", "D. II và IV."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Phương thức biểu đạt chính của văn bản là:",
+    "image": null,
+    "options": ["A. Tự sự", "B. Miêu tả", "C. Nghị luận", "D. Thuyết minh"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau16-20"
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Phong cách ngôn ngữ của văn bản là:",
+    "image": null,
+    "options": ["A. Sinh hoạt.", "B. Chính luận.", "C. Nghệ thuật.", "D. Báo chí."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau16-20"
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Theo tác giả, cái gì là đích đến mà chúng ta đều phải tới?",
+    "image": null,
+    "options": ["A. Cái chết", "B. Sự sống", "C. Thành công", "D. Trưởng thành"],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau16-20"
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Từ “thứ yếu” trong câu văn “Mọi thứ khác đều chỉ là thứ yếu...” có nghĩa là:",
+    "image": null,
+    "options": ["A. Quan trọng", "B. Cấp bách", "C. Cần thiết", "D. Không quan trọng lắm"],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau16-20"
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Chủ đề chính của đoạn văn là:",
+    "image": null,
+    "options": ["A. Cuộc sống là không chờ đợi", "B. Cần sáng tạo không ngừng trong cuộc sống", "C. Mọi thành công cần trải qua nỗ lực", "D. Chấp nhận thủ tiêu những yếu tố lạc hậu, cũ kĩ để tự đổi mới, sáng tạo không ngừng. Đủ niềm tin để làm việc mình muốn, sống là chính mình."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau16-20"
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Susan has achieved great ______ in her career thanks to her hard work.",
+    "image": null,
+    "options": ["A. success", "B. succeed", "C. successful", "D. successfully"],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Only after he ______ the job as a computer programmer did he realise how much he loved it.",
+    "image": null,
+    "options": ["A. has left", "B. had left", "C. was leaving", "D. would leave"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: He promised ______ his daughter a new bicycle as a birthday present.",
+    "image": null,
+    "options": ["A. buy", "B. to buy", "C. on buying", "D. at buying"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: I feel sorry for her. She has ______ friends.",
+    "image": null,
+    "options": ["A. many", "B. a few", "C. few", "D. a great deal of"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: The number of people isolated from corona virus in Vietnam as of March 9 is ______ than that of last week due to the infection from Ms. N.",
+    "image": null,
+    "options": ["A. largest", "B. larger", "C. large", "D. more large"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Parents' choice for their children's names are based on names of their relatives or ancestors.",
+    "image": null,
+    "options": ["A. Parents'", "B. for", "C. are", "D. or"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: From 15:00 today (March 15), a RON95-III gasoline decreased by VND 2,315/liter after the stabilization fund was applied.",
+    "image": null,
+    "options": ["A. From", "B. a", "C. decreased", "D. after"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Apple has made an unprecedented decision in the company's history to close all Apple Store stores across the globe, except for mainland China, that the Covid-19 virus originated.",
+    "image": null,
+    "options": ["A. has made", "B. company's", "C. except for", "D. that"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: The Hanoi Radio and Television Station said that it will coordinate with the Hanoi Police Department to verify cases of students' comments with obscene content during the television livestreams and will send notices to his school.",
+    "image": null,
+    "options": ["A. will coordinate", "B. students'", "C. during", "D. his"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: You and me have to finish this before noon.",
+    "image": null,
+    "options": ["A. You", "B. me", "C. have to", "D. before"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: You are in this mess now because you didn't listen to me in the first place.",
+    "image": null,
+    "options": ["A. If you listened to my advice in the first place, you wouldn't be in this mess now.", "B. If you listen to my advice in the first place, you will not be in this mess now.", "C. If you had listened to my advice in the first place, you wouldn't be in this mess now.", "D. If you had listened to my advice in the first place, you wouldn't have been in this mess now."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: When the unemployment rate is high, the crime rate is usually also high.",
+    "image": null,
+    "options": ["A. The unemployment rate is as high as the crime rate.", "B. The high rate of unemployment depends on the high rate of crime.", "C. The higher the unemployment rate is, the higher the crime rate is.", "D. The unemployment rate and the crime rate are both higher."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: You should have persuaded him to change his mind.",
+    "image": null,
+    "options": ["A. You should persuade him to change his mind.", "B. You didn't persuade him to because of his mind.", "C. It was essential to persuade him to change his mind but you didn't.", "D. You persuaded him to change his mind but he didn't listen."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: \"I'll call you as soon as I arrive at the airport,\" he said to me.",
+    "image": null,
+    "options": ["A. He promised to call me as soon as he arrived at the airport.", "B. He denied calling me as soon as he arrived at the airport.", "C. He reminded me to call him as soon as he arrived at the airport.", "D. He objected to calling me as soon as he arrived at the airport."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: \"You must never play truant again,\" said their mother.",
+    "image": null,
+    "options": ["A. Their mother forbade them from playing truant again.", "B. They are not allowed to play truant ever again by their mother.", "C. Their mother commanded that they should not play truant again.", "D. Never would their mother allow them to play truant again."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: Which best serves as the title for the passage?",
+    "image": null,
+    "options": ["A. Daily Life in Norwich", "B. Holidays in Norwich", "C. A Destination Guide to England", "D. England's Famous Cities"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau36-40"
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: The word \"it\" in paragraph 2 refers to ______.",
+    "image": null,
+    "options": ["A. the Beeches Hotel", "B. the city centre", "C. selection", "D. Norwich"],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau36-40"
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: According to paragraph 2, which is NOT part of \"Fire from Heaven\"?",
+    "image": null,
+    "options": ["A. A laser light show", "B. A campfire", "C. A carnival", "D. A fireworks display"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau36-40"
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: The word \"cruising\" in paragraph 4 mostly means ______.",
+    "image": null,
+    "options": ["A. moving on land", "B. travelling by boat", "C. surfing", "D. swimming"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau36-40"
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: According to the passage, where is the Sainsbury Centre for Visual Arts located?",
+    "image": null,
+    "options": ["A. In a building at the University of East Anglia", "B. In a new professional theatre on the River Wensum", "C. In an international art museum", "D. In the Norfolk Broads National Park"],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau36-40"
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Có bao nhiêu giá trị nguyên của tham số m để hàm số y = x³ - 3(m + 2)x² + 3(m² + 4m)x + 1 nghịch biến trên khoảng (0; 1)?",
+    "image": null,
+    "options": ["A. 1", "B. 4", "C. 3", "D. 2"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Cho số phức z thay đổi thỏa mãn |z - 1| = 1. Biết rằng tập hợp các số phức w = (1 + √3.i)z + 2 là đường tròn có bán kính bằng R. Tính R.",
+    "image": null,
+    "options": ["A. R = 8.", "B. R = 1.", "C. R = 4.", "D. R = 2."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Cho khối lăng trụ ABC.A'B'C' có thể tích bằng 1. Gọi M, N lần lượt là trung điểm của các đoạn thẳng AA' và BB'. Đường thẳng CM cắt đường thẳng C'A' tại P, đường thẳng CN cắt đường thẳng C'B' tại Q. Thể tích của khối đa diện lồi A'MPB'NQ bằng:",
+    "image": null,
+    "options": ["A. 1.", "B. 1/3", "C. 1/2", "D. 2/3"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Trong không gian với hệ tọa độ Oxyz cho hai điểm A(-1;-1;0); B(3;1;-1). Điểm M thuộc trục Oy và cách đều hai điểm A; B có tọa độ là:",
+    "image": null,
+    "options": ["A. M(0; -9/4; 0).", "B. M(0; 9/2; 0).", "C. M(0; -9/2; 0).", "D. M(0; 9/4; 0)."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Đặt a = log₃4, b = log₅4. Hãy biểu diễn log₁₂80 theo a và b.",
+    "image": null,
+    "options": ["A. log₁₂80 = (2a² - 2ab)/(ab + b)", "B. log₁₂80 = (a + 2ab)/ab", "C. log₁₂80 = (a + 2ab)/(ab + b)", "D. log₁₂80 = (2a² - 2ab)/ab"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Nếu tất cả các đường chéo của đa giác đều là 12 cạnh được vẽ thì số đường chéo là:",
+    "image": null,
+    "options": ["A. 121", "B. 66", "C. 132", "D. 54"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Trên giá sách có 4 quyển sách toán, 3 quyển sách lý, 2 quyển sách hóa. Lấy ngẫu nhiên 3 quyển sách. Tính xác suất để được 3 quyển được lấy ra có ít nhất một quyển là toán.",
+    "image": null,
+    "options": ["A. 2/7", "B. 3/4", "C. 37/42", "D. 10/21"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Cho hàm số f(x) = ln(1 - 1/x²). Biết rằng f(2) + f(3) + … + f(2018) = ln a - ln b + ln c - ln d với a, b, c, d là các số nguyên dương, trong đó a, c, d là các số nguyên tố và a < b < c < d. Tính P = a + b + c + d.",
+    "image": null,
+    "options": ["A. 1986", "B. 1698", "C. 1689", "D. 1968"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Lớp học có 30 học sinh, trong đó số học sinh nam nhiều hơn số học sinh nữ. Một buổi tối, tất cả đi xem hát. Trong lần giải lao thứ nhất, mỗi bạn nữ mua một cái bánh phô mai và mỗi bạn nam mua một cốc cô-ca (giá tiền mỗi bánh phô mai và mỗi cốc cô-ca đều là số nguyên). Trong lần giải lao thứ hai, mỗi bạn nữ mua một cốc cô-ca và mỗi bạn nam mua một cái bánh phô mai. Lần giải lao thứ hai, cả lớp đã tiêu ít tiền hơn lần giải lao thứ nhất là 2 đô-la. Số bạn nam và số bạn nữ của lớp lần lượt là:",
+    "image": null,
+    "options": ["A. 18 bạn và 12 bạn", "B. 19 bạn và 11 bạn", "C. 17 bạn và 13 bạn", "D. 16 bạn và 14 bạn"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Một cây bèo trôi theo dòng nước và một người bơi ngược dòng nước cùng xuất phát vào một thời điểm tại một mố cầu. Người bơi ngược dòng nước được 20 phút thì quay lại bơi xuôi dòng và gặp cây bèo cách mố cầu 4km. Bằng lập luận hãy tính vận tốc dòng nước biết rằng vận tốc bơi của người không thay đổi.",
+    "image": null,
+    "options": ["A. 4km/h", "B. 6km/h", "C. 5km/h", "D. 7km/h"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "question": "Câu 51: Trên một tấm bìa các-tông có ghi 4 mệnh đề sau:\nI. Trên tấm bìa này có đúng một mệnh đề sai.\nII. Trên tấm bìa này có đúng hai mệnh đề sai.\nIII. Trên tấm bìa này có đúng ba mệnh đề sai.\nIV. Trên tấm bìa này có đúng bốn mệnh đề sai.\nHỏi trên tấm bìa trên có bao nhiêu mệnh đề sai?",
+    "image": null,
+    "options": ["A. 4", "B. 1", "C. 2", "D. 3"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Ba người thợ hàn, thợ tiện, thợ điện đang ngồi trò chuyện trong giờ giải lao. Người thợ hàn nhận xét: “Ba chúng ta làm nghề trùng với tên của 3 chúng ta nhưng không ai làm nghề trùng với tên của mình cả”. Bác Điện hưởng ứng: “Bác nói đúng”. Chọn câu đúng.",
+    "image": null,
+    "options": ["A. Bác Điện làm thợ hàn", "B. Bác làm thợ điện tên là Tiện", "C. Bác Điện làm thợ tiện", "D. Cả A, B, C đều sai"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Nếu màu đỏ được dùng trong bản đồ xe buýt thì màu nào sau đây phải được dùng trong bản đồ xe điện ngầm?",
+    "image": null,
+    "options": ["A. Lục", "B. Cam", "C. Tím", "D. Vàng"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau53-56"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Điều kiện nào sau đây là sai khi thêm vào để có duy nhất một cách chọn màu cho hai bản đồ trên?",
+    "image": null,
+    "options": ["A. Màu tím và màu chàm được dùng trong bản đồ xe điện ngầm.", "B. Màu lam và màu tím được dùng trong bản đồ xe buýt.", "C. Màu lục không được dùng trong cùng một bản đồ với màu lam.", "D. Màu tím không được dùng trong cùng một bản đồ với màu đỏ."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau53-56"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Nếu màu lục được dùng trong bản đồ xe điện ngầm thì khẳng định nào sau đây đúng?",
+    "image": null,
+    "options": ["A. Màu cam được dùng trong bản đồ xe điện ngầm.", "B. Màu vàng được dùng trong bản đồ xe điện ngầm.", "C. Màu tím được dùng trong bản đồ xe buýt.", "D. Màu đỏ được dùng trong bản đồ xe buýt."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau53-56"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Nếu màu vàng và tím được dùng trong bản đồ xe buýt thì màu không được dùng trong bản đồ xe điện ngầm là:",
+    "image": null,
+    "options": ["A. Lục", "B. Lam", "C. Cam", "D. Đỏ"],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau53-56"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Hộp trắng đựng hai quả bóng màu gì?",
+    "image": null,
+    "options": ["A. 2 quả Đỏ.", "B. 2 quả Xanh lá.", "C. 1 quả Đỏ + 1 quả Xanh lá cây", "D. 1 quả Đỏ + 1 quả Xanh da trời"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau57-60"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Hộp xanh lá cây đựng 2 quả bóng màu gì?",
+    "image": null,
+    "options": ["A. 1 quả Xanh da trời + 1 quả Trắng", "B. 1 quả Trắng + 1 quả Đen", "C. 2 quả xanh da trời.", "D. 1 quả Đỏ + 1 quả Xanh da trời."],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau57-60"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Hộp đen đựng 2 quả bóng màu gì?",
+    "image": null,
+    "options": ["A. 1 quả Xanh da trời + 1 quả Trắng", "B. 2 quả xanh lá cây", "C. 2 quả xanh da trời.", "D. 1 quả Xanh lá cây + 1 quả Xanh da trời."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau57-60"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Hộp đỏ đựng 2 quả bóng màu gì?",
+    "image": null,
+    "options": ["A. 1 quả Xanh da trời + 1 quả Trắng", "B. 1 quả Trắng + 1 quả Đen", "C. 2 quả Đen", "D. 2 quả Trắng"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau57-60"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Trong năm 2019, trường phổ thông đó phải chi bao nhiêu tiền cho lương cán bộ quản lí?",
+    "image": null,
+    "options": ["A. 900 triệu đồng", "B. 300 triệu đồng", "C. 400 triệu đồng", "D. 200 triệu đồng"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau61-63"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Lương chi cho cán bộ quản lí ít hơn lương chi cho giáo viên bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 15%.", "B. 30%.", "C. 10%.", "D. 50%."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau61-63"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Trong năm 2018, nhà trường đã dành khoảng bao nhiêu phần trăm tổng lượng chi vào mua sách?",
+    "image": null,
+    "options": ["A. 10%.", "B. 15%.", "C. 9%.", "D. 12%."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau61-63"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Cửa hàng đó bán được bao nhiêu đôi giày trong tháng 12/2018?",
+    "image": null,
+    "options": ["A. 120", "B. 500", "C. 540", "D. 450"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau64-66"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Số giày cỡ 35 chiếm bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 5,55%", "B. 15,74%", "C. 17,59%", "D. 22,22%"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau64-66"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Tìm cỡ giày “đại diện”.",
+    "image": null,
+    "options": ["A. 33,19", "B. 34", "C. 34,19", "D. 33,91"],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau64-66"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Trong bảng thống kê trên, số lái xe ô tô bị lập biên bản vi phạm nồng độ cồn ở thành phố Hồ Chí Minh chiếm bao nhiêu phần trăm trong tổng số người bị lập biên bản vi phạm ở cùng thành phố?",
+    "image": null,
+    "options": ["A. 5,3%", "B. 1900%", "C. 5%", "D. 10%"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau67-70"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Trung bình bốn tỉnh thành phố trên có bao nhiêu lái xe máy bị lập biên bản vi phạm nồng độ cồn?",
+    "image": null,
+    "options": ["A. 315 người.", "B. 39 người.", "C. 80 người.", "D. 78,75 người."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau67-70"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Bốn tỉnh thành trên, trong quá trình thống kê, mỗi ngày có bao nhiêu lái xe bị lập biên bản vi phạm nồng độ cồn?",
+    "image": null,
+    "options": ["A. 70,8 người.", "B. 59 người.", "C. 63 người.", "D. 52,5 người."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau67-70"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Từ 01/01/2020 đến ngày 06/01/2020, cả nước có 1518 lái xe bị lập biên bản vi phạm nồng độ cồn. Số lái xe vi phạm nồng độ cồn bị lập biên bản ở 4 tỉnh, thành phố trên chiếm bao nhiêu phần trăm so với cả nước?",
+    "image": null,
+    "options": ["A. 20,75%", "B. 2,6%", "C. 23,3%", "D. 25%"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau67-70"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Nguyên tử của nguyên tố X có cấu hình electron 1s²2s²2p⁶3s¹, nguyên tử của nguyên tố Y có cấu hình electron 1s²2s²2p⁶3s²3p⁵. Liên kết hóa học được hình thành giữa nguyên tử X và nguyên tử Y thuộc loại liên kết",
+    "image": null,
+    "options": ["A. cộng hóa trị có cực.", "B. kim loại.", "C. cộng hóa trị không phân cực.", "D. ion."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Xét các hệ cân bằng sau đây trong một bình kín:\n(1) 2NaHCO₃ (r) ⇌ Na₂CO₃ (r) + H₂O (k) + CO₂ (k)\n(2) CO₂ (k) + CaO (r) ⇌ CaCO₃ (r)\n(3) C (r) + CO₂ (k) ⇌ 2CO (k)\n(4) CO (k) + H₂O (k) ⇌ CO₂ (k) + H₂ (k)\nKhi thêm CO₂ vào hệ thì có bao nhiêu cân bằng chuyển dịch theo chiều nghịch?",
+    "image": null,
+    "options": ["A. 1.", "B. 3.", "C. 2.", "D. 4."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: Đốt cháy hoàn toàn một hợp chất hữu cơ X cần 6,72 lít khí O₂ (đktc). Sản phẩm cháy hấp thụ hết vào bình đựng dung dịch Ba(OH)₂ thấy có 19,7 gam kết tủa xuất hiện và khối lượng dung dịch giảm 5,5 gam. Lọc bỏ kết tủa, đun nóng nước lọc lại thu được 9,85 gam kết tủa nữa. Biết H = 1, C = 12, O = 16, Ba = 137. Công thức phân tử của X là",
+    "image": null,
+    "options": ["A. C₂H₆.", "B. C₂H₆O.", "C. C₂H₆O₂.", "D. Không thể xác định."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Cho từng chất H₂N-CH₂-COOH, CH₃-COOH, CH₃-COOCH₃ lần lượt tác dụng với dung dịch NaOH (t°) và dung dịch HCl (t°). Số phản ứng xảy ra là",
+    "image": null,
+    "options": ["A. 5.", "B. 4.", "C. 3.", "D. 2."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Trong thí nghiệm giao thoa khe Young đối với ánh sáng đơn sắc λ = 0,4 µm, khoảng cách từ hai khe đến màn là 1,2 m khoảng vân đo được là 1,2 mm. Khoảng cách giữa hai khe là:",
+    "image": null,
+    "options": ["A. 0,4 mm.", "B. 0,5 mm.", "C. 0,6 mm.", "D. 0,7 mm."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Phát biểu nào sau đây là đúng? Khi một chất điểm thực hiện dao động điều hòa thì",
+    "image": null,
+    "options": ["A. đồ thị biểu diễn gia tốc theo li độ là một đường thẳng không đi qua gốc tọa độ.", "B. đồ thị biểu diễn vận tốc theo gia tốc là một đường elip.", "C. đồ thị biểu diễn vận tốc theo gia tốc là một đường hình sin.", "D. đồ thị biểu diễn gia tốc theo li độ là một đường thẳng đi qua gốc tọa độ."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Một mạch dao động điện tử có tần số f = 0,5.10⁶ Hz, vận tốc ánh sáng trong chân không c = 3.10⁸ m/s. Sóng điện từ do mạch đó phát ra có bước sóng là:",
+    "image": null,
+    "options": ["A. 60 m.", "B. 6 m.", "C. 600 m.", "D. 0,6 m."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Hai điện tích điểm q₁ = 40nC và q₂ = 50nC đặt trong chân không cách nhau 3cm. Biết k = 9.10⁹ N.m²/C². Độ lớn của lực điện tương tác giữa hai điện tích là",
+    "image": null,
+    "options": ["A. 2.10⁻⁶ N.", "B. 2.10⁻² N.", "C. 2.10⁻⁴ N.", "D. 2.10⁻³ N."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Hệ tuần hoàn hở có đặc điểm gì để được gọi là hở?",
+    "image": null,
+    "options": ["A. Vì tốc độ máu chảy chậm.", "B. Vì máu chảy trong động mạch dưới áp lực thấp.", "C. Vì giữa mạch đi từ tim (động mạch) và các mạch đến tim (tĩnh mạch) không có mạch nối", "D. Vì còn tạo hỗn hợp dịch mô - máu."],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Thứ tự các bộ phận trong ống tiêu hóa của người",
+    "image": null,
+    "options": ["A. Miệng, ruột non, thực quản, dạ dày, ruột già, hậu môn.", "B. Miệng, thực quản, dạ dày, ruột non, ruột già, hậu môn.", "C. Miệng, ruột non, dạ dày, hậu môn, ruột già, hậu môn.", "D. Miệng, dạ dày, ruột non, thực quản, ruột già, hậu môn."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Trong một quần thể giao phối tự do, xét một gen có 2 alen A và a có tần số tương ứng là 0,8 và 0,2; một gen khác nhóm liên kết với nó có 2 alen B và b có tần số tương ứng là 0,7 và 0,3. Trong trường hợp 1 gen quy định 1 tính trạng, tính trạng trội là trội hoàn toàn. Cho rằng không có sự tác động của các yếu tố làm thay đổi tần số các alen. Theo lí thuyết, trong tổng số cá thể mang 2 tính trạng trội, tỉ lệ cá thể thuần chủng là:",
+    "image": null,
+    "options": ["A. 51,17%", "B. 35,90%", "C. 87,36%", "D. 81,25%"],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Ở ruồi giấm cho con đực có mắt trắng giao phối với con cái mắt đỏ thu được F₁ đồng hợp mắt đỏ. Cho các cá thể F₁ giao phối tự do với nhau, đời F₂ thu được 3 con đực mắt đỏ, 4 con đực mắt vàng, 1 con đực mắt trắng: 6 con cái mắt đỏ, 2 con cái mắt vàng. Nếu cho con đực mắt đỏ F₂ giao phối với con cái mắt đỏ F₂ thì kiểu hình mắt đỏ ở đời con có tỉ lệ là:",
+    "image": null,
+    "options": ["A. 24/41", "B. 19/54", "C. 31/54", "D. 7/9"],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Đường biên giới dài nhất trên đất liền nước ta là với quốc gia nào sau đây:",
+    "image": null,
+    "options": ["A. Trung Quốc", "B. Campuchia", "C. Lào", "D. Thái Lan"],
+    "correct": 2,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Điểm giống nhau chủ yếu của địa hình vùng núi Tây Bắc và Đông Bắc là:",
+    "image": null,
+    "options": ["A. Đồi núi thấp chiếm ưu thế", "B. Nghiêng theo hướng tây bắc – đông nam", "C. Có nhiều sơn nguyên, cao nguyên", "D. Có nhiều khối núi cao, đồ sộ."],
+    "correct": 1,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Dấu hiệu nào không phải là biểu hiện của biến đổi khí hậu ở Việt Nam hiện nay?",
+    "image": null,
+    "options": ["A. Nhiệt độ trung bình năm tăng lên, mực nước biển dâng.", "B. Hạn hán trong mùa khô xảy ra thường xuyên hơn.", "C. Xuất hiện những đợt rét dị thường, gia tăng các cơn bão mạnh đến rất mạnh", "D. Gia tăng số trận động đất với cường độ mạnh hơn."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Nhà thơ Phạm Tiến Duật từng viết: \"Trường Sơn Đông, Trường Sơn Tây. Bên nắng đốt, bên mưa quây\". Hiện tượng \"nắng đốt\", \"mưa quây\" xảy ra vào thời gian nào ở dãy Trường Sơn?",
+    "image": null,
+    "options": ["A. Đầu mùa hạ.", "B. Giữa và cuối mùa hạ.", "C. Mùa thu - đông.", "D. Quanh năm."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Đường lối đổi mới của Đảng đề ra tại Đại hội đại biểu toàn quốc lần thứ VI được điều chỉnh, bổ sung và phát triển tại:",
+    "image": null,
+    "options": ["A. Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng khóa VI (4 - 1987).", "B. Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng khóa VI (8 - 1982).", "C. Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII (1 - 1984).", "D. Đại hội đại biểu toàn quốc lần thứ VII của Đảng."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Dưới tác động của cuộc khủng hoảng kinh tế thế giới 1929 - 1933, các mâu thuẫn trong xã hội Việt Nam ngày càng trở nên gay gắt, cơ bản nhất là mâu thuẫn:",
+    "image": null,
+    "options": ["A. giữa dân tộc Việt Nam với thực dân Pháp, giữa nông dân với địa chủ phong kiến.", "B. giữa công nhân với tư sản, giữa tư sản với địa chủ phong kiến.", "C. giữa công nhân với tư sản, giữa nông dân với thực dân Pháp.", "D. giữa địa chủ phong kiến với tư sản, giữa tư sản Việt Nam với tư sản Pháp."],
+    "correct": 0,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Nội dung nào là điểm tương đồng giữa phong trào giải phóng dân tộc ở châu Phi và khu vực Mĩ Latinh sau Chiến tranh thế giới thứ hai?",
+    "image": null,
+    "options": ["A. Thời gian giành được độc lập.", "B. Đối tượng đấu tranh cách mạng.", "C. Hình thức đấu tranh cách mạng.", "D. Tính chất quần chúng sâu rộng."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Nhân tố hàng đầu chi phối nền chính trị thế giới và các quan hệ quốc tế trong hơn bốn thập niên sau chiến tranh thế giới thứ hai là gì?",
+    "image": null,
+    "options": ["A. Sự phát triển mạnh mẽ của hệ thống xã hội chủ nghĩa.", "B. Sự vươn lên mạnh mẽ của Tây Âu và Nhật Bản.", "C. Sự thắng lợi của phong trào đấu tranh giải phóng dân tộc của các nước Á, Phi, Mỹ Latinh.", "D. Sự đối đầu giữa “hai cực” - hai phe: Tư bản chủ nghĩa và Xã hội chủ nghĩa."],
+    "correct": 3,
+    "explanation": "",
+    "passage": null
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Trong thí nghiệm 1, thứ tự điện phân tại catot là",
+    "image": null,
+    "options": ["A. Ag⁺, Cu²⁺, Fe²⁺, H₂O.", "B. Ag⁺, Fe³⁺, Cu²⁺, Fe²⁺, H₂O.", "C. Ag⁺, Cu²⁺, Fe²⁺, Al³⁺, H₂O.", "D. Ag⁺, Cu²⁺, Fe²⁺."],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau91-93"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Khi bắt đầu xuất hiện khí ở catot thì dừng điện phân. Chất tan có trong dung dịch sau điện phân là",
+    "image": null,
+    "options": ["A. HNO₃.", "B. Al(NO₃)₃ và HNO₃.", "C. Al(NO₃)₃.", "D. Al(OH)₃ và HNO₃."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau91-93"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Trong thí nghiệm 2, thể tích khí thoát ra tại anot ở điều kiện tiêu chuẩn là",
+    "image": null,
+    "options": ["A. 0,224 lít.", "B. 2,240 lít.", "C. 0,112 lít.", "D. 1,120 lít."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau91-93"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Phản ứng sau đây dùng để điều chế este của phenol là sai?",
+    "image": null,
+    "options": ["A. Phenol tác dụng với axit axetic có xúc tác axit sunfuric đậm đặc.", "B. Phenol tác dụng với clorua axit.", "C. Phenol tác dụng với bromua axit.", "D. Phenol tác dụng với anhidrit axit."],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau94-96"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Một sinh viên thực hiện phản ứng este hóa giữa axit hữu cơ đơn chức (CₙHₘO₂) và rượu etylic theo phương trình: CₙHₘ₋₁COOH + C₂H₅OH ⇌ H₂SO₄, t° CₙHₘ₋₁COOC₂H₅ + H₂O. Trong phản ứng este hóa để cân bằng sẽ chuyển dịch theo chiều tạo ra este thì bạn sinh viên có thể dùng biện pháp",
+    "image": null,
+    "options": ["A. chưng cất ngay để tách este.", "B. cho vào hỗn hợp rượu dư hay axit dư.", "C. dùng chất hút nước để tách nước.", "D. tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau94-96"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Tiến hành thí nghiệm điều chế isoamyl axetat (dầu chuối) theo thứ tự các bước sau đây:\nBước 1: Cho 1 ml CH₃CH(CH₃)CH₂CH₂OH, 1 ml CH₃COOH và vài giọt H₂SO₄ đặc vào ống nghiệm.\nBước 2: Lắc đều ống nghiệm, đun cách thủy (trong nồi nước nóng) khoảng 5-6 phút ở 65 - 70°C.\nBước 3: Làm lạnh, sau đó rót 2 ml dung dịch NaCl bão hòa vào ống nghiệm.\nPhát biểu nào sau đây đúng?",
+    "image": null,
+    "options": ["A. H₂SO₄ đặc chỉ đóng vai trò xúc tác cho phản ứng tạo isoamyl axetat.", "B. Thêm dung dịch NaCl bão hòa vào để tránh phân hủy sản phẩm.", "C. Sau bước 2, trong ống nghiệm vẫn còn CH₃CH(CH₃)CH₂CH₂OH và CH₃COOH.", "D. Sau bước 3, trong ống nghiệm thu được hỗn hợp chất lỏng đồng nhất."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau94-96"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Để các máy hoạt động bình thường, cường độ dòng điện qua mỗi máy có giá trị",
+    "image": null,
+    "options": ["A. 5 A.", "B. 10 A.", "C. 50 A.", "D. 100 A."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau97-99"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Xưởng phải sử dụng máy biến áp với tỉ lệ số vòng dây sơ cấp và thứ cấp",
+    "image": null,
+    "options": ["A. 1,27.", "B. 2,27.", "C. 3,27.", "D. 4,27."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau97-99"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Nếu giữ nguyên điện áp nơi phát thì số máy hoạt động đã được nhập về thêm là",
+    "image": null,
+    "options": ["A. 50.", "B. 30.", "C. 100.", "D. 70."],
+    "correct": 3,
+    "explanation": "",
+    "passage": "v-act_de12_cau97-99"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Tai người có thể nghe được âm thanh có tần số trong khoảng",
+    "image": null,
+    "options": ["A. 10 Hz – 10000 Hz.", "B. 16 Hz – 20000 Hz.", "C. 20 Hz – 16000 Hz.", "D. 10 Hz – 16000 Hz."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau100-102"
+  },
+  {
+    "id": 101,
+    "question": "Câu 101: Cảm giác về âm phụ thuộc những yếu tố nào sau đây?",
+    "image": null,
+    "options": ["A. nguồn âm và môi trường truyền âm.", "B. nguồn âm và tai người nghe.", "C. môi trường truyền âm và tai người nghe.", "D. tai người nghe và thần kinh thính giác."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau100-102"
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Tại vòng loại giải Vô địch bóng đá U-23 châu Á 2020, đội tuyển Việt Nam gặp đội tuyển Thái Lan trên Sân vận động Quốc gia Mỹ Đình, kích thước sân dài 105 m và rộng 68 m. Trong một lần thổi phạt, thủ môn Tiến Dũng của đội tuyển Việt Nam bị phạt đứng chính giữa hai cọc gôn, trọng tài đứng phía tay phải thủ môn, cách thủ môn 32,3 m và cách góc sân gần nhất 10,5 m. Trọng tài thổi còi và âm đi đẳng hướng thì Tiến Dũng nghe rõ âm thanh là 40 dB. Khi đó huấn luyện viên Park Hang Seo đang đứng phía trái Tiến Dũng và trên đường ngang giữa sân, phía ngoài sân, cách biên dọc 5 m sẽ nghe được âm thanh có mức cường độ âm lớn xấp xỉ là",
+    "image": null,
+    "options": ["A. 14,58 dB.", "B. 32,06 dB.", "C. 38,52 dB.", "D. 27,31 dB."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau100-102"
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Số lượng người bị hói đầu ở giới nào cao hơn",
+    "image": null,
+    "options": ["A. giới nữ", "B. giới nam", "C. ở 2 giới ngang nhau", "D. Số lượng người bị hói rất ít, không thống kê được"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau103-105"
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Một người phụ nữ bình thường có bố bị hói có kiểu gen đồng hợp lấy một người chồng không bị hói. Họ sinh được 2 người con, xác suất để cả hai đứa con lớn lên không bị hói đầu là",
+    "image": null,
+    "options": ["A. 1/4", "B. 9/16", "C. 1/16", "D. 15/16"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau103-105"
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Giả sử, tần số alen H trong quần thể người (cân bằng di truyền) là 0,3. Tỉ lệ người bị hói đầu ở 2 giới nam và nữ lần lượt là",
+    "image": null,
+    "options": ["A. 51% và 9%", "B. 42% và 9%", "C. 9% và 9%", "D. 51% và 42%"],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau103-105"
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Mối quan hệ giữa tò vò và nhện được mô tả trong câu ca dao trên là",
+    "image": null,
+    "options": ["A. quan hệ cộng sinh", "B. quan hệ hội sinh", "C. quan hệ con mồi – vật ăn thịt", "D. quan hệ ức chế - cảm nhiễm."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau106-108"
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Trong mối quan hệ giữa tò vò và nhện, loài nào được lợi, loài nào bị hại",
+    "image": null,
+    "options": ["A. Nhện được lợi, tò vò bị hại", "B. Tò vò được lợi, nhện bị hại", "C. Cả 2 cùng có lợi", "D. Nhện có lợi, tò vò không bị hại"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau106-108"
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Nếu như số lượng nhện bị kiểm soát bởi số lượng tò vò, không tăng quá cao hoặc giảm quá thấp thì hiện tượng này được gọi là",
+    "image": null,
+    "options": ["A. Trạng thái cân bằng", "B. Biến động số lượng cá thể", "C. Khống chế sinh học", "D. Mức độ tử vong"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau106-108"
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Nhận xét đúng về cơ cấu tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng nước ta phân theo thành phần kinh tế là",
+    "image": null,
+    "options": ["A. khu vực Ngoài nhà nước chiếm tỉ trọng lớn nhất và có xu hướng giảm", "B. khu vực Nhà nước chiếm tỉ trọng lớn nhất và có xu hướng tăng", "C. khu vực Ngoài nhà nước chiếm tỉ trọng lớn nhất và tiếp tục tăng", "D. khu vực có vốn đầu tư nước ngoài chiếm tỉ trọng nhỏ nhất và có xu hướng giảm."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau109-111"
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Kênh bán lẻ hiện đại đang phát triển mạnh ở Việt Nam hiện nay là",
+    "image": null,
+    "options": ["A. các khu chợ truyền thống", "B. các cửa hàng tạp hóa", "C. các siêu thị, cửa hàng tiện lợi", "D. gánh hàng rong"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau109-111"
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Việt Nam là một thị trường bán lẻ có nhiều tiềm năng và thu hút nhiều nhà đầu tư, nguyên nhân chủ yếu do",
+    "image": null,
+    "options": ["A. đời sống người dân cao, thu nhập đầu người lớn", "B. thị trường tiêu thụ lớn, thu nhập gia tăng", "C. chi phí thuê mặt bằng và nhân viên thấp", "D. thị trường tiêu dùng dễ tính"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau109-111"
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Chiếm tỉ trọng lớn nhất trong cơ cấu sản lượng điện phân theo nguồn của nước ta hiện nay là",
+    "image": null,
+    "options": ["A. nhiệt điện chạy bằng than", "B. thủy điện", "C. nhiệt điện chạy bằng khí", "D. nhiệt điện chạy bằng dầu"],
+    "correct": 0,
+    "explanation": "",
+    "passage": "v-act_de12_cau112-114"
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Nhược điểm của các nhà máy thủy điện nước ta là",
+    "image": null,
+    "options": ["A. tiềm năng thủy điện ít", "B. chịu ảnh hưởng của thời tiết", "C. thiếu vốn và khoa học kĩ thuật hiện đại", "D. gây ô nhiễm môi trường"],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau112-114"
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Vấn đề chủ yếu đang đặt ra đối với ngành điện lực Việt Nam là:",
+    "image": null,
+    "options": ["A. đáp ứng đủ năng lượng cho phát triển kinh tế - xã hội", "B. tiềm năng thủy điện và nhiệt điện ngày càng cạn kiệt", "C. đảm bảo được nhu cầu năng lượng tương lai và các chỉ tiêu về môi trường.", "D. thiếu vốn và kĩ thuật hiện đại cho phát triển năng lượng tái tạo."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau112-114"
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Đại hội đồng Liên hợp quốc họp phiên đầu tiên tại đâu?",
+    "image": null,
+    "options": ["A. Mỹ.", "B. Anh.", "C. Pháp.", "D. Đức."],
+    "correct": 1,
+    "explanation": "",
+    "passage": "v-act_de12_cau115-117"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Liên hợp quốc được thành lập vào thời điểm nào?",
+    "image": null,
+    "options": ["A. Trước Chiến tranh thế giới thứ hai.", "B. Khi Chiến tranh thế giới thứ hai mới bùng nổ.", "C. Khi Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc.", "D. Sau Chiến tranh thế giới thứ hai."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau115-117"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Sau Hiệp định Giơ-ne-vơ, Mỹ viện trợ kinh tế, quân sự để xây dựng một chính quyền thân Mỹ ở miền Nam Việt Nam hòng chia cắt lâu dài đất nước ta. Hành động đó của Mỹ đã vi phạm nguyên tắc nào trong Hiến chương của Liên hợp quốc?",
+    "image": null,
+    "options": ["A. Không sử dụng vũ lực hoặc đe doạ bằng vũ lực đối với nhau.", "B. Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình.", "C. Không can thiệp vào công việc nội bộ của bất kì nước nào.", "D. Chung sống hòa bình và sự nhất trí giữa năm nước lớn: Liên Xô, Mỹ, Anh, Pháp và Trung Quốc."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau115-117"
+  },
+  {
+    "id": 118,
+    "question": "Câu 118: Lực lượng xã hội nào đã có đóng góp quan trọng đối với phong trào yêu nước ở Việt Nam trong thập niên đầu thế kỉ XX",
+    "image": null,
+    "options": ["A. Công nhân, nông dân.", "B. Trí thức, Tiểu tư sản thành thị.", "C. Trí thức Nho học.", "D. Tư sản dân tộc."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau118-120"
+  },
+  {
+    "id": 119,
+    "question": "Câu 119: Kinh tế Việt Nam phát triển như thế nào trong cuộc khai thác thuộc địa của thực dân Pháp?",
+    "image": null,
+    "options": ["A. Bị kìm hãm, không phát triển được.", "B. Phát triển chậm và không toàn diện.", "C. Phụ thuộc vào nền kinh tế của chính quốc.", "D. Phát triển theo con đường tư bản chủ nghĩa."],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau118-120"
+  },
+  {
+    "id": 120,
+    "question": "Câu 120: Giai cấp, tầng lớp nào đã tiếp thu ý thức hệ dân chủ tư sản?",
+    "image": null,
+    "options": ["A. Tư sản", "B. Tiểu tư sản", "C. Trí thức", "D. Tư sản và tiểu tư sản"],
+    "correct": 2,
+    "explanation": "",
+    "passage": "v-act_de12_cau118-120"
+  }
+]
