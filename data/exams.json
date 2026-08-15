@@ -49,6 +49,48 @@
     "questions": 120, "kyThi": "vact"
   },
   {
+    "id": "vact_de_8",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 8",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_9",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 9",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_10",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 10",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_11",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 11",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_12",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 12",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_13",
+    "type": "Toán",
+    "name": "V-ACT - ĐỀ 13",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
     "id": "hsa_kh_1",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 1",
