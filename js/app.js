@@ -611,9 +611,9 @@ function switchTab(tab) {
 let currentKyThi = "dgnl";
 const KY_THI_META = {
   dgnl: { title: "HSA", subjects: ["Toán học", "Ngữ văn", "Tiếng anh", "Khoa học"] },
-  tnthpt: { title: "TN THPT", subjects: ["Toán", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
+  tnthpt: { title: "TN THPT", subjects: ["Toán", "Ngữ văn", "Tiếng anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
   tsa: { title: "TSA", subjects: ["Toán", "Đọc hiểu", "Khoa học"] },
-  vact: { title: "VACT", subjects: ["Toán", "Ngữ văn", "Tiếng Anh", "Khoa học tự nhiên"] }
+  vact: { title: "VACT", subjects: ["Đề thi","Toán", "Ngữ văn", "Tiếng anh", "Khoa học tự nhiên"] }
 };
 
 function selectKyThi(ky) {
@@ -628,6 +628,7 @@ function selectKyThi(ky) {
   const subWrap = document.getElementById("thithu-subjects");
   subWrap.innerHTML = "";
   const icons = {
+    "Đề thi":"fa-file-signature",
     "Toán học": "fa-calculator", "Toán": "fa-calculator",
     "Ngữ văn": "fa-book-open", "Tiếng anh": "fa-language", "Tiếng Anh": "fa-language",
     "Khoa học": "fa-atom", "Khoa học tự nhiên": "fa-atom",
