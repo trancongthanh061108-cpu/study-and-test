@@ -1,13 +1,13 @@
 [
   {
-    "id": "vact_de_1",
+    "id": "vact_toan_1",
     "type": "Toán",
     "name": "V-ACT - ĐỀ TOÁN 1",
     "time": 50,
     "questions": 36, "kyThi": "vact"
   },
   {
-    "id": "vact_de_1",
+    "id": "vact_van_1",
     "type": "Ngữ văn",
     "name": "V-ACT - ĐỀ VĂN 1",
     "time": 30,
