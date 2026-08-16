@@ -126,6 +126,55 @@
     "questions": 120, "kyThi": "vact"
   },
   {
+    "id": "vact_de_14",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 14",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_15",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 15",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_16",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 16",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_17",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 17",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_18",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 18",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_19",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 19",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_20",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 20",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
     "id": "hsa_kh_1",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 1",
