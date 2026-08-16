@@ -26,6 +26,13 @@ const EXAM_FILES = {
   "vact_de_11": "data/vact/đề/de11.json",
   "vact_de_12": "data/vact/đề/de12.json",
   "vact_de_13": "data/vact/đề/de13.json",
+  "vact_de_14": "data/vact/đề/de14.json",
+  "vact_de_15": "data/vact/đề/de15.json",
+  "vact_de_16": "data/vact/đề/de16.json",
+  "vact_de_17": "data/vact/đề/de17.json",
+  "vact_de_18": "data/vact/đề/de18.json",
+  "vact_de_19": "data/vact/đề/de19.json",
+  "vact_de_20": "data/vact/đề/de20.json",
 
   
   "hsa_anh_1": "data/hsa/anh/de1.json",
