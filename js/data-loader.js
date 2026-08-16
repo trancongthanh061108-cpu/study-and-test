@@ -8,7 +8,7 @@ const _questionCache = {};
 
 const EXAM_FILES = {
   "vact_toan_1": "data/vact/toán/detoan1.json",
-  "vact_van_1": "data/vact/văn/detoan1.json",
+  "vact_van_1": "data/vact/văn/devan1.json",
   "vact_anh_1": "data/vact/anh/deanh1.json",
   "vact_anh_2": "data/vact/anh/deanh2.json",
   "vact_anh_3": "data/vact/anh/deanh3.json",
