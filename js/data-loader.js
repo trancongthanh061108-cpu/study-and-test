@@ -7,6 +7,12 @@ let sampleExams = [];
 const _questionCache = {};
 
 const EXAM_FILES = {
+  "vact_toan_1": "data/vact/toán/detoan1.json",
+  "vact_van_1": "data/vact/van/detoan1.json",
+  "vact_anh_1": "data/vact/anh/deanh1.json",
+  "vact_anh_2": "data/vact/anh/deanh2.json",
+  "vact_anh_3": "data/vact/anh/deanh3.json",
+  
   "vact_de_1": "data/vact/đề/de1.json",
   "vact_de_2": "data/vact/đề/de2.json",
   "vact_de_3": "data/vact/đề/de3.json",
