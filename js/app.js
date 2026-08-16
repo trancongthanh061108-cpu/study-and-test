@@ -1666,6 +1666,8 @@ function clickStartExam(id) {
   const exam = sampleExams.find(e => e.id === id);
 
   const freeIds = [
+    "vact_anh_1","vact_anh_2","vact_anh_3",
+    "vact_toan_1","vact_van_1",
     "vact_de_1","vact_de_2","vact_de_3",
     'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
     'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
