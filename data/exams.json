@@ -245,6 +245,76 @@
     "questions": 120, "kyThi": "vact"
   },
   {
+    "id": "vact_de_31",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 31",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_32",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 32",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_33",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 33",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_34",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 34",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_35",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 35",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_36",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 36",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_37",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 37",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_38",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 38",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_39",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 39",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
+    "id": "vact_de_40",
+    "type": "Đề thi",
+    "name": "V-ACT - ĐỀ 40",
+    "time": 150,
+    "questions": 120, "kyThi": "vact"
+  },
+  {
     "id": "hsa_kh_1",
     "type": "Khoa học",
     "name": "HSA KHOA HỌC (TỔNG HỢP) - ĐỀ 1",
