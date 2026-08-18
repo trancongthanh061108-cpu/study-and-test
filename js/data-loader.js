@@ -43,6 +43,16 @@ const EXAM_FILES = {
   "vact_de_28": "data/vact/đề/de28.json",
   "vact_de_29": "data/vact/đề/de29.json",
   "vact_de_30": "data/vact/đề/de30.json",
+  "vact_de_31": "data/vact/đề/de31.json",
+  "vact_de_32": "data/vact/đề/de32.json",
+  "vact_de_33": "data/vact/đề/de33.json",
+  "vact_de_34": "data/vact/đề/de34.json",
+  "vact_de_35": "data/vact/đề/de35.json",
+  "vact_de_36": "data/vact/đề/de36.json",
+  "vact_de_37": "data/vact/đề/de37.json",
+  "vact_de_38": "data/vact/đề/de38.json",
+  "vact_de_39": "data/vact/đề/de39.json",
+  "vact_de_40": "data/vact/đề/de40.json",
   
 
 
