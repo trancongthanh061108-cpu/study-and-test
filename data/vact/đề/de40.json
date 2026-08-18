@@ -1,0 +1,1083 @@
+
+[
+  {
+    "id": 1,
+    "question": "Câu 1: Đọc bài ca dao sau và trả lời câu hỏi Chiều chiều ra đứng ngõ sau, Trông về quê mẹ ruột _____ chín chiều Điền từ thích hợp vào chỗ trống:",
+    "image": null,
+    "options": ["A. nhức", "B. đau", "C. xót", "D. buốt"],
+    "correct": 1,
+    "explanation": "- Bài ca dao nói về tình thương nỗi nhớ của người con gái đối với mẹ cha. Đồng thời thấy được tình cảnh lẻ loi, cô đơn của người con nơi quê người. -> Từ “đau” phù hợp với ngữ nghĩa trong mối tương quan với các chi tiết khác trong bài ca dao, đồng thời từ ngữ này cũng đáp ứng quy luật gieo vần của thơ lục bát (chữ thứ sáu của câu lục gieo vần với chữ thứ sáu của câu bát).",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "question": "Câu 2: Trong các câu sau, câu nào có sự sắp xếp trật tự từ hợp lý nhất:",
+    "image": null,
+    "options": ["A. Tiếng Việt chúng ta phản ánh sự hình thành và trưởng thành của xã hội Việt Nam và của dân tộc Việt Nam, của tập thể nhỏ là gia đình, họ hàng, làng xóm và tập thể lớn là dân tộc, quốc gia.", "B. Tiếng Việt chúng ta phản ánh sự trưởng thành và hình thành của xã hội Việt Nam và của dân tộc Việt Nam, của tập thể nhỏ là gia đình, họ hàng, làng xóm và tập thể lớn là dân tộc, quốc gia.", "C. Tiếng Việt chúng ta phản ánh sự hình thành và trưởng thành của xã hội Việt Nam và của dân tộc Việt Nam, của tập thể nhỏ là gia đình, làng xóm, họ hàng và tập thể lớn là dân tộc, quốc gia.", "D. Tiếng Việt chúng ta phản ánh sự trưởng thành và hình thành của xã hội Việt Nam và của dân tộc Việt Nam, của tập thể nhỏ là gia đình, làng xóm, họ hàng, và tập thể lớn là dân tộc, quốc gia."],
+    "correct": 0,
+    "explanation": "Trong câu văn trên, các đối tượng được liệt kê theo thứ tự trước sau: hình thành, phát triển và theo quy mô, tính chất: nhỏ, thân thiết, gần gũi đến lớn.",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "question": "Câu 3: Thần thoại là gì?",
+    "image": null,
+    "options": ["A. Là thể loại tự sự bằng văn xuôi kể lại các sự kiện và nhân vật có quan hệ với lịch sử địa phương, dân tộc, thường dùng yếu tố tưởng tượng để lí tưởng hoá các sự kiện và các nhân vật được kể, nhằm thể hiện ý thức lịch sử của nhân dân.", "B. Là thể loại tự sự bằng văn xuôi kể lại sự tích các vị thần sáng tạo thế giới tự nhiên và văn hóa, phản ánh nhận thức và cách hình dung của người thời cổ về nguồn gốc thế giới và đời sống con người.", "C. Là thể loại tự sự bằng văn vần hoặc văn xuôi kết hợp với văn vần, kể lại những sự kiện có ý nghĩa quan trọng đối với toàn thể cộng đồng.", "D. Là thể loại tự sự bằng văn xuôi kể về số phận của các kiểu nhân vật như người mồ côi, người em, người lao động giỏi, người dũng sĩ, người thông minh… qua đó thể hiện quan niệm đạo đức, lí tưởng và ước mơ của nhân dân về hạnh phúc và công lí xã hội."],
+    "correct": 1,
+    "explanation": "Thần thoại là thể loại tự sự bằng văn xuôi kể lại sự tích các vị thần sáng tạo thế giới tự nhiên và văn hóa, phản ánh nhận thức và cách hình dung của người thời cổ về nguồn gốc thế giới và đời sống con người.",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "question": "Câu 4: Trong bài Bình Ngô đại cáo, Nguyễn Trãi đã khẳng định chân lí độc lập của dân tộc ta dựa trên những yếu tố nào sau đây?",
+    "image": null,
+    "options": ["A. Dựa trên 5 yếu tố: cương vực lãnh thổ, nền văn hiến lâu đời, phong tục tập quán, các triều đại lịch sử, anh hùng hào kiệt.", "B. Dựa vào yếu tố thực tiễn lịch sử.", "C. Dựa vào “thiên thư” (sách trời).", "D. Dựa vào các bằng chứng lịch sử."],
+    "correct": 0,
+    "explanation": "Nguyễn Trãi đã khẳng định chân lí độc lập của dân tộc ta dựa trên 5 yếu tố: + Cương vực lãnh thổ: “Núi sông bờ cõi đã chia” + Nền văn hiến lâu đời: “Vốn xưng nền văn hiến đã lâu” + Phong tục tập quán: “Phong tục Bắc Nam cũng khác” + Các triều đại lịch sử: “Từ Triệu, Đinh, Lí, Trần bao đời gây nền độc lập/ Cùng Hán, Đường, Tống, Nguyên mỗi bên xưng đế một phương” + Anh hùng hào kiệt: “Song hào kiệt đời nào cũng có”.",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "question": "Câu 5: Đọc bài thơ sau và trả lời câu hỏi: Hoành sóc giang sơn kháp kỉ thu, Tam quân tì hổ khí thôn ngưu. Nam nhi vị liễu công danh trái, Tu thính nhân gian thuyết Vũ hầu (Thuật hoài - Phạm Ngũ Lão) Xác định thể thơ trong bài thơ trên:",
+    "image": null,
+    "options": ["A. Thất ngôn bát cú", "B. Thất ngôn tứ tuyệt", "C. Thất ngôn xen lục ngôn", "D. Song thất lục bát"],
+    "correct": 1,
+    "explanation": "- Bài thơ có 4 câu và mỗi câu có 7 chữ. => Thể thơ: Thất ngôn tứ tuyệt.",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "question": "Câu 6: Tác giả của tác phẩm Việt Bắc là ai và sáng tác năm bao nhiêu:",
+    "image": null,
+    "options": ["A. Tố Hữu viết năm 1954", "B. Tố Hữu viết năm 1947", "C. Tố Hữu viết năm 1945", "D. Tố Hữu viết năm 1964"],
+    "correct": 0,
+    "explanation": "- 5/1954, ta giành thắng lợi trên chiến trường Điện Biên Phủ. 7/1954, hiệp định Giơ-ne-vơ về Đông Dương được ký kết. 10/1954, các cơ quan trung ương Đảng và chính phủ rời chiến khu Việt Bắc tiếp quân thủ đô Hà Nội. Đây là sự kiện trọng đại và nhân sự kiện chính trị, thời sự quan trọng này, Tố Hữu viết bài thơ để nói về cuộc chia tay giữa cán bộ miền xuôi và nhân dân Việt Bắc.",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "question": "Câu 7: Biện pháp tu từ nào được sử dụng trong hai câu thơ sau: Quần đào, áo đỏ, tranh gà lợn, Cơm tám, dưa hành, thịt mỡ đông (Tết quê bà, Đoàn Văn Cừ)",
+    "image": null,
+    "options": ["A. Liệt kê.", "B. Điệp cấu trúc.", "C. Ẩn dụ.", "D. So sánh."],
+    "correct": 0,
+    "explanation": "Biện pháp tu từ được sử dụng trong câu thơ “Quần đào, áo đỏ, tranh gà lợn/Cơm tám, dưa hành, thịt mỡ đông” là: liệt kê. => Liệt kê đầy đủ những thứ có trong ngày Tết như: quần áo mới, tranh Đông Hồ, cơm tám, dưa hành, thịt mỡ đông.",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "question": "Câu 8: Hoàn cảnh sáng tác của bài thơ Chiều tối là:",
+    "image": null,
+    "options": ["A. Lúc Bác vừa bị bắt giam", "B. Lúc Bác đang ngắm trăng", "C. Trên đường chuyển nhà lao", "D. Lúc chiều tối trong nhà lao nhìn ra bên ngoài"],
+    "correct": 2,
+    "explanation": "- Bài thơ Chiều tối được Bác sáng tác trên đường chuyển lao từ nhà lao Tĩnh Tây đến Thiên Bảo vào cuối thu năm 1942.",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "question": "Câu 9: Chọn từ thích hợp để điền vào chỗ trống: Đi hỏi già, về nhà hỏi",
+    "image": null,
+    "options": ["A. trẻ", "B. chồng", "C. vợ", "D. con"],
+    "correct": 0,
+    "explanation": "- Câu thành ngữ đầy đủ là: “Đi hỏi già, về hỏi trẻ” - “Đi hỏi già, về nhà hỏi trẻ” đã được ông cha ta đúc kết từ kinh nghiệm dân gian trong ứng xử, với mỗi thế hệ từ trẻ con đến người già đều có giá trị riêng.",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "question": "Câu 10: Trong các tục ngữ, thành ngữ sau; tục ngữ, thành ngữ nào bị SAI chính tả:",
+    "image": null,
+    "options": ["A. Đứng núi này chông núi nọ", "B. Mặt hoa da phấn", "C. Mưa to gió lớn", "D. Ngày lành tháng tốt"],
+    "correct": 0,
+    "explanation": "- Các tục ngữ, thành ngữ ĐÚNG chính tả là: Mặt hoa da phấn, Mưa to gió lớn, Ngày lành tháng tốt. - Thành ngữ bị SAI chính tả là: Đứng núi này chông núi nọ + Sửa lại: Đứng núi này trông núi nọ + Ý nghĩa: Một câu thành ngữ mang hàm ý trách móc và phê phán những người không biết thỏa mãn với vị trí mình và những gì mình đang có, luôn so sánh và nhòm ngó xung quanh.",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "question": "Câu 11: Điền từ thích hợp vào chỗ trống: Tôi nghe  từ chỗ chị Hoài, ngày mai nó đi xa.",
+    "image": null,
+    "options": ["A. phong thanh", "B. phong phanh", "C. phong xanh", "D. phong tanh"],
+    "correct": 0,
+    "explanation": "- Phân tích nghĩa của từ: + Phong thanh: thoáng nghe được, thoáng biết được, chưa thật rõ ràng, chưa chắc chắn. + Phong phanh: ý chi mặc quần áo ít và mỏng manh, không đủ ấm. + Phong tanh, phong xanh không có nghĩa. => Trong 4 đáp án, từ phù hợp nhất để điền vào chỗ trống là: phong thanh.",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "question": "Câu 12: Đọc đoạn trích sau và trả lời câu hỏi: Ta muốn ôm Cả sự sống mới bắt đầu mơn mởn; Ta muốn riết mây đưa và gió lượn, Ta muốn say cánh bướm với tình yêu, Ta muốn thâu trong một cái hôn nhiều Và non nước, và cây, và cỏ rạng, Cho chếnh choáng mùi thơm, cho đã đầy ánh sáng Cho no nê thanh sắc của thời tươi; - Hỡi xuân hồng, ta muốn cắn vào ngươi! (Vội vàng, Xuân Diệu) Từ “xuân hồng” (gạch chân, in đậm) được hiểu là:",
+    "image": null,
+    "options": ["A. gọi riêng của một người.", "B. mùa xuân đương độ tươi đẹp nhất, nồng nàn đắm say nhất.", "C. mùa xuân có màu hồng.", "D. chỉ tuổi trẻ của con người đẹp nhất."],
+    "correct": 1,
+    "explanation": "- Phân tích nghĩa: + Xuân: mùa xuân + Hồng: có màu đỏ, ý chí độ đẹp nhất của sự vật đồng thời cho thấy sự nồng nàn, say đắm. => Xuân hồng được hiểu: mùa xuân đương độ tươi đẹp nhất, nồng nàn đắm say nhất.",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "question": "Câu 13: Đọc câu thơ sau và trả lời câu hỏi: Ngoài thềm rơi chiếc lá đa Tiếng rơi rất mỏng như là rơi nghiêng Chỉ ra biện pháp tu từ được sử dụng trong câu thơ trên.",
+    "image": null,
+    "options": ["A. Ẩn dụ chuyển đổi cảm giác", "B. Câu hỏi tu từ", "C. Nhân hóa", "D. Liệt kê"],
+    "correct": 0,
+    "explanation": "- Biện pháp tu từ được sử dụng trong câu thơ “Ngoài thềm rơi chiếc lá đa/ Tiếng rơi rất mỏng như là rơi nghiêng” là: ẩn dụ chuyển đổi cảm giác. + Tiếng rơi cảm nhận bằng thính giác + Rất mỏng, rơi nghiêng lại được cảm nhận bằng thị giác.",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "question": "Câu 14: Dòng nào dưới đây CHƯA PHẢI là câu?",
+    "image": null,
+    "options": ["A. Tôi đã cố nhớ lại toàn bộ mọi chuyện trong quá khứ.", "B. Trên trời cao, những chú chim đang bay lượn thỏa thích.", "C. Hài lòng với những gì đang có.", "D. Tôi thấy tóc mẹ bạc đi theo năm tháng."],
+    "correct": 2,
+    "explanation": "- Một dòng không đủ thành phần chính, hoặc có thành phần chính nhưng không diễn đạt được đầy đủ nội dung, chưa hết ý không thể gọi là một câu. - Có thể thấy: Câu A, B, D đầy đủ thành phần chính trong câu (chủ ngữ, vị ngữ) và diễn đạt trọn vẹn nội dung, ý nghĩa của câu. Riêng đối với câu C: Hài lòng với những gì đang có thiếu thành phần chủ ngữ và chưa thể hiện trọn vẹn nội dung, ý nghĩa của câu.",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "question": "Câu 15: Câu sau sai như thế nào? Sớm nay, vẫn dầm chung cơn mưa, nhưng chỉ thấy trong nhau những bề bàng.",
+    "image": null,
+    "options": ["A. Thiếu vị ngữ", "B. Thiếu chủ ngữ", "C. Thiếu cả chủ ngữ và vị ngữ", "D. Sai quan hệ ngữ nghĩa giữa các thành phần câu"],
+    "correct": 1,
+    "explanation": "- Câu ở đề bài có thể xác định cấu tạo như sau: Sớm nay, vẫn dầm chung cơn mưa, nhưng chỉ thấy trong nhau những bẽ bàng. + Sớm nay: trạng ngữ + vẫn dầm chung cơn mưa: thiếu chủ ngữ + nhưng chỉ thấy trong nhau những bẽ bàng: thiếu chủ ngữ => Câu sai vì thiếu chủ ngữ.",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "question": "Câu 16: Phương thức biểu đạt chủ yếu của đoạn trích trên là gì?",
+    "image": null,
+    "options": ["A. Biểu cảm", "B. Tự sự", "C. Miêu tả", "D. Thuyết minh"],
+    "correct": 2,
+    "explanation": "- Đoạn trích trên sử dụng phương thức biểu đạt chính là miêu tả. - Dấu hiệu nhận biết phương thức biểu đạt miêu tả trong đoạn trích: Tính từ miêu tả, khắc họa các đối tượng được nhắc đến (chợ trang điểm bằng bông trang được cột thành khóm đỏ tươi, lúc nhúc, run rẫy, v.v…).",
+    "passage": "v-act_de40_cau16-20"
+  },
+  {
+    "id": 17,
+    "question": "Câu 17: Từ “cái đọt” (in đậm, gạch chân) trong đoạn trích trên được hiểu là gì?",
+    "image": null,
+    "options": ["A. Ngon rau muong", "B. Lá rau muống", "C. Thân rau muống", "D. Dụng cụ dùng để cắt rau muống"],
+    "correct": 0,
+    "explanation": "- Từ ngữ “cái đọt” trong đoạn trích trên được hiểu là: cái ngọn rau muống non mềm, cỡ một gang tay, trắng nõn đang nhú lên khỏi mặt nước.",
+    "passage": "v-act_de40_cau16-20"
+  },
+  {
+    "id": 18,
+    "question": "Câu 18: Chỉ ra biện pháp tu từ chính được sử dụng trong đoạn sau: Từ rau muống, rau lang, mồng tơi, bù ngót đến lá chuối xanh, lá dứa, bó sả, nhúm ớt... Rồi cá, rồi gà, vịt, chuột đồng... Ngày rằm, ngày ba mươi, chợ trang điểm bằng bông trang được cột thành khóm đỏ tươi bán cho những người cúng bàn thờ Phật.",
+    "image": null,
+    "options": ["A. Liệt kê", "B. Hoán dụ", "C. Ẩn dụ", "D. So sánh"],
+    "correct": 0,
+    "explanation": "- Biện pháp tu từ chính được sử dụng trong đoạn trên là: liệt kê. - Tác giả liệt kê các loại rau, hàng hóa được bày bán ở chợ.",
+    "passage": "v-act_de40_cau16-20"
+  },
+  {
+    "id": 19,
+    "question": "Câu 19: Đọc lại đoạn trích, chỉ ra đoạn trích trên có bao nhiêu từ láy?",
+    "image": null,
+    "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+    "correct": 2,
+    "explanation": "- Các từ láy xuất hiện trong đoạn trích trên: lúc nhúc, run rẫy, xập xoài, lốn nhốn. => Có 4 từ láy xuất hiện trong đoạn trích.",
+    "passage": "v-act_de40_cau16-20"
+  },
+  {
+    "id": 20,
+    "question": "Câu 20: Nội dung chính của đoạn trích trên là gì?",
+    "image": null,
+    "options": ["A. Nhịp sống lao động của người dân miền Tây", "B. Vẻ đẹp bình dị, thiêng liêng của chợ quê với đủ mặt hàng theo mùa được làm ra bởi người dân miền Tây chân chất.", "C. Sự đa dạng và phong phú của chợ quê và tấm lòng chân chất của người dân miền Tây", "D. Nỗi nhớ quê của người con xa quê"],
+    "correct": 1,
+    "explanation": "- Thông qua việc miêu tả chợ quê với đầy đủ các thức hàng theo mùa được làm ra bởi những người dân chân chất thật thà đã tạo nên vẻ đẹp bình dị mà thiêng liêng cho chợ. - Đáp án A và D không đúng với nội dung của đoạn trích. - Đáp án C nằm trong ý của đáp án B. => Đáp án thể hiện nội dung chính của đoạn trích: Vẻ đẹp bình dị, thiêng liêng của chợ quê với đủ mặt hàng theo mùa được làm ra bởi người dân miền Tây chân chất.",
+    "passage": "v-act_de40_cau16-20"
+  },
+  {
+    "id": 21,
+    "question": "Câu 21: Choose a suitable word or phrase (marked A, B, C or D) to fill in each blank. By the time of his death, Thomas Edison a number of things that changed everyday life.",
+    "image": null,
+    "options": ["A. invented", "B. had invented", "C. invents", "D. has invented"],
+    "correct": 1,
+    "explanation": "Dấu hiệu nhận biết: By the time of his death => sử dụng thì quá khứ hoàn thành diễn tả hành động xảy ra trước một hành động hoặc một mốc thời gian trong quá khứ. Cấu trúc: had + V-ed/ Vp.p",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "question": "Câu 22: Choose a suitable word or phrase (marked A, B, C or D) to fill in each blank. her absence from class yesterday, she couldn't understand the lesson.",
+    "image": null,
+    "options": ["A. Although", "B. In spite of", "C. Because of", "D. Because"],
+    "correct": 2,
+    "explanation": "A. Although + S + V: mặc dù B. In spite of + N/ Ving: mặc dù C. Because of + N/ Ving: bởi vì D. Because + S + V: bởi vì Ta thấy phía sau liên từ là danh từ (her absence) nên loại A, D. Dựa vào ngữ cảnh, ta xác định 2 mệnh đề có quan hệ nguyên nhân – kết quả.",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "question": "Câu 23: Choose a suitable word or phrase (marked A, B, C or D) to fill in each blank. It is dangerous to go out here night because there are wild animals.",
+    "image": null,
+    "options": ["A. in", "B. at", "C. on", "D. with"],
+    "correct": 1,
+    "explanation": "at + buổi trong ngày (không có mạo từ “the”) Ex: at dawn, at evening, at sunrise, ...",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "question": "Câu 24: Choose a suitable word or phrase (marked A, B, C or D) to fill in each blank. With information available on the terrain, the hikers hired a personal guide in order to ensure their safety.",
+    "image": null,
+    "options": ["A. few", "B. little", "C. most", "D. many"],
+    "correct": 1,
+    "explanation": "A. few + N đếm được: một vài B. little + N không đếm được: một ít, một chút C. most + N đếm được/ không đếm được: hầu hết, hầu như D. many + N đếm được: nhiều Danh từ ‘information’ không đếm được nên loại A, D.",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "question": "Câu 25: Choose a suitable word or phrase (marked A, B, C or D) to fill in each blank. In the Middle Ages, salt was very valuable so that slaves were with it.",
+    "image": null,
+    "options": ["A. compare", "B. comparable", "C. comparative", "D. incomparable"],
+    "correct": 3,
+    "explanation": "Cấu trúc so sánh hơn: more/ less + Noun than. Cấu trúc so sánh bằng: as many/ much + Noun as. Dịch nghĩa các đáp án: SEA Games lần này có nhiều môn thi đấu hơn so với SEA Games trước. D. Không có nhiều môn thể thao được thi đấu ở SEA Games trước như ở SEA Games này.(đúng nghĩa)",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "question": "Câu 26: Each of the following sentences has one error (A, B, C, or D). Find it and blacken your choice on your answer sheet. Parking is very difficult in the city center, so my father always goes there by the bus.",
+    "image": null,
+    "options": ["A. Parking", "B. so", "C. always goes", "D. by the bus"],
+    "correct": 3,
+    "explanation": "Cụm từ chỉ phương tiện đi lại: by + phương tiện đi lại. Ex: by car (bằng ô tô), by bike (bằng xe đạp), by plane (bằng máy bay), ... Sửa: by the bus => by bus",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "question": "Câu 27: Each of the following sentences has one error (A, B, C, or D). Find it and blacken your choice on your answer sheet. She complained that his husband never paid her any compliments anymore.",
+    "image": null,
+    "options": ["A. complained", "B. his husband", "C. any compliments", "D. anymore"],
+    "correct": 1,
+    "explanation": "- his + N: của anh ấy - her + N: của cô ấy. Đại từ she (cô ấy) là đại từ chủ ngữ chỉ nữ giới nên tính từ sở hữu tương ứng phải là “her”. Sửa: his husband => her husband",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "question": "Câu 28: Each of the following sentences has one error (A, B, C, or D). Find it and blacken your choice on your answer sheet. There was so many flowers in the store that I didn't know which one to choose.",
+    "image": null,
+    "options": ["A. There was", "B. so", "C. that", "D. to choose"],
+    "correct": 0,
+    "explanation": "Cấu trúc với ‘there be’ (có): There + be (số nhiều) + N số nhiều … There + be (số ít) + N số ít/ N không đếm được. Danh từ ‘flowers’ số nhiều nên động từ ‘tobe’ phải chia số nhiều. Sửa: There was => There were",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "question": "Câu 29: Each of the following sentences has one error (A, B, C, or D). Find it and blacken your choice on your answer sheet. Helen Killer, whom was both blind and deaf, overcame her inabilities with the help of her teacher, Ann Sulivan.",
+    "image": null,
+    "options": ["A. inabilities", "B. deaf", "C. whom", "D. with"],
+    "correct": 2,
+    "explanation": "- whom: thay thế cho danh từ đóng vai trò tân ngữ - who: thay thế cho danh từ đóng vai trò chủ ngữ. Ta thấy đại từ quan hệ trong câu đóng vai trò chủ ngữ vì phía sau có động từ và tân ngữ. Sửa: whom => who",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "question": "Câu 30: Each of the following sentences has one error (A, B, C, or D). Find it and blacken your choice on your answer sheet. Using positive emotions to explain consumer's subsequent behavioral intentions is more effective than using negative ones.",
+    "image": null,
+    "options": ["A. Using", "B. consumer's", "C. more effective", "D. ones"],
+    "correct": 1,
+    "explanation": "Quy tắc thêm sở hữu cách: - Đối với danh từ số ít, thêm ‘s vào sau danh từ (Ex: a consumer’s choices) - Đối với danh từ số nhiều tận cùng là “s/es”, chỉ thêm dấu phẩy trên ‘ vào ngay sau danh từ (Ex: consumers’ choices) Dựa vào ngữ cảnh câu, danh từ “consumer” (nhiều người tiêu dùng) phải dùng ở dạng số nhiều. Sửa: consumer’s => consumers’",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "question": "Câu 31: Which of the following best restates each of the given sentence? There are more sports competed in this SEA Games than in last SEA Games.",
+    "image": null,
+    "options": ["A. The sports competed in this SEA Games are the same as those in last SEA Games.", "B. In this SEA Games, there are less sports competed than in last SEA Games.", "C. In the last SEA Games, there were some sports which were not competed.", "D. Not as many sports were competed in last SEA Games as in this SEA Games."],
+    "correct": 3,
+    "explanation": "Cấu trúc so sánh hơn: more/ less + Noun than. Cấu trúc so sánh bằng: as many/ much + Noun as. Dịch nghĩa các đáp án: SEA Games lần này có nhiều môn thi đấu hơn so với SEA Games trước. D. Không có nhiều môn thể thao được thi đấu ở SEA Games trước như ở SEA Games này.(đúng nghĩa)",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "question": "Câu 32: Which of the following best restates each of the given sentence? My mother does not cook well so she does not invite any guests.",
+    "image": null,
+    "options": ["A. Unless my mother cooks well, she invites guests for dinner.", "B. If my mother cooks well, she will invite more guests for dinner.", "C. If my mother had cooked well, she would have invited guests for dinner.", "D. If my mother could cook well, she would invite guests for dinner."],
+    "correct": 3,
+    "explanation": "Câu gốc diễn tả sự thật ở hiện tại nên phải dùng câu điều kiện loại 2 để giả định điều kiện trái với hiện tại. Cấu trúc câu điều kiện loại 2: If + S + Vqkđ, S + would/could/ might + V nguyên thể => If my mother could cook well, she would invite guests for dinner.",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "question": "Câu 33: Which of the following best restates each of the given sentence? I'm sorry but our policies prohibit you from bringing a camera into the museum.",
+    "image": null,
+    "options": ["A. You needn't bring a camera to the museum.", "B. You mustn't bring a camera to the museum.", "C. You cannot bring a camera to the museum.", "D. You shouldn't bring a camera to the museum."],
+    "correct": 1,
+    "explanation": "Chú ý: prohibit (v) cấm = mustn't. => I’m sorry but our policies prohibit you from bringing a camera into the museum. = B. You mustn’t bring a camera to the museum.",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "question": "Câu 34: Which of the following best restates the given sentence? It is thought that the accident was caused by human error.",
+    "image": null,
+    "options": ["A. The accident is thought to have been caused by human error.", "B. The accident is thought to be caused by human error.", "C. They thought that the accident was cause by human error.", "D. They thought that the accident had been caused by human error."],
+    "correct": 0,
+    "explanation": "Cấu trúc bị động khách quan: Câu chủ động: People say/ expect/ think…. that + S + V: Người ta nói rằng …. Câu bị động: Cách 1: S + am/is/are + said/ expected/…. + to V_nguyên thể/ to have Vp2 Cách 2: It is said/ expected/…. that + S + V. Xét các đáp án: A. đúng vì động từ “was caused” phải biến đổi về dạng to have been Vp.p. B. sai vì chia sai thì động từ “cause”. C. sai thì động từ về trước: thought => think. D. sai thì động từ cả 2 vế.",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "question": "Câu 35: Which of the following best restates each of the given sentence? Hung said: \"Good morning! How are you?\"",
+    "image": null,
+    "options": ["A. Hung greeted me and asked me how am I.", "B. Hung said good morning me and asked how was I.", "C. Hung greeted me and asked how I was.", "D. Hung said good morning and asked how I am."],
+    "correct": 2,
+    "explanation": "Với câu trực tiếp \"Good morning\", ta dùng động từ tường thuật 'greeted': S + greeted + sb. Với câu trực tiếp 'How are you?', ta dùng cấu trúc gián tiếp trong câu hỏi: asked sb + wh- word + S + V lui thì. => C. Hung greeted me and asked how I was.",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "question": "Câu 36: What can be best title of the passage?",
+    "image": null,
+    "options": ["A. Work among Humans and Animals", "B. The Accumulation of Wealth", "C. Sloth. One of the Seven Deadly Sins", "D. Human Cultural Training"],
+    "correct": 0,
+    "explanation": "Tiêu đề tốt nhất của đoạn văn là? A. Sự lao động giữa loài người và động vật B. Tích lũy của cải C. Sự lười biếng: Một trong bảy tội lỗi chết người D. Đào tạo văn hóa con người",
+    "passage": "v-act_de40_cau36-40"
+  },
+  {
+    "id": 37,
+    "question": "Câu 37: According to the author, humans are so industrious because",
+    "image": null,
+    "options": ["A. they have an inborn temptation to take it easy so that they can survive.", "B. they are stronger and better protected than animals, so they can easily gain more to survive.", "C. they need much more than animals need in order to survive.", "D. they can overcome the impulse to slow down and they work for gains beyond survival."],
+    "correct": 3,
+    "explanation": "Theo tác giả, con người rất siêng năng vì ______. Thông tin: - One reason for human diligence is that people, unlike animals, can often override the impulses they may feel to slow down. - Squirrels may collect what they need to make it through one winter but only humans worry about collect bills, retirement, or replacing their old record albums with compact discs.",
+    "passage": "v-act_de40_cau36-40"
+  },
+  {
+    "id": 38,
+    "question": "Câu 38: What is the word “torpor” in paragraph 2 closest meaning to?",
+    "image": null,
+    "options": ["A. diligence", "B. lethargy", "C. variability", "D. temptation"],
+    "correct": 3,
+    "explanation": "Từ “torpor” (cám dỗ) trong đoạn 2 có nghĩa gần nhất với? A. diligence (n): siêng năng B. lethargy (n): thờ ơ, trạng thái lười biếng C. variability (n): biến đổi D. temptation (n): cám dỗ => torpor = temptation. Thông tin: They can drink coffee when they might prefer a nap or flick on the air-conditioning when the heat might otherwise demand torpor.",
+    "passage": "v-act_de40_cau36-40"
+  },
+  {
+    "id": 39,
+    "question": "Câu 39: What does the word “They” in paragraph 2 refer to?",
+    "image": null,
+    "options": ["A. impulses", "B. animals", "C. resources", "D. people"],
+    "correct": 3,
+    "explanation": "Từ \"They\" trong đoạn 2 nói về điều gì? Thông tin: One reason for human diligence is that people, unlike animals, can often override the impulses they may feel to slow down. They can drink coffee when they might prefer a nap or flick on the air-conditioning when the heat might otherwise demand torpor.",
+    "passage": "v-act_de40_cau36-40"
+  },
+  {
+    "id": 40,
+    "question": "Câu 40: The passage is a combination of contrast and",
+    "image": null,
+    "options": ["A. steps in a process of working for human survival", "B. definitions and examples of human and animals' work", "C. a series of events in human and animals' life", "D. reasons for human's diligence and acquisitiveness."],
+    "correct": 3,
+    "explanation": "Đoạn văn là sự kết hợp của sự tương phản và lý do cho sự siêng năng và tiếp thu của con người. Thông tin: - One reason for human diligence is that people, unlike animals, can often override the impulses they may feel to slow down. - Much of the acquisitiveness is likely to be the result of cultural training.",
+    "passage": "v-act_de40_cau36-40"
+  },
+  {
+    "id": 41,
+    "question": "Câu 41: Trong buổi lễ khai mạc trước trận chung kết bóng đá nam, có 4 trọng tài và 2 đội bóng, mỗi đội gồm 11 cầu thủ tham gia bắt tay với nhau. Mỗi cầu thủ của hai đội bắt tay một lần với mọi người trừ đồng đội của mình, những trọng tài không chủ động bắt tay với người khác. Hỏi có bao nhiêu cái bắt tay?",
+    "image": null,
+    "options": ["A. 135.", "B. 209.", "C. 255.", "D. 330."],
+    "correct": 1,
+    "explanation": "Số cái bắt tay của các cầu thủ 2 đội với nhau là: 11.11=121 (cái) Số cái bắt tay của các cầu thủ 2 đội với các trọng tài là: (11+11).4=88 (cái) Vậy tổng cộng có 121 + 88 = 209 cái bắt tay.",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "question": "Câu 42: Cho một hộp chứa 5 bi xanh, 10 bi vàng và 15 bi đỏ. Lấy ngẫu nhiên ra 3 viên bi, xác suất để 3 viên bi lấy ra có ít nhất 1 bi vàng là",
+    "image": null,
+    "options": ["A. 135 812", "B. 75 406", "C. 146 203", "D. 15 58"],
+    "correct": 2,
+    "explanation": "Ta có: |Ω|= C30. Gọi A là biến cố 3 viên bi lấy ra có ít nhất 1 bi vàng. Số cách lấy 3 viên bi mà không có bi vàng là C30. Số cách lấy 3 viên bi có ít nhất 1 viên bi vàng là |ΩA| = C30 − C20. Xác suất để 3 viên bi lấy ra có ít nhất 1 bi vàng là P(A) = |ΩA| = C30 − C20 = 146 C30 203",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "question": "Câu 43: Số nghiệm của phương trình log3(5 − x) + log3(x + 1) = 2 là",
+    "image": null,
+    "options": ["A. 0.", "B. 1.", "C. 2.", "D. 3."],
+    "correct": 1,
+    "explanation": "ĐKXĐ: −1 < x < 5. log3(5−x)+log3(x+1)=2 ⇔ log3(5−x)(x+1)=2 ⇔ (5−x)(x+1)= 3² ⇔ −x² + 4x − 4 = 0 ⇔ x = 2 (thỏa đk) Vậy phương trình đã cho có 1 nghiệm.",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "question": "Câu 44: Chị A mua 2,5 kg thịt heo, 3 kg thịt bò, 1,5 kg thịt gà với số tiền là 950 000 đồng, Chị B mua 3 kg thịt heo, 1,5 kg thịt bò, 2 kg thịt gà với số tiền là 790 000 đồng. Hỏi chị C mua 4 kg thịt heo, 9 kg thịt bò, 2 kg thịt gà thì phải trả bao nhiêu tiền?",
+    "image": null,
+    "options": ["A. 1 620 000 đồng", "B. 1 880 000 đồng", "C. 2 020 000 đồng.", "D. 2 220 000 đồng"],
+    "correct": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\begin{cases} 2,5x + 3y + 1,5z = 950.000 \\\\ 3x + 1,5y + 2z = 790.000 \\\\ 4x + 9y + 2z = (*) \\end{cases}\\) trong đó (*) được thay thế lần lượt bởi các đáp án A, B, C, D. Ta thấy chỉ có D cho ra kết quả vô số nghiệm.",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "question": "Câu 45: Một hộp sữa A nặng 500g có hàm lượng đường là 20%. Cần bao nhiêu gam sữa B có hàm lượng 10% đường để trộn với sữa A tạo thành hỗn hợp sữa A&B có hàm lượng 12% đường?",
+    "image": null,
+    "options": ["A. 600 g.", "B. 1000 g.", "C. 1200 g.", "D. 2000 g."],
+    "correct": 3,
+    "explanation": "Gọi x (gam) là khối lượng sữa B cần dùng. Ta có phương trình: \\(\\frac{500.20\\% + x.10\\%}{500 + x} = 12\\% \\Rightarrow x = 2000.\\)",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "question": "Câu 46: Anh Minh vừa mới xây một cái hồ trữ nước cạnh nhà có dạng hình hộp chữ nhật, kích thước là 2m×2m×1m. Hiện hồ chưa có nước nên anh Minh phải ra sông lấy nước C. Mỗi lần ra sông anh gánh được 1 đôi nước đầy gồm hai thùng hình trụ bằng nhau có bán kính đáy là 0,2m và chiều cao là 0,4m. Biết hao hụt trong quá trình gánh nước là 10%. Số lần anh Minh phải gánh ít nhất để đầy hồ là",
+    "image": null,
+    "options": ["A. 44.", "B. 45.", "C. 46.", "D. 47."],
+    "correct": 1,
+    "explanation": "Thể tích hồ trữ nước là: 2.2.1 = 4(m3). Thể tích nước một lần gánh được của Minh là: 2.π.0,2 2.0,4.(1−10%) ≈ 0,09(m 3). Số lần anh Minh phải gánh ít nhất để đầy hồ là: \\(\\left\\lceil \\frac{4}{0.09} \\right\\rceil +1 = 45\\) (lần).",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "question": "Câu 47: Cho hàm số f ( x ) = − x 4 + 8 x 2 + 1 . Gọi m và M lần lượt là giá trị nhỏ nhất và lớn nhất của hàm số trên đoạn [-3; 1]. Giá trị của biểu thức M + m bằng",
+    "image": null,
+    "options": ["A. -7", "B. 0", "C. 9", "D. 18"],
+    "correct": 2,
+    "explanation": "Dùng chức năng Table của MTCT, dễ dàng xác định được m = -8 và M = 17. Vậy M + m = 9.",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "question": "Câu 48: Cho hình chóp S.ABC có tam giác SBC là tam giác vuông cân tại S,SB = 2a và khoảng cách từ A đến mặt phẳng (SBC) bằng 3a. Tính theo a thể tích V của khối chóp S.ABC.",
+    "image": null,
+    "options": ["A. V = 2a3.", "B. V = 4a3.", "C. V = 6a3", "D. V = 12a3."],
+    "correct": 0,
+    "explanation": "Ta chọn (SBC) làm mặt đáy → chiều cao khối chóp là d[A,(SBC)] = 3a . Tam giác SBC vuông cân tại S nên S∆SBC = 12 SB2 = 2a2 . Thể tích của khối chóp là V = 13 3a.2a2 = 2a3",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "question": "Câu 49: Tìm giá trị thực của tham số m để đồ thị hàm số y = mx−1 2x+m có đường tiệm cận đứng đi qua điểm M (−1;√2).",
+    "image": null,
+    "options": ["A. m = 1 .", "B. m = 0 .", "C. m = 2 .", "D. m = 2 ."],
+    "correct": 2,
+    "explanation": "Vì đồ thị phải có tiệm cận đứng nên \\(x = -\\frac{m}{2}\\) là tiệm cận đứng. Do đó \\(-\\frac{m}{2} = -1 \\Leftrightarrow m = 2\\).",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "question": "Câu 50: Giải bất phương trình 3x2 < 2x",
+    "image": null,
+    "options": ["A. x ∈ (0; +∞) .", "B. x ∈ (0; log 2 3) .", "C. x ∈ (0; log 3 2) .", "D. x ∈ (0;1) ."],
+    "correct": 2,
+    "explanation": "Ta có: \\(3^{x^2} < 2^x \\Leftrightarrow x^2 \\log 3 < x \\log 2 \\Leftrightarrow x^2 \\log 3 - x \\log 2 < 0 \\Leftrightarrow 0 < x < \\frac{\\log 2}{\\log 3} = \\log_3 2\\).",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "question": "Câu 51: Có một nhóm học sinh gồm 9 bạn được đánh số thứ tự từ 1 đến 9, trong đó 1, 2, 3 là những bạn giỏi toán; 2, 3, 4, 5 là những bạn giỏi văn; 1, 4, 6, 7 là những người bạn giỏi lý; 2, 4, 7, 8 là những bạn giỏi hóa; 1,2,9 là những bạn giỏi sinh. Trong nhóm học sinh này, số bạn không giỏi cả toán, lý và hóa là:",
+    "image": null,
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "correct": 1,
+    "explanation": "Loại 1, 2, 3 vì các bạn này giỏi toán. Loại 4, 6, 7 vì các bạn này giỏi lý. Loại 8 vì bạn này giỏi hóa. Vậy chỉ còn 2 bạn là 5 và 9 không giỏi cả toán, lý và hóa.",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "question": "Câu 52: Trong một cuộc đua xe đạp đường dài, có 4 tuyển thủ A, B, C, D tham gia và đã về đích. Trước khi cuộc đua diễn ra, có 3 bạn cổ động viên An, Bình, Tài đã dự đoán như sau: An: Tuyển thủ B về thứ nhì và tuyển thủ C về thứ ba. Bình: Tuyển thủ A về thứ nhì và tuyển thủ C về thứ tư. Tài: Tuyển thủ B về thứ nhất và tuyển thủ D về thứ nhì. Kết quả mỗi bạn đều dự đoán đúng 1 đội và sai 1 đội. Hỏi tuyển thủ D về thứ mấy?",
+    "image": null,
+    "options": ["A. Thứ nhất.", "B. Thứ nhì.", "C. Thứ ba.", "D. Thứ tư."],
+    "correct": 3,
+    "explanation": "+ Xét dự đoán của An: Giả sử tuyển thủ B về thứ nhì là đúng thì tuyển thủ C không thể về thứ ba. + Xét dự đoán của Tài: Khi đó, tuyển thủ B về nhất là sai nên tuyển thủ D về thứ nhì. Điều này mâu thuẫn với việc tuyển thủ B về thứ nhì. Do đó tuyển thủ B về thứ nhì là sai và tuyển thủ C phải về thứ ba. + Xét dự đoán của Bình: Vì C về thứ ba nên dự đoán tuyển thủ C về thứ tư là sai, suy ra tuyển thủ A phải về thứ nhì. + Xét dự đoán của Tài: Vì tuyển thủ A đã về thứ nhì nên dự đoán tuyển thủ D về thứ nhì là sai, do đó tuyển thủ B phải về thứ nhất. Vậy tuyển thủ D phải về thứ tư.",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "question": "Câu 53: Thứ tự các cuốn sách ở các ô số 6, 7, 8 và 9 có thể là",
+    "image": null,
+    "options": ["A. M, N, K, O.", "B. K, M, “trống”, L.", "C. M, K, “trống”, P.", "D. O, L, M, K."],
+    "correct": 2,
+    "explanation": "Loại A vì M, K không kề nhau. Loại B vì K là tiểu thuyết mà nằm ở ô số 6. Loại D vì bên cạnh ô số 7 chứa tiểu thuyết L, không có ô trống nào.",
+    "passage": "v-act_de40_cau53-56"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54: Nếu K được đặt ở ô số 8, thì kết luận nào sau đây luôn đúng?",
+    "image": null,
+    "options": ["A. P phải đặt ở ô số 7.", "B. Ô số 7 trống.", "C. P phải được đặt ở ô số 9.", "D. Ô số 9 trống."],
+    "correct": 3,
+    "explanation": "Vì K, M đặt kề nhau nên M đặt ở ô số 7 hoặc 9. Mà ô số 9 không thể đặt truyện ngắn nên M chỉ có thể ở ô số 7. Vì bên cạnh ô chứa tiểu thuyết K phải có ít nhất 1 ô trống nên ô số 9 trống.",
+    "passage": "v-act_de40_cau53-56"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55: Nếu M, N, O được đặt vào các ô từ 6 đến 8 không nhất thiết theo thứ tự và ô số 9 không trống thì ô số 6 và ô số 9 lần lượt chứa",
+    "image": null,
+    "options": ["A. N và L.", "B. M và L.", "C. O và P.", "D. M và P."],
+    "correct": 3,
+    "explanation": "M phải đặt cạnh K nên M chỉ có thể ở ô số 6 hoặc 8. M không thể ở ô số 8 vì khi đó K ở ô số 9 (mâu thuẫn – ô số 9 không thể chứa truyện ngắn). Do đó M chỉ có thể ở ô số 6. Ô số 9 không chứa truyện ngắn K, L và cũng không thể chứa M, N, O nên ô số 9 chỉ có thể chứa P.",
+    "passage": "v-act_de40_cau53-56"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56: Nếu ô số 1 và ô số 9 trống và truyện ngắn được đặt ở ô số 2, 3, 4 thì điều nào sau đây có thể đúng?",
+    "image": null,
+    "options": ["A. K ở ô số 6.", "B. L ở ô số 7.", "C. P ở ô số 6.", "D. O ở ô số 4."],
+    "correct": 1,
+    "explanation": "Ô số 4 phải chứa M và ô số 5 phải chứa K vì K, M cạnh nhau. Loại A và D. Ô số 6 cạnh bên K phải là ô trống nên loại C. Vậy chọn B.",
+    "passage": "v-act_de40_cau53-56"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57: Thứ tự 7 lần tiếp đối tác nào sau đây có thể đúng?",
+    "image": null,
+    "options": ["A. An Phong, Newteccons, Mitsubisi, Central, An Phong, Hòa Bình, Newteccons.", "B. An Phong, Mitsubisi, Central, Hòa Bình, An Phong, An Phong, Newteccons.", "C. An Phong, Newteccons, An Phong, Hòa Bình, An Phong, Mitsubisi, Central.", "D. An Phong, Mitsubisi, Central, An Phong, Newteccons, An Phong, Hòa Bình."],
+    "correct": 2,
+    "explanation": "Loại A vì tiếp An Phong 2 lần. Loại B vì tiếp An Phong 2 lần liên tiếp. Loại D vì Newteccons xuất hiện 2 lần.",
+    "passage": "v-act_de40_cau57-60"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58: Nếu công ty tiếp Hòa Bình ngay sau lần tiếp Newteccons thì ở lần thứ tư công ty tiếp đối tác nào?",
+    "image": null,
+    "options": ["A. An Phong.", "B. Hòa Bình.", "C. Newteccons.", "D. Central."],
+    "correct": 0,
+    "explanation": "Gộp A = (Hòa Bình + Newteccons) thành 1 lần tiếp, gộp B = (Mitsubisi + Central) thành 1 lần tiếp. Khi đó còn 5 lần tiếp. Để lần 3 tiếp An Phong không có 2 lần nào liên tiếp, thì An Phong phải được tiếp vào lần một, ba và năm. Hay nói cách khác: thứ tự các lần tiếp đối tác phải là: An Phong – A/B – An Phong – B/A – An Phong. Vậy lần thứ tư công ty tiếp An Phong.",
+    "passage": "v-act_de40_cau57-60"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59: Nếu công ty tiếp An Phong ở lần thứ hai thì đâu là danh sách đầy đủ và chính xác nhất các đối tác mà công ty có thể tiếp ở lần thứ sáu?",
+    "image": null,
+    "options": ["A. An Phong, Central, Newteccons.", "B. Mitsubisi, Newteccons.", "C. Hòa Bình, Newteccons, Central.", "D. Central, Hòa Bình."],
+    "correct": 3,
+    "explanation": "Vì không tiếp An Phong 2 lần liên tiếp nên có 2 trường hợp. Trường hợp 1: Tiếp An Phong 2 lần còn lại là ở lần thứ tư và thứ bảy (không thể tiếp An Phong ở lần thứ tư và thứ sáu vì phải tiếp Mitsubisi + Central). Khi đó lần thứ năm phải tiếp Mitsubisi và lần thứ sáu tiếp Central. Trường hợp 2: Tiếp An Phong 2 lần còn lại là ở lần thứ năm và thứ bảy. Khi đó lần thứ ba phải tiếp Mitsubisi và lần thứ tư tiếp Central. Vì không tiếp Hòa Bình ở lần đầu tiên nên Hòa Bình được tiếp ở lần thứ sáu. Tóm lại, lần thứ sáu có thể tiếp Central hoặc Hòa Bình.",
+    "passage": "v-act_de40_cau57-60"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60: Nếu lần thứ nhất công ty tiếp Newteccons thì câu nào dưới đây không thể đúng?",
+    "image": null,
+    "options": ["A. Lần thứ hai tiếp An Phong.", "B. Lần thứ ba tiếp Hòa Bình.", "C. Lần thứ tư tiếp Central.", "D. Lần thứ sáu tiếp An Phong."],
+    "correct": 2,
+    "explanation": "Đề các lần tiếp An Phong không liên tiếp nhau, phải tiếp Mitsubisi và Central vào các lần thứ ba – thứ tư hoặc thứ năm – thứ sáu. Loại C. Trường hợp 1: Tiếp Mitsubisi và Central vào các lần thứ ba – thứ tư. Khi đó An Phong phải được tiếp vào các lần thứ hai, thứ năm và thứ bảy. Loại A. Trường hợp 2: Tiếp Mitsubisi và Central vào các lần thứ năm – thứ sáu. Khi đó An Phong phải được tiếp vào các lần thứ hai, thứ tư và thứ bảy. Do đó, Hòa Bình được tiếp vào lần ba. Loại B.",
+    "passage": "v-act_de40_cau57-60"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61: Tổng kim ngạch xuất khẩu của hàng dệt may và giày dép các loại năm 2017 là",
+    "image": null,
+    "options": ["A. 36,82 tỷ USD", "B. 40,69 tỷ USD", "C. 49,86 tỷ USD", "D. 27,65 tỷ USD"],
+    "correct": 1,
+    "explanation": "Tổng kim ngạch xuất khẩu của hàng dệt may và giày dép các loại năm 2017 là: 26,04 + 14,65 = 40,69 (tỷ USD).",
+    "passage": "v-act_de40_cau61-63"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62: Xét 3 nhóm hàng có kim ngạch xuất khẩu lớn nhất, tổng kim ngạch xuất khẩu năm 2017 tăng khoảng bao nhiêu phần trăm so với năm 2016?",
+    "image": null,
+    "options": ["A. 26,13%.", "B. 24,37%.", "C. 22,18%", "D. 20,25%."],
+    "correct": 0,
+    "explanation": "Xét 3 nhóm hàng có kim ngạch xuất khẩu lớn nhất, so với năm 2016, tổng kim ngạch xuất khẩu năm 2017 tăng khoảng: (45,27 + 26,04 + 25,94) – (34,32 + 23,82 + 18,96) 100% ≈ 26,13% 34,32 + 23,82 + 18,96",
+    "passage": "v-act_de40_cau61-63"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63: Nhóm hàng có kim ngạch xuất khẩu năm 2017 tăng so với cùng kỳ năm 2016 với tỉ lệ phần trăm cao nhất là",
+    "image": null,
+    "options": ["A. Điện thoại các loại và linh kiện.", "B. Máy móc, thiết bị, dụng cụ và phụ tùng khác.", "C. Máy ảnh, máy quay phim và linh kiện.", "D. Máy vi tính, sản phẩm điện tử và linh kiện."],
+    "correct": 3,
+    "explanation": "So với cùng kỳ năm 2016, kim ngạch xuất khẩu năm 2017 của nhóm hàng: Điện thoại các loại và linh kiện tăng là: 45,27 – 34,32 .100% ≈ 31,9%. 34,32 Máy móc, thiết bị, dụng cụ và phụ tùng khác tăng là: 12,77-10,11 .100% ≈ 26,3% . 10,11 Máy ảnh, máy quay phim và linh kiện tăng là: 3,8-2,96 .100% ≈ 28,4% . 2,96 Máy vi tính, sản phẩm điện tử và linh kiện tăng là: 25,94-18,96 .100% ≈ 36,8%. 18,96",
+    "passage": "v-act_de40_cau61-63"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64: Trong số các loại sản phẩm Biệt Thự, Căn Hộ và Nhà Phố bán được, Biệt Thự chiếm bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 5%.", "B. 12,5%.", "C. 20%.", "D. 37,5%."],
+    "correct": 1,
+    "explanation": "Tỉ trọng sản phẩm Biệt Thự bán được so với tổng sản phẩm bán được là: 100% - (40% + 20% + 10% +25%) = 5%. Trong số các loại sản phẩm Biệt Thự, Căn Hộ và Nhà Phố bán được, số sản phẩm Biệt Thự chiếm: 5% 100% =12,5% 5% + 25% +10%",
+    "passage": "v-act_de40_cau64-66"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65: Nếu số lượng Nhà Phố bán được là 200 căn và số lượng sản phẩm bán được chỉ bằng 25% so với tổng số lượng sản phẩm cung ứng ra thị trường của công ty, thì số lượng sản phẩm tồn đọng (chưa bán được) của công ty là bao nhiêu?",
+    "image": null,
+    "options": ["A. 2000.", "B. 4000.", "C. 6000.", "D. 8000."],
+    "correct": 2,
+    "explanation": "Số sản phẩm bán được là: 200 : 10% (sản phẩm). Số sản phẩm cung ứng là: 200 : 10% : 25% (sản phẩm). Số lượng sản phẩm tồn đọng là: 200 : 10% : 25%.(100% – 25%) = 6000 (sản phẩm).",
+    "passage": "v-act_de40_cau64-66"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66: Trong quý III và quý IV, tổng số sản phẩm bán được của công ty giảm 50% so với 2 quý trước đó, trong đó số lượng sản phẩm Đất Nền bán được giảm 40%, Biệt Thự giảm 80%, Căn Hộ giảm 5 lần và số lượng sản phẩm Nhà Phố bán được bằng 1 số lượng sản phẩm Nhà Ở Xã Hội bán được. Hỏi số lượng sản phẩm Nhà Phố bán được trong quý III và quý IV giảm bao nhiêu phần trăm so với hai quý trước đó?",
+    "image": null,
+    "options": ["A. 40%.", "B. 50%.", "C. 60%.", "D. 80%."],
+    "correct": 1,
+    "explanation": "Giả sử trong quý I và quý II, công ty bán được tổng cộng 100 sản phẩm. Khi đó, bán được 40 sản phẩm Đất Nền, 5 sản phẩm Biệt Thự, 25 sản phẩm Căn Hộ, 10 sản phẩm Nhà Phố và 20 sản phẩm Nhà Ở Xã Hội. Trong quý III và quý IV, tổng số sản phẩm bán được của công ty là: 100 . (100% - 50%) = 50 (sản phẩm). Số sản phẩm Đất Nền, Biệt Thự, Căn Hộ bán được lần lượt là 24, 1 và 5. Do đó tổng số lượng sản phẩm Nhà Phố và Nhà Ở Xã Hội bán được là: 50 – (24 + 1 + 5) = 20. Vì số lượng sản phẩm Nhà Phố bán được bằng 1/3 số lượng sản phẩm Nhà Ở Xã Hội bán được nên số lượng sản phẩm Nhà Phố bán được trong quý III và quý IV là 5. So với hai quý trước đó, số lượng sản phẩm Nhà Phố bán được trong quý III và quý IV giảm: 5 .100% 50%. 10",
+    "passage": "v-act_de40_cau64-66"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67: Tổng doanh thu của cả hai cơ sơ A và B trong tháng này là",
+    "image": null,
+    "options": ["A. 12 triệu đồng.", "B. 24 triệu đồng.", "C. 36 triệu đồng.", "D. 48 triệu đồng."],
+    "correct": 3,
+    "explanation": "Tổng doanh thu của cả hai cơ sơ A và B trong tháng vừa qua là: 9000 + 4000 + 6000 + 1000 + 5000 + 2500 + 4000 + 500 + 5000 + 1500 + 3000 + 1000 + 2000 + 1000 + 2000 + 500 = 48 000 (nghìn đồng).",
+    "passage": "v-act_de40_cau67-70"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68: Doanh thu từ thức uống Sinh tố ở cơ sở A nhiều hơn cơ sở B là bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 40%.", "B. 60%.", "C. 150%.", "D. 250%."],
+    "correct": 2,
+    "explanation": "So với cơ sở B, doanh thu từ thức uống Sinh tố ở cơ sở A nhiều hơn là: (5000 + 2500) - (2000 + 1000) * 100% = 150%.",
+    "passage": "v-act_de40_cau67-70"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69: Xét ở cả hai cơ sở, doanh thu từ hình thức Mang Đi ít hơn so với doanh thu từ hình thức Tại Quán là bao nhiêu phần trăm?",
+    "image": null,
+    "options": ["A. 25%.", "B. 40%.", "C. 66,67%.", "D. 75%."],
+    "correct": 2,
+    "explanation": "Doanh thu từ hình thức Mang Đi ở cả hai cơ sở là: 4000 + 1000 +2500 + 500 + 1500 + 1000 + 1000 + 500 = 12 000 (nghìn đồng). Doanh thu từ hình thức Tại Quán ở cả hai cơ sở là: 48 000 – 12 000 = 36.000 (nghìn đồng). So với doanh thu từ hình thức Tại Quán, doanh thu từ hình thức Mang Đi ít hơn là: (36000 - 12000) / 36000 * 100% ≈ 66,67%.",
+    "passage": "v-act_de40_cau67-70"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70: Sang tháng tiếp theo, cơ sở A đạt tổng doanh thu mới gấp 5 lần tổng doanh thu mới của cơ sở B. Biết phần doanh thu tăng lên của cơ sở A gấp 3 lần phần doanh thu giảm xuống của cơ sở B. Hỏi doanh thu cơ sở B giảm bao nhiêu phần trăm so với tháng trước đó?",
+    "image": null,
+    "options": ["A. 25", "B. 37,5%.", "C. 50%.", "D. 60%."],
+    "correct": 1,
+    "explanation": "Doanh thu của cơ sở A tháng trước là: 9000 + 4000 + 6000 + 1000 + 5000 + 2500 + 4000 + 500 = 32 000. Doanh thu của cơ sở B tháng trước là: 48 000 – 32 000 = 16 000. Gọi x, y lần lượt là doanh thu mới của cơ sở A và B. Ta có: x = 5y và x - 32000 = 3(16000 - y) => 5y - 32000 = 48000 - 3y => 8y = 80000 => y = 10000. Vậy doanh thu cơ sở B giảm: (16000 - 10000) / 16000 * 100% = 37,5%.",
+    "passage": "v-act_de40_cau67-70"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71: Cho các phát biểu sau: (1) Tất cả các hạt nhân nguyên tử đều được cấu tạo từ các hạt proton và electron. (2) Khối lượng nguyên tử tập trung phần lớn ở phần nhân. (3) Nguyên tử trung hoà về điện. (4) Trong nguyên tử, hạt mang điện là hạt proton và electron. (5) Trong nguyên tử chỉ có hạt neutron là không mang điện. (6) Trong nguyên tử số electron bằng số proton. Số phát biểu sai là:",
+    "image": null,
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "correct": 0,
+    "explanation": "(1) Sai, hạt nhân nguyên tử được cấu tạo từ proton và neutron. (2) Đúng. (3) Đúng. (4) Đúng. (5) Đúng. (6) Đúng.",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "question": "Câu 72: Cho các cân bằng hoá học sau: (1) N2(k) + 3H2(k) ⇌ 2NH3(k) (2) 2SO2(k) + O2(k) ⇌ 2SO3(k) (3) 2NO2(k) ⇌ N2O4(k) (4) H2(k) + I2(k) ⇌ 2HI(k) (5) CO2(k) + H2(k) ⇌ CO(k) + H2O(k) Khi thay đổi áp suất của hệ, các cân bằng hoá học bị chuyển dịch là?",
+    "image": null,
+    "options": ["A. (1), (2).", "B. (1), (3), (5).", "C. (2), (3).", "D. (1), (2), (3)."],
+    "correct": 3,
+    "explanation": "Để cân bằng chuyển dịch khi thay đổi áp suất thì số mol khí ở hai vế phải khác nhau. Các phản ứng có số mol khí hai vế khác nhau là: (1), (2), (3).",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "question": "Câu 73: \"Bột nhừ\" là một chất thường dùng trong nấu ăn. Công thức hoá học của chất này là NaHCO3. Khi một muỗng (thìa) đầy bột nhừ được thêm vào nước ấm thì có sủi bọt khí. Khí tạo thành là một hợp chất. Nó chỉ có thể là khí nào sau đây?",
+    "image": null,
+    "options": ["A. Hidro.", "B. Oxi.", "C. Cacbon đioxit.", "D. Hơi nước."],
+    "correct": 2,
+    "explanation": "Phương trình phân huỷ muối NaHCO3 bởi nhiệt là: 2NaHCO3 → Na2CO3 + CO2↑ + H2O. Vậy khi thoát ra là khí cacbon đioxit.",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "question": "Câu 74: Cho hỗn hợp X gồm hai este có công thức phân tử C4H8O2 và C3H6O2 tác dụng với NaOH dư thu được 6,14 gam hỗn hợp hai muối và 3,68 gam ancol B duy nhất có tỉ khối so với oxi là 1.4375. Khối lượng mỗi este trong X lần lượt là",
+    "image": null,
+    "options": ["A. 2,22, gam và 4,4 gam.", "B. 3,33 gam và 6,6 gam.", "C. 4,44 gam và 8,8 gam.", "D. 5,6 gam và 11,2 gam."],
+    "correct": 0,
+    "explanation": "- Ứng với công thức phân tử C3H6O2 có các este sau: HCOOC2H5 (1) và CH3COOCH3 (2). - Ứng với công thức phân tử C4H8O2 có các este sau: HCOOC3H7 (3), CH3COOC2H5 (4) và C2H5COOCH3 (5). - Khối lượng phân tử của ancol B là: MB = 1,4375.32 = 46 ⇒ ancol B là C2H5OH. ⇒ Este (1) và (4) thoả mãn. - Gọi x và y lần lượt là số mol của HCOOC2H5 và CH3COOC2H5. + Sau khi phản ứng với NaOH dư thu được sản phẩm hai muối có khối lượng là 6,14 gam ⇒ 68x + 82y = 6,14 (1) + Khối lượng của ancol B là 3,68 gam ⇒ 46(x + y) = 3,68 (2) Từ (1) và (2) ⇒ x = 0,03 và y = 0,05. ⇒ Khối lượng mỗi este là: mHCOOCH3 = 2,22 gam và mCH3COOC2H5 = 4,4 gam.",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "question": "Câu 75: Phương trình nào sau đây viết đúng về phương trình quang hợp của cây xanh để tổng hợp tinh bột?",
+    "image": null,
+    "options": ["A. 6CO2 + 5nH2O → (C6H10O5)n + 6nO2", "B. 6CO2 + 6nH2O → (C6H10O5)n + 6nO2", "C. 6CO2 + 6nO2 → (C6H10O5)n + 5nH2O", "D. 6CO2 + 6nO2 → (C6H10O5)n + 6nH2O"],
+    "correct": 0,
+    "explanation": "6CO2 + 5nH2O → (C6H10O5)n + 6nO2. Suy ra đáp án A.",
+    "passage": "v-act_de40_cau75-77"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76: Thủy phân tinh bột tạo ra các phân tử",
+    "image": null,
+    "options": ["A. fructozo.", "B. glucozo.", "C. glucozo và fructozo.", "D. saccarozo."],
+    "correct": 1,
+    "explanation": "Thủy phân tinh bột tạo ra các phân tử glucozo.",
+    "passage": "v-act_de40_cau75-77"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77: Phát biểu nào sau đây mô tả đúng hiện tượng về phản ứng màu của tinh bột với iot?",
+    "image": null,
+    "options": ["A. Phản ứng ở nhiệt độ thường không có hiện tượng gì. Khi đun dung dịch lên thì màu xanh tím xuất hiện. Khi để nguội thì màu xanh tím lại biến mất.", "B. Phản ứng ở nhiệt độ thường tạo thành hợp chất có màu xanh lam thẫm.", "C. Phản ứng ở nhiệt độ thường tạo thành hợp chất có màu xanh tím. Khi đun dung dịch lên thì màu xanh tím bị mất. Khi để nguội thì màu xanh tím lại xuất hiện.", "D. Phản ứng ở nhiệt độ thường tạo thành hợp chất có màu xanh lam thẫm. Khi đun dung dịch lên thì màu xanh lam thẫm bị mất. Khi để nguội thì màu xanh lam thẫm lại xuất hiện."],
+    "correct": 2,
+    "explanation": "Phản ứng ở nhiệt độ thường tạo thành hợp chất có màu xanh tím. Khi đun dung dịch lên thì màu xanh tím bị mất. Khi để nguội thì màu xanh tím lại xuất hiện.",
+    "passage": "v-act_de40_cau75-77"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78: Kết quả thí nghiệm cho thấy bóng đèn trong thí nghiệm chứa dung dịch chất X đã không sáng. Chất X có thể là chất nào dưới đây?",
+    "image": null,
+    "options": ["A. axit axetic.", "B. ancol etylic.", "C. natri hiđroxit.", "D. kali sunfat."],
+    "correct": 1,
+    "explanation": "Cốc thí nghiệm đựng dung dịch chất X là chất không điện li nên dung dịch X không dẫn điện, bóng đèn của dung dịch X không sáng. Vậy X là là chất không điện li nên X là ancol etylic (C2H5OH), chất hữu cơ tan trong nước nhưng không dẫn điện.",
+    "passage": "v-act_de40_cau78-80"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79: Thực hiện thí nghiệm thứ hai với dung dịch của axit axetic có nồng độ 0,2M. Độ điện li của axit axetic trong điều kiện này là 1,0%. Nồng độ của axit axetic còn lại sau khi phân li trong dung dịch là:",
+    "image": null,
+    "options": ["A. 0,099M.", "B. 0,098M.", "C. 0,199M.", "D. 0,198M."],
+    "correct": 3,
+    "explanation": "- Nồng độ mol/L của axit axetic đã hoà tan và phân li ra ion là: C = C0 × α = 0,2 × 1% = 0,002M. - Nồng độ mol/L của axit axetic còn lại sau khi phân li trong dung dịch là: 0,2 – 0,002 = 0,198M.",
+    "passage": "v-act_de40_cau78-80"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80: Bạn học sinh tiếp tục đó tiếp tục thực hiện thí nghiệm thứ ba tương tự như thí nghiệm một với hai cốc đựng dung dịch HClO4 0,1M và HClO 0,1M. Nhúng hai thanh kim loại vào hai cốc chứa hai dung dịch này ta thấy bóng đèn ở cốc HClO4 sáng hơn bóng đèn ở cốc HClO. Kết luận nào sau đây đúng?",
+    "image": null,
+    "options": ["A. Độ điện li (α) của dung dịch HClO lớn hơn dung dịch HClO4.", "B. Nồng độ các ion trong dung dịch HClO4 lớn hơn nồng độ các ion trong dung dịch HClO.", "C. Dung dịch HClO có tính axit mạnh hơn dung dịch HClO4.", "D. Phương trình điện li của HClO được biểu diễn bằng mũi tên một chiều."],
+    "correct": 1,
+    "explanation": "Đèn nối với dung dịch HClO4 sáng hơn đèn nối với dung dịch HClO nên chứng tỏ nồng độ ion tự do truyền tải điện của dung dịch HClO4 nhiều hơn trong dung dịch HClO. Ngoài ra, HClO4 là chất điện li mạnh, HClO là chất điện li yếu. - Đáp án A: Sai, vì nồng độ ion tự do trong dung dịch HClO4 lớn hơn HClO nên độ điện li (α) của dung dịch HClO4 lớn hơn dung dịch HClO. - Đáp án B: Đúng. - Đáp án C: Sai, dung dịch HClO điện li yếu hơn dung dịch HClO4 nên tính axit của HClO yếu hơn HClO4. - Đáp án D: Sai, vì HClO là chất điện li yếu nên phương trình điện li của HClO được biểu diễn bằng mũi tên một chiều.",
+    "passage": "v-act_de40_cau78-80"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81: Chiếu một chùm sáng song song tới thấu kính thấy chùm ló là chùm phân kì coi như xuất phát từ một điểm nằm trước thấu kính và cách thấu kính một đoạn 25 cm. Thấu kính đó là:",
+    "image": null,
+    "options": ["A. thấu kính hội tụ có tiêu cự f = 25 cm.", "B. thấu kính phân kì có tiêu cự f = 25 cm.", "C. thấu kính hội tụ có tiêu cự f = – 25 cm.", "D. thấu kính phân kì có tiêu cự f = – 25 cm."],
+    "correct": 3,
+    "explanation": "Ta có chiếu chùm tia sáng song sóng cho chùm tia ló phân kì => thấu kính ở đây là thấu kính phân kì. Thấu kính phân kì nên tiêu cự của thấu kính sẽ là f < 0 => đáp án đúng là D.",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "question": "Câu 82: Một sợi dây đàn hồi AB căng ngang, hai đầu cố định đang có sóng dừng ổn định. Ở thời điểm t1 điểm M đang có tốc độ bằng 0, hình dạng sợi dây là đường nét liền như hình vẽ. Sau khoảng thời gian ngắn nhất 1 s hình dạng sợi dây là đường nét đứt. Tốc độ truyền sóng trên dây là: 6",
+    "image": null,
+    "options": ["A. 30cm/s", "B. 40cm/s", "C. 80cm/s", "D. 60cm/s"],
+    "correct": 2,
+    "explanation": "Từ đồ thị ta thấy: Thời gian dao động của M từ trên (thời điểm t1) xuống dưới (thời điểm t2) là: t = T/4 + T/12 = 1/6 => T = 0,6s. Tốc độ truyền sóng là: v = λ/T = 40/0,5 = 80 (cm/s).",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "question": "Câu 83: Một xe ô tô chạy trên đường, cứ 8 m lại có một cái mô nhỏ. Chu kì dao động tự do của khung xe trên các lò xo là 1,5 s. Xe chạy với tốc độ nào thì bị rung mạnh nhất?",
+    "image": null,
+    "options": ["A. 12,7 km/h.", "B. 18,9 km/h.", "C. 16,3 km/h.", "D. 19,2 km/h."],
+    "correct": 3,
+    "explanation": "Khi bị rung mạnh nhất thì đó là trường hợp cộng hưởng xảy ra. Khi đó chu kì dao động tự do chính là chu kì dao động riêng của hệ. Thời gian xe đi trên mỗi đoạn: t = T = 1,5s. → tốc độ khi bị rung mạnh nhất: v = s = 8 = 5,33 (m / s) =19,2 (km / h) t 1,5",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "question": "Câu 84: Một con lắc lò xo treo vật nặng có khối lượng 800 g, đang dao động điều hòa theo phương thẳng đứng, chiều dương hướng lên, khi đó lực hồi phục và chiều dài của lò xo có mối liên hệ được cho bởi đồ thị như hình vẽ. Cho g = 10m/s2. Biên độ và chu kỳ dao động của con lắc là:",
+    "image": null,
+    "options": ["A. A = 8 cm; T = 0,8 s.", "B. A = 8 cm; T = 0,4 s.", "C. A = 4 cm; T = 0,3 s.", "D. A = 16 cm; T = 0,56"],
+    "correct": 0,
+    "explanation": "Ta có biên độ của con lắc: A = (lmax - lmin) / 2 = 8cm. Lực hồi phục cực đại: Fhmax = kA = 4 ⇒ k = 4 / (8.10^-2) = 50N/m. Chu kì T của con lắc: T = 2π sqrt(m/k) = 0,8s.",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "question": "Câu 85: Để các máy hoạt động bình thường, cường độ dòng điện qua mỗi máy có giá trị:",
+    "image": null,
+    "options": ["A. 5A", "B. 10A", "C. 50A", "D. 100A"],
+    "correct": 2,
+    "explanation": "Để máy hoạt động bình thường, cường độ dòng điện qua máy phải đạt giá trị định mức: I = P/U = 11000/220 = 50 (A).",
+    "passage": "v-act_de40_cau85-87"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86: Xưởng phải sử dụng máy biến áp với tỉ lệ số vòng dây sơ cấp và thứ cấp",
+    "image": null,
+    "options": ["A. 1,27", "B. 2,27", "C. 3,27", "D. 4,27"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức máy biến ta có tỉ số giữa số vòng dây sơ cấp và thứ cấp là: N1/N2 = U1/U2 = 500/220 = 2,27.",
+    "passage": "v-act_de40_cau85-87"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87: Nếu giữ nguyên điện áp nơi phát thì số máy hoạt động đã được nhập về thêm là",
+    "image": null,
+    "options": ["A. 50", "B. 30", "C. 100", "D. 70"],
+    "correct": 3,
+    "explanation": "Gọi công suất của 1 máy là P0. Hiệu suất truyền tải lúc đầu là: H1 = (P1 - Php1)/P1 = 0,9 => Php1 = 0,1P1 (2). Mà P1 = 90P0. => Php1 = 9P0. Công suất hao phí trên đường dây: Php = (P^2 R)/U^2. Lúc sau: H2 = 0,8 và P2 = (90+n)P0. Ta có: Php2 = (P2^2 R)/U^2. Chia (2) và (1): Php2/Php1 = (P2/P1)^2 => 0,2P2/(0,1P1) = (P2/P1)^2 => 2 = P2/P1 => P2 = 2P1 => (90+n)P0 = 180P0 => n = 90. Vậy số máy nhập thêm là 90.",
+    "passage": "v-act_de40_cau85-87"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88: Việc dùng dây cáp quang để truyền tín hiệu trong thông tin và trong nội soi y học là ứng dụng của hiện tượng nào sau đây?",
+    "image": null,
+    "options": ["A. khúc xạ ánh sáng", "B. phản xạ ánh sáng", "C. phản xạ toàn phần", "D. tán sắc ánh sáng."],
+    "correct": 2,
+    "explanation": "Dây cáp quang là ứng dụng của hiện tượng phản xạ toàn phần.",
+    "passage": "v-act_de40_cau88-90"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89: Sợi quang gồm hai phần chính. Phần lõi trong suốt bằng thuỷ tinh siêu sạch có chiết suất n1. Phần vỏ bọc cũng trong suốt, bằng thuỷ tinh có chiết suất n2. Khi so sánh chiết suất của chất làm lõi và vỏ bọc, kết luận nào sau đây đúng:",
+    "image": null,
+    "options": ["A. n1 = n2", "B. n1 > n2", "C. n1 < n2", "D. Tuỳ thuộc vào mỗi loại cáp quang."],
+    "correct": 1,
+    "explanation": "Phản xạ toàn phần xảy ra khi ánh sáng được truyền từ một môi trường tới một môi trường có chiết quang kém hơn. Suy ra: n1 > n2.",
+    "passage": "v-act_de40_cau88-90"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90: Một sợi quang hình trụ gồm phần lõi có chiết suất n = 1,54 và phần vỏ bọc có chiết suất n0= 1,41. Trong không khí, một tia sáng tới mặt trước của sợi quang tại điểm O (O nằm trên trục của sợi quang) với góc tới α rồi khúc xạ vào phần lõi (như hình vẽ). Để tia sáng chỉ truyền đi trong phần lõi thì giá trị lớn nhất của α gần nhất với giá trị nào sau đây:",
+    "image": null,
+    "options": ["A. 490", "B. 380", "C. 450", "D. 330"],
+    "correct": 1,
+    "explanation": "Để tia sáng chỉ truyền đi trong phần lõi thì phải xảy ra hiện tượng phản xạ toàn phần tại A. Ta có: sin i_gh = n0/n1 = 1,41/1,54 => i_gh ≈ 66,289°. => AOH = 90 - 66,289 = 23,711°. Tại O ta có: sin α = n1 * sin AOH = 1,54 * sin 23,711 => α ≈ 38,26°.",
+    "passage": "v-act_de40_cau88-90"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91: Loại hoocmon nào sau đây ở thực vật có tác dụng làm chậm sự già hóa của tế bào?",
+    "image": null,
+    "options": ["A. Xitokinin.", "B. Etilen.", "C. Tiroxin.", "D. Acid abixixic."],
+    "correct": 0,
+    "explanation": "Xitôkinin: kích thích sự phân chia tế bào, làm chậm quá trình già hóa của cơ thể; kích thích này chồi nách trong nuôi cấy mô thực vật khi kết hợp với auxin.",
+    "passage": null
+  },
+  {
+    "id": 92,
+    "question": "Câu 92: Loài động vật nào dưới đây có hình thức tiêu hóa khác với các loài còn lại?",
+    "image": null,
+    "options": ["A. Chim.", "B. Cá chép.", "C. Thủy tức.", "D. Trai sông."],
+    "correct": 2,
+    "explanation": "Chim, cá chép, trai sông là những loài có ống tiêu hóa và chủ yếu tiêu hóa ngoại bào. Thủy tức là loài có túi tiêu hóa và vừa tiêu hóa nội bào và ngoại bào.",
+    "passage": null
+  },
+  {
+    "id": 93,
+    "question": "Câu 93: Các codon UUU, UUA, XXU. XAA, AXA mã hóa cho các acid amin tương ứng lần lượt là: Phe, Leu, Pro, Gln, His. Đoạn mạch gốc nào sau đây sẽ tham gia mã hóa chuỗi acid amin theo trật tự: Leu – His – Gln – Phe – Pro.",
+    "image": null,
+    "options": ["A. 5’…UUA AXA XAA UUA XXU..3’", "B. 3’…AAT TGT GTT AAT GGA…5’", "C. 5’…AAT TGT GTT AAT GGA…3’", "D. 3’…UUA AXA XAA UUA XXU..5’"],
+    "correct": 1,
+    "explanation": "Chuỗi Leu – His – Gln – Phe – Pro được mã hóa bởi đoạn mARN có trình tự 5’…UUA AXA XAA UUA XXU..3’. Vậy đoạn mã gốc trên gen là: 3’…AAT TGT GTT AAT GGA…5’.",
+    "passage": null
+  },
+  {
+    "id": 94,
+    "question": "Câu 94: Loại biến dị nào sau đây có thể làm tăng số lượng alen của một gen trong tế bào nhưng không làm tăng số loại alen của gen trong quần thể?",
+    "image": null,
+    "options": ["A. Đột biến gen.", "B. Đột biến đa bội.", "C. Đột biến đảo đoạn nhiễm sắc thể.", "D. Đột biến chuyển đoạn trong một nhiễm sắc thể."],
+    "correct": 1,
+    "explanation": "Loại biến dị có thể làm tăng số lượng alen của một gen trong tế bào nhưng không làm tăng số loại alen của gen trong quần thể là đột biến đa bội.",
+    "passage": null
+  },
+  {
+    "id": 95,
+    "question": "Câu 95: Dựa vào hình 1, hãy cho biết, khí CO2 trong quá trình hô hấp tế bào được giải phóng ở các giai đoạn nào?",
+    "image": null,
+    "options": ["A. Đường phân và oxi hóa Pyruvic.", "B. Oxi hóa Pyruvic acid và chu trình Krebs.", "C. Chu trình Krebs và chuỗi truyền electron hô hấp.", "D. Đường phân và chuỗi truyền electron hô hấp."],
+    "correct": 1,
+    "explanation": "Dựa vào hình 1, ta dễ dàng nhận thấy khí CO2 trong quá trình hô hấp tế bào được giải phóng ở các giai đoạn: Oxi hóa Pyruvic và chu trình Krebs.",
+    "passage": "v-act_de40_cau95-97"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96: Chu trình Creb không có sự tham gia của chất nào sau đây?",
+    "image": null,
+    "options": ["A. Pyruvic acid.", "B. Axetyl-CoA.", "C. FAD+.", "D. NAD+."],
+    "correct": 0,
+    "explanation": "Trước khi diễn ra chu trình Krebs, thì Pyruvic acid được oxi hóa tạo thành Axetyl-CoA. => Chu trình Creb không có sự tham gia của Pyruvic acid.",
+    "passage": "v-act_de40_cau95-97"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97: Từ 10 phân tử glucose trải qua quá trình hô hấp tế bào sẽ tạo ra:",
+    "image": null,
+    "options": ["A. 260 – 280 ATP, 10 CO2, 10 H2O.", "B. 26 – 28 ATP, 2 CO2, 2 H2O.", "C. 260 – 280 ATP, 60 CO2, 60 H2O.", "D. 260 – 280 ATP, 5 CO2, 5 H2O."],
+    "correct": 2,
+    "explanation": "Từ 1 phân tử glucose trải qua quá trình hô hấp tế bào sẽ tạo ra: 26 – 28 ATP, 6 CO2, 6 H2O. => Từ 6 phân tử glucose trải qua quá trình hô hấp tế bào sẽ tạo ra: 260 – 280 ATP, 60 CO2, 60 H2O.",
+    "passage": "v-act_de40_cau95-97"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98: Hai chất nào dưới đây có chức năng trái ngược nhau?",
+    "image": null,
+    "options": ["A. Glucose và insulin.", "B. Glucose và glycogen.", "C. Insulin và glycogen.", "D. Insulin và glucagon."],
+    "correct": 3,
+    "explanation": "Insulin làm giảm lượng đường trong máu. Glucagon làm tăng lượng đường trong máu. Vậy hai chất có chức năng trái ngược nhau là: Insulin và glucagon.",
+    "passage": "v-act_de40_cau98-100"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99: Nhận định nào sau đây đúng khi lượng đường trong máu dư thừa?",
+    "image": null,
+    "options": ["A. Lượng đường trong máu dư thừa sẽ kích thích giải phóng glucagon.", "B. Lượng đường trong máu dư thừa thúc đẩy sự phân hủy glycogen.", "C. Lượng đường trong máu dư thừa làm tăng dự trữ glycogen trong gan.", "D. Lượng đường trong máu dư thừa kích thích các tế bào giải phóng glucose."],
+    "correct": 2,
+    "explanation": "Ý A không đúng, lượng đường trong máu dư thừa sẽ kích thích giải phóng insulin. Ý B không đúng, lượng đường trong máu dư thừa thúc đẩy sự tích lũy glycogen trong gan. Ý C đúng. Ý D không đúng, lượng đường trong máu dư thừa không kích thích các tế bào giải phóng glucose.",
+    "passage": "v-act_de40_cau98-100"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100: Nếu cơ thể thiếu hụt hormone Insulin thì điều gì sẽ xảy ra?",
+    "image": null,
+    "options": ["A. Glycogen sẽ ngừng chuyển hóa và đưa một lượng lớn glucose vào máu.", "B. Glucose sẽ ngừng chuyển hóa và đưa một lượng lớn glycogen vào máu.", "C. Glycogen sẽ không ngừng chuyển hóa và đưa một lượng lớn glucose vào máu.", "D. Glucose sẽ không ngừng chuyển hóa và đưa một lượng lớn glycogen vào máu."],
+    "correct": 2,
+    "explanation": "Insulin chính là hormone làm ức chế sự chuyển hóa glycogen thành glucose và đi vào máu. Do đó, nếu thiếu hụt insulin, glycogen sẽ không ngừng chuyển hóa và đưa một lượng lớn glucose vào máu.",
+    "passage": "v-act_de40_cau98-100"
+  },
+  {
+    "id": 101,
+    "question": "Câu 101: Euro với tư cách là đồng tiền của EU đã được đưa và giao dịch thanh toán từ khi nào?",
+    "image": null,
+    "options": ["A. Năm 1999.", "B. Năm 2001.", "C. Năm 2002.", "D. Năm 2004."],
+    "correct": 0,
+    "explanation": "Euro với tư cách là đồng tiền của EU đã được đưa và giao dịch thanh toán từ năm 1999. Đến năm 2004 đã có tới 13 nước thành viên EU sử dụng ơ-rô là đồng tiền chung.",
+    "passage": null
+  },
+  {
+    "id": 102,
+    "question": "Câu 102: Công viên Địa chất Toàn cầu UNESCO Đắk Nông (tỉnh Đắk Nông) thuộc vùng núi nào của nước ta?",
+    "image": null,
+    "options": ["A. Tây Bắc.", "B. Đông Bắc.", "C. Trường Sơn Bắc.", "D. Trường Sơn Nam."],
+    "correct": 3,
+    "explanation": "Bước 1: mở Atlat địa lý trang 4-5 xác định tỉnh Đắk Nông. Bước 2: giữ và mở trang 14 xác định vùng núi. Công viên Địa chất Toàn cầu UNESCO Đắk Nông (tỉnh Đắk Nông) thuộc vùng núi Trường Sơn Nam.",
+    "passage": null
+  },
+  {
+    "id": 103,
+    "question": "Câu 103: Cho câu thơ: “Anh ở trong này chưa thấy mùa đông Muốn gửi ra em một chút nắng vàng” (Trích: Gửi nắng cho em - Bùi Văn Dung) Đoạn thơ trên thể hiện sự phân hóa thiên nhiên nước ta theo",
+    "image": null,
+    "options": ["A. phân khu địa lý.", "B. độ cao.", "C. Bắc - Nam.", "D. Đông - Tây."],
+    "correct": 2,
+    "explanation": "Chú ý phân tích “trong này, chưa thấy mùa đông” -> chỉ có miền Nam nước ta mới không có mùa đông. Đoạn thơ đã cho, thể hiện sự phân hóa thiên nhiên nước ta theo chiều Bắc - Nam và cả theo mùa. Miền Bắc có mùa đông lạnh, ít ngày có nắng, trong khi miền Nam nóng, có nắng quanh năm => Nhân vật “Anh” ở miền Nam muốn gửi nắng ra Bắc vào mùa đông của miền Bắc.",
+    "passage": null
+  },
+  {
+    "id": 104,
+    "question": "Câu 104: Đồng bào các dân tộc ít người ở nước ta sinh sống chủ yếu ở các vùng nào?",
+    "image": null,
+    "options": ["A. Vùng nông thôn ở đồng bằng.", "B. Các đô thị có quy mô vừa và nhỏ.", "C. Vùng núi, biên giới, hải đảo.", "D. Vùng đồng bằng, cửa sông, ven biển."],
+    "correct": 2,
+    "explanation": "Đồng bào các dân tộc ít người ở nước ta sinh sống chủ yếu ở vùng núi, biên giới và hải đảo.",
+    "passage": null
+  },
+  {
+    "id": 105,
+    "question": "Câu 105: Nguyên nhân chính mà nhóm hàng điện tử, máy tính và linh kiện của Việt Nam vẫn đang dừng ở giai đoạn đầu trong chuỗi sản xuất sản phẩm điện tử ?",
+    "image": null,
+    "options": ["A. chất lượng sản phẩm chưa đảm bảo, không có giá trị gia tăng", "B. thuế xuất - nhập khẩu linh kiện quá cao", "C. nhu cầu nhập khẩu của các nước trên thế giới giảm", "D. nguồn lao động không đáp ứng được yêu cầu về chất lượng."],
+    "correct": 0,
+    "explanation": "Do chưa hướng mạnh vào chế biến sâu, chưa phát triển sản phẩm xuất khẩu có hàm lượng công nghệ và chất xám cao, tỷ trọng sản phẩm chế biến, chế tạo có giá trị gia tăng cao còn thấp.",
+    "passage": "v-act_de40_cau105-107"
+  },
+  {
+    "id": 106,
+    "question": "Câu 106: Để giúp nhóm hàng điện tử, máy tính và linh kiện thực sự phát triển bền vững trong bối cảnh hội nhập của Việt Nam cần",
+    "image": null,
+    "options": ["A. hỗ trợ giảm giá thuế quan, bến bãi", "B. giải pháp hỗ trợ từ phía các cơ quan quản lý nhà nước và doanh nghiệp", "C. hỗ trợ định hướng các doanh nghiệp vào nghiên cứu", "D. tìm kiếm nguồn vốn đầu tư nước ngoài"],
+    "correct": 1,
+    "explanation": "Để giúp nhóm hàng điện tử, máy tính và linh kiện thực sự phát triển bền vững trong bối cảnh hội nhập của Việt Nam cần các giải pháp hỗ trợ từ phía các cơ quan quản lý nhà nước và doanh nghiệp.",
+    "passage": "v-act_de40_cau105-107"
+  },
+  {
+    "id": 107,
+    "question": "Câu 107: Việc thực hiện các giải pháp nhằm mở rộng thị trường trong nước và xuất khẩu sẽ giúp cho mặt hàng linh kiện điện tử",
+    "image": null,
+    "options": ["A. phát triển bền vững trong bối cảnh hội nhập", "B. tìm được bạn hàng nhập khẩu lâu dài", "C. giảm được nhiều kinh phí về bến bãi và thuế", "D. giúp thu hút nguồn vốn đầu tư và các doanh nghiệp"],
+    "correct": 0,
+    "explanation": "Việc thực hiện các giải pháp nhằm mở rộng thị trường trong nước và xuất khẩu sẽ giúp cho mặt hàng linh kiện điện tử phát triển bền vững trong bối cảnh hội nhập.",
+    "passage": "v-act_de40_cau105-107"
+  },
+  {
+    "id": 108,
+    "question": "Câu 108: Tại Châu Âu, nước nào là quốc gia phụ thuộc nhất vào nguồn cung năng lượng từ Nga?",
+    "image": null,
+    "options": ["A. Đức", "B. Pháp", "C. Tây Ban Nha", "D. Italya"],
+    "correct": 0,
+    "explanation": "Tại châu Âu, Đức là quốc gia phụ thuộc nhất vào nguồn cung năng lượng từ Nga.",
+    "passage": "v-act_de40_cau108-110"
+  },
+  {
+    "id": 109,
+    "question": "Câu 109: Nguồn cung cấp năng lượng của Pháp chủ yếu là",
+    "image": null,
+    "options": ["A. dầu mỏ, khí đốt.", "B. năng lượng hạt nhân.", "C. khí thiên nhiên sinh học.", "D. năng lượng tái tạo."],
+    "correct": 1,
+    "explanation": "Pháp chủ yếu dựa vào năng lượng hạt nhân, cung cấp khoảng 42% nhu cầu năng lượng của đất nước.",
+    "passage": "v-act_de40_cau108-110"
+  },
+  {
+    "id": 110,
+    "question": "Câu 110: Lý do nào không phải lý do chủ yếu khiến các nước châu Âu thực hiện giảm mức tiêu thụ năng lượng?",
+    "image": null,
+    "options": ["A. Nhiệt độ có xu hướng hạ thấp vào mùa đông.", "B. Nguồn cung cấp năng lượng trở nên khan hiếm.", "C. Mức tiêu thụ năng lượng đạt cao nhất", "D. Giá tiêu thụ dầu mỏ, khí đốt tăng cao"],
+    "correct": 2,
+    "explanation": "Nguồn cung cấp năng lượng để sản xuất điện tại các nước châu Âu chủ yếu phụ thuộc vào Nga. Đến nay, Moskva đã cắt một phần hoặc toàn bộ nguồn cung khí đốt cho 12 quốc gia thành viên châu Âu. Vì vậy, hiện nay các nước châu Âu đang phải đối mặt với vấn đề: nguồn cung cấp năng lượng trở nên khan hiếm hơn, đặc biệt với đặc điểm thời tiết mùa đông lạnh, thì nguồn năng lượng cung cấp cho việc sưởi ấm vào mùa đông trở nên quan trọng nhất. Ngoài ra, với sự khan hiếm của nguồn năng lượng thì dầu mỏ, khí đốt đã tăng giá rất cao.",
+    "passage": "v-act_de40_cau108-110"
+  },
+  {
+    "id": 111,
+    "question": "Câu 111: Giai cấp và tầng lớp nào mới xuất hiện trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897 – 1914)?",
+    "image": null,
+    "options": ["A. Tư sản dân tộc, tư sản mại bản và tiểu tư sản.", "B. Công nhân, địa chủ và địa chủ nhỏ.", "C. Công nhân, tư sản và tiểu tư sản.", "D. Tư sản và tiểu tư sản."],
+    "correct": 2,
+    "explanation": "Giai cấp và tầng lớp mới xuất hiện trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897-1914) là công nhân, tư sản và tiểu tư sản.",
+    "passage": null
+  },
+  {
+    "id": 112,
+    "question": "Câu 112: Đầu thế kỉ XX, nhà yêu nước Phan Châu Trinh chủ trương cứu nước bằng con đường cải cách chủ yếu bằng lí do nào?",
+    "image": null,
+    "options": ["A. Ông sớm tiếp thu những tư tưởng dân chủ tư sản truyền bá vào Việt Nam.", "B. Nhận thấy được việc cầu viện Nhật Bản của Phan Bội Châu là một sai lầm.", "C. Ông có thời gian sinh sống và tìm hiểu ở nước Pháp.", "D. Đã thấy các cuộc khởi nghĩa vũ trang giải phóng dân tộc trước đó thất bại."],
+    "correct": 0,
+    "explanation": "Đầu thế kỉ XX, nhà yêu nước Phan Châu Trinh chủ trương cứu nước bằng con đường cải cách chủ yếu bằng lí do sớm tiếp thu những tư tưởng dân chủ tư sản truyền bá vào Việt Nam.",
+    "passage": null
+  },
+  {
+    "id": 113,
+    "question": "Câu 113: Ý nào dưới đây không phản ánh đúng vai trò của Tổng thống Nenxon Madela đối với đất nước Nam Phi?",
+    "image": null,
+    "options": ["A. Đưa Nam Phi trở thành thành viên của EU.", "B. Đưa Nam Phi trở thành quốc gia độc lập.", "C. Cầu nối trong quốc tế hòa giải các dân tộc ở Nam Phi.", "D. Người lãnh đạo chống chủ nghĩa phân biệt chủng tộc."],
+    "correct": 0,
+    "explanation": "- Đáp án B, C, D phản ánh vai trò của Tổng thống Nenxon Madela. - Đáp án A đưa Nam Phi trở thành thành viên EU không đúng vì đây là tổ chức của Tây Âu.",
+    "passage": null
+  },
+  {
+    "id": 114,
+    "question": "Câu 114: Việt Nam có thể rút kinh nghiệm gì từ sự phát triển kinh tế của Nhật Bản sau Chiến tranh thế giới thứ hai để đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước?",
+    "image": null,
+    "options": ["A. Tận dụng tốt các yếu tố bên ngoài.", "B. Khai thác và sử dụng hợp lí nguồn tài nguyên.", "C. Tăng cường đẩy mạnh hợp tác với các nước khác.", "D. Chú trọng phát triển nguồn nhân lực có chất lượng, đạo đức tốt."],
+    "correct": 3,
+    "explanation": "Việt Nam có thể rút kinh nghiệm gì từ sự phát triển kinh tế của Nhật Bản sau Chiến tranh thế giới thứ hai để đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đó là chú trọng phát triển nguồn nhân lực, đạo đức tốt, cho thấy tầm quan trọng của giáo dục là quốc sách hàng đầu của mỗi quốc gia trong quá trình phát triển đất nước.",
+    "passage": null
+  },
+  {
+    "id": 115,
+    "question": "Câu 115: Phan Thanh Giản với vai trò là gì được triều đình cử đi đàm phán với Pháp?",
+    "image": null,
+    "options": ["A. Chánh sứ.", "B. Phó sứ.", "C. Đại sứ.", "D. Sứ giả."],
+    "correct": 0,
+    "explanation": "Phan Thanh Giản với vai trò là Chánh sứ và Lâm Duy Hiệp là Phó sứ được cử đi điều đình với Pháp, sau đó đại diện thay mặt cho triều đình Tự Đức ký kết Hoà ước tự do và hữu nghị : Hoà ước Nhâm Tuất ngày 5 tháng 6 năm 1862 tại Hồ Chí Minh.",
+    "passage": "v-act_de40_cau115-117"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116: Hòa ước Nhâm Tuất được kí khi nào?",
+    "image": null,
+    "options": ["A. Ngày 5-6-1862.", "B. Ngày 5-6-1863.", "C. Ngày 5-6-1864.", "D. Ngày 5-6-1865."],
+    "correct": 0,
+    "explanation": "Phan Thanh Giản với vai trò là Chánh sứ và Lâm Duy Hiệp là Phó sứ được cử đi điều đình với Pháp, sau đó đại diện thay mặt cho triều đình Tự Đức ký kết Hoà ước tự do và hữu nghị : Hoà ước Nhâm Tuất ngày 5 tháng 6 năm 1862 tại Hồ Chí Minh.",
+    "passage": "v-act_de40_cau115-117"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117: Triều đình Huế quyết định đổi 3 tỉnh Biên Hòa, Gia Định, Định Tường để lấy lại tỉnh nào?",
+    "image": null,
+    "options": ["A. Hà Nội.", "B. Huế.", "C. Đà Nẵng.", "D. Vĩnh Long."],
+    "correct": 3,
+    "explanation": "Hoà ước gồm 12 khoản, theo đó, 3 tỉnh Biên Hòa, Gia Định, Định Tường và hòn đảo Côn Lôn (Côn Đảo) được nhượng cho Pháp ( khoản 3 Hoà ước ) ; triều đình phải trả cho Pháp và Tây Ban Nha một khoản bồi thường chiến phí là 4 triệu piastre trong 10 năm, mỗi năm 400.000 đồng (quy ra bạc là 288 nghìn lạng – khoản 8 Hoà ước ) ; đổi lại, người Pháp sẽ trả lại tỉnh Vĩnh Long cho triều đình Huế, nhưng kèm theo điều kiện kèm theo là triều đình Huế phải có giải pháp chấm hết những cuộc khởi nghĩa chống lại người Pháp ở những tỉnh (khoản 11 Hoà ước).",
+    "passage": "v-act_de40_cau115-117"
+  },
+  {
+    "id": 118,
+    "question": "Câu 118: Nguyên nhân trực tiếp dẫn đến Chiến tranh thế giới thứ hai là gì?",
+    "image": null,
+    "options": ["A. Sự phát triển không đồng đều về kinh tế, chính trị giữa các nước tư bản.", "B. Trật tự Vecxai – Oasinhton không còn phù hợp.", "C. Hậu quả của khủng hoảng kinh tế thế giới (1929-1933).", "D. Mâu thuẫn về quyền lợi giữa các nước đế quốc chưa được giải quyết."],
+    "correct": 2,
+    "explanation": "Nguyên nhân trực tiếp của Chiến tranh thế giới thứ hai là cuộc khủng hoảng kinh tế thế giới 1929-1933 làm những mâu thuẫn trên thêm sâu sắc, dẫn tới việc lên cầm quyền của chủ nghĩa phát xít ở một số nước với ý đồ gây chiến tranh để phân chia lại thế giới.",
+    "passage": "v-act_de40_cau118-120"
+  },
+  {
+    "id": 119,
+    "question": "Câu 119: Nguyên nhân sâu xa dẫn đến Chiến tranh thế giới thứ hai là gì?",
+    "image": null,
+    "options": ["A. Mâu thuẫn gay gắt giữa phe Đồng minh và phe phát xít.", "B. Quy luật phát triển không đồng đều của chủ nghĩa tư bản.", "C. Chính sách theo chủ nghĩa biệt lập của Mỹ và Anh.", "D. Các thế lực phát xít lên cầm quyền ở một số nước Âu."],
+    "correct": 1,
+    "explanation": "B chọn vì nguyên nhân sâu xa dẫn đến bùng nổ cuộc Chiến tranh thế giới thứ hai (1939 – 1945) là do quy luật phát triển không đồng đều của chủ nghĩa tư bản. Sự phát triển không đồng đều về kinh tế, chính trị, sự mất cân bằng trong hệ thống thuộc địa giữa các nước đế quốc. sự mất cân bằng đó khiến cho hệ thống Vécxai – Oasinhtơn không còn phù hợp nữa. –> Chiến tranh thế giới thứ hai nổ ra để giải quyết những mâu thuẫn trên.",
+    "passage": "v-act_de40_cau118-120"
+  },
+  {
+    "id": 120,
+    "question": "Câu 120: Thủ phạm gây ra cuộc chiến tranh thế giới thứ hai là",
+    "image": null,
+    "options": ["A. Đức, Nhật Bản, Italia.", "B. Mĩ, Tây Âu, Nhật Bản.", "C. Đức, Áo, Hung.", "D. Nhật Bản, Thái Lan, Đức."],
+    "correct": 0,
+    "explanation": "Thủ phạm gây chiến là phát xít Đức, quân phiệt Nhật Bản và phát xít Italia. Nhưng các cường quốc phương Tây, do chính sách hai mặt của họ, đã tạo điều kiện cho phe phát xít ra cuộc Chiến tranh thế giới thứ hai tàn sát nhân loại.",
+    "passage": "v-act_de40_cau118-120"
+  }
+]
