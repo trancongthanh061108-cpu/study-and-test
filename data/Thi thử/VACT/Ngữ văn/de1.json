@@ -142,7 +142,7 @@
     "options": ["A. Thuyết minh.", "B. Miêu tả.", "C. Tự sự.", "D. Nghị luận"],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_van_de3_cau16-20"
+    "passage": "v-act_van_de1_cau16-20"
   },
   {
     "id": 17,
@@ -151,7 +151,7 @@
     "options": ["A. Hình nhân bị gãy làm đôi và phù thuật không còn linh nghiệm nữa.", "B. Thầy phù thủy cần tiến hành làm hình nhân mới để tiếp tục làm phép.", "C. Con người mà hình nhân được gán tính mạng sẽ chết ngay tức khắc.", "D. Người đại diện cho hình nhân đã sẽ chết trong thời gian rất ngắn."],
     "correct": 3,
     "explanation": "",
-    "passage": "v-act_van_de3_cau16-20"
+    "passage": "v-act_van_de1_cau16-20"
   },
   {
     "id": 18,
@@ -160,7 +160,7 @@
     "options": ["A. Tạo một sự liên kết về hình thức giữa đối tượng và hình nhân.", "B. Hình nhân phải mang toàn bộ những giá trị của người đối tượng.", "C. Gán cho một vật những đặc trưng cụ thể dù nó không liên quan tới tổng thể.", "D. Hành động phù phép phải đảm bảo tính liên tục."],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_van_de3_cau16-20"
+    "passage": "v-act_van_de1_cau16-20"
   },
   {
     "id": 19,
@@ -169,7 +169,7 @@
     "options": ["A. Những người thợ mộc nếu muốn hại chủ nhà thường đặt hình nộm ở một số chỗ.", "B. Tính cách của người chủ nhà có thể bị thay đổi do người thợ xây dùng thuật.", "C. Người Bắc Kỳ, có thể tạo nên đau đớn cho người họ ghét thông qua một hình nhân.", "D. Người ta cần làm nhà không có ống khói để tránh những lục đục trong nhà."],
     "correct": 3,
     "explanation": "",
-    "passage": "v-act_van_de3_cau16-20"
+    "passage": "v-act_van_de1_cau16-20"
   },
   {
     "id": 20,
@@ -178,6 +178,6 @@
     "options": ["A. Từ sự ác ý của một vài người đặt cho gia đình họ.", "B. Từ việc xây dựng nhà không quan tâm tới phong thủy.", "C. Từ việc không tin vào những bùa thuật nên bị ma quỷ quấy phá.", "D. Từ việc các thành viên không nhận thức đầy đủ về vai trò cá nhân."],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_van_de3_cau16-20"
+    "passage": "v-act_van_de1_cau16-20"
   }
 ]
