@@ -604,9 +604,9 @@ function switchTab(tab) {
   if (tab === "admin" && isAdmin()) renderAdminPanel();
 }
 
-let currentKyThi = "hsa";
+let currentKyThi = "dgnl";
 const KY_THI_META = {
-  hsa: { title: "HSA", subjects: ["Tư duy định lượng", "Tư duy định tính", "Tiếng Anh", "Khoa học"] },
+  dgnl: { title: "HSA", subjects: ["Tư duy định lượng", "Tư duy định tính", "Tiếng Anh", "Khoa học"] },
   thpt: { title: "THPT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
   tsa: { title: "TSA", subjects: ["Tư duy Toán học", "Tư duy Đọc hiểu", "Tư duy Khoa học"] },
   vact: { title: "VACT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Tư duy Khoa học"] }
@@ -666,7 +666,7 @@ function _renderExamList(type) {
   tbody.innerHTML = "";
 
   // Lọc theo kỳ thi trước (mặc định "dgnl" nếu đề chưa gán kyThi, để tương thích đề cũ)
-  const examsOfKyThi = sampleExams.filter(e => (e.kyThi || "hsa") === currentKyThi);
+  const examsOfKyThi = sampleExams.filter(e => (e.kyThi || "dgnl") === currentKyThi);
 
   if (examsOfKyThi.length === 0) {
     tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
