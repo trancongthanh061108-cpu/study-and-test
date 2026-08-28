@@ -131,11 +131,7 @@ const ACCOUNTS = {
 "Thiennhan": {password: "Nhan2710@", fullname: "Đỗ Nguyễn Thiện Nhân"},
 "quocanha1": {password: "12345", fullname: "Quốc Anh"},
 "thanhtran": { password: "123456", fullname: "Trần Công Thành"},
-"admin": { password: "admin123", fullname: "Quản trị viên"},
-"hocsinh1": { password: "123456", fullname: "Học sinh Demo"},
-"hocsinh2": { password: "123456", fullname: "Học sinh Demo"},
-"hocsinh3": { password: "123456", fullname: "Học sinh Demo"}
-
+"admin": { password: "admin123", fullname: "Quản trị viên"}
 };
 
 let currentUser = null;
