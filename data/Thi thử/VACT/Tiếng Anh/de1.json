@@ -151,7 +151,7 @@
     "options": ["A. Types of drinks.", "B. Types of water.", "C. Types of filters.", "D. Types of beverages."],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_deanh1_cau36-40"
+    "passage": "v-act_de1_cau36-40"
   },
   {
     "id": 38,
@@ -160,7 +160,7 @@
     "options": ["A. They are not thirsty.", "B. They are not aware of the need.", "C. They prefer other beverages.", "D. Both A and B."],
     "correct": 3,
     "explanation": "Một số người không uống đủ nước hàng ngày vì không thấy khát và thiếu nhận thức về sự cần thiết, cả hai lý do này đều được đề cập trong đoạn văn.",
-    "passage": "v-act_deanh1_cau36-40"
+    "passage": "v-act_de1_cau36-40"
   },
   {
     "id": 39,
@@ -169,7 +169,7 @@
     "options": ["A. It contains many calories.", "B. It improves skin health.", "C. It hinders digestion.", "D. It helps with sleep."],
     "correct": 1,
     "explanation": "Uống nước giúp cải thiện sức khỏe làn da là một trong những lợi ích được nhắc đến trong đoạn 4.",
-    "passage": "v-act_deanh1_cau36-40"
+    "passage": "v-act_de1_cau36-40"
   },
   {
     "id": 40,
@@ -178,6 +178,6 @@
     "options": ["A. It should be from a reliable source.", "B. It should be bottled water.", "C. It should have no calories.", "D. It should be from tap water."],
     "correct": 0,
     "explanation": "Đoạn văn nhấn mạnh rằng cần đảm bảo nguồn nước uống phải đáng tin cậy để tránh nguy cơ nhiễm bệnh.",
-    "passage": "v-act_deanh1_cau36-40"
+    "passage": "v-act_de1_cau36-40"
   }
 ]
