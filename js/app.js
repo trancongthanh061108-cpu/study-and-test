@@ -607,7 +607,7 @@ function switchTab(tab) {
 let currentKyThi = "dgnl";
 const KY_THI_META = {
   dgnl: { title: "HSA", subjects: ["Tư duy định lượng", "Tư duy định tính", "Tiếng Anh", "Khoa học"] },
-  thpt: { title: "THPT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
+  tn thpt: { title: "THPT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
   tsa: { title: "TSA", subjects: ["Tư duy Toán học", "Tư duy Đọc hiểu", "Tư duy Khoa học"] },
   vact: { title: "VACT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Tư duy Khoa học"] }
 };
