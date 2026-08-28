@@ -142,7 +142,7 @@
     "options": ["A. The decline of reading habits.", "B. The benefits of reading books.", "C. The impact of technology on reading.", "D. The importance of reading for children."],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_deanh2_cau36-40"
+    "passage": "v-act_anh_de2_cau36-40"
   },
   {
     "id": 37,
@@ -151,7 +151,7 @@
     "options": ["A. The lack of interesting books.", "B. The convenience of electronic devices.", "C. The high cost of books.", "D. The poor quality of modern books."],
     "correct": 1,
     "explanation": "Trong đoạn 2, đoạn văn đề cập đến sự tiện lợi của các thiết bị điện tử như một lý do khiến thói quen đọc sách giảm.",
-    "passage": "v-act_deanh2_cau36-40"
+    "passage": "v-act_anh_de2_cau36-40"
   },
   {
     "id": 38,
@@ -160,7 +160,7 @@
     "options": ["A. Something necessary.", "B. Something expensive.", "C. Something enjoyable but not essential.", "D. Something rare."],
     "correct": 2,
     "explanation": "Từ \"luxury\" trong ngữ cảnh này có nghĩa là một thứ gì đó thú vị nhưng không thiết yếu, tức là một cái gì đó mà mọi người cảm thấy thích thú nhưng không cần thiết phải có.",
-    "passage": "v-act_deanh2_cau36-40"
+    "passage": "v-act_anh_de2_cau36-40"
   },
   {
     "id": 39,
@@ -169,7 +169,7 @@
     "options": ["A. Limit the use of electronic devices.", "B. Provide a variety of books.", "C. Emphasize the importance of reading.", "D. All of the above."],
     "correct": 3,
     "explanation": "Đoạn văn đề cập đến tất cả các phương pháp: cung cấp sách, tạo môi trường đọc, và làm gương cho trẻ em, vì vậy D là đáp án đúng.",
-    "passage": "v-act_deanh2_cau36-40"
+    "passage": "v-act_anh_de2_cau36-40"
   },
   {
     "id": 40,
@@ -178,6 +178,6 @@
     "options": ["A. It is less valuable than in the past.", "B. It competes with other forms of media.", "C. It is only for those with a lot of free time.", "D. It is becoming obsolete."],
     "correct": 1,
     "explanation": "Đoạn văn ngụ ý rằng trong thời đại kỹ thuật số, việc đọc sách phải cạnh tranh với các hình thức giải trí khác như mạng xã hội và video. Vì vậy, đáp án B là chính xác.",
-    "passage": "v-act_deanh2_cau36-40"
+    "passage": "v-act_anh_de2_cau36-40"
   }
 ]
