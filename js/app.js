@@ -604,12 +604,12 @@ function switchTab(tab) {
   if (tab === "admin" && isAdmin()) renderAdminPanel();
 }
 
-let currentKyThi = "dgnl";
+let currentKyThi = "hsa";
 const KY_THI_META = {
-  dgnl: { title: "HSA", subjects: ["Toán học", "Ngữ văn", "Tiếng anh", "Khoa học"] },
-  tnthpt: { title: "TN THPT", subjects: ["Toán", "Ngữ văn", "Tiếng anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
-  tsa: { title: "TSA", subjects: ["Toán", "Đọc hiểu", "Khoa học"] },
-  vact: { title: "VACT", subjects: ["Đề thi","Toán", "Ngữ văn", "Tiếng anh", "Khoa học tự nhiên"] }
+  hsa: { title: "HSA", subjects: ["Tư duy định lượng", "Tư duy định tính", "Tiếng Anh", "Khoa học"] },
+  thpt: { title: "THPT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Vật lý", "Hóa học", "Sinh học", "Lịch sử", "Địa lý"] },
+  tsa: { title: "TSA", subjects: ["Tư duy Toán học", "Tư duy Đọc hiểu", "Tư duy Khoa học"] },
+  vact: { title: "VACT", subjects: ["Toán học", "Ngữ văn", "Tiếng Anh", "Tư duy Khoa học"] }
 };
 
 function selectKyThi(ky) {
@@ -624,12 +624,11 @@ function selectKyThi(ky) {
   const subWrap = document.getElementById("thithu-subjects");
   subWrap.innerHTML = "";
   const icons = {
-    "Đề thi":"fa-file-signature",
-    "Toán học": "fa-calculator", "Toán": "fa-calculator",
-    "Ngữ văn": "fa-book-open", "Tiếng anh": "fa-language", "Tiếng Anh": "fa-language",
-    "Khoa học": "fa-atom", "Khoa học tự nhiên": "fa-atom",
-    "Vật lý": "fa-bolt", "Hóa học": "fa-flask", "Sinh học": "fa-dna",
-    "Lịch sử": "fa-landmark", "Địa lý": "fa-globe", "Đọc hiểu": "fa-book-reader"
+    "Tư duy Khoa học": "fa-atom","Tư duy Toán học": "fa-calculator","Tư duy Đọc hiểu": "fa-book-open",
+    
+    "Tư duy định lượng": "fa-calculator","Tư duy định tính": "fa-book-open","Khoa học": "fa-atom",
+    
+    "Toán học": "fa-calculator","Ngữ văn": "fa-book-open","Tiếng Anh": "fa-language","Vật lý": "fa-bolt", "Hóa học": "fa-flask", "Sinh học": "fa-dna","Lịch sử": "fa-landmark", "Địa lý": "fa-globe"
   };
   const colors = ["#3b82f6","#f59e0b","#10b981","#ec4899","#8b5cf6","#06b6d4","#ef4444","#84cc16"];
   meta.subjects.forEach((s, i) => {
@@ -667,7 +666,7 @@ function _renderExamList(type) {
   tbody.innerHTML = "";
 
   // Lọc theo kỳ thi trước (mặc định "dgnl" nếu đề chưa gán kyThi, để tương thích đề cũ)
-  const examsOfKyThi = sampleExams.filter(e => (e.kyThi || "dgnl") === currentKyThi);
+  const examsOfKyThi = sampleExams.filter(e => (e.kyThi || "hsa") === currentKyThi);
 
   if (examsOfKyThi.length === 0) {
     tbody.innerHTML = `<tr><td colspan="4" style="text-align:center; color:var(--text-muted); padding:28px;">
@@ -684,9 +683,10 @@ function _renderExamList(type) {
   }
   filtered.forEach(e => {
     const freeIds = [
-      "vact_toan_1","vact_van_1",
+      "vact_toan_1",
+      "vact_van_1",
       "vact_anh_1","vact_anh_2","vact_anh_3",
-      "vact_de_1","vact_de_2","vact_de_3",
+      
       'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
       'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
       'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
@@ -1663,8 +1663,9 @@ function clickStartExam(id) {
 
   const freeIds = [
     "vact_anh_1","vact_anh_2","vact_anh_3",
-    "vact_toan_1","vact_van_1",
-    "vact_de_1","vact_de_2","vact_de_3",
+    "vact_toan_1",
+    "vact_van_1",
+
     'hsa_kh_1','hsa_kh_2','hsa_kh_3','hsa_kh_h',
     'hsa_toan_1', 'hsa_toan_2', 'hsa_toan_3',
     'hsa_van_1', 'hsa_van_2', 'hsa_van_3',
