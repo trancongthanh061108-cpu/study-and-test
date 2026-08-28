@@ -115,7 +115,7 @@
     "options": ["A. x - 2y - z - 5 = 0", "B. x - 2y - z + 5 = 0", "C. x - 2y - z - 13 = 0", "D. x - 2y - z + 13 = 0"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_de1_cau73-74"
+    "passage": "v-act_toan_de1_cau73-74"
   },
   {
     "id": 74,
@@ -124,7 +124,7 @@
     "options": ["A. 6", "B. 5", "C. 8", "D. 7"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_de1_cau73-74"
+    "passage": "v-act_toan_de1_cau73-74"
   },
   {
     "id": 75,
@@ -133,7 +133,7 @@
     "options": ["A. S = 3/4, q = 1/2", "B. S = 3/4, q = 1/3", "C. S = 4/3, q = 1/2", "D. S = 4/3, q = 1/3"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau75-76"
+    "passage": "v-act_toan_de1_cau75-76"
   },
   {
     "id": 76,
@@ -142,7 +142,7 @@
     "options": ["A. 1/2", "B. 1/3", "C. 2/3", "D. 1"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau75-76"
+    "passage": "v-act_toan_de1_cau75-76"
   },
   {
     "id": 77,
@@ -151,7 +151,7 @@
     "options": ["A. 4x + 3y", "B. 3x + 4y", "C. 4x + 3y = 1200000", "D. 3x + 4y = 1200000"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau77-78"
+    "passage": "v-act_toan_de1_cau77-78"
   },
   {
     "id": 78,
@@ -160,7 +160,7 @@
     "options": ["A. 4 xe loại A, 5 xe loại B", "B. 5 xe loại A, 4 xe loại B", "C. 10 xe loại A, 2 xe loại B", "D. 10 xe loại A, 9 xe loại B"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau77-78"
+    "passage": "v-act_toan_de1_cau77-78"
   },
   {
     "id": 79,
@@ -169,7 +169,7 @@
     "options": ["A. (0;2)", "B. (0;0)", "C. (1;1)", "D. (2;3)"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau79-81"
+    "passage": "v-act_toan_de1_cau79-81"
   },
   {
     "id": 80,
@@ -178,7 +178,7 @@
     "options": ["A. 4,8", "B. 5,1", "C. 3,7", "D. 4,2"],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_detoan1_cau79-81"
+    "passage": "v-act_toan_de1_cau79-81"
   },
   {
     "id": 81,
@@ -187,7 +187,7 @@
     "options": ["A. 2", "B. –3", "C. 4", "D. –1"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau79-81"
+    "passage": "v-act_toan_de1_cau79-81"
   },
   {
     "id": 82,
@@ -196,7 +196,7 @@
     "options": ["A. 0,0125", "B. 0,0625", "C. 0,015", "D. 0,05"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau82-84"
+    "passage": "v-act_toan_de1_cau82-84"
   },
   {
     "id": 83,
@@ -205,7 +205,7 @@
     "options": ["A. 0,1289", "B. 0,0039", "C. 0,1211", "D. 0,1213"],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_detoan1_cau82-84"
+    "passage": "v-act_toan_de1_cau82-84"
   },
   {
     "id": 84,
@@ -214,7 +214,7 @@
     "options": ["A. 0,059", "B. 0,0474", "C. 0,0118", "D. 0,0237"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau82-84"
+    "passage": "v-act_toan_de1_cau82-84"
   },
   {
     "id": 86,
@@ -223,7 +223,7 @@
     "options": ["A. 57,16°", "B. 24,09°", "C. 37,76°", "D. 32,31°"],
     "correct": 3,
     "explanation": "",
-    "passage": "v-act_detoan1_cau86-87"
+    "passage": "v-act_toan_de1_cau86-87"
   },
   {
     "id": 87,
@@ -232,7 +232,7 @@
     "options": ["A. 3√a", "B. √10 a", "C. √6 a", "D. √15 a"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau86-87"
+    "passage": "v-act_toan_de1_cau86-87"
   },
   {
     "id": 88,
@@ -241,7 +241,7 @@
     "options": ["A. Hàm số nghịch biến trên (-∞ ; -1) và (-1; +∞)", "B. Hàm số nghịch biến trên (-∞ ; -1) ∪ (-1; +∞)", "C. Hàm số đồng biến trên (-∞ ; -1) và (-1; +∞)", "D. Hàm số đồng biến trên (-∞ ; -1) ∪ (-1; +∞)"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau88-90"
+    "passage": "v-act_toan_de1_cau88-90"
   },
   {
     "id": 89,
@@ -250,7 +250,7 @@
     "options": ["A. 5/√3", "B. 2√5", "C. 3√2", "D. 7"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau88-90"
+    "passage": "v-act_toan_de1_cau88-90"
   },
   {
     "id": 90,
@@ -259,7 +259,7 @@
     "options": ["A. -1", "B. -3", "C. -2", "D. 2"],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_detoan1_cau88-90"
+    "passage": "v-act_toan_de1_cau88-90"
   },
   {
     "id": 91,
@@ -268,7 +268,7 @@
     "options": ["A. FLGKJH", "B. HJGLKF", "C. FGKJHL", "D. JGLHKF"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau91-93"
+    "passage": "v-act_toan_de1_cau91-93"
   },
   {
     "id": 92,
@@ -277,7 +277,7 @@
     "options": ["A. J khám lúc 08h00", "B. L khám lúc 08h00", "C. H khám lúc 09h30", "D. J khám lúc 10h00"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau91-93"
+    "passage": "v-act_toan_de1_cau91-93"
   },
   {
     "id": 93,
@@ -286,7 +286,7 @@
     "options": ["A. H khám lúc 09h00", "B. G khám lúc 10h00", "C. J khám lúc 08h30", "D. H khám lúc 10h30"],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_detoan1_cau91-93"
+    "passage": "v-act_toan_de1_cau91-93"
   },
   {
     "id": 94,
@@ -295,7 +295,7 @@
     "options": ["A. M, C, P", "B. A, M, P", "C. M, N, P", "D. B, N, D"],
     "correct": 0,
     "explanation": "",
-    "passage": "v-act_detoan1_cau94-96"
+    "passage": "v-act_toan_de1_cau94-96"
   },
   {
     "id": 95,
@@ -304,7 +304,7 @@
     "options": ["A. C, P", "B. M, D", "C. A, P", "D. B, D"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau94-96"
+    "passage": "v-act_toan_de1_cau94-96"
   },
   {
     "id": 96,
@@ -313,6 +313,6 @@
     "options": ["A. A, N, D", "B. A, N, C", "C. B, M, N", "D. B, M, C"],
     "correct": 1,
     "explanation": "",
-    "passage": "v-act_detoan1_cau94-96"
+    "passage": "v-act_toan_de1_cau94-96"
   }
 ]
