@@ -2,28 +2,28 @@
   {
     "id": "vact_toan_1",
     "type": "Toán học",
-    "name": "V-ACT - TOÁN HỌC 1",
+    "name": "V-ACT - TOÁN HỌC ĐỀ 1",
     "time": 50,
     "questions": 36, "kyThi": "vact"
   },
   {
     "id": "vact_van_1",
     "type": "Ngữ văn",
-    "name": "V-ACT - NGỮ VĂN 1",
+    "name": "V-ACT - NGỮ VĂN ĐỀ 1",
     "time": 30,
     "questions": 20, "kyThi": "vact"
   },
   {
     "id": "vact_anh_1",
     "type": "Tiếng Anh",
-    "name": "V-ACT - TIẾNG ANH 1",
+    "name": "V-ACT - TIẾNG ANH ĐỀ 1",
     "time": 30,
     "questions": 20, "kyThi": "vact"
   },
   {
     "id": "vact_anh_2",
     "type": "Tiếng Anh",
-    "name": "V-ACT - TIẾNG ANH 2",
+    "name": "V-ACT - TIẾNG ANH ĐỀ 2",
     "time": 30,
     "questions": 20, "kyThi": "vact"
   },
@@ -55,37 +55,37 @@
   {
     "id": "hsa_toan_1",
     "type": "Tư duy định lượng",
-    "name": "HSA - TOÁN HỌC ĐỀ 1",
+    "name": "HSA - TƯ DUY ĐỊNH TÍNH ĐỀ 1",
     "time": 75, "kyThi": "hsa"
   },
   {
     "id": "hsa_toan_2",
     "type": "Tư duy định lượng",
-    "name": "HSA TOÁN - ĐỀ 2",
+    "name": "HSA - TƯ DUY ĐỊNH TÍNH ĐỀ 2",
     "time": 75, "kyThi": "hsa"
   },
   {
     "id": "hsa_toan_3",
     "type": "Tư duy định lượng",
-    "name": "HSA TOÁN - ĐỀ 3",
+    "name": "HSA - TƯ DUY ĐỊNH TÍNH - ĐỀ 3",
     "time": 75, "kyThi": "hsa"
   },
   {
     "id": "hsa_van_1",
     "type": "Tư duy định tính",
-    "name": "HSA - NGỮ VĂN ĐỀ 1",
+    "name": "HSA - TƯ DUY ĐỊNH LƯỢNG ĐỀ 1",
     "time": 60, "kyThi": "hsa"
   },
   {
     "id": "hsa_van_2",
     "type": "Tư duy định tính",
-    "name": "HSA - NGỮ VĂN ĐỀ 2",
+    "name": "HSA - TƯ DUY ĐỊNH LƯỢNG ĐỀ 2",
     "time": 60, "kyThi": "hsa"
   },
   {
     "id": "hsa_van_3",
     "type": "Tư duy định tính",
-    "name": "HSA - NGỮ VĂN ĐỀ 3",
+    "name": "HSA - TƯ DUY ĐỊNH LƯỢNG ĐỀ 3",
     "time": 60, "kyThi": "hsa"
   }
 ]
