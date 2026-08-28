@@ -141,7 +141,7 @@
     "options": ["A. The role of renewable energy in sustainable development.", "B. The importance of balancing economic growth with social equity.", "C. The challenges and benefits of sustainable development.", "D. The impact of fossil fuels on the environment."],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_deanh3_cau36-40"
+    "passage": "v-act_anh_de3_cau36-40"
   },
   {
     "id": 37,
@@ -150,7 +150,7 @@
     "options": ["A. Fossil fuels are becoming too expensive to use.", "B. Renewable energy is the only source that can sustain global energy needs.", "C. Fossil fuels are finite and harmful to the environment.", "D. Renewable energy can create more jobs than fossil fuel industries."],
     "correct": 2,
     "explanation": "",
-    "passage": "v-act_deanh3_cau36-40"
+    "passage": "v-act_anh_de3_cau36-40"
   },
   {
     "id": 38,
@@ -159,7 +159,7 @@
     "options": ["A. The abundance of fossil fuel resources.", "B. The low efficiency of renewable energy sources.", "C. The high initial costs of infrastructure.", "D. The immediate availability of renewable energy."],
     "correct": 2,
     "explanation": "Đoạn 3 đề cập đến chi phí ban đầu cao của cơ sở hạ tầng là một thách thức, vì vậy đáp án C là chính xác.",
-    "passage": "v-act_deanh3_cau36-40"
+    "passage": "v-act_anh_de3_cau36-40"
   },
   {
     "id": 39,
@@ -168,7 +168,7 @@
     "options": ["A. Fairness", "B. Wealth", "C. Power", "D. Growth"],
     "correct": 0,
     "explanation": "\"equity\" có nghĩa là công bằng trong ngữ cảnh này, vì vậy đáp án A là đúng.",
-    "passage": "v-act_deanh3_cau36-40"
+    "passage": "v-act_anh_de3_cau36-40"
   },
   {
     "id": 40,
@@ -177,6 +177,6 @@
     "options": ["A. Reducing the use of renewable energy.", "B. Ignoring the economic impact on fossil fuel industries.", "C. Ensuring equitable distribution of resources and opportunities.", "D. Accelerating economic growth at all costs."],
     "correct": 2,
     "explanation": "Để đạt được phát triển bền vững, cần đảm bảo phân phối công bằng các tài nguyên và cơ hội, vì vậy đáp án C là chính xác.",
-    "passage": "v-act_deanh3_cau36-40"
+    "passage": "v-act_anh_de3_cau36-40"
   }
 ]
