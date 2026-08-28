@@ -130,7 +130,6 @@ function startPresenceListener() {
 const ACCOUNTS = {
 "Thiennhan": {password: "Nhan2710@", fullname: "Đỗ Nguyễn Thiện Nhân"},
 "quocanha1": {password: "12345", fullname: "Quốc Anh"},
-"thanhtran": { password: "123456", fullname: "Trần Công Thành"},
 "admin": { password: "admin123", fullname: "Quản trị viên"}
 };
 
@@ -547,7 +546,7 @@ function loadExtraAccounts() {
 
 function saveExtraAccounts() {
   // Chỉ lưu các tài khoản không nằm trong bản gốc cứng
-  const base = ["thanhtran", "admin", "hocsinh", "student"];
+  const base = ["admin", "Thiennhan", "quocanha1"];
   const extra = {};
   Object.keys(ACCOUNTS).forEach(u => {
     if (!base.includes(u)) extra[u] = ACCOUNTS[u];
@@ -719,10 +718,10 @@ function showTailieuSection(sec) {
     ? `<p style="margin-bottom:12px;"><span class="news-tag tag-info">Lớp ${cls}</span> Tài liệu được đề xuất theo chương trình lớp ${cls}.</p>`
     : `<p style="margin-bottom:12px; color:var(--text-muted); font-size:13px;"><i class="fa-solid fa-info-circle"></i> Chọn lớp ở trên để lọc nội dung phù hợp hơn.</p>`;
   if (sec === "sgk") {
-    body.innerHTML = clsNote + `<p>Mục <b>Kiến thức SGK</b> sẽ chứa tóm tắt lý thuyết theo chương trình sách giáo khoa các môn Toán, Văn, Anh, Khoa học...</p>
+    body.innerHTML = clsNote + `<p>Mục <b>SGK</b></p>
       <p style="margin-top:12px; color:var(--warning-color);"><i class="fa-solid fa-clock"></i> Nội dung đang được biên soạn và sẽ cập nhật sớm.</p>`;
   } else {
-    body.innerHTML = clsNote + `<p>Mục <b>Bài tập</b> sẽ chứa các chuyên đề luyện tập, bài tập có lời giải theo từng kỳ thi.</p>
+    body.innerHTML = clsNote + `<p>Mục <b>Bài tập</b></p>
       <p style="margin-top:12px; color:var(--warning-color);"><i class="fa-solid fa-clock"></i> Nội dung đang được biên soạn và sẽ cập nhật sớm.</p>`;
   }
 }
